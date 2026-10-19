@@ -1,0 +1,1007 @@
+id: a2-03
+level: A2
+title: "El present i l'obligació"
+summary: "El present d'indicatiu (regulars, incoatius i irregulars freqüents) i l'obligació amb *haver de* i *cal*."
+vocabulary_theme: "Rutina diària i hores"
+points:
+  - id: present-regular
+    title: "El present: verbs regulars i incoatius"
+    refs:
+      - label: "GEIEC: El verb. Formes verbals"
+        url: "https://geiec.iec.cat"
+  - id: present-irregular
+    title: "El present: verbs irregulars freqüents"
+    refs:
+      - label: "GEIEC: El verb. Formes verbals"
+        url: "https://geiec.iec.cat"
+  - id: haver-de-cal
+    title: "L'obligació: *haver de* i *cal*"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *tenir que* i *hi ha que*"
+  - id: expressions
+    title: "Expressions de la rutina"
+lessons:
+  - title: "Conèixer el present"
+  - title: "Practicar el present"
+  - title: "L'obligació i els calcs"
+  - title: "Produir frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el despertador"
+    definition: "Rellotge que sona a l'hora que has triat per llevar-te."
+    example: "El despertador sona a les set, però jo em llevo a dos quarts de vuit."
+  - word: "llevar-se"
+    definition: "Sortir del llit al matí."
+    example: "Els dies de feina em llevo a les sis."
+  - word: "dutxar-se"
+    definition: "Rentar-se el cos sota la dutxa."
+    example: "Quan torno del gimnàs, em dutxo i sopo."
+  - word: "esmorzar"
+    definition: "Menjar alguna cosa al matí."
+    example: "Esmorzo una torrada i un cafè amb llet."
+  - word: "dinar"
+    definition: "Menjar al migdia."
+    example: "Dinem a la una al menjador de l'empresa."
+  - word: "sopar"
+    definition: "Menjar al vespre o a la nit."
+    example: "Divendres sopem a casa dels meus sogres."
+  - word: "la migdiada"
+    definition: "Estona de son després de dinar."
+    example: "L'avi fa una migdiada d'una hora cada dia."
+  - word: "l'horari"
+    definition: "Les hores en què algú treballa o obre una botiga."
+    example: "L'horari de la farmàcia és de nou a nou."
+  - word: "el torn"
+    definition: "Part del dia en què treballa una persona o un grup."
+    example: "La Laia fa el torn de nit aquesta setmana."
+  - word: "la reunió"
+    definition: "Trobada de diverses persones per parlar de la feina."
+    example: "La reunió comença a les nou en punt."
+  - word: "plegar"
+    definition: "Acabar la feina del dia."
+    example: "Divendres plego a les tres."
+  - word: "afanyar-se"
+    definition: "Fer una cosa més de pressa."
+    example: "Afanya't, que el bus surt d'aquí a cinc minuts."
+  - word: "arribar"
+    definition: "Ser en un lloc després d'haver-hi anat."
+    example: "Arribo a la feina a les vuit."
+  - word: "sortir"
+    definition: "Marxar d'un lloc, com ara de casa o de la feina."
+    example: "Surto de casa a dos quarts de vuit."
+  - word: "quedar"
+    definition: "Posar-se d'acord amb algú per veure's."
+    example: "Quedem a la plaça a les set."
+  - word: "l'agenda"
+    definition: "Llibre o aplicació on apuntes les cites i les tasques."
+    example: "Apunto la reunió a l'agenda."
+  - word: "la cita"
+    definition: "Hora fixada per veure un metge o una altra persona."
+    example: "Dijous tinc cita amb el dentista."
+  - word: "tard"
+    definition: "Després de l'hora prevista."
+    example: "Avui arribo tard perquè hi ha vaga de trens."
+  - word: "d'hora"
+    definition: "Abans de l'hora normal."
+    example: "Els diumenges no em llevo d'hora."
+  - word: "puntual"
+    definition: "Que arriba a l'hora prevista."
+    example: "La Carla sempre és puntual."
+  - word: "el cap de setmana"
+    definition: "Els dissabtes i els diumenges."
+    example: "El cap de setmana vaig a Vic a veure els pares."
+  - word: "la fleca"
+    definition: "Botiga on es ven pa."
+    example: "Compro el pa a la fleca del barri."
+  - word: "la pastisseria"
+    definition: "Botiga on es venen pastissos i dolços."
+    example: "La pastisseria obre a les vuit del matí."
+  - word: "el forn"
+    definition: "Aparell o lloc on es couen el pa i els pastissos."
+    example: "El pa surt del forn a les set."
+  - word: "el portàtil"
+    definition: "Ordinador petit que es pot portar d'un lloc a un altre."
+    example: "Demà porto el portàtil a la reunió."
+  - word: "el contracte"
+    definition: "Paper que signes quan comences una feina."
+    example: "El contracte ha d'estar signat abans de dilluns."
+  - word: "renovar"
+    definition: "Fer vàlid un document una altra vegada."
+    example: "Per renovar el DNI cal demanar hora."
+  - word: "fer festa"
+    definition: "No treballar un dia."
+    example: "El primer de maig tothom fa festa."
+  - word: "el menú del dia"
+    definition: "Dinar de preu fix, amb primer plat, segon i postres."
+    example: "El menú del dia val deu euros."
+  - word: "la vaga"
+    definition: "Aturada de la feina per demanar millores."
+    example: "Avui hi ha vaga de trens."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-03-001
+    type: choice
+    point: present-regular
+    lesson: 1
+    prompt: "En Pau ___ en una farmàcia de Reus."
+    answer: "treballa"
+    distractors:
+      - text: "treballo"
+        why: "*Treballo* és per a *jo*. En Pau és «ell»: la terminació és *-a*."
+      - text: "treballen"
+        why: "*Treballen* és per a «ells». En Pau és una sola persona."
+    explanation: "El subjecte és «ell» (en Pau), i els verbs en *-ar* fan *-a*: *treballa*."
+
+  - id: a2-03-002
+    type: choice
+    point: present-regular
+    lesson: 1
+    prompt: "Nosaltres ___ a les dues a la feina."
+    answer: "dinem"
+    distractors:
+      - text: "dineu"
+        why: "*Dineu* és per a «vosaltres»."
+      - text: "dinen"
+        why: "*Dinen* és per a «ells»."
+    explanation: "Amb «nosaltres», la terminació del present és *-em*: *dinem*."
+
+  - id: a2-03-003
+    type: choice
+    point: present-regular
+    lesson: 1
+    prompt: "La Laia ___ el diari al tren cada matí."
+    answer: "llegeix"
+    distractors:
+      - text: "llegi"
+        why: "*Llegi* no és el present d'«ella». *Llegir* és incoatiu: *llegeix*."
+      - text: "llegeixo"
+        why: "*Llegeixo* és per a *jo*. La Laia és «ella»."
+    explanation: "*Llegir* és incoatiu: *llegeixo*, *llegeixes*, *llegeix*. La Laia és «ella»: *llegeix*."
+
+  - id: a2-03-004
+    type: choice
+    point: present-regular
+    lesson: 1
+    prompt: "Jo ___ el cafè sense sucre."
+    answer: "prefereixo"
+    distractors:
+      - text: "prefero"
+        why: "*Preferir* és incoatiu: la primera persona és *prefereixo*, no *prefero*."
+      - text: "prefereixes"
+        why: "*Prefereixes* és per a «tu»."
+    explanation: "*Preferir* és un verb incoatiu: amb *jo*, afegeix *-eix-* i fa *prefereixo*."
+
+  - id: a2-03-005
+    type: choice
+    point: present-irregular
+    lesson: 1
+    prompt: "Jo ___ vint-i-cinc anys i visc a Girona."
+    answer: "tinc"
+    distractors:
+      - text: "tens"
+        why: "*Tens* és per a «tu»."
+      - text: "té"
+        why: "*Té* és per a «ell» o «ella»."
+    explanation: "*Tenir* és irregular. Amb *jo* fa *tinc*, i l'edat es diu amb *tenir*."
+
+  - id: a2-03-006
+    type: choice
+    point: present-irregular
+    lesson: 1
+    prompt: "Jo ___ a la feina en bus."
+    answer: "vaig"
+    distractors:
+      - text: "vas"
+        why: "*Vas* és per a «tu»."
+      - text: "va"
+        why: "*Va* és per a «ell» o «ella»."
+    explanation: "*Anar* és irregular: *vaig*, *vas*, *va*, *anem*, *aneu*, *van*. Amb *jo*: *vaig*."
+
+  - id: a2-03-007
+    type: choice
+    point: present-irregular
+    lesson: 1
+    prompt: "Nosaltres ___ de Terrassa. I vosaltres?"
+    answer: "som"
+    distractors:
+      - text: "sou"
+        why: "*Sou* és per a «vosaltres»."
+      - text: "estem"
+        why: "Per dir d'on som fem servir *ser*: *som de Terrassa*."
+    explanation: "L'origen es diu amb *ser*. Amb «nosaltres», *ser* fa *som*."
+
+  - id: a2-03-008
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Aneu al cinema? —Només ___, potser dos cops l'any."
+    answer: "de tant en tant"
+    distractors:
+      - text: "cada dos per tres"
+        why: "*Cada dos per tres* vol dir «molt sovint». Dos cops l'any és molt poc."
+      - text: "cada matí"
+        why: "*Cada matí* vol dir «cada dia», i no encaixa amb dos cops l'any."
+    explanation: "*De tant en tant* vol dir «a vegades, no gaire sovint»: dos cops l'any."
+
+  - id: a2-03-009
+    type: inline-choice
+    point: present-irregular
+    lesson: 1
+    title: "Una nota per a l'Arnau"
+    text: "Hola, Arnau! Avui jo {arribo|arribes|arriba} tard perquè {tinc|tens|té} una reunió. Tu {vas|vaig|va} a l'escola amb la Carla i {fas|faig|fa} els deures a la biblioteca. Jo {sopo|sopa|sopes} fora, però a les deu ja {soc|som|ets} a casa."
+    explanation: "El verb concorda amb el subjecte: *jo arribo*, *jo tinc*, *tu vas*, *tu fas*, *jo sopo*, *jo soc*."
+
+  - id: a2-03-010
+    type: inline-choice
+    point: present-regular
+    lesson: 1
+    title: "El matí d'en Jordi"
+    text: "En Jordi {es lleva|em llevo|es lleven} a les sis. {Esmorza|Esmorzo|Esmorzen} un cafè i {surt|surto|surten} de casa a les set. {Treballa|Treballo|Treballes} en un taller de Manresa i {dina|dino|dinen} a la una amb els companys. A la tarda {llegeix|llegeixo|llegeixen} el diari."
+    explanation: "El subjecte és «ell» en totes les frases: *es lleva*, *esmorza*, *surt*, *treballa*, *dina*, *llegeix*."
+
+  - id: a2-03-011
+    type: match
+    point: present-irregular
+    lesson: 1
+    instruction: "Relaciona cada persona i verb amb la forma del present."
+    pairs:
+      - ["jo + anar", "vaig"]
+      - ["tu + fer", "fas"]
+      - ["ell + veure", "veu"]
+      - ["nosaltres + dir", "diem"]
+      - ["vosaltres + venir", "veniu"]
+    explanation: "Són verbs irregulars: *vaig*, *fas*, *veu*, *diem*, *veniu*. Convé saber-los de memòria."
+
+  - id: a2-03-012
+    type: match
+    point: present-regular
+    lesson: 1
+    instruction: "Relaciona cada verb amb la forma de «jo»."
+    pairs:
+      - ["llegir", "llegeixo"]
+      - ["servir", "serveixo"]
+      - ["dormir", "dormo"]
+      - ["obrir", "obro"]
+      - ["preferir", "prefereixo"]
+    explanation: "*Llegir*, *servir* i *preferir* són incoatius (*-eixo*). *Dormir* i *obrir* no ho són."
+
+  - id: a2-03-013
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["de tant en tant", "a vegades, no gaire sovint"]
+      - ["cada dos per tres", "molt sovint"]
+      - ["fer tard", "arribar més tard del que toca"]
+      - ["anar de bòlit", "tenir molta feina i poc temps"]
+      - ["fer festa", "no treballar un dia"]
+    explanation: "Són expressions de la rutina diària, molt habituals en català."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-03-014
+    type: fill
+    point: present-regular
+    lesson: 2
+    prompt: "Cada matí jo ___ el pa a la fleca del barri."
+    hint: "*comprar*, present"
+    answers: ["compro"]
+    wrong_answers:
+      - text: "compres"
+        why: "*Compres* és per a «tu». Aquí el subjecte és *jo*."
+      - text: "compra"
+        why: "*Compra* és per a «ell» o «ella»."
+    grading: tolerant
+    explanation: "Amb *jo*, els verbs en *-ar* acaben en *-o*: *compro*."
+
+  - id: a2-03-015
+    type: fill
+    point: present-regular
+    lesson: 2
+    prompt: "Vosaltres ___ molt tard els dissabtes."
+    hint: "*dormir*, present"
+    answers: ["dormiu"]
+    wrong_answers:
+      - text: "dormeu"
+        why: "*Dormir* és un verb en *-ir*: amb «vosaltres» fa *-iu*, com *sortiu*."
+      - text: "dormen"
+        why: "*Dormen* és per a «ells»."
+    grading: tolerant
+    explanation: "Amb «vosaltres», els verbs en *-ir* acaben en *-iu*: *dormiu*."
+
+  - id: a2-03-016
+    type: fill
+    point: present-regular
+    lesson: 2
+    prompt: "Aquest bar ___ esmorzars fins a les onze."
+    hint: "*servir*, present"
+    answers: ["serveix"]
+    wrong_answers:
+      - text: "serv"
+        why: "*Servir* és incoatiu: amb «ell» o «ella» fa *serveix*."
+      - text: "servi"
+        why: "*Servi* no és el present d'«ell»: la forma és *serveix*."
+    grading: tolerant
+    explanation: "*Servir* és incoatiu: *serveixo*, *serveixes*, *serveix*. El bar és «ell»: *serveix*."
+
+  - id: a2-03-017
+    type: fill
+    point: present-regular
+    lesson: 2
+    prompt: "Jo ___ els correus abans de fer el cafè."
+    hint: "*llegir*, present"
+    answers: ["llegeixo"]
+    wrong_answers:
+      - text: "llegi"
+        why: "*Llegi* no és el present de *jo*: la forma és *llegeixo*."
+      - text: "llego"
+        why: "*Llegir* és incoatiu: la primera persona acaba en *-eixo*."
+    grading: tolerant
+    explanation: "*Llegir* és incoatiu: amb *jo* afegeix *-eix-* i fa *llegeixo*."
+
+  - id: a2-03-018
+    type: fill
+    point: present-irregular
+    lesson: 2
+    prompt: "Cada dia jo ___ el dinar per a tota la família."
+    hint: "*fer*, present"
+    answers: ["faig"]
+    wrong_answers:
+      - text: "fas"
+        why: "*Fas* és per a «tu». Aquí el subjecte és *jo*."
+      - text: "fa"
+        why: "*Fa* és per a «ell» o «ella»."
+    grading: tolerant
+    explanation: "*Fer* és irregular: *faig*, *fas*, *fa*, *fem*, *feu*, *fan*. Amb *jo*: *faig*."
+
+  - id: a2-03-019
+    type: fill
+    point: present-irregular
+    lesson: 2
+    prompt: "Tu ___ amb nosaltres al cinema aquesta nit?"
+    hint: "*venir*, present"
+    answers: ["vens"]
+    wrong_answers:
+      - text: "ve"
+        why: "*Ve* és per a «ell» o «ella»."
+      - text: "veniu"
+        why: "*Veniu* és per a «vosaltres»."
+    grading: tolerant
+    explanation: "*Venir* és irregular: *vinc*, *vens*, *ve*. Amb «tu»: *vens*."
+
+  - id: a2-03-020
+    type: order
+    point: present-regular
+    lesson: 2
+    cue: "Explica el teu horari: els dissabtes no treballes a l'oficina."
+    chunks: ["els dissabtes", "no", "treballo", "a l'oficina"]
+    extra: ["treballes"]
+    answers:
+      - "Els dissabtes no treballo a l'oficina."
+      - "No treballo a l'oficina els dissabtes."
+      - "No treballo els dissabtes a l'oficina."
+      - "A l'oficina no treballo els dissabtes."
+      - "Els dissabtes a l'oficina no treballo."
+    explanation: "Parles de tu mateix: el verb és *treballo*. La negació *no* va just davant del verb."
+
+  - id: a2-03-021
+    type: order
+    point: present-irregular
+    lesson: 2
+    cue: "Pregunta a uns companys de feina a quina hora van a dinar avui."
+    chunks: ["avui", "a quina hora", "aneu", "a dinar"]
+    extra: ["anem"]
+    answers:
+      - "Avui a quina hora aneu a dinar?"
+      - "A quina hora aneu a dinar avui?"
+    explanation: "Parles amb diverses persones, així que el verb és *aneu*, de *anar*."
+
+  - id: a2-03-022
+    type: order
+    point: present-regular
+    lesson: 2
+    cue: "Pregunta a un company a quina hora surt de la feina avui."
+    chunks: ["avui", "a quina hora", "surts", "de la feina"]
+    extra: ["surt"]
+    answers:
+      - "Avui a quina hora surts de la feina?"
+      - "A quina hora surts de la feina avui?"
+    explanation: "Parles amb una sola persona: *tu surts*. *Sortir* no és incoatiu: *surto*, *surts*, *surt*."
+
+  - id: a2-03-023
+    type: choice
+    point: present-regular
+    lesson: 2
+    prompt: "La Montse i l'Arnau ___ pel parc cada tarda."
+    answer: "passegen"
+    distractors:
+      - text: "passeja"
+        why: "*Passeja* és per a una sola persona. Aquí són dues."
+      - text: "passegem"
+        why: "*Passegem* és per a «nosaltres»."
+    explanation: "Són «ells»: la terminació és *-en*. *Passejar* canvia la *j* en *g* davant de *e*: *passegen*."
+
+  - id: a2-03-024
+    type: choice
+    point: present-irregular
+    lesson: 2
+    prompt: "Avui ___ molt cansat: he dormit poc."
+    answer: "estic"
+    distractors:
+      - text: "estàs"
+        why: "*Estàs* és per a «tu». Aquí parla *jo*."
+      - text: "tinc"
+        why: "*Tinc cansat* és un calc de «tengo cansado». En català: *estic cansat*."
+    explanation: "*Estar* és irregular: amb *jo* fa *estic*. Amb *cansat* no es fa servir *tenir*."
+
+  - id: a2-03-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Si no marxem ara, ___ a la reunió."
+    answer: "farem tard"
+    distractors:
+      - text: "farem festa"
+        why: "*Fer festa* és no treballar un dia."
+      - text: "anirem de bòlit"
+        why: "*Anar de bòlit* és tenir molta feina i poc temps."
+    explanation: "*Fer tard* vol dir «arribar més tard del que toca»."
+
+  - id: a2-03-026
+    type: choice
+    point: present-irregular
+    lesson: 2
+    prompt: "Des de l'àtic jo ___ tot el poble."
+    answer: "veig"
+    distractors:
+      - text: "veus"
+        why: "*Veus* és per a «tu»."
+      - text: "veu"
+        why: "*Veu* és per a «ell» o «ella»."
+    explanation: "*Veure* és irregular: *veig*, *veus*, *veu*, *veiem*, *veieu*, *veuen*. Amb *jo*: *veig*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-03-027
+    type: choice
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Demà ___ llevar-me a les sis: tinc el tren a dos quarts de set."
+    answer: "he de"
+    distractors:
+      - text: "tinc que"
+        why: "*Tinc que* és un calc de «tengo que». En català diem *he de*."
+      - text: "he que"
+        why: "*Haver de* porta sempre la preposició *de*: *he de llevar-me*."
+    explanation: "L'obligació d'una persona es diu amb *haver de* + infinitiu: *he de llevar-me*."
+
+  - id: a2-03-028
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Per entrar al museu ___ comprar l'entrada abans."
+    answer: "cal"
+    distractors:
+      - text: "hi ha que"
+        why: "*Hi ha que* és un calc de «hay que». En català diem *cal*."
+      - text: "té que"
+        why: "*Té que* és un calc de «tiene que». I aquí l'obligació és general."
+    explanation: "L'obligació general, sense una persona concreta, es diu *cal* + infinitiu."
+
+  - id: a2-03-029
+    type: choice
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Els nens han d'anar al llit a les nou."
+    distractors:
+      - text: "Els nens tenen que anar al llit a les nou."
+        why: "*Tenir que* és un calc de «tener que». En català: *han d'anar*."
+      - text: "Els nens han de anar al llit a les nou."
+        why: "Davant de vocal, *de* s'apostrofa: *han d'anar*."
+    explanation: "*Haver de* + infinitiu. Davant de vocal, *de* s'apostrofa: *han d'anar*."
+
+  - id: a2-03-030
+    type: fill
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Aquest cap de setmana ___ netejar el pis."
+    hint: "*haver de*, jo"
+    answers: ["he de"]
+    wrong_answers:
+      - text: "tinc que"
+        why: "*Tinc que* és un calc de «tengo que». En català: *he de*."
+      - text: "he que"
+        why: "*Haver de* porta sempre la preposició *de*."
+    grading: tolerant
+    explanation: "L'obligació d'una persona es diu amb *haver de* + infinitiu: *he de netejar*."
+
+  - id: a2-03-031
+    type: fill
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Els nens ___ fer els deures abans de sopar."
+    hint: "*haver de*, ells"
+    answers: ["han de"]
+    wrong_answers:
+      - text: "tenen que"
+        why: "*Tenir que* és un calc de «tener que»."
+      - text: "han que"
+        why: "*Haver de* porta sempre la preposició *de*."
+    grading: tolerant
+    explanation: "Amb «ells», *haver de* fa *han de*: *han de fer*."
+
+  - id: a2-03-032
+    type: fill
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Per renovar el DNI ___ demanar hora."
+    hint: "*caldre*, present"
+    answers: ["cal"]
+    wrong_answers:
+      - text: "hi ha que"
+        why: "*Hi ha que* és un calc de «hay que». Diem *cal*."
+    grading: tolerant
+    explanation: "Una obligació que no és d'una persona concreta es diu *cal* + infinitiu."
+
+  - id: a2-03-033
+    type: fill
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Dissabte passat la Núria ___ treballar."
+    hint: "*haver de*, passat perifràstic"
+    answers: ["va haver de"]
+    wrong_answers:
+      - text: "va tenir que"
+        why: "*Tenir que* és un calc de «tener que». En català: *va haver de*."
+      - text: "va haver"
+        why: "Falta la preposició: *va haver de treballar*."
+    grading: tolerant
+    explanation: "El passat de *haver de* és *vaig haver de*, *vas haver de*, *va haver de*…"
+
+  - id: a2-03-034
+    type: fill
+    point: haver-de-cal
+    lesson: 3
+    prompt: "Aquesta tarda ___, ja no puc sortir."
+    hint: "*haver de* + *acabar l'informe*, jo"
+    answers: ["he d'acabar l'informe"]
+    wrong_answers:
+      - text: "tinc que acabar l'informe"
+        why: "*Tinc que* és un calc de «tengo que». En català: *he d'acabar*."
+    grading: tolerant
+    explanation: "*Haver de* + infinitiu. Davant de vocal, *de* s'apostrofa: *he d'acabar*."
+
+  - id: a2-03-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Els dilluns tinc que anar al dentista."
+    error: "tinc que anar"
+    fix: "he d'anar"
+    fix_distractors:
+      - text: "he que anar"
+        why: "*Haver de* porta *de*, no *que*: *he d'anar*."
+      - text: "heu d'anar"
+        why: "*Heu* és per a «vosaltres». Aquí parla una sola persona: *jo*."
+    explanation: "*Tenir que* és un calc de «tener que». L'obligació d'una persona es diu *haver de*."
+
+  - id: a2-03-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "A les biblioteques hi ha que fer silenci."
+    error: "hi ha que fer"
+    fix: "cal fer"
+    fix_distractors:
+      - text: "ha de fer"
+        why: "*Ha de* necessita un subjecte concret («ell», «ella»). Aquí l'obligació és general."
+      - text: "cal que fer"
+        why: "*Cal que* va amb un verb conjugat. Amb infinitiu diem *cal fer*."
+    explanation: "*Hi ha que* és un calc de «hay que». Si l'obligació és general, diem *cal* + infinitiu."
+
+  - id: a2-03-037
+    type: find-error
+    point: haver-de-cal
+    lesson: 3
+    sentence: "Si vols aprovar, has d'estudiar cada dia."
+    no_error: true
+    explanation: "La frase és correcta: *has d'estudiar* és *haver de* + infinitiu, amb *de* apostrofat davant de vocal."
+
+  - id: a2-03-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Ahir vaig tenir que quedar-me a la feina fins tard."
+    error: "vaig tenir que quedar-me"
+    fix: "vaig haver de quedar-me"
+    fix_distractors:
+      - text: "vaig haver que quedar-me"
+        why: "*Haver de* porta *de*, no *que*."
+      - text: "vaig haver quedar-me"
+        why: "Falta la preposició *de*: *vaig haver de quedar-me*."
+    explanation: "*Tenir que* és un calc de «tener que». En passat diem *vaig haver de* + infinitiu."
+
+  - id: a2-03-039
+    type: find-error
+    point: haver-de-cal
+    lesson: 3
+    sentence: "Per obrir un compte al banc cal portar el passaport."
+    no_error: true
+    explanation: "La frase és correcta: l'obligació és general i es diu *cal* + infinitiu."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-03-040
+    type: transform
+    point: present-regular
+    lesson: 4
+    instruction: "Canvia el subjecte a «nosaltres»."
+    source: "[[Jo sopo]] a casa dels avis cada diumenge."
+    answers:
+      - "Nosaltres sopem a casa dels avis cada diumenge."
+      - "Sopem a casa dels avis cada diumenge."
+    wrong_answers:
+      - text: "Nosaltres sopo a casa dels avis cada diumenge."
+        why: "*Sopo* és per a *jo*. Amb «nosaltres» fa *sopem*."
+    grading: tolerant
+    explanation: "Amb «nosaltres», els verbs en *-ar* acaben en *-em*: *sopem*."
+
+  - id: a2-03-041
+    type: transform
+    point: present-regular
+    lesson: 4
+    instruction: "Canvia el subjecte a «els meus pares»."
+    source: "[[En Pau prefereix]] anar en tren."
+    answers:
+      - "Els meus pares prefereixen anar en tren."
+    wrong_answers:
+      - text: "Els meus pares prefereix anar en tren."
+        why: "«Els meus pares» és plural: el verb ha de ser *prefereixen*."
+      - text: "Els meus pares preferen anar en tren."
+        why: "*Preferir* és incoatiu: amb «ells» fa *prefereixen*."
+    grading: tolerant
+    explanation: "*Preferir* és incoatiu: amb «ells» fa *prefereixen*."
+
+  - id: a2-03-042
+    type: transform
+    point: present-irregular
+    lesson: 4
+    instruction: "Passa la frase a «vosaltres»."
+    source: "[[Jo vaig]] a la piscina els dimarts."
+    answers:
+      - "Vosaltres aneu a la piscina els dimarts."
+      - "Aneu a la piscina els dimarts."
+    wrong_answers:
+      - text: "Vosaltres vau a la piscina els dimarts."
+        why: "*Vau* no és una forma del present. Amb «vosaltres», *anar* fa *aneu*."
+    grading: tolerant
+    explanation: "*Anar* és irregular. Amb «vosaltres» fa *aneu*."
+
+  - id: a2-03-043
+    type: transform
+    point: present-irregular
+    lesson: 4
+    instruction: "Passa la frase a «tu»."
+    source: "[[En Wei té]] un examen demà."
+    answers:
+      - "Tu tens un examen demà."
+      - "Tens un examen demà."
+    wrong_answers:
+      - text: "Tu té un examen demà."
+        why: "*Té* és per a «ell». Amb «tu»: *tens*."
+    grading: tolerant
+    explanation: "*Tenir* és irregular: *tinc*, *tens*, *té*. Amb «tu»: *tens*."
+
+  - id: a2-03-044
+    type: transform
+    point: haver-de-cal
+    lesson: 4
+    instruction: "Digues que ho has de fer tu, amb *haver de*."
+    source: "[[Cal]] portar el contracte signat."
+    answers:
+      - "He de portar el contracte signat."
+      - "Jo he de portar el contracte signat."
+    wrong_answers:
+      - text: "Tinc que portar el contracte signat."
+        why: "*Tinc que* és un calc de «tengo que». En català: *he de*."
+    grading: tolerant
+    explanation: "L'obligació d'una persona es diu *haver de* + infinitiu: *he de portar*."
+
+  - id: a2-03-045
+    type: transform
+    point: haver-de-cal
+    lesson: 4
+    instruction: "Expressa l'obligació sense persona concreta, amb *cal*."
+    source: "[[He d'arribar]] a les vuit."
+    answers:
+      - "Cal arribar a les vuit."
+    wrong_answers:
+      - text: "Hi ha que arribar a les vuit."
+        why: "*Hi ha que* és un calc de «hay que». En català: *cal*."
+    grading: tolerant
+    explanation: "Sense una persona concreta, l'obligació es diu *cal* + infinitiu."
+
+  - id: a2-03-046
+    type: fill
+    point: present-irregular
+    lesson: 4
+    prompt: "—Què fas després de la feina? —Normalment ___ al gimnàs."
+    hint: "*anar*, present, jo"
+    answers: ["vaig"]
+    wrong_answers:
+      - text: "vas"
+        why: "*Vas* és per a «tu». Aquí respon *jo*."
+      - text: "va"
+        why: "*Va* és per a «ell» o «ella»."
+    grading: tolerant
+    explanation: "La resposta és en primera persona: *anar* fa *vaig*."
+
+  - id: a2-03-047
+    type: fill
+    point: haver-de-cal
+    lesson: 4
+    prompt: "Si vols arribar a temps, ___ sortir ara mateix."
+    hint: "*haver de*, tu"
+    answers: ["has de"]
+    wrong_answers:
+      - text: "tens que"
+        why: "*Tens que* és un calc de «tienes que». En català: *has de*."
+      - text: "has que"
+        why: "*Haver de* porta sempre la preposició *de*."
+    grading: tolerant
+    explanation: "Amb «tu», *haver de* fa *has de*: *has de sortir*."
+
+  - id: a2-03-048
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "El meu cunyat truca ___: ho fa vuit o deu cops al dia."
+    hint: "expressió: molt sovint"
+    answers: ["cada dos per tres"]
+    wrong_answers:
+      - text: "de tant en tant"
+        why: "*De tant en tant* vol dir poques vegades. Vuit o deu cops al dia és molt sovint."
+    grading: tolerant
+    explanation: "*Cada dos per tres* vol dir «molt sovint»."
+
+  - id: a2-03-049
+    type: order
+    point: haver-de-cal
+    lesson: 4
+    cue: "Digues que demà has de trucar al metge."
+    chunks: ["demà", "he de", "trucar", "al metge"]
+    extra: ["tinc que"]
+    answers:
+      - "Demà he de trucar al metge."
+      - "He de trucar al metge demà."
+    explanation: "L'obligació d'una persona es diu *he de* + infinitiu. *Tinc que* és un calc."
+
+  - id: a2-03-050
+    type: order
+    point: haver-de-cal
+    lesson: 4
+    cue: "Escriu un cartell per al restaurant: tothom ha de reservar taula amb antelació."
+    chunks: ["cal", "reservar", "taula", "amb antelació"]
+    extra: ["hi ha que"]
+    answers:
+      - "Cal reservar taula amb antelació."
+      - "Amb antelació cal reservar taula."
+    explanation: "Un cartell parla a tothom, sense persona concreta: *cal* + infinitiu. *Hi ha que* és un calc."
+
+  - id: a2-03-051
+    type: order
+    point: present-irregular
+    lesson: 4
+    cue: "Explica que els teus pares no tenen cotxe."
+    chunks: ["els meus pares", "no", "tenen", "cotxe"]
+    extra: ["té"]
+    answers:
+      - "Els meus pares no tenen cotxe."
+    explanation: "El subjecte és plural: *tenen*. La negació *no* va just davant del verb."
+
+  - id: a2-03-052
+    type: order
+    point: present-irregular
+    lesson: 4
+    cue: "Explica que sempre veus el mar des de la finestra."
+    chunks: ["sempre", "veig", "el mar", "des de la finestra"]
+    extra: ["veu"]
+    answers:
+      - "Sempre veig el mar des de la finestra."
+      - "Des de la finestra sempre veig el mar."
+      - "Veig sempre el mar des de la finestra."
+    explanation: "Parles de tu mateix: *veure* fa *veig*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-03-053
+    type: reading
+    point: present-regular
+    lesson: 5
+    title: "El matí de la Fàtima"
+    text: |
+      La Fàtima treballa en una pastisseria de Sabadell. Es lleva a les cinc del matí, perquè a les set ha de tenir el pa a punt. Esmorza una torrada i un cafè a la cuina de casa.
+
+      Entre setmana acaba de treballar a les tres. Dina a casa, fa una migdiada d'una hora i després va a buscar el seu fill a l'escola.
+
+      Els dissabtes la pastisseria tanca a les dues. Llavors la Fàtima queda amb unes amigues per prendre un te. De tant en tant fan una passejada fins al riu. Els diumenges no treballa.
+    questions:
+      - prompt: "A quina hora ha de tenir el pa a punt la Fàtima?"
+        answer: "A les set del matí."
+        distractors:
+          - text: "A les cinc del matí."
+            why: "A les cinc es lleva, però el pa ha d'estar a punt a les set."
+          - text: "A les tres de la tarda."
+            why: "A les tres acaba de treballar."
+      - prompt: "Què fa la Fàtima després de dinar, entre setmana?"
+        answer: "Dorm una hora i va a buscar el seu fill."
+        distractors:
+          - text: "Torna a la pastisseria fins a les dues."
+            why: "La pastisseria tanca a les dues només els dissabtes."
+          - text: "Pren un te amb unes amigues."
+            why: "Això ho fa els dissabtes, no entre setmana."
+      - prompt: "Què fa la Fàtima de tant en tant els dissabtes?"
+        answer: "Va a passejar fins al riu amb les amigues."
+        distractors:
+          - text: "Treballa a la pastisseria fins a les tres."
+            why: "Els dissabtes la pastisseria tanca a les dues."
+          - text: "Fa una migdiada a la cuina."
+            why: "La migdiada la fa entre setmana, a casa."
+      - prompt: "Quin dia de la setmana no treballa la Fàtima?"
+        answer: "Els diumenges."
+        distractors:
+          - text: "Els dissabtes."
+            why: "Els dissabtes treballa fins a les dues."
+          - text: "Els divendres."
+            why: "Entre setmana treballa fins a les tres."
+    explanation: "El text descriu la rutina d'una setmana de la Fàtima: hores, feina i estones lliures."
+
+  - id: a2-03-054
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Demà tenim que llevar-nos a les cinc."
+    error: "tenim que llevar-nos"
+    fix: "hem de llevar-nos"
+    fix_distractors:
+      - text: "hem que llevar-nos"
+        why: "*Haver de* porta *de*, no *que*: *hem de*."
+      - text: "heu de llevar-nos"
+        why: "*Heu* és per a «vosaltres». La frase parla de «nosaltres»."
+    explanation: "*Tenir que* és un calc de «tener que». L'obligació d'una persona es diu *haver de*."
+
+  - id: a2-03-055
+    type: find-error
+    point: haver-de-cal
+    lesson: 5
+    sentence: "Els treballadors han de portar casc a l'obra."
+    no_error: true
+    explanation: "La frase és correcta: *han de portar* és *haver de* + infinitiu, amb «ells» com a subjecte."
+
+  - id: a2-03-056
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "A l'hospital hi ha que apagar el mòbil."
+    error: "hi ha que apagar"
+    fix: "cal apagar"
+    fix_distractors:
+      - text: "cal que apagar"
+        why: "*Cal que* va amb un verb conjugat. Amb infinitiu diem *cal apagar*."
+      - text: "es cal apagar"
+        why: "*Caldre* no porta *es*: *cal apagar*."
+    explanation: "*Hi ha que* és un calc de «hay que». Si l'obligació és general, diem *cal* + infinitiu."
+
+  - id: a2-03-057
+    type: choice
+    point: present-regular
+    lesson: 5
+    prompt: "Tu no ___ gaire, oi? Tens cara de cansat."
+    answer: "dorms"
+    distractors:
+      - text: "dormeixes"
+        why: "*Dormir* no és incoatiu: no afegeix *-eix-*."
+      - text: "dorm"
+        why: "*Dorm* és per a «ell» o «ella»."
+    explanation: "Amb «tu», *dormir* fa *dorms*. No és un verb incoatiu."
+
+  - id: a2-03-058
+    type: choice
+    point: present-irregular
+    lesson: 5
+    prompt: "Què ___, Wei? No t'he sentit bé."
+    answer: "dius"
+    distractors:
+      - text: "diu"
+        why: "*Diu* és per a «ell» o «ella». Parles amb en Wei."
+      - text: "dic"
+        why: "*Dic* és per a *jo*."
+    explanation: "*Dir* és irregular: *dic*, *dius*, *diu*, *diem*, *dieu*, *diuen*. Amb «tu»: *dius*."
+
+  - id: a2-03-059
+    type: choice
+    point: haver-de-cal
+    lesson: 5
+    prompt: "Demà no puc quedar: ___ treballar fins a les vuit."
+    answer: "he de"
+    distractors:
+      - text: "tinc que"
+        why: "*Tinc que* és un calc de «tengo que»."
+      - text: "hi ha que"
+        why: "*Hi ha que* és un calc de «hay que», i aquí l'obligació és meva."
+    explanation: "L'obligació és d'una persona (*jo*): *haver de* + infinitiu."
+
+  - id: a2-03-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Aquest ascensor es fa malbé ___: avui és la tercera vegada."
+    answer: "cada dos per tres"
+    distractors:
+      - text: "de tant en tant"
+        why: "*De tant en tant* vol dir poques vegades. Tres cops en un dia és molt sovint."
+      - text: "cada dos anys"
+        why: "*Cada dos anys* és un cop cada dos anys, no tres cops en un dia."
+    explanation: "*Cada dos per tres* vol dir «molt sovint»."
+
+  - id: a2-03-061
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Aquesta setmana ___: tinc tres entregues i una reunió cada dia."
+    answer: "vaig de bòlit"
+    distractors:
+      - text: "faig tard"
+        why: "*Fer tard* és arribar més tard del que toca."
+      - text: "faig festa"
+        why: "*Fer festa* és no treballar un dia."
+    explanation: "*Anar de bòlit* vol dir «tenir molta feina i poc temps»."
+
+  - id: a2-03-062
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Escriu la frase en passat, començant per «Ahir»."
+    source: "Avui [[he de]] treballar fins tard."
+    start: "Ahir"
+    answers:
+      - "Ahir vaig haver de treballar fins tard."
+    wrong_answers:
+      - text: "Ahir vaig tenir que treballar fins tard."
+        why: "*Tenir que* és un calc de «tener que». En català: *vaig haver de*."
+    grading: tolerant
+    explanation: "El passat de *haver de* és *vaig haver de* + infinitiu."
+
+  - id: a2-03-063
+    type: transform
+    point: present-regular
+    lesson: 5
+    instruction: "Fes la frase negativa."
+    source: "Els dies de feina [[dormo]] set hores."
+    answers:
+      - "Els dies de feina no dormo set hores."
+      - "No dormo set hores els dies de feina."
+    grading: tolerant
+    explanation: "La negació *no* va just davant del verb: *no dormo*."
+
+  - id: a2-03-064
+    type: inline-choice
+    point: haver-de-cal
+    lesson: 5
+    title: "Un missatge de la feina"
+    text: "Hola, Carla! Demà {has de|tens que|hi ha que} portar el portàtil a la reunió. {Cal|Hi ha que|Té que} arribar cinc minuts abans, perquè la reunió {comença|començo|comences} a les nou. Si {vols|vull|vol}, et {passo|passes|passa} a buscar amb cotxe i {anem|vaig|aneu} junts."
+    explanation: "L'obligació es diu *has de* o *cal*, mai *tens que* ni *hi ha que* (calcs). Els verbs concorden amb el subjecte."
+
+  - id: a2-03-065
+    type: fill
+    point: present-irregular
+    lesson: 5
+    prompt: "Els meus pares ___ de Lleida, però jo he nascut aquí."
+    hint: "*ser*, present"
+    answers: ["són"]
+    wrong_answers:
+      - text: "estan"
+        why: "Per dir l'origen fem servir *ser*: *són de Lleida*."
+    grading: tolerant
+    explanation: "L'origen es diu amb *ser*. Amb «ells»: *són*, amb accent."

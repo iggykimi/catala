@@ -1,0 +1,939 @@
+id: b2-42
+level: B2
+title: "Infinitiu i gerundi"
+summary: "L'infinitiu amb «en», el gerundi simultani, «tot» + gerundi i els usos del gerundi que cal evitar, en el context del món laboral."
+vocabulary_theme: "Món laboral i entrevistes de feina"
+points:
+  - id: en-infinitiu
+    title: "En + infinitiu: l'acció immediata"
+    refs:
+      - label: "GEIEC: Les formes no personals del verb"
+        url: "https://geiec.iec.cat"
+  - id: gerundi-simultani
+    title: "El gerundi simultani"
+    refs:
+      - label: "GEIEC: Les formes no personals del verb"
+        url: "https://geiec.iec.cat"
+  - id: tot-gerundi
+    title: "*Tot + gerundi*"
+    refs:
+      - label: "GEIEC: Les formes no personals del verb"
+        url: "https://geiec.iec.cat"
+  - id: compte-gerundi
+    title: "Compte amb el castellà: el gerundi que no s'admet"
+    refs:
+      - label: "Optimot: Gerundi"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions de la feina"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: en + infinitiu i gerundi"
+  - title: "Practicar en + infinitiu i el gerundi"
+  - title: "*Tot + gerundi* i el gerundi incorrecte"
+  - title: "Produir: reescriure frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "l'entrevista de feina"
+    definition: "Conversa en què una empresa coneix una persona que vol treballar-hi."
+    example: "Demà tinc l'entrevista de feina a les deu."
+  - word: "el currículum"
+    definition: "Document que resumeix els estudis i l'experiència d'una persona."
+    example: "He actualitzat el currículum abans d'enviar-lo."
+  - word: "la carta de presentació"
+    definition: "Text breu que acompanya el currículum i explica per què vols la feina."
+    example: "La carta de presentació no ha de passar d'una pàgina."
+  - word: "la candidatura"
+    definition: "Conjunt de papers amb què una persona es presenta a una oferta de feina."
+    example: "Vam rebre trenta candidatures per a un sol lloc."
+  - word: "l'oferta de feina"
+    definition: "Anunci d'una empresa que busca un treballador."
+    example: "He vist una oferta de feina molt interessant a Sabadell."
+  - word: "el lloc de treball"
+    definition: "La feina concreta que fa una persona dins d'una empresa."
+    example: "El meu lloc de treball és a la tercera planta."
+  - word: "la plantilla"
+    definition: "Conjunt de persones que treballen en una empresa."
+    example: "L'empresa té una plantilla de cent vint persones."
+  - word: "el contracte"
+    definition: "Document que fixa les condicions de la feina i el sou."
+    example: "Signaré el contracte dilluns a recursos humans."
+  - word: "el període de prova"
+    definition: "Primer temps de feina en què l'empresa i el treballador es poden deixar sense cap indemnització."
+    example: "El període de prova és de tres mesos."
+  - word: "el sou"
+    definition: "Diners que es cobren cada mes per la feina."
+    example: "El sou no m'importa tant com l'horari."
+  - word: "la nòmina"
+    definition: "Paper que detalla el sou i els descomptes de cada mes."
+    example: "A la nòmina hi surten les hores extres."
+  - word: "l'horari"
+    definition: "Franja de temps en què cal ser a la feina."
+    example: "L'horari és flexible, però cal ser-hi de deu a dues."
+  - word: "la jornada"
+    definition: "Hores de feina d'un dia."
+    example: "Aquesta setmana tinc jornada intensiva."
+  - word: "les hores extres"
+    definition: "Hores que es treballen a més de la jornada pactada."
+    example: "A l'abril fem moltes hores extres per la declaració de la renda."
+  - word: "el torn"
+    definition: "Part del dia que té assignada cada grup de treballadors."
+    example: "Aquest mes faig el torn de tarda."
+  - word: "la reunió"
+    definition: "Trobada de diverses persones per parlar d'un tema de feina."
+    example: "La reunió d'equip comença a dos quarts de deu."
+  - word: "el cap, la cap"
+    definition: "Persona que dirigeix un equip i en respon."
+    example: "La meva cap em va felicitar pel resultat."
+  - word: "el company, la companya de feina"
+    definition: "Persona que treballa al mateix lloc que tu."
+    example: "Dino amb els companys de feina cada dijous."
+  - word: "recursos humans"
+    definition: "Departament que s'ocupa de contractar i de gestionar les persones d'una empresa."
+    example: "Recursos humans m'ha convocat per dimecres."
+  - word: "contractar"
+    definition: "Fer un contracte a una persona perquè treballi en una empresa."
+    example: "L'empresa ha contractat quatre administratius."
+  - word: "acomiadar"
+    definition: "Dir a un treballador que ha de deixar la feina."
+    example: "Van acomiadar dues persones quan van tancar la fàbrica."
+  - word: "seleccionar"
+    definition: "Triar una persona entre diverses candidatures."
+    example: "M'han seleccionat per a la segona fase."
+  - word: "assessorar"
+    definition: "Donar consell tècnic a algú."
+    example: "Una gestoria ens assessora en temes fiscals."
+  - word: "l'aspirant"
+    definition: "Persona que es presenta a una feina o a una plaça."
+    example: "Els aspirants esperaven asseguts al passadís."
+  - word: "la baixa"
+    definition: "Període en què un treballador no va a la feina per malaltia i continua cobrant."
+    example: "Va demanar la baixa per un problema d'esquena."
+  - word: "plegar"
+    definition: "Acabar la jornada de feina (col·loquial)."
+    example: "Avui plego a les cinc."
+  - word: "el magatzem"
+    definition: "Local on es guarden productes o materials."
+    example: "El responsable del magatzem ens va ensenyar l'estoc."
+  - word: "la gestoria"
+    definition: "Empresa que s'ocupa dels tràmits administratius i fiscals d'altres."
+    example: "La gestoria prepara les nòmines de tota la plantilla."
+  - word: "pactar"
+    definition: "Acordar una cosa entre dues parts."
+    example: "Vam pactar un horari de cinc hores diàries."
+  - word: "puntual"
+    definition: "Que arriba o fa una cosa a l'hora."
+    example: "A l'entrevista és important ser puntual."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-42-001
+    type: choice
+    point: en-infinitiu
+    lesson: 1
+    prompt: "___ l'entrevista, ens van acompanyar fins a la porta i ens van dir que ens trucarien aviat."
+    answer: "En acabar"
+    distractors:
+      - text: "A acabar"
+        why: "Amb valor temporal, la preposició és en, no a: *a acabar* no existeix en aquest ús."
+      - text: "Quan acabar"
+        why: "*Quan* va amb un verb conjugat (quan va acabar). Amb infinitiu, la forma és *en acabar*."
+    explanation: "*En + infinitiu* situa l'acció principal just després de la primera: *en acabar* l'entrevista equival a «quan vam acabar l'entrevista»."
+
+  - id: b2-42-002
+    type: choice
+    point: en-infinitiu
+    lesson: 1
+    prompt: "Què vol dir «En arribar a l'oficina, el Pau va encendre l'ordinador»?"
+    answer: "El Pau va encendre l'ordinador tot just va arribar."
+    distractors:
+      - text: "El Pau va encendre l'ordinador abans d'arribar a l'oficina."
+        why: "«En arribar» situa l'acció després de l'arribada, no abans."
+      - text: "El Pau va encendre l'ordinador mentre anava cap a l'oficina."
+        why: "La simultaneïtat s'expressa amb gerundi (*arribant*), no amb *en + infinitiu*."
+    explanation: "*En + infinitiu* indica que la segona acció es fa immediatament després de la primera. Aquí, l'ordinador s'encén un cop arribat."
+
+  - id: b2-42-003
+    type: choice
+    point: gerundi-simultani
+    lesson: 1
+    prompt: "___ molta experiència, la Laia no va tenir problemes per trobar feina."
+    answer: "Tenint"
+    distractors:
+      - text: "Tenent"
+        why: "*Tenir* és un verb en *-ir*: el gerundi acaba en *-int* (*tenint*). El gerundi en *-ent* és el dels verbs en *-er* i *-re*."
+      - text: "Tingut"
+        why: "*Tingut* és el participi. Aquí cal el gerundi, que expressa la causa."
+    explanation: "El gerundi pot expressar la causa: «tenint molta experiència» vol dir «com que tenia molta experiència». Els verbs en *-ir* fan el gerundi en *-int*."
+
+  - id: b2-42-004
+    type: choice
+    point: gerundi-simultani
+    lesson: 1
+    prompt: "___ a prop de la feina, la Montse arriba sempre puntual."
+    answer: "Vivint"
+    distractors:
+      - text: "Vivent"
+        why: "*Viure* és un verb de la segona conjugació, però el seu gerundi és *vivint*. Els gerundis en *-ent* són els dels verbs en *-er* i *-re*."
+      - text: "Viscut"
+        why: "*Viscut* és el participi, no expressa causa ni simultaneïtat."
+    explanation: "«Vivint a prop de la feina» expressa la causa («com que viu a prop»). El gerundi de *viure* és *vivint*."
+
+  - id: b2-42-005
+    type: match
+    point: gerundi-simultani
+    lesson: 1
+    instruction: "Relaciona cada infinitiu amb el seu gerundi."
+    pairs:
+      - ["tenir", "tenint"]
+      - ["venir", "venint"]
+      - ["escriure", "escrivint"]
+      - ["obrir", "obrint"]
+    explanation: "Els verbs en *-ar* fan el gerundi en *-ant*; els verbs en *-er* i en *-re*, en *-ent*; els verbs en *-ir*, en *-int*. *Escriure* és irregular: *escrivint*."
+
+  - id: b2-42-006
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["posar-se les piles", "començar a treballar amb més energia"]
+      - ["treballar de valent", "treballar molt i amb ganes"]
+      - ["fer hores extres", "treballar més enllà de la jornada pactada"]
+      - ["anar de bòlit", "tenir molta feina i poc temps"]
+      - ["plegar", "acabar la jornada de feina"]
+    explanation: "Són expressions molt habituals en la conversa de feina."
+
+  - id: b2-42-007
+    type: inline-choice
+    point: en-infinitiu
+    lesson: 1
+    title: "Benvinguda a l'empresa"
+    text: "Benvinguts a l'equip! {En|A|Quan} entrar a l'edifici, aneu a recepció. {En|A|Quan} acabar la presentació, la Montse us presentarà l'equip. {En|A|Quan} signar el contracte, rebreu el carnet d'empleat. {En|A|Quan} tenir el carnet, ja podreu entrar sols."
+    explanation: "Per expressar que una acció passa tot just després d'una altra fem servir *en + infinitiu*: *en entrar*, *en acabar*, *en signar*, *en tenir*. *Quan* demana un verb conjugat."
+
+  - id: b2-42-008
+    type: fill
+    point: en-infinitiu
+    lesson: 1
+    prompt: "___ de casa, em vaig adonar que m'havia deixat el mòbil."
+    hint: "sortir, *en + infinitiu*"
+    answers: ["En sortir"]
+    wrong_answers:
+      - text: "En sortit"
+        why: "Després de *en* va l'infinitiu (sortir), no el participi."
+    grading: tolerant
+    explanation: "L'acció d'adonar-se passa just després de sortir de casa: *en + infinitiu*, *en sortir*."
+
+  - id: b2-42-009
+    type: fill
+    point: gerundi-simultani
+    lesson: 1
+    prompt: "Vaig arribar a la feina ___ perquè se m'havia fet tard."
+    hint: "córrer, gerundi"
+    answers: ["corrent"]
+    wrong_answers:
+      - text: "corrint"
+        why: "*Córrer* és un verb en *-er*: el gerundi acaba en *-ent*, no en *-int*."
+    grading: tolerant
+    explanation: "El gerundi expressa la manera com arribo: *corrent*. Els verbs en *-er* fan el gerundi en *-ent*."
+
+  - id: b2-42-010
+    type: choice
+    point: en-infinitiu
+    lesson: 1
+    prompt: "Quina frase vol dir «Quan vaig veure el cap, em vaig posar nerviós»?"
+    answer: "En veure el cap, em vaig posar nerviós."
+    distractors:
+      - text: "Per veure el cap, em vaig posar nerviós."
+        why: "*Per + infinitiu* expressa finalitat («per poder veure'l»), no el moment en què passa."
+      - text: "En veure el cap, em posaré nerviós."
+        why: "El temps verbal canvia: l'original està en passat i aquesta frase és de futur."
+    explanation: "«En veure el cap» substitueix «quan vaig veure el cap»: l'acció va passar immediatament després de veure'l."
+
+  - id: b2-42-011
+    type: order
+    point: en-infinitiu
+    lesson: 1
+    cue: "Digues que la Montse es va posar contenta tot just va llegir el correu."
+    chunks: ["La Montse", "es va posar", "contenta", "en", "llegir el correu"]
+    extra: ["a"]
+    answers:
+      - "La Montse es va posar contenta en llegir el correu."
+      - "En llegir el correu, la Montse es va posar contenta."
+    explanation: "«En llegir el correu» va darrere de l'acció principal o davant d'ella; el bloc *en + infinitiu* no es pot separar."
+
+  - id: b2-42-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «posar-se les piles» a la feina?"
+    answer: "Començar a treballar amb més energia i més ganes."
+    distractors:
+      - text: "Canviar les piles d'un aparell de l'oficina."
+        why: "Aquest és el sentit literal; l'expressió és figurada."
+      - text: "Estar molt cansat després d'una jornada llarga."
+        why: "És just el contrari: vol dir tenir més energia."
+    explanation: "«Posar-se les piles» és una expressió figurada: algú que va fluix i s'activa per acabar la feina."
+
+  - id: b2-42-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "El projecte s'ha de lliurar dimarts: ens toca ___ si volem acabar a temps."
+    answer: "posar-nos les piles"
+    distractors:
+      - text: "fer-nos els sords"
+        why: "Vol dir fer veure que no sentim res; no encaixa amb la urgència."
+      - text: "deixar-ho córrer"
+        why: "Vol dir abandonar un assumpte, justament el contrari del que cal fer."
+    explanation: "Amb un termini proper cal activar-se i treballar més de pressa: *posar-nos les piles*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-42-014
+    type: fill
+    point: en-infinitiu
+    lesson: 2
+    prompt: "___ el correu del client, la Carla va respondre de seguida."
+    hint: "llegir, *en + infinitiu*"
+    answers: ["En llegir"]
+    wrong_answers:
+      - text: "En llegit"
+        why: "Després de *en* va l'infinitiu (llegir), no el participi."
+    grading: tolerant
+    explanation: "La resposta va venir tot just després de llegir el correu: *en + infinitiu*, *en llegir*."
+
+  - id: b2-42-015
+    type: fill
+    point: en-infinitiu
+    lesson: 2
+    prompt: "___ la nòmina, em vaig adonar que no m'havien pagat les hores extres."
+    hint: "veure, *en + infinitiu*"
+    answers: ["En veure"]
+    grading: tolerant
+    explanation: "Em vaig adonar de l'error immediatament després de veure la nòmina: *en veure*."
+
+  - id: b2-42-016
+    type: fill
+    point: en-infinitiu
+    lesson: 2
+    prompt: "El cap va dir que hi hauria hores extres i, ___, tots vam protestar."
+    hint: "sentir, *en + infinitiu* + pronom que substitueix «que hi hauria hores extres»"
+    answers: ["en sentir-ho"]
+    wrong_answers:
+      - text: "en sentir-lo"
+        why: "Allò que se sent és tota una idea («que hi hauria hores extres»): el pronom és *ho*, no *lo*."
+    grading: strict
+    explanation: "Darrere de l'infinitiu el pronom va amb guionet: *sentir-ho*. El pronom *ho* substitueix una idea sencera."
+
+  - id: b2-42-017
+    type: fill
+    point: gerundi-simultani
+    lesson: 2
+    prompt: "A les reunions, el director sempre comença ___ que no hi ha pressupost."
+    hint: "dir, gerundi"
+    answers: ["dient"]
+    wrong_answers:
+      - text: "diguent"
+        why: "El gerundi de *dir* és irregular: *dient*."
+    grading: tolerant
+    explanation: "El gerundi expressa la manera com comença: *dient*. *Dir* fa el gerundi *dient*."
+
+  - id: b2-42-018
+    type: fill
+    point: gerundi-simultani
+    lesson: 2
+    prompt: "La Fàtima es va guanyar la vida ___ oficines durant tres anys."
+    hint: "netejar, gerundi"
+    answers: ["netejant"]
+    grading: tolerant
+    explanation: "El gerundi indica el mitjà o la manera: es va guanyar la vida *netejant* oficines."
+
+  - id: b2-42-019
+    type: fill
+    point: gerundi-simultani
+    lesson: 2
+    prompt: "___ bé el sector, l'Ibrahim va negociar un bon sou."
+    hint: "conèixer, gerundi"
+    answers: ["Coneixent"]
+    wrong_answers:
+      - text: "Coneixint"
+        why: "*Conèixer* és un verb en *-er*: el gerundi acaba en *-ent*, no en *-int*."
+    grading: tolerant
+    explanation: "El gerundi expressa la causa: *coneixent* bé el sector, o sigui «com que el coneixia bé»."
+
+  - id: b2-42-020
+    type: order
+    point: gerundi-simultani
+    lesson: 2
+    cue: "Explica com va contestar les preguntes l'Arnau durant l'entrevista."
+    chunks: ["L'Arnau", "va contestar", "les preguntes", "somrient"]
+    extra: ["somriure"]
+    answers:
+      - "L'Arnau va contestar les preguntes somrient."
+      - "L'Arnau va contestar somrient les preguntes."
+    explanation: "El gerundi (*somrient*) expressa la manera i va a prop del verb. *Somriure* fa el gerundi *somrient*."
+
+  - id: b2-42-021
+    type: order
+    point: en-infinitiu
+    lesson: 2
+    cue: "El Jordi va trucar a la Laia tot just va sortir de l'entrevista."
+    chunks: ["El Jordi", "va trucar", "a la Laia", "en", "sortir", "de l'entrevista"]
+    extra: ["a"]
+    answers:
+      - "El Jordi va trucar a la Laia en sortir de l'entrevista."
+      - "En sortir de l'entrevista, el Jordi va trucar a la Laia."
+    explanation: "*En + infinitiu* pot anar al final de la frase o al principi, i expressa que l'acció principal passa tot seguit."
+
+  - id: b2-42-022
+    type: choice
+    point: en-infinitiu
+    lesson: 2
+    prompt: "Què indica «en + infinitiu» a «En acabar la jornada, vaig plegar»?"
+    answer: "Que la segona acció passa tot just després de la primera."
+    distractors:
+      - text: "Que la segona acció passa mentre es fa la primera."
+        why: "La simultaneïtat s'expressa amb gerundi (*acabant*) o amb *tot + gerundi*; *en + infinitiu* indica immediatesa."
+      - text: "Que la segona acció només passarà si es compleix la primera."
+        why: "La condició s'expressa amb si o amb altres conjuncions, no amb *en + infinitiu*."
+    explanation: "En + infinitiu marca la immediatesa: primer s'acaba la jornada i tot seguit es plega."
+
+  - id: b2-42-023
+    type: choice
+    point: gerundi-simultani
+    lesson: 2
+    prompt: "La Montse va trobar la sala ___ les indicacions del cartell."
+    answer: "seguint"
+    distractors:
+      - text: "seguent"
+        why: "*Seguir* és un verb en *-ir*: el gerundi acaba en *-int* (*seguint*)."
+      - text: "seguit"
+        why: "*Seguit* és el participi. Aquí cal el gerundi, que expressa la manera."
+    explanation: "El gerundi indica com ho va fer: *seguint* les indicacions. Els verbs en *-ir* fan el gerundi en *-int*."
+
+  - id: b2-42-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Aquest mes el Pau ha fet moltes hores extres. Què vol dir?"
+    answer: "Ha treballat més hores de les pactades al contracte."
+    distractors:
+      - text: "Ha cobrat un sou extra per Nadal."
+        why: "Les *hores extres* són hores treballades, no un pagament extraordinari."
+      - text: "Ha tingut moltes hores lliures durant la jornada."
+        why: "Al contrari: ha treballat més, no menys."
+    explanation: "Fer *hores extres* és treballar més enllà de la jornada pactada."
+
+  - id: b2-42-025
+    type: choice
+    point: gerundi-simultani
+    lesson: 2
+    prompt: "La Montse va passar la tarda ___ cartes de presentació."
+    answer: "escrivint"
+    distractors:
+      - text: "escrivent"
+        why: "*Escriure* és irregular: el gerundi és *escrivint*, no *escrivent*."
+      - text: "escrit"
+        why: "*Escrit* és el participi; el gerundi expressa l'acció que dura."
+    explanation: "El gerundi indica què va fer durant la tarda. *Escriure* fa el gerundi *escrivint*."
+
+  - id: b2-42-026
+    type: order
+    point: gerundi-simultani
+    lesson: 2
+    cue: "El Pau explica com va trobar feina: va enviar el currículum a moltes empreses."
+    chunks: ["El Pau", "va trobar feina", "enviant", "el currículum", "a moltes empreses"]
+    extra: ["enviar"]
+    answers:
+      - "El Pau va trobar feina enviant el currículum a moltes empreses."
+      - "El Pau va trobar feina enviant a moltes empreses el currículum."
+    explanation: "El gerundi (*enviant*) expressa el mitjà com va trobar feina. Va just després del verb principal."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-42-027
+    type: choice
+    point: tot-gerundi
+    lesson: 3
+    prompt: "La Carla prepara l'informe ___ música clàssica."
+    answer: "tot escoltant"
+    distractors:
+      - text: "tot escoltar"
+        why: "Darrere de *tot* va un gerundi (*escoltant*), no un infinitiu."
+      - text: "tot escoltat"
+        why: "*Escoltat* és un participi; cal el gerundi per expressar que les dues accions passen alhora."
+    explanation: "*Tot + gerundi* expressa dues accions simultànies i sovint prolongades: prepara l'informe *tot escoltant* música."
+
+  - id: b2-42-028
+    type: fill
+    point: tot-gerundi
+    lesson: 3
+    prompt: "La Núria contesta els correus ___ un entrepà."
+    hint: "menjar, *tot + gerundi*"
+    answers: ["tot menjant"]
+    wrong_answers:
+      - text: "tot menjar"
+        why: "Darrere de *tot* va un gerundi: *menjant*."
+    grading: tolerant
+    explanation: "Les dues accions passen alhora: *tot menjant* un entrepà."
+
+  - id: b2-42-029
+    type: fill
+    point: tot-gerundi
+    lesson: 3
+    prompt: "El Jordi va sortir de la sala ___ i es va acomiadar de tothom."
+    hint: "riure, *tot + gerundi*"
+    answers: ["tot rient"]
+    wrong_answers:
+      - text: "tot riure"
+        why: "Darrere de *tot* va un gerundi: *rient*."
+    grading: tolerant
+    explanation: "*Tot + gerundi* marca que el riure acompanya l'acció de sortir. El gerundi de *riure* és *rient*."
+
+  - id: b2-42-030
+    type: find-error
+    point: compte-gerundi
+    lesson: 3
+    sentence: "Va rebre una carta comunicant-li que l'havien admès."
+    error: "comunicant-li"
+    fix: "que li comunicava"
+    fix_distractors:
+      - text: "que comunicant-li"
+        why: "El relatiu que no es pot combinar amb el gerundi: *que* demana un verb conjugat."
+      - text: "li comunicava"
+        why: "Falta el relatiu: «una carta que li comunicava…»."
+    explanation: "El gerundi no pot modificar un nom (una carta *comunicant*): és un calc del castellà. En català fem servir una oració de relatiu: una carta *que li comunicava*."
+
+  - id: b2-42-031
+    type: find-error
+    point: compte-gerundi
+    lesson: 3
+    sentence: "L'empresa ha publicat una oferta oferint cinc llocs de treball nous."
+    error: "oferint"
+    fix: "que ofereix"
+    fix_distractors:
+      - text: "que ofereixen"
+        why: "El subjecte del relatiu és «una oferta», singular: *que ofereix*."
+      - text: "que oferint"
+        why: "*Que* demana un verb conjugat, no un gerundi."
+    explanation: "El gerundi no pot qualificar un nom (una *oferta oferint*): és un calc del castellà. Es resol amb una oració de relatiu: una oferta *que ofereix*."
+
+  - id: b2-42-032
+    type: find-error
+    point: compte-gerundi
+    lesson: 3
+    sentence: "El director va signar l'acord, enviant-lo després a tots els departaments."
+    error: ", enviant-lo després"
+    fix: "i el va enviar després"
+    fix_distractors:
+      - text: "i enviant-lo després"
+        why: "Després de *i* no pot venir un gerundi: cal un verb conjugat."
+      - text: "i enviar-lo després"
+        why: "Amb *i* cal un verb en la mateixa forma que el primer (va signar... *i el va enviar*)."
+    explanation: "El gerundi no pot expressar una acció posterior a la del verb principal. Quan una acció en segueix una altra, les coordinem: va signar l'acord *i el va enviar*."
+
+  - id: b2-42-033
+    type: find-error
+    point: compte-gerundi
+    lesson: 3
+    sentence: "La reunió va acabar a les set, marxant tots cap a casa."
+    error: ", marxant tots cap a casa"
+    fix: "i tots van marxar cap a casa"
+    fix_distractors:
+      - text: "i marxant tots cap a casa"
+        why: "Després de *i* no pot venir un gerundi: cal un verb conjugat."
+      - text: "i marxar tots cap a casa"
+        why: "Falta el verb conjugat: tots van marxar."
+    explanation: "*Marxar* cap a casa és posterior a acabar la reunió. El gerundi només expressa simultaneïtat; per a una acció posterior cal coordinar: *i tots van marxar*."
+
+  - id: b2-42-034
+    type: find-error
+    point: compte-gerundi
+    lesson: 3
+    sentence: "La Montse va fer la presentació parlant molt a poc a poc."
+    no_error: true
+    explanation: "La frase és correcta: el gerundi *parlant* expressa la manera i és simultani a l'acció de fer la presentació."
+
+  - id: b2-42-035
+    type: find-error
+    point: en-infinitiu
+    lesson: 3
+    sentence: "El Wei va trucar a casa en sortir de la feina."
+    no_error: true
+    explanation: "La frase és correcta: *en sortir* expressa que la trucada va ser tot just després de sortir de la feina."
+
+  - id: b2-42-036
+    type: fill
+    point: compte-gerundi
+    lesson: 3
+    prompt: "La Fàtima va acabar la jornada a les sis i ___ a casa."
+    hint: "*anar-se'n*, passat perifràstic"
+    answers: ["se'n va anar", "va anar-se'n"]
+    grading: tolerant
+    explanation: "*Anar-se'n* és posterior a acabar la jornada. Com que no és simultani, no es pot dir amb gerundi: es coordina amb un verb conjugat, *i se'n va anar*."
+
+  - id: b2-42-037
+    type: choice
+    point: compte-gerundi
+    lesson: 3
+    prompt: "El Pau va tancar l'oficina ___ cap a casa."
+    answer: "i després va marxar"
+    distractors:
+      - text: "marxant després"
+        why: "És un gerundi de posterioritat: l'acció de marxar és posterior a tancar. No s'admet en català."
+      - text: "després marxant"
+        why: "Igualment, un gerundi de posterioritat, calcat del castellà."
+    explanation: "*Marxar* passa després de tancar. El gerundi només serveix per a accions simultànies; una acció posterior es coordina: *i després va marxar*."
+
+  - id: b2-42-038
+    type: choice
+    point: compte-gerundi
+    lesson: 3
+    prompt: "Hi ha un grup de WhatsApp ___ tots els empleats de l'empresa."
+    answer: "que reuneix"
+    distractors:
+      - text: "reunint"
+        why: "El gerundi no pot modificar un nom: és un calc del castellà."
+      - text: "reunent"
+        why: "A més, *reunir* fa el gerundi en *-int*, no en *-ent*."
+    explanation: "Per qualificar un nom (un grup) fem servir una oració de relatiu: un grup *que reuneix*. El gerundi no hi serveix."
+
+  - id: b2-42-039
+    type: choice
+    point: tot-gerundi
+    lesson: 3
+    prompt: "Què vol dir «tot sabent» a «Tot sabent que el sou era baix, el Pau va acceptar la feina»?"
+    answer: "El Pau ho sabia i, tot i això, va acceptar la feina."
+    distractors:
+      - text: "El Pau va saber que el sou era baix després d'acceptar la feina."
+        why: "*Tot + gerundi* expressa simultaneïtat, no una acció posterior."
+      - text: "El Pau va acceptar la feina perquè el sou era baix."
+        why: "Aquí no hi ha causa sinó oposició: sabia que era baix, però va acceptar."
+    explanation: "*Tot + gerundi* també pot tenir valor d'oposició, com «tot i saber»: sabia que el sou era baix i va acceptar igualment."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-42-040
+    type: transform
+    point: en-infinitiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per «en» + infinitiu."
+    source: "[[Quan va veure el preu]], el client va protestar."
+    answers: ["En veure el preu, el client va protestar."]
+    grading: tolerant
+    explanation: "«Quan va veure el preu» equival a *en veure* el preu: la protesta va ser immediata."
+
+  - id: b2-42-041
+    type: transform
+    point: en-infinitiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per «en» + infinitiu."
+    source: "[[Quan ho vam saber]], vam trucar a tots els companys."
+    answers: ["En saber-ho, vam trucar a tots els companys."]
+    grading: strict
+    explanation: "Darrere de l'infinitiu el pronom va amb guionet: *en saber-ho*. *Ho* substitueix la notícia que vam saber."
+
+  - id: b2-42-042
+    type: transform
+    point: gerundi-simultani
+    lesson: 4
+    instruction: "Substitueix la part marcada per un gerundi."
+    source: "La Carla va fer l'entrevista [[mentre somreia]] tota l'estona."
+    answers:
+      - "La Carla va fer l'entrevista somrient tota l'estona."
+      - "La Carla va fer l'entrevista tota l'estona somrient."
+    wrong_answers:
+      - text: "La Carla va fer l'entrevista somrint tota l'estona."
+        why: "*Somriure* fa el gerundi *somrient*, no *somrint*."
+    grading: tolerant
+    explanation: "El gerundi expressa una acció simultània a la principal: *somrient*. El gerundi de *somriure* és *somrient*."
+
+  - id: b2-42-043
+    type: transform
+    point: gerundi-simultani
+    lesson: 4
+    instruction: "Substitueix la part marcada per un gerundi."
+    source: "[[Com que tenia]] molta experiència, la Montse va trobar feina de seguida."
+    answers: ["Tenint molta experiència, la Montse va trobar feina de seguida."]
+    wrong_answers:
+      - text: "Tenent molta experiència, la Montse va trobar feina de seguida."
+        why: "*Tenir* és un verb en *-ir*: el gerundi és *tenint*."
+    grading: tolerant
+    explanation: "El gerundi pot expressar la causa: *tenint* molta experiència equival a «com que tenia molta experiència»."
+
+  - id: b2-42-044
+    type: transform
+    point: tot-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase amb «tot» + gerundi."
+    source: "La Núria repassa el currículum [[mentre pren]] un cafè."
+    answers: ["La Núria repassa el currículum tot prenent un cafè."]
+    wrong_answers:
+      - text: "La Núria repassa el currículum tot prendre un cafè."
+        why: "Darrere de *tot* va un gerundi: *prenent*."
+    grading: tolerant
+    explanation: "*Tot + gerundi* expressa dues accions alhora. El gerundi de *prendre* és *prenent*."
+
+  - id: b2-42-045
+    type: transform
+    point: compte-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase sense el gerundi de posterioritat."
+    source: "El cap va aprovar la sol·licitud[[, enviant-la després a recursos humans]]."
+    answers:
+      - "El cap va aprovar la sol·licitud i la va enviar després a recursos humans."
+      - "El cap va aprovar la sol·licitud i després la va enviar a recursos humans."
+    grading: tolerant
+    explanation: "*Enviar* és posterior a aprovar. El gerundi no pot expressar posterioritat: coordinem amb *i* i un verb conjugat."
+
+  - id: b2-42-046
+    type: transform
+    point: compte-gerundi
+    lesson: 4
+    instruction: "Substitueix el gerundi per una oració de relatiu amb «que»."
+    source: "Hem publicat una oferta [[demanant]] un enginyer amb experiència."
+    answers: ["Hem publicat una oferta que demana un enginyer amb experiència."]
+    wrong_answers:
+      - text: "Hem publicat una oferta que demanen un enginyer amb experiència."
+        why: "El subjecte del relatiu és «una oferta»: singular, *que demana*."
+    grading: tolerant
+    explanation: "El gerundi no pot qualificar un nom: una oferta *demanant* és un calc del castellà. El català diu una oferta *que demana*."
+
+  - id: b2-42-047
+    type: transform
+    point: tot-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase amb «tot» + gerundi."
+    source: "El Wei estudia català [[mentre va]] a la feina en tren."
+    answers: ["El Wei estudia català tot anant a la feina en tren."]
+    wrong_answers:
+      - text: "El Wei estudia català tot anar a la feina en tren."
+        why: "Darrere de *tot* va un gerundi: *anant*."
+    grading: tolerant
+    explanation: "*Tot + gerundi* marca les dues accions alhora. *Anar* fa el gerundi *anant*."
+
+  - id: b2-42-048
+    type: fill
+    point: en-infinitiu
+    lesson: 4
+    prompt: "___ la carta d'acomiadament, el Pau es va quedar sense paraules."
+    hint: "rebre, *en + infinitiu*"
+    answers: ["En rebre"]
+    grading: tolerant
+    explanation: "Es va quedar sense paraules tot just després de rebre la carta: *en rebre*."
+
+  - id: b2-42-049
+    type: inline-choice
+    point: gerundi-simultani
+    lesson: 4
+    title: "Dia d'entrevistes"
+    text: "La Laia va arribar {corrent|corrint} a l'oficina perquè s'havia fet tard, {tenint|tenent} por de perdre l'oportunitat. A la sala va contestar les preguntes {somrient|somrint} i {dient|diguent} sempre la veritat."
+    explanation: "Els verbs en *-er* fan el gerundi en *-ent* (*corrent*), els verbs en *-ir* en *-int* (*tenint*). *Somriure* fa *somrient* i dir fa *dient*, que són irregulars."
+
+  - id: b2-42-050
+    type: fill
+    point: tot-gerundi
+    lesson: 4
+    prompt: "Va sopar ___ les notícies de la feina al mòbil."
+    hint: "mirar, *tot + gerundi*"
+    answers: ["tot mirant"]
+    wrong_answers:
+      - text: "tot mirar"
+        why: "Darrere de *tot* va un gerundi: *mirant*."
+    grading: tolerant
+    explanation: "Les dues accions passen alhora: sopar i mirar el mòbil. Tot + gerundi."
+
+  - id: b2-42-051
+    type: order
+    point: tot-gerundi
+    lesson: 4
+    cue: "Digues que el Pau repassa els apunts mentre espera el torn."
+    chunks: ["El Pau", "repassa", "els apunts", "tot", "esperant", "el torn"]
+    extra: ["esperar"]
+    answers:
+      - "El Pau repassa els apunts tot esperant el torn."
+    explanation: "*Tot* va davant del gerundi: *tot esperant*. Marca que l'espera i el repàs passen alhora."
+
+  - id: b2-42-052
+    type: order
+    point: en-infinitiu
+    lesson: 4
+    cue: "Digues que, tot just va conèixer el cap, el Wei es va relaxar."
+    chunks: ["En", "conèixer-lo", "el Wei", "es va relaxar"]
+    extra: ["coneixent"]
+    answers:
+      - "En conèixer-lo, el Wei es va relaxar."
+      - "El Wei es va relaxar en conèixer-lo."
+    explanation: "*En + infinitiu* expressa immediatesa i el pronom enclític va amb guionet: *en conèixer-lo*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-42-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La primera entrevista de l'Arnau"
+    text: |
+      Fa tres setmanes, l'Arnau va tenir la primera entrevista de feina en una empresa de logística de Martorell. Havia enviat el currículum a una vintena d'empreses, escrivint una carta de presentació diferent per a cada una, i només dues li havien respost. La nit abans gairebé no va dormir, repassant mentalment les preguntes més habituals.
+
+      L'endemà es va llevar d'hora i va arribar a l'oficina quaranta minuts abans, tot i que la cita era a les deu. Mentre esperava a la recepció, va intentar tranquil·litzar-se respirant a poc a poc. En entrar a la sala, es va trobar amb dues persones: la Montse, cap de recursos humans, i el Jordi, responsable del magatzem. Tots dos el van saludar somrient, i això el va calmar una mica.
+
+      Les primeres preguntes eren sobre l'experiència anterior. L'Arnau va explicar que havia treballat tres anys en un supermercat, on sovint feia hores extres a Nadal. Després, la Montse li va preguntar què faria si dos companys discutissin pel torn. Va contestar que intentaria parlar-hi per separat, escoltant tots dos abans de proposar res. El Jordi va assentir i va prendre notes.
+
+      Cap al final, li van preguntar pel sou. L'Arnau, que s'ho havia preparat, va donar una xifra raonable sense posar-se nerviós. En acabar l'entrevista, la Montse li va dir que decidirien en una setmana. Ell va sortir content, però durant els dies següents va estar pendent del mòbil. Divendres passat, per fi, li van trucar: l'havien seleccionat per a un període de prova de tres mesos, i dilluns que ve comença. Ara diu que, si ha de fer-ne una altra, no s'angoixarà tant la nit abans.
+    questions:
+      - prompt: "Com va preparar l'Arnau la seva candidatura?"
+        answer: "Va escriure una carta de presentació diferent per a cada empresa."
+        distractors:
+          - text: "Va enviar el mateix currículum a totes les empreses de Martorell."
+            why: "El text diu que va fer una carta de presentació diferent per a cada empresa."
+          - text: "Va fer una prova de logística abans d'enviar el currículum."
+            why: "El text no esmenta cap prova abans d'enviar-lo."
+      - prompt: "Què va fer l'Arnau mentre esperava a la recepció?"
+        answer: "Va respirar a poc a poc per calmar-se."
+        distractors:
+          - text: "Va repassar el currículum amb la Montse."
+            why: "La Montse no hi era: la va conèixer en entrar a la sala."
+          - text: "Va parlar una estona amb el Jordi."
+            why: "El Jordi era a la sala de l'entrevista, no a la recepció."
+      - prompt: "Què va respondre l'Arnau sobre un conflicte entre dos companys?"
+        answer: "Parlaria amb cadascun per separat i els escoltaria abans de decidir."
+        distractors:
+          - text: "Ho comunicaria directament al cap de recursos humans."
+            why: "No parla de comunicar-ho a recursos humans, sinó de parlar-hi ell mateix."
+          - text: "Canviaria el torn d'un dels dos companys."
+            why: "El conflicte és pel torn, però no diu que el canviï."
+      - prompt: "Què va passar després de l'entrevista?"
+        answer: "Va esperar uns dies i al final el van seleccionar per a un període de prova."
+        distractors:
+          - text: "Va rebre la resposta l'endemà mateix."
+            why: "La Montse li va dir que decidirien en una setmana."
+          - text: "El van rebutjar, però el van avisar per a una altra oferta."
+            why: "El van seleccionar: dilluns que ve comença."
+    explanation: "El text explica la preparació, l'entrevista i el resultat de la primera entrevista de feina de l'Arnau."
+
+  - id: b2-42-054
+    type: choice
+    point: tot-gerundi
+    lesson: 5
+    prompt: "Què vol dir «Va explicar el projecte tot somrient»?"
+    answer: "Somreia mentre explicava el projecte."
+    distractors:
+      - text: "Va somriure només quan va acabar d'explicar-lo."
+        why: "*Tot + gerundi* expressa simultaneïtat, no una acció posterior."
+      - text: "Va explicar-lo encara que no tenia ganes de somriure."
+        why: "Aquest valor d'oposició requeriria un context concret. Aquí *tot somrient* indica que les dues accions passen alhora."
+    explanation: "*Tot + gerundi* marca dues accions simultànies: explicava i somreia a la vegada."
+
+  - id: b2-42-055
+    type: find-error
+    point: compte-gerundi
+    lesson: 5
+    sentence: "Hem rebut moltes sol·licituds demanant informació sobre el torn de nit."
+    error: "demanant"
+    fix: "que demanen"
+    fix_distractors:
+      - text: "que demanant"
+        why: "*Que* demana un verb conjugat, no un gerundi."
+      - text: "que demana"
+        why: "El subjecte és «moltes sol·licituds», plural: *que demanen*."
+    explanation: "El gerundi no pot qualificar un nom (sol·licituds *demanant*): és un calc del castellà. En català fem servir una oració de relatiu: sol·licituds *que demanen*."
+
+  - id: b2-42-056
+    type: inline-choice
+    point: en-infinitiu
+    lesson: 5
+    title: "Un dilluns a l'oficina"
+    text: "{En|A|Quan} arribar a l'oficina, el Pau va saludar els companys. Va treballar tot el matí {tenint|tenent|tingut} mal de cap, però no va dir res. {En|A|Quan} acabar el torn, va escriure un informe {que reunia|reunint|reunent} les queixes dels clients."
+    explanation: "*En + infinitiu* expressa immediatesa (*en arribar*, *en acabar*); *quan* demana un verb conjugat. *Tenint* és un gerundi simultani. Per qualificar un nom, relatiu: un informe *que reunia*."
+
+  - id: b2-42-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "El Jordi va ___ tot el mes per acabar el projecte."
+    hint: "expressió: treballar molt i amb ganes"
+    answers: ["treballar de valent"]
+    wrong_answers:
+      - text: "treballar de valents"
+        why: "En l'expressió, *valent* és invariable: *de valent*."
+    grading: tolerant
+    explanation: "«Treballar de valent» vol dir treballar molt i amb ganes."
+
+  - id: b2-42-058
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Aquest mes he fet moltes ___ i encara no sé si me les pagaran."
+    hint: "*fer hores extres*: el nom i l'adjectiu, en plural"
+    answers: ["hores extres", "hores extraordinàries"]
+    grading: tolerant
+    explanation: "Les *hores extres* són les que es treballen a més de la jornada pactada, i poden pagar-se a part."
+
+  - id: b2-42-059
+    type: match
+    point: gerundi-simultani
+    lesson: 5
+    instruction: "Relaciona cada infinitiu amb el seu gerundi."
+    pairs:
+      - ["perdre", "perdent"]
+      - ["conèixer", "coneixent"]
+      - ["rebre", "rebent"]
+      - ["dir", "dient"]
+      - ["veure", "veient"]
+    explanation: "Els verbs en *-er* i en *-re* fan el gerundi en *-ent*; *dir* i *veure* són formes irregulars en *-ient*."
+
+  - id: b2-42-060
+    type: order
+    point: compte-gerundi
+    lesson: 5
+    cue: "Explica que el cap va signar el contracte i, després, el va enviar a l'assessoria."
+    chunks: ["El cap", "va signar", "el contracte", "i després", "el va enviar", "a l'assessoria"]
+    extra: ["enviant-lo"]
+    answers:
+      - "El cap va signar el contracte i després el va enviar a l'assessoria."
+    explanation: "Una acció posterior es coordina amb *i* + verb conjugat. El gerundi (*enviant-lo*) no pot expressar posterioritat."
+
+  - id: b2-42-061
+    type: choice
+    point: en-infinitiu
+    lesson: 5
+    prompt: "Quina frase vol dir que la Núria va trucar a la cap just després de sortir?"
+    answer: "En sortir, la Núria va trucar a la cap."
+    distractors:
+      - text: "La Núria va sortir trucant a la cap."
+        why: "El gerundi expressa simultaneïtat: truca mentre surt, no després."
+      - text: "La Núria va sortir tot trucant a la cap."
+        why: "*Tot + gerundi* també marca simultaneïtat."
+    explanation: "Per a l'acció que passa tot just després d'una altra fem servir *en + infinitiu*: *en sortir*."
+
+  - id: b2-42-062
+    type: fill
+    point: gerundi-simultani
+    lesson: 5
+    prompt: "El recepcionista va atendre la trucada ___ un correu."
+    hint: "escriure, gerundi"
+    answers: ["escrivint"]
+    wrong_answers:
+      - text: "escrivent"
+        why: "*Escriure* és irregular: el gerundi és *escrivint*."
+    grading: tolerant
+    explanation: "Les dues accions són simultànies: atenia la trucada i escrivia. *Escriure* fa el gerundi *escrivint*."
+
+  - id: b2-42-063
+    type: find-error
+    point: tot-gerundi
+    lesson: 5
+    sentence: "L'Ibrahim treballa a casa tot escoltant música clàssica."
+    no_error: true
+    explanation: "La frase és correcta: *tot + gerundi* expressa que treballa i escolta música a la vegada."
+
+  - id: b2-42-064
+    type: transform
+    point: compte-gerundi
+    lesson: 5
+    instruction: "Reescriu la frase sense el gerundi de posterioritat."
+    source: "L'empresa va contractar tres persones[[, formant-les després durant un mes]]."
+    answers:
+      - "L'empresa va contractar tres persones i les va formar després durant un mes."
+      - "L'empresa va contractar tres persones i després les va formar durant un mes."
+    grading: tolerant
+    explanation: "*Formar* és posterior a contractar. Una acció posterior no es diu amb gerundi: es coordina amb *i* + verb conjugat."

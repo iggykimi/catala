@@ -1,0 +1,996 @@
+id: b1-14
+level: B1
+title: "El pronom en (I): procedència i partitiu"
+summary: "Aprens a fer servir *en* per a la procedència (*en vinc*) i per a les quantitats (*en vull tres*, *no en tinc cap*, *n'hi ha molts*)."
+vocabulary_theme: "Mercat, alimentació i receptes"
+points:
+  - id: en-procedencia
+    title: "*En* de procedència: *en vinc*, *en surto*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: en-partitiu
+    title: "*En* partitiu: *en tinc dos*, *en vull una mica*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: en-quantitat
+    title: "*Cap*, *gens*, *n'hi ha* i la forma del pronom"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: no ometre *en*"
+  - id: expressions
+    title: "Expressions amb *en*"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: d'on venim i quants en volem"
+  - title: "Practicar *en*: procedència i partitiu"
+  - title: "*Cap*, *gens*, *n'hi ha* i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el mercat"
+    definition: "Lloc on es venen aliments i altres productes en parades."
+    example: "Cada dissabte vaig al mercat a comprar fruita."
+  - word: "la parada"
+    definition: "Taulell d'un mercat on una persona ven els seus productes."
+    example: "A la parada de la Rosa sempre hi ha tomàquets bons."
+  - word: "el paradista"
+    definition: "Persona que ven en una parada del mercat."
+    example: "El paradista em va guardar mig quilo de cireres."
+  - word: "la fruiteria"
+    definition: "Botiga on es ven fruita i verdura."
+    example: "La fruiteria del barri obre a les vuit."
+  - word: "la peixateria"
+    definition: "Botiga on es ven peix i marisc."
+    example: "A la peixateria hi havia molta cua."
+  - word: "la carnisseria"
+    definition: "Botiga on es ven carn."
+    example: "Demanaré a la carnisseria un tros de vedella."
+  - word: "la fleca"
+    definition: "Botiga on es ven pa."
+    example: "Passa per la fleca i compra una barra de pa."
+  - word: "el quilo"
+    definition: "Mil grams; es fa servir per pesar els aliments."
+    example: "Necessito mig quilo de farina per a la massa."
+  - word: "la dotzena"
+    definition: "Conjunt de dotze unitats, sobretot d'ous."
+    example: "Vam comprar una dotzena d'ous per a la truita."
+  - word: "la barra de pa"
+    definition: "Pa allargat que es compra a la fleca."
+    example: "Amb una barra de pa en tenim prou per sopar."
+  - word: "el pebrot"
+    definition: "Verdura de color verd, vermell o groc que es menja crua o cuinada."
+    example: "Aquest pebrot vermell és molt dolç."
+  - word: "la ceba"
+    definition: "Verdura de capes que fa plorar quan es talla."
+    example: "Per al sofregit necessito dues cebes."
+  - word: "el tomàquet"
+    definition: "Fruit vermell que fem servir en amanides i salses."
+    example: "Els tomàquets de l'hort tenen molt de gust."
+  - word: "la mongeta"
+    definition: "Verdura llarga i verda, o llegum blanc que es menja cuit."
+    example: "Aquest dinar farem mongetes amb patates."
+  - word: "la maduixa"
+    definition: "Fruita petita, vermella i dolça."
+    example: "A la primavera mengem maduixes cada dia."
+  - word: "la cirera"
+    definition: "Fruita petita i vermella amb pinyol, de començament d'estiu."
+    example: "Les primeres cireres de l'any són les més cares."
+  - word: "el meló"
+    definition: "Fruita gran i dolça que es menja a l'estiu."
+    example: "Un meló ben fred és ideal per a les postres."
+  - word: "el formatge"
+    definition: "Aliment fet amb llet que s'ha deixat madurar."
+    example: "Volia un tros de formatge tendre."
+  - word: "l'ou"
+    definition: "Producte de les gallines que fem servir per a truites i pastissos."
+    example: "Per a la truita necessites sis ous."
+  - word: "l'oli"
+    definition: "Líquid gras que s'obté de l'oliva i que fem servir per cuinar."
+    example: "Posa una mica d'oli a l'amanida."
+  - word: "el sucre"
+    definition: "Substància dolça que posem al cafè o als pastissos."
+    example: "No vull sucre al cafè, gràcies."
+  - word: "la farina"
+    definition: "Pols de blat que s'utilitza per fer pa i pastissos."
+    example: "Per al pastís necessito tres-cents grams de farina."
+  - word: "la recepta"
+    definition: "Text que explica com es cuina un plat i quins ingredients cal."
+    example: "La recepta de la meva àvia no porta massa sal."
+  - word: "l'ingredient"
+    definition: "Cadascun dels aliments que formen part d'un plat."
+    example: "Només ens falta un ingredient: la ceba."
+  - word: "el rebost"
+    definition: "Lloc de la casa on es guarden els aliments."
+    example: "Al rebost encara hi ha un paquet d'arròs."
+  - word: "la cistella"
+    definition: "Cove que s'utilitza per portar la compra."
+    example: "Va omplir la cistella de fruita."
+  - word: "la cua"
+    definition: "Fila de persones que esperen el seu torn."
+    example: "A la fleca hi havia tanta cua que vaig marxar."
+  - word: "pesar"
+    definition: "Saber quant pesa una cosa, amb una balança."
+    example: "El paradista em va pesar les cebes."
+  - word: "fregir"
+    definition: "Cuinar un aliment en oli calent."
+    example: "Fregeix les patates a foc lent."
+  - word: "bullir"
+    definition: "Cuinar un aliment en aigua que fa bombolles."
+    example: "Cal bullir els macarrons deu minuts."
+  - word: "tallar"
+    definition: "Dividir un aliment en trossos amb un ganivet."
+    example: "Talla la ceba ben petita."
+  - word: "la truita"
+    definition: "Plat fet amb ous batuts, sovint amb patata."
+    example: "Aquesta truita de patates és massa crua."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-14-001
+    type: choice
+    point: en-procedencia
+    lesson: 1
+    prompt: "—Vens de la feina? —Sí, ___ vinc ara mateix."
+    answer: "en"
+    distractors:
+      - text: "hi"
+        why: "*Hi* indica el lloc on anem o on som. Aquí «de la feina» és el lloc d'on venim: *en*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un *això*, no un lloc."
+      - text: "la"
+        why: "*La* és complement directe femení. «De la feina» és un complement amb *de*, no un complement directe."
+    explanation: "«De la feina» és el lloc d'on venim. Un complement de lloc amb *de* es substitueix per *en*: *en vinc*."
+
+  - id: b1-14-002
+    type: choice
+    point: en-procedencia
+    lesson: 1
+    prompt: "—Has estat a Tarragona? —Sí, justament ___ vinc: hi he passat el cap de setmana."
+    answer: "en"
+    distractors:
+      - text: "hi"
+        why: "*Hi vinc* vol dir que venim cap a Tarragona. Si en tornem, és el lloc d'on venim: *en*."
+      - text: "ho"
+        why: "*Ho* és neutre i no substitueix un nom de lloc."
+    explanation: "Tarragona és el lloc d'on venim, introduït per *de* (*vinc de Tarragona*). El pronom és *en*."
+
+  - id: b1-14-003
+    type: choice
+    point: en-procedencia
+    lesson: 1
+    prompt: "Acabes d'arribar de Reus. Quina frase ho diu?"
+    answer: "En vinc ara."
+    distractors:
+      - text: "Hi vaig ara."
+        why: "*Hi vaig* vol dir que vas cap a Reus, no que en vens."
+      - text: "Ho vinc ara."
+        why: "*Ho* no substitueix un lloc; per a un lloc d'origen fem servir *en*."
+    explanation: "Per dir d'on vens, el pronom és *en*: *en vinc*. Per dir on vas, és *hi*: *hi vaig*."
+
+  - id: b1-14-004
+    type: choice
+    point: en-partitiu
+    lesson: 1
+    prompt: "—Quantes pomes vols? —___ vull tres, si us plau."
+    answer: "En"
+    distractors:
+      - text: "Les"
+        why: "*Les* substitueix «les pomes» concretes i conegudes. Quan diem la quantitat (*tres*), el pronom és *en*."
+      - text: "Hi"
+        why: "*Hi* és per a un lloc, no per a una quantitat."
+    explanation: "El nom (*pomes*) no es repeteix i la quantitat (*tres*) es queda a la frase: aleshores el pronom és *en*."
+
+  - id: b1-14-005
+    type: choice
+    point: en-partitiu
+    lesson: 1
+    prompt: "—Tens germans? —Sí, ___ tinc dos."
+    answer: "en"
+    distractors:
+      - text: "els"
+        why: "*Els tinc dos* no és correcte: amb una quantitat darrere del verb, el pronom és *en*."
+      - text: "ho"
+        why: "*Ho* és neutre; aquí substituïm un nom plural, *germans*."
+    explanation: "*Germans* no porta article i la resposta diu la quantitat (*dos*): *en tinc dos*."
+
+  - id: b1-14-006
+    type: choice
+    point: en-partitiu
+    lesson: 1
+    prompt: "Quina frase substitueix bé «pa» a «No tinc pa»?"
+    answer: "No en tinc."
+    distractors:
+      - text: "No el tinc."
+        why: "*El* seria un pa concret i conegut. «Pa» no porta article: partitiu, *en*."
+      - text: "No ho tinc."
+        why: "*Ho* substitueix una idea, no un nom com *pa*."
+      - text: "No hi tinc."
+        why: "*Hi* és per a un lloc, no per a un aliment."
+    explanation: "Un nom sense article (*pa*) es substitueix per *en*: *no en tinc*."
+
+  - id: b1-14-007
+    type: choice
+    point: en-partitiu
+    lesson: 1
+    prompt: "—Tens el llibre que et vaig deixar? —Sí, ___ tinc a la motxilla."
+    answer: "el"
+    distractors:
+      - text: "en"
+        why: "*En* és per a un nom sense determinar o amb quantitat. Aquí «el llibre» és concret i conegut."
+      - text: "hi"
+        why: "*Hi* seria el lloc («a la motxilla»), però el que substituïm és el llibre."
+    explanation: "«El llibre» porta article i és concret: el pronom és *el*. *En* només va amb noms sense determinant o amb quantitat."
+
+  - id: b1-14-008
+    type: inline-choice
+    point: en-partitiu
+    lesson: 1
+    title: "Missatge des del mercat"
+    text: "Núria, soc al mercat de Vic. Els tomàquets són bonics i {n'|els |hi }he comprat mig quilo. Després he passat per la peixateria, però no {n'|l'|ho }he comprat gens: era tot molt car. Quina gent! Aquí {n'hi|en hi|ne hi} ha per llogar-hi cadires."
+    explanation: "*N'he comprat*: *en* s'apostrofa davant de *he*. *No n'he comprat gens*: *gens* demana *en*. *N'hi ha*: *en* + *hi* donen *n'hi*."
+
+  - id: b1-14-009
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["no en tinc ni idea", "No sé res d'aquest tema."]
+      - ["n'hi ha per llogar-hi cadires", "A la plaça hi ha tanta gent que no es pot passar."]
+      - ["ja n'hi ha prou", "Ja és suficient: cal parar."]
+      - ["n'hi ha de tots colors", "Hi ha molta varietat."]
+    explanation: "Són expressions molt habituals i totes porten *en*. La que parla de gent o coses en abundància és *n'hi ha per llogar-hi cadires*."
+
+  - id: b1-14-010
+    type: fill
+    point: en-procedencia
+    lesson: 1
+    prompt: "El Wei viu a Salt, però treballa a Girona: cada matí ___ surt a dos quarts de vuit."
+    hint: "pronom per a «de Salt»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "hi"
+        why: "*Hi surt* voldria dir «surt cap allà». Salt és el lloc d'on surt: *en*."
+    grading: tolerant
+    explanation: "Surt de Salt: un lloc introduït per *de*. El pronom és *en*."
+
+  - id: b1-14-011
+    type: fill
+    point: en-partitiu
+    lesson: 1
+    prompt: "—Quants pebrots necessites? —___ necessito quatre."
+    hint: "pronom per a «pebrots»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "els"
+        why: "*Els* substitueix «els pebrots» determinats. Amb una quantitat darrere del verb, el pronom és *en*."
+    grading: tolerant
+    explanation: "La quantitat (*quatre*) es queda a la frase i el nom desapareix: *en necessito quatre*."
+
+  - id: b1-14-012
+    type: order
+    point: en-partitiu
+    lesson: 1
+    cue: "Et pregunten si tens ous. Respon que de moment en tens sis."
+    chunks: ["de moment", "en", "tinc", "sis"]
+    extra: ["els"]
+    answers:
+      - "De moment en tinc sis."
+      - "En tinc sis de moment."
+    explanation: "El pronom *en* va just davant del verb: *en tinc*. La quantitat, *sis*, es queda després."
+
+  - id: b1-14-013
+    type: order
+    point: en-procedencia
+    lesson: 1
+    cue: "Un amic et pregunta on ets. Digues que ara mateix surts de la biblioteca."
+    chunks: ["en", "surto", "ara mateix"]
+    extra: ["hi"]
+    answers:
+      - "En surto ara mateix."
+      - "Ara mateix en surto."
+    explanation: "Surts d'un lloc (*de la biblioteca*): *en*. El pronom va davant del verb conjugat: *en surto*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-14-014
+    type: fill
+    point: en-procedencia
+    lesson: 2
+    prompt: "—Quan tornes de Manresa? —___ torno dijous, si el tren va bé."
+    hint: "pronom per a «de Manresa»"
+    answers: ["En"]
+    wrong_answers:
+      - text: "Hi"
+        why: "*Hi torno* voldria dir que tornes cap a Manresa. Aquí Manresa és el lloc d'on tornes: *en*."
+    grading: tolerant
+    explanation: "«De Manresa» és el lloc d'on tornes, introduït per *de*: *en torno*."
+
+  - id: b1-14-015
+    type: fill
+    point: en-procedencia
+    lesson: 2
+    prompt: "—A quina hora surt la Laia de classe? —___ surt a les cinc."
+    hint: "pronom per a «de classe»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "hi"
+        why: "*Hi* indica el lloc on anem o on som, no d'on sortim."
+    grading: tolerant
+    explanation: "«De classe» és el lloc d'on surt la Laia: *en surt*."
+
+  - id: b1-14-016
+    type: fill
+    point: en-partitiu
+    lesson: 2
+    prompt: "No tinc cebes. Ara baixo a la fruiteria i ___ compro mitja dotzena."
+    hint: "pronom per a «cebes»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "les"
+        why: "*Les* substitueix unes cebes concretes. Amb una quantitat (*mitja dotzena*), el pronom és *en*."
+    grading: tolerant
+    explanation: "El nom (*cebes*) no es repeteix i la quantitat es queda: *en compro mitja dotzena*."
+
+  - id: b1-14-017
+    type: fill
+    point: en-partitiu
+    lesson: 2
+    prompt: "—Queda sopa a la nevera. —Gràcies, ___ menjaré una mica."
+    hint: "pronom per a «sopa»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "la"
+        why: "*La menjaré una mica* no és correcte: amb *una mica* (una part) el pronom és *en*."
+    grading: tolerant
+    explanation: "*Una mica* indica una part de la sopa, no tota. Això és el partitiu: *en menjaré una mica*."
+
+  - id: b1-14-018
+    type: fill
+    point: en-partitiu
+    lesson: 2
+    prompt: "—Vols una galeta? —Sí, ___ una, gràcies."
+    hint: "*agafar*, present; pronom per a «galeta»"
+    answers: ["n'agafo"]
+    wrong_answers:
+      - text: "l'agafo"
+        why: "*L'agafo* seria una galeta concreta i coneguda. Aquí hi ha *una* (quantitat): *n'agafo una*."
+      - text: "en agafo"
+        why: "Davant de vocal, *en* s'apostrofa: *n'agafo*."
+    grading: strict
+    explanation: "Davant d'un verb que comença per vocal, *en* s'apostrofa: *n'agafo una*."
+
+  - id: b1-14-019
+    type: order
+    point: en-partitiu
+    lesson: 2
+    cue: "Et demanen si tens pebrots. Respon que en tens un de verd."
+    chunks: ["en", "tinc", "un", "de verd"]
+    extra: ["el"]
+    answers:
+      - "En tinc un de verd."
+    explanation: "Amb un adjectiu darrere de *en* i *un*, l'adjectiu porta *de*: *en tinc un de verd*."
+
+  - id: b1-14-020
+    type: order
+    point: en-procedencia
+    lesson: 2
+    cue: "Explica que la teva germana torna de Perpinyà dissabte."
+    chunks: ["la meva germana", "en", "torna", "dissabte"]
+    extra: ["hi"]
+    answers:
+      - "La meva germana en torna dissabte."
+      - "Dissabte la meva germana en torna."
+    explanation: "*De Perpinyà* es converteix en *en*, i va davant del verb: *en torna*."
+
+  - id: b1-14-021
+    type: order
+    point: en-partitiu
+    lesson: 2
+    cue: "Al forn et pregunten si vols més pa. Respon que només vols dues barres."
+    chunks: ["només", "en", "vull", "dues"]
+    extra: ["les"]
+    answers:
+      - "Només en vull dues."
+      - "En vull només dues."
+    explanation: "*Dues* és la quantitat i *en* substitueix el nom que ja s'ha dit: *en vull dues*."
+
+  - id: b1-14-022
+    type: choice
+    point: en-partitiu
+    lesson: 2
+    prompt: "—Vols tomàquets verds o vermells? —___ vull de vermells."
+    answer: "En"
+    distractors:
+      - text: "Els"
+        why: "*Els* seria per a uns tomàquets concrets i coneguts. Amb *de* + adjectiu, el pronom és *en*."
+      - text: "Hi"
+        why: "*Hi* és per a un lloc, no per a un nom."
+    explanation: "Quan el nom no es repeteix i l'adjectiu va amb *de*, fem servir *en*: *en vull de vermells*."
+
+  - id: b1-14-023
+    type: choice
+    point: en-partitiu
+    lesson: 2
+    prompt: "—Vols formatge a la pasta? —Sí, ___ vull un tros, si us plau."
+    answer: "en"
+    distractors:
+      - text: "el"
+        why: "*El vull un tros* no és correcte: *un tros* és una part del formatge, i aleshores cal *en*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea, no un aliment com *formatge*."
+    explanation: "*Un tros* és una part del formatge: partitiu. *En vull un tros*."
+
+  - id: b1-14-024
+    type: choice
+    point: compte-castella
+    lesson: 2
+    prompt: "—Vols més sopa? —Quina resposta és correcta?"
+    answer: "Sí, en vull una mica."
+    distractors:
+      - text: "Sí, vull una mica."
+        why: "Sense *en* és un calc del castellà «quiero un poco». En català, si no repetim *sopa*, cal *en*."
+      - text: "Sí, la vull una mica."
+        why: "*La* substitueix una sopa concreta; amb *una mica* cal el partitiu *en*."
+    explanation: "El català no deixa el nom sense pronom: si no repetim *sopa*, escrivim *en vull una mica*."
+
+  - id: b1-14-025
+    type: choice
+    point: en-procedencia
+    lesson: 2
+    prompt: "Ens han dit que el peix ve de Palamós. Jo penso que ___ ve cada dia."
+    answer: "en"
+    distractors:
+      - text: "ho"
+        why: "*Ho* substitueix una idea; aquí és el lloc d'origen del peix: *en*."
+      - text: "la"
+        why: "*La* és un complement directe femení, i aquí no n'hi ha cap: el que hi ha és un lloc d'origen."
+    explanation: "«De Palamós» és el lloc d'on ve el peix: *en ve*."
+
+  - id: b1-14-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «A la plaça n'hi ha per llogar-hi cadires»?"
+    answer: "Que n'hi ha en abundància."
+    distractors:
+      - text: "Que hi ha cadires per llogar."
+        why: "No és literal: l'expressió vol dir que n'hi ha moltíssims."
+      - text: "Que no n'hi ha cap."
+        why: "Vol dir tot el contrari: n'hi ha en gran quantitat."
+    explanation: "*N'hi ha per llogar-hi cadires* és una expressió que vol dir que hi ha una cosa (o gent) en gran abundància."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-14-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Tens germans? —Sí, tinc dos."
+    error: "tinc dos"
+    fix: "en tinc dos"
+    fix_distractors:
+      - text: "els tinc dos"
+        why: "*Els tinc dos* no és correcte: amb una quantitat darrere del verb, el pronom és *en*."
+      - text: "hi tinc dos"
+        why: "*Hi* és per a un lloc, no per a un nom de persones."
+    explanation: "Calc del castellà «tengo dos». En català, el nom no es repeteix, però el pronom *en* és obligatori: *en tinc dos*."
+
+  - id: b1-14-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Tens llimones? —Sí, tinc quatre a la nevera."
+    error: "tinc quatre"
+    fix: "en tinc quatre"
+    fix_distractors:
+      - text: "les tinc quatre"
+        why: "*Les tinc quatre* no és correcte: amb una quantitat, el pronom és *en*."
+      - text: "hi tinc quatre"
+        why: "*Hi* seria el lloc («a la nevera»), però falta el pronom del nom."
+    explanation: "Sense *en* és un calc del castellà. Amb la quantitat darrere del verb, cal *en*: *en tinc quatre*."
+
+  - id: b1-14-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Tens carn per al sopar? —Sí, en tinc mig quilo al congelador."
+    no_error: true
+    explanation: "La frase és correcta: *en tinc mig quilo* porta el pronom *en* i la quantitat."
+
+  - id: b1-14-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Queden entrades per al concert? —Sí, però queden poques."
+    error: "queden poques"
+    fix: "en queden poques"
+    fix_distractors:
+      - text: "les queden poques"
+        why: "*Les* substitueix unes entrades concretes. Amb una quantitat (*poques*), el pronom és *en*."
+      - text: "hi queden poques"
+        why: "*Hi* és per a un lloc. Aquí falta el pronom que substitueix *entrades*: *en*."
+    explanation: "Sense *en* és un calc del castellà «quedan pocas». Si no repetim el nom, cal *en*: *en queden poques*."
+
+  - id: b1-14-031
+    type: find-error
+    point: en-quantitat
+    lesson: 3
+    sentence: "—Hi ha cadires lliures? —Sí, hi ha dues a la terrassa."
+    error: "hi ha dues"
+    fix: "n'hi ha dues"
+    fix_distractors:
+      - text: "en hi ha dues"
+        why: "*En* i *hi* es combinen en *n'hi*: *en hi* no existeix."
+      - text: "els hi ha dues"
+        why: "*Els* no serveix per a un nom amb quantitat; cal *en* i, amb *hi*, *n'hi*."
+    explanation: "*Hi ha* sol no substitueix el nom. Amb *en* + *hi* escrivim *n'hi ha dues*."
+
+  - id: b1-14-032
+    type: find-error
+    point: en-quantitat
+    lesson: 3
+    sentence: "Aquest any hi ha poques cireres, però a la parada de la Rosa n'hi ha de molt bones."
+    no_error: true
+    explanation: "La frase és correcta: *n'hi ha de molt bones* porta *n'hi* i *de* + adjectiu."
+
+  - id: b1-14-033
+    type: fill
+    point: en-quantitat
+    lesson: 3
+    prompt: "—Hi ha pebrots verds? —No, no ___ ha cap."
+    hint: "*en* + *hi*"
+    answers: ["n'hi"]
+    wrong_answers:
+      - text: "hi"
+        why: "Sense *en*, no hi ha pronom per a *pebrots*: cal *n'hi*."
+      - text: "en hi"
+        why: "*En* i *hi* es combinen en *n'hi*."
+    grading: strict
+    explanation: "*En* + *hi* + *ha* donen *n'hi ha*. Amb *cap*, la frase negativa és *no n'hi ha cap*."
+
+  - id: b1-14-034
+    type: fill
+    point: en-quantitat
+    lesson: 3
+    prompt: "—Quants tomàquets tens? —No ___ tinc cap."
+    hint: "pronom per a «tomàquets»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "els"
+        why: "*Els* no serveix amb *cap*: la quantitat demana *en*."
+    grading: tolerant
+    explanation: "*Cap* és una quantitat (zero). Amb quantitat, el pronom és *en*: *no en tinc cap*."
+
+  - id: b1-14-035
+    type: fill
+    point: en-quantitat
+    lesson: 3
+    prompt: "—Vols sucre al cafè? —No, no ___ vull gens, gràcies."
+    hint: "pronom per a «sucre»"
+    answers: ["en"]
+    grading: tolerant
+    explanation: "*Gens* és la quantitat zero d'una cosa que no es compta. També porta *en*: *no en vull gens*."
+
+  - id: b1-14-036
+    type: fill
+    point: en-quantitat
+    lesson: 3
+    prompt: "Se'ns ha acabat l'oli: demà passaré pel súper per comprar-___ una ampolla."
+    hint: "pronom per a «oli», darrere l'infinitiu"
+    answers: ["ne"]
+    wrong_answers:
+      - text: "lo"
+        why: "*Comprar-lo* és el pronom d'«el oli» concret. Amb *una ampolla* (quantitat) és *-ne*."
+    grading: tolerant
+    explanation: "Darrere de l'infinitiu, *en* es converteix en *-ne*: *comprar-ne*."
+
+  - id: b1-14-037
+    type: choice
+    point: en-quantitat
+    lesson: 3
+    prompt: "—Hi ha entrades per al concert? —Sí, ___ ha moltes."
+    answer: "n'hi"
+    distractors:
+      - text: "en hi"
+        why: "*En* i *hi* es combinen en *n'hi*; *en hi* no existeix."
+      - text: "hi"
+        why: "Sense *en* no hi ha pronom per a *entrades*."
+    explanation: "*N'hi ha moltes*: *en* + *hi* donen *n'hi*, i la quantitat (*moltes*) es queda."
+
+  - id: b1-14-038
+    type: choice
+    point: en-quantitat
+    lesson: 3
+    prompt: "Convides amics a dinar i et falten tomàquets. La teva parella diu: «Si vas al mercat, ___ tres.»"
+    answer: "compra'n"
+    distractors:
+      - text: "compra-ne"
+        why: "Darrere d'un verb acabat en vocal, *en* es redueix a *'n*: *compra'n*."
+      - text: "compra'ls"
+        why: "*Compra'ls* seria per a uns tomàquets concrets; amb *tres*, cal *en*."
+    explanation: "Imperatiu acabat en vocal + *en* s'escriu *compra'n*. *Tres* és la quantitat."
+
+  - id: b1-14-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "—Hi ha botigues obertes a aquesta hora? —No, no ___ cap."
+    answer: "n'hi ha"
+    distractors:
+      - text: "hi ha"
+        why: "Sense *en* és un calc del castellà «no hay ninguna». Si no repetim el nom, cal *n'hi ha cap*."
+      - text: "en ha"
+        why: "Falta *hi*: la forma és *n'hi ha*."
+    explanation: "*Cap* sense nom demana *en*: *no n'hi ha cap*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-14-040
+    type: transform
+    point: en-procedencia
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Vinc [[de la biblioteca]] a les set."
+    answers: ["En vinc a les set."]
+    wrong_answers:
+      - text: "Hi vinc a les set."
+        why: "*Hi* indica el lloc on anem. «De la biblioteca» és el lloc d'on venim: *en*."
+    grading: tolerant
+    explanation: "El complement de lloc amb *de* es substitueix per *en*: *en vinc*."
+
+  - id: b1-14-041
+    type: transform
+    point: en-partitiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom i conserva la quantitat."
+    source: "Tenim dos [[gossos]] a casa."
+    answers: ["En tenim dos a casa."]
+    wrong_answers:
+      - text: "Els tenim dos a casa."
+        why: "*Els tenim dos* no és correcte: la quantitat (*dos*) demana *en*."
+    grading: tolerant
+    explanation: "El nom *gossos* desapareix i la quantitat es queda: *en tenim dos*."
+
+  - id: b1-14-042
+    type: transform
+    point: en-quantitat
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "No tinc cap [[pla]] per al cap de setmana."
+    answers: ["No en tinc cap per al cap de setmana."]
+    wrong_answers:
+      - text: "No el tinc cap per al cap de setmana."
+        why: "*El* no pot anar amb *cap*: la quantitat demana *en*."
+      - text: "No tinc cap per al cap de setmana."
+        why: "Sense *en* és un calc del castellà. Cal *no en tinc cap*."
+    grading: tolerant
+    explanation: "Amb *cap* sense nom, el pronom és *en*: *no en tinc cap*."
+
+  - id: b1-14-043
+    type: transform
+    point: en-quantitat
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Vull comprar tres caixes [[de maduixes]]."
+    answers:
+      - "En vull comprar tres caixes."
+      - "Vull comprar-ne tres caixes."
+    wrong_answers:
+      - text: "Les vull comprar tres caixes."
+        why: "*Les* seria per a unes maduixes concretes; amb *tres caixes*, el pronom és *en*."
+      - text: "Vull comprar-les tres caixes."
+        why: "*Comprar-les* seria per a unes maduixes concretes; amb quantitat, és *comprar-ne*."
+    grading: tolerant
+    explanation: "El pronom pot anar davant del verb conjugat (*en vull comprar*) o darrere l'infinitiu (*vull comprar-ne*)."
+
+  - id: b1-14-044
+    type: transform
+    point: en-quantitat
+    lesson: 4
+    instruction: "Substitueix el nom marcat per un pronom i manté l'ordre de la resta."
+    source: "Hi ha molts [[turistes]] a Sitges a l'agost."
+    answers: ["N'hi ha molts a Sitges a l'agost."]
+    wrong_answers:
+      - text: "Hi ha molts a Sitges a l'agost."
+        why: "Sense *en* és un calc del castellà. Cal *n'hi ha molts*."
+      - text: "En hi ha molts a Sitges a l'agost."
+        why: "*En* i *hi* es combinen en *n'hi*."
+    grading: tolerant
+    explanation: "*En* + *hi* + *ha* donen *n'hi ha*, i *molts* es queda com a quantitat."
+
+  - id: b1-14-045
+    type: transform
+    point: en-quantitat
+    lesson: 4
+    instruction: "Substitueix el nom marcat per un pronom."
+    source: "Compra dos [[ous]] al súper."
+    answers: ["Compra'n dos al súper."]
+    wrong_answers:
+      - text: "Compra-ne dos al súper."
+        why: "Darrere d'un imperatiu acabat en vocal, *en* s'escriu *'n*: *compra'n*."
+      - text: "Compra-los dos al súper."
+        why: "Amb una quantitat (*dos*), el pronom és *en*, no *els*. A més, darrere de *compra* la forma seria *compra'ls*."
+    grading: tolerant
+    explanation: "Imperatiu + *en*: *compra'n*. La quantitat, *dos*, es queda."
+
+  - id: b1-14-046
+    type: fill
+    point: en-procedencia
+    lesson: 4
+    prompt: "—Heu estat a Besalú? —Sí, ___ venim ara mateix, i estem cansadíssims."
+    hint: "pronom per a «de Besalú»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "hi"
+        why: "*Hi venim* voldria dir «venim cap allà». Aquí Besalú és el lloc d'on venim: *en*."
+    grading: tolerant
+    explanation: "Besalú és el lloc d'origen del moviment: *en venim*."
+
+  - id: b1-14-047
+    type: fill
+    point: en-partitiu
+    lesson: 4
+    prompt: "—Vols oli a l'amanida? —Sí, ___ vull una mica."
+    hint: "pronom per a «oli»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "el"
+        why: "*El vull una mica* no és correcte: *una mica* és una part, i aleshores cal *en*."
+    grading: tolerant
+    explanation: "*Una mica* és una part de l'oli: *en vull una mica*."
+
+  - id: b1-14-048
+    type: fill
+    point: en-quantitat
+    lesson: 4
+    prompt: "—Hi ha prou menjar per a tothom? —Sí, ___ de sobra."
+    hint: "*en* + *hi* + *haver*, present"
+    answers: ["n'hi ha"]
+    wrong_answers:
+      - text: "en hi ha"
+        why: "*En* i *hi* es combinen en *n'hi*."
+    grading: strict
+    explanation: "*N'hi ha de sobra*: *en* + *hi* donen *n'hi* i el verb va darrere."
+
+  - id: b1-14-049
+    type: fill
+    point: en-partitiu
+    lesson: 4
+    prompt: "—Tens maduixes? —Només ___ tinc una caixa, però és petita."
+    hint: "pronom per a «maduixes»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "les"
+        why: "*Les tinc una caixa* no és correcte: amb una quantitat (*una caixa*), el pronom és *en*."
+    grading: tolerant
+    explanation: "*Una caixa* és una quantitat de maduixes: *en tinc una caixa*."
+
+  - id: b1-14-050
+    type: order
+    point: en-quantitat
+    lesson: 4
+    cue: "Digues que no hi ha cap pastís a la nevera."
+    chunks: ["no", "n'hi", "ha", "cap", "a la nevera"]
+    extra: ["hi"]
+    answers:
+      - "No n'hi ha cap a la nevera."
+      - "A la nevera no n'hi ha cap."
+    explanation: "*N'hi ha* és un bloc que no se separa. *Cap* tanca la frase negativa: *no n'hi ha cap*."
+
+  - id: b1-14-051
+    type: order
+    point: en-quantitat
+    lesson: 4
+    instruction: "Ordena els fragments: el pronom va darrere de l'infinitiu."
+    cue: "Al mercat, digues que vols comprar tres dotzenes d'ous."
+    chunks: ["vull", "comprar-ne", "tres", "dotzenes"]
+    extra: ["comprar-los"]
+    answers:
+      - "Vull comprar-ne tres dotzenes."
+    explanation: "Darrere de l'infinitiu, *en* es converteix en *-ne*: *comprar-ne*."
+
+  - id: b1-14-052
+    type: order
+    point: en-quantitat
+    lesson: 4
+    cue: "Digues a un company que porti una barra de pa per al dinar de demà."
+    chunks: ["porta'n", "una", "barra", "demà"]
+    extra: ["porta-ne"]
+    answers:
+      - "Porta'n una barra demà."
+      - "Demà porta'n una barra."
+    explanation: "Imperatiu acabat en vocal + *en* s'escriu *porta'n*, no *porta-ne*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-14-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Dissabte al mercat de Vic"
+    text: |
+      Cada dissabte, la Montse va al mercat de Vic amb la seva filla, la Laia. Hi arriben d'hora, perquè a les deu ja hi ha cua a totes les parades.
+
+      Avui volen preparar un arròs de verdures per a vuit persones. A la parada del Pere, el fruiter, la Montse demana pebrots, però ell només en té un de vermell. En canvi, tomàquets n'hi ha de molts tipus, i la Montse en compra dos quilos. També agafa mitja dotzena de cebes.
+
+      La Laia mira les cireres. Voldria comprar-ne per a les postres, però el Pere li explica que encara no n'hi ha cap: no arribaran fins d'aquí a dues setmanes. Llavors la Laia tria un meló dolç i el paga ella.
+
+      A la carnisseria no compren gens de carn, perquè dos dels convidats són vegetarians. Quan passen per l'última parada, la Montse ja no pot portar res més a les mans.
+
+      —Ja n'hi ha prou —diu rient—. Tornem a casa, que se'ns farà tard.
+
+      Surten del mercat amb tres bosses plenes.
+    questions:
+      - prompt: "Què volen preparar la Montse i la Laia?"
+        answer: "Un plat d'arròs amb verdures per a vuit convidats."
+        distractors:
+          - text: "Una sopa de tomàquet per a tota la família."
+            why: "Compren tomàquets, però el plat que volen fer és un arròs."
+          - text: "Un pastís de cireres per a les postres."
+            why: "Les cireres no les poden comprar: encara no n'hi ha."
+      - prompt: "Quants pebrots vermells té el Pere?"
+        answer: "Només un."
+        distractors:
+          - text: "Dos quilos."
+            why: "Els dos quilos són de tomàquets."
+          - text: "Mitja dotzena."
+            why: "Mitja dotzena és la quantitat de cebes."
+      - prompt: "Per què la Laia no compra cireres?"
+        answer: "Perquè el fruiter encara no en té."
+        distractors:
+          - text: "Perquè ja ha comprat un meló dolç."
+            why: "Tria el meló després d'haver sabut que no hi ha cireres."
+          - text: "Perquè el Pere només en té de vermelles."
+            why: "El que només té de vermell són els pebrots, no les cireres."
+      - prompt: "Per què no compren carn?"
+        answer: "Perquè dos convidats no en mengen."
+        distractors:
+          - text: "Perquè la carnisseria és tancada."
+            why: "El text no diu que sigui tancada."
+          - text: "Perquè ja porten massa bosses."
+            why: "Les bosses les porten en acabar, i no és el motiu."
+    explanation: "El text explica què compren la Montse i la Laia i per què no compren cireres ni carn."
+
+  - id: b1-14-054
+    type: transform
+    point: en-quantitat
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Hem de comprar més [[pa]] per al sopar."
+    answers:
+      - "N'hem de comprar més per al sopar."
+      - "Hem de comprar-ne més per al sopar."
+    wrong_answers:
+      - text: "Hem de comprar-lo més per al sopar."
+        why: "*Comprar-lo* seria un pa concret; amb *més* (quantitat), el pronom és *en*."
+    grading: tolerant
+    explanation: "*Més* és una quantitat: el pronom és *en*, davant del verb (*n'hem de comprar*) o darrere l'infinitiu (*comprar-ne*)."
+
+  - id: b1-14-055
+    type: transform
+    point: en-procedencia
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Els meus avis tornen [[de Cambrils]] cada setembre."
+    answers: ["Els meus avis en tornen cada setembre."]
+    wrong_answers:
+      - text: "Els meus avis hi tornen cada setembre."
+        why: "*Hi tornen* vol dir que tornen cap a Cambrils. Aquí en tornen: *en*."
+    grading: tolerant
+    explanation: "«De Cambrils» és el lloc d'on tornen: *en tornen*."
+
+  - id: b1-14-056
+    type: transform
+    point: en-partitiu
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "A l'estiu mengem [[síndria]] cada dia."
+    answers: ["A l'estiu en mengem cada dia."]
+    wrong_answers:
+      - text: "A l'estiu la mengem cada dia."
+        why: "*La* seria una síndria concreta. *Síndria* sense article és partitiu: *en*."
+    grading: tolerant
+    explanation: "*Síndria* no porta article: el pronom és *en*, que va davant del verb."
+
+  - id: b1-14-057
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Truita de patates"
+    text: "Per a la truita necessites ous. Si a casa no {en|els|hi} tens prou, ves al mercat i compra'{n|ls|l} una dotzena. A la parada de la Rosa {n'hi|en hi|hi} ha de molt frescos."
+    explanation: "*No en tens prou*: *prou* és una quantitat, i *en* no s'apostrofa davant de consonant. *Compra'n*: *en* després d'una vocal. *N'hi ha*: *en* + *hi*."
+
+  - id: b1-14-058
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "—Quants quilos de patates necessites? —Necessito cinc, si pot ser."
+    error: "Necessito cinc"
+    fix: "En necessito cinc"
+    fix_distractors:
+      - text: "Els necessito cinc"
+        why: "*Els necessito cinc* no és correcte: amb quantitat el pronom és *en*."
+      - text: "Hi necessito cinc"
+        why: "*Hi* és per a un lloc, no per a un nom."
+    explanation: "Sense *en* és un calc del castellà «necesito cinco». En català: *en necessito cinc*."
+
+  - id: b1-14-059
+    type: find-error
+    point: en-quantitat
+    lesson: 5
+    sentence: "Al rebost no queda gens de sucre, però n'hi ha a la cuina."
+    no_error: true
+    explanation: "La frase és correcta: a la segona part no repetim *sucre*, i per això *hi ha* porta *en*: *n'hi ha*."
+
+  - id: b1-14-060
+    type: match
+    point: en-quantitat
+    lesson: 5
+    instruction: "Relaciona cada forma de *comprar* + *en* amb el seu ús."
+    pairs:
+      - ["comprar-ne", "infinitiu"]
+      - ["compra'n", "imperatiu (tu)"]
+      - ["compreu-ne", "imperatiu (vosaltres)"]
+      - ["comprant-ne", "gerundi"]
+    explanation: "Darrere de les formes que acaben en consonant (o en *-u*), *en* és *-ne*; darrere d'una vocal, *'n*."
+
+  - id: b1-14-061
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Algú et serveix arròs una vegada i una altra. Què dius perquè pari?"
+    answer: "Ja n'hi ha prou!"
+    distractors:
+      - text: "No n'hi ha cap!"
+        why: "Això vol dir que no hi ha res, no que n'hi ha prou."
+      - text: "N'hi ha per llogar-hi cadires!"
+        why: "Vol dir que n'hi ha moltíssim, no que ja és suficient."
+    explanation: "*Ja n'hi ha prou* vol dir que és suficient i cal parar."
+
+  - id: b1-14-062
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Saps a quina hora tanca el mercat? —No ___ tinc ni idea."
+    hint: "pronom per a «això»"
+    answers: ["en"]
+    grading: tolerant
+    explanation: "A *no en tinc ni idea*, *en* equival a «d'això»: no sé res d'aquest tema."
+
+  - id: b1-14-063
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "A la fruiteria diuen que els pebrots «n'hi ha de tots colors». Què vol dir?"
+    answer: "Que hi ha molta varietat."
+    distractors:
+      - text: "Que només n'hi ha de vermells."
+        why: "Vol dir el contrari: n'hi ha de molts colors."
+      - text: "Que ja no n'hi ha cap."
+        why: "No parla de si n'hi ha, sinó de quanta varietat hi ha."
+    explanation: "*N'hi ha de tots colors* vol dir que hi ha molta varietat."
+
+  - id: b1-14-064
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Algú et serveix més i més arròs. Digues-li que ja és suficient amb l'expressió «n'hi ha prou»."
+    chunks: ["ja", "n'hi", "ha", "prou"]
+    extra: ["hi"]
+    answers:
+      - "Ja n'hi ha prou."
+    explanation: "*Ja n'hi ha prou* és una expressió feta: *n'hi ha* no se separa."
+
+  - id: b1-14-065
+    type: fill
+    point: en-procedencia
+    lesson: 5
+    prompt: "—Vindreu de Lleida demà? —Sí, ___ vindrem a la tarda."
+    hint: "pronom per a «de Lleida»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "hi"
+        why: "*Hi vindrem* voldria dir «vindrem cap allà». Lleida és el lloc d'on venim: *en*."
+    grading: tolerant
+    explanation: "«De Lleida» és el lloc d'origen: *en vindrem*."
