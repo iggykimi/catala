@@ -1,0 +1,161 @@
+# Example unit: one item of every type. It is the reference for docs/guia-autoria.md
+# and must always pass `npm run validate -- docs/exemple`.
+id: a2-00
+level: A2
+title: "Exemple: el pronom de complement directe"
+summary: "Unitat de mostra amb un exercici de cada tipus."
+vocabulary_theme: "Casa i veïnat"
+points:
+  - id: pronoms-cd
+    title: "Els pronoms de complement directe"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: haver-de
+    title: "L'obligació: haver de i caldre"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: ortografia-basica
+    title: "Ortografia: b/v, h, ss i accents"
+  - id: expressions
+    title: "Expressions del dia a dia"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Mostra"
+vocabulary:
+  - word: "el veí, la veïna"
+    definition: "Persona que viu a la mateixa escala o al mateix barri."
+    example: "La meva veïna em rega les plantes quan vaig de viatge."
+  - word: "l'àtic"
+    definition: "El pis més alt d'un edifici, sovint amb terrassa."
+    example: "Des de l'àtic es veu el mar."
+items:
+  - id: a2-00-001
+    type: choice
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—Has vist la pel·lícula nova? —Sí, ___ vaig veure dissabte."
+    answer: "la"
+    distractors:
+      - text: "li"
+        why: "Li és complement indirecte. Aquí substituïm «la pel·lícula», que és complement directe."
+      - text: "ho"
+        why: "Ho substitueix una idea o un «això», no un nom femení com «la pel·lícula»."
+    explanation: "«La pel·lícula» és complement directe, femení i singular: el pronom és la."
+
+  - id: a2-00-002
+    type: fill
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—On són les claus? —No ho sé, ahir ___ vaig deixar a la taula."
+    hint: "pronom per a «les claus»"
+    answers: ["les"]
+    wrong_answers:
+      - text: "els"
+        why: "Els és masculí. «Les claus» és femení plural: les."
+      - text: "li"
+        why: "Li és complement indirecte i singular. «Les claus» és complement directe femení plural."
+    grading: tolerant
+    explanation: "«Les claus» és complement directe femení plural, i el pronom és les."
+
+  - id: a2-00-003
+    type: transform
+    point: pronoms-cd
+    lesson: 1
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Compro [[el diari]] cada matí."
+    answers: ["El compro cada matí."]
+    wrong_answers:
+      - text: "Lo compro cada matí."
+        why: "Davant del verb la forma és el. Lo només va darrere del verb: comprar-lo."
+      - text: "Li compro cada matí."
+        why: "Li és complement indirecte. «El diari» és complement directe masculí: el."
+    grading: tolerant
+    explanation: "«El diari» és complement directe masculí singular. Davant d'un verb que comença per consonant, el pronom és el."
+
+  - id: a2-00-004
+    type: inline-choice
+    point: ortografia-basica
+    lesson: 1
+    title: "Nota a l'ascensor"
+    text: "Benvolguts {v|b}eïns: dissabte farem una festa a l'àtic i {h|∅}i haurà música fins a les dotze. Si {necessiteu|necesiteu} descansar, truqueu-nos i abaixarem el volum. Gràcies per la {paciència|paciencia|pasciència}!"
+    explanation: "Veí s'escriu amb v. Hi (de hi haurà) porta h. Necessitar s'escriu amb ss. Paciència porta accent, com totes les paraules acabades en -ència."
+
+  - id: a2-00-005
+    type: find-error
+    point: haver-de
+    lesson: 1
+    sentence: "Aquest cap de setmana tinc que acabar l'informe."
+    error: "tinc que acabar"
+    fix: "he d'acabar"
+    fix_distractors:
+      - text: "hi ha que acabar"
+        why: "«Hi ha que» és un calc del castellà. Quan l'obligació no té una persona concreta, diem cal: cal acabar."
+      - text: "he que acabar"
+        why: "Haver de porta sempre la preposició de: he d'acabar."
+    explanation: "En català, l'obligació d'una persona s'expressa amb haver de + infinitiu. «Tenir que» és un castellanisme."
+
+  - id: a2-00-006
+    type: find-error
+    point: haver-de
+    lesson: 1
+    sentence: "Ahir vam haver de sortir abans de la feina."
+    no_error: true
+    explanation: "La frase és correcta: vam haver de és el passat de haver de, i després ve l'infinitiu sortir."
+
+  - id: a2-00-007
+    type: order
+    point: pronoms-cd
+    lesson: 1
+    cue: "Et pregunten pel llibre que et van deixar. Respon que encara no l'has llegit."
+    chunks: ["encara", "no", "l'he", "llegit"]
+    extra: ["li"]
+    answers:
+      - "Encara no l'he llegit."
+      - "No l'he llegit encara."
+    explanation: "El pronom va just davant del verb conjugat: l'he llegit. Davant de vocal o h, el s'apostrofa: l'."
+
+  - id: a2-00-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["estar de mala lluna", "estar de mal humor"]
+      - ["ploure a bots i barrals", "ploure molt"]
+      - ["anar de bòlit", "tenir molta feina i poc temps"]
+      - ["costar un ull de la cara", "ser molt car"]
+    explanation: "Són expressions molt habituals en la conversa de cada dia."
+
+  - id: a2-00-009
+    type: reading
+    point: comprensio
+    lesson: 1
+    title: "La Laia i la Montserrat"
+    text: |
+      La Laia viu a Girona des de fa dos anys. Abans vivia a Saragossa, on treballava en una botiga de roba. Ara és infermera a l'hospital i fa torns de nit tres cops per setmana.
+
+      Diu que al principi li costava molt entendre els pacients grans, perquè parlaven molt de pressa i feien servir paraules que ella no coneixia. Per això, cada dimecres fa parella lingüística amb la Montserrat, una veïna jubilada. Prenen un cafè, parlen del barri i la Montserrat li explica expressions noves.
+
+      «Ara ja no em fa vergonya parlar», diu la Laia.
+    questions:
+      - prompt: "On treballa ara la Laia?"
+        answer: "En un hospital de Girona."
+        distractors:
+          - text: "En una botiga de roba de Girona."
+            why: "A la botiga hi treballava abans, a Saragossa."
+          - text: "En un hospital de Saragossa."
+            why: "A Saragossa hi vivia abans. Ara viu i treballa a Girona."
+      - prompt: "Per què li costava entendre els pacients grans?"
+        answer: "Parlaven ràpid i amb paraules noves per a ella."
+        distractors:
+          - text: "Parlaven fluix i no els sentia bé."
+          - text: "Estava cansada pels torns de nit."
+      - prompt: "Què fa la Laia amb la Montserrat?"
+        answer: "Practiquen el català mentre prenen un cafè."
+        distractors:
+          - text: "Treballen juntes a l'hospital els dimecres."
+          - text: "Fan classes de català en una escola."
+    explanation: "El text explica com la Laia ha millorat el seu català parlant amb una veïna."
