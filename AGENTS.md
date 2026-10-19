@@ -30,9 +30,23 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
 
 - `npm run validate [-- <carpeta>]`: valida unidades (por defecto `content/units`).
 - `npm run languagetool -- <carpeta>`: pasa las frases correctas de las unidades por LanguageTool
-  (`docker start languagetool`; la primera vez,
-  `docker run -d --name languagetool -p 8010:8010 erikvl87/languagetool`). Da pistas, no veredictos.
+  (ver abajo). Da pistas, no veredictos.
 - `npm test`: tests (vitest). `npm run typecheck`.
+
+## LanguageTool (solo para escribir contenido)
+
+Corrector gramatical de código abierto con catalán (el de Softcatalà se basa en él). Corre en local
+como servidor en Docker (`localhost:8010`), sin mandar el contenido fuera. Es una de las capas de
+control de las unidades. En el piloto cazó errores reales (*He de arribar*, *trucar el metge*). No
+detecta distractores que sean correctos ni explicaciones falsas, así que no sustituye a la revisión.
+**La app no lo usa.**
+
+- Arrancarlo solo mientras se escriben o revisan unidades, y pararlo al terminar.
+- Necesita Docker Desktop abierto (`C:\Program Files\Docker\Docker\Docker Desktop.exe`).
+- Primera vez: `docker run -d --name languagetool -p 8010:8010 erikvl87/languagetool`.
+- Después: `docker start languagetool` / `docker stop languagetool`. Tarda unos segundos en
+  responder tras arrancar.
+- Otro servidor: variable `LANGUAGETOOL_URL`.
 
 ## Reglas
 
