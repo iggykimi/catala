@@ -58,6 +58,9 @@ Puntos conocidos (lista abierta; si encuentras otro, añádelo al informe):
 | Preposiciones con verbos de régimen dudoso (*insistir a/en*, *somiar*) | Aceptar todas las admitidas. |
 | *tenir lloc*, *donar un pas* y otros supuestos calcos | Comprobar en el Optimot; si se admite, no es error. |
 | Formas de subjuntivo con variantes (*sàpiga / sàpigui*) | Aceptar todas las admitidas. |
+| *ser / estar* con adjetivos de estado (*soc cansat* / *estic cansat*) | Las dos son correctas. Nunca *ser* como error con un adjetivo; el error claro es *tenir* (*tinc cansat*). |
+| Pronombre de *ser de* + lugar de origen (*en soc* / *ho soc*) | No ejercitarlo. |
+| *al* + infinitivo temporal (*al sortir*) | Enseñar *en sortir* como forma preferida; no ponerlo como error. |
 
 En el informe final, enumera los ítems que tocan un punto delicado para que se revisen a mano.
 
@@ -96,8 +99,16 @@ Siempre en catalán. Una sección por punto, en el orden de `points`, con este f
   contexto la explica.
 - **Largo máximo:** A2, 15 palabras; B1, 22; B2, 30 (sin contar `reading`).
 - **Variadas.** No repitas el mismo esquema de frase en ítems seguidos. Varía persona, tiempo,
-  número y situación. Usa nombres diversos (Jordi, Laia, Núria, Pau, Arnau, Montse, Fatima, Wei,
-  Ibrahim, Carla…) y lugares reales de Cataluña.
+  número y situación. Usa nombres diversos (Jordi, Laia, Núria, Pau, Arnau, Montse, Fàtima, Wei,
+  Ibrahim, Carla…) y lugares reales de Cataluña. Cada nombre mantiene el mismo género en toda la
+  unidad (*el Wei*, *la Fàtima*).
+- **Con sentido en el mundo real**, sobre todo las de `no_error`: *~~A casa no tinc sucre, però
+  n'hi ha al rebost~~* se contradice (el rebost está en casa).
+- **Todo lo que ve el usuario es catalán correcto**, salvo lo que está mal a propósito: el `error`
+  de un `find-error`, los distractores, los `wrong_answers` y el `source` de un `transform` que pide
+  corregirlo. Un `source` normal (*He d'arribar…*) tiene que estar bien.
+- **Tu propia prosa también.** Las explicaciones y la teoría son modelo de lengua: sin calcos
+  (*se senten*, no ~~s'escolten~~, para «oír»; *de pressa*, no ~~ràpid~~, como adverbio).
 - **Sin temas que distraigan**: política de partidos, sucesos violentos, religión o estereotipos.
 - **Cada ítem se entiende solo**: nada de «la frase anterior».
 - **Sin castellano**, salvo citado entre comillas en una `explanation` o un `why` para nombrar el
@@ -144,7 +155,9 @@ errores, solo los que merecen una explicación concreta.
 
 - `strict` si lo evaluado es la grafía (ortografía, acentos, apóstrofo, guion) o si la respuesta
   contiene una pareja de diacrítico que es justo lo que se pregunta (*què/que*, *és/es*…);
-- `tolerant` en el resto.
+- `tolerant` en el resto. No pongas `strict` solo para que desaparezca el aviso del validador: si
+  el acento no es lo que se evalúa (*són de Lleida* en un ítem sobre *ser*), lo correcto es
+  `tolerant` y el aviso se queda, explicado en el informe.
 
 El validador obliga a `strict` cuando un `wrong_answer` solo se diferencia de una respuesta en
 acentos, y avisa cuando hay una pareja de diacrítico con `tolerant`.
@@ -159,6 +172,17 @@ perifràstic*), la palabra base (*TRANQUIL*) o qué sustituye (*pronom per a «l
   el pronom és les*.
 - **Longitud:** A2 ≤ 25 palabras, B1 ≤ 35, B2 ≤ 45.
 - Si el ítem es de interferencia, nombra el calco.
+- **Cada `explanation` y cada `why` tiene que ser verdad por sí mismo**, no solo en el contexto del
+  ítem. Sin generalizaciones de más: *~~«Los» no és un pronom del català~~* es falso
+  (*comprar-los*), aunque en ese ítem *compra-los* esté mal.
+
+**Citar formas.** En `explanation`, `why`, `hint`, títulos y teoría, una forma de la que se habla
+(no que se usa) va en *cursiva* con asteriscos: *Li* és complement indirecte; *Tenir que* és un
+castellanisme; s'escriu amb *ss*. Un fragmento de la frase del ejercicio va entre «»: «Les claus»
+és femení plural. El castellano citado, también entre «»: calc de «hay que». La app muestra la
+cursiva y el corrector automático se salta lo citado. Sin esta marca, cada forma citada
+(sobre todo las incorrectas) aparece como un error falso. No apostrofes delante de una forma
+citada (~~el gerundi d'*escriure*~~): reescribe la frase (*Escriure* fa el gerundi *escrivint*).
 
 ## 9. Por tipo
 
@@ -178,8 +202,9 @@ perifràstic*), la palabra base (*TRANQUIL*) o qué sustituye (*pronom per a «l
   válidas en `answers`. Los `extra` son la tentación típica (*li* donde va *el*).
 - **`match`**: de 4 a 6 parejas, con un solo emparejamiento posible. Si dos significados se parecen
   (*estar de mala lluna* / *tenir la mosca al nas*), van en ítems distintos.
-- **`reading`**: texto propio con título. Las preguntas se responden con el texto, no con cultura
-  general. Las respuestas parafrasean el texto, no lo copian literalmente, y los distractores
+- **`reading`**: texto propio con título. Las preguntas se responden con lo que el texto dice, no
+  con cultura general ni con deducciones (si el texto no dice *por qué* llegó pronto, no se
+  pregunta por qué). Las respuestas parafrasean el texto, no lo copian literalmente, y los distractores
   mencionan cosas que sí salen en él.
 
 ## 10. Composición de la unidad
@@ -197,10 +222,16 @@ perifràstic*), la palabra base (*TRANQUIL*) o qué sustituye (*pronom per a «l
 ## 11. Antes de entregar
 
 1. `npm run validate -- content/units/<carpeta>`: 0 errores.
-2. Relee cada ítem con la prueba del nativo (sección 5).
-3. Comprueba que ningún distractor ni `wrong_answer` sea una forma admitida (sección 2).
-4. Comprueba los diacríticos de 2017 en todo el texto (*dona*, *soc*, *vens*, *net*… sin acento).
-5. Comprueba que cada `answers` incluye las variantes de la sección 7.
+2. `npm run languagetool -- content/units/<carpeta>` (necesita el servidor:
+   `docker start languagetool`). Revisa cada aviso. Si es un error real, corrígelo. Si es un falso
+   positivo, comprueba que la forma citada está en *cursiva* o entre «». Si de verdad lo es, dilo en
+   el informe. Un aviso en un texto que ve el usuario solo es falso positivo si el texto es
+   correcto: en el piloto se descartó como «falso positivo» un *He de arribar* que era un error.
+   Los avisos marcados `source` pueden ser el error deliberado de un `transform`. LanguageTool no detecta todo: no sustituye a los pasos siguientes.
+3. Relee cada ítem con la prueba del nativo (sección 5).
+4. Comprueba que ningún distractor ni `wrong_answer` sea una forma admitida (sección 2).
+5. Comprueba los diacríticos de 2017 en todo el texto (*dona*, *soc*, *vens*, *net*… sin acento).
+6. Comprueba que cada `answers` incluye las variantes de la sección 7.
 
 **Informe final** (corto):
 

@@ -33,6 +33,15 @@ export function normalize(s: string): string {
     .replace(/\s+/g, " ");
 }
 
+/**
+ * Comparison key for an `order` answer. Commas don't count: they travel with the
+ * chunk they are attached to, so a valid reordering would otherwise leave one
+ * in the wrong place ("En sortir, el Jordi…" / "El Jordi… en sortir").
+ */
+export function normalizeOrder(s: string): string {
+  return normalize(s).replace(/,/g, "").replace(/\s+/g, " ");
+}
+
 /** Drops accents, dieresis, cedilla and the middle dot: what an accent slip changes. */
 export function foldDiacritics(s: string): string {
   return s.normalize("NFD").replace(/\p{M}/gu, "").replace(/·/g, "");

@@ -41,6 +41,19 @@ export function gapCount(prompt: string): number {
   return prompt.split(GAP).length - 1;
 }
 
+/**
+ * The sentence of a find-error item with `error` replaced by `fix`. An error that
+ * starts with a comma (", enviant-lo després") takes the comma away, so the fix
+ * needs the space the comma was followed by.
+ */
+export function applyFix(sentence: string, error: string, fix: string): string {
+  const i = sentence.indexOf(error);
+  if (i < 0) return sentence;
+  const before = sentence.slice(0, i);
+  const lead = /^[,;:]\s/.test(error) && !/\s$/.test(before) ? " " : "";
+  return before + lead + fix + sentence.slice(i + error.length);
+}
+
 /** The text without [[ ]] marks, and the marked segments. */
 export function parseMarks(source: string): { plain: string; marked: string[] } {
   if ((source.match(/\[\[/g) ?? []).length !== (source.match(/\]\]/g) ?? []).length) {

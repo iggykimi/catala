@@ -41,7 +41,7 @@ Si l'obligació no és d'una persona concreta, diem **cal + infinitiu**: **Cal**
 > **Compte!** ~~Tinc que treballar~~ → **He de** treballar. ~~Hi ha que reservar~~ → **Cal** reservar.
 
 <!-- point: ortografia-basica -->
-## Ortografia: b/v, h, ss i accents
+## Ortografia: *b/v*, *h*, *ss* i accents
 
 Algunes paraules s'escriuen diferent en català i en castellà:
 

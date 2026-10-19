@@ -17,7 +17,7 @@ points:
       - label: "GEIEC: Les perífrasis verbals"
         url: "https://geiec.iec.cat"
   - id: ortografia-basica
-    title: "Ortografia: b/v, h, ss i accents"
+    title: "Ortografia: *b/v*, *h*, *ss* i accents"
   - id: expressions
     title: "Expressions del dia a dia"
   - id: comprensio
@@ -40,10 +40,10 @@ items:
     answer: "la"
     distractors:
       - text: "li"
-        why: "Li és complement indirecte. Aquí substituïm «la pel·lícula», que és complement directe."
+        why: "*Li* és complement indirecte. Aquí substituïm «la pel·lícula», que és complement directe."
       - text: "ho"
-        why: "Ho substitueix una idea o un «això», no un nom femení com «la pel·lícula»."
-    explanation: "«La pel·lícula» és complement directe, femení i singular: el pronom és la."
+        why: "*Ho* substitueix una idea o un *això*, no un nom femení com «la pel·lícula»."
+    explanation: "«La pel·lícula» és complement directe, femení i singular: el pronom és *la*."
 
   - id: a2-00-002
     type: fill
@@ -54,11 +54,11 @@ items:
     answers: ["les"]
     wrong_answers:
       - text: "els"
-        why: "Els és masculí. «Les claus» és femení plural: les."
+        why: "*Els* és masculí. «Les claus» és femení plural: *les*."
       - text: "li"
-        why: "Li és complement indirecte i singular. «Les claus» és complement directe femení plural."
+        why: "*Li* és complement indirecte i singular. «Les claus» és complement directe femení plural."
     grading: tolerant
-    explanation: "«Les claus» és complement directe femení plural, i el pronom és les."
+    explanation: "«Les claus» és complement directe femení plural, i el pronom és *les*."
 
   - id: a2-00-003
     type: transform
@@ -69,11 +69,11 @@ items:
     answers: ["El compro cada matí."]
     wrong_answers:
       - text: "Lo compro cada matí."
-        why: "Davant del verb la forma és el. Lo només va darrere del verb: comprar-lo."
+        why: "Davant del verb la forma és *el*. *Lo* només va darrere del verb: *comprar-lo*."
       - text: "Li compro cada matí."
-        why: "Li és complement indirecte. «El diari» és complement directe masculí: el."
+        why: "*Li* és complement indirecte. «El diari» és complement directe masculí: *el*."
     grading: tolerant
-    explanation: "«El diari» és complement directe masculí singular. Davant d'un verb que comença per consonant, el pronom és el."
+    explanation: "«El diari» és complement directe masculí singular. Davant d'un verb que comença per consonant, el pronom és *el*."
 
   - id: a2-00-004
     type: inline-choice
@@ -81,7 +81,7 @@ items:
     lesson: 1
     title: "Nota a l'ascensor"
     text: "Benvolguts {v|b}eïns: dissabte farem una festa a l'àtic i {h|∅}i haurà música fins a les dotze. Si {necessiteu|necesiteu} descansar, truqueu-nos i abaixarem el volum. Gràcies per la {paciència|paciencia|pasciència}!"
-    explanation: "Veí s'escriu amb v. Hi (de hi haurà) porta h. Necessitar s'escriu amb ss. Paciència porta accent, com totes les paraules acabades en -ència."
+    explanation: "*Veí* s'escriu amb *v*. *Hi* (de *hi haurà*) porta *h*. *Necessitar* s'escriu amb *ss*. *Paciència* porta accent, com totes les paraules acabades en *-ència*."
 
   - id: a2-00-005
     type: find-error
@@ -92,10 +92,10 @@ items:
     fix: "he d'acabar"
     fix_distractors:
       - text: "hi ha que acabar"
-        why: "«Hi ha que» és un calc del castellà. Quan l'obligació no té una persona concreta, diem cal: cal acabar."
+        why: "*Hi ha que* és un calc del castellà «hay que». Quan l'obligació no té una persona concreta, diem *cal*: *cal acabar*."
       - text: "he que acabar"
-        why: "Haver de porta sempre la preposició de: he d'acabar."
-    explanation: "En català, l'obligació d'una persona s'expressa amb haver de + infinitiu. «Tenir que» és un castellanisme."
+        why: "*Haver de* porta sempre la preposició *de*: *he d'acabar*."
+    explanation: "En català, l'obligació d'una persona s'expressa amb *haver de* + infinitiu. *Tenir que* és un castellanisme."
 
   - id: a2-00-006
     type: find-error
@@ -103,7 +103,7 @@ items:
     lesson: 1
     sentence: "Ahir vam haver de sortir abans de la feina."
     no_error: true
-    explanation: "La frase és correcta: vam haver de és el passat de haver de, i després ve l'infinitiu sortir."
+    explanation: "La frase és correcta: *vam haver de* és el passat de *haver de*, i després ve l'infinitiu *sortir*."
 
   - id: a2-00-007
     type: order
@@ -115,7 +115,7 @@ items:
     answers:
       - "Encara no l'he llegit."
       - "No l'he llegit encara."
-    explanation: "El pronom va just davant del verb conjugat: l'he llegit. Davant de vocal o h, el s'apostrofa: l'."
+    explanation: "El pronom va just davant del verb conjugat: *l'he llegit*. Davant de vocal o *h*, *el* s'apostrofa: *l'*."
 
   - id: a2-00-008
     type: match
@@ -149,7 +149,7 @@ items:
           - text: "En un hospital de Saragossa."
             why: "A Saragossa hi vivia abans. Ara viu i treballa a Girona."
       - prompt: "Per què li costava entendre els pacients grans?"
-        answer: "Parlaven ràpid i amb paraules noves per a ella."
+        answer: "Parlaven de pressa i deien paraules que no sabia."
         distractors:
           - text: "Parlaven fluix i no els sentia bé."
           - text: "Estava cansada pels torns de nit."
@@ -158,4 +158,4 @@ items:
         distractors:
           - text: "Treballen juntes a l'hospital els dimecres."
           - text: "Fan classes de català en una escola."
-    explanation: "El text explica com la Laia ha millorat el seu català parlant amb una veïna."
+    explanation: "El text explica com la Laia ha millorat el català gràcies a les converses amb una veïna."

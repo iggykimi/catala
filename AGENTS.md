@@ -29,6 +29,9 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
 ## Comandos
 
 - `npm run validate [-- <carpeta>]`: valida unidades (por defecto `content/units`).
+- `npm run languagetool -- <carpeta>`: pasa las frases correctas de las unidades por LanguageTool
+  (`docker start languagetool`; la primera vez,
+  `docker run -d --name languagetool -p 8010:8010 erikvl87/languagetool`). Da pistas, no veredictos.
 - `npm test`: tests (vitest). `npm run typecheck`.
 
 ## Reglas
@@ -41,6 +44,8 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
 ## Estado
 
 - 2026-10-19 — Fase 1 hecha: currículo, catálogo de tipos, guía de autoría, esquema, validador y
-  corrector con tests. Siguiente: **Fase 2, piloto** (2–3 unidades completas, revisión del usuario y
-  ajuste de la guía). Después: Fase 3, producción con subagentes Sonnet + LanguageTool (Docker) +
-  revisor; Fase 4, la app.
+  corrector con tests.
+- 2026-10-19 — Fase 2 (piloto): `a2-03`, `b1-14` y `b2-42` escritas por subagentes Sonnet con la
+  guía y revisadas a mano; los fallos encontrados están ya como reglas en la guía (§2, §4, §7, §8,
+  §11). Añadido `npm run languagetool`. **Pendiente: revisión de las tres unidades por el usuario.**
+  Después: Fase 3 (producción de las 57 restantes); Fase 4, la app.

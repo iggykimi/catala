@@ -84,7 +84,8 @@ escrito y fijan las formas antes de construir encima.
 - **Expressions:** ni de broma · tant me fa · no fa res · ni fu ni fa.
 
 ### a2-06 · Ser, estar i haver-hi
-- **Gramàtica:** *ser* i *estar* amb adjectius; localització amb *ser* (*La Marta és a casa*) ⚠;
+- **Gramàtica:** *ser* i *estar* amb adjectius (*soc cansat* i *estic cansat* són correctes) ⚠;
+  localització amb *ser* (*La Marta és a casa*) ⚠;
   *haver-hi* (*hi ha*, *hi havia*, *hi haurà*); *ser-hi / no ser-hi*.
 - **Compte amb el castellà:** *estar* per a la localització ⚠ (vegeu la guia); ~~hi han~~ en
   registre formal ⚠.
@@ -372,7 +373,7 @@ Aquí comença el material nou: pronoms *en* i *hi*, subjuntiu, relatius, ortogr
 ### b2-42 · Infinitiu i gerundi
 - **Gramàtica:** *en* + infinitiu (*en sortir de casa*); gerundi simultani; gerundi de
   posterioritat (incorrecte); *tot* + gerundi.
-- **Compte amb el castellà:** ~~al sortir~~ → *en sortir*.
+- **Compte amb el castellà:** *en sortir* com a forma preferida davant de *al sortir* ⚠.
 - **Vocabulari:** món laboral, entrevistes de feina.
 - **Expressions:** posar-se les piles · treballar de valent · fer hores extres.
 

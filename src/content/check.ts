@@ -1,4 +1,4 @@
-import { foldDiacritics, gradeTyped, normalize } from "../grading/grade";
+import { foldDiacritics, gradeTyped, normalize, normalizeOrder } from "../grading/grade";
 import { gapCount, MarkupError, parseInline, parseMarks } from "./markup";
 import type { Item, Unit, Wrong } from "./schema";
 
@@ -62,8 +62,10 @@ export function checkUnit(unit: Unit): Issue[] {
   }
 
   for (const id of pointIds) {
-    const n = unit.items.filter((it) => it.point === id).length;
-    if (n < MIN_ITEMS_PER_POINT) warn(`${unit.id} point ${id}`, `only ${n} items`);
+    const items = unit.items.filter((it) => it.point === id);
+    // A comprehension point holds only the unit's reading(s); the per-point minimum is for rotation in review.
+    const readingOnly = items.length > 0 && items.every((it) => it.type === "reading");
+    if (items.length < MIN_ITEMS_PER_POINT && !readingOnly) warn(`${unit.id} point ${id}`, `only ${items.length} items`);
   }
 
   const choices = unit.items.filter((it) => it.type === "choice").length;
@@ -152,9 +154,9 @@ function checkItem(item: Item, err: (m: string) => void, warn: (m: string) => vo
       break;
     }
     case "order": {
-      const canonical = normalize(item.chunks.join(" "));
-      if (canonical !== normalize(item.answers[0]!)) err("the first answer must be the chunks in their given order");
-      const bag = (s: string) => normalize(s).split(" ").sort().join(" ");
+      const canonical = normalizeOrder(item.chunks.join(" "));
+      if (canonical !== normalizeOrder(item.answers[0]!)) err("the first answer must be the chunks in their given order");
+      const bag = (s: string) => normalizeOrder(s).split(" ").sort().join(" ");
       const chunkBag = bag(item.chunks.join(" "));
       for (const a of item.answers) {
         if (bag(a) !== chunkBag) err(`answer "${a}" does not use exactly the chunks`);

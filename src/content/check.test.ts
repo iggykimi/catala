@@ -38,6 +38,17 @@ describe("checkUnit", () => {
     expect(errors(u)).toContainEqual(expect.stringContaining("does not use exactly the chunks"));
   });
 
+  it("accepts an order answer whose comma lands elsewhere after reordering", () => {
+    const u = unit([
+      {
+        id: "b1-13-001", type: "order", point: "en-hi", lesson: 1, explanation: "x", cue: "x",
+        chunks: ["En sortir,", "el Jordi", "va trucar"],
+        answers: ["En sortir, el Jordi va trucar.", "El Jordi va trucar en sortir."],
+      },
+    ]);
+    expect(errors(u)).toEqual([]);
+  });
+
   it("rejects a choice whose distractor equals the answer", () => {
     const u = unit([
       {

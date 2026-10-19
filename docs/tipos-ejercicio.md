@@ -35,6 +35,7 @@ primera opción), así que el autor no tiene que pensar en el orden y la posici�
 | `___` | `prompt` de `choice` y `fill` | El hueco. Exactamente uno en `fill`; uno o ninguno (pregunta directa) en `choice`. |
 | `{correcta\|mal1\|mal2}` | `text` de `inline-choice` | Hueco con opciones; la **primera** es la correcta. `∅` = «nada» (p. ej. `{h\|∅}i haurà`). |
 | `[[…]]` | `source` de `transform` | Segmento resaltado: lo que hay que transformar. |
+| `*…*` | explicaciones, `why`, `hint`, títulos, teoría | Forma citada (de la que se habla); se muestra en cursiva. |
 
 ## Los ocho tipos
 

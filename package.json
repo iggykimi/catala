@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "validate": "tsx scripts/validate-content.ts",
+    "languagetool": "tsx scripts/languagetool.ts",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
