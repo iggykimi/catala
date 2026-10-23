@@ -25,13 +25,24 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
 - `content/units/<id>-<slug>/{unit.yaml,theory.md}`: el contenido.
 - `src/content/schema.ts`: contrato del contenido (Zod). `src/content/check.ts`: comprobaciones.
 - `src/grading/grade.ts`: corrector de respuestas escritas, compartido por validador y app.
+- `src/app/`: la PWA (React). `session.ts` y `progress.ts` son la lógica pura (sesiones, FSRS por
+  punto, progreso en `localStorage`); `exercises.tsx`, los 8 tipos; `App.tsx`, pantallas y navegación
+  (pila de pantallas reflejada en el historial: el botón atrás de Android funciona).
+- `src/content/vite-plugin.ts`: mete `content/units` en la app como `virtual:content` y valida cada
+  unidad en el build (una unidad con errores rompe el build).
+- `e2e/`: Playwright en móvil (Pixel 7). `app.spec.ts` juega **todas las lecciones de todas las
+  unidades** con las respuestas del YAML: si un ítem no se puede responder en la interfaz, falla.
+  `screens.spec.ts` solo hace capturas (claro y oscuro) para revisión visual.
 
 ## Comandos
 
 - `npm run validate [-- <carpeta>]`: valida unidades (por defecto `content/units`).
 - `npm run languagetool -- <carpeta>`: pasa las frases correctas de las unidades por LanguageTool
   (ver abajo). Da pistas, no veredictos.
-- `npm test`: tests (vitest). `npm run typecheck`.
+- `npm test`: tests unitarios (vitest). `npm run typecheck`.
+- `npm run dev` / `npm run build`: la app. `npm run e2e`: tests e2e (construye y sirve la app).
+- `SCREENS=<carpeta> npx playwright test screens`: capturas para revisar a ojo.
+- `npx tsx scripts/icons.ts`: regenera los PNG del icono desde `public/icon.svg`.
 
 ## LanguageTool (solo para escribir contenido)
 
@@ -62,4 +73,6 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
 - 2026-10-19 — Fase 2 (piloto): `a2-03`, `b1-14` y `b2-42` escritas por subagentes Sonnet con la
   guía y revisadas a mano; los fallos encontrados están ya como reglas en la guía (§2, §4, §7, §8,
   §11). Añadido `npm run languagetool`. **Pendiente: revisión de las tres unidades por el usuario.**
-  Después: Fase 3 (producción de las 57 restantes); Fase 4, la app.
+- 2026-10-23 — Fase 4: app hecha y validada (e2e 5/5, todas las lecciones jugadas en la
+  interfaz; revisión visual claro/oscuro). Criterio de interfaz: nada que no aporte o que se
+  deduzca de otro elemento; inventario razonado en `docs/interfaz.md`.
