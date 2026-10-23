@@ -47,7 +47,7 @@ escrito y fijan las formas antes de construir encima.
   Pere*, *l'Anna*, *la Maria*).
 - **Compte amb el castellà:** el nom de persona porta article (*He vist la Marta*).
 - **Vocabulari:** presentacions, família.
-- **Expressions:** anar fent · encantat de conèixer-te · com va? · fins aviat.
+- **Expressions:** anar fent · molt de gust · com va? · fins aviat.
 
 ### a2-02 · Gènere i nombre
 - **Gramàtica:** femení i plural de noms i adjectius; plurals amb canvis (*platja/platges*,

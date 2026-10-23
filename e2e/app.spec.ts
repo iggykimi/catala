@@ -4,6 +4,8 @@ import { lessonSession, reviewSession } from "../src/app/session";
 import { check, escape, expectVerdict, plain, playLesson, units } from "./helpers";
 
 test("every lesson of every unit can be completed with the authored answers", async ({ page }) => {
+  // About 13 items per lesson and 5 lessons per unit: the time grows with the course.
+  test.setTimeout(90_000 * units.length);
   await page.goto("/");
   for (const unit of units) {
     for (let n = 1; n <= unit.lessons.length; n++) {

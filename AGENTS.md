@@ -76,3 +76,6 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
 - 2026-10-23 — Fase 4: app hecha y validada (e2e 5/5, todas las lecciones jugadas en la
   interfaz; revisión visual claro/oscuro). Criterio de interfaz: nada que no aporte o que se
   deduzca de otro elemento; inventario razonado en `docs/interfaz.md`.
+- 2026-10-23 — Unidades `a2-01` y `a2-02` (Sonnet + revisión a mano + LanguageTool + e2e).
+  Hechas: a2-01, a2-02, a2-03, b1-14, b2-42. Siguiente: a2-04 en adelante, de dos en dos.
+  **Pendiente: feedback del usuario sobre unidades y app.**

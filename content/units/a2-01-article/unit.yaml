@@ -1,0 +1,1000 @@
+id: a2-01
+level: A2
+title: "L'article, l'apostrofació i les contraccions"
+summary: "L'article definit i indefinit, l'apostrofació, les contraccions *al, del, pel* i l'article personal (*en Pere, l'Anna, la Maria*)."
+vocabulary_theme: "Presentacions i família"
+points:
+  - id: article-apostrofacio
+    title: "L'article i l'apostrofació"
+    refs:
+      - label: "GEIEC: L'article"
+        url: "https://geiec.iec.cat"
+  - id: contraccions
+    title: "Les contraccions: *al, del, pel*"
+    refs:
+      - label: "GEIEC: L'article"
+        url: "https://geiec.iec.cat"
+  - id: article-personal
+    title: "L'article personal: *en Pere, l'Anna, la Maria*"
+    refs:
+      - label: "GEIEC: L'article personal"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: noms de persona i apòstrofs"
+  - id: expressions
+    title: "Expressions per presentar-se i saludar"
+lessons:
+  - title: "Conèixer l'article i les contraccions"
+  - title: "Practicar l'apostrofació"
+  - title: "L'article personal i els calcs"
+  - title: "Produir frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la família"
+    definition: "Les persones que són parents: pares, germans, avis, oncles."
+    example: "La meva família viu a Tarragona."
+  - word: "els pares"
+    definition: "El pare i la mare."
+    example: "Els meus pares fan cinquanta anys aquest any."
+  - word: "el germà, la germana"
+    definition: "Fill o filla dels mateixos pares que tu."
+    example: "La meva germana treballa a l'hospital."
+  - word: "l'avi, l'àvia"
+    definition: "El pare o la mare dels teus pares."
+    example: "L'avi em porta a l'escola cada dimarts."
+  - word: "l'oncle, la tia"
+    definition: "Germà o germana del teu pare o de la teva mare."
+    example: "L'oncle Ramon fa uns pastissos boníssims."
+  - word: "el cosí, la cosina"
+    definition: "Fill o filla d'un oncle o d'una tia."
+    example: "La meva cosina estudia a Girona."
+  - word: "el fill, la filla"
+    definition: "Persona que té pare i mare, vista pels pares."
+    example: "La filla de la Montse fa teatre."
+  - word: "el net, la neta"
+    definition: "Fill o filla del teu fill o de la teva filla."
+    example: "Els nets dinen amb els avis els diumenges."
+  - word: "l'amic, l'amiga"
+    definition: "Persona que coneixes bé i que t'estimes."
+    example: "L'Ibrahim és un bon amic meu."
+  - word: "el company, la companya"
+    definition: "Persona amb qui treballes o estudies."
+    example: "La Carla és una companya de la feina."
+  - word: "el veí, la veïna"
+    definition: "Persona que viu a prop teu."
+    example: "La veïna del tercer té un gat molt gran."
+  - word: "la parella"
+    definition: "Persona amb qui tens una relació d'amor."
+    example: "La seva parella treballa en una fleca."
+  - word: "el nom"
+    definition: "La paraula amb què ens diuen."
+    example: "El nom de la meva neboda és Aina."
+  - word: "el cognom"
+    definition: "La part del nom que es comparteix amb la família."
+    example: "El cognom de la Fàtima és Puig."
+  - word: "presentar"
+    definition: "Dir a una persona qui és una altra persona."
+    example: "Et presento la meva germana."
+  - word: "conèixer"
+    definition: "Veure una persona per primera vegada o saber qui és."
+    example: "Vaig conèixer la Núria a la universitat."
+  - word: "l'aniversari"
+    definition: "El dia que algú fa anys."
+    example: "Dissabte és l'aniversari de la meva mare."
+  - word: "l'escola"
+    definition: "Lloc on van els nens a aprendre."
+    example: "L'escola del barri tanca a les cinc."
+  - word: "la universitat"
+    definition: "Lloc on s'estudien els estudis superiors."
+    example: "La universitat és a prop de l'estació."
+  - word: "l'hospital"
+    definition: "Lloc on van els malalts per curar-se."
+    example: "La Laia treballa a l'hospital de Vic."
+  - word: "l'oficina"
+    definition: "Lloc on es fa una feina de despatx."
+    example: "L'oficina obre a les vuit."
+  - word: "el mercat"
+    definition: "Lloc on es venen aliments, sovint cada setmana."
+    example: "Dissabte anem al mercat de Vic."
+  - word: "el gimnàs"
+    definition: "Lloc on es fa esport."
+    example: "Surto del gimnàs a les vuit."
+  - word: "el cinema"
+    definition: "Lloc on es veuen pel·lícules."
+    example: "Anem al cinema amb els cosins."
+  - word: "el banc"
+    definition: "Lloc on guardes els diners."
+    example: "El banc tanca a les dues."
+  - word: "el supermercat"
+    definition: "Botiga gran on es compra de tot per menjar."
+    example: "Compro la fruita al supermercat."
+  - word: "la fleca"
+    definition: "Botiga on es ven pa."
+    example: "La fleca del barri obre molt d'hora."
+  - word: "la plaça"
+    definition: "Espai obert d'una ciutat on es troba la gent."
+    example: "Quedem a la plaça a les set."
+  - word: "el carrer"
+    definition: "Espai d'una ciutat entre dues fileres de cases."
+    example: "Visc al carrer Major."
+  - word: "l'hora"
+    definition: "Moment concret del dia."
+    example: "A quina hora quedem?"
+  - word: "la idea"
+    definition: "Pensament que et ve al cap."
+    example: "Quina bona idea!"
+  - word: "la història"
+    definition: "Relat del que va passar o de què passa a algú."
+    example: "La història de la meva família és llarga."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-01-001
+    type: choice
+    point: article-apostrofacio
+    lesson: 1
+    prompt: "Dilluns porto la nena a ___ del barri."
+    answer: "l'escola"
+    distractors:
+      - text: "la escola"
+        why: "*La* s'apostrofa davant de vocal: *l'escola*. En castellà no s'apostrofa."
+      - text: "el escola"
+        why: "*Escola* és femení, i no porta *el*."
+    explanation: "*Escola* és femení i comença per vocal: l'article s'apostrofa i fa *l'escola*."
+
+  - id: a2-01-002
+    type: choice
+    point: article-apostrofacio
+    lesson: 1
+    prompt: "Aquesta nit dormim a ___ del centre de Girona."
+    answer: "l'hotel"
+    distractors:
+      - text: "el hotel"
+        why: "*Hotel* comença per *h* muda: *el* s'apostrofa i fa *l'hotel*."
+      - text: "la hotel"
+        why: "*Hotel* és masculí: no porta *la*."
+    explanation: "*Hotel* és masculí i la *h* no es pronuncia: l'article s'apostrofa, *l'hotel*."
+
+  - id: a2-01-003
+    type: choice
+    point: article-apostrofacio
+    lesson: 1
+    prompt: "Dissabte celebrem ___ de l'avi: fa vuitanta anys."
+    answer: "l'aniversari"
+    distractors:
+      - text: "el aniversari"
+        why: "Davant de vocal, *el* s'apostrofa: *l'aniversari*."
+      - text: "la aniversari"
+        why: "*Aniversari* és masculí: no porta *la*."
+    explanation: "*Aniversari* és masculí i comença per vocal: *el* s'apostrofa i fa *l'aniversari*."
+
+  - id: a2-01-004
+    type: choice
+    point: article-apostrofacio
+    lesson: 1
+    prompt: "La Núria treballa a ___ d'aquesta ciutat des de fa dos anys."
+    answer: "la universitat"
+    distractors:
+      - text: "l'universitat"
+        why: "La *u* de *universitat* és àtona, i en aquest cas *la* no s'apostrofa."
+      - text: "el universitat"
+        why: "*Universitat* és femení: porta *la*."
+    explanation: "*Universitat* comença per *u* àtona: *la* no s'apostrofa. És una excepció de la regla."
+
+  - id: a2-01-005
+    type: choice
+    point: article-apostrofacio
+    lesson: 1
+    prompt: "Tinc ___ germana a Girona i un germà a Reus."
+    answer: "una"
+    distractors:
+      - text: "un"
+        why: "*Germana* és femení: l'article indefinit és *una*."
+      - text: "uns"
+        why: "*Uns* és plural: aquí parlem d'una sola germana."
+    explanation: "L'article indefinit femení singular és *una*: *una germana*. Per al masculí, *un germà*."
+
+  - id: a2-01-006
+    type: choice
+    point: contraccions
+    lesson: 1
+    prompt: "Torno ___ gimnàs a les vuit."
+    answer: "del"
+    distractors:
+      - text: "de el"
+        why: "*De* i *el* s'ajunten en una sola paraula: *del*."
+      - text: "de la"
+        why: "*Gimnàs* és masculí: no porta *la*."
+    explanation: "*De* + *el* = *del*. *Gimnàs* és masculí i comença per consonant: *del gimnàs*."
+
+  - id: a2-01-007
+    type: choice
+    point: contraccions
+    lesson: 1
+    prompt: "Aquest matí he anat ___ mercat amb la meva àvia."
+    answer: "al"
+    distractors:
+      - text: "a el"
+        why: "*A* i *el* s'ajunten en una sola paraula: *al*."
+      - text: "a la"
+        why: "*Mercat* és masculí: no porta *la*."
+    explanation: "*A* + *el* = *al*: *al mercat*."
+
+  - id: a2-01-008
+    type: choice
+    point: contraccions
+    lesson: 1
+    prompt: "Dissabte passem ___ centre de Vic per anar a la fira."
+    answer: "pel"
+    distractors:
+      - text: "per el"
+        why: "*Per* i *el* s'ajunten en una sola paraula: *pel*."
+      - text: "per la"
+        why: "*Centre* és masculí: no porta *la*."
+    explanation: "*Per* + *el* = *pel*: *pel centre*."
+
+  - id: a2-01-009
+    type: choice
+    point: contraccions
+    lesson: 1
+    prompt: "Parlem sovint ___ avis: viuen a Tortosa."
+    answer: "dels"
+    distractors:
+      - text: "de els"
+        why: "*De* i *els* s'ajunten en una sola paraula: *dels*."
+      - text: "de les"
+        why: "*Avis* és masculí plural: porta *els*, no *les*."
+    explanation: "*De* + *els* = *dels*: *dels avis*. Al plural no hi ha apòstrof."
+
+  - id: a2-01-010
+    type: match
+    point: article-apostrofacio
+    lesson: 1
+    instruction: "Relaciona cada nom amb el seu article definit."
+    pairs:
+      - ["pare", "el pare"]
+      - ["amiga", "l'amiga"]
+      - ["universitat", "la universitat"]
+      - ["germanes", "les germanes"]
+      - ["home", "l'home"]
+    explanation: "*L'amiga* i *l'home* s'apostrofen davant de vocal. *La universitat* és una excepció, i al plural no hi ha apòstrof."
+
+  - id: a2-01-011
+    type: match
+    point: contraccions
+    lesson: 1
+    instruction: "Relaciona cada combinació amb la forma correcta."
+    pairs:
+      - ["a + el", "al"]
+      - ["de + els", "dels"]
+      - ["per + el", "pel"]
+      - ["a + els", "als"]
+      - ["per + els", "pels"]
+    explanation: "Les preposicions *a*, *de* i *per* s'ajunten amb *el* i *els*: *al*, *dels*, *pel*, *als*, *pels*."
+
+  - id: a2-01-012
+    type: inline-choice
+    point: article-apostrofacio
+    lesson: 1
+    title: "Una nota per a la Núria"
+    text: "Núria, he anat {al |a el }mercat amb {l'|la }àvia i hem comprat {l'|el }oli i {el |l'}pa. Després he passat per {la |l'}universitat per recollir {l'|el }horari. Torno a {l'|la }hora de dinar."
+    explanation: "*L'àvia*, *l'oli*, *l'horari* i *l'hora* s'apostrofen. *La universitat* és una excepció. *A* + *el* = *al*."
+
+  - id: a2-01-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Com va la feina, Marc? —Doncs ___: ni bé ni malament."
+    answer: "anar fent"
+    distractors:
+      - text: "fins aviat"
+        why: "*Fins aviat* serveix per acomiadar-se: no respon a *Com va?*"
+      - text: "molt de gust"
+        why: "*Molt de gust* es diu quan coneixes algú per primera vegada."
+    explanation: "*Anar fent* respon a *Com va?* quan les coses no van ni bé ni malament."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-01-014
+    type: fill
+    point: article-apostrofacio
+    lesson: 2
+    prompt: "Aquest estiu fem un curs a ___ de la ciutat."
+    hint: "*universitat*, article definit"
+    answers: ["la universitat"]
+    wrong_answers:
+      - text: "l'universitat"
+        why: "La *u* de *universitat* és àtona, i *la* no s'apostrofa: *la universitat*."
+    grading: strict
+    explanation: "Si la *u* inicial és àtona, *la* no s'apostrofa: *la universitat*."
+
+  - id: a2-01-015
+    type: fill
+    point: article-apostrofacio
+    lesson: 2
+    prompt: "Quan arribem, ___ ja ha parat taula."
+    hint: "*àvia*, article definit"
+    answers: ["l'àvia"]
+    wrong_answers:
+      - text: "la àvia"
+        why: "Davant de vocal, *la* s'apostrofa: *l'àvia*."
+    grading: strict
+    explanation: "*Àvia* és femení i comença per vocal: *la* s'apostrofa i fa *l'àvia*."
+
+  - id: a2-01-016
+    type: fill
+    point: article-apostrofacio
+    lesson: 2
+    prompt: "Em sembla que ___ de la Fàtima és molt bona: fem un sopar de sorpresa."
+    hint: "*idea*, article definit"
+    answers: ["la idea"]
+    wrong_answers:
+      - text: "l'idea"
+        why: "La *i* de *idea* és àtona, i *la* no s'apostrofa: *la idea*."
+    grading: strict
+    explanation: "*Idea* comença per *i* àtona: *la* no s'apostrofa. És una excepció de la regla."
+
+  - id: a2-01-017
+    type: fill
+    point: article-apostrofacio
+    lesson: 2
+    prompt: "Ens trobem a ___ de sempre, davant del cinema."
+    hint: "*hora*, article definit"
+    answers: ["l'hora"]
+    wrong_answers:
+      - text: "la hora"
+        why: "*Hora* comença per *h* muda: *la* s'apostrofa i fa *l'hora*."
+    grading: strict
+    explanation: "*Hora* és femení i la *h* no es pronuncia: *la* s'apostrofa, *l'hora*."
+
+  - id: a2-01-018
+    type: fill
+    point: contraccions
+    lesson: 2
+    prompt: "Demà anem ___ cinema amb els nens."
+    hint: "*a* + *el*"
+    answers: ["al"]
+    wrong_answers:
+      - text: "a el"
+        why: "*A* i *el* s'ajunten en una sola paraula: *al*."
+    grading: strict
+    explanation: "*A* + *el* = *al*: *al cinema*."
+
+  - id: a2-01-019
+    type: fill
+    point: contraccions
+    lesson: 2
+    prompt: "Aquest cap de setmana dinem a casa ___ cosins."
+    hint: "*de* + *els*"
+    answers: ["dels"]
+    wrong_answers:
+      - text: "de els"
+        why: "*De* i *els* s'ajunten en una sola paraula: *dels*."
+      - text: "del"
+        why: "*Cosins* és plural: la forma és *dels*, no *del*."
+    grading: strict
+    explanation: "*De* + *els* = *dels*: *dels cosins*."
+
+  - id: a2-01-020
+    type: fill
+    point: contraccions
+    lesson: 2
+    prompt: "Cada tarda passegem ___ carrers del barri."
+    hint: "*per* + *els*"
+    answers: ["pels"]
+    wrong_answers:
+      - text: "per els"
+        why: "*Per* i *els* s'ajunten en una sola paraula: *pels*."
+      - text: "pel"
+        why: "*Carrers* és plural: la forma és *pels*, no *pel*."
+    grading: strict
+    explanation: "*Per* + *els* = *pels*: *pels carrers*."
+
+  - id: a2-01-021
+    type: inline-choice
+    point: contraccions
+    lesson: 2
+    title: "Una tarda de gestions"
+    text: "Avui he sortit {de l'|de la |del }oficina a les cinc. He passat {pel |per el |per la }carrer Major, he anat {al |a el |a la }banc i he tornat {de la |del |de l'}plaça a peu."
+    explanation: "Davant de *la* i *l'* no hi ha contracció: *de l'oficina*, *de la plaça*. *Per* + *el* = *pel*; *a* + *el* = *al*."
+
+  - id: a2-01-022
+    type: fill
+    point: contraccions
+    lesson: 2
+    prompt: "Sortim ___ a les cinc i anem a fer un cafè."
+    hint: "*de* + *oficina*, article definit"
+    answers: ["de l'oficina"]
+    wrong_answers:
+      - text: "de la oficina"
+        why: "Davant de vocal, *la* s'apostrofa: *l'oficina*."
+      - text: "del oficina"
+        why: "*Oficina* és femení: *del* només serveix per als masculins."
+    grading: strict
+    explanation: "*De* no es contrau amb *l'*: *de l'oficina*. La contracció només es fa amb *el* i *els*."
+
+  - id: a2-01-023
+    type: order
+    point: contraccions
+    lesson: 2
+    cue: "Digues que cada dimarts vas al mercat amb el teu avi."
+    chunks: ["cada dimarts", "vaig", "al mercat", "amb l'avi"]
+    extra: ["a el mercat"]
+    answers:
+      - "Cada dimarts vaig al mercat amb l'avi."
+      - "Vaig al mercat amb l'avi cada dimarts."
+      - "Vaig al mercat cada dimarts amb l'avi."
+      - "Amb l'avi vaig al mercat cada dimarts."
+      - "Cada dimarts amb l'avi vaig al mercat."
+    explanation: "*A* + *el* = *al*, i *el* s'apostrofa davant de vocal: *amb l'avi*."
+
+  - id: a2-01-024
+    type: order
+    point: article-personal
+    lesson: 2
+    cue: "Pregunta on és l'oficina de la Núria."
+    chunks: ["on", "és", "l'oficina", "de la Núria"]
+    extra: ["del Núria"]
+    answers:
+      - "On és l'oficina de la Núria?"
+    explanation: "Davant d'un nom de dona va *la*: *de la Núria*. *De* no es contrau amb *la*."
+
+  - id: a2-01-025
+    type: choice
+    point: contraccions
+    lesson: 2
+    prompt: "Aquest estiu viatgem ___ Pirineus amb uns amics."
+    answer: "als"
+    distractors:
+      - text: "a els"
+        why: "*A* i *els* s'ajunten en una sola paraula: *als*."
+      - text: "a les"
+        why: "*Pirineus* és masculí plural: porta *els*, no *les*."
+    explanation: "*A* + *els* = *als*: *als Pirineus*."
+
+  - id: a2-01-026
+    type: choice
+    point: article-apostrofacio
+    lesson: 2
+    prompt: "___ història de la nostra ciutat és molt llarga."
+    answer: "La"
+    distractors:
+      - text: "L'"
+        why: "*Història* comença per *i* àtona (*hi*): *la* no s'apostrofa."
+      - text: "El"
+        why: "*Història* és femení: porta *la*."
+    explanation: "*Història* és femení i la *i* inicial és àtona: *la* no s'apostrofa, *la història*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-01-027
+    type: choice
+    point: article-personal
+    lesson: 3
+    prompt: "Aquesta és ___ Núria, la meva companya de pis."
+    answer: "la"
+    distractors:
+      - text: "en"
+        why: "*En* és l'article personal masculí. *Núria* és un nom de dona."
+      - text: "l'"
+        why: "*L'* només va davant de vocal o *h*. *Núria* comença per consonant."
+    explanation: "Els noms de dona porten *la*, o *l'* davant de vocal: *la Núria*."
+
+  - id: a2-01-028
+    type: choice
+    point: article-personal
+    lesson: 3
+    prompt: "Aquest és ___ Jordi, el meu cunyat: viu a Manresa."
+    answer: "en"
+    distractors:
+      - text: "la"
+        why: "*La* és per als noms de dona. *Jordi* és un nom d'home."
+      - text: "l'"
+        why: "*L'* només va davant de vocal o *h*. *Jordi* comença per consonant."
+    explanation: "Davant d'un nom d'home que comença per consonant, l'article personal estàndard és *en*: *en Jordi*."
+
+  - id: a2-01-029
+    type: choice
+    point: article-personal
+    lesson: 3
+    prompt: "Aquest cap de setmana vindran ___ i la seva germana."
+    answer: "l'Arnau"
+    distractors:
+      - text: "el Arnau"
+        why: "Davant de vocal, *el* s'apostrofa: *l'Arnau*."
+      - text: "la Arnau"
+        why: "*Arnau* és un nom d'home: no porta *la*."
+    explanation: "Davant d'un nom que comença per vocal, l'article personal masculí és *l'*: *l'Arnau*."
+
+  - id: a2-01-030
+    type: choice
+    point: article-personal
+    lesson: 3
+    prompt: "Aquest matí he vist ___ al tren."
+    answer: "l'Anna"
+    distractors:
+      - text: "la Anna"
+        why: "Davant de vocal, *la* s'apostrofa: *l'Anna*."
+      - text: "en Anna"
+        why: "*En* és per als noms d'home. *Anna* és un nom de dona."
+    explanation: "*Anna* és un nom de dona i comença per vocal: l'article personal és *l'*, *l'Anna*."
+
+  - id: a2-01-031
+    type: fill
+    point: article-personal
+    lesson: 3
+    prompt: "—Has vist ___ Carla? —Sí, és a la cuina."
+    hint: "article personal"
+    answers: ["la"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* és per als noms d'home. *Carla* és un nom de dona."
+      - text: "l'"
+        why: "*L'* només va davant de vocal o *h*."
+    grading: tolerant
+    explanation: "*Carla* és un nom de dona que comença per consonant: l'article personal és *la*."
+
+  - id: a2-01-032
+    type: fill
+    point: article-personal
+    lesson: 3
+    prompt: "—Has vist ___ Marc? —Sí, és al jardí."
+    hint: "article personal masculí"
+    answers: ["en", "el"]
+    wrong_answers:
+      - text: "la"
+        why: "*La* és per als noms de dona. *Marc* és un nom d'home."
+    grading: tolerant
+    explanation: "Davant d'un nom d'home que comença per consonant diem *en Marc*; en registre col·loquial també *el Marc*."
+
+  - id: a2-01-033
+    type: fill
+    point: article-personal
+    lesson: 3
+    prompt: "—On és ___? —Ha sortit a comprar el pa."
+    hint: "article personal + *Eva*"
+    answers: ["l'Eva"]
+    wrong_answers:
+      - text: "la Eva"
+        why: "Davant de vocal, *la* s'apostrofa: *l'Eva*."
+    grading: strict
+    explanation: "*Eva* és un nom de dona i comença per vocal: *la* s'apostrofa, *l'Eva*."
+
+  - id: a2-01-034
+    type: find-error
+    point: article-personal
+    lesson: 3
+    sentence: "Aquesta tarda he parlat amb en Núria per telèfon."
+    error: "en Núria"
+    fix: "la Núria"
+    fix_distractors:
+      - text: "el Núria"
+        why: "*Núria* és un nom de dona: no porta *el*."
+      - text: "l'Núria"
+        why: "*L'* només va davant de vocal o *h*. *Núria* comença per consonant."
+    explanation: "*Núria* és un nom de dona: l'article personal és *la*, no *en*."
+
+  - id: a2-01-035
+    type: find-error
+    point: article-personal
+    lesson: 3
+    sentence: "Ahir vaig veure la Marta i en Jordi al cinema."
+    no_error: true
+    explanation: "La frase és correcta: *la Marta* i *en Jordi* porten l'article personal, i *al cinema* és *a* + *el*."
+
+  - id: a2-01-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Ahir vaig veure a la Marta al mercat."
+    error: "a la Marta"
+    fix: "la Marta"
+    fix_distractors:
+      - text: "a Marta"
+        why: "Falta l'article personal: en català diem *la Marta*."
+      - text: "en Marta"
+        why: "*En* és per als noms d'home. *Marta* és un nom de dona."
+    explanation: "Amb *veure*, el complement directe de persona no porta *a*: és un calc de «vi a Marta». Diem *la Marta*."
+
+  - id: a2-01-037
+    type: find-error
+    point: article-personal
+    lesson: 3
+    sentence: "Ahir vaig trobar el Laia al cinema amb el seu germà."
+    error: "el Laia"
+    fix: "la Laia"
+    fix_distractors:
+      - text: "en Laia"
+        why: "*En* és per als noms d'home. *Laia* és un nom de dona."
+      - text: "l'Laia"
+        why: "L'article només s'apostrofa davant de vocal o *h*, i *Laia* comença per consonant."
+    explanation: "*Laia* és un nom de dona que comença per consonant: l'article és *la*."
+
+  - id: a2-01-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Hem quedat a la hora de sempre davant del museu."
+    error: "la hora"
+    fix: "l'hora"
+    fix_distractors:
+      - text: "el hora"
+        why: "*Hora* és femení: no porta *el*."
+      - text: "les hora"
+        why: "*Hora* és singular: *les* és plural."
+    explanation: "*Hora* comença per *h* muda: *la* s'apostrofa i fa *l'hora*. En castellà es diu «la hora»."
+
+  - id: a2-01-039
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Dilluns vaig veure ___ Laia a la biblioteca."
+    hint: "article personal"
+    answers: ["la"]
+    wrong_answers:
+      - text: "a la"
+        why: "Amb *veure*, el complement directe de persona no porta *a*."
+    grading: tolerant
+    explanation: "En català el nom de persona porta article i no porta *a* com en castellà: *la Laia*."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-01-040
+    type: transform
+    point: article-apostrofacio
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[L'oncle]] de la Núria [[arriba]] demà."
+    answers:
+      - "Els oncles de la Núria arriben demà."
+    wrong_answers:
+      - text: "Els oncles de la Núria arriba demà."
+        why: "El verb també va en plural: *arriben*."
+      - text: "Les oncles de la Núria arriben demà."
+        why: "*Oncle* és masculí: el plural és *els oncles*."
+    grading: tolerant
+    explanation: "Al plural, *l'oncle* passa a *els oncles*, sense apòstrof, i el verb fa *arriben*."
+
+  - id: a2-01-041
+    type: transform
+    point: contraccions
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "Parlo [[del veí]] del primer."
+    answers:
+      - "Parlo dels veïns del primer."
+    wrong_answers:
+      - text: "Parlo de els veïns del primer."
+        why: "*De* i *els* s'ajunten en una sola paraula: *dels*."
+    grading: tolerant
+    explanation: "*De* + *els* = *dels*: *dels veïns*. L'altra contracció, *del primer*, no canvia."
+
+  - id: a2-01-042
+    type: transform
+    point: contraccions
+    lesson: 4
+    instruction: "Substitueix la part marcada per *l'escola*."
+    source: "Els nens tornen [[del parc]] a les set."
+    answers:
+      - "Els nens tornen de l'escola a les set."
+    wrong_answers:
+      - text: "Els nens tornen de la escola a les set."
+        why: "Davant de vocal, *la* s'apostrofa: *l'escola*."
+      - text: "Els nens tornen del escola a les set."
+        why: "*Escola* és femení: no porta *el*."
+    grading: tolerant
+    explanation: "*De* no es contrau amb *l'*: *de l'escola*. *Del* només s'usa amb *el*."
+
+  - id: a2-01-043
+    type: transform
+    point: contraccions
+    lesson: 4
+    instruction: "Substitueix la part marcada per *el supermercat*."
+    source: "Anem [[a la fleca]] cada dia."
+    answers:
+      - "Anem al supermercat cada dia."
+    wrong_answers:
+      - text: "Anem a el supermercat cada dia."
+        why: "*A* i *el* s'ajunten en una sola paraula: *al*."
+    grading: tolerant
+    explanation: "*A* + *el* = *al*: *al supermercat*."
+
+  - id: a2-01-044
+    type: transform
+    point: article-personal
+    lesson: 4
+    instruction: "Substitueix el nom per *Anna*."
+    source: "Dimarts quedo amb [[la Laia]] a la plaça."
+    answers:
+      - "Dimarts quedo amb l'Anna a la plaça."
+    wrong_answers:
+      - text: "Dimarts quedo amb la Anna a la plaça."
+        why: "Davant de vocal, *la* s'apostrofa: *l'Anna*."
+    grading: tolerant
+    explanation: "*Anna* comença per vocal: l'article personal s'apostrofa, *l'Anna*."
+
+  - id: a2-01-045
+    type: transform
+    point: article-personal
+    lesson: 4
+    instruction: "Substitueix el nom per *Arnau*."
+    source: "Aquesta tarda he vist [[en Jordi]] al bar."
+    answers:
+      - "Aquesta tarda he vist l'Arnau al bar."
+    wrong_answers:
+      - text: "Aquesta tarda he vist el Arnau al bar."
+        why: "Davant de vocal, *el* s'apostrofa: *l'Arnau*."
+    grading: tolerant
+    explanation: "*Arnau* comença per vocal: l'article personal masculí és *l'*, *l'Arnau*."
+
+  - id: a2-01-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Dimarts vaig conèixer [[a la germana]] de l'Anna."
+    answers:
+      - "Dimarts vaig conèixer la germana de l'Anna."
+    wrong_answers:
+      - text: "Dimarts vaig conèixer a la germana de l'Anna."
+        why: "Amb *conèixer*, el complement directe no porta *a*: *la germana*."
+    grading: tolerant
+    explanation: "El complement directe de persona no porta *a*: *vaig conèixer la germana*. Aquesta *a* és un calc del castellà."
+
+  - id: a2-01-047
+    type: fill
+    point: contraccions
+    lesson: 4
+    prompt: "Els dimarts, la Carla porta els nens ___ parc del barri."
+    hint: "*a* + *el*"
+    answers: ["al"]
+    wrong_answers:
+      - text: "a el"
+        why: "*A* i *el* s'ajunten en una sola paraula: *al*."
+    grading: strict
+    explanation: "*A* + *el* = *al*: *al parc*."
+
+  - id: a2-01-048
+    type: fill
+    point: article-apostrofacio
+    lesson: 4
+    prompt: "Els diumenges ___ de la Núria ve a dinar a casa."
+    hint: "*oncle*, article definit"
+    answers: ["l'oncle"]
+    wrong_answers:
+      - text: "el oncle"
+        why: "Davant de vocal, *el* s'apostrofa: *l'oncle*."
+    grading: strict
+    explanation: "*Oncle* és masculí i comença per vocal: *el* s'apostrofa i fa *l'oncle*."
+
+  - id: a2-01-049
+    type: order
+    point: article-personal
+    lesson: 4
+    cue: "Explica que dissabte vas anar al cinema amb la Carla i l'Arnau."
+    chunks: ["dissabte", "vaig anar", "al cinema", "amb la Carla", "i l'Arnau"]
+    extra: ["a el cinema"]
+    answers:
+      - "Dissabte vaig anar al cinema amb la Carla i l'Arnau."
+      - "Vaig anar al cinema amb la Carla i l'Arnau dissabte."
+      - "Dissabte vaig anar amb la Carla i l'Arnau al cinema."
+      - "Vaig anar al cinema dissabte amb la Carla i l'Arnau."
+      - "Amb la Carla i l'Arnau vaig anar al cinema dissabte."
+    explanation: "Els noms de persona porten article: *la Carla*, *l'Arnau*. I *a* + *el* = *al*."
+
+  - id: a2-01-050
+    type: order
+    point: article-apostrofacio
+    lesson: 4
+    cue: "Pregunta a quina hora comença l'espectacle."
+    chunks: ["avui", "a quina hora", "comença", "l'espectacle"]
+    extra: ["el espectacle"]
+    answers:
+      - "Avui a quina hora comença l'espectacle?"
+      - "A quina hora comença l'espectacle avui?"
+    explanation: "*Espectacle* és masculí i comença per vocal: *el* s'apostrofa, *l'espectacle*."
+
+  - id: a2-01-051
+    type: order
+    point: contraccions
+    lesson: 4
+    cue: "Explica que els dissabtes els teus fills juguen als jardins del barri."
+    chunks: ["els dissabtes", "els meus fills", "juguen", "als jardins", "del barri"]
+    extra: ["a els jardins"]
+    answers:
+      - "Els dissabtes els meus fills juguen als jardins del barri."
+      - "Els meus fills juguen als jardins del barri els dissabtes."
+    explanation: "*A* + *els* = *als*, i *de* + *el* = *del*: *als jardins del barri*."
+
+  - id: a2-01-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Quan t'acomiades d'algú que veuràs aviat, dius: «___»."
+    answer: "Fins aviat"
+    distractors:
+      - text: "Molt de gust"
+        why: "*Molt de gust* es diu quan coneixes algú per primera vegada."
+      - text: "Anar fent"
+        why: "*Anar fent* respon a *Com va?*: no serveix per acomiadar-se."
+    explanation: "*Fins aviat* és la manera d'acomiadar-se d'algú que tornaràs a veure aviat."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-01-053
+    type: reading
+    point: article-personal
+    lesson: 5
+    title: "Una festa de família"
+    text: |
+      Dissabte, la Montse fa una festa a casa per celebrar l'aniversari de la seva mare. Hi van els pares, l'oncle Jordi i la tia Carme. També hi ha la Laia, una companya de la feina, i l'Arnau, un veí.
+
+      La Laia no coneix la família de la Montse, i la Montse la presenta als pares. «Mare, aquesta és la Laia», diu. «Molt de gust», respon la Laia.
+
+      Després, l'oncle Jordi pregunta a l'Arnau com va tot. L'Arnau diu que va fent, perquè treballa molt. Al final de la tarda, tothom s'acomiada amb un «fins aviat».
+    questions:
+      - prompt: "Per què fa una festa la Montse?"
+        answer: "Perquè la seva mare fa anys."
+        distractors:
+          - text: "Perquè la Laia fa anys."
+            why: "La Laia és una companya de feina de la Montse. L'aniversari és de la mare."
+          - text: "Perquè l'Arnau canvia de feina."
+            why: "De l'Arnau només diu que treballa molt."
+      - prompt: "Qui és la Laia?"
+        answer: "Una companya de feina."
+        distractors:
+          - text: "Una veïna de la Montse."
+            why: "El veí del text és l'Arnau."
+          - text: "Una tia de la Montse."
+            why: "La tia de la Montse es diu Carme."
+      - prompt: "Què fa la Montse quan arriba la Laia?"
+        answer: "Li presenta els seus pares."
+        distractors:
+          - text: "La presenta a l'Arnau."
+            why: "El text diu que la Montse presenta la Laia als pares."
+          - text: "Li ensenya la feina."
+            why: "El text no parla d'això: la Montse presenta la Laia als pares."
+      - prompt: "Què respon l'Arnau a l'oncle Jordi?"
+        answer: "Que va fent, perquè treballa molt."
+        distractors:
+          - text: "Que té una festa a casa seva aquesta nit."
+            why: "La festa és a casa de la Montse, no de l'Arnau."
+          - text: "Que ha de celebrar l'aniversari de la mare."
+            why: "L'aniversari és de la mare de la Montse."
+    explanation: "El text explica una festa d'aniversari, com es fan les presentacions i com s'acomiada la gent."
+
+  - id: a2-01-054
+    type: find-error
+    point: contraccions
+    lesson: 5
+    sentence: "Els dimecres torno de el treball a les sis."
+    error: "de el"
+    fix: "del"
+    fix_distractors:
+      - text: "d'el"
+        why: "*De* i *el* s'ajunten en una sola paraula: *del*."
+      - text: "de l'"
+        why: "*L'* només va davant de vocal o *h*. *Treball* comença per consonant."
+    explanation: "*De* + *el* = *del*: *del treball*."
+
+  - id: a2-01-055
+    type: find-error
+    point: article-apostrofacio
+    lesson: 5
+    sentence: "Els dimarts l'avi porta els nets a l'escola."
+    no_error: true
+    explanation: "La frase és correcta: *l'avi* i *l'escola* s'apostrofen davant de vocal, i *els nets* és plural, sense apòstrof."
+
+  - id: a2-01-056
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Dijous tinc cita al hospital amb la doctora Puig."
+    error: "al hospital"
+    fix: "a l'hospital"
+    fix_distractors:
+      - text: "a el hospital"
+        why: "*Hospital* comença per *h* muda: *el* s'apostrofa i no hi ha contracció."
+      - text: "a la hospital"
+        why: "*Hospital* és masculí: no porta *la*."
+    explanation: "Davant de vocal o *h* muda, *el* s'apostrofa i no es contrau amb *a*: *a l'hospital*. En castellà és «al hospital»."
+
+  - id: a2-01-057
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Dimecres vaig a l'hospital a veure l'avi de la Laia."
+    no_error: true
+    explanation: "La frase és correcta: *a l'hospital* no es contrau, i *la Laia* porta l'article personal."
+
+  - id: a2-01-058
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Et presenten l'Ibrahim, un company nou de la feina. Què li dius?"
+    answer: "Molt de gust."
+    distractors:
+      - text: "Fins aviat, ja ens veurem."
+        why: "*Fins aviat* serveix per acomiadar-se, no per saludar algú nou."
+      - text: "Anar fent, ja ho veus."
+        why: "*Anar fent* respon a *Com va?*"
+    explanation: "Quan et presenten algú, diem *molt de gust*."
+
+  - id: a2-01-059
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["anar fent", "ni bé ni malament"]
+      - ["molt de gust", "quan et presenten algú"]
+      - ["com va?", "pregunta com està algú"]
+      - ["fins aviat", "adeu a algú que tornaràs a veure aviat"]
+    explanation: "Són expressions molt habituals en les presentacions i en les salutacions."
+
+  - id: a2-01-060
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "La Carla et presenta el seu germà. Li dius: «Molt de ___»."
+    hint: "expressió de presentació"
+    answers: ["gust"]
+    grading: tolerant
+    explanation: "Quan et presenten algú, diem *molt de gust*."
+
+  - id: a2-01-061
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «anar fent» quan algú et pregunta com va?"
+    answer: "Que les coses van ni bé ni malament."
+    distractors:
+      - text: "Que tot va molt bé i està content."
+        why: "Si tot va molt bé, diem *molt bé*. *Anar fent* és un terme mitjà."
+      - text: "Que la persona se'n va a un altre lloc."
+        why: "*Anar fent* no parla de marxar, sinó de com van les coses."
+    explanation: "*Anar fent* vol dir que les coses van ni bé ni malament."
+
+  - id: a2-01-062
+    type: transform
+    point: article-apostrofacio
+    lesson: 5
+    instruction: "Passa la frase al plural."
+    source: "[[La tia]] de l'Arnau [[treballa]] a l'escola."
+    answers:
+      - "Les ties de l'Arnau treballen a l'escola."
+    wrong_answers:
+      - text: "Les ties de l'Arnau treballa a l'escola."
+        why: "El verb també va en plural: *treballen*."
+      - text: "Els ties de l'Arnau treballen a l'escola."
+        why: "*Tia* és femení: el plural és *les ties*."
+    grading: tolerant
+    explanation: "Al plural, *la tia* passa a *les ties*, i el verb fa *treballen*."
+
+  - id: a2-01-063
+    type: inline-choice
+    point: article-personal
+    lesson: 5
+    title: "Un missatge per a la Laia"
+    text: "Hola, Laia! Aquest vespre sopo amb {la |en |l'}Núria i {en |la |l'}Marc. {L'|La |En }Eva no ve: té feina. Si vols, avisa {la |l'|en }Carla."
+    explanation: "Els noms de dona porten *la*, o *l'* davant de vocal; els d'home, *en*: *la Núria*, *en Marc*, *l'Eva*, *la Carla*."
+
+  - id: a2-01-064
+    type: order
+    point: article-personal
+    lesson: 5
+    cue: "Digues que en Marc és el cosí de l'Anna."
+    chunks: ["en Marc", "és", "el cosí", "de l'Anna"]
+    extra: ["del Anna"]
+    answers:
+      - "En Marc és el cosí de l'Anna."
+      - "El cosí de l'Anna és en Marc."
+    explanation: "*En Marc* porta l'article personal masculí. *De* no es contrau amb *l'*: *de l'Anna*."
+
+  - id: a2-01-065
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "Aquesta tarda busco ___ Montse: no la trobo enlloc."
+    hint: "article personal"
+    answers: ["la"]
+    wrong_answers:
+      - text: "a la"
+        why: "Amb *buscar*, el complement directe de persona no porta *a*."
+    grading: tolerant
+    explanation: "El nom de persona porta article i el complement directe no porta *a*: *busco la Montse*."

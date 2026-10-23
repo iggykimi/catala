@@ -61,6 +61,8 @@ Puntos conocidos (lista abierta; si encuentras otro, añádelo al informe):
 | *ser / estar* con adjetivos de estado (*soc cansat* / *estic cansat*) | Las dos son correctas. Nunca *ser* como error con un adjetivo; el error claro es *tenir* (*tinc cansat*). |
 | Pronombre de *ser de* + lugar de origen (*en soc* / *ho soc*) | No ejercitarlo. |
 | *al* + infinitivo temporal (*al sortir*) | Enseñar *en sortir* como forma preferida; no ponerlo como error. |
+| Nombre de persona sin artículo (*He vist Laia*) | El estándar valenciano lo omite: no es error. Se practica la **forma** del artículo (*la Laia*, *l'Anna*, *en Jordi*), no su presencia. |
+| Fórmulas de cortesía calcadas (*encantat de conèixer-te*) | No enseñarlas; usar las genuinas (*molt de gust*). Si LanguageTool marca una expresión del currículo, gana LanguageTool hasta comprobarlo. |
 
 En el informe final, enumera los ítems que tocan un punto delicado para que se revisen a mano.
 

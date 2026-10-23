@@ -1,0 +1,974 @@
+id: a2-02
+level: A2
+title: "Gènere i nombre"
+summary: "El femení i el plural de noms i adjectius, els adjectius invariables i els noms que tenen un gènere diferent del castellà."
+vocabulary_theme: "Descripció física i caràcter"
+points:
+  - id: femeni
+    title: "El femení de noms i adjectius"
+  - id: plural
+    title: "El plural: *-s*, *-es* i *-os*"
+  - id: concordanca
+    title: "Concordança i adjectius invariables"
+  - id: compte-castella
+    title: "Compte amb el castellà: noms de gènere diferent"
+  - id: expressions
+    title: "Expressions: caràcter i descripció"
+lessons:
+  - title: "Conèixer el femení i el plural"
+  - title: "Practicar el femení i el plural"
+  - title: "Concordança i gènere diferent"
+  - title: "Produir frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "alt, alta"
+    definition: "Que fa molts centímetres d'alçada."
+    example: "El meu germà és molt alt: fa un metre noranta."
+  - word: "baix, baixa"
+    definition: "Que no és alt."
+    example: "La meva germana és baixa, però juga a bàsquet."
+  - word: "prim, prima"
+    definition: "Que pesa poc."
+    example: "En Pau és molt prim, però menja molt."
+  - word: "els cabells"
+    definition: "Els pèls que té una persona al cap."
+    example: "La Carla té els cabells llargs i castanys."
+  - word: "castany, castanya"
+    definition: "De color marró, com les castanyes."
+    example: "La meva àvia té els ulls castanys."
+  - word: "verd, verda"
+    definition: "Del color de l'herba."
+    example: "L'Arnau té els ulls verds."
+  - word: "blau, blava"
+    definition: "Del color del mar."
+    example: "La samarreta blava és meva."
+  - word: "llarg, llarga"
+    definition: "Que té molta longitud o dura molta estona."
+    example: "Ahir vam fer un passeig llarg pel bosc."
+  - word: "curt, curta"
+    definition: "Que no és llarg."
+    example: "Porto els cabells curts a l'estiu."
+  - word: "bonic, bonica"
+    definition: "Que agrada de veure."
+    example: "Aquesta platja és molt bonica."
+  - word: "maco, maca"
+    definition: "Bonic, agradable de veure."
+    example: "Quina casa més maca!"
+  - word: "simpàtic, simpàtica"
+    definition: "Que cau bé a la gent."
+    example: "La meva veïna és molt simpàtica."
+  - word: "amable"
+    definition: "Que tracta bé els altres."
+    example: "Els meus veïns són molt amables."
+  - word: "treballador, treballadora"
+    definition: "Que treballa molt i bé."
+    example: "La Núria és molt treballadora."
+  - word: "tímid, tímida"
+    definition: "Que té vergonya de parlar amb gent nova."
+    example: "El meu cosí és tímid, però molt simpàtic."
+  - word: "alegre"
+    definition: "Que està content i ho mostra."
+    example: "La Laia sempre està alegre."
+  - word: "feliç"
+    definition: "Molt content, sense preocupacions."
+    example: "Els nens estan feliços amb el gos nou."
+  - word: "jove"
+    definition: "Que té pocs anys."
+    example: "La Montse és molt jove."
+  - word: "gran"
+    definition: "De mida més gran del normal."
+    example: "Tenim una taula gran al menjador."
+  - word: "puntual"
+    definition: "Que arriba a l'hora."
+    example: "En Jordi sempre és puntual."
+  - word: "el company, la companya"
+    definition: "Persona amb qui comparteixes feina o pis."
+    example: "La meva companya de pis és de Girona."
+  - word: "el veí, la veïna"
+    definition: "Persona que viu a prop teu, al mateix edifici o barri."
+    example: "El meu veí toca la guitarra."
+  - word: "la dent"
+    definition: "Cadascuna de les peces dures de la boca amb què mastegues."
+    example: "M'ha sortit una dent nova."
+  - word: "la calor"
+    definition: "Temperatura alta de l'aire."
+    example: "A Lleida fa molta calor a l'agost."
+  - word: "l'olor"
+    definition: "Allò que sentim amb el nas."
+    example: "A la fleca hi ha una olor de pa calent."
+  - word: "la suor"
+    definition: "Líquid que surt de la pell quan tenim calor."
+    example: "Després de córrer, tenia la samarreta xopa de suor."
+  - word: "el senyal"
+    definition: "Marca que ens avisa d'alguna cosa."
+    example: "Aquest senyal indica que la sortida és a l'esquerra."
+  - word: "el dubte"
+    definition: "Quan no estàs segur d'una cosa."
+    example: "Tinc un dubte sobre el contracte."
+  - word: "el costum"
+    definition: "Allò que fas sempre, per hàbit."
+    example: "Tinc el costum de passejar després de sopar."
+  - word: "l'avantatge"
+    definition: "Allò que fa millor una situació."
+    example: "Viure al centre té un avantatge: tot és a prop."
+  - word: "la resta"
+    definition: "Allò que queda quan n'has pres una part."
+    example: "Jo pago el cafè i tu pagues la resta."
+  - word: "l'anàlisi"
+    definition: "Estudi detallat d'una cosa, per exemple de la sang."
+    example: "Demà em fan una anàlisi de sang."
+  - word: "el pastís"
+    definition: "Dolç gran que es talla a trossos."
+    example: "Per l'aniversari vam fer un pastís de xocolata."
+  - word: "la llengua"
+    definition: "Sistema de paraules que parla un poble."
+    example: "Parlo tres llengües."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-02-001
+    type: choice
+    point: femeni
+    lesson: 1
+    prompt: "—Qui és la Fàtima? —És la ___ nova de l'oficina."
+    answer: "companya"
+    distractors:
+      - text: "company"
+        why: "*Company* és el masculí. Amb «la Fàtima» cal el femení: *companya*."
+      - text: "companys"
+        why: "*Companys* és plural masculí. Aquí parlem d'una sola persona."
+    explanation: "«La Fàtima» és una dona: el femení de *company* és *companya*."
+
+  - id: a2-02-002
+    type: choice
+    point: femeni
+    lesson: 1
+    prompt: "La meva veïna és molt ___ i saluda tothom."
+    answer: "simpàtica"
+    distractors:
+      - text: "simpàtic"
+        why: "*Simpàtic* és masculí. «La meva veïna» és femení: *simpàtica*."
+      - text: "simpàtiques"
+        why: "*Simpàtiques* és plural. Aquí parlem d'una sola veïna."
+    explanation: "L'adjectiu concorda amb «la meva veïna»: femení singular, *simpàtica*."
+
+  - id: a2-02-003
+    type: choice
+    point: femeni
+    lesson: 1
+    prompt: "En Pau és molt alt i la seva germana també és ___."
+    answer: "alta"
+    distractors:
+      - text: "alt"
+        why: "*Alt* és masculí. «La seva germana» és femení: *alta*."
+      - text: "altes"
+        why: "*Altes* és plural. Aquí parlem d'una sola germana."
+    explanation: "«La seva germana» és femení singular: l'adjectiu és *alta*."
+
+  - id: a2-02-004
+    type: choice
+    point: femeni
+    lesson: 1
+    prompt: "La mare d'en Jordi és ___ i viu a Reus."
+    answer: "catalana"
+    distractors:
+      - text: "català"
+        why: "*Català* és masculí. «La mare» és femení: *catalana*."
+      - text: "catalans"
+        why: "*Catalans* és plural masculí. Parlem d'una sola persona."
+    explanation: "El femení de *català* és *catalana*: s'afegeix *-a* i l'accent desapareix."
+
+  - id: a2-02-005
+    type: choice
+    point: plural
+    lesson: 1
+    prompt: "Els ___ de la meva cuina són plens de coses."
+    answer: "calaixos"
+    distractors:
+      - text: "calaixs"
+        why: "Els noms masculins acabats en *-x* fan el plural en *-os*: *calaixos*."
+      - text: "calaixes"
+        why: "*-es* és el plural dels noms femenins. *Calaix* és masculí: *calaixos*."
+    explanation: "Els noms acabats en *-x* fan el plural en *-os*: *calaix → calaixos*."
+
+  - id: a2-02-006
+    type: choice
+    point: plural
+    lesson: 1
+    prompt: "La Carla i la Fàtima són molt bones ___."
+    answer: "amigues"
+    distractors:
+      - text: "amigas"
+        why: "El plural femení en català acaba en *-es*, no en *-as*."
+      - text: "amiges"
+        why: "Davant de *e*, la *g* sona suau. Per mantenir el so de *amiga*, cal escriure *gu*: *amigues*."
+    explanation: "El plural femení fa *-es*, i *amiga* canvia *g* per *gu*: *amigues*."
+
+  - id: a2-02-007
+    type: choice
+    point: plural
+    lesson: 1
+    prompt: "Prop de casa meva hi ha tres ___ de tren."
+    answer: "estacions"
+    distractors:
+      - text: "estació"
+        why: "«Tres» demana un plural: *estacions*."
+      - text: "estacións"
+        why: "Els noms acabats en *-ó* fan el plural amb *-ons*, i l'accent desapareix: *estacions*."
+    explanation: "Els noms acabats en *-ó* fan el plural en *-ons*: *estació → estacions*."
+
+  - id: a2-02-008
+    type: choice
+    point: plural
+    lesson: 1
+    prompt: "Els nens estan molt ___ amb el gos nou."
+    answer: "feliços"
+    distractors:
+      - text: "felices"
+        why: "*Felices* és el plural femení. «Els nens» és masculí: *feliços*."
+      - text: "feliçs"
+        why: "Els adjectius acabats en *-ç* fan el plural masculí en *-os*: *feliços*."
+    explanation: "«Els nens» és masculí plural, i el plural masculí de *feliç* és *feliços*."
+
+  - id: a2-02-009
+    type: match
+    point: femeni
+    lesson: 1
+    instruction: "Relaciona cada masculí amb el seu femení."
+    pairs:
+      - ["el veí", "la veïna"]
+      - ["el cosí", "la cosina"]
+      - ["el germà", "la germana"]
+      - ["el cambrer", "la cambrera"]
+      - ["el company", "la companya"]
+    explanation: "El femení afegeix *-a*. L'accent final desapareix: *germà → germana*, *cosí → cosina*. *Veí* fa *veïna*, amb dièresi."
+
+  - id: a2-02-010
+    type: match
+    point: plural
+    lesson: 1
+    instruction: "Relaciona cada singular amb el seu plural."
+    pairs:
+      - ["el peix", "els peixos"]
+      - ["la llengua", "les llengües"]
+      - ["la botiga", "les botigues"]
+      - ["el pastís", "els pastissos"]
+      - ["la cançó", "les cançons"]
+    explanation: "Cada paraula canvia la grafia: *peixos*, *llengües*, *botigues*, *pastissos*, *cançons*."
+
+  - id: a2-02-011
+    type: inline-choice
+    point: femeni
+    lesson: 1
+    title: "Una amiga de la infància"
+    text: "La Laia és la meva {amiga|amic|amigues} de la infància. És molt {alta|alt|altes} i {simpàtica|simpàtic|simpàtiques}. Té els cabells {llargs|llarga|llarg} i els ulls {verds|verda|verd}. El seu germà és {baix|baixa|baixos} i {treballador|treballadora|treballadors} com ella."
+    explanation: "L'adjectiu concorda en gènere i nombre: *alta*, *simpàtica* (femení); *llargs*, *verds* (masculí plural); *baix*, *treballador* (masculí)."
+
+  - id: a2-02-012
+    type: inline-choice
+    point: plural
+    lesson: 1
+    title: "Es lloga pis"
+    text: "Lloguem un pis amb tres {habitacions|habitacións}, dues {terrasses|terrassas} i dos {balcons|balcóns}. Les {finestres|finestras} són grans i a prop hi ha dues {estacions|estacións} de tren."
+    explanation: "Els femenins fan el plural en *-es*: *terrasses*, *finestres*. Els noms acabats en *-ó* fan *-ons*: *habitacions*, *balcons*, *estacions*."
+
+  - id: a2-02-013
+    type: choice
+    point: femeni
+    lesson: 1
+    prompt: "En Pau és cuiner i la seva germana també és ___."
+    answer: "cuinera"
+    distractors:
+      - text: "cuiner"
+        why: "*Cuiner* és masculí. Per a «la seva germana» cal el femení: *cuinera*."
+      - text: "cuineres"
+        why: "*Cuineres* és plural. Aquí parlem d'una sola germana."
+    explanation: "El femení de *cuiner* és *cuinera*: s'afegeix *-a*."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-02-014
+    type: fill
+    point: femeni
+    lesson: 2
+    prompt: "La meva ___ viu al pis de dalt i treballa en una farmàcia."
+    hint: "VEÍ, en femení"
+    answers: ["veïna"]
+    wrong_answers:
+      - text: "veí"
+        why: "*Veí* és masculí. Aquí parlem d'una dona: *veïna*."
+    grading: tolerant
+    explanation: "El femení de *veí* és *veïna*, amb dièresi."
+
+  - id: a2-02-015
+    type: fill
+    point: femeni
+    lesson: 2
+    prompt: "En Jordi és cambrer i la seva germana és ___ en un bar de Sitges."
+    hint: "CAMBRER, en femení"
+    answers: ["cambrera"]
+    wrong_answers:
+      - text: "cambrer"
+        why: "*Cambrer* és masculí. Per a «la seva germana», *cambrera*."
+    grading: tolerant
+    explanation: "El femení de *cambrer* s'escriu afegint *-a*: *cambrera*."
+
+  - id: a2-02-016
+    type: fill
+    point: femeni
+    lesson: 2
+    prompt: "La Núria és molt ___: arriba la primera i marxa l'última."
+    hint: "TREBALLADOR, en femení"
+    answers: ["treballadora"]
+    wrong_answers:
+      - text: "treballador"
+        why: "*Treballador* és masculí. Amb «la Núria», femení: *treballadora*."
+    grading: tolerant
+    explanation: "El femení de *treballador* és *treballadora*."
+
+  - id: a2-02-017
+    type: fill
+    point: plural
+    lesson: 2
+    prompt: "Aquesta setmana he comprat dos ___ per al sopar de dissabte."
+    hint: "PEIX, plural"
+    answers: ["peixos"]
+    wrong_answers:
+      - text: "peixs"
+        why: "Els noms acabats en *-x* fan el plural en *-os*."
+      - text: "peixes"
+        why: "*-es* és el plural dels femenins. *Peix* és masculí: *peixos*."
+    grading: tolerant
+    explanation: "*Peix* acaba en *-x*, així que el plural és *peixos*."
+
+  - id: a2-02-018
+    type: fill
+    point: plural
+    lesson: 2
+    prompt: "Els nens tenen les ___ plenes de xocolata."
+    hint: "BOCA, plural"
+    answers: ["boques"]
+    wrong_answers:
+      - text: "boces"
+        why: "Davant de *e*, la *c* sona com una *s*. Per mantenir el so de *boca*, cal *qu*: *boques*."
+      - text: "bocas"
+        why: "El plural femení en català acaba en *-es*, no en *-as*."
+    grading: tolerant
+    explanation: "El plural de *boca* és *boques*: davant de *e*, la *c* es converteix en *qu*."
+
+  - id: a2-02-019
+    type: fill
+    point: plural
+    lesson: 2
+    prompt: "Parlo tres ___: català, anglès i francès."
+    hint: "LLENGUA, plural"
+    answers: ["llengües"]
+    wrong_answers:
+      - text: "llengues"
+        why: "Falta la dièresi. Sense ella, la *u* no es pronuncia: *llengües*."
+      - text: "llenguas"
+        why: "El plural femení en català acaba en *-es*, no en *-as*."
+    grading: strict
+    explanation: "*Llengua* fa *llengües*: davant de *e*, la *u* es pronuncia i porta dièresi."
+
+  - id: a2-02-020
+    type: order
+    point: femeni
+    lesson: 2
+    cue: "Descriu el teu veí: és baix i simpàtic. Ara digues el mateix de la teva veïna."
+    chunks: ["La meva veïna", "és", "baixa", "i", "simpàtica"]
+    extra: ["baix"]
+    answers:
+      - "La meva veïna és baixa i simpàtica."
+    explanation: "«La meva veïna» és femení singular: els adjectius són *baixa* i *simpàtica*."
+
+  - id: a2-02-021
+    type: order
+    point: concordanca
+    lesson: 2
+    cue: "Explica què tenen els teus cosins: dues cases, i són grans."
+    chunks: ["Els meus cosins", "tenen", "dues", "cases", "grans"]
+    extra: ["gran"]
+    answers:
+      - "Els meus cosins tenen dues cases grans."
+    explanation: "«Cases» és femení plural, i l'adjectiu concorda: *grans*. *Gran* és igual en masculí i femení."
+
+  - id: a2-02-022
+    type: order
+    point: concordanca
+    lesson: 2
+    cue: "Digues que les teves amigues són molt simpàtiques."
+    chunks: ["Les meves amigues", "són", "molt", "simpàtiques"]
+    extra: ["simpàtics"]
+    answers:
+      - "Les meves amigues són molt simpàtiques."
+    explanation: "«Amigues» és femení plural: l'adjectiu és *simpàtiques*, amb *-ques* per mantenir el so de la *c*."
+
+  - id: a2-02-023
+    type: choice
+    point: concordanca
+    lesson: 2
+    prompt: "Les meves germanes són molt ___."
+    answer: "altes"
+    distractors:
+      - text: "alts"
+        why: "*Alts* és masculí plural. «Les meves germanes» és femení: *altes*."
+      - text: "alta"
+        why: "*Alta* és singular. Aquí són diverses germanes: *altes*."
+    explanation: "L'adjectiu concorda amb «les meves germanes»: femení plural, *altes*."
+
+  - id: a2-02-024
+    type: choice
+    point: plural
+    lesson: 2
+    prompt: "En Pau té dos ___ i tots dos viuen a Lleida."
+    answer: "germans"
+    distractors:
+      - text: "germàns"
+        why: "Al plural, *germà* perd l'accent: *germans*."
+      - text: "germanes"
+        why: "«Dos» és masculí: són *germans*. Amb *germanes* diríem «dues»."
+    explanation: "«Dos» és masculí, i el plural de *germà* és *germans*, sense accent."
+
+  - id: a2-02-025
+    type: choice
+    point: plural
+    lesson: 2
+    prompt: "La Laia té un cosí i dues ___ que viuen a Vic."
+    answer: "cosines"
+    distractors:
+      - text: "cosins"
+        why: "*Cosins* és masculí plural, i «dues» demana femení: *cosines*."
+      - text: "cosinas"
+        why: "El plural femení en català acaba en *-es*, no en *-as*."
+    explanation: "«Dues» demana femení plural: *cosines*."
+
+  - id: a2-02-026
+    type: fill
+    point: plural
+    lesson: 2
+    prompt: "El meu fill fa dues ___ de natació cada setmana."
+    hint: "LLIÇÓ, plural"
+    answers: ["lliçons"]
+    grading: tolerant
+    explanation: "Els noms acabats en *-ó* fan el plural en *-ons*: *lliçó → lliçons*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-02-027
+    type: choice
+    point: concordanca
+    lesson: 3
+    prompt: "Les meves cosines són molt ___ i sempre riuen."
+    answer: "alegres"
+    distractors:
+      - text: "alegre"
+        why: "*Alegre* és singular. «Les meves cosines» és plural: *alegres*."
+      - text: "alegras"
+        why: "*Alegre* no canvia al femení i fa el plural afegint *-s*: *alegres*."
+    explanation: "*Alegre* és igual en masculí i femení. Al plural fa *alegres*."
+
+  - id: a2-02-028
+    type: choice
+    point: concordanca
+    lesson: 3
+    prompt: "La Montse és molt ___: només té vint anys."
+    answer: "jove"
+    distractors:
+      - text: "jova"
+        why: "*Jove* és igual en masculí i femení."
+      - text: "joves"
+        why: "*Joves* és plural. Aquí parlem d'una sola persona."
+    explanation: "*Jove* no canvia amb el gènere: *un noi jove*, *una noia jove*."
+
+  - id: a2-02-029
+    type: fill
+    point: concordanca
+    lesson: 3
+    prompt: "La Núria i la seva germana estan molt ___ amb la casa nova."
+    hint: "FELIÇ, plural"
+    answers: ["felices"]
+    wrong_answers:
+      - text: "feliços"
+        why: "*Feliços* és masculí plural. «La Núria i la seva germana» és femení: *felices*."
+    grading: tolerant
+    explanation: "*Feliç* és igual al singular, però el plural femení és *felices*: la *ç* canvia per *c* davant de *e*."
+
+  - id: a2-02-030
+    type: fill
+    point: concordanca
+    lesson: 3
+    prompt: "Aquests exàmens són molt ___ per a mi."
+    hint: "DIFÍCIL, plural"
+    answers: ["difícils"]
+    wrong_answers:
+      - text: "difícil"
+        why: "*Difícil* és singular. «Aquests exàmens» és plural: *difícils*."
+    grading: tolerant
+    explanation: "*Difícil* és igual en masculí i femení. Al plural fa *difícils*."
+
+  - id: a2-02-031
+    type: find-error
+    point: concordanca
+    lesson: 3
+    sentence: "Les meves veïnes són molt simpàtics."
+    error: "simpàtics"
+    fix: "simpàtiques"
+    fix_distractors:
+      - text: "simpàtica"
+        why: "*Simpàtica* és singular. «Les meves veïnes» és plural."
+      - text: "simpàtic"
+        why: "*Simpàtic* és masculí singular. Cal femení plural."
+    explanation: "L'adjectiu concorda amb «les meves veïnes»: femení plural, *simpàtiques*."
+
+  - id: a2-02-032
+    type: find-error
+    point: concordanca
+    lesson: 3
+    sentence: "La meva cosina és molt alegra i treballadora."
+    error: "alegra"
+    fix: "alegre"
+    fix_distractors:
+      - text: "alegres"
+        why: "*Alegres* és plural. Aquí parlem d'una sola persona."
+      - text: "alegras"
+        why: "*Alegras* no existeix en català: *alegre* no canvia al femení."
+    explanation: "*Alegre* acaba en *-e* i és igual en masculí i femení: *una cosina alegre*."
+
+  - id: a2-02-033
+    type: find-error
+    point: concordanca
+    lesson: 3
+    sentence: "La Fàtima i la seva germana són molt amables."
+    no_error: true
+    explanation: "La frase és correcta. *Amable* és igual en masculí i femení, i el plural és *amables*."
+
+  - id: a2-02-034
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "A l'agost, ___ calor no em deixa dormir."
+    answer: "aquesta"
+    distractors:
+      - text: "aquest"
+        why: "*Calor* és femení en català: *aquesta calor*. En castellà és masculí: «el calor»."
+      - text: "aquests"
+        why: "*Aquests* és plural masculí. *Calor* és singular i femení."
+    explanation: "*Calor* és un nom femení: *la calor*, *aquesta calor*. Té un gènere diferent del castellà."
+
+  - id: a2-02-035
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Em fa mal ___ dent del seny."
+    answer: "la"
+    distractors:
+      - text: "el"
+        why: "*Dent* és femení en català: *la dent*. En castellà és masculí: «el diente»."
+      - text: "els"
+        why: "*Els* és plural. Només em fa mal una dent."
+    explanation: "*Dent* és femení: *la dent*, *les dents*."
+
+  - id: a2-02-036
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Mira ___ senyal: vol dir que la sortida és a l'esquerra."
+    answer: "aquest"
+    distractors:
+      - text: "aquesta"
+        why: "*Senyal* és masculí en català: *aquest senyal*. En castellà és femení: «la señal»."
+      - text: "aquests"
+        why: "*Aquests* és plural, i *senyal* és singular."
+    explanation: "*Senyal* és masculí: *el senyal*, *aquest senyal*."
+
+  - id: a2-02-037
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "La Carla té ___ dubte sobre el contracte."
+    answer: "un"
+    distractors:
+      - text: "una"
+        why: "*Dubte* és masculí en català. En castellà és femení: «la duda»."
+      - text: "uns"
+        why: "*Uns* és plural. *Dubte* és singular."
+    explanation: "*Dubte* és masculí: *un dubte*, *el dubte*."
+
+  - id: a2-02-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Té una avantatge: viu a prop de la feina."
+    error: "una avantatge"
+    fix: "un avantatge"
+    fix_distractors:
+      - text: "uns avantatges"
+        why: "*Uns avantatges* és plural. Aquí es parla d'un sol avantatge."
+      - text: "un avantatges"
+        why: "*Un* va amb el singular: *un avantatge*."
+    explanation: "*Avantatge* és masculí en català: *un avantatge*. En castellà és femení: «la ventaja»."
+
+  - id: a2-02-039
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "___ olor de pa calent arriba des de la fleca!"
+    hint: "AQUEST, concorda amb *olor*"
+    answers: ["Aquesta"]
+    wrong_answers:
+      - text: "Aquest"
+        why: "*Olor* és femení en català: *aquesta olor*. En castellà és masculí: «el olor»."
+    grading: tolerant
+    explanation: "*Olor* és femení: *l'olor*, *aquesta olor*."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-02-040
+    type: transform
+    point: femeni
+    lesson: 4
+    instruction: "Passa la frase al femení."
+    source: "[[El meu cosí]] és [[alt]] i [[simpàtic]]."
+    answers: ["La meva cosina és alta i simpàtica."]
+    wrong_answers:
+      - text: "La meva cosina és alt i simpàtic."
+        why: "Els adjectius concorden amb «la meva cosina»: *alta* i *simpàtica*."
+    grading: tolerant
+    explanation: "El nom i els adjectius passen al femení: *la meva cosina*, *alta*, *simpàtica*."
+
+  - id: a2-02-041
+    type: transform
+    point: plural
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[El veí]] [[és]] [[alt]] i [[amable]]."
+    answers: ["Els veïns són alts i amables."]
+    wrong_answers:
+      - text: "Els veïns són alts i amable."
+        why: "L'adjectiu *amable* també va en plural: *amables*."
+    grading: tolerant
+    explanation: "Tot va en plural: *els veïns són alts i amables*. *Veí* fa *veïns*, amb dièresi."
+
+  - id: a2-02-042
+    type: transform
+    point: plural
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[La platja]] de Cadaqués [[és]] [[bonica]]."
+    answers: ["Les platges de Cadaqués són boniques."]
+    wrong_answers:
+      - text: "Les platjes de Cadaqués són boniques."
+        why: "Davant de *e*, la *j* s'escriu *g*: *platges*."
+      - text: "Les platges de Cadaqués són bonices."
+        why: "Per mantenir el so de *bonica*, davant de *e* s'escriu *qu*: *boniques*."
+    grading: tolerant
+    explanation: "*Platja* fa *platges* i *bonica* fa *boniques*: la grafia canvia davant de *e*."
+
+  - id: a2-02-043
+    type: transform
+    point: femeni
+    lesson: 4
+    instruction: "Passa la frase al femení plural."
+    source: "[[El nostre amic]] [[és]] [[feliç]]."
+    answers: ["Les nostres amigues són felices."]
+    wrong_answers:
+      - text: "Les nostres amigues són feliços."
+        why: "*Feliços* és masculí plural. Amb «les nostres amigues», *felices*."
+      - text: "Les nostres amiges són felices."
+        why: "Per mantenir la *g* davant de *e* cal *gu*: *amigues*."
+    grading: tolerant
+    explanation: "Tot passa al femení plural: *amic* fa *amigues* i *feliç* fa *felices*."
+
+  - id: a2-02-044
+    type: transform
+    point: plural
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[L'habitació]] de la Carla [[és]] [[gran]]."
+    answers: ["Les habitacions de la Carla són grans."]
+    wrong_answers:
+      - text: "Les habitacions de la Carla són gran."
+        why: "L'adjectiu també va en plural: *grans*."
+    grading: tolerant
+    explanation: "*Habitació* fa *habitacions*, sense accent, i *gran* fa *grans*."
+
+  - id: a2-02-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "Abans d'un examen, [[el dubte]] [[és]] [[normal]]."
+    answers: ["Abans d'un examen, els dubtes són normals."]
+    wrong_answers:
+      - text: "Abans d'un examen, les dubtes són normals."
+        why: "*Dubte* és masculí: *els dubtes*."
+    grading: tolerant
+    explanation: "*Dubte* és masculí, així que el plural és *els dubtes*, i l'adjectiu fa *normals*."
+
+  - id: a2-02-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[Aquesta anàlisi]] [[és]] [[important]]."
+    answers: ["Aquestes anàlisis són importants."]
+    wrong_answers:
+      - text: "Aquests anàlisis són importants."
+        why: "*Anàlisi* és femení: *aquestes anàlisis*."
+      - text: "Aquestes anàlisi són importants."
+        why: "Al plural, *anàlisi* porta una *-s* final: *anàlisis*."
+    grading: tolerant
+    explanation: "*Anàlisi* és femení: *aquesta anàlisi*, *aquestes anàlisis*. L'adjectiu fa *importants*."
+
+  - id: a2-02-047
+    type: fill
+    point: femeni
+    lesson: 4
+    prompt: "El meu germà és molt tímid, però la meva germana és molt ___."
+    hint: "TÍMID, en femení"
+    answers: ["tímida"]
+    wrong_answers:
+      - text: "tímid"
+        why: "*Tímid* és masculí. Amb «la meva germana», *tímida*."
+    grading: tolerant
+    explanation: "El femení de *tímid* és *tímida*."
+
+  - id: a2-02-048
+    type: fill
+    point: plural
+    lesson: 4
+    prompt: "A la pastisseria de la Montse tenen ___ de xocolata i de maduixa."
+    hint: "PASTÍS, plural"
+    answers: ["pastissos"]
+    wrong_answers:
+      - text: "pastisos"
+        why: "Entre vocals, una sola *s* sona com *z*. Per mantenir el so de *s*, s'escriu *ss*: *pastissos*."
+    grading: tolerant
+    explanation: "*Pastís* fa *pastissos*: l'accent desapareix i la *s* es dobla entre vocals."
+
+  - id: a2-02-049
+    type: fill
+    point: plural
+    lesson: 4
+    prompt: "Aquesta tarda tinc dues ___ i no puc sortir de l'oficina."
+    hint: "REUNIÓ, plural"
+    answers: ["reunions"]
+    grading: tolerant
+    explanation: "Els noms acabats en *-ó* fan el plural en *-ons*: *reunió → reunions*."
+
+  - id: a2-02-050
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "Ahir em van fer unes ___ de sang a l'hospital."
+    hint: "ANÀLISI, plural"
+    answers: ["anàlisis"]
+    wrong_answers:
+      - text: "anàlisi"
+        why: "El plural porta una *-s* final: *anàlisis*."
+    grading: tolerant
+    explanation: "*Anàlisi* és femení i fa *anàlisis* al plural: *unes anàlisis*."
+
+  - id: a2-02-051
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Digues que et fa mal la dent del seny."
+    chunks: ["Em fa mal", "la dent", "del seny"]
+    extra: ["el dent"]
+    answers:
+      - "Em fa mal la dent del seny."
+      - "La dent del seny em fa mal."
+    explanation: "*Dent* és femení: *la dent*. En castellà és masculí: «el diente»."
+
+  - id: a2-02-052
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Valora l'avantatge de viure a prop de la feina: és molt important."
+    chunks: ["Aquest avantatge", "és", "molt", "important"]
+    extra: ["Aquesta avantatge"]
+    answers:
+      - "Aquest avantatge és molt important."
+    explanation: "*Avantatge* és masculí: *aquest avantatge*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-02-053
+    type: reading
+    point: concordanca
+    lesson: 5
+    title: "La família de la Núria"
+    text: |
+      La Núria viu a Granollers amb la seva mare, la Rosa, i els seus dos germans. La Rosa és alta i prima, i té els cabells llargs i castanys. És molt treballadora: té una botiga de roba i l'obre cada dia a les nou.
+
+      El germà gran, l'Arnau, és baix i una mica tímid, però molt simpàtic. Treballa de cuiner en un restaurant del centre. El germà petit, en Pau, només té catorze anys. Té els ulls verds i sempre està alegre.
+
+      Els diumenges dinen tots a casa de l'àvia, que és una dona amable i generosa. Les cosines de la Núria també hi van, i la casa s'omple de gent.
+    questions:
+      - prompt: "Com és la mare de la Núria?"
+        answer: "Alta i prima, de cabells llargs."
+        distractors:
+          - text: "Baixa i una mica tímida."
+            why: "Això descriu l'Arnau, el germà gran."
+          - text: "Jove, amb els ulls verds."
+            why: "Els ulls verds són d'en Pau."
+      - prompt: "Quina feina fa l'Arnau?"
+        answer: "Cuina en un restaurant del centre."
+        distractors:
+          - text: "Té una botiga de roba."
+            why: "La botiga és de la Rosa, la mare."
+          - text: "És cambrer en un restaurant."
+            why: "El text diu que és cuiner, no cambrer."
+      - prompt: "Quan dinen tots a casa de l'àvia?"
+        answer: "Els diumenges."
+        distractors:
+          - text: "Els dissabtes."
+          - text: "Cada dia."
+      - prompt: "Com és en Pau?"
+        answer: "Té els ulls verds i està alegre."
+        distractors:
+          - text: "És baix i tímid, i cuina."
+            why: "Això descriu l'Arnau."
+          - text: "És alt i té una botiga."
+            why: "La botiga és de la mare, que és alta i treballadora."
+    explanation: "El text descriu la família de la Núria: observa com concorden els adjectius amb cada persona."
+
+  - id: a2-02-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "La Laia ajuda tothom i no s'enfada mai: ___."
+    answer: "és un tros de pa"
+    distractors:
+      - text: "té mala llet"
+        why: "*Tenir mala llet* és tenir mal caràcter: és el contrari."
+      - text: "és més llarga que un dia sense pa"
+        why: "Vol dir que una cosa és molt llarga o no s'acaba mai. No descriu el caràcter."
+    explanation: "*Ser un tros de pa* vol dir ser molt bona persona."
+
+  - id: a2-02-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «ser més llarg que un dia sense pa»?"
+    answer: "Ser molt llarg o no acabar mai."
+    distractors:
+      - text: "Ser una persona de mal caràcter."
+        why: "Això és *tenir mala llet*."
+      - text: "Ser una persona molt amable."
+        why: "Això és *ser un tros de pa*."
+    explanation: "*Ser més llarg que un dia sense pa* vol dir ser molt llarg o no acabar mai."
+
+  - id: a2-02-056
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Una persona que té mala llet és una persona ___."
+    answer: "de mal caràcter"
+    distractors:
+      - text: "molt amable"
+        why: "*Tenir mala llet* és el contrari: tenir mal caràcter o mala intenció."
+      - text: "molt alta"
+        why: "*Tenir mala llet* no té res a veure amb l'alçada."
+    explanation: "*Tenir mala llet* vol dir tenir mal caràcter o mala intenció."
+
+  - id: a2-02-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Ahir va renyar el cambrer sense cap motiu: té molta ___."
+    hint: "expressió amb *llet*: mal caràcter"
+    answers: ["mala llet"]
+    wrong_answers:
+      - text: "mal llet"
+        why: "*Llet* és femení: *mala llet*."
+    grading: tolerant
+    explanation: "*Tenir mala llet* vol dir tenir mal caràcter. *Llet* és femení: *mala*."
+
+  - id: a2-02-058
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "No tinguis por d'en Pau: és un ___ de pa."
+    hint: "expressió: una persona molt bona"
+    answers: ["tros"]
+    grading: tolerant
+    explanation: "*Ser un tros de pa* vol dir ser molt bona persona."
+
+  - id: a2-02-059
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que la reunió d'avui no s'acaba mai."
+    chunks: ["La reunió d'avui", "és", "més llarga", "que un dia", "sense pa"]
+    extra: ["més llarg"]
+    answers:
+      - "La reunió d'avui és més llarga que un dia sense pa."
+    explanation: "L'adjectiu concorda amb «la reunió»: *més llarga que un dia sense pa*."
+
+  - id: a2-02-060
+    type: find-error
+    point: plural
+    lesson: 5
+    sentence: "A les platjes de la Costa Brava hi ha molta gent."
+    error: "platjes"
+    fix: "platges"
+    fix_distractors:
+      - text: "platgues"
+        why: "*Gu* davant de *e* serveix per a un so fort, com a *amigues*. A *platges* el so és suau."
+      - text: "platjas"
+        why: "El plural femení en català acaba en *-es*, no en *-as*."
+    explanation: "*Platja* fa *platges*: davant de *e*, la *j* s'escriu *g*."
+
+  - id: a2-02-061
+    type: find-error
+    point: concordanca
+    lesson: 5
+    sentence: "Les nostres veïnes tenen els cabells castanys i els ulls verds."
+    no_error: true
+    explanation: "La frase és correcta: *cabells* i *ulls* són masculins plurals, i els adjectius fan *castanys* i *verds*."
+
+  - id: a2-02-062
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Després de la cursa, tinc molt suor al front."
+    error: "molt suor"
+    fix: "molta suor"
+    fix_distractors:
+      - text: "molts suor"
+        why: "*Suor* és singular: *molta suor*."
+      - text: "moltes suor"
+        why: "*Moltes* és plural. *Suor* és singular."
+    explanation: "*Suor* és femení en català: *la suor*, *molta suor*. En castellà és masculí: «el sudor»."
+
+  - id: a2-02-063
+    type: transform
+    point: plural
+    lesson: 5
+    instruction: "Passa la frase al plural."
+    source: "[[El peix]] [[és]] [[fresc]]."
+    answers: ["Els peixos són frescos."]
+    wrong_answers:
+      - text: "Els peixs són frescos."
+        why: "Els noms acabats en *-x* fan el plural en *-os*: *peixos*."
+    grading: tolerant
+    explanation: "*Peix* fa *peixos* i *fresc* fa *frescos*."
+
+  - id: a2-02-064
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Un dia d'estiu a Lleida"
+    text: "A l'agost fa molta calor a Lleida. {Aquesta|Aquest} calor no em deixa dormir i tinc {molta|molt} suor al front. Tinc {un|una} costum: em dutxo tres cops al dia. A la nit, quan surto de casa, hi ha {una|un} olor de pa calent. Tinc {un|una} dubte: em compro un ventilador?"
+    explanation: "*Calor*, *suor* i *olor* són femenins: *aquesta calor*, *molta suor*, *una olor*. *Costum* i *dubte* són masculins: *un costum*, *un dubte*."
+
+  - id: a2-02-065
+    type: match
+    point: compte-castella
+    lesson: 5
+    instruction: "Relaciona cada nom amb el seu significat."
+    pairs:
+      - ["el costum", "Allò que fas sempre, per hàbit"]
+      - ["la suor", "El líquid que surt de la pell quan tenim calor"]
+      - ["el dubte", "Quan no estàs segur d'una cosa"]
+      - ["l'avantatge", "Allò que fa millor una situació"]
+      - ["la resta", "Allò que queda quan n'has pres una part"]
+    explanation: "*El costum*, *el dubte* i *l'avantatge* són masculins. *La suor* i *la resta* són femenins."
