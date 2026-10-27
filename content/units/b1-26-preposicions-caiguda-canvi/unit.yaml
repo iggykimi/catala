@@ -1,0 +1,1008 @@
+id: b1-26
+level: B1
+title: "Preposicions: caiguda i canvi"
+summary: "Aprens que la preposició *de* cau davant de *que* (*m'alegro que vinguis*), es manté davant d'infinitiu (*m'alegro de veure't*) i que *en* i *amb* canvien a *a* (*insisteix a pagar*)."
+vocabulary_theme: "Oci, aficions i esport"
+points:
+  - id: caiguda-de-que
+    title: "Cau la *de* davant de *que*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: de-amb-infinitiu
+    title: "La *de* es manté davant d'infinitiu"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: canvi-a-infinitiu
+    title: "*En* i *amb* canvien a *a* davant d'infinitiu"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *de que* no existeix"
+  - id: expressions
+    title: "Expressions del temps lliure"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: *que* sense *de*"
+  - title: "Practicar *que* i *de*"
+  - title: "*A* + infinitiu i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "l'afició"
+    definition: "Activitat que fas per plaer en el temps lliure."
+    example: "La seva gran afició és el futbol."
+  - word: "el temps lliure"
+    definition: "Hores del dia que no treballes ni estudies."
+    example: "Al temps lliure m'agrada nedar."
+  - word: "el partit"
+    definition: "Enfrontament esportiu entre dos equips o dos jugadors."
+    example: "El partit de diumenge és a les dotze."
+  - word: "l'equip"
+    definition: "Grup de jugadors que competeixen junts."
+    example: "El nostre equip ha guanyat la lliga."
+  - word: "l'entrenament"
+    definition: "Sessió de preparació d'un esport."
+    example: "L'entrenament és dimarts i dijous."
+  - word: "l'entrenador, l'entrenadora"
+    definition: "Persona que prepara un equip o un esportista."
+    example: "L'entrenadora nova ha canviat els exercicis."
+  - word: "el rival"
+    definition: "Equip o jugador contra qui competeixes."
+    example: "El rival de dissabte és molt fort."
+  - word: "el gol"
+    definition: "Punt que es marca a futbol i a altres esports."
+    example: "En Pau ha marcat dos gols."
+  - word: "la pilota"
+    definition: "Bola amb què es juga a molts esports."
+    example: "Han perdut la pilota al riu."
+  - word: "la raqueta"
+    definition: "Estri per jugar a tenis o a pàdel."
+    example: "M'he comprat una raqueta nova."
+  - word: "el marcador"
+    definition: "Tauler on es veu el resultat d'un partit."
+    example: "El marcador era de dos a zero."
+  - word: "l'empat"
+    definition: "Resultat igual entre dos equips o jugadors."
+    example: "L'empat a dos ens deixa segons."
+  - word: "la victòria"
+    definition: "Triomf en un partit o una competició."
+    example: "La victòria ens dona la lliga."
+  - word: "el campionat"
+    definition: "Competició esportiva amb diversos equips."
+    example: "El campionat comença a l'octubre."
+  - word: "la lliga"
+    definition: "Competició on tots els equips juguen entre ells."
+    example: "Juguen a la lliga del barri."
+  - word: "el torneig"
+    definition: "Competició curta, sovint d'un cap de setmana."
+    example: "El torneig de tenis és al juny."
+  - word: "l'aficionat, l'aficionada"
+    definition: "Persona que segueix un esport amb passió."
+    example: "Els aficionats omplen la graderia."
+  - word: "la graderia"
+    definition: "Grades on seu el públic en un camp."
+    example: "A la graderia no hi cabia ningú més."
+  - word: "l'escalfament"
+    definition: "Exercicis suaus abans de fer esport."
+    example: "L'escalfament dura deu minuts."
+  - word: "la lesió"
+    definition: "Mal físic per un cop o un esforç."
+    example: "Té una lesió al genoll."
+  - word: "el genoll"
+    definition: "Articulació del mig de la cama."
+    example: "Li fa mal el genoll dret."
+  - word: "entrenar-se"
+    definition: "Preparar-se físicament per a un esport."
+    example: "S'entrena tres cops per setmana."
+  - word: "marcar"
+    definition: "Aconseguir un gol o un punt."
+    example: "Va marcar al darrer minut."
+  - word: "el pàdel"
+    definition: "Esport de raqueta que es juga en una pista tancada."
+    example: "Juga a pàdel cada dissabte."
+  - word: "l'excursió"
+    definition: "Sortida a la muntanya o al camp."
+    example: "Diumenge fem una excursió al Montseny."
+  - word: "la piscina"
+    definition: "Lloc amb aigua per nedar."
+    example: "La piscina obre a les set del matí."
+  - word: "nedar"
+    definition: "Moure's per l'aigua sense enfonsar-se."
+    example: "Neda crol cada matí."
+  - word: "el crol"
+    definition: "Estil de natació ràpid, amb els braços."
+    example: "El crol cansa molt al principi."
+  - word: "córrer"
+    definition: "Anar de pressa a peu."
+    example: "Corre deu quilòmetres cada dia."
+  - word: "la cursa"
+    definition: "Competició de córrer o de bicicletes."
+    example: "La cursa de diumenge és de deu quilòmetres."
+  - word: "el gimnàs"
+    definition: "Local per fer exercici i musculació."
+    example: "El gimnàs tanca a les deu."
+  - word: "el club"
+    definition: "Entitat esportiva d'un barri o una ciutat."
+    example: "El club busca jugadors nous."
+  - word: "la quota"
+    definition: "Diners que els socis paguen al club."
+    example: "La quota és de vint euros al mes."
+  - word: "l'entrada"
+    definition: "Paper que permet accedir a un espectacle."
+    example: "Les entrades del concert són cares."
+  - word: "la muntanya"
+    definition: "Terreny alt amb cims i camins."
+    example: "Es va perdre a la muntanya."
+  - word: "el vestidor"
+    definition: "Sala on els esportistes es canvien de roba."
+    example: "Els vestidors nous són molt grans."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-26-001
+    type: choice
+    point: caiguda-de-que
+    lesson: 1
+    prompt: "M'alegro ___ hagis pogut venir a l'excursió del Montseny."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* és un calc del castellà «de que». En català: *m'alegro que*."
+      - text: "de"
+        why: "*De* va amb un infinitiu (*m'alegro de venir*), no amb un verb conjugat com «hagis»."
+    explanation: "«Hagis pogut» és un verb conjugat: *m'alegro* perd la *de* davant de *que*."
+
+  - id: b1-26-002
+    type: choice
+    point: caiguda-de-que
+    lesson: 1
+    prompt: "Tinc ganes ___ vingueu tots al torneig de primavera."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* no existeix en català estàndard: és un calc. Davant de *que* no hi ha cap preposició."
+      - text: "de"
+        why: "*De* va amb un infinitiu (*tinc ganes de venir*), no amb un verb conjugat com «vingueu»."
+    explanation: "«Vingueu» és un verb conjugat: *tenir ganes* perd la *de* davant de *que*."
+
+  - id: b1-26-003
+    type: choice
+    point: caiguda-de-que
+    lesson: 1
+    prompt: "Estic segur ___ arribarem a temps al concert."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* és un calc del castellà «de que». En català: *estic segur que*."
+      - text: "de"
+        why: "*De* va amb un infinitiu (*estic segur de venir*), no amb un verb conjugat com «arribarem»."
+    explanation: "«Arribarem» és un verb conjugat: *estar segur* perd la *de* davant de *que*."
+
+  - id: b1-26-004
+    type: choice
+    point: caiguda-de-que
+    lesson: 1
+    prompt: "Quina frase és correcta?"
+    answer: "Té por que perdi l'autobús de les vuit."
+    distractors:
+      - text: "Té por de que perdi l'autobús de les vuit."
+        why: "*De que* és un calc del castellà «de que». En català: *té por que*."
+      - text: "Té por de perdi l'autobús de les vuit."
+        why: "*De* va amb un infinitiu (*té por de perdre*), no amb un verb conjugat com «perdi»."
+    explanation: "«Perdi» és un verb conjugat: *tenir por* perd la *de* davant de *que*."
+
+  - id: b1-26-005
+    type: choice
+    point: de-amb-infinitiu
+    lesson: 1
+    prompt: "M'alegro ___ veure't tan contenta amb l'equip nou."
+    answer: "de"
+    distractors:
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *m'alegro de veure't*."
+      - text: "a"
+        why: "*Alegrar-se* porta *de*, no *a*: *m'alegro de veure't*."
+    explanation: "«Veure't» és un infinitiu: *m'alegro* manté la preposició *de*."
+
+  - id: b1-26-006
+    type: choice
+    point: de-amb-infinitiu
+    lesson: 1
+    prompt: "Té ganes ___ jugar a tenis aquesta tarda amb la Núria."
+    answer: "de"
+    distractors:
+      - text: "a"
+        why: "*Tenir ganes* porta *de*, no *a*: *té ganes de jugar*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *té ganes de jugar*."
+    explanation: "«Jugar» és un infinitiu: *tenir ganes* manté la *de*."
+
+  - id: b1-26-007
+    type: choice
+    point: de-amb-infinitiu
+    lesson: 1
+    prompt: "Estan cansats ___ perdre cada cap de setmana."
+    answer: "de"
+    distractors:
+      - text: "a"
+        why: "*Estar cansat* porta *de* davant d'infinitiu, no *a*: *estan cansats de perdre*."
+      - text: "en"
+        why: "*Estar cansat* porta *de* davant d'infinitiu, no *en*: *estan cansats de perdre*."
+    explanation: "«Perdre» és un infinitiu: *estar cansat* manté la *de*."
+
+  - id: b1-26-008
+    type: match
+    point: caiguda-de-que
+    lesson: 1
+    instruction: "Relaciona cada principi amb la continuació."
+    pairs:
+      - ["M'alegro que tu", "puguis venir a l'excursió."]
+      - ["Està segura que nosaltres", "arribarem a temps al concert."]
+      - ["Té por que el partit", "se suspengui per la pluja."]
+      - ["Estan contents que jo", "torni a jugar amb ells."]
+    explanation: "El verb concorda amb el subjecte: *tu puguis*, *nosaltres arribarem*, *el partit se suspengui*, *jo torni*. I davant de *que* no hi ha cap preposició."
+
+  - id: b1-26-009
+    type: inline-choice
+    point: caiguda-de-que
+    lesson: 1
+    title: "Missatge a l'equip"
+    text: "Hola a tothom! M'alegro {que|de que|de} siguem tants al grup. Estic segur {que|de que|de} farem un bon torneig. La Núria està contenta {que|de que|de} l'Ibrahim torni a jugar. Ens veurem dissabte!"
+    explanation: "«Siguem», «farem» i «torni» són verbs conjugats: darrere de *m'alegro*, *estic segur* i *està contenta*, la *de* cau i queda *que*."
+
+  - id: b1-26-010
+    type: inline-choice
+    point: de-amb-infinitiu
+    lesson: 1
+    title: "Nota del club"
+    text: "Tothom té ganes {de|que|a} jugar la final. En Pau està cansat {d'|que |a }esperar el seu torn. La Carla s'alegra {de|que|a} tornar a entrenar. Tracteu {d'|que |a }arribar d'hora!"
+    explanation: "«Jugar», «esperar», «tornar» i «arribar» són infinitius: *tenir ganes*, *estar cansat*, *alegrar-se* i *tractar de* mantenen la *de*."
+
+  - id: b1-26-011
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["tenir ganes de", "Tens molta il·lusió per jugar la final."]
+      - ["fer el ronso", "Fas veure que no ho has sentit per no parar taula."]
+      - ["fer-ne cinc cèntims", "Expliques el partit en quatre paraules."]
+      - ["suar la cansalada", "Sues de valent per guanyar el partit."]
+    explanation: "Cada expressió descriu una situació: la il·lusió (*tenir ganes de*), el desentès (*fer el ronso*), el resum (*fer-ne cinc cèntims*) i l'esforç (*suar la cansalada*)."
+
+  - id: b1-26-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «fer el ronso»?"
+    answer: "Fer-se el desentès per no fer una cosa."
+    distractors:
+      - text: "Explicar una cosa en poques paraules."
+        why: "Això és *fer-ne cinc cèntims*."
+      - text: "Esforçar-se molt fent esport."
+        why: "Això és *suar la cansalada*."
+    explanation: "*Fer el ronso* vol dir fer-se el desentès: fer veure que no s'ha sentit per no fer una cosa."
+
+  - id: b1-26-013
+    type: choice
+    point: de-amb-infinitiu
+    lesson: 1
+    prompt: "Es queixa ___ jugar pocs minuts cada partit."
+    answer: "de"
+    distractors:
+      - text: "a"
+        why: "*Queixar-se* porta *a* amb la persona (*es queixa a l'àrbitre*), no amb un infinitiu: *es queixa de jugar*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *es queixa de jugar*."
+    explanation: "«Jugar» és un infinitiu: *queixar-se* manté la *de*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-26-014
+    type: fill
+    point: caiguda-de-que
+    lesson: 2
+    prompt: "M'alegro ___ hagis tornat a jugar amb nosaltres."
+    hint: "conjunció"
+    answers: ["que"]
+    wrong_answers:
+      - text: "de que"
+        why: "*De que* és un calc del castellà «de que». En català: *m'alegro que*."
+    grading: tolerant
+    explanation: "«Hagis tornat» és un verb conjugat: *m'alegro* perd la *de* davant de *que*."
+
+  - id: b1-26-015
+    type: fill
+    point: caiguda-de-que
+    lesson: 2
+    prompt: "Estic segur ___ guanyarem el partit de diumenge."
+    hint: "conjunció"
+    answers: ["que"]
+    wrong_answers:
+      - text: "de que"
+        why: "*De que* no existeix en català estàndard: és un calc. Davant de *que* no hi ha cap preposició."
+    grading: tolerant
+    explanation: "«Guanyarem» és un verb conjugat: *estar segur* perd la *de* davant de *que*."
+
+  - id: b1-26-016
+    type: fill
+    point: caiguda-de-que
+    lesson: 2
+    prompt: "Té por ___ es faci una lesió al genoll."
+    hint: "conjunció"
+    answers: ["que"]
+    wrong_answers:
+      - text: "de que"
+        why: "*De que* és un calc del castellà «de que». En català: *té por que*."
+    grading: tolerant
+    explanation: "«Es faci» és un verb conjugat: *tenir por* perd la *de* davant de *que*."
+
+  - id: b1-26-017
+    type: fill
+    point: de-amb-infinitiu
+    lesson: 2
+    prompt: "Tinc ganes ___ córrer la cursa de diumenge amb en Pau."
+    hint: "preposició"
+    answers: ["de"]
+    wrong_answers:
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *tinc ganes de córrer*."
+      - text: "a"
+        why: "*Tenir ganes* porta *de*, no *a*: *tinc ganes de córrer*."
+    grading: tolerant
+    explanation: "«Córrer» és un infinitiu: *tenir ganes* manté la *de*."
+
+  - id: b1-26-018
+    type: fill
+    point: de-amb-infinitiu
+    lesson: 2
+    prompt: "S'alegra ___ nedar cada matí a la piscina del barri."
+    hint: "preposició"
+    answers: ["de"]
+    wrong_answers:
+      - text: "a"
+        why: "*Alegrar-se* porta *de*, no *a*: *s'alegra de nedar*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *s'alegra de nedar*."
+    grading: tolerant
+    explanation: "«Nedar» és un infinitiu: *alegrar-se* manté la *de*."
+
+  - id: b1-26-019
+    type: fill
+    point: de-amb-infinitiu
+    lesson: 2
+    prompt: "Estic cansada ___ fer sempre d'àrbitre als partits."
+    hint: "preposició"
+    answers: ["de"]
+    wrong_answers:
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *estic cansada de fer*."
+      - text: "en"
+        why: "*Estar cansat* porta *de* davant d'infinitiu: *estic cansada de fer*."
+    grading: tolerant
+    explanation: "«Fer» és un infinitiu: *estar cansat* manté la *de*."
+
+  - id: b1-26-020
+    type: choice
+    point: caiguda-de-que
+    lesson: 2
+    prompt: "Es queixa ___ l'entrenador no el deixa jugar."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* és un calc del castellà «de que». En català: *es queixa que*."
+      - text: "de"
+        why: "*De* va amb un infinitiu (*es queixa de jugar*), no amb un verb conjugat com «deixa»."
+    explanation: "«Deixa» és un verb conjugat: *queixar-se* perd la *de* davant de *que*."
+
+  - id: b1-26-021
+    type: choice
+    point: caiguda-de-que
+    lesson: 2
+    prompt: "Està orgullosa ___ la seva filla jugui a bàsquet."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* no existeix en català estàndard: és un calc. Davant de *que* no hi ha cap preposició."
+      - text: "de"
+        why: "*De* va amb un nom o un infinitiu (*està orgullosa de la filla*), no amb un verb conjugat com «jugui»."
+    explanation: "«Jugui» és un verb conjugat: *estar orgullós* perd la *de* davant de *que*."
+
+  - id: b1-26-022
+    type: choice
+    point: de-amb-infinitiu
+    lesson: 2
+    prompt: "Tracta ___ venir a tots els entrenaments."
+    answer: "de"
+    distractors:
+      - text: "a"
+        why: "*Tractar* porta *de* davant d'infinitiu, no *a*: *tracta de venir*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *tracta de venir*."
+    explanation: "*Tractar de* + infinitiu vol dir intentar: *tracta de venir*."
+
+  - id: b1-26-023
+    type: choice
+    point: caiguda-de-que
+    lesson: 2
+    prompt: "Soc conscient ___ ha d'entrenar més per jugar."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* és un calc del castellà «de que». En català: *soc conscient que*."
+      - text: "de"
+        why: "*De* va amb un nom o un infinitiu (*soc conscient del problema*), no amb un verb conjugat com «ha»."
+    explanation: "«Ha d'entrenar» és un verb conjugat: *ser conscient* perd la *de* davant de *que*."
+
+  - id: b1-26-024
+    type: order
+    point: caiguda-de-que
+    lesson: 2
+    cue: "Digues que estàs segur que guanyareu el torneig."
+    chunks: ["estic", "segur", "que", "guanyarem", "el", "torneig"]
+    extra: ["de"]
+    answers:
+      - "Estic segur que guanyarem el torneig."
+    explanation: "«Guanyarem» és un verb conjugat: *estar segur* perd la *de* davant de *que*."
+
+  - id: b1-26-025
+    type: order
+    point: de-amb-infinitiu
+    lesson: 2
+    cue: "Digues que tens ganes de jugar el partit."
+    chunks: ["tinc", "ganes", "de", "jugar", "el", "partit"]
+    extra: ["que"]
+    answers:
+      - "Tinc ganes de jugar el partit."
+    explanation: "«Jugar» és un infinitiu: *tenir ganes* manté la *de*."
+
+  - id: b1-26-026
+    type: order
+    point: de-amb-infinitiu
+    lesson: 2
+    cue: "En Pau té por de perdre's a la muntanya. Digues-ho."
+    chunks: ["en", "Pau", "té", "por", "de", "perdre's", "a", "la", "muntanya"]
+    extra: ["que"]
+    answers:
+      - "En Pau té por de perdre's a la muntanya."
+    explanation: "«Perdre's» és un infinitiu: *tenir por* manté la *de*. *Que* només va amb un verb conjugat."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-26-027
+    type: choice
+    point: canvi-a-infinitiu
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Insisteix a pagar el sopar de tot l'equip."
+    distractors:
+      - text: "Insisteix de pagar el sopar de tot l'equip."
+        why: "*Insistir* no porta mai *de*: amb un nom porta *en* i amb un infinitiu, *a*."
+      - text: "Insisteix pagar el sopar de tot l'equip."
+        why: "*Insistir* necessita una preposició: *insisteix a pagar*."
+    explanation: "*Insistir* porta *en* amb un nom (*insisteix en la idea*), però *a* amb un infinitiu: *insisteix a pagar*."
+
+  - id: b1-26-028
+    type: choice
+    point: canvi-a-infinitiu
+    lesson: 3
+    prompt: "Vam quedar ___ jugar a pàdel dissabte al matí."
+    answer: "a"
+    distractors:
+      - text: "de"
+        why: "*Quedar* no porta *de* davant d'infinitiu: *vam quedar a jugar*."
+      - text: "amb"
+        why: "*Amb* va amb la persona (*vam quedar amb la Núria*), no amb un infinitiu: *vam quedar a jugar*."
+    explanation: "*Quedar* porta *amb* amb una persona, però *a* amb un infinitiu: *vam quedar a jugar*."
+
+  - id: b1-26-029
+    type: choice
+    point: canvi-a-infinitiu
+    lesson: 3
+    prompt: "Insisteix ___ la seva idea de fer dos equips."
+    answer: "en"
+    distractors:
+      - text: "de"
+        why: "*Insistir* no porta *de*: amb un nom porta *en*: *insisteix en la idea*."
+      - text: "per"
+        why: "*Per* indicaria finalitat o causa; aquí *insistir* porta *en*: *insisteix en la idea*."
+    explanation: "«La seva idea» és un nom: *insistir* porta *en*."
+
+  - id: b1-26-030
+    type: choice
+    point: canvi-a-infinitiu
+    lesson: 3
+    prompt: "Hem quedat ___ la Carla per anar al gimnàs."
+    answer: "amb"
+    distractors:
+      - text: "de"
+        why: "*Quedar* no porta *de* amb una persona: *hem quedat amb la Carla*."
+      - text: "a"
+        why: "*A* va amb el lloc (*hem quedat a la porta*), no amb la persona: *hem quedat amb la Carla*."
+    explanation: "«La Carla» és una persona: *quedar* porta *amb*."
+
+  - id: b1-26-031
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "M'alegro que vinguis al partit."
+    distractors:
+      - text: "M'alegro de que vinguis al partit."
+        why: "*De que* és un calc del castellà «de que». En català, davant de *que* no hi ha cap preposició."
+      - text: "M'alegro de vinguis al partit."
+        why: "*De* va amb un infinitiu (*m'alegro de venir*), no amb un verb conjugat com «vinguis»."
+    explanation: "«Vinguis» és un verb conjugat i davant de *que* no hi ha cap preposició: *m'alegro que*."
+
+  - id: b1-26-032
+    type: fill
+    point: canvi-a-infinitiu
+    lesson: 3
+    prompt: "Insisteix ___ pagar les entrades de tots dos."
+    hint: "preposició"
+    answers: ["a"]
+    wrong_answers:
+      - text: "de"
+        why: "*Insistir* porta *a* davant d'infinitiu, no *de*: *insisteix a pagar*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *insisteix a pagar*."
+    grading: tolerant
+    explanation: "«Pagar» és un infinitiu: *insistir* porta *a*."
+
+  - id: b1-26-033
+    type: fill
+    point: canvi-a-infinitiu
+    lesson: 3
+    prompt: "Vam quedar ___ provar el camp nou dissabte que ve."
+    hint: "preposició"
+    answers: ["a"]
+    wrong_answers:
+      - text: "de"
+        why: "*Quedar* no porta *de* davant d'infinitiu: *vam quedar a provar*."
+      - text: "amb"
+        why: "*Amb* va amb la persona (*vam quedar amb en Pau*), no amb un infinitiu: *vam quedar a provar*."
+    grading: tolerant
+    explanation: "«Provar» és un infinitiu: *quedar* porta *a*."
+
+  - id: b1-26-034
+    type: match
+    point: canvi-a-infinitiu
+    lesson: 3
+    instruction: "Relaciona cada frase amb la preposició que hi falta."
+    pairs:
+      - ["Insisteix ___ la seva idea.", "en"]
+      - ["Vam quedar ___ els amics.", "amb"]
+      - ["Juga ___ tenis cada setmana.", "a"]
+      - ["S'alegra ___ la victòria.", "de"]
+    explanation: "Cada verb porta la seva preposició: *insistir en*, *quedar amb* una persona, *jugar a* i *alegrar-se de*."
+
+  - id: b1-26-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Estic segur de que vindran tots a l'entrenament."
+    error: "de que"
+    fix: "que"
+    fix_distractors:
+      - text: "de"
+        why: "*De* va amb un infinitiu (*estic segur de venir*): amb un verb conjugat no hi ha cap preposició."
+      - text: "què"
+        why: "*Què* amb accent és interrogatiu (*No sé què vols*). Aquí cal la conjunció *que*."
+    explanation: "«Vindran» és un verb conjugat: *estar segur* perd la *de* davant de *que*."
+
+  - id: b1-26-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Tinc por de que plogui durant el partit de dissabte."
+    error: "de que"
+    fix: "que"
+    fix_distractors:
+      - text: "de"
+        why: "*De* va amb un infinitiu (*tinc por de perdre*): amb un verb conjugat no hi ha cap preposició."
+      - text: "perquè"
+        why: "*Perquè* + subjuntiu indica finalitat; aquí no hi ha finalitat: *tinc por que*."
+    explanation: "«Plogui» és un verb conjugat: *tenir por* perd la *de* davant de *que*."
+
+  - id: b1-26-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "S'alegra de que l'hagin triat per jugar la final."
+    error: "de que"
+    fix: "que"
+    fix_distractors:
+      - text: "de"
+        why: "*De* va amb un infinitiu (*s'alegra de jugar*): amb un verb conjugat no hi ha cap preposició."
+      - text: "què"
+        why: "*Què* amb accent és interrogatiu (*No sé què vols*). Aquí cal la conjunció *que*."
+    explanation: "«Hagin triat» és un verb conjugat: *alegrar-se* perd la *de* davant de *que*."
+
+  - id: b1-26-038
+    type: find-error
+    point: canvi-a-infinitiu
+    lesson: 3
+    sentence: "L'Ibrahim insisteix de pagar les pilotes noves."
+    error: "de"
+    fix: "a"
+    fix_distractors:
+      - text: "amb"
+        why: "*Amb* no va amb un infinitiu darrere de *insistir*: *insisteix a pagar*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *insisteix a pagar*."
+    explanation: "«Pagar» és un infinitiu: *insistir* porta *a*."
+
+  - id: b1-26-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "M'alegro que pugueu venir al concert de dissabte."
+    no_error: true
+    explanation: "La frase és correcta: «pugueu venir» és un verb conjugat i davant de *que* no hi ha cap preposició."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-26-040
+    type: transform
+    point: de-amb-infinitiu
+    lesson: 4
+    instruction: "Reescriu la frase amb un infinitiu."
+    source: "Estan segurs [[que guanyaran]] la lliga."
+    answers: ["Estan segurs de guanyar la lliga."]
+    wrong_answers:
+      - text: "Estan segurs que guanyar la lliga."
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *estan segurs de guanyar*."
+      - text: "Estan segurs a guanyar la lliga."
+        why: "*Estar segur* porta *de* davant d'infinitiu, no *a*."
+    grading: tolerant
+    explanation: "«Guanyaran» passa a infinitiu (*guanyar*): davant d'infinitiu, *estar segur* porta *de*."
+
+  - id: b1-26-041
+    type: transform
+    point: de-amb-infinitiu
+    lesson: 4
+    instruction: "Reescriu la frase amb un infinitiu."
+    source: "Tenen por [[que perdran]] la final de diumenge."
+    answers: ["Tenen por de perdre la final de diumenge."]
+    wrong_answers:
+      - text: "Tenen por que perdre la final de diumenge."
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *tenen por de perdre*."
+      - text: "Tenen por a perdre la final de diumenge."
+        why: "*Tenir por* porta *de* davant d'infinitiu, no *a*."
+    grading: tolerant
+    explanation: "«Perdran» passa a infinitiu (*perdre*): davant d'infinitiu, *tenir por* porta *de*."
+
+  - id: b1-26-042
+    type: transform
+    point: de-amb-infinitiu
+    lesson: 4
+    instruction: "Reescriu la frase amb un infinitiu."
+    source: "Estic content [[que tornaré]] a nedar cada matí."
+    answers: ["Estic content de tornar a nedar cada matí."]
+    wrong_answers:
+      - text: "Estic content que tornar a nedar cada matí."
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *estic content de tornar*."
+      - text: "Estic content a tornar a nedar cada matí."
+        why: "*Estar content* porta *de* davant d'infinitiu, no *a*."
+    grading: tolerant
+    explanation: "«Tornaré» passa a infinitiu (*tornar*): davant d'infinitiu, *estar content* porta *de*."
+
+  - id: b1-26-043
+    type: transform
+    point: canvi-a-infinitiu
+    lesson: 4
+    instruction: "Reescriu la frase amb *insistir a* + infinitiu."
+    source: "Insisteix [[en la idea de]] pagar la quota del club."
+    answers: ["Insisteix a pagar la quota del club."]
+    wrong_answers:
+      - text: "Insisteix de pagar la quota del club."
+        why: "*Insistir* no porta mai *de*: amb un infinitiu porta *a*."
+      - text: "Insisteix pagar la quota del club."
+        why: "*Insistir* necessita una preposició: *insisteix a pagar*."
+    grading: tolerant
+    explanation: "«En la idea de pagar» passa a infinitiu sol: *insistir* porta *a*."
+
+  - id: b1-26-044
+    type: transform
+    point: canvi-a-infinitiu
+    lesson: 4
+    instruction: "Reescriu la frase amb *quedar a* + infinitiu."
+    source: "Van quedar [[amb en Pau per]] jugar el torneig."
+    answers:
+      - "Van quedar a jugar el torneig amb en Pau."
+      - "Van quedar amb en Pau a jugar el torneig."
+    wrong_answers:
+      - text: "Van quedar de jugar el torneig amb en Pau."
+        why: "*Quedar* no porta *de* davant d'infinitiu: *van quedar a jugar*."
+    grading: tolerant
+    explanation: "«Amb en Pau per jugar» passa a *quedar a* + infinitiu: *van quedar a jugar*."
+
+  - id: b1-26-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Estic segura [[de que]] vindràs al partit."
+    answers: ["Estic segura que vindràs al partit."]
+    wrong_answers:
+      - text: "Estic segura de vindràs al partit."
+        why: "*De* va amb un infinitiu, no amb un verb conjugat com «vindràs»: *estic segura que*."
+    grading: tolerant
+    explanation: "«Vindràs» és un verb conjugat: *de que* és un calc del castellà «de que». En català: *estic segura que*."
+
+  - id: b1-26-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Tenen por [[de que]] se suspengui l'excursió."
+    answers: ["Tenen por que se suspengui l'excursió."]
+    wrong_answers:
+      - text: "Tenen por de se suspengui l'excursió."
+        why: "*De* va amb un infinitiu, no amb un verb conjugat com «suspengui»: *tenen por que*."
+    grading: tolerant
+    explanation: "«Se suspengui» és un verb conjugat: *de que* és un calc del castellà «de que». En català: *tenen por que*."
+
+  - id: b1-26-047
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Estan contents [[de que]] l'entrenadora continuï."
+    answers: ["Estan contents que l'entrenadora continuï."]
+    wrong_answers:
+      - text: "Estan contents de l'entrenadora continuï."
+        why: "*De* va amb un infinitiu, no amb un verb conjugat com «continuï»: *estan contents que*."
+    grading: tolerant
+    explanation: "«Continuï» és un verb conjugat: *de que* és un calc del castellà «de que». En català: *estan contents que*."
+
+  - id: b1-26-048
+    type: fill
+    point: caiguda-de-que
+    lesson: 4
+    prompt: "Soc conscient ___ cal entrenar-se més per guanyar."
+    hint: "conjunció"
+    answers: ["que"]
+    wrong_answers:
+      - text: "de que"
+        why: "*De que* no existeix en català estàndard: *ser conscient* perd la *de* davant de *que*."
+    grading: tolerant
+    explanation: "«Cal» és un verb conjugat: *ser conscient* perd la *de* davant de *que*."
+
+  - id: b1-26-049
+    type: fill
+    point: canvi-a-infinitiu
+    lesson: 4
+    prompt: "Ha après ___ nedar crol aquest estiu a la piscina."
+    hint: "preposició"
+    answers: ["a"]
+    wrong_answers:
+      - text: "de"
+        why: "*Aprendre* porta *a* davant d'infinitiu: *ha après a nedar*."
+      - text: "en"
+        why: "*Aprendre* porta *a* davant d'infinitiu: *ha après a nedar*."
+    grading: tolerant
+    explanation: "«Nedar» és un infinitiu i *aprendre* porta sempre *a*: *ha après a nedar*."
+
+  - id: b1-26-050
+    type: order
+    point: canvi-a-infinitiu
+    lesson: 4
+    cue: "Diu que insisteix a pagar les entrades."
+    chunks: ["insisteix", "a", "pagar", "les", "entrades"]
+    extra: ["de"]
+    answers:
+      - "Insisteix a pagar les entrades."
+    explanation: "«Pagar» és un infinitiu: *insistir* porta *a*. *De* no hi va mai."
+
+  - id: b1-26-051
+    type: order
+    point: canvi-a-infinitiu
+    lesson: 4
+    cue: "Vau quedar a entrenar dimarts. Digues-ho."
+    chunks: ["vam", "quedar", "a", "entrenar", "dimarts"]
+    extra: ["amb"]
+    answers:
+      - "Vam quedar a entrenar dimarts."
+    explanation: "«Entrenar» és un infinitiu: *quedar* porta *a*. *Amb* va amb la persona."
+
+  - id: b1-26-052
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Explica que en Farid te'n va fer cinc cèntims."
+    chunks: ["en", "Farid", "me'n", "va", "fer", "cinc", "cèntims"]
+    extra: ["ho"]
+    answers:
+      - "En Farid me'n va fer cinc cèntims."
+    explanation: "*Fer-ne cinc cèntims* vol dir explicar una cosa en poques paraules. El pronom va davant del verb: *me'n va fer*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-26-053
+    type: inline-choice
+    point: caiguda-de-que
+    lesson: 5
+    title: "Crònica del cap de setmana"
+    text: "M'alegro {que|de que|de} hagis vingut al torneig. Tothom tenia ganes {de|que|a} jugar. Vam quedar {a|de|amb} sopar tots junts. Estic segur {que|de que|de} repetirem l'any que ve."
+    explanation: "«Hagis vingut» i «repetirem» són conjugats (*que*, sense *de*). «Jugar» és infinitiu (*tenir ganes de*) i «sopar» també (*vam quedar a sopar*)."
+
+  - id: b1-26-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "La Laia no vol reconèixer que ha perdut la raqueta i canvia de tema. Què fa?"
+    answer: "Fa el ronso."
+    distractors:
+      - text: "En fa cinc cèntims."
+        why: "*Fer-ne cinc cèntims* és explicar una cosa; la Laia no ho explica: canvia de tema."
+      - text: "Sua la cansalada."
+        why: "*Suar la cansalada* és esforçar-se fent esport; aquí la Laia evita el tema."
+    explanation: "*Fer el ronso* és fer-se el desentès: la Laia canvia de tema per no parlar de la raqueta."
+
+  - id: b1-26-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "En Farid t'explica el partit en quatre paraules. Què ha fet?"
+    answer: "N'ha fet cinc cèntims."
+    distractors:
+      - text: "Ha fet el ronso."
+        why: "*Fer el ronso* és no voler parlar; en Farid sí que ho explica: *n'ha fet cinc cèntims*."
+      - text: "Ha suat la cansalada."
+        why: "*Suar la cansalada* és esforçar-se fent esport; aquí només ho explica: *n'ha fet cinc cèntims*."
+    explanation: "*Fer-ne cinc cèntims* vol dir explicar una cosa en poques paraules."
+
+  - id: b1-26-056
+    type: choice
+    point: de-amb-infinitiu
+    lesson: 5
+    prompt: "Està trist ___ no poder venir a la final amb nosaltres."
+    answer: "de"
+    distractors:
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *està trist de no poder venir*."
+      - text: "a"
+        why: "*Estar trist* porta *de* davant d'infinitiu, no *a*."
+    explanation: "«No poder venir» és un infinitiu: *estar trist* manté la *de*."
+
+  - id: b1-26-057
+    type: choice
+    point: canvi-a-infinitiu
+    lesson: 5
+    prompt: "Confia ___ guanyar el rival de diumenge."
+    answer: "a"
+    distractors:
+      - text: "de"
+        why: "*Confiar* porta *a* davant d'infinitiu, no *de*: *confia a guanyar*."
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat (*confia que guanyaran*), no un infinitiu: *confia a guanyar*."
+    explanation: "*Confiar* porta *en* amb un nom (*confia en l'equip*), però *a* amb un infinitiu: *confia a guanyar*."
+
+  - id: b1-26-058
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "En Roc fa ___ quan li toca parar taula: diu que no ho ha sentit."
+    hint: "l'expressió: fer-se el desentès"
+    answers: ["el ronso"]
+    wrong_answers:
+      - text: "ronso"
+        why: "L'expressió és *fer el ronso*, amb article: *fa el ronso*."
+    grading: tolerant
+    explanation: "*Fer el ronso* vol dir fer-se el desentès. En Roc diu que no ho ha sentit per no parar taula."
+
+  - id: b1-26-059
+    type: order
+    point: caiguda-de-que
+    lesson: 5
+    cue: "La Montse s'alegra que hagis tornat a nedar. Digues-ho."
+    chunks: ["la", "Montse", "s'alegra", "que", "hagis", "tornat", "a", "nedar"]
+    extra: ["de"]
+    answers:
+      - "La Montse s'alegra que hagis tornat a nedar."
+    explanation: "«Hagis tornat» és un verb conjugat: *alegrar-se* perd la *de* davant de *que*."
+
+  - id: b1-26-060
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "Quina frase és correcta?"
+    answer: "Estan contents que jugueu amb nosaltres."
+    distractors:
+      - text: "Estan contents de que jugueu amb nosaltres."
+        why: "*De que* és un calc del castellà «de que». En català: *estan contents que*."
+      - text: "Estan contents de jugueu amb nosaltres."
+        why: "*De* va amb un infinitiu (*estan contents de jugar*), no amb un verb conjugat com «jugueu»."
+    explanation: "«Jugueu» és un verb conjugat: davant de *que* no hi ha cap preposició."
+
+  - id: b1-26-061
+    type: fill
+    point: de-amb-infinitiu
+    lesson: 5
+    prompt: "Acaba ___ marcar el gol de la victòria!"
+    hint: "preposició"
+    answers: ["de"]
+    wrong_answers:
+      - text: "que"
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *acaba de marcar*."
+      - text: "a"
+        why: "*Acabar* porta *de* davant d'infinitiu: *acaba de marcar*."
+    grading: tolerant
+    explanation: "*Acabar de* + infinitiu diu que una cosa acaba de passar: *acaba de marcar*."
+
+  - id: b1-26-062
+    type: find-error
+    point: de-amb-infinitiu
+    lesson: 5
+    sentence: "Té ganes que jugar la final de diumenge."
+    error: "que"
+    fix: "de"
+    fix_distractors:
+      - text: "a"
+        why: "*Tenir ganes* porta *de* davant d'infinitiu, no *a*: *té ganes de jugar*."
+      - text: "en"
+        why: "*Tenir ganes* porta *de* davant d'infinitiu, no *en*: *té ganes de jugar*."
+    explanation: "«Jugar» és un infinitiu: *tenir ganes* manté la *de*. *Que* només va amb un verb conjugat."
+
+  - id: b1-26-063
+    type: find-error
+    point: canvi-a-infinitiu
+    lesson: 5
+    sentence: "Vam quedar a sopar després del concert."
+    no_error: true
+    explanation: "La frase és correcta: «sopar» és un infinitiu i *quedar* porta *a*: *vam quedar a sopar*."
+
+  - id: b1-26-064
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "Quina frase és correcta?"
+    answer: "Està contenta que hagis vingut."
+    distractors:
+      - text: "Està contenta de que hagis vingut."
+        why: "*De que* és un calc del castellà «de que». En català: *està contenta que*."
+      - text: "Està contenta de hagis vingut."
+        why: "*De* va amb un infinitiu (*està contenta de venir*), no amb un verb conjugat com «hagis»."
+    explanation: "«Hagis vingut» és un verb conjugat: davant de *que* no hi ha cap preposició."
+
+  - id: b1-26-065
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un club de barri"
+    text: |
+      La Laia dedica el temps lliure a la seva gran afició: el futbol. Juga al club del barri, un equip modest que competeix al campionat de la ciutat. L'equip està content que l'entrenadora nova, la Montse, hagi canviat els entrenaments: ara comencen amb deu minuts d'escalfament i acaben amb partits curts.
+
+      Diumenge passat van jugar contra el rival més fort de la lliga. La Laia té por de fer-se una lesió al genoll, però va jugar tot el partit. Al descans perdien per dos a zero. L'entrenadora estava segura que podien empatar i els va demanar que no deixessin de córrer. A la segona part van marcar dos gols i el marcador va acabar amb un empat a dos.
+
+      A la graderia, els aficionats no van parar d'animar. Després del partit, tothom tenia ganes de celebrar-ho i van quedar a sopar tots junts. Als vestidors, la Laia va dir que estava cansada, però contenta: no han perdut cap partit des del gener.
+    questions:
+      - prompt: "Què fan ara a l'inici de l'entrenament?"
+        answer: "Escalfar deu minuts abans de jugar."
+        distractors:
+          - text: "Jugar partits curts."
+            why: "Els partits curts són al final de l'entrenament."
+          - text: "Animar l'equip des de la graderia."
+            why: "Qui anima des de la graderia són els aficionats."
+      - prompt: "Com va acabar el partit de diumenge?"
+        answer: "Amb un empat a dos gols."
+        distractors:
+          - text: "Perdent per dos a zero."
+            why: "Per dos a zero anaven al descans, no al final."
+          - text: "Guanyant per dos gols."
+            why: "Van marcar dos gols a la segona part, però només van empatar."
+      - prompt: "Què va fer l'equip després del partit?"
+        answer: "Va anar a sopar tot junt."
+        distractors:
+          - text: "Va celebrar la victòria al camp."
+            why: "No van guanyar: van empatar. I van anar a sopar."
+          - text: "Va tornar als vestidors a entrenar."
+            why: "Als vestidors no hi entrenen: la Laia només diu que està cansada."
+      - prompt: "Què li preocupa a la Laia quan juga?"
+        answer: "Fer-se mal al genoll."
+        distractors:
+          - text: "Cansar-se de córrer."
+            why: "Córrer no li fa por: l'entrenadora els demana que no deixin de córrer."
+          - text: "Jugar tot el partit."
+            why: "Va jugar tot el partit sense problemes."
+    explanation: "La Laia juga al club del barri: diumenge van empatar a dos i després van anar a sopar."

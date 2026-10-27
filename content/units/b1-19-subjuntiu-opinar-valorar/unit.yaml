@@ -1,0 +1,1006 @@
+id: b1-19
+level: B1
+title: "Subjuntiu per opinar i valorar"
+summary: "Aprens a opinar amb *crec que* + indicatiu i *no crec que, dubto que* + subjuntiu, i a valorar amb *és possible que, és important que, m'agrada que* + subjuntiu."
+vocabulary_theme: "Opinió, debat i actualitat"
+points:
+  - id: creure-dubtar
+    title: "Opinar: *crec que* + indicatiu, *no crec que* i *dubto que* + subjuntiu"
+    refs:
+      - label: "GEIEC: El verb"
+        url: "https://geiec.iec.cat"
+  - id: valorar-impersonal
+    title: "Valorar: *és possible que*, *és important que*, *m'agrada que* + subjuntiu"
+    refs:
+      - label: "GEIEC: El verb"
+        url: "https://geiec.iec.cat"
+  - id: formes-subjuntiu
+    title: "Les formes del present de subjuntiu"
+    refs:
+      - label: "GEIEC: El verb"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: l'indicatiu i les formes"
+  - id: expressions
+    title: "Expressions per debatre"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Opinar: crec que i dubto que"
+  - title: "Practicar l'opinió i la valoració"
+  - title: "Les formes i les trampes del castellà"
+  - title: "Produir: opinions completes"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el debat"
+    definition: "Discussió ordenada d'un tema entre diverses persones."
+    example: "El debat sobre l'horari va durar dues hores."
+  - word: "l'opinió"
+    definition: "Allò que penses d'un tema."
+    example: "Tothom va donar la seva opinió."
+  - word: "el parer"
+    definition: "L'opinió d'una persona."
+    example: "Al meu parer, cal votar avui mateix."
+  - word: "el punt de vista"
+    definition: "La manera de veure un tema."
+    example: "Des del meu punt de vista, la proposta és bona."
+  - word: "l'argument"
+    definition: "Raó que dones per defensar una opinió."
+    example: "Va convèncer tothom amb un bon argument."
+  - word: "el motiu"
+    definition: "La causa d'una cosa."
+    example: "Ningú sap el motiu del canvi."
+  - word: "la raó"
+    definition: "Tenir-ne vol dir encertar una cosa."
+    example: "Tens raó: és massa tard."
+  - word: "el dubte"
+    definition: "La manca de certesa sobre una cosa."
+    example: "El dubte principal era l'horari."
+  - word: "la prova"
+    definition: "Fet o objecte que demostra que una cosa és veritat."
+    example: "No tenim proves del soroll."
+  - word: "la notícia"
+    definition: "Informació nova sobre un fet recent."
+    example: "El diari publicarà la notícia demà."
+  - word: "l'actualitat"
+    definition: "Els fets recents que són notícia."
+    example: "L'horari dels bars és un tema d'actualitat."
+  - word: "el diari"
+    definition: "Publicació amb les notícies de cada dia."
+    example: "Ho he llegit al diari d'avui."
+  - word: "el titular"
+    definition: "El títol gros d'una notícia."
+    example: "El titular no diu tota la veritat."
+  - word: "l'enquesta"
+    definition: "Conjunt de preguntes per saber què pensa la gent."
+    example: "L'enquesta diu que la majoria hi està d'acord."
+  - word: "l'acord"
+    definition: "Decisió que tothom accepta."
+    example: "Van arribar a un acord sobre l'horari."
+  - word: "el desacord"
+    definition: "La manca d'acord entre persones."
+    example: "El desacord era sobre l'origen del soroll."
+  - word: "la majoria"
+    definition: "La part més gran d'un grup."
+    example: "La majoria vol canviar l'horari."
+  - word: "la reunió"
+    definition: "Trobada per parlar d'un tema i decidir."
+    example: "La reunió començarà a les set."
+  - word: "la proposta"
+    definition: "Idea que presentes perquè s'accepti."
+    example: "La proposta va tenir prou vots."
+  - word: "la decisió"
+    definition: "Allò que decideixes després de pensar-ho."
+    example: "De moment no hi ha cap decisió."
+  - word: "el canvi"
+    definition: "El fet de fer una cosa diferent d'abans."
+    example: "El canvi d'horari agrada als botiguers."
+  - word: "el problema"
+    definition: "Dificultat que cal resoldre."
+    example: "El soroll és un problema greu."
+  - word: "la solució"
+    definition: "Allò que resol un problema."
+    example: "No crec que sigui una bona solució."
+  - word: "l'avantatge"
+    definition: "Aspecte bo d'una cosa."
+    example: "L'avantatge és que tothom hi cap."
+  - word: "l'inconvenient"
+    definition: "Aspecte dolent d'una cosa."
+    example: "L'inconvenient és que costa diners."
+  - word: "el soroll"
+    definition: "So fort que molesta."
+    example: "No puc dormir per culpa del soroll."
+  - word: "el trànsit"
+    definition: "Moviment de cotxes pels carrers."
+    example: "El trànsit empitjorarà amb les obres."
+  - word: "el lloguer"
+    definition: "Diners que pagues per viure en un pis que no és teu."
+    example: "Els lloguers pugen cada any."
+  - word: "l'horari"
+    definition: "Hores en què es fa una activitat."
+    example: "El nou horari comença dilluns."
+  - word: "la tertúlia"
+    definition: "Conversa, sovint a la ràdio, sobre temes d'actualitat."
+    example: "Cada nit escolto la tertúlia."
+  - word: "opinar"
+    definition: "Dir què penses d'un tema."
+    example: "Tothom vol opinar sobre el canvi."
+  - word: "dubtar"
+    definition: "No estar segur d'una cosa."
+    example: "Dubto que tinguem prou temps."
+  - word: "estar d'acord"
+    definition: "Acceptar l'opinió d'una altra persona."
+    example: "Hi estic d'acord: cal votar."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-19-001
+    type: choice
+    point: creure-dubtar
+    lesson: 1
+    prompt: "Crec que en Pau ___ demà a la reunió, però encara no ho ha confirmat."
+    answer: "vindrà"
+    distractors:
+      - text: "vingui"
+        why: "Amb *crec que* afirmem una cosa: cal l'indicatiu, *vindrà*. *Vingui* és subjuntiu."
+      - text: "vindran"
+        why: "El subjecte és «en Pau», singular: *vindrà*."
+    explanation: "«Crec que» afirma una opinió: el verb va en indicatiu. Amb «demà», el futur: *vindrà*."
+
+  - id: b1-19-002
+    type: choice
+    point: creure-dubtar
+    lesson: 1
+    prompt: "No crec que en Pau ___ demà a la reunió."
+    answer: "vingui"
+    distractors:
+      - text: "vindrà"
+        why: "Amb *no crec que* expressem un dubte: cal el subjuntiu, *vingui*."
+      - text: "vinguin"
+        why: "El subjecte és «en Pau», singular: *vingui*."
+    explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *vingui*."
+
+  - id: b1-19-003
+    type: choice
+    point: creure-dubtar
+    lesson: 1
+    prompt: "Dubto que la Laia ___ la proposta."
+    answer: "accepti"
+    distractors:
+      - text: "accepta"
+        why: "*Dubto que* expressa un dubte i demana subjuntiu: *accepti*."
+      - text: "acceptarà"
+        why: "Amb *dubto que* el verb va en subjuntiu, no en futur: *accepti*."
+    explanation: "«Dubto que» expressa un dubte: el verb va en subjuntiu, *accepti*."
+
+  - id: b1-19-004
+    type: choice
+    point: valorar-impersonal
+    lesson: 1
+    prompt: "És possible que demà ___."
+    answer: "plogui"
+    distractors:
+      - text: "plou"
+        why: "«És possible que» demana subjuntiu: *plogui*."
+      - text: "plourà"
+        why: "Amb *és possible que* el verb va en subjuntiu, encara que sigui futur: *plogui*."
+    explanation: "«És possible que» expressa un dubte: el verb va en subjuntiu, *plogui*."
+
+  - id: b1-19-005
+    type: choice
+    point: valorar-impersonal
+    lesson: 1
+    prompt: "És important que tu ___ a la reunió."
+    answer: "vinguis"
+    distractors:
+      - text: "vindràs"
+        why: "Amb *és important que* cal el subjuntiu, no el futur: *vinguis*."
+      - text: "vens"
+        why: "«És important que» és una valoració i demana subjuntiu: *vinguis*."
+    explanation: "«És important que» és una valoració: el verb va en subjuntiu, *vinguis*."
+
+  - id: b1-19-006
+    type: choice
+    point: valorar-impersonal
+    lesson: 1
+    prompt: "M'agrada que els veïns ___ bé de la festa."
+    answer: "parlin"
+    distractors:
+      - text: "parlen"
+        why: "«M'agrada que» expressa un sentiment i demana subjuntiu: *parlin*."
+      - text: "parlaran"
+        why: "Amb *m'agrada que* el verb va en subjuntiu, no en futur: *parlin*."
+    explanation: "«M'agrada que» expressa un sentiment: el verb va en subjuntiu, *parlin*."
+
+  - id: b1-19-007
+    type: inline-choice
+    point: creure-dubtar
+    lesson: 1
+    title: "Abans de la reunió"
+    text: "—Crec que la reunió {serà|sigui} curta. —Doncs jo no crec que {sigui|és} curta: tenim tres temes. —Dubto que {puguem|podem} parlar de tot. —I jo dubto que en Pau {vingui|vindrà}."
+    explanation: "«Crec que» demana indicatiu (*serà*). «No crec que» i «dubto que» demanen subjuntiu (*sigui*, *puguem*, *vingui*)."
+
+  - id: b1-19-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["al meu parer", "segons la meva opinió"]
+      - ["tens raó", "estic d'acord amb tu"]
+      - ["ara bé", "però, d'altra banda"]
+      - ["posar en dubte", "no creure una cosa del tot"]
+    explanation: "Són expressions per donar la teva opinió i debatre amb calma."
+
+  - id: b1-19-009
+    type: fill
+    point: creure-dubtar
+    lesson: 1
+    prompt: "—Aquesta proposta solucionarà el soroll? —No crec que ho ___."
+    hint: "solucionar, present de subjuntiu"
+    answers: ["solucioni"]
+    wrong_answers:
+      - text: "soluciona"
+        why: "«No crec que» demana subjuntiu: *solucioni*."
+      - text: "solucionarà"
+        why: "Amb *no crec que* cal el subjuntiu, no el futur: *solucioni*."
+    grading: tolerant
+    explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *solucioni*."
+
+  - id: b1-19-010
+    type: fill
+    point: creure-dubtar
+    lesson: 1
+    prompt: "—Tothom accepta la proposta? —Em sembla que la majoria ___."
+    hint: "estar-hi d'acord, present d'indicatiu"
+    answers: ["hi està d'acord"]
+    wrong_answers:
+      - text: "hi estigui d'acord"
+        why: "«Em sembla que» afirma una opinió: cal l'indicatiu, *hi està d'acord*."
+    grading: tolerant
+    explanation: "«Em sembla que» afirma una opinió: el verb va en indicatiu, *hi està d'acord*."
+
+  - id: b1-19-011
+    type: fill
+    point: valorar-impersonal
+    lesson: 1
+    prompt: "És probable que la tertúlia ___ tard."
+    hint: "acabar, present de subjuntiu"
+    answers: ["acabi"]
+    wrong_answers:
+      - text: "acaba"
+        why: "«És probable que» demana subjuntiu: *acabi*."
+      - text: "acabarà"
+        why: "Amb *és probable que* cal el subjuntiu, no el futur: *acabi*."
+    grading: tolerant
+    explanation: "«És probable que» expressa un dubte: el verb va en subjuntiu, *acabi*."
+
+  - id: b1-19-012
+    type: order
+    point: creure-dubtar
+    lesson: 1
+    cue: "Digues que no creus que el canvi d'horari agradi als botiguers."
+    chunks: ["no", "crec", "que", "el", "canvi", "d'horari", "agradi", "als", "botiguers"]
+    extra: ["agrada"]
+    answers:
+      - "No crec que el canvi d'horari agradi als botiguers."
+    explanation: "«No crec que» demana subjuntiu: *agradi*."
+
+  - id: b1-19-013
+    type: order
+    point: valorar-impersonal
+    lesson: 1
+    cue: "Digues que és important que tothom doni la seva opinió."
+    chunks: ["és", "important", "que", "tothom", "doni", "la", "seva", "opinió"]
+    extra: ["dona"]
+    answers:
+      - "És important que tothom doni la seva opinió."
+    explanation: "«És important que» és una valoració: el verb va en subjuntiu, *doni*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-19-014
+    type: fill
+    point: creure-dubtar
+    lesson: 2
+    prompt: "Penso que el debat d'ahir ___ molt interessant."
+    hint: "ser, passat perifràstic"
+    answers: ["va ser"]
+    wrong_answers:
+      - text: "sigui"
+        why: "«Penso que» afirma una opinió: cal l'indicatiu. Amb «ahir», el passat: *va ser*."
+      - text: "serà"
+        why: "«Ahir» demana un temps passat, no el futur: *va ser*."
+    grading: tolerant
+    explanation: "«Penso que» afirma una opinió: el verb va en indicatiu. Amb «ahir», *va ser*."
+
+  - id: b1-19-015
+    type: fill
+    point: creure-dubtar
+    lesson: 2
+    prompt: "No em sembla que aquesta enquesta ___ fiable."
+    hint: "ser, present de subjuntiu"
+    answers: ["sigui"]
+    wrong_answers:
+      - text: "és"
+        why: "«No em sembla que» expressa un dubte: cal el subjuntiu, *sigui*."
+      - text: "serà"
+        why: "Amb *no em sembla que* cal el subjuntiu: *sigui*."
+    grading: tolerant
+    explanation: "«No em sembla que» expressa un dubte: el verb va en subjuntiu, *sigui*."
+
+  - id: b1-19-016
+    type: fill
+    point: valorar-impersonal
+    lesson: 2
+    prompt: "És millor que la reunió ___ a les set."
+    hint: "començar, present de subjuntiu"
+    answers: ["comenci"]
+    wrong_answers:
+      - text: "comença"
+        why: "«És millor que» és una valoració i demana subjuntiu: *comenci*."
+      - text: "començarà"
+        why: "Amb *és millor que* cal el subjuntiu, no el futur: *comenci*."
+    grading: tolerant
+    explanation: "«És millor que» és una valoració: el verb va en subjuntiu, *comenci*."
+
+  - id: b1-19-017
+    type: fill
+    point: valorar-impersonal
+    lesson: 2
+    prompt: "Em preocupa que els lloguers ___ cada any."
+    hint: "pujar, present de subjuntiu"
+    answers: ["pugin"]
+    wrong_answers:
+      - text: "pugen"
+        why: "«Em preocupa que» expressa un sentiment i demana subjuntiu: *pugin*."
+      - text: "pujaran"
+        why: "Amb *em preocupa que* cal el subjuntiu: *pugin*."
+    grading: tolerant
+    explanation: "«Em preocupa que» expressa un sentiment: el verb va en subjuntiu, *pugin*."
+
+  - id: b1-19-018
+    type: fill
+    point: formes-subjuntiu
+    lesson: 2
+    prompt: "No crec que l'Ibrahim ___ la notícia."
+    hint: "saber, present de subjuntiu"
+    answers: ["sàpiga"]
+    wrong_answers:
+      - text: "sap"
+        why: "«No crec que» demana subjuntiu: *sàpiga*."
+      - text: "sabrà"
+        why: "Amb *no crec que* cal el subjuntiu, no el futur: *sàpiga*."
+    grading: tolerant
+    explanation: "«No crec que» demana subjuntiu. De *saber*: *sàpiga*."
+
+  - id: b1-19-019
+    type: order
+    point: creure-dubtar
+    lesson: 2
+    cue: "Digues que dubtes que hi hagi prou temps per a tot."
+    chunks: ["dubto", "que", "hi", "hagi", "prou", "temps"]
+    extra: ["ha"]
+    answers:
+      - "Dubto que hi hagi prou temps."
+    explanation: "«Dubto que» demana subjuntiu: *hi hagi*."
+
+  - id: b1-19-020
+    type: order
+    point: valorar-impersonal
+    lesson: 2
+    cue: "Digues que et sap greu que la Montse no pugui venir."
+    chunks: ["em", "sap", "greu", "que", "la", "Montse", "no", "pugui", "venir"]
+    extra: ["pot"]
+    answers:
+      - "Em sap greu que la Montse no pugui venir."
+      - "Em sap greu que no pugui venir la Montse."
+    explanation: "«Em sap greu que» expressa un sentiment: el verb va en subjuntiu, *pugui*."
+
+  - id: b1-19-021
+    type: order
+    point: formes-subjuntiu
+    lesson: 2
+    cue: "Digues que és possible que demà els transports facin vaga."
+    chunks: ["és", "possible", "que", "demà", "els", "transports", "facin", "vaga"]
+    extra: ["fan"]
+    answers:
+      - "És possible que demà els transports facin vaga."
+      - "És possible que els transports facin vaga demà."
+    explanation: "De *fer*, la tercera persona del plural del subjuntiu és *facin*."
+
+  - id: b1-19-022
+    type: choice
+    point: creure-dubtar
+    lesson: 2
+    prompt: "Crec que demà la proposta ___ prou vots."
+    answer: "tindrà"
+    distractors:
+      - text: "tingui"
+        why: "Amb *crec que* afirmem una cosa: cal l'indicatiu, *tindrà*."
+      - text: "tenen"
+        why: "El subjecte és «la proposta», singular: *tindrà*."
+    explanation: "«Crec que» afirma una opinió: el verb va en indicatiu. La votació és demà: *tindrà*."
+
+  - id: b1-19-023
+    type: choice
+    point: creure-dubtar
+    lesson: 2
+    prompt: "No crec que el titular ___ tota la veritat."
+    answer: "digui"
+    distractors:
+      - text: "diu"
+        why: "«No crec que» demana subjuntiu: *digui*."
+      - text: "dirà"
+        why: "Amb *no crec que* cal el subjuntiu, no el futur: *digui*."
+    explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *digui*."
+
+  - id: b1-19-024
+    type: choice
+    point: valorar-impersonal
+    lesson: 2
+    prompt: "És impossible que el pont ___ llest per a l'estiu."
+    answer: "estigui"
+    distractors:
+      - text: "està"
+        why: "«És impossible que» demana subjuntiu: *estigui*."
+      - text: "estarà"
+        why: "Amb *és impossible que* cal el subjuntiu, encara que sigui futur: *estigui*."
+    explanation: "«És impossible que» expressa un dubte: el verb va en subjuntiu, *estigui*."
+
+  - id: b1-19-025
+    type: choice
+    point: valorar-impersonal
+    lesson: 2
+    prompt: "M'estranya que en Wei no ___ res."
+    answer: "digui"
+    distractors:
+      - text: "diu"
+        why: "«M'estranya que» demana subjuntiu: *digui*."
+      - text: "dirà"
+        why: "Amb *m'estranya que* cal el subjuntiu, no el futur: *digui*."
+    explanation: "«M'estranya que» expressa un sentiment: el verb va en subjuntiu, *digui*."
+
+  - id: b1-19-026
+    type: choice
+    point: formes-subjuntiu
+    lesson: 2
+    prompt: "Dubto que l'Arnau i en Pau ___ venir."
+    answer: "puguin"
+    distractors:
+      - text: "poden"
+        why: "«Dubto que» demana subjuntiu. De *poder*: *puguin*."
+      - text: "podran"
+        why: "Amb *dubto que* cal el subjuntiu, no el futur: *puguin*."
+    explanation: "«Dubto que» demana subjuntiu. De *poder*: *puguin*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-19-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "No crec que el diari publicarà la notícia demà."
+    error: "publicarà"
+    fix: "publiqui"
+    fix_distractors:
+      - text: "publica"
+        why: "Amb *no crec que* cal el subjuntiu: *publiqui*."
+      - text: "publicaria"
+        why: "El condicional no va darrere de *no crec que*: *publiqui*."
+    explanation: "«No crec que» demana subjuntiu, també per a un fet futur: *publiqui*."
+
+  - id: b1-19-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "És possible que el trànsit empitjorarà amb les obres."
+    error: "empitjorarà"
+    fix: "empitjori"
+    fix_distractors:
+      - text: "empitjora"
+        why: "«És possible que» demana subjuntiu: *empitjori*."
+      - text: "empitjoraria"
+        why: "El condicional no va darrere de *és possible que*: *empitjori*."
+    explanation: "«És possible que» demana subjuntiu, també per a un fet futur: *empitjori*."
+
+  - id: b1-19-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "M'agrada que vens a les reunions del veïnat."
+    error: "vens"
+    fix: "vinguis"
+    fix_distractors:
+      - text: "vindràs"
+        why: "Darrere de *m'agrada que* el verb va en subjuntiu: *vinguis*."
+      - text: "venir"
+        why: "Darrere de *que* cal un verb conjugat: *vinguis*."
+    explanation: "«M'agrada que» demana subjuntiu: *vinguis*."
+
+  - id: b1-19-030
+    type: find-error
+    point: formes-subjuntiu
+    lesson: 3
+    sentence: "Dubto que la Fàtima fagi la presentació."
+    error: "fagi"
+    fix: "faci"
+    fix_distractors:
+      - text: "fa"
+        why: "«Dubto que» demana subjuntiu: *faci*."
+      - text: "farà"
+        why: "Amb *dubto que* cal el subjuntiu, no el futur: *faci*."
+    explanation: "De *fer*, el subjuntiu és *faci*. *Fagi* no existeix: és una forma feta sobre el castellà «haga»."
+
+  - id: b1-19-031
+    type: find-error
+    point: formes-subjuntiu
+    lesson: 3
+    sentence: "No crec que en Jordi tingui les proves."
+    no_error: true
+    explanation: "La frase és correcta: «no crec que» demana subjuntiu, i de *tenir* és *tingui*."
+
+  - id: b1-19-032
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Crec que la tertúlia començarà a les nou."
+    no_error: true
+    explanation: "La frase és correcta: «crec que» demana indicatiu, i amb el futur, *començarà*."
+
+  - id: b1-19-033
+    type: fill
+    point: formes-subjuntiu
+    lesson: 3
+    prompt: "És important que demà tots ___ els documents."
+    hint: "portar, present de subjuntiu"
+    answers: ["portin"]
+    wrong_answers:
+      - text: "porten"
+        why: "«És important que» demana subjuntiu: *portin*."
+      - text: "portaran"
+        why: "Amb *és important que* cal el subjuntiu, no el futur: *portin*."
+    grading: tolerant
+    explanation: "«És important que» demana subjuntiu: *portin*."
+
+  - id: b1-19-034
+    type: fill
+    point: formes-subjuntiu
+    lesson: 3
+    prompt: "No crec que hi ___ prou cadires per a tothom."
+    hint: "haver-hi, present de subjuntiu"
+    answers: ["hagi"]
+    wrong_answers:
+      - text: "ha"
+        why: "«No crec que» demana subjuntiu: *hi hagi*."
+      - text: "haurà"
+        why: "Amb *no crec que* cal el subjuntiu, encara que sigui futur: *hi hagi*."
+    grading: tolerant
+    explanation: "«No crec que» demana subjuntiu. D'*haver-hi*: *hi hagi*."
+
+  - id: b1-19-035
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Dubto que la Carla ___ demà."
+    hint: "venir, present de subjuntiu"
+    answers: ["vingui"]
+    wrong_answers:
+      - text: "vengui"
+        why: "De *venir*, el subjuntiu és *vingui*. *Vengui* és una forma feta sobre el castellà «venga»."
+      - text: "vindrà"
+        why: "Amb *dubto que* cal el subjuntiu, no el futur: *vingui*."
+    grading: tolerant
+    explanation: "«Dubto que» demana subjuntiu. De *venir*: *vingui*, no *vengui*."
+
+  - id: b1-19-036
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "___ que tens raó, però cal parlar-ne amb calma."
+    hint: "creure, primera persona del present"
+    answers: ["Crec"]
+    wrong_answers:
+      - text: "Creo"
+        why: "En català, la primera persona de *creure* és *crec*. *Creo* és castellà."
+    grading: tolerant
+    explanation: "La primera persona de *creure* és *crec*: *crec que tens raó*."
+
+  - id: b1-19-037
+    type: choice
+    point: formes-subjuntiu
+    lesson: 3
+    prompt: "És necessari que vosaltres ___ d'acord abans de votar."
+    answer: "hi estigueu"
+    distractors:
+      - text: "hi esteu"
+        why: "«És necessari que» demana subjuntiu. D'*estar*: *hi estigueu*."
+      - text: "hi estareu"
+        why: "Amb *és necessari que* cal el subjuntiu, no el futur: *hi estigueu*."
+    explanation: "«És necessari que» demana subjuntiu. D'*estar*: *hi estigueu*."
+
+  - id: b1-19-038
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "No crec que sigui una bona idea."
+    distractors:
+      - text: "No crec que és una bona idea."
+        why: "Amb *no crec que* cal el subjuntiu: *sigui*."
+      - text: "No crec que serà una bona idea."
+        why: "Amb *no crec que* cal el subjuntiu, encara que sigui futur: *sigui*."
+    explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *sigui*."
+
+  - id: b1-19-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Dubto que vulguin canviar l'horari."
+    distractors:
+      - text: "Dubto que volen canviar l'horari."
+        why: "«Dubto que» demana subjuntiu. De *voler*: *vulguin*."
+      - text: "Dubto que voldran canviar l'horari."
+        why: "Amb *dubto que* cal el subjuntiu, no el futur: *vulguin*."
+    explanation: "«Dubto que» demana subjuntiu. De *voler*: *vulguin*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-19-040
+    type: transform
+    point: creure-dubtar
+    lesson: 4
+    instruction: "Canvia «crec» per «no crec» i fes els canvis necessaris."
+    source: "Crec que el nou parc [[agrada]] als veïns."
+    answers: ["No crec que el nou parc agradi als veïns."]
+    wrong_answers:
+      - text: "No crec que el nou parc agrada als veïns."
+        why: "Amb *no crec que* cal el subjuntiu: *agradi*."
+    grading: tolerant
+    explanation: "«No crec que» demana subjuntiu: *agradi*."
+
+  - id: b1-19-041
+    type: transform
+    point: creure-dubtar
+    lesson: 4
+    instruction: "Canvia «no dubto» per «dubto» i fes els canvis necessaris."
+    source: "No dubto que [[vindràs]] a la festa."
+    answers: ["Dubto que vinguis a la festa."]
+    wrong_answers:
+      - text: "Dubto que vindràs a la festa."
+        why: "«Dubto que» demana subjuntiu: *vinguis*."
+    grading: tolerant
+    explanation: "«Dubto que» demana subjuntiu: *vinguis*. «No dubto que» és una afirmació i porta indicatiu."
+
+  - id: b1-19-042
+    type: transform
+    point: valorar-impersonal
+    lesson: 4
+    instruction: "Comença amb «És possible que» i fes els canvis necessaris."
+    source: "El tren [[arribarà tard]]."
+    start: "És possible que"
+    answers: ["És possible que el tren arribi tard."]
+    wrong_answers:
+      - text: "És possible que el tren arribarà tard."
+        why: "«És possible que» demana subjuntiu: *arribi*."
+    grading: tolerant
+    explanation: "«És possible que» demana subjuntiu: *arribi*."
+
+  - id: b1-19-043
+    type: transform
+    point: valorar-impersonal
+    lesson: 4
+    instruction: "Comença amb «M'agrada que» i fes els canvis necessaris."
+    source: "Els joves [[participen]] en el debat."
+    start: "M'agrada que"
+    answers: ["M'agrada que els joves participin en el debat."]
+    wrong_answers:
+      - text: "M'agrada que els joves participen en el debat."
+        why: "«M'agrada que» demana subjuntiu: *participin*."
+    grading: tolerant
+    explanation: "«M'agrada que» demana subjuntiu: *participin*."
+
+  - id: b1-19-044
+    type: transform
+    point: formes-subjuntiu
+    lesson: 4
+    instruction: "Corregeix la frase: el verb ha d'anar en subjuntiu."
+    source: "És estrany que la Núria no [[diu]] res."
+    answers: ["És estrany que la Núria no digui res."]
+    wrong_answers:
+      - text: "És estrany que la Núria no diu res."
+        why: "«És estrany que» demana subjuntiu. De *dir*: *digui*."
+    grading: tolerant
+    explanation: "«És estrany que» demana subjuntiu. De *dir*: *digui*."
+
+  - id: b1-19-045
+    type: transform
+    point: formes-subjuntiu
+    lesson: 4
+    instruction: "Corregeix la frase: el verb ha d'anar en subjuntiu."
+    source: "Cal que tothom [[veu]] el document."
+    answers: ["Cal que tothom vegi el document."]
+    wrong_answers:
+      - text: "Cal que tothom veu el document."
+        why: "«Cal que» demana subjuntiu. De *veure*: *vegi*."
+    grading: tolerant
+    explanation: "«Cal que» demana subjuntiu. De *veure*: *vegi*."
+
+  - id: b1-19-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "No crec que [[tenen]] prou motius."
+    answers: ["No crec que tinguin prou motius."]
+    wrong_answers:
+      - text: "No crec que tindran prou motius."
+        why: "Amb *no crec que* cal el present de subjuntiu: *tinguin*."
+    grading: tolerant
+    explanation: "«No crec que» demana subjuntiu. De *tenir*: *tinguin*."
+
+  - id: b1-19-047
+    type: fill
+    point: creure-dubtar
+    lesson: 4
+    prompt: "—Vindràs a l'assemblea de veïns? —No ho sé, dubto que ___ temps."
+    hint: "tenir, present de subjuntiu"
+    answers: ["tingui"]
+    wrong_answers:
+      - text: "tinc"
+        why: "«Dubto que» demana subjuntiu. De *tenir*: *tingui*."
+      - text: "tindré"
+        why: "Amb *dubto que* cal el subjuntiu, no el futur: *tingui*."
+    grading: tolerant
+    explanation: "«Dubto que» demana subjuntiu. De *tenir*: *tingui*."
+
+  - id: b1-19-048
+    type: fill
+    point: valorar-impersonal
+    lesson: 4
+    prompt: "És una llàstima que el casal de joves ___."
+    hint: "tancar, present de subjuntiu"
+    answers: ["tanqui"]
+    wrong_answers:
+      - text: "tanca"
+        why: "«És una llàstima que» demana subjuntiu: *tanqui*."
+      - text: "tancarà"
+        why: "Amb *és una llàstima que* cal el subjuntiu, no el futur: *tanqui*."
+    grading: tolerant
+    explanation: "«És una llàstima que» és una valoració: el verb va en subjuntiu, *tanqui*."
+
+  - id: b1-19-049
+    type: order
+    point: formes-subjuntiu
+    lesson: 4
+    cue: "Digues que dubtes que el diari digui la veritat."
+    chunks: ["dubto", "que", "el", "diari", "digui", "la", "veritat"]
+    extra: ["diu"]
+    answers:
+      - "Dubto que el diari digui la veritat."
+    explanation: "De *dir*, el subjuntiu és *digui*."
+
+  - id: b1-19-050
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Digues que no creus que hi vagi ningú."
+    chunks: ["no", "crec", "que", "hi", "vagi", "ningú"]
+    extra: ["va"]
+    answers:
+      - "No crec que hi vagi ningú."
+      - "No crec que ningú hi vagi."
+    explanation: "«No crec que» demana subjuntiu. D'*anar*: *vagi*."
+
+  - id: b1-19-051
+    type: choice
+    point: creure-dubtar
+    lesson: 4
+    prompt: "És veritat que els preus ___ cada any."
+    answer: "pugen"
+    distractors:
+      - text: "pugin"
+        why: "«És veritat que» afirma un fet: cal l'indicatiu, *pugen*."
+      - text: "pujar"
+        why: "Darrere de *que* cal un verb conjugat: *pugen*."
+    explanation: "«És veritat que» afirma un fet: el verb va en indicatiu, *pugen*."
+
+  - id: b1-19-052
+    type: choice
+    point: valorar-impersonal
+    lesson: 4
+    prompt: "És normal que els canvis ___ por."
+    answer: "facin"
+    distractors:
+      - text: "fan"
+        why: "«És normal que» demana subjuntiu. De *fer*: *facin*."
+      - text: "faran"
+        why: "Amb *és normal que* cal el subjuntiu, no el futur: *facin*."
+    explanation: "«És normal que» és una valoració: el verb va en subjuntiu, *facin*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-19-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una tertúlia al barri"
+    text: |
+      Dimarts passat, el casal del barri va acollir un debat sobre el nou horari dels bars. La sala era plena: hi havia veïns, botiguers i dos regidors de l'ajuntament. L'horari dels bars és un tema d'actualitat al barri. El dubte principal era si calia canviar l'horari. El desacord entre els veïns i els botiguers era total.
+
+      La Núria, que viu al carrer Major, va dir que no podia dormir per culpa del soroll. «Crec que l'horari actual no funciona», va afirmar.
+
+      En Jordi, que té un bar a la plaça, no hi va estar d'acord. «Dubto que el soroll vingui només dels bars», va respondre. Al seu parer, el problema és el trànsit de les nits de cap de setmana. Va proposar tancar la plaça als cotxes a partir de les deu.
+
+      La Fàtima, mestra de l'escola del barri, va dir que li agradava la proposta, però que hi veia un inconvenient: calia pensar en els veïns que treballen de nit i dormen de dia. «És important que tothom pugui descansar», va afegir.
+
+      Al final, els regidors van prometre estudiar les dues propostes i tornar al barri d'aquí a un mes amb una resposta. De moment no hi ha cap decisió. La pròxima reunió serà el primer dimarts de cada mes, com sempre.
+    questions:
+      - prompt: "Per què no pot dormir la Núria?"
+        answer: "Pel soroll del carrer on viu."
+        distractors:
+          - text: "Pel trànsit dels caps de setmana."
+            why: "El trànsit és l'opinió d'en Jordi, no de la Núria."
+          - text: "Perquè treballa de nit."
+            why: "Qui treballa de nit són uns altres veïns, segons la Fàtima."
+      - prompt: "Què proposa en Jordi?"
+        answer: "Que els cotxes no entrin a la plaça a la nit."
+        distractors:
+          - text: "Que els bars tanquin a les deu."
+            why: "A les deu vol tancar la plaça als cotxes, no els bars."
+          - text: "Que canviï l'horari dels bars."
+            why: "En Jordi defensa l'horari actual; no en demana un de nou."
+      - prompt: "Què li preocupa a la Fàtima?"
+        answer: "Que la proposta pensi també en qui dorm de dia."
+        distractors:
+          - text: "Que els bars facin massa soroll."
+            why: "El soroll és el problema de la Núria, no de la Fàtima."
+          - text: "Que no hi hagi prou bars a la plaça."
+            why: "La Fàtima no parla dels bars que hi ha, sinó dels veïns que dormen de dia."
+      - prompt: "Què faran els regidors?"
+        answer: "Estudiaran les propostes i tornaran d'aquí a un mes."
+        distractors:
+          - text: "Tancaran la plaça als cotxes aquest mes."
+            why: "Tancar la plaça és la proposta d'en Jordi; els regidors només l'estudiaran."
+          - text: "Canviaran l'horari dels bars aquesta setmana."
+            why: "Encara no hi ha cap decisió: de moment només estudiaran les propostes."
+    explanation: "El text explica un debat del barri sobre el soroll i l'horari dels bars."
+
+  - id: b1-19-054
+    type: inline-choice
+    point: creure-dubtar
+    lesson: 5
+    title: "Un missatge de la Carla"
+    text: "Hola! Crec que {tinc|tingui} una bona notícia: he trobat un local per a l'assemblea. No crec que {sigui|és} car, però dubto que {puguem|podem} pagar-lo sols. Em sembla que {caldrà|calgui} demanar ajuda a l'ajuntament. Què en penses?"
+    explanation: "«Crec que» i «em sembla que» demanen indicatiu (*tinc*, *caldrà*). «No crec que» i «dubto que» demanen subjuntiu (*sigui*, *puguem*)."
+
+  - id: b1-19-055
+    type: inline-choice
+    point: valorar-impersonal
+    lesson: 5
+    title: "La reunió de l'escala"
+    text: "És important que tothom {vingui|ve} a la reunió de dijous. És possible que {plogui|plou} i caldrà fer-la al vestíbul. M'agrada que els veïns nous {participin|participen}: sempre porten bones idees. És una llàstima que la Montse no {pugui|pot} venir. L'avantatge és que tothom hi cap."
+    explanation: "Les valoracions i els sentiments (*és important*, *és possible*, *m'agrada*, *és una llàstima*) demanen subjuntiu."
+
+  - id: b1-19-056
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Dos titulars"
+    text: "El debat d'ahir va ser intens. En Pau va dir: «No crec que el barri {necessiti|necessita} més hotels». La Laia va respondre: «Dubto que els turistes {sàpiguen|saben} on aparquen». Tots dos van estar d'acord en una cosa: {creuen|creguin} que el debat continuarà."
+    explanation: "«No crec que» i «dubto que» demanen subjuntiu (*necessiti*, *sàpiguen*). En afirmatiu, *creure* va en indicatiu: *creuen*."
+
+  - id: b1-19-057
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Dubto que el nou horari soluciona el problema del soroll."
+    error: "soluciona"
+    fix: "solucioni"
+    fix_distractors:
+      - text: "solucionarà"
+        why: "Amb *dubto que* cal el subjuntiu, no el futur: *solucioni*."
+      - text: "solucionaria"
+        why: "El condicional no va darrere de *dubto que*: *solucioni*."
+    explanation: "«Dubto que» demana subjuntiu: *solucioni*."
+
+  - id: b1-19-058
+    type: find-error
+    point: formes-subjuntiu
+    lesson: 5
+    sentence: "És millor que vaigis amb ells a l'assemblea."
+    error: "vaigis"
+    fix: "vagis"
+    fix_distractors:
+      - text: "vas"
+        why: "«És millor que» demana subjuntiu: *vagis*."
+      - text: "aniràs"
+        why: "Amb *és millor que* cal el subjuntiu, no el futur: *vagis*."
+    explanation: "D'*anar*, el subjuntiu és *vagis*. *Vaigis* no existeix: és una forma feta sobre el castellà «vayas»."
+
+  - id: b1-19-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «al meu parer»?"
+    answer: "segons la meva opinió"
+    distractors:
+      - text: "sense cap dubte"
+        why: "Això expressa una certesa, no una opinió."
+      - text: "contra la meva voluntat"
+        why: "Això vol dir fer una cosa obligat, no donar una opinió."
+    explanation: "*Al meu parer* introdueix una opinió personal: *al meu parer, el debat va anar bé*."
+
+  - id: b1-19-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Crec que cal tancar la plaça als cotxes. —___, jo també ho crec."
+    answer: "Tens raó"
+    distractors:
+      - text: "Ara bé"
+        why: "*Ara bé* introdueix un matís o un contrast, no un acord."
+      - text: "Poso en dubte"
+        why: "Això vol dir que no ho creus, però aquí hi estàs d'acord."
+    explanation: "*Tens raó* serveix per donar la raó a l'altre: hi estàs d'acord."
+
+  - id: b1-19-061
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["tens raó", "et dono la raó"]
+      - ["ara bé", "però, amb un matís"]
+      - ["posar en dubte", "no acabar de creure una cosa"]
+      - ["al meu parer", "segons la meva opinió"]
+    explanation: "Són expressions per debatre: donar la raó, matisar, dubtar i opinar."
+
+  - id: b1-19-062
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["des del meu punt de vista", "comences a opinar en un debat"]
+      - ["posar en dubte", "no et creus una notícia del diari"]
+      - ["tens raó", "un amic et convenç amb un argument"]
+      - ["dir-hi la seva", "els altres ja han parlat i ara et toca a tu"]
+    explanation: "Cada expressió té el seu moment en un debat."
+
+  - id: b1-19-063
+    type: transform
+    point: valorar-impersonal
+    lesson: 5
+    instruction: "Comença amb «És important que» i fes els canvis necessaris."
+    source: "Tothom [[respecta]] el torn de paraula."
+    start: "És important que"
+    answers: ["És important que tothom respecti el torn de paraula."]
+    wrong_answers:
+      - text: "És important que tothom respecta el torn de paraula."
+        why: "«És important que» demana subjuntiu: *respecti*."
+    grading: tolerant
+    explanation: "«És important que» demana subjuntiu: *respecti*."
+
+  - id: b1-19-064
+    type: transform
+    point: creure-dubtar
+    lesson: 5
+    instruction: "Comença amb «Dubto que» i fes els canvis necessaris."
+    source: "La solució [[és]] tan fàcil."
+    start: "Dubto que"
+    answers: ["Dubto que la solució sigui tan fàcil."]
+    wrong_answers:
+      - text: "Dubto que la solució és tan fàcil."
+        why: "«Dubto que» demana subjuntiu: *sigui*."
+    grading: tolerant
+    explanation: "«Dubto que» demana subjuntiu. De *ser*: *sigui*."
+
+  - id: b1-19-065
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Jo crec que el debat va anar bé. —___, va anar molt bé."
+    hint: "expressió per donar la raó"
+    answers: ["Tens raó", "Et dono la raó"]
+    wrong_answers:
+      - text: "Ara bé"
+        why: "*Ara bé* introdueix un contrast. Aquí hi estàs d'acord: *tens raó*."
+    grading: tolerant
+    explanation: "Per donar la raó a l'altre, diem *tens raó* o *et dono la raó*."

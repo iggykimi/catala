@@ -143,7 +143,7 @@ items:
         why: "*Ho* substitueix una idea o un *això*, no un lloc."
       - text: "la"
         why: "*La* és complement directe femení. «De la feina» és un complement amb *de*, no un complement directe."
-    explanation: "«De la feina» és el lloc d'on venim. Un complement de lloc amb *de* es substitueix per *en*: *en vinc*."
+    explanation: "«De la feina» és el lloc d'on venim. Un complement de lloc amb *de* se substitueix per *en*: *en vinc*."
 
   - id: b1-14-002
     type: choice
@@ -210,7 +210,7 @@ items:
         why: "*Ho* substitueix una idea, no un nom com *pa*."
       - text: "No hi tinc."
         why: "*Hi* és per a un lloc, no per a un aliment."
-    explanation: "Un nom sense article (*pa*) es substitueix per *en*: *no en tinc*."
+    explanation: "Un nom sense article (*pa*) se substitueix per *en*: *no en tinc*."
 
   - id: b1-14-007
     type: choice
@@ -638,7 +638,7 @@ items:
       - text: "Hi vinc a les set."
         why: "*Hi* indica el lloc on anem. «De la biblioteca» és el lloc d'on venim: *en*."
     grading: tolerant
-    explanation: "El complement de lloc amb *de* es substitueix per *en*: *en vinc*."
+    explanation: "El complement de lloc amb *de* se substitueix per *en*: *en vinc*."
 
   - id: b1-14-041
     type: transform

@@ -1,0 +1,1048 @@
+id: b2-37
+level: B2
+title: "Combinacions complexes de pronoms"
+summary: "Tres pronoms junts, les combinacions de pronoms febles, els verbs anar-se'n i endur-se i les dues maneres d'oblidar, en el context dels conflictes de veïns."
+vocabulary_theme: "Conflictes, convivència i veïnat"
+points:
+  - id: tres-pronoms
+    title: "Tres pronoms: l'ordre no canvia mai"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: combinacions-en-hi
+    title: "*N'hi*, *li'n*, *l'hi* i *els en*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: pronominals
+    title: "*Anar-se'n* i *endur-se*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-oblidar
+    title: "Compte amb el castellà: *oblidar*"
+    refs:
+      - label: "Optimot: Oblidar"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions de conflicte i convivència"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Tres pronoms i combinacions amb en i hi"
+  - title: "Practiquem les combinacions"
+  - title: "Pronominals i oblidar"
+  - title: "Produïm: reescrivim frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el veïnat"
+    definition: "Tots els veïns d'una escala o d'un barri."
+    example: "Tot el veïnat va anar a la reunió de dimarts."
+  - word: "la convivència"
+    definition: "Fet de viure juntes persones diferents amb respecte."
+    example: "El soroll a la nit fa malbé la convivència."
+  - word: "el conflicte"
+    definition: "Desacord greu entre dues persones o dos grups."
+    example: "Van resoldre el conflicte amb l'ajuda d'un mediador."
+  - word: "la discussió"
+    definition: "Conversa enfadada entre persones que no estan d'acord."
+    example: "La discussió va començar per una plaça d'aparcament."
+  - word: "la baralla"
+    definition: "Discussió molt forta, sovint amb crits."
+    example: "La baralla del replà es va sentir a tot l'edifici."
+  - word: "el soroll"
+    definition: "So fort o continuat que molesta."
+    example: "El soroll de les obres comença a les vuit del matí."
+  - word: "la queixa"
+    definition: "Paraules amb què algú diu que una cosa el molesta."
+    example: "La presidenta ha rebut tres queixes pel soroll."
+  - word: "queixar-se"
+    definition: "Acció de dir que una cosa molesta o no funciona bé."
+    example: "Els veïns es queixen de l'olor del pati."
+  - word: "la reunió de veïns"
+    definition: "Trobada dels veïns per decidir coses de l'edifici."
+    example: "A la reunió de veïns vam aprovar les obres."
+  - word: "el president, la presidenta de l'escala"
+    definition: "Veí que representa l'edifici i organitza les reunions."
+    example: "El president de l'escala convoca la reunió cada tres mesos."
+  - word: "l'administrador, l'administradora de finques"
+    definition: "Professional que porta els papers i els diners d'un edifici."
+    example: "L'administrador de finques ens ha enviat la quota."
+  - word: "la quota"
+    definition: "Diners que cada veí paga cada mes per a l'edifici."
+    example: "La quota puja cinc euros per l'ascensor nou."
+  - word: "l'acord"
+    definition: "Decisió que prenen juntes dues o més persones."
+    example: "Van arribar a l'acord de no fer soroll a la nit."
+  - word: "la mediació"
+    definition: "Ajuda d'una persona neutral per resoldre un conflicte."
+    example: "La mediació del barri és gratuïta."
+  - word: "el mediador, la mediadora"
+    definition: "Persona que ajuda a resoldre un conflicte sense prendre partit."
+    example: "La mediadora va escoltar les dues parts."
+  - word: "el llogater, la llogatera"
+    definition: "Persona que viu en un pis de lloguer."
+    example: "El llogater del quart fa obres sense permís."
+  - word: "el propietari, la propietària"
+    definition: "Persona que té un pis o una casa."
+    example: "La propietària viu a Girona i lloga el pis."
+  - word: "el lloguer"
+    definition: "Diners que es paguen cada mes per viure en un pis d'un altre."
+    example: "El lloguer puja cada any una mica."
+  - word: "la fiança"
+    definition: "Diners que el llogater deixa al propietari en començar el lloguer."
+    example: "En marxar, li van tornar la fiança."
+  - word: "el replà"
+    definition: "Espai de l'escala davant de la porta dels pisos."
+    example: "Hem posat dues cadires al replà per a la reunió."
+  - word: "el pati interior"
+    definition: "Pati tancat entre edificis on donen finestres i balcons."
+    example: "La pols de les obres arriba al pati interior."
+  - word: "el terrat"
+    definition: "Part de dalt de tot d'un edifici, a l'aire lliure."
+    example: "El vent es va endur les cadires del terrat."
+  - word: "el traster"
+    definition: "Habitació petita on es guarden les coses que no es fan servir."
+    example: "Les claus de recanvi són al traster."
+  - word: "l'aparcament"
+    definition: "Lloc on es deixen els cotxes."
+    example: "No vaig poder sortir de l'aparcament."
+  - word: "les obres"
+    definition: "Feines per arreglar o canviar una casa o un edifici."
+    example: "Les obres del quart comencen a les vuit."
+  - word: "l'horari de descans"
+    definition: "Hores del dia en què no es pot fer soroll."
+    example: "L'horari de descans és de deu de la nit a vuit del matí."
+  - word: "la mascota"
+    definition: "Animal que viu amb una persona a casa seva."
+    example: "La mascota dels veïns és un gos molt tranquil."
+  - word: "el permís d'obres"
+    definition: "Paper de l'ajuntament que permet fer obres."
+    example: "Sense el permís d'obres, cal aturar-ho tot."
+  - word: "incomplir"
+    definition: "No fer una cosa que mana una norma o un acord."
+    example: "Qui incompleix l'horari paga una multa."
+  - word: "respectar"
+    definition: "Tractar bé les persones i complir les normes."
+    example: "Cal respectar el descans dels veïns."
+  - word: "cedir"
+    definition: "Renunciar a una part del que vols per arribar a un acord."
+    example: "Tots van cedir una mica i van fer les paus."
+  - word: "la norma de convivència"
+    definition: "Regla que ajuda a viure bé amb els veïns."
+    example: "Aparcar al lloc d'un altre incompleix les normes de convivència."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-37-001
+    type: choice
+    point: tres-pronoms
+    lesson: 1
+    prompt: "El meu fill gran ___ va anar a viure tot sol i la casa se'm fa gran."
+    answer: "se me'n"
+    distractors:
+      - text: "me se'n"
+        why: "*Es* va sempre primer: l'ordre és *se me'n*."
+      - text: "se me en"
+        why: "*Me* i *en* s'escriuen junts: *me'n*."
+    explanation: "«El meu fill» + *anar-se'n* (*en*) + el datiu *me*: l'ordre és *se me'n*."
+
+  - id: b2-37-002
+    type: choice
+    point: tres-pronoms
+    lesson: 1
+    prompt: "Un cotxe ___ va posar al davant i vaig haver de frenar de cop."
+    answer: "se m'hi"
+    distractors:
+      - text: "se me hi"
+        why: "*Me + hi* s'apostrofa: *m'hi*."
+      - text: "m'hi se"
+        why: "*Es* va sempre primer: *se m'hi*."
+    explanation: "*Posar-se* (*se*) + el datiu *me* + el lloc (*hi*): *se m'hi va posar*."
+
+  - id: b2-37-003
+    type: choice
+    point: combinacions-en-hi
+    lesson: 1
+    prompt: "—A qui dono els documents? —A la presidenta. ___ pots donar demà a la reunió."
+    answer: "Els hi"
+    distractors:
+      - text: "Els els"
+        why: "Amb una sola persona («la presidenta»), el datiu és *li*: *li + els* fa *els hi*."
+      - text: "Li els"
+        why: "*Li + els* no van separats: la forma és *els hi*."
+    explanation: "«Els documents» (plural) + *li* (a la presidenta): *li + els* fa *els hi*."
+
+  - id: b2-37-004
+    type: choice
+    point: combinacions-en-hi
+    lesson: 1
+    prompt: "—I als veïns del tercer, ja els heu dit que les obres comencen dilluns? —No, ___ diem demà a la reunió."
+    answer: "els ho"
+    distractors:
+      - text: "els el"
+        why: "«Que les obres comencen» és una idea, no una cosa: el pronom és *ho*."
+      - text: "li ho"
+        why: "*Li* és singular; «als veïns» és plural: *els ho*."
+    explanation: "«Als veïns» (plural) → *els*; «que les obres comencen» (una idea) → *ho*."
+
+  - id: b2-37-005
+    type: choice
+    point: combinacions-en-hi
+    lesson: 1
+    prompt: "—Heu portat cadires al replà? —Sí, ___ hem posat quatre per a la reunió."
+    answer: "n'hi"
+    distractors:
+      - text: "hi'n"
+        why: "No existeix *hi'n*: l'ordre és *en + hi*."
+      - text: "en hi"
+        why: "*En + hi* s'escriuen junts: *n'hi*."
+    explanation: "«Quatre» (de cadires) → *en*; «al replà» → *hi*: *en + hi* fa *n'hi*."
+
+  - id: b2-37-006
+    type: choice
+    point: combinacions-en-hi
+    lesson: 1
+    prompt: "—Els veïns ja tenen la còpia dels estatuts? —Sí, la presidenta ___ va donar ahir."
+    answer: "els la"
+    distractors:
+      - text: "les la"
+        why: "*Les* no és mai datiu plural; el datiu és *els*: *els la*."
+      - text: "li la"
+        why: "*Li* és singular; «els veïns» és plural: *els la*."
+    explanation: "«Als veïns» (plural) → *els*; «la còpia» → *la*: *els la va donar*."
+
+  - id: b2-37-007
+    type: match
+    point: tres-pronoms
+    lesson: 1
+    instruction: "Relaciona cada frase amb els pronoms que hi falten."
+    pairs:
+      - ["El meu fill ___ va anar a Madrid.", "se me'n"]
+      - ["Un cotxe ___ va posar al davant.", "se m'hi"]
+      - ["Amb el vendaval, tot ___ va endur del terrat.", "se m'ho"]
+      - ["El germà gran ___ va anar a Vic i el seu pare el troba a faltar.", "se li'n"]
+    explanation: "L'ordre és sempre *es* + datiu + acusatiu o *en* o *hi*: *se me'n*, *se m'hi*, *se m'ho*, *se li'n*."
+
+  - id: b2-37-008
+    type: match
+    point: combinacions-en-hi
+    lesson: 1
+    instruction: "Relaciona cada combinació amb la seva forma."
+    pairs:
+      - ["li + els", "els hi"]
+      - ["li + en", "li'n"]
+      - ["en + hi", "n'hi"]
+      - ["els + la", "els la"]
+      - ["el + hi", "l'hi"]
+    explanation: "Les combinacions s'escriuen juntes: *els hi*, *li'n*, *n'hi*; amb datiu plural, *els* no canvia: *els la*."
+
+  - id: b2-37-009
+    type: inline-choice
+    point: tres-pronoms
+    lesson: 1
+    title: "Notícies de l'escala"
+    text: "La Maria ens ha explicat que el seu fill {se li'n|se me'n|li se'n} va anar a treballar a Alemanya. I a mi també m'han passat coses: ahir un cotxe mal aparcat {se m'hi|se me hi|m'hi se} va posar al davant de l'aparcament i no vaig poder sortir. Amb el vendaval d'octubre, el vent {se m'ho|se me ho|m'ho se} va endur tot del meu terrat. I, per acabar-ho d'adobar, el gos del tercer, que sempre deixa les sabatilles pel replà, {se me'n|me se'n|se m'en} va endur una."
+    explanation: "Tres pronoms en ordre fix: *se li'n*, *se m'hi* (posar-se, a mi, al davant), *se m'ho* (endur-se, a mi, tot) i *se me'n* (endur-se'n, a mi, una)."
+
+  - id: b2-37-010
+    type: inline-choice
+    point: combinacions-en-hi
+    lesson: 1
+    title: "Ordre del dia"
+    text: "Els veïns no tenien la còpia dels estatuts: la presidenta {els la|les la|li la} va donar ahir. La Maria demanava rebuts: el tresorer {li'n|li en|en li} va donar dos. Faltaven cadires al replà: {n'hi|en hi|hi'n} vam posar dues. El llibre d'actes és a l'armari: {l'hi|la hi|li el} trobaràs demà al matí. A l'ordre del dia també hi ha el soroll del bar del pati interior i com fer respectar les normes de convivència."
+    explanation: "«Als veïns + la còpia» → *els la*; «a la Maria + dos» → *li'n*; «dues + al replà» → *n'hi*; «el llibre + a l'armari» → *l'hi*."
+
+  - id: b2-37-011
+    type: fill
+    point: tres-pronoms
+    lesson: 1
+    prompt: "—Com està la Montse? —El seu fill ___ va anar a Irlanda i està una mica trista."
+    hint: "anar-se'n + datiu"
+    answers: ["se li'n"]
+    wrong_answers:
+      - text: "li se'n"
+        why: "L'ordre és fix: *es* va primer: *se li'n*."
+      - text: "se l'hi"
+        why: "*Anar-se'n* porta *en*, no *hi*: *se li'n*."
+    grading: tolerant
+    explanation: "«El seu fill» + *anar-se'n* (*en*) + *li* (a la Montse): *se li'n va anar*."
+
+  - id: b2-37-012
+    type: fill
+    point: combinacions-en-hi
+    lesson: 1
+    prompt: "—Té els rebuts, la Maria? —Sí, el tresorer ___ va donar dos ahir."
+    hint: "pronoms per a «a la Maria» + «dos»"
+    answers: ["li'n"]
+    wrong_answers:
+      - text: "n'hi"
+        why: "Aquí no hi ha cap lloc: *li* (a la Maria) + *en* (dos)."
+      - text: "en li"
+        why: "L'ordre és *li + en*: *li'n*."
+    grading: tolerant
+    explanation: "«A la Maria» → *li*; «dos» (de rebuts) → *en*: *li'n va donar dos*."
+
+  - id: b2-37-013
+    type: order
+    point: combinacions-en-hi
+    lesson: 1
+    cue: "Digues que donaràs els documents a la presidenta demà a la reunió."
+    chunks: ["Els hi", "donaré", "demà", "a la reunió"]
+    extra: ["li"]
+    answers:
+      - "Els hi donaré demà a la reunió."
+      - "Demà a la reunió els hi donaré."
+    explanation: "«Els documents» + *li* (a la presidenta): *li + els* fa *els hi*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-37-014
+    type: fill
+    point: tres-pronoms
+    lesson: 2
+    prompt: "Amb el temporal, tot ___ va endur del meu terrat."
+    hint: "endur-se + datiu + ho"
+    answers: ["se m'ho"]
+    wrong_answers:
+      - text: "se me ho"
+        why: "*Me + ho* s'apostrofa: *m'ho*."
+      - text: "m'ho se"
+        why: "*Es* va primer: *se m'ho*."
+    grading: tolerant
+    explanation: "*Endur-se* (*se*) + *me* (a mi) + *ho* («tot»): *se m'ho va endur*."
+
+  - id: b2-37-015
+    type: fill
+    point: tres-pronoms
+    lesson: 2
+    prompt: "—On para el teu germà? —___ va anar a viure a Sants amb uns amics."
+    hint: "anar-se'n + datiu"
+    answers: ["se me'n"]
+    wrong_answers:
+      - text: "me se'n"
+        why: "*Es* va primer: *se me'n*."
+      - text: "se m'en"
+        why: "*Me + en* fa *me'n*."
+    grading: tolerant
+    explanation: "«El teu germà» + *anar-se'n* (*en*) + *me* (a tu): *se me'n va anar*."
+
+  - id: b2-37-016
+    type: fill
+    point: combinacions-en-hi
+    lesson: 2
+    prompt: "—Ja heu posat cadires al replà? —Sí, ___ hem posat sis."
+    hint: "pronoms per a «sis» + «al replà»"
+    answers: ["n'hi"]
+    wrong_answers:
+      - text: "hi'n"
+        why: "No existeix *hi'n*: l'ordre és *en + hi*."
+      - text: "en hi"
+        why: "*En + hi* s'escriuen junts: *n'hi*."
+    grading: tolerant
+    explanation: "«Sis» (de cadires) → *en*; «al replà» → *hi*: *n'hi hem posat sis*."
+
+  - id: b2-37-017
+    type: fill
+    point: combinacions-en-hi
+    lesson: 2
+    prompt: "La circular nova és al tauler del replà: ___ veuràs en passar."
+    hint: "pronoms per a «la circular» + «al tauler»"
+    answers: ["la hi"]
+    wrong_answers:
+      - text: "l'hi"
+        why: "«La circular» és femení: *la hi*."
+      - text: "li la"
+        why: "Aquí no hi ha cap persona (*li*); hi ha un lloc: *la hi*."
+    grading: tolerant
+    explanation: "«La circular» → *la*; «al tauler» → *hi*: *la hi veuràs*."
+
+  - id: b2-37-018
+    type: fill
+    point: combinacions-en-hi
+    lesson: 2
+    prompt: "—Els veïns ja tenen la circular? —Sí, ___ aquest matí."
+    hint: "pronoms per a «als veïns» + «la circular»; enviar, perfet"
+    answers: ["els l'hem enviat"]
+    wrong_answers:
+      - text: "els la hem enviat"
+        why: "Davant de vocal, *la* s'apostrofa: *els l'hem enviat*."
+      - text: "les l'hem enviat"
+        why: "El datiu plural és *els*, no *les*: *els l'hem enviat*."
+    grading: tolerant
+    explanation: "«Als veïns» → *els*; «la circular» → *la*, que davant de *hem* s'apostrofa: *els l'hem enviat*."
+
+  - id: b2-37-019
+    type: order
+    point: tres-pronoms
+    lesson: 2
+    cue: "Explica que la teva filla va anar a viure a Girona."
+    chunks: ["La meva filla", "se me'n", "va anar", "a Girona"]
+    extra: ["me se'n"]
+    answers:
+      - "La meva filla se me'n va anar a Girona."
+      - "A Girona la meva filla se me'n va anar."
+    explanation: "*Anar-se'n* (*en*) + *me* (a mi): *se me'n va anar*."
+
+  - id: b2-37-020
+    type: order
+    point: tres-pronoms
+    lesson: 2
+    cue: "Digues que un cotxe es va posar al teu davant i no vas poder sortir de l'aparcament."
+    chunks: ["Un cotxe", "se m'hi", "va posar", "al davant"]
+    extra: ["se me hi"]
+    answers:
+      - "Un cotxe se m'hi va posar al davant."
+      - "Al davant un cotxe se m'hi va posar."
+    explanation: "*Posar-se* (*se*) + *me* (a mi) + *hi* (al davant): *se m'hi va posar*."
+
+  - id: b2-37-021
+    type: order
+    point: combinacions-en-hi
+    lesson: 2
+    cue: "La presidenta pregunta si posareu cadires al replà. Digues que demà n'hi posareu dues."
+    chunks: ["N'hi", "posarem", "dues", "demà"]
+    extra: ["en hi"]
+    answers:
+      - "N'hi posarem dues demà."
+      - "Demà n'hi posarem dues."
+    explanation: "«Dues» (de cadires) → *en*; «al replà» → *hi*: *n'hi posarem dues*."
+
+  - id: b2-37-022
+    type: choice
+    point: tres-pronoms
+    lesson: 2
+    prompt: "La veïna del tercer està trista: el seu home ___ va anar de casa al gener."
+    answer: "se li'n"
+    distractors:
+      - text: "li se'n"
+        why: "*Es* va primer: *se li'n*."
+      - text: "se l'hi"
+        why: "*Anar-se'n* porta *en*, no *hi*: *se li'n*."
+    explanation: "«El seu home» + *anar-se'n* (*en*) + *li* (a la veïna): *se li'n va anar*."
+
+  - id: b2-37-023
+    type: choice
+    point: combinacions-en-hi
+    lesson: 2
+    prompt: "—Té còpies, la Maria? —Sí, l'administrador ___ va donar tres."
+    answer: "li'n"
+    distractors:
+      - text: "li en"
+        why: "*Li + en* s'escriuen junts: *li'n*."
+      - text: "n'hi"
+        why: "*N'hi* porta un lloc (*hi*); aquí hi ha una persona: *li'n*."
+    explanation: "«A la Maria» → *li*; «tres» (de còpies) → *en*: *li'n va donar tres*."
+
+  - id: b2-37-024
+    type: choice
+    point: combinacions-en-hi
+    lesson: 2
+    prompt: "—I el llogater, sap quan comencen les obres? —Sí, ___ hem dit aquest matí."
+    answer: "li ho"
+    distractors:
+      - text: "li el"
+        why: "«Quan comencen les obres» és una idea: *ho*, no *el*."
+      - text: "els ho"
+        why: "*Els* és plural; «el llogater» és singular: *li ho*."
+    explanation: "«Al llogater» → *li*; «quan comencen les obres» (una idea) → *ho*."
+
+  - id: b2-37-025
+    type: choice
+    point: tres-pronoms
+    lesson: 2
+    prompt: "—I en Pau, el propietari, què diu? —Que el llogater ___ va anar sense pagar el lloguer."
+    answer: "se li'n"
+    distractors:
+      - text: "se li en"
+        why: "*Li + en* s'escriuen junts: *li'n*."
+      - text: "li se'n"
+        why: "*Es* va primer: *se li'n*."
+    explanation: "«El llogater» + *anar-se'n* (*en*) + *li* (a en Pau): *se li'n va anar*."
+
+  - id: b2-37-026
+    type: match
+    point: combinacions-en-hi
+    lesson: 2
+    instruction: "Relaciona cada situació amb la combinació de pronoms."
+    pairs:
+      - ["tres rebuts per a la Maria", "li'n"]
+      - ["quatre cadires al replà", "n'hi"]
+      - ["els documents a la presidenta", "els hi"]
+      - ["una còpia als veïns", "els la"]
+      - ["trobar el llibre a l'armari", "l'hi"]
+    explanation: "El datiu diu a qui (*li*, *els*); *en* substitueix una quantitat i *hi* un lloc: *li'n*, *n'hi*, *els hi*, *els la*, *l'hi*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-37-027
+    type: find-error
+    point: pronominals
+    lesson: 3
+    sentence: "Avui me'n he anat aviat de la reunió de veïns."
+    error: "me'n he"
+    fix: "me n'he"
+    fix_distractors:
+      - text: "m'he"
+        why: "*Anar-se'n* porta *en*: *me n'he anat*."
+      - text: "me'n han"
+        why: "El subjecte és «jo»: *me n'he*, no *han*."
+    explanation: "Davant de vocal, *me + en* no es contreuen: *me n'he anat* (i no *me'n he*)."
+
+  - id: b2-37-028
+    type: find-error
+    point: pronominals
+    lesson: 3
+    sentence: "Vesten de seguida, que la reunió ja ha començat!"
+    error: "Vesten"
+    fix: "Ves-te'n"
+    fix_distractors:
+      - text: "Veste'n"
+        why: "L'imperatiu *ves* va amb guionet: *ves-te'n*."
+      - text: "Ves-ten"
+        why: "*Te'n* s'escriu amb apòstrof: *ves-te'n*."
+    explanation: "L'imperatiu (tu) d'anar-se'n és *ves-te'n*: porta guionet i apòstrof."
+
+  - id: b2-37-029
+    type: find-error
+    point: pronominals
+    lesson: 3
+    sentence: "El meu paraigua se'l enduu el vent cada dos per tres."
+    error: "se'l enduu"
+    fix: "se l'enduu"
+    fix_distractors:
+      - text: "se li enduu"
+        why: "«El paraigua» és complement directe: *el*, no *li*."
+      - text: "s'ho enduu"
+        why: "«El paraigua» és un nom masculí: *el*, no *ho*."
+    explanation: "«El paraigua» → *el*, que davant de vocal s'apostrofa: *se l'enduu*."
+
+  - id: b2-37-030
+    type: find-error
+    point: compte-oblidar
+    lesson: 3
+    sentence: "Se me ha olvidado tancar la porta de l'aparcament."
+    error: "Se me ha olvidado"
+    fix: "M'he oblidat de"
+    fix_distractors:
+      - text: "M'he olvidat de"
+        why: "El verb és *oblidar*, no *olvidar*."
+      - text: "He oblidat de"
+        why: "Sense *es*, *oblidar* no porta *de*: *he oblidat tancar*."
+    explanation: "«Se me ha olvidado» es diu *m'he oblidat de tancar* (o *he oblidat tancar*); el verb és *oblidar*."
+
+  - id: b2-37-031
+    type: find-error
+    point: compte-oblidar
+    lesson: 3
+    sentence: "M'he oblidat les claus tres cops aquesta setmana."
+    error: "M'he oblidat les claus"
+    fix: "M'he oblidat de les claus"
+    fix_distractors:
+      - text: "M'he olvidat de les claus"
+        why: "El verb és *oblidar*, no *olvidar*."
+      - text: "He oblidat de les claus"
+        why: "Sense *es*, *oblidar* no porta *de*: *he oblidat les claus*."
+    explanation: "*Oblidar-se* demana *de*: *m'he oblidat de les claus* (o, sense *es*: *he oblidat les claus*)."
+
+  - id: b2-37-032
+    type: find-error
+    point: pronominals
+    lesson: 3
+    sentence: "Ahir se'n van anar abans de sopar."
+    no_error: true
+    explanation: "La frase és correcta: *se'n van anar* és *anar-se'n* en passat, amb *en* davant de consonant."
+
+  - id: b2-37-033
+    type: fill
+    point: pronominals
+    lesson: 3
+    prompt: "Demà ___ a primera hora, que tenim una reunió a Vic."
+    hint: "anar-se'n, nosaltres, futur"
+    answers: ["ens n'anirem"]
+    wrong_answers:
+      - text: "ens en anirem"
+        why: "Davant de vocal, *en* s'apostrofa: *ens n'anirem*."
+      - text: "ens anirem"
+        why: "*Anar-se'n* porta *en*: *ens n'anirem*."
+    grading: tolerant
+    explanation: "*Anar-se'n*, primera del plural del futur: *ens n'anirem*."
+
+  - id: b2-37-034
+    type: fill
+    point: pronominals
+    lesson: 3
+    prompt: "La mascota no es pot quedar sola aquest cap de setmana: el meu germà vol ___ a la casa de la muntanya."
+    hint: "endur-se + el pronom per a «la mascota», infinitiu"
+    answers: ["endur-se-la"]
+    wrong_answers:
+      - text: "endur-se'l"
+        why: "«La mascota» és femení: *endur-se-la*."
+      - text: "endur-la-se"
+        why: "*Es* va davant de l'acusatiu: *endur-se-la*."
+    grading: tolerant
+    explanation: "*Endur-se* + *la* («la mascota»): l'infinitiu amb els dos pronoms és *endur-se-la*."
+
+  - id: b2-37-035
+    type: fill
+    point: compte-oblidar
+    lesson: 3
+    prompt: "Avui ___ les claus i no he pogut entrar a casa."
+    hint: "oblidar, primera persona del perfet"
+    answers: ["m'he oblidat de", "he oblidat"]
+    wrong_answers:
+      - text: "m'he oblidat"
+        why: "*Oblidar-se* demana *de*: *m'he oblidat de les claus*."
+      - text: "he oblidat de"
+        why: "Sense *es*, *oblidar* no porta *de*: *he oblidat les claus*."
+    grading: tolerant
+    explanation: "Amb *es*: *m'he oblidat de les claus*; sense *es*, *oblidar* és transitiu: *he oblidat les claus*."
+
+  - id: b2-37-036
+    type: choice
+    point: pronominals
+    lesson: 3
+    prompt: "—On són els veïns? —___ a la reunió."
+    answer: "Se n'han anat"
+    distractors:
+      - text: "Se'n han anat"
+        why: "Davant de vocal no hi ha contracció: *se n'han*."
+      - text: "S'han anat"
+        why: "*Anar-se'n* porta *en*: *se n'han anat*."
+    explanation: "*Anar-se'n*, tercera del plural del perfet: *se n'han anat*."
+
+  - id: b2-37-037
+    type: choice
+    point: compte-oblidar
+    lesson: 3
+    prompt: "—Les claus, on són? —___, tres cops aquesta setmana, i ja n'estic tip."
+    answer: "Me n'he oblidat"
+    distractors:
+      - text: "M'he oblidat"
+        why: "Sense el nom («les claus»), cal *en*: *me n'he oblidat*."
+      - text: "He oblidat"
+        why: "*He oblidat* necessita el complement (*les claus*); sense el nom, cal *en*: *me n'he oblidat*."
+    explanation: "«Les claus» no es repeteixen: *oblidar-se* porta *en*: *me n'he oblidat*."
+
+  - id: b2-37-038
+    type: choice
+    point: compte-oblidar
+    lesson: 3
+    prompt: "—Tens el paraigua? —No, ___."
+    answer: "me n'he oblidat"
+    distractors:
+      - text: "m'he oblidat"
+        why: "Sense el nom, cal *en*: *me n'he oblidat*."
+      - text: "m'he oblidat el paraigua"
+        why: "*Oblidar-se* no porta el nom directe: *m'he oblidat del paraigua* o *me n'he oblidat*."
+    explanation: "«Del paraigua» → *en*: *me n'he oblidat*."
+
+  - id: b2-37-039
+    type: choice
+    point: pronominals
+    lesson: 3
+    prompt: "—La Laia sempre porta el paraigua? —Sí, ___ quan surt de casa."
+    answer: "se l'enduu"
+    distractors:
+      - text: "s'ho enduu"
+        why: "«El paraigua» és un nom masculí: *el*, no *ho*."
+      - text: "se li enduu"
+        why: "«El paraigua» és complement directe: *el*, no *li*."
+    explanation: "*Endur-se* + *el* («el paraigua»): *se l'enduu*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-37-040
+    type: transform
+    point: tres-pronoms
+    lesson: 4
+    instruction: "Reescriu la frase amb *anar-se'n* i el datiu ètic (*me*)."
+    source: "El meu fill [[ha anat]] a viure a Anglaterra, i jo el trobo a faltar."
+    answers: ["El meu fill se me n'ha anat a viure a Anglaterra, i jo el trobo a faltar.", "El meu fill se me n'ha anat a viure a Anglaterra, i el trobo a faltar."]
+    wrong_answers:
+      - text: "El meu fill me se n'ha anat a viure a Anglaterra, i jo el trobo a faltar."
+        why: "L'ordre és fix: *es* va primer: *se me n'ha*."
+      - text: "El meu fill se me'n ha anat a viure a Anglaterra, i jo el trobo a faltar."
+        why: "Davant de vocal, *me + en* no es contreuen: *se me n'ha*."
+    grading: tolerant
+    explanation: "*Anar-se'n* + *me* (a mi): *se me n'ha anat*; davant de *ha*, *me + en* no es contreuen."
+
+  - id: b2-37-041
+    type: transform
+    point: tres-pronoms
+    lesson: 4
+    instruction: "Afegeix-hi el datiu (*me*)."
+    source: "Un taxi [[es va posar]] al davant i no vaig poder sortir."
+    answers: ["Un taxi se m'hi va posar al davant i no vaig poder sortir."]
+    wrong_answers:
+      - text: "Un taxi m'hi se va posar al davant i no vaig poder sortir."
+        why: "*Es* va primer: *se m'hi va posar*."
+    grading: tolerant
+    explanation: "*Posar-se* (*se*) + *me* (a mi) + *hi* (al davant): *se m'hi va posar*."
+
+  - id: b2-37-042
+    type: transform
+    point: combinacions-en-hi
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "La presidenta donarà [[una còpia]] [[als veïns]] demà."
+    answers: ["La presidenta els la donarà demà.", "Demà la presidenta els la donarà.", "La presidenta demà els la donarà."]
+    wrong_answers:
+      - text: "La presidenta les la donarà demà."
+        why: "El datiu plural és *els*: *els la donarà*."
+      - text: "La presidenta els ho donarà demà."
+        why: "«Una còpia» és un nom: *la*, no *ho*."
+    grading: tolerant
+    explanation: "«Als veïns» → *els*; «una còpia» → *la*: *els la donarà*."
+
+  - id: b2-37-043
+    type: transform
+    point: combinacions-en-hi
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "L'administrador donarà [[dos rebuts]] [[a la Maria]] avui."
+    answers: ["L'administrador li'n donarà dos avui.", "Avui l'administrador li'n donarà dos.", "L'administrador avui li'n donarà dos."]
+    wrong_answers:
+      - text: "L'administrador li en donarà dos avui."
+        why: "*Li + en* s'escriuen junts: *li'n*."
+      - text: "L'administrador n'hi donarà dos avui."
+        why: "Aquí no hi ha cap lloc: *li* (a la Maria) + *en* (dos)."
+    grading: tolerant
+    explanation: "«A la Maria» → *li*; «dos» (de rebuts) → *en*: *li'n donarà dos*."
+
+  - id: b2-37-044
+    type: transform
+    point: combinacions-en-hi
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "Vam posar [[quatre cadires]] [[al replà]] per a la reunió."
+    answers: ["N'hi vam posar quatre per a la reunió.", "Per a la reunió, n'hi vam posar quatre."]
+    wrong_answers:
+      - text: "Hi'n vam posar quatre per a la reunió."
+        why: "L'ordre és *en + hi*: *n'hi*."
+      - text: "En hi vam posar quatre per a la reunió."
+        why: "*En + hi* s'escriuen junts: *n'hi*."
+    grading: tolerant
+    explanation: "«Quatre» (de cadires) → *en*; «al replà» → *hi*: *n'hi vam posar quatre*."
+
+  - id: b2-37-045
+    type: transform
+    point: pronominals
+    lesson: 4
+    instruction: "Reescriu la frase amb *anar-se'n*."
+    source: "Els convidats [[van marxar]] a mitjanit."
+    answers: ["Els convidats se'n van anar a mitjanit.", "A mitjanit, els convidats se'n van anar."]
+    wrong_answers:
+      - text: "Els convidats es van anar a mitjanit."
+        why: "*Anar-se'n* porta *en*: *se'n van anar*."
+      - text: "Els convidats s'en van anar a mitjanit."
+        why: "*Es + en* fa *se'n*."
+    grading: tolerant
+    explanation: "*Anar-se'n*, tercera del plural del passat: *se'n van anar*."
+
+  - id: b2-37-046
+    type: transform
+    point: pronominals
+    lesson: 4
+    instruction: "Reescriu la frase amb *endur-se*."
+    source: "La Laia [[porta]] el paraigua quan surt."
+    answers: ["La Laia se l'enduu quan surt."]
+    wrong_answers:
+      - text: "La Laia s'ho enduu quan surt."
+        why: "«El paraigua» és un nom: *el*, no *ho*."
+      - text: "La Laia se li enduu quan surt."
+        why: "«El paraigua» és complement directe: *el*, no *li*."
+    grading: tolerant
+    explanation: "*Endur-se* + *el* («el paraigua»): *se l'enduu quan surt*."
+
+  - id: b2-37-047
+    type: transform
+    point: compte-oblidar
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[Se me ha olvidado]] tancar la porta de l'aparcament."
+    answers: ["M'he oblidat de tancar la porta de l'aparcament.", "He oblidat tancar la porta de l'aparcament.", "M'he oblidat de tancar-la.", "He oblidat tancar-la."]
+    wrong_answers:
+      - text: "M'he olvidat de tancar la porta de l'aparcament."
+        why: "El verb és *oblidar*, no *olvidar*."
+      - text: "He oblidat de tancar la porta de l'aparcament."
+        why: "Sense *es*, *oblidar* no porta *de*: *he oblidat tancar*."
+    grading: tolerant
+    explanation: "«Se me ha olvidado» es diu *m'he oblidat de tancar* o *he oblidat tancar*; el verb és *oblidar*."
+
+  - id: b2-37-048
+    type: fill
+    point: combinacions-en-hi
+    lesson: 4
+    prompt: "—I el veí del segon, sap que hi haurà obres? —Sí, ___ hem explicat aquest matí."
+    hint: "pronoms per a «al veí» + «que hi haurà obres»"
+    answers: ["li ho"]
+    wrong_answers:
+      - text: "li el"
+        why: "«Que hi haurà obres» és una idea: *ho*."
+      - text: "els ho"
+        why: "«El veí» és singular: *li ho*."
+    grading: tolerant
+    explanation: "«Al veí» → *li*; «que hi haurà obres» (una idea) → *ho*."
+
+  - id: b2-37-049
+    type: fill
+    point: tres-pronoms
+    lesson: 4
+    prompt: "Amb la tempesta, tot ___ va endur el vent del meu balcó."
+    hint: "endur-se + datiu + ho"
+    answers: ["se m'ho"]
+    wrong_answers:
+      - text: "se me ho"
+        why: "*Me + ho* s'apostrofa: *m'ho*."
+      - text: "m'ho se"
+        why: "*Es* va primer: *se m'ho*."
+    grading: tolerant
+    explanation: "*Endur-se* (*se*) + *me* (a mi) + *ho* («tot»): *se m'ho va endur*."
+
+  - id: b2-37-050
+    type: order
+    point: pronominals
+    lesson: 4
+    cue: "Explica que vas marxar de la reunió abans de sopar."
+    chunks: ["Me'n", "vaig anar", "abans", "de sopar"]
+    extra: ["em"]
+    answers:
+      - "Me'n vaig anar abans de sopar."
+      - "Abans de sopar me'n vaig anar."
+    explanation: "*Anar-se'n*, primera del singular del passat: *me'n vaig anar*."
+
+  - id: b2-37-051
+    type: order
+    point: combinacions-en-hi
+    lesson: 4
+    cue: "Digues que donaràs dues còpies a la Núria demà."
+    chunks: ["Li'n", "donaré", "dues", "demà"]
+    extra: ["li"]
+    answers:
+      - "Li'n donaré dues demà."
+      - "Demà li'n donaré dues."
+    explanation: "«A la Núria» → *li*; «dues» (de còpies) → *en*: *li'n donaré dues*."
+
+  - id: b2-37-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Què vol dir «sortir-se'n»?"
+    answer: "Aconseguir resoldre un problema difícil."
+    distractors:
+      - text: "Anar-se'n d'un lloc sense avisar."
+        why: "Això és *anar-se'n*; *sortir-se'n* és resoldre un problema."
+      - text: "Rebre el pitjor d'una baralla."
+        why: "Això és *endur-se'n la pitjor part*."
+    explanation: "*Sortir-se'n* és aconseguir resoldre un problema difícil, sovint amb ajuda."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-37-053
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["endur-se'n la pitjor part", "rebre el pitjor d'una baralla"]
+      - ["sortir-se'n", "aconseguir resoldre un problema"]
+      - ["tornar-s'hi", "tornar a fer una cosa que molesta"]
+      - ["fer les paus", "reconciliar-se amb algú"]
+      - ["girar full", "deixar enrere un afer"]
+    explanation: "Són expressions pronominals per parlar de conflictes: qui rep, qui resol, qui insisteix, qui es reconcilia i qui continua."
+
+  - id: b2-37-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Després de mesos de soroll i queixes, amb l'ajuda del mediador el veïnat ___."
+    answer: "se'n va sortir"
+    distractors:
+      - text: "se'n va anar"
+        why: "*Anar-se'n* és marxar; aquí van resoldre el problema: *sortir-se'n*."
+      - text: "s'hi va tornar"
+        why: "*Tornar-s'hi* és insistir; aquí van resoldre el problema: *sortir-se'n*."
+    explanation: "Amb l'ajuda del mediador, el veïnat va resoldre el problema: *se'n va sortir*."
+
+  - id: b2-37-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "En la discussió del replà, què li va passar al porter?"
+    answer: "Se'n va endur la pitjor part, i no hi tenia res a veure."
+    distractors:
+      - text: "Se'n va sortir tot sol, sense ajuda de ningú."
+        why: "*Sortir-se'n* és resoldre un problema; ell va rebre el pitjor."
+      - text: "S'hi va tornar cada dia, sense escoltar ningú."
+        why: "*Tornar-s'hi* és insistir; ell va rebre el pitjor."
+    explanation: "El porter va rebre el pitjor de la discussió: *se'n va endur la pitjor part*."
+
+  - id: b2-37-056
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Li hem dit mil cops que no aparqui al meu lloc, però cada setmana ___."
+    hint: "tornar-s'hi, present"
+    answers: ["s'hi torna"]
+    wrong_answers:
+      - text: "se'n torna"
+        why: "*Tornar-se'n* és anar-se'n; insistir és *tornar-s'hi*."
+      - text: "hi torna"
+        why: "L'expressió és pronominal: *s'hi torna*."
+    grading: tolerant
+    explanation: "Torna a fer una cosa que molesta: *s'hi torna*."
+
+  - id: b2-37-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Després de la reunió i de cedir una mica, els dos veïns ___ i ara se saluden."
+    hint: "fer les paus, passat perifràstic"
+    answers: ["van fer les paus"]
+    wrong_answers:
+      - text: "es van fer les paus"
+        why: "*Fer les paus* no porta cap pronom: *van fer les paus*."
+    grading: tolerant
+    explanation: "Els dos veïns es van reconciliar: *van fer les paus*."
+
+  - id: b2-37-058
+    type: choice
+    point: tres-pronoms
+    lesson: 5
+    prompt: "El trasllat del meu germà: ja ___ ha endut tot al pis nou, només queda netejar."
+    answer: "se m'ho"
+    distractors:
+      - text: "se me ho"
+        why: "*Me + ho* s'apostrofa: *m'ho*."
+      - text: "m'ho se"
+        why: "*Es* va primer: *se m'ho*."
+    explanation: "*Endur-se* (*se*) + *me* (a mi) + *ho* («tot»): *ja se m'ho ha endut tot*."
+
+  - id: b2-37-059
+    type: choice
+    point: combinacions-en-hi
+    lesson: 5
+    prompt: "—Els llibres d'actes van a l'armari? —Sí, i ___ pots deixar quan vulguis."
+    answer: "Els hi"
+    distractors:
+      - text: "Els ho"
+        why: "*Ho* no expressa lloc; «a l'armari» → *hi*: *els hi*."
+      - text: "Els els"
+        why: "*Els els* porta un datiu («a ells»); aquí hi ha un lloc: *els hi*."
+    explanation: "«Els llibres» → *els*; «a l'armari» → *hi*: *els hi pots deixar*."
+
+  - id: b2-37-060
+    type: find-error
+    point: compte-oblidar
+    lesson: 5
+    sentence: "Al final no ha calgut trucar al manyà: m'he oblidat de les claus, però la veïna m'ha obert."
+    no_error: true
+    explanation: "La frase és correcta: *m'he oblidat de les claus* porta *de*, i *m'ha obert* és el datiu (*a mi*)."
+
+  - id: b2-37-061
+    type: find-error
+    point: compte-oblidar
+    lesson: 5
+    sentence: "He olvidat els rebuts a l'oficina."
+    error: "olvidat"
+    fix: "oblidat"
+    fix_distractors:
+      - text: "obligat"
+        why: "*Obligar* és forçar algú; el verb de la memòria és *oblidar*."
+      - text: "olvidado"
+        why: "En català, el participi és *oblidat*."
+    explanation: "El verb és *oblidar*, no *olvidar*: *he oblidat els rebuts*."
+
+  - id: b2-37-062
+    type: order
+    point: pronominals
+    lesson: 5
+    cue: "Digues que vols marxar de la reunió a les vuit."
+    chunks: ["Me'n", "vull", "anar", "a les vuit"]
+    extra: ["em"]
+    answers:
+      - "Me'n vull anar a les vuit."
+      - "A les vuit me'n vull anar."
+    explanation: "Amb *voler* + infinitiu, els pronoms pugen davant: *me'n vull anar* (també: *vull anar-me'n*)."
+
+  - id: b2-37-063
+    type: inline-choice
+    point: combinacions-en-hi
+    lesson: 5
+    title: "Abans de la reunió"
+    text: "Veïns, recordeu: els acords de l'última reunió, la secretària {els els|els ho|li els} enviarà per correu. La porteria és oberta fins a les set: si voleu còpies en paper, {n'hi|li'n|en hi} demaneu dues. La Maria encara no sap res de les obres: el president de l'escala {li ho|li el|els ho} explicarà tot demà. També parlarem de la quota de l'ascensor, de l'horari de descans i dels veïns que incompleixen els acords."
+    explanation: "«Als veïns + els acords» → *els els*; «dues + a la porteria» → *n'hi*; «a la Maria + tot» → *li ho*."
+
+  - id: b2-37-064
+    type: transform
+    point: combinacions-en-hi
+    lesson: 5
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "El porter guardarà [[les claus]] [[al traster]] fins demà."
+    answers: ["El porter les hi guardarà fins demà.", "Fins demà, el porter les hi guardarà."]
+    wrong_answers:
+      - text: "El porter les ho guardarà fins demà."
+        why: "«Al traster» és un lloc: *hi*, no *ho*."
+      - text: "El porter els hi guardarà fins demà."
+        why: "«Les claus» és femení: *les hi*."
+    grading: tolerant
+    explanation: "«Les claus» → *les*; «al traster» → *hi*: *les hi guardarà*."
+
+  - id: b2-37-065
+    type: fill
+    point: compte-oblidar
+    lesson: 5
+    prompt: "—Has tancat el llum del replà? —Ui, ___! Ara hi torno."
+    hint: "oblidar, primera persona del perfet"
+    answers: ["me n'he oblidat", "m'he oblidat de tancar-lo", "m'he oblidat de tancar el llum", "he oblidat el llum", "he oblidat tancar el llum"]
+    wrong_answers:
+      - text: "m'he oblidat"
+        why: "Cal *en* o *de* + infinitiu: *me n'he oblidat*."
+      - text: "he oblidat"
+        why: "*He oblidat* necessita el complement: *he oblidat el llum* o *me n'he oblidat*."
+    grading: tolerant
+    explanation: "«Del llum» → *en*: *me n'he oblidat* (o *m'he oblidat de tancar-lo*)."
+
+  - id: b2-37-066
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Pau a l'escala del número 12"
+    text: |
+      Fa dos mesos, la convivència es va trencar a l'escala del número 12 del carrer Major. El llogater del quart va començar unes obres sense el permís d'obres: cada matí, a les set en punt, el soroll del martell despertava tot l'edifici, i la pols arribava fins al pati interior.
+
+      La veïna del tercer, la Montse, va parlar amb ell dues vegades, però ell no li va fer cas. Aleshores la Montse se'n va anar a veure l'administrador de finques i li ho va explicar tot: el llogater incomplia l'horari de descans i, si no aturava les obres, posaria una queixa formal.
+
+      El propietari del pis, que viu a Girona, també hi va intervenir. La Montse li ho va explicar per telèfon i ell va dir al llogater que o demanava el permís o se n'anava al carrer. El llogater va respondre que la fiança que havia pagat li donava dret a fer el que volgués.
+
+      La setmana passada, el president de l'escala va convocar una reunió de veïns. Hi van anar gairebé tots, i l'ambient estava tens: el llogater deia que ningú no l'havia avisat de res, i la Montse deia que ningú no respectava les normes de convivència.
+
+      Al final, amb l'ajuda de la Fàtima, una mediadora del barri, van arribar a un acord: el llogater demanaria el permís, faria les obres només de deu a una i pagaria la neteja del pati. La Montse, per la seva banda, no posaria cap queixa. La mediació va durar dues sessions. A més, van aprovar apujar la quota cinc euros per arreglar l'ascensor i van recordar que les mascotes no poden anar soles pel replà.
+
+      «Hem après que parlar val més que cridar», va dir el president en tancar la reunió. I els dos veïns, que feia setmanes que no se saludaven, van fer les paus al replà.
+    questions:
+      - prompt: "Per què va començar el conflicte?"
+        answer: "El llogater feia obres sorolloses sense tenir el permís."
+        distractors:
+          - text: "La Montse no pagava la quota de l'escala."
+            why: "La quota només surt quan l'apugen per a l'ascensor."
+          - text: "L'administrador no volia rebre la Montse."
+            why: "L'administrador sí que la va rebre i la va escoltar."
+      - prompt: "Què va fer la Montse abans de la reunió?"
+        answer: "Va parlar amb el llogater, amb l'administrador i amb el propietari."
+        distractors:
+          - text: "Va posar una queixa formal contra el llogater."
+            why: "Va amenaçar de posar-ne una, però no ho va fer."
+          - text: "Va demanar al president que expulsés el llogater."
+            why: "Qui va amenaçar el llogater va ser el propietari, no la Montse."
+      - prompt: "Quin acord van prendre a la reunió?"
+        answer: "El llogater regularitzaria les obres i la Montse no es queixaria."
+        distractors:
+          - text: "El llogater marxaria del pis i perdria la fiança."
+            why: "El llogater es queda: només ha de demanar el permís i respectar l'horari."
+          - text: "Apujarien la quota per pagar la mediació."
+            why: "La quota apujada és per a l'ascensor, no per a la mediació."
+      - prompt: "Com va acabar la reunió?"
+        answer: "Els dos veïns van girar full i van tornar a saludar-se."
+        distractors:
+          - text: "El llogater va prometre que marxaria del pis."
+            why: "El llogater no marxa: van fer les paus."
+          - text: "La Montse va decidir vendre el seu pis."
+            why: "El text no diu res d'això."
+    explanation: "El text explica un conflicte per unes obres sense permís i com els veïns el resolen amb una mediadora."

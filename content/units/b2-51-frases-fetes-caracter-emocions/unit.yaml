@@ -1,0 +1,945 @@
+id: b2-51
+level: B2
+title: "Frases fetes (I): caràcter i emocions"
+summary: "Nou frases fetes per parlar del caràcter i de l'enuig: com es conjuguen, quins pronoms hi entren i quins calcs del castellà cal evitar."
+vocabulary_theme: "Emocions i caràcter"
+points:
+  - id: enuig
+    title: "Expressions d'enuig"
+  - id: caracter
+    title: "Expressions de caràcter"
+  - id: expressions-context
+    title: "Les expressions en context: temps i pronoms"
+  - id: compte-frases-calcades
+    title: "Compte amb el castellà: frases fetes calcades"
+    refs:
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: quan ens enfadem"
+  - title: "Practicar les expressions"
+  - title: "Les expressions en context i els calcs"
+  - title: "Produir: reescriure i completar"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "l'enuig"
+    definition: "Emprenyada lleu i passatgera."
+    example: "L'enuig li va durar fins a l'hora de dinar."
+  - word: "la ràbia"
+    definition: "Enuig molt fort, que costa de controlar."
+    example: "Quan va veure el cop al cotxe, li va agafar una ràbia immensa."
+  - word: "la por"
+    definition: "Sensació davant d'un perill, real o imaginat."
+    example: "De petita tenia por de la foscor."
+  - word: "la vergonya"
+    definition: "Malestar quan creiem que hem fet el ridícul."
+    example: "Li feia vergonya parlar davant de tanta gent."
+  - word: "la pena"
+    definition: "Tristesa per una desgràcia, pròpia o d'altri."
+    example: "Em fa pena que tanqui la botiga del barri."
+  - word: "l'alegria"
+    definition: "Emoció agradable quan passa una cosa bona."
+    example: "L'alegria se li notava a la cara."
+  - word: "la tristesa"
+    definition: "Emoció de decaïment per una pèrdua o un disgust."
+    example: "La tristesa li va durar uns quants dies."
+  - word: "la sorpresa"
+    definition: "Emoció breu davant d'una cosa inesperada."
+    example: "La notícia de l'herència va ser una gran sorpresa."
+  - word: "la indignació"
+    definition: "Enuig que provoca una injustícia."
+    example: "La pujada del lloguer va causar indignació al barri."
+  - word: "la paciència"
+    definition: "Capacitat de saber esperar sense enfadar-se."
+    example: "Amb els nens cal tenir molta paciència."
+  - word: "la calma"
+    definition: "Estat de tranquil·litat, sense nervis."
+    example: "Respira fondo i mantén la calma."
+  - word: "els nervis"
+    definition: "Tensió abans d'una cosa important."
+    example: "Tinc nervis abans de cada entrevista de feina."
+  - word: "la gelosia"
+    definition: "Por de perdre l'estima d'algú a favor d'un altre."
+    example: "Té gelosia del germà petit."
+  - word: "l'enveja"
+    definition: "Desig d'allò que tenen els altres."
+    example: "Li fa enveja que el veí tingui piscina."
+  - word: "l'orgull"
+    definition: "Excés d'amor propi, que impedeix cedir."
+    example: "Per orgull no vol demanar ajuda."
+  - word: "la tossuderia"
+    definition: "Qualitat de qui no cedeix mai."
+    example: "La seva tossuderia el fa discutir per tot."
+  - word: "tossut, tossuda"
+    definition: "Que no cedeix ni canvia d'opinió."
+    example: "És tan tossut que no escolta ningú."
+  - word: "la mandra"
+    definition: "Ganes de no fer res."
+    example: "Em fa mandra sortir amb aquest fred."
+  - word: "discret, discreta"
+    definition: "Que sap guardar un secret."
+    example: "És molt discret: no explica res de la feina."
+  - word: "xerraire"
+    definition: "Que parla molt."
+    example: "És tan xerraire que no deixa parlar ningú."
+  - word: "rondinaire"
+    definition: "Que es queixa de tot."
+    example: "El meu avi s'ha tornat rondinaire amb l'edat."
+  - word: "tranquil, tranquil·la"
+    definition: "Sense nervis ni agitació."
+    example: "Queda't tranquil: ja ho resoldrem."
+  - word: "nerviós, nerviosa"
+    definition: "Amb tensió o intranquil·litat."
+    example: "Estava nerviosa abans de l'examen."
+  - word: "sensible"
+    definition: "Que s'emociona o s'ofèn amb facilitat."
+    example: "És molt sensible: tot l'afecta."
+  - word: "el mal humor"
+    definition: "Mal estat d'ànim, que fa respondre malament."
+    example: "Quan té mal humor, val més no dir-li res."
+  - word: "el bon humor"
+    definition: "Bon estat d'ànim, amb ganes de riure."
+    example: "Sempre es lleva de bon humor."
+  - word: "la sang freda"
+    definition: "Calma per actuar en moments difícils."
+    example: "Va mantenir la sang freda i va trucar al metge."
+  - word: "el disgust"
+    definition: "Tristesa o enuig per una cosa desagradable."
+    example: "El suspens li va donar un gran disgust."
+  - word: "l'empatia"
+    definition: "Capacitat de posar-se al lloc d'un altre."
+    example: "Amb una mica d'empatia ens entendríem."
+  - word: "la frustració"
+    definition: "Malestar quan una cosa no surt com esperàvem."
+    example: "La frustració el va fer cridar."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-51-001
+    type: choice
+    point: enuig
+    lesson: 1
+    prompt: "Què vol dir «El teu germà em treu de polleguera»?"
+    answer: "El teu germà em fa perdre la calma."
+    distractors:
+      - text: "El teu germà em fa riure amb les seves bromes."
+        why: "*Treure de polleguera* no fa riure: fa enfadar. Vol dir que et fa perdre la calma."
+      - text: "El teu germà em deixa sense arguments."
+        why: "No és quedar-se sense paraules: és perdre la calma per culpa d'algú."
+    explanation: "«Treure de polleguera algú» vol dir fer-li perdre la calma i la paciència."
+
+  - id: b2-51-002
+    type: choice
+    point: enuig
+    lesson: 1
+    prompt: "Quan la Núria va veure la factura del mòbil, ___: deia que era un abús."
+    answer: "treia foc pels queixals"
+    distractors:
+      - text: "feia la viu-viu com podia"
+        why: "*Fer la viu-viu* és anar tirant amb dificultats. Aquí la Núria està plena de ràbia."
+      - text: "es feia el suec tota l'estona"
+        why: "*Fer-se el suec* és fer veure que no se sent res. Aquí protesta, no calla."
+    explanation: "«Treure foc pels queixals» vol dir estar molt enfadat. «Era un abús» mostra la ràbia de la Núria."
+
+  - id: b2-51-003
+    type: choice
+    point: enuig
+    lesson: 1
+    prompt: "Què vol dir «Avui la Marta, rondinaire com sempre, té la mosca al nas»?"
+    answer: "Avui la Marta està de mal humor."
+    distractors:
+      - text: "Avui la Marta sospita de tothom."
+        why: "Sospitar és una altra cosa: aquí la Marta respon malament a tothom."
+      - text: "Avui la Marta està molt contenta."
+        why: "És just el contrari: respon malament a tothom."
+    explanation: "«Tenir la mosca al nas» vol dir estar de mal humor: un enuig lleu que dura tot el dia."
+
+  - id: b2-51-004
+    type: choice
+    point: enuig
+    lesson: 1
+    prompt: "—Encara fas hores extres cada dia? —Sí, i ja no puc més: ___."
+    answer: "estic fins al capdamunt"
+    distractors:
+      - text: "estic de molt bon humor"
+        why: "És just el contrari: «ja no puc més» és una queixa."
+      - text: "em faig el suec"
+        why: "*Fer-se el suec* és fer veure que no se sent res. Aquí es queixa ben clar."
+    explanation: "«Ja no puc més» demana l'expressió d'estar-ne fart: *estic fins al capdamunt*."
+
+  - id: b2-51-005
+    type: match
+    point: enuig
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["treure de polleguera", "El soroll del bar fa perdre la calma a la Laia."]
+      - ["treure foc pels queixals", "En Pau crida, furiós amb la companyia del mòbil."]
+      - ["tenir la mosca al nas", "La Núria respon malament a tothom des que s'ha llevat."]
+      - ["estar fins al capdamunt", "L'Ibrahim no pot més amb les guàrdies de cap de setmana."]
+    explanation: "Són les quatre expressions d'enuig de la unitat: fixar-se en la situació ajuda a triar-les."
+
+  - id: b2-51-006
+    type: match
+    point: caracter
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["fer-se el suec", "Li demanen que ajudi i fa veure que no ho sent."]
+      - ["ser un bocamoll", "Explica a tothom el secret que li van confiar."]
+      - ["estar com un llum", "Vol travessar l'Atlàntic tot sol en un caiac."]
+      - ["fer la viu-viu", "Va tirant amb una beca que tot just cobreix el lloguer."]
+    explanation: "Són les quatre expressions de caràcter: cadascuna descriu una manera de ser o d'estar al món."
+
+  - id: b2-51-007
+    type: choice
+    point: caracter
+    lesson: 1
+    prompt: "Li diuen que pari taula i ___: continua mirant el mòbil com si no sentís res."
+    answer: "es fa el suec"
+    distractors:
+      - text: "fa la viu-viu"
+        why: "*Fer la viu-viu* és anar tirant amb dificultats. Aquí fingeix no sentir res."
+      - text: "és un bocamoll"
+        why: "*Ser un bocamoll* és no guardar secrets. Aquí calla, no xerra."
+    explanation: "«Com si no sentís res» és la definició de *fer-se el suec*: fer veure que no se sent res."
+
+  - id: b2-51-008
+    type: choice
+    point: caracter
+    lesson: 1
+    prompt: "No expliquis a l'Arnau on amagues les claus: ___."
+    answer: "és un bocamoll"
+    distractors:
+      - text: "fa la viu-viu"
+        why: "*Fer la viu-viu* és anar tirant. El perill aquí és que ho expliqui a tothom."
+      - text: "té la mosca al nas"
+        why: "El mal humor no hi fa res: el perill és que no sap guardar un secret."
+    explanation: "Si no vols que ho expliqui, és perquè *és un bocamoll*: diu a tothom allò que li confien."
+
+  - id: b2-51-009
+    type: choice
+    point: caracter
+    lesson: 1
+    prompt: "Què vol dir «En Quim està com un llum»?"
+    answer: "En Quim actua sense seny, com si li faltés un bull."
+    distractors:
+      - text: "En Quim està molt enfadat amb tothom."
+        why: "L'enuig fort és «treure foc pels queixals». Aquí fa o diu bestieses."
+      - text: "En Quim està molt cansat i necessita dormir."
+        why: "El cansament no hi té res a veure: fa bestieses sense adonar-se'n."
+    explanation: "«Estar com un llum» vol dir actuar sense seny. En Quim fa o diu coses que ningú no entén."
+
+  - id: b2-51-010
+    type: choice
+    point: caracter
+    lesson: 1
+    prompt: "Amb el sou de becària, la Carla ___: tot just li arriba per al lloguer i el menjar."
+    answer: "fa la viu-viu"
+    distractors:
+      - text: "es fa el suec"
+        why: "*Fer-se el suec* és fingir que no se sent res. Aquí sobreviu amb pocs diners."
+      - text: "està fins al capdamunt"
+        why: "No diu que n'estigui farta: diu que tot just li arriba."
+    explanation: "«Tot just li arriba» és anar tirant: la Carla *fa la viu-viu* amb el sou de becària."
+
+  - id: b2-51-011
+    type: inline-choice
+    point: enuig
+    lesson: 1
+    title: "Un dilluns complicat"
+    text: "Aquest matí el despertador no ha sonat i la Fàtima ha arribat tard a tot arreu. A la feina, el soroll de les obres {l'ha tret de polleguera|li ha pres el pèl}, i quan el cap li ha dit que faria hores extres, {treia foc pels queixals|feia la viu-viu}. A la tarda ha discutit amb un company i des de llavors {té la mosca al nas|està de molt bon humor}. Entre el trànsit i les hores extres, diu que {està fins al capdamunt|està de molt bon humor} de tot plegat."
+    explanation: "El soroll *treu de polleguera* la Fàtima; les hores extres la fan *treure foc pels queixals*; després de la discussió *té la mosca al nas*; i de tot plegat *està fins al capdamunt*."
+
+  - id: b2-51-012
+    type: fill
+    point: enuig
+    lesson: 1
+    prompt: "—Com portes el soroll dels veïns? —Em ___ cada nit: no em deixa dormir."
+    hint: "treure de polleguera, present"
+    answers: ["treu de polleguera"]
+    wrong_answers:
+      - text: "treu de la polleguera"
+        why: "L'expressió no porta article: *treure de polleguera*."
+    grading: tolerant
+    explanation: "El subjecte és «el soroll» i el complement és «em»: *em treu de polleguera*, em fa perdre la calma."
+
+  - id: b2-51-013
+    type: order
+    point: caracter
+    lesson: 1
+    cue: "Digues que en Pau fingeix no sentir res quan li demanen ajuda."
+    chunks: ["En Pau", "es fa", "el suec", "quan", "li demanen", "ajuda"]
+    extra: ["fa"]
+    answers:
+      - "En Pau es fa el suec quan li demanen ajuda."
+      - "Quan li demanen ajuda, en Pau es fa el suec."
+      - "En Pau, quan li demanen ajuda, es fa el suec."
+    explanation: "*Fer-se el suec* porta sempre el pronom: *es fa*. L'oració amb *quan* pot anar al davant o al darrere."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-51-014
+    type: fill
+    point: enuig
+    lesson: 2
+    prompt: "Quan va llegir la carta d'acomiadament, el Pau ___."
+    hint: "treure foc pels queixals, passat perifràstic"
+    answers: ["va treure foc pels queixals"]
+    wrong_answers:
+      - text: "va treure foc per els queixals"
+        why: "La contracció és obligatòria: *per* + *els* = *pels*."
+    grading: tolerant
+    explanation: "L'acomiadament el va omplir de ràbia: *va treure foc pels queixals*. *Per* + *els* es contreu en *pels*."
+
+  - id: b2-51-015
+    type: fill
+    point: enuig
+    lesson: 2
+    prompt: "La Carla és molt sensible: no li facis bromes avui, que ___."
+    hint: "tenir la mosca al nas, present"
+    answers: ["té la mosca al nas"]
+    grading: tolerant
+    explanation: "«No li facis bromes» avisa que està susceptible: *té la mosca al nas*, està de mal humor."
+
+  - id: b2-51-016
+    type: fill
+    point: enuig
+    lesson: 2
+    prompt: "Porto tres mesos amb guàrdies cada cap de setmana: ___."
+    hint: "estar fins al capdamunt, present, jo"
+    answers: ["estic fins al capdamunt"]
+    grading: tolerant
+    explanation: "Tres mesos de guàrdies porten la frustració: *estic fins al capdamunt*, no puc més."
+
+  - id: b2-51-017
+    type: choice
+    point: enuig
+    lesson: 2
+    prompt: "—Per què crida la Montse? —Perquè el seu fill ___."
+    answer: "l'ha tret de polleguera"
+    distractors:
+      - text: "s'ha fet el suec"
+        why: "Si es fes el suec, callaria. Aquí la Montse crida: algú l'ha fet enfadar."
+      - text: "ha fet la viu-viu"
+        why: "*Fer la viu-viu* és anar tirant. Aquí cal una causa per als crits."
+    explanation: "Els crits demanen una causa: el fill *l'ha tret de polleguera*, li ha fet perdre la calma."
+
+  - id: b2-51-018
+    type: fill
+    point: caracter
+    lesson: 2
+    prompt: "Cada vegada que toca netejar el pis, l'Ibrahim ___."
+    hint: "fer-se el suec, present"
+    answers: ["es fa el suec"]
+    wrong_answers:
+      - text: "fa el suec"
+        why: "Falta el pronom: l'expressió és *fer-se el suec*."
+    grading: tolerant
+    explanation: "L'Ibrahim fingeix no sentir res per no netejar: *es fa el suec*. El pronom és obligatori."
+
+  - id: b2-51-019
+    type: fill
+    point: caracter
+    lesson: 2
+    prompt: "No expliquis el pla a en Quim davant de tothom: és ___."
+    hint: "expressió: persona que no sap guardar un secret"
+    answers: ["un bocamoll"]
+    grading: tolerant
+    explanation: "En Quim ho diria a tothom: *és un bocamoll*. Per això no li pots confiar el pla."
+
+  - id: b2-51-020
+    type: choice
+    point: caracter
+    lesson: 2
+    prompt: "L'Anna vol deixar la feina per fer la volta al món en bicicleta sense diners, i per orgull no escolta ningú. El seu germà diu que ___."
+    answer: "està com un llum"
+    distractors:
+      - text: "té la mosca al nas"
+        why: "No està de mal humor: té una idea esbojarrada."
+      - text: "es fa el suec"
+        why: "No fingeix res: anuncia el pla ben clar."
+    explanation: "Una volta al món sense diners és tossuderia pura: el germà pensa que *està com un llum*."
+
+  - id: b2-51-021
+    type: choice
+    point: caracter
+    lesson: 2
+    prompt: "El Wei treballa de nits, estudia de dia i tot just dorm quatre hores: ___."
+    answer: "fa la viu-viu"
+    distractors:
+      - text: "es fa el suec"
+        why: "No fingeix res: treballa i estudia sense parar."
+      - text: "té la mosca al nas"
+        why: "No diu que estigui de mal humor: diu que sempre va de bòlit."
+    explanation: "Treballar, estudiar i dormir quatre hores és anar tirant: el Wei *fa la viu-viu*."
+
+  - id: b2-51-022
+    type: order
+    point: enuig
+    lesson: 2
+    cue: "Digues que els comentaris del veí fan perdre la calma a la Carla."
+    chunks: ["Els comentaris", "del veí", "treuen", "la Carla", "de polleguera"]
+    extra: ["de la polleguera"]
+    answers:
+      - "Els comentaris del veí treuen la Carla de polleguera."
+    explanation: "El subjecte («els comentaris») va en plural: *treuen*. L'expressió no porta article: *de polleguera*."
+
+  - id: b2-51-023
+    type: order
+    point: caracter
+    lesson: 2
+    cue: "Avisa que en Quim explica a tothom allò que li confien."
+    chunks: ["En Quim", "és", "un bocamoll", "i", "ho explica tot"]
+    extra: ["li"]
+    answers:
+      - "En Quim és un bocamoll i ho explica tot."
+    explanation: "*Ser un bocamoll* vol dir no guardar cap secret: per això ho explica tot."
+
+  - id: b2-51-024
+    type: inline-choice
+    point: caracter
+    lesson: 2
+    title: "Dos companys de pis"
+    text: "L'Ibrahim i en Quim comparteixen pis i són molt diferents. Quan toca fregar els plats, l'Ibrahim {es fa|fa} el suec i desapareix. En canvi, en Quim no calla mai: {és un bocamoll|té la mosca al nas} i explica als veïns tot allò que passa al pis. Amb la pujada del lloguer, tots dos {fan la viu-viu|treuen foc pels queixals} per arribar a final de mes."
+    explanation: "L'Ibrahim *es fa el suec* per no fregar; en Quim *és un bocamoll* i ho explica tot; amb el lloguer alt, tots dos *fan la viu-viu*."
+
+  - id: b2-51-025
+    type: choice
+    point: expressions-context
+    lesson: 2
+    prompt: "Què vol dir «Quan va veure la nota, el pare es va posar les mans al cap»?"
+    answer: "El pare va mostrar una gran sorpresa."
+    distractors:
+      - text: "El pare es va adormir sobre els llibres."
+        why: "No té son: està esverat per la nota."
+      - text: "El pare va renyar el seu fill cridant."
+        why: "Potser el renyarà després, però l'expressió només mostra la sorpresa."
+    explanation: "«Posar-se les mans al cap» vol dir mostrar gran sorpresa o indignació. La nota va esverar el pare."
+
+  - id: b2-51-026
+    type: transform
+    point: expressions-context
+    lesson: 2
+    instruction: "Reescriu la frase amb l'expressió «posar-se les mans al cap»."
+    source: "Quan va veure el desordre, la mare [[es va esverar molt]]."
+    answers:
+      - "Quan va veure el desordre, la mare es va posar les mans al cap."
+      - "Quan va veure el desordre, la mare va posar-se les mans al cap."
+    wrong_answers:
+      - text: "Quan va veure el desordre, la mare es va posar les seves mans al cap."
+        why: "L'expressió té l'article fix: *les mans*, sense possessiu."
+    grading: tolerant
+    explanation: "«Esverar-se molt» equival a *posar-se les mans al cap*. Les parts fixes no admeten possessius: *les mans*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-51-027
+    type: choice
+    point: expressions-context
+    lesson: 3
+    prompt: "Ahir, en Pau ___ durant la discussió."
+    answer: "es va fer el suec"
+    distractors:
+      - text: "es fa el suec"
+        why: "«Ahir» demana passat: *es va fer*."
+      - text: "va fer el suec"
+        why: "Falta el pronom: l'expressió és *fer-se* el suec."
+    explanation: "«Ahir» demana el passat perifràstic i *fer-se el suec* demana el pronom: *es va fer el suec*."
+
+  - id: b2-51-028
+    type: fill
+    point: expressions-context
+    lesson: 3
+    prompt: "Durant la reunió d'ahir, la Laia, molt nerviosa, ___ quan va sentir el nou horari."
+    hint: "posar-se les mans al cap, passat perifràstic"
+    answers: ["es va posar les mans al cap", "va posar-se les mans al cap"]
+    grading: tolerant
+    explanation: "«Ahir» i «va sentir» demanen passat: *es va posar les mans al cap*."
+
+  - id: b2-51-029
+    type: transform
+    point: expressions-context
+    lesson: 3
+    instruction: "Passa la frase al passat perifràstic."
+    source: "En Pau [[es fa]] el suec quan li [[demanen]] diners."
+    answers:
+      - "En Pau es va fer el suec quan li van demanar diners."
+      - "Quan li van demanar diners, en Pau es va fer el suec."
+      - "En Pau va fer-se el suec quan li van demanar diners."
+      - "Quan li van demanar diners, en Pau va fer-se el suec."
+    wrong_answers:
+      - text: "En Pau va fer el suec quan li van demanar diners."
+        why: "Falta el pronom: *es va fer el suec*."
+    grading: tolerant
+    explanation: "En passat, els dos verbs canvien: *es va fer* i *li van demanar*. El pronom de *fer-se* no cau mai."
+
+  - id: b2-51-030
+    type: transform
+    point: expressions-context
+    lesson: 3
+    instruction: "Passa la frase al futur."
+    source: "Si continues així, [[et trec]] de polleguera, ja ho veuràs."
+    answers: ["Si continues així, et trauré de polleguera, ja ho veuràs."]
+    wrong_answers:
+      - text: "Si continues així, et treuré de polleguera, ja ho veuràs."
+        why: "*Treure* fa el futur en *trauré*, amb *a*."
+    grading: tolerant
+    explanation: "El futur de *treure* és *trauré*. El complement («et») no canvia de lloc: va davant del verb."
+
+  - id: b2-51-031
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 3
+    sentence: "Que no em tomis el pèl: sé que ho dius de broma."
+    error: "tomis el pèl"
+    fix: "prenguis el pèl"
+    fix_distractors:
+      - text: "agafis el pèl"
+        why: "*Agafar* no forma part de l'expressió: el verb és *prendre*."
+      - text: "prenguis els pèls"
+        why: "L'expressió és en singular: *el pèl*."
+    explanation: "«Tomar el pèl» és un calc de «tomar el pelo». En català, el verb és *prendre*: *no em prenguis el pèl*."
+
+  - id: b2-51-032
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 3
+    sentence: "A la Fàtima li dona por conduir de nit per l'autopista."
+    error: "dona por"
+    fix: "fa por"
+    fix_distractors:
+      - text: "fa la por"
+        why: "L'expressió no porta article: *fa por*."
+      - text: "dona pena"
+        why: "Aquí el sentiment és la *por*, i el verb és *fer*."
+    explanation: "Amb les emocions, el verb és *fer*, no *donar*: *li fa por*. «Donar por» és un calc de «dar miedo»."
+
+  - id: b2-51-033
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 3
+    sentence: "Tens la raó: hauríem de sortir abans per no fer tard."
+    error: "Tens la raó"
+    fix: "Tens raó"
+    fix_distractors:
+      - text: "Dones la raó"
+        why: "*Donar la raó* necessita un complement («em dones la raó»). Aquí cal *tenir raó*."
+      - text: "Tens raons"
+        why: "L'expressió és en singular i sense article: *tenir raó*."
+    explanation: "En català es diu *tenir raó*, sense article. «Tenir la raó» és un calc de «tener la razón»."
+
+  - id: b2-51-034
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 3
+    sentence: "Trieu el restaurant que vulgueu: a mi em dona igual."
+    error: "em dona igual"
+    fix: "m'és igual"
+    fix_distractors:
+      - text: "em fa igual"
+        why: "*Fer igual* vol dir imitar. Per dir que no importa, *m'és igual*."
+      - text: "m'està igual"
+        why: "«Estar igual» parla d'un estat que no canvia. Aquí no importa: *m'és igual*."
+    explanation: "Per dir que una cosa no importa, el verb és *ser*: *a mi m'és igual*. «Donar igual» és un calc de «dar igual»."
+
+  - id: b2-51-035
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 3
+    sentence: "Després de l'accident, tota la família li dona suport i li fa costat."
+    no_error: true
+    explanation: "La frase és correcta: *donar suport* i *fer costat* són expressions genuïnes. *Donar* és un calc amb *por, pena, ràbia, vergonya* i *mandra*, però no amb *suport*."
+
+  - id: b2-51-036
+    type: choice
+    point: compte-frases-calcades
+    lesson: 3
+    prompt: "A l'Ibrahim ___ parlar en públic: té nervis només de pensar-hi."
+    answer: "li fa vergonya"
+    distractors:
+      - text: "li dona vergonya"
+        why: "*Donar vergonya* és un calc de «dar vergüenza». En català: *fer vergonya*."
+      - text: "el fa vergonya"
+        why: "*Fer vergonya* porta complement indirecte: *li fa*, no *el fa*."
+    explanation: "«Té nervis només de pensar-hi» mostra la vergonya: *li fa vergonya*. El verb de les emocions és *fer*."
+
+  - id: b2-51-037
+    type: choice
+    point: compte-frases-calcades
+    lesson: 3
+    prompt: "En Pau diu que parla set llengües per enveja del seu germà, però ___: en parla dues."
+    answer: "ens pren el pèl"
+    distractors:
+      - text: "ens toma el pèl"
+        why: "*Tomar el pèl* és un calc de «tomar el pelo». En català: *prendre el pèl*."
+      - text: "es pren el pèl"
+        why: "El pronom és el complement indirecte (*ens*), no reflexiu: *ens pren*."
+    explanation: "Si en parla dues i en diu set, exagera per riure's de nosaltres: *ens pren el pèl*."
+
+  - id: b2-51-038
+    type: fill
+    point: compte-frases-calcades
+    lesson: 3
+    prompt: "Em ___ que la Laia hagi de tancar la botiga: hi ha posat tants anys!"
+    hint: "verb + PENA"
+    answers: ["fa pena"]
+    wrong_answers:
+      - text: "dona pena"
+        why: "«Donar pena» és un calc de «dar pena». En català: *fer pena*."
+    grading: tolerant
+    explanation: "La tristesa per la desgràcia d'algú és *pena*, i el verb és *fer*: *em fa pena*."
+
+  - id: b2-51-039
+    type: inline-choice
+    point: compte-frases-calcades
+    lesson: 3
+    title: "Consells d'una àvia"
+    text: "La meva àvia sempre diu que cal {tenir raó|tenir la raó} amb calma, sense cridar. També diu que no ens ha de {fer|donar} por dir allò que pensem, i que a ella li {fa|dona} mandra renyar els nets. Quan dos germans es barallen, diu que {és|dona} igual qui ha començat: cal fer les paus. Diu que amb empatia tot s'arregla."
+    explanation: "L'àvia demana *tenir raó* sense cridar, que no ens *ha de fer por* dir allò que pensem, que li *fa mandra* renyar i que *és igual* qui ha començat."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-51-040
+    type: transform
+    point: enuig
+    lesson: 4
+    instruction: "Reescriu la frase amb l'expressió «treure de polleguera»."
+    source: "La música del bar de sota [[em fa perdre la calma]] cada nit."
+    answers: ["La música del bar de sota em treu de polleguera cada nit."]
+    wrong_answers:
+      - text: "La música del bar de sota em treu de la polleguera cada nit."
+        why: "L'expressió no porta article: *treure de polleguera*."
+    grading: tolerant
+    explanation: "«Fer perdre la calma» equival a *treure de polleguera*. El complement («em») va davant del verb."
+
+  - id: b2-51-041
+    type: transform
+    point: enuig
+    lesson: 4
+    instruction: "Reescriu la frase amb l'expressió «treure foc pels queixals»."
+    source: "Quan va rebre la multa, el conductor [[es va enfadar moltíssim]]."
+    answers: ["Quan va rebre la multa, el conductor va treure foc pels queixals."]
+    grading: tolerant
+    explanation: "«Enfadar-se moltíssim» equival a *treure foc pels queixals*, estar furiós."
+
+  - id: b2-51-042
+    type: transform
+    point: caracter
+    lesson: 4
+    instruction: "Reescriu la frase amb l'expressió «fer-se el suec»."
+    source: "Quan li parlen de diners, en Pau [[fingeix que no ho sent]]."
+    answers:
+      - "Quan li parlen de diners, en Pau es fa el suec."
+      - "En Pau es fa el suec quan li parlen de diners."
+    grading: tolerant
+    explanation: "«Fingir que no ho sent» és *fer-se el suec*. El pronom és obligatori: *es fa*."
+
+  - id: b2-51-043
+    type: transform
+    point: caracter
+    lesson: 4
+    instruction: "Reescriu la frase amb l'expressió «fer la viu-viu»."
+    source: "Amb una beca tan baixa, l'Anna [[tot just sobreviu]] a Barcelona."
+    answers: ["Amb una beca tan baixa, l'Anna fa la viu-viu a Barcelona."]
+    wrong_answers:
+      - text: "Amb una beca tan baixa, l'Anna fa la viu viu a Barcelona."
+        why: "L'expressió s'escriu amb guionet: *viu-viu*."
+    grading: tolerant
+    explanation: "«Tot just sobreviure» és *fer la viu-viu*: anar tirant amb dificultats. S'escriu amb guionet."
+
+  - id: b2-51-044
+    type: transform
+    point: expressions-context
+    lesson: 4
+    instruction: "Passa la frase al passat perifràstic."
+    source: "Ahir la meva mare [[es posa]] les mans al cap amb els preus del mercat."
+    answers:
+      - "Ahir la meva mare es va posar les mans al cap amb els preus del mercat."
+      - "Ahir la meva mare va posar-se les mans al cap amb els preus del mercat."
+    wrong_answers:
+      - text: "Ahir la meva mare es posa les mans al cap amb els preus del mercat."
+        why: "«Ahir» demana passat: *es va posar*."
+    grading: tolerant
+    explanation: "«Ahir» demana el passat perifràstic: *es va posar*. La resta de la frase feta no canvia."
+
+  - id: b2-51-045
+    type: transform
+    point: compte-frases-calcades
+    lesson: 4
+    instruction: "Corregeix el calc del castellà."
+    source: "Em [[dona ràbia]] que sempre paguem nosaltres el sopar."
+    answers: ["Em fa ràbia que sempre paguem nosaltres el sopar."]
+    wrong_answers:
+      - text: "Em dona ràbia que sempre paguem nosaltres el sopar."
+        why: "«Donar ràbia» és un calc de «dar rabia». En català: *fer ràbia*."
+    grading: tolerant
+    explanation: "Amb les emocions, el verb és *fer*: *em fa ràbia*. «Donar ràbia» és un calc de «dar rabia»."
+
+  - id: b2-51-046
+    type: fill
+    point: enuig
+    lesson: 4
+    prompt: "El lladruc del gos ___: fa tres nits que no dormo."
+    hint: "treure de polleguera, present"
+    answers: ["em treu de polleguera"]
+    grading: tolerant
+    explanation: "«Fa tres nits que no dormo» mostra qui pateix: *em treu de polleguera*, em fa perdre la calma."
+
+  - id: b2-51-047
+    type: fill
+    point: caracter
+    lesson: 4
+    prompt: "Amb tres fills i una hipoteca, els veïns ___ per arribar a final de mes."
+    hint: "fer la viu-viu, present"
+    answers: ["fan la viu-viu"]
+    grading: tolerant
+    explanation: "Arribar a final de mes amb dificultats és anar tirant: *fan la viu-viu*."
+
+  - id: b2-51-048
+    type: fill
+    point: expressions-context
+    lesson: 4
+    prompt: "Ahir van apujar el lloguer i totes ___ quan ho vam saber."
+    hint: "posar-se les mans al cap, passat perifràstic"
+    answers: ["ens vam posar les mans al cap", "vam posar-nos les mans al cap"]
+    wrong_answers:
+      - text: "es van posar les mans al cap"
+        why: "«Ho vam saber» és primera persona: *ens vam posar*."
+    grading: tolerant
+    explanation: "«Ho vam saber» marca la primera persona del plural: *ens vam posar les mans al cap*."
+
+  - id: b2-51-049
+    type: fill
+    point: compte-frases-calcades
+    lesson: 4
+    prompt: "El professor va veure que copiaven i, en aquell moment, ___: era l'últim dia de curs."
+    hint: "expressió: fer veure que no es veu una falta"
+    answers: ["va fer els ulls grossos"]
+    wrong_answers:
+      - text: "va fer la vista grossa"
+        why: "«Fer la vista grossa» és un calc de «hacer la vista gorda». En català: *fer els ulls grossos*."
+      - text: "es va fer el suec"
+        why: "*Fer-se el suec* és fer veure que no se sent res. Per a una falta que es veu, *fer els ulls grossos*."
+    grading: tolerant
+    explanation: "Fer veure que no es veu una falta és *fer els ulls grossos*."
+
+  - id: b2-51-050
+    type: order
+    point: enuig
+    lesson: 4
+    cue: "Digues que la Laia no pot més amb les trucades del banc."
+    chunks: ["La Laia", "està", "fins al capdamunt", "de les trucades", "del banc"]
+    extra: ["farta"]
+    answers:
+      - "La Laia està fins al capdamunt de les trucades del banc."
+    explanation: "«No poder més» és *estar fins al capdamunt de*: el motiu va amb *de*."
+
+  - id: b2-51-051
+    type: order
+    point: caracter
+    lesson: 4
+    cue: "Digues que en Pau, tossut com sempre, fingeix no entendre el que li diuen."
+    chunks: ["En Pau", "es fa", "el suec", "quan", "no entén", "una ordre"]
+    extra: ["fa"]
+    answers:
+      - "En Pau es fa el suec quan no entén una ordre."
+      - "Quan no entén una ordre, en Pau es fa el suec."
+      - "En Pau, quan no entén una ordre, es fa el suec."
+    explanation: "*Fer-se el suec* demana el pronom: *es fa*. Fingir que no entén és fer veure que no ho sent."
+
+  - id: b2-51-052
+    type: order
+    point: compte-frases-calcades
+    lesson: 4
+    cue: "Digues a en Pau que no se'n rigui, de tu."
+    chunks: ["No", "em prenguis", "el pèl", "Pau"]
+    extra: ["tomis"]
+    answers:
+      - "No em prenguis el pèl, Pau."
+      - "Pau, no em prenguis el pèl."
+    explanation: "Riure's d'algú fent-li creure una mentida és *prendre el pèl*. El verb és *prendre*, no *tomar*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-51-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un sopar familiar mogut"
+    text: |
+      Divendres passat, la Núria va anar a sopar a casa dels pares, a Vic, per celebrar els vuitanta anys de l'àvia. Hi havia tothom: els pares, els dos germans amb les parelles i els tres nebots, que no van parar quiets en tota la nit.
+
+      La Núria va arribar cansada de la feina i tenia la mosca al nas. El seu germà petit, en Quim, mort de gelosia pel seu nou tallat de cabells, va començar a prendre-li el pèl. La Núria, que ja estava de mal humor, li va dir que parés. Però en Quim va continuar fins que la mare el va renyar: «Que no veus que la treus de polleguera?», li va dir.
+
+      Durant el sopar, el germà gran, en Pau, va explicar que vol deixar la feina de l'oficina per obrir una granja d'ocells exòtics. Tothom es va posar les mans al cap, menys l'àvia, que va dir que de jove ella també havia fet la viu-viu amb feines estranyes. «I mira'm ara», va afegir rient.
+
+      Després de les postres, en Quim va explicar als nebots on amagava l'àvia els caramels. La Núria es va enfadar molt: «Ets un bocamoll! No saps guardar cap secret!». En Quim es va fer el suec i va continuar jugant amb el mòbil com si no sentís res.
+
+      Al final, la mare va haver d'aixecar la veu perquè tothom ajudés a desparar taula. «Estic fins al capdamunt de cridar!», va dir. L'àvia, amb la seva sang freda habitual, s'ho mirava tot tranquil·la i va somriure amb alegria: «Això és una família», va dir.
+    questions:
+      - prompt: "Per què va anar la Núria a casa dels pares?"
+        answer: "Per celebrar els vuitanta anys de l'àvia."
+        distractors:
+          - text: "Per ajudar la mare a cuidar els nebots."
+            why: "Els nebots hi eren, però el motiu era l'aniversari."
+          - text: "Per explicar que vol canviar de feina."
+            why: "Qui vol canviar de feina és en Pau, el germà gran."
+      - prompt: "Què va fer en Quim que va molestar la Núria al principi?"
+        answer: "Es va riure del seu nou tallat de cabells."
+        distractors:
+          - text: "Va explicar als nebots on eren els caramels."
+            why: "Això va passar després de les postres."
+          - text: "Va dir que volia obrir una granja."
+            why: "Això ho va dir en Pau, el germà gran."
+      - prompt: "Com va reaccionar la família davant del pla d'en Pau?"
+        answer: "Amb sorpresa, menys l'àvia, que ho va trobar normal."
+        distractors:
+          - text: "Amb ràbia: tots van dir que era una bestiesa."
+            why: "Es van sorprendre, no es van enfadar."
+          - text: "Amb indiferència: ningú no hi va dir res."
+            why: "Tothom es va posar les mans al cap, menys l'àvia."
+      - prompt: "Què va passar després de les postres?"
+        answer: "En Quim va explicar on eren els caramels i la Núria es va enfadar."
+        distractors:
+          - text: "La mare va dir que estava farta de cridar."
+            why: "Això va passar al final, desparant taula."
+          - text: "L'àvia va explicar com havia fet la viu-viu de jove."
+            why: "L'àvia ho va dir durant el sopar, parlant del pla d'en Pau."
+    explanation: "El text explica un sopar d'aniversari amb bromes, un pla sorprenent i una indiscreció d'en Quim."
+
+  - id: b2-51-054
+    type: match
+    point: compte-frases-calcades
+    lesson: 5
+    instruction: "Relaciona cada calc amb la forma correcta."
+    pairs:
+      - ["tomar el pèl", "prendre el pèl"]
+      - ["donar por", "fer por"]
+      - ["tenir la raó", "tenir raó"]
+      - ["donar igual", "és igual"]
+      - ["fer la vista grossa", "fer els ulls grossos"]
+    explanation: "Tots cinc són calcs del castellà: en català diem *prendre el pèl, fer por, tenir raó, és igual* i *fer els ulls grossos*."
+
+  - id: b2-51-055
+    type: choice
+    point: enuig
+    lesson: 5
+    prompt: "—Com arriba en Pau a la feina? —El trànsit ___: arriba de mal humor."
+    answer: "el treu de polleguera"
+    distractors:
+      - text: "li pren el pèl"
+        why: "El trànsit no riu de ningú: fa perdre la calma."
+      - text: "es fa el suec"
+        why: "El trànsit no fingeix res: el problema és que fa enfadar en Pau."
+    explanation: "«Arriba de mal humor» mostra l'efecte del trànsit: *el treu de polleguera*, li fa perdre la calma."
+
+  - id: b2-51-056
+    type: choice
+    point: caracter
+    lesson: 5
+    prompt: "Si vols que t'ajudi a mudar-te, truca-li moltes vegades: ___ quan li demanen ajuda."
+    answer: "es fa el suec"
+    distractors:
+      - text: "fa la viu-viu"
+        why: "No parla de sobreviure: parla de fingir que no sent res."
+      - text: "està fins al capdamunt"
+        why: "No diu que n'estigui fart: el problema és que fingeix no sentir res."
+    explanation: "«Truca-li moltes vegades» avisa que fingeix no sentir res: *es fa el suec*."
+
+  - id: b2-51-057
+    type: choice
+    point: expressions-context
+    lesson: 5
+    prompt: "Demà tenim la inspecció: el cap ___ quan vegi el magatzem."
+    answer: "es posarà les mans al cap"
+    distractors:
+      - text: "es posa les mans al cap"
+        why: "«Demà» i «quan vegi» demanen futur: *es posarà*."
+      - text: "posarà les mans al cap"
+        why: "Falta el pronom: l'expressió és *posar-se* les mans al cap."
+    explanation: "«Demà» demana futur i *posar-se* demana el pronom: *es posarà les mans al cap*."
+
+  - id: b2-51-058
+    type: choice
+    point: compte-frases-calcades
+    lesson: 5
+    prompt: "La Laia sap que el seu fill fuma, però ___: no vol discutir-hi cada dia."
+    answer: "fa els ulls grossos"
+    distractors:
+      - text: "fa la vista grossa"
+        why: "*Fer la vista grossa* és un calc de «hacer la vista gorda». En català: *fer els ulls grossos*."
+      - text: "té la mosca al nas"
+        why: "El mal humor no hi fa res: fingeix no veure-ho per no discutir."
+    explanation: "Fingir que no es veu una falta per evitar un conflicte és *fer els ulls grossos*."
+
+  - id: b2-51-059
+    type: fill
+    point: enuig
+    lesson: 5
+    prompt: "—Què li passa a la Montse? —Res, que ___ des que s'ha llevat."
+    hint: "tenir la mosca al nas, present"
+    answers: ["té la mosca al nas"]
+    grading: tolerant
+    explanation: "«Res» i «des que s'ha llevat» descriuen un mal humor general: *té la mosca al nas*."
+
+  - id: b2-51-060
+    type: fill
+    point: caracter
+    lesson: 5
+    prompt: "Vigila amb el que dius davant de l'Arnau, que és molt xerraire: ___ i demà ho sabrà tothom."
+    hint: "SER + expressió: persona que no sap guardar un secret"
+    answers: ["és un bocamoll"]
+    grading: tolerant
+    explanation: "«Demà ho sabrà tothom» avisa que no és gens discret: *és un bocamoll*."
+
+  - id: b2-51-061
+    type: fill
+    point: expressions-context
+    lesson: 5
+    prompt: "Quan vam veure l'informe, tots ___."
+    hint: "posar-se les mans al cap, passat perifràstic"
+    answers: ["ens vam posar les mans al cap", "vam posar-nos les mans al cap"]
+    grading: tolerant
+    explanation: "«Vam veure» marca passat i primera persona: *ens vam posar les mans al cap*, *vam posar-nos les mans al cap*."
+
+  - id: b2-51-062
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 5
+    sentence: "Als nens els dona ràbia perdre i ploren."
+    error: "dona ràbia"
+    fix: "fa ràbia"
+    fix_distractors:
+      - text: "fa la ràbia"
+        why: "L'expressió no porta article: *fa ràbia*."
+      - text: "fan ràbia"
+        why: "El subjecte és «perdre», en singular: *els fa ràbia*."
+    explanation: "Amb les emocions, el verb és *fer*: *els fa ràbia*. «Donar ràbia» és un calc de «dar rabia»."
+
+  - id: b2-51-063
+    type: find-error
+    point: compte-frases-calcades
+    lesson: 5
+    sentence: "No em prenguis el pèl: et juro que he vist un senglar al jardí!"
+    no_error: true
+    explanation: "La frase és correcta: el verb de l'expressió és *prendre*, no *tomar*."
+
+  - id: b2-51-064
+    type: inline-choice
+    point: enuig
+    lesson: 5
+    title: "Reunió de veïns"
+    text: "Ahir hi va haver reunió d'escala i la cosa es va escalfar. El soroll del bar {treu de polleguera|treu de la polleguera} mig veïnat, i un veí del tercer {treia foc pels queixals|es feia el suec} perquè li havien ratllat el cotxe. La presidenta, que ja {tenia la mosca al nas|estava de molt bon humor} des del matí, va dir que està fins al {capdamunt|capdavall} de les queixes."
+    explanation: "El soroll *treu de polleguera* el veïnat, sense article; el veí *treia foc pels queixals* pel cotxe ratllat; la presidenta *tenia la mosca al nas*; i està *fins al capdamunt* de les queixes."
+
+  - id: b2-51-065
+    type: order
+    point: caracter
+    lesson: 5
+    cue: "Digues que els veïns van tirant per arribar a final de mes."
+    chunks: ["Els veïns", "fan", "la viu-viu", "per arribar", "a final de mes"]
+    extra: ["el suec"]
+    answers:
+      - "Els veïns fan la viu-viu per arribar a final de mes."
+      - "Per arribar a final de mes, els veïns fan la viu-viu."
+      - "Els veïns, per arribar a final de mes, fan la viu-viu."
+    explanation: "Anar tirant amb dificultats és *fer la viu-viu*. El bloc *per arribar a final de mes* pot anar al davant."
+

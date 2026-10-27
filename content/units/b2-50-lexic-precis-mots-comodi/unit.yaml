@@ -1,0 +1,1021 @@
+id: b2-50
+level: B2
+title: "Lèxic precís: verbs i mots comodí"
+summary: "Els verbs precisos que substitueixen «fer», «posar», «donar» i «tenir», els noms precisos que substitueixen «cosa» i «això», i els calcs lèxics que cal evitar, en el context de l'habitatge i les reformes."
+vocabulary_theme: "Habitatge, obres i reformes"
+points:
+  - id: verbs-fer
+    title: "Més enllà de *fer*"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+  - id: verbs-posar-donar
+    title: "Més enllà de *posar*, *donar* i *tenir*"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+  - id: noms-precisos
+    title: "Més enllà de *cosa* i *això*"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+  - id: compte-calcs
+    title: "Compte amb el castellà: calcs lèxics"
+    refs:
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions amb *fer* i *posar*"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: el verb precís"
+  - title: "Practicar el verb precís"
+  - title: "El nom precís i els calcs"
+  - title: "Produir: reescriure amb precisió"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el paleta"
+    definition: "Persona que construeix o reforma parets i altres parts d'un edifici."
+    example: "El paleta vindrà dilluns a aixecar la paret."
+  - word: "el manobre"
+    definition: "Ajudant del paleta en una obra."
+    example: "El manobre prepara el ciment i porta els maons."
+  - word: "el fuster, la fustera"
+    definition: "Persona que fa i col·loca mobles i peces de fusta."
+    example: "La fustera ens ha muntat un armari a mida."
+  - word: "el lampista"
+    definition: "Persona que instal·la i arregla canonades i aixetes."
+    example: "El lampista ha canviat l'aixeta de la cuina."
+  - word: "l'electricista"
+    definition: "Persona que instal·la i arregla la instal·lació elèctrica."
+    example: "L'electricista ha afegit tres endolls nous al despatx."
+  - word: "el pintor, la pintora"
+    definition: "Persona que pinta parets i sostres."
+    example: "La pintora pintarà el menjador de color crema."
+  - word: "l'obra"
+    definition: "Feina de construir o reformar un edifici."
+    example: "L'obra del bany durarà tres setmanes."
+  - word: "la reforma"
+    definition: "Obra que canvia o millora un habitatge."
+    example: "La reforma de la cuina ha costat nou mil euros."
+  - word: "el permís d'obres"
+    definition: "Autorització de l'ajuntament per fer una obra."
+    example: "Sense el permís d'obres no podem començar."
+  - word: "el pressupost"
+    definition: "Càlcul dels diners que costarà una feina."
+    example: "Hem demanat tres pressupostos a tres empreses."
+  - word: "la bastida"
+    definition: "Estructura de tubs i taulons per treballar en una façana."
+    example: "Han muntat una bastida per pintar la façana."
+  - word: "el guix"
+    definition: "Material blanc per allisar parets i sostres."
+    example: "El paleta ha tapat l'esquerda amb guix."
+  - word: "el ciment"
+    definition: "Material gris que, barrejat amb aigua, uneix maons i rajoles."
+    example: "El manobre està barrejant el ciment."
+  - word: "el maó"
+    definition: "Peça de terra cuita per construir parets."
+    example: "Falten maons per acabar la paret del jardí."
+  - word: "la rajola"
+    definition: "Peça quadrada de ceràmica per cobrir terres i parets."
+    example: "Hem triat una rajola clara per al bany."
+  - word: "el parquet"
+    definition: "Terra de làmines de fusta."
+    example: "El parquet del menjador és de roure."
+  - word: "l'aixeta"
+    definition: "Aparell que obre i tanca el pas de l'aigua."
+    example: "L'aixeta del lavabo degota."
+  - word: "el desguàs"
+    definition: "Forat i tub per on marxa l'aigua bruta."
+    example: "El desguàs de la dutxa s'ha embussat."
+  - word: "l'endoll"
+    definition: "Peça de la paret on es connecten els aparells elèctrics."
+    example: "Darrere del sofà hi ha dos endolls."
+  - word: "l'interruptor"
+    definition: "Aparell per encendre i apagar el llum."
+    example: "L'interruptor de l'entrada no funciona."
+  - word: "la caldera"
+    definition: "Aparell que escalfa l'aigua de la casa."
+    example: "Hem engegat la caldera perquè ja fa fred."
+  - word: "el radiador"
+    definition: "Aparell que reparteix la calor de la calefacció."
+    example: "El radiador del dormitori no s'escalfa."
+  - word: "la humitat"
+    definition: "Aigua que entra en una paret o en un sostre."
+    example: "Hi ha una taca d'humitat al sostre."
+  - word: "la gotera"
+    definition: "Forat petit del terrat per on entra la pluja."
+    example: "Amb la tempesta ha sortit una gotera al replà."
+  - word: "l'esquerda"
+    definition: "Obertura llarga i estreta en una paret."
+    example: "El terratrèmol va obrir una esquerda a la façana."
+  - word: "el plànol"
+    definition: "Dibuix tècnic d'un habitatge o d'una obra."
+    example: "En el plànol, la cuina fa dotze metres quadrats."
+  - word: "el trepant"
+    definition: "Eina elèctrica per fer forats."
+    example: "Passa'm el trepant per penjar el quadre."
+  - word: "el terrat"
+    definition: "Part plana de dalt d'un edifici."
+    example: "Tenim una taula i quatre cadires al terrat."
+  - word: "el replà"
+    definition: "Espai de l'escala davant de cada pis."
+    example: "Hem deixat la bicicleta al replà."
+  - word: "la persiana"
+    definition: "Cortina de làmines que tapa la finestra."
+    example: "Apuja la persiana, que hi entri llum."
+  - word: "el pany"
+    definition: "Mecanisme de la porta que s'obre amb clau."
+    example: "El pany de l'entrada s'ha espatllat."
+  - word: "l'aïllament"
+    definition: "Material que protegeix del fred, de la calor i del soroll."
+    example: "Amb un bon aïllament gastarem menys calefacció."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-50-001
+    type: choice
+    point: verbs-fer
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    prompt: "Abans de signar el pressupost, la Laia vol ___ una pregunta al paleta."
+    answer: "formular"
+    distractors:
+      - text: "fer"
+        why: "«Fer una pregunta» no és incorrecte, però et demanem el verb més precís: *formular*."
+      - text: "posar"
+        why: "*Posar una pregunta* no es diu en català."
+    explanation: "Per a «una pregunta», el verb precís és *formular*. *Fer* és correcte, però vague."
+
+  - id: b2-50-002
+    type: choice
+    point: verbs-fer
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    prompt: "L'any passat van ___ una casa de fusta a prop de Vic."
+    answer: "construir"
+    distractors:
+      - text: "fer"
+        why: "«Fer una casa» no és incorrecte, però et demanem el verb més precís: *construir*."
+      - text: "posar"
+        why: "*Posar una casa* no es diu en català."
+    explanation: "Per a «una casa», el verb precís és *construir*. *Fer* és correcte, però vague."
+
+  - id: b2-50-003
+    type: choice
+    point: verbs-fer
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    prompt: "Si ___ un error en el plànol, l'obra pot sortir molt cara."
+    answer: "comets"
+    distractors:
+      - text: "fas"
+        why: "«Fer un error» no és incorrecte, però et demanem el verb més precís: *cometre*."
+      - text: "poses"
+        why: "*Posar un error* no es diu en català."
+    explanation: "Per a «un error», el verb precís és *cometre*: *comets*."
+
+  - id: b2-50-004
+    type: choice
+    point: verbs-posar-donar
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    prompt: "Aquest hivern ___ la caldera cada matí."
+    answer: "engeguem"
+    distractors:
+      - text: "posem"
+        why: "«Posar la caldera» s'entén, però et demanem el verb més precís: *engegar*."
+      - text: "tanquem"
+        why: "*Tancar la caldera* no vol dir «posar-la en marxa»."
+    explanation: "Per a «posar en marxa», el verb precís és *engegar*: *engeguem*."
+
+  - id: b2-50-005
+    type: choice
+    point: verbs-posar-donar
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    prompt: "Per canviar les finestres, cal que l'ajuntament us ___."
+    answer: "autoritzi"
+    distractors:
+      - text: "doni"
+        why: "*Donar* necessita dir què es dona («donar permís»). «Doni» tot sol no funciona aquí: cal *autoritzar*."
+      - text: "posi"
+        why: "*Posar*, tot sol, no té sentit aquí. El verb precís és *autoritzar*."
+    explanation: "Per a «donar permís», el verb precís és *autoritzar*: *autoritzi*."
+
+  - id: b2-50-006
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «posar fil a l'agulla»?"
+    answer: "Començar una feina, fer el primer pas."
+    distractors:
+      - text: "Deixar una feina a mitges."
+        why: "És el contrari: l'expressió vol dir començar, no abandonar."
+      - text: "Cosir un botó d'una camisa."
+        why: "Aquest és el sentit literal; l'expressió és figurada."
+    explanation: "«Posar fil a l'agulla» és començar una feina: *El mes que ve posem fil a l'agulla amb la reforma*."
+
+  - id: b2-50-007
+    type: match
+    point: verbs-fer
+    lesson: 1
+    instruction: "Relaciona cada verb amb el nom que li correspon."
+    pairs:
+      - ["formular", "una pregunta"]
+      - ["cometre", "un error"]
+      - ["pronunciar", "un discurs"]
+      - ["convocar", "una reunió"]
+    explanation: "Són combinacions fixes: *formular una pregunta*, *cometre un error*, *pronunciar un discurs*, *convocar una reunió*."
+
+  - id: b2-50-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["posar fil a l'agulla", "Dilluns truquem al paleta i comencem."]
+      - ["fer mans i mànigues", "Ho provarem tot per acabar a temps."]
+      - ["posar-hi cullerada", "El veí opina de tot sense que li demanin."]
+      - ["posar mans a l'obra", "Prou xerrameca: agafem les eines."]
+    explanation: "Cada expressió descriu una actitud davant la feina: començar, esforçar-se, ficar-s'hi o treballar de debò."
+
+  - id: b2-50-009
+    type: inline-choice
+    point: verbs-fer
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    title: "Un correu al paleta"
+    text: "Benvolgut Pau: et {formulo|faig|poso} una pregunta sobre el pressupost. Si {cometem|fem|posem} un error en el plànol, quant costa arreglar-lo? També voldria {convocar|fer|posar} una reunió amb tu i la fustera. Gràcies, Núria."
+    explanation: "Els verbs precisos són *formular una pregunta*, *cometre un error* i *convocar una reunió*. *Fer* no és incorrecte, però és vague; *posar* no hi funciona."
+
+  - id: b2-50-010
+    type: fill
+    point: verbs-posar-donar
+    lesson: 1
+    prompt: "—I la taula? —L'Ibrahim ja l'ha ___."
+    hint: "verb precís per a «posar la taula»: PARAR"
+    answers: ["parada"]
+    wrong_answers:
+      - text: "parat"
+        why: "«La taula» és femení: *l'ha parada*."
+      - text: "parado"
+        why: "En català, el participi de *parar* és *parat* (*parada* en femení), no «parado»."
+    grading: tolerant
+    explanation: "«La taula» és femení: *l'ha parada*. El verb precís per a «posar la taula» és *parar*."
+
+  - id: b2-50-011
+    type: fill
+    point: verbs-fer
+    lesson: 1
+    prompt: "El paleta ___ la paret del jardí en dos dies."
+    hint: "verb precís per a «fer una paret»: AIXECAR, passat perifràstic"
+    answers: ["va aixecar"]
+    wrong_answers:
+      - text: "va aixecat"
+        why: "Després de *va* cal l'infinitiu: *va aixecar*."
+    grading: tolerant
+    explanation: "El verb precís és *aixecar*: *va aixecar la paret*. *Fer una paret* és vague."
+
+  - id: b2-50-012
+    type: order
+    point: verbs-posar-donar
+    lesson: 1
+    cue: "Digues que cal engegar la caldera perquè ja fa fred."
+    chunks: ["Cal", "engegar", "la caldera:", "ja", "fa", "fred"]
+    extra: ["engegant"]
+    answers:
+      - "Cal engegar la caldera: ja fa fred."
+    explanation: "Després de *cal* va l'infinitiu: *cal engegar*. *Engegar* és el verb precís per a «posar en marxa»."
+
+  - id: b2-50-013
+    type: choice
+    point: verbs-posar-donar
+    lesson: 1
+    instruction: "Tria el verb més precís."
+    prompt: "En Jordi ha de ___ el quadre nou al menjador."
+    answer: "penjar"
+    distractors:
+      - text: "posar"
+        why: "«Posar el quadre» s'entén, però et demanem el verb més precís: *penjar*."
+      - text: "pujar"
+        why: "*Pujar* és anar amunt; per a «un quadre», el verb és *penjar*."
+    explanation: "Per a «un quadre», el verb precís és *penjar*."
+  # ---------- Lliçó 2 ----------
+  - id: b2-50-014
+    type: fill
+    point: verbs-fer
+    lesson: 2
+    prompt: "Voldria ___ una pregunta sobre la humitat del sostre."
+    hint: "FORMULAR"
+    answers: ["formular"]
+    wrong_answers:
+      - text: "formule"
+        why: "Amb *voldria* va l'infinitiu, no el subjuntiu: *formular*."
+    grading: tolerant
+    explanation: "Després de *voldria* va l'infinitiu: *formular*. És el verb precís per a «fer una pregunta»."
+
+  - id: b2-50-015
+    type: fill
+    point: verbs-fer
+    lesson: 2
+    prompt: "L'arquitecta ___ un discurs breu a la inauguració."
+    hint: "PRONUNCIAR, passat perifràstic"
+    answers: ["va pronunciar"]
+    wrong_answers:
+      - text: "va pronunciat"
+        why: "Després de *va* cal l'infinitiu: *va pronunciar*."
+    grading: tolerant
+    explanation: "El verb precís per a «fer un discurs» és *pronunciar*: *va pronunciar un discurs*."
+
+  - id: b2-50-016
+    type: fill
+    point: verbs-fer
+    lesson: 2
+    prompt: "Si vols penjar els prestatges, hauràs de ___ la paret."
+    hint: "verb precís per a «fer un forat»: FORADAR"
+    answers: ["foradar"]
+    wrong_answers:
+      - text: "foradat"
+        why: "Després de *hauràs de* cal l'infinitiu: *foradar*."
+    grading: tolerant
+    explanation: "*Foradar* vol dir «fer un forat»: *hauràs de foradar la paret*."
+
+  - id: b2-50-017
+    type: fill
+    point: verbs-posar-donar
+    lesson: 2
+    prompt: "La Núria vol ___ la seva opinió sobre el plànol."
+    hint: "verb precís per a «donar la seva opinió»: OPINAR"
+    answers: ["opinar"]
+    wrong_answers:
+      - text: "opinió"
+        why: "Aquí cal el verb *opinar*, no el nom *opinió*."
+    grading: tolerant
+    explanation: "El verb precís per a «donar la seva opinió» és *opinar*."
+
+  - id: b2-50-018
+    type: fill
+    point: verbs-posar-donar
+    lesson: 2
+    prompt: "Ens ___ dimarts per triar la rajola del bany."
+    hint: "verb precís per a «tenir una reunió»: REUNIR-SE, present"
+    answers: ["reunim"]
+    wrong_answers:
+      - text: "reunem"
+        why: "El verb és pronominal i amb «nosaltres» fa *reunim*: *ens reunim*."
+      - text: "reuneixem"
+        why: "Amb «nosaltres», *reunir* no porta l'increment *-eix-*: *reunim*."
+    grading: tolerant
+    explanation: "El verb precís per a «tenir una reunió» és *reunir-se*: *ens reunim dimarts*."
+
+  - id: b2-50-019
+    type: order
+    point: verbs-fer
+    lesson: 2
+    cue: "Digues que organitzareu una festa quan acabi l'obra."
+    chunks: ["Quan", "acabi", "l'obra,", "organitzarem", "una", "festa"]
+    extra: ["organitzant"]
+    answers:
+      - "Quan acabi l'obra, organitzarem una festa."
+      - "Organitzarem una festa quan acabi l'obra."
+    explanation: "El verb precís per a «fer una festa» és *organitzar*: *organitzarem una festa*."
+
+  - id: b2-50-020
+    type: order
+    point: verbs-posar-donar
+    lesson: 2
+    cue: "Digues a l'Ibrahim que t'ajudi a moure el sofà."
+    chunks: ["Ibrahim,", "m'ajudes", "a", "moure", "el", "sofà?"]
+    extra: ["m'ajudar"]
+    answers:
+      - "Ibrahim, m'ajudes a moure el sofà?"
+      - "M'ajudes a moure el sofà, Ibrahim?"
+    explanation: "El verb precís per a «donar un cop de mà» és *ajudar*: *m'ajudes a moure el sofà?*"
+
+  - id: b2-50-021
+    type: choice
+    point: verbs-fer
+    lesson: 2
+    instruction: "Tria el verb més precís."
+    prompt: "L'empresa vol ___ el bany i la cuina aquest estiu."
+    answer: "reformar"
+    distractors:
+      - text: "fer"
+        why: "«Fer el bany» s'entén, però et demanem el verb més precís: *reformar*."
+      - text: "desfer"
+        why: "*Desfer el bany* vol dir destruir-lo, no millorar-lo."
+    explanation: "Canviar i millorar un espai és *reformar*: *reformar el bany*."
+
+  - id: b2-50-022
+    type: choice
+    point: verbs-posar-donar
+    lesson: 2
+    instruction: "Tria el verb més precís."
+    prompt: "L'electricista ___ l'aire condicionat del despatx aquesta setmana."
+    answer: "instal·larà"
+    distractors:
+      - text: "posarà"
+        why: "«Posar l'aire condicionat» s'entén, però et demanem el verb més precís: *instal·lar*."
+      - text: "tancarà"
+        why: "*Tancar* és el contrari d'obrir; aquí cal *instal·lar*."
+    explanation: "Per a «un aparell», el verb precís és *instal·lar*: *instal·larà*."
+
+  - id: b2-50-023
+    type: choice
+    point: verbs-posar-donar
+    lesson: 2
+    instruction: "Tria el verb més precís."
+    prompt: "No ___ gens del pressupost: és clar i detallat."
+    answer: "dubto"
+    distractors:
+      - text: "tinc"
+        why: "*Tenir* necessita un nom («tenir dubtes»). «Tinc» tot sol no funciona aquí: cal *dubtar*."
+      - text: "poso"
+        why: "*Posar* no hi té cap sentit. El verb precís és *dubtar*."
+    explanation: "El verb precís per a «tenir dubtes» és *dubtar*: *no dubto gens*."
+
+  - id: b2-50-024
+    type: inline-choice
+    point: verbs-posar-donar
+    lesson: 2
+    instruction: "Tria el verb més precís."
+    title: "Nota de la Montse"
+    text: "Hola, Carla: demà ve el fuster a {instal·lar|posar|tancar} l'armari. {Ajuda'l|Dona-li un cop de mà|Posa-li un cop de mà} a pujar-lo, que pesa molt. Jo {endreçaré|posaré en ordre|trencaré} el despatx abans que arribi. Montse."
+    explanation: "Els verbs precisos són *instal·lar*, *ajudar* i *endreçar*. *Posar* i *donar un cop de mà* s'entenen, però són vagues; *posar un cop de mà* no es diu."
+
+  - id: b2-50-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "L'obra s'ha de lliurar divendres: cal ___."
+    answer: "posar mans a l'obra"
+    distractors:
+      - text: "posar-hi cullerada"
+        why: "*Posar-hi cullerada* és ficar-se on no el demanen; aquí cal treballar: *posar mans a l'obra*."
+      - text: "deixar-ho córrer"
+        why: "*Deixar-ho córrer* vol dir abandonar-ho, just el contrari del que cal fer."
+    explanation: "Amb un termini proper cal treballar de debò: *posar mans a l'obra*."
+
+  - id: b2-50-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "El veí del tercer sempre ha de ___, encara que ningú li demani res."
+    answer: "posar-hi cullerada"
+    distractors:
+      - text: "posar fil a l'agulla"
+        why: "*Posar fil a l'agulla* vol dir començar una feina; aquí el veí opina sense que li demanin."
+      - text: "fer mans i mànigues"
+        why: "*Fer mans i mànigues* és fer tot el possible; aquí el veí es fica on no el demanen."
+    explanation: "Opinar sense que li demanin és *posar-hi cullerada*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-50-027
+    type: choice
+    point: noms-precisos
+    lesson: 3
+    instruction: "Tria el mot més precís."
+    prompt: "Hi ha un ___ del pressupost que no entenc."
+    answer: "detall"
+    distractors:
+      - text: "cosa"
+        why: "«Cosa» no és incorrecte, però et demanem el mot més precís: *detall*."
+      - text: "ferro"
+        why: "*El ferro* és un material; aquí parlem d'una part del pressupost: *detall*."
+    explanation: "Una part concreta d'un tema és un *detall*. *Cosa* és vague."
+
+  - id: b2-50-028
+    type: choice
+    point: noms-precisos
+    lesson: 3
+    instruction: "Tria el mot més precís."
+    prompt: "Passa'm el ___ per foradar la paret."
+    answer: "trepant"
+    distractors:
+      - text: "cosa"
+        why: "«Cosa» no és incorrecte, però et demanem el mot més precís: *trepant*."
+      - text: "guix"
+        why: "*El guix* és per allisar, no per foradar. L'eina per foradar és el *trepant*."
+    explanation: "L'eina per foradar és el *trepant*. *Cosa* no diu de quin objecte parlem."
+
+  - id: b2-50-029
+    type: choice
+    point: noms-precisos
+    lesson: 3
+    instruction: "Tria el mot més precís."
+    prompt: "___ és urgent: hem de decidir avui si canviem la caldera."
+    answer: "Aquest assumpte"
+    distractors:
+      - text: "Aquesta cosa"
+        why: "«Aquesta cosa» no és incorrecte, però et demanem el mot més precís: *assumpte*."
+      - text: "Aquest moble"
+        why: "*Un moble* és una taula o un armari; aquí parlem d'un tema urgent: un *assumpte*."
+    explanation: "Un tema que cal resoldre és un *assumpte* (masculí): *aquest assumpte*."
+
+  - id: b2-50-030
+    type: fill
+    point: noms-precisos
+    lesson: 3
+    prompt: "Els ___ de la cuina són a les caixes del replà."
+    hint: "mot precís per a «coses»: ESTRIS"
+    answers: ["estris"]
+    wrong_answers:
+      - text: "estri"
+        why: "El verb és en plural (*són*): *estris*."
+    grading: tolerant
+    explanation: "Els objectes per cuinar són els *estris* (masculí). *Coses* no diu res."
+
+  - id: b2-50-031
+    type: fill
+    point: noms-precisos
+    lesson: 3
+    prompt: "La pintura fa molta pudor. Obre la finestra, que ___ és insuportable."
+    hint: "repeteix el nom en lloc de «això»: PINTURA"
+    answers: ["la pintura"]
+    wrong_answers:
+      - text: "les pintures"
+        why: "Parlem de «la pintura» del pis, en singular: *la pintura*."
+    grading: tolerant
+    explanation: "Si repeteixes el nom (*la pintura*), queda clar de què parles. *Això* és vague."
+
+  - id: b2-50-032
+    type: order
+    point: noms-precisos
+    lesson: 3
+    cue: "Digues que un aspecte del plànol no et convenç."
+    chunks: ["Hi ha", "un", "aspecte", "del", "plànol", "que", "no", "em", "convenç"]
+    extra: ["això"]
+    answers:
+      - "Hi ha un aspecte del plànol que no em convenç."
+    explanation: "Una part d'un tema és un *aspecte*. *Cosa* i *això* són massa vagues."
+
+  - id: b2-50-033
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "Aquesta esquerda no té que veure amb la humitat."
+    error: "té que veure"
+    fix: "té a veure"
+    fix_distractors:
+      - text: "té què veure"
+        why: "*Què* amb accent és interrogatiu o exclamat; aquí cal la preposició *a*: *té a veure*."
+      - text: "ha a veure"
+        why: "El verb és *tenir*: *té a veure*."
+    explanation: "«Tenir que veure» és un calc del castellà «tener que ver». En català: *tenir a veure*."
+
+  - id: b2-50-034
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "Dona't pressa, que el fuster vindrà d'aquí a deu minuts!"
+    error: "Dona't pressa"
+    fix: "Afanya't"
+    fix_distractors:
+      - text: "Dona pressa"
+        why: "*Dona pressa*, sense dir a qui, no funciona aquí. El verb és *afanyar-se*: *afanya't*."
+      - text: "Afanyat"
+        why: "L'imperatiu amb pronom porta apòstrof: *afanya't*."
+    explanation: "«Donar-se pressa» és un calc de «darse prisa». En català: *afanyar-se*."
+
+  - id: b2-50-035
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "El pintor va fer cas omís de les instruccions."
+    error: "va fer cas omís"
+    fix: "no va fer cas"
+    fix_distractors:
+      - text: "va fer cas omis"
+        why: "Sense accent continua sent el calc «hacer caso omiso». En català: *no fer cas*."
+      - text: "va tenir cas omís"
+        why: "El calc és «hacer caso omiso» sencer; canviar el verb no l'arregla: *no va fer cas*."
+    explanation: "«Fer cas omís» és un calc de «hacer caso omiso». En català: *no fer cas*."
+
+  - id: b2-50-036
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "El president de l'escala sempre posa pegues a tot."
+    error: "posa pegues"
+    fix: "posa inconvenients"
+    fix_distractors:
+      - text: "posa pega"
+        why: "El problema no és el singular: «posar pegues» és un calc de «poner pegas», en singular i en plural."
+      - text: "fa moltes pegues"
+        why: "Canviar *posar* per *fer* no arregla el calc, ni en plural ni amb quantitat: *posar inconvenients*."
+    explanation: "«Posar pegues» és un calc de «poner pegas». En català: *posar inconvenients*."
+
+  - id: b2-50-037
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "Aquest parquet té molt bona pinta."
+    error: "té molt bona pinta"
+    fix: "fa molt bona pinta"
+    fix_distractors:
+      - text: "dona molt bona pinta"
+        why: "*Donar bona pinta* tampoc es diu; la construcció és amb *fer*: *fa molt bona pinta*."
+      - text: "està de molt bona pinta"
+        why: "*Estar de bona pinta* no existeix. Es diu *fer bona pinta*."
+    explanation: "«Tenir bona pinta» és un calc de «tener buena pinta». En català: *fer bona pinta*."
+
+  - id: b2-50-038
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "La reunió de veïns tindrà lloc dimarts a les vuit."
+    no_error: true
+    explanation: "La frase és correcta: *tenir lloc* («celebrar-se») està admès en català, encara que s'assembli al castellà «tener lugar»."
+
+  - id: b2-50-039
+    type: find-error
+    point: compte-calcs
+    lesson: 3
+    sentence: "L'aprenent va fer novillos dilluns i dimarts."
+    error: "va fer novillos"
+    fix: "va fer campana"
+    fix_distractors:
+      - text: "va tenir novillos"
+        why: "El calc és «hacer novillos» sencer; no es refà canviant el verb: *fer campana*."
+      - text: "va fer campanes"
+        why: "L'expressió és en singular: *fer campana*."
+    explanation: "«Fer novillos» és un calc de «hacer novillos». En català: *fer campana*."
+  # ---------- Lliçó 4 ----------
+  - id: b2-50-040
+    type: transform
+    point: verbs-fer
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb *formular*."
+    source: "Vull [[fer una pregunta]] al lampista sobre el desguàs."
+    answers: ["Vull formular una pregunta al lampista sobre el desguàs."]
+    wrong_answers:
+      - text: "Vull formulant una pregunta al lampista sobre el desguàs."
+        why: "Després de *vull* cal l'infinitiu: *formular*."
+    grading: tolerant
+    explanation: "El verb precís per a «fer una pregunta» és *formular*."
+
+  - id: b2-50-041
+    type: transform
+    point: verbs-fer
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb *cometre*."
+    source: "Si [[fas un error]] en el plànol, avisa l'arquitecta."
+    answers: ["Si comets un error en el plànol, avisa l'arquitecta."]
+    wrong_answers:
+      - text: "Si cometis un error en el plànol, avisa l'arquitecta."
+        why: "Després de *si* condicional, en present d'indicatiu: *comets*. *Cometis* és subjuntiu."
+    grading: tolerant
+    explanation: "*Cometre un error* és la forma precisa. El *si* condicional va amb indicatiu."
+
+  - id: b2-50-042
+    type: transform
+    point: verbs-fer
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb *convocar*."
+    source: "Hem de [[fer una reunió]] amb els veïns."
+    answers: ["Hem de convocar una reunió amb els veïns."]
+    wrong_answers:
+      - text: "Hem de convocar una reunió en els veïns."
+        why: "*Amb* persones: *amb els veïns*. *En* no hi funciona."
+    grading: tolerant
+    explanation: "El verb precís és *convocar*: *convocar una reunió*."
+
+  - id: b2-50-043
+    type: transform
+    point: verbs-posar-donar
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb *engegar*."
+    source: "A l'hivern [[posem en marxa]] la caldera cada matí."
+    answers: ["A l'hivern engeguem la caldera cada matí."]
+    wrong_answers:
+      - text: "A l'hivern engegem la caldera cada matí."
+        why: "*Engegar* canvia la *g* per *gu* davant de *e*: *engeguem*."
+    grading: tolerant
+    explanation: "*Engegar* és el verb precís per a «posar en marxa». Davant de *e*, la *g* es fa *gu*: *engeguem*."
+
+  - id: b2-50-044
+    type: transform
+    point: verbs-posar-donar
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb *ajudar*."
+    source: "La Carla em [[donarà un cop de mà]] a pintar el replà."
+    answers: ["La Carla m'ajudarà a pintar el replà."]
+    wrong_answers:
+      - text: "La Carla m'ajuda a pintar el replà."
+        why: "El futur és *ajudarà*: l'ajuda encara ha de venir."
+    grading: tolerant
+    explanation: "El verb precís per a «donar un cop de mà» és *ajudar*. *Em* s'apostrofa davant de vocal: *m'ajudarà*."
+
+  - id: b2-50-045
+    type: transform
+    point: noms-precisos
+    lesson: 4
+    instruction: "Reescriu la frase sense el mot «cosa»."
+    source: "Aquesta [[cosa]] és urgent: hem de triar avui la caldera."
+    answers:
+      - "Aquest assumpte és urgent: hem de triar avui la caldera."
+      - "Aquesta qüestió és urgent: hem de triar avui la caldera."
+      - "Aquest tema és urgent: hem de triar avui la caldera."
+    wrong_answers:
+      - text: "Aquesta assumpte és urgent: hem de triar avui la caldera."
+        why: "*Assumpte* és masculí: *aquest assumpte*."
+    grading: tolerant
+    explanation: "*Assumpte*, *qüestió* i *tema* són més precisos que *cosa*. *Assumpte* i *tema* són masculins; *qüestió*, femení."
+
+  - id: b2-50-046
+    type: transform
+    point: noms-precisos
+    lesson: 4
+    instruction: "Reescriu la frase sense el mot «coses»."
+    source: "Desa les [[coses de cuinar]] a les caixes."
+    answers:
+      - "Desa els estris de cuinar a les caixes."
+      - "Desa els estris per cuinar a les caixes."
+    wrong_answers:
+      - text: "Desa les estris de cuinar a les caixes."
+        why: "*Estri* és masculí: *els estris*."
+    grading: tolerant
+    explanation: "Els objectes per cuinar són els *estris* (masculí): *els estris de cuinar*."
+
+  - id: b2-50-047
+    type: transform
+    point: compte-calcs
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Aquesta humitat no [[té que veure]] amb la gotera."
+    answers: ["Aquesta humitat no té a veure amb la gotera."]
+    wrong_answers:
+      - text: "Aquesta humitat no té què veure amb la gotera."
+        why: "*Què* amb accent és interrogatiu; la preposició és *a*: *té a veure*."
+    grading: tolerant
+    explanation: "«Tenir que veure» és un calc de «tener que ver». En català: *tenir a veure*."
+
+  - id: b2-50-048
+    type: fill
+    point: verbs-fer
+    lesson: 4
+    prompt: "L'alcalde ___ un discurs breu a la festa del barri."
+    hint: "PRONUNCIAR, passat perifràstic"
+    answers: ["va pronunciar"]
+    wrong_answers:
+      - text: "va pronunciat"
+        why: "Després de *va* cal l'infinitiu: *va pronunciar*."
+    grading: tolerant
+    explanation: "El verb precís per a «fer un discurs» és *pronunciar*."
+
+  - id: b2-50-049
+    type: fill
+    point: verbs-posar-donar
+    lesson: 4
+    prompt: "L'Ibrahim no ___ gens del plànol: tot és clar."
+    hint: "verb precís per a «tenir dubtes»: DUBTAR, present"
+    answers: ["dubta"]
+    wrong_answers:
+      - text: "dubte"
+        why: "Amb «ell», el present és *dubta*. *Dubte* és el nom: *un dubte*."
+    grading: tolerant
+    explanation: "El verb precís és *dubtar*: *no dubta gens*. *Tenir dubtes* és més vague."
+
+  - id: b2-50-050
+    type: order
+    point: compte-calcs
+    lesson: 4
+    cue: "Digues que la decisió sobre la caldera l'heu de prendre avui."
+    chunks: ["La", "decisió", "l'hem", "de", "prendre", "avui"]
+    extra: ["tomar"]
+    answers:
+      - "La decisió l'hem de prendre avui."
+    explanation: "«Prendre una decisió» no admet *tomar*: és un castellanisme. *L'hem de prendre* porta el pronom *l'* (= «la decisió»)."
+
+  - id: b2-50-051
+    type: choice
+    point: compte-calcs
+    lesson: 4
+    prompt: "L'aprenent ___: el camió arriba a les vuit."
+    answer: "s'ha d'afanyar"
+    distractors:
+      - text: "s'ha de donar pressa"
+        why: "*Donar-se pressa* és un calc de «darse prisa». El verb és *afanyar-se*."
+      - text: "s'ha d'afanyar-se"
+        why: "El pronom ja hi és (*s'ha de*): no es pot repetir: *s'ha d'afanyar*."
+    explanation: "El verb genuí és *afanyar-se*: *s'ha d'afanyar*."
+
+  - id: b2-50-052
+    type: choice
+    point: noms-precisos
+    lesson: 4
+    instruction: "Tria el mot més precís."
+    prompt: "El lampista necessita una ___ per mesurar la pressió de l'aigua."
+    answer: "eina"
+    distractors:
+      - text: "cosa"
+        why: "«Cosa» no és incorrecte, però et demanem el mot més precís: *eina*."
+      - text: "rajola"
+        why: "*Una rajola* és per cobrir parets; aquí cal un objecte per mesurar: una *eina*."
+    explanation: "Un objecte per treballar o mesurar és una *eina*. *Cosa* no diu quina."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-50-053
+    type: choice
+    point: verbs-fer
+    lesson: 5
+    instruction: "Tria el verb més precís."
+    prompt: "Els veïns volen ___ una festa al terrat a l'estiu."
+    answer: "organitzar"
+    distractors:
+      - text: "fer"
+        why: "«Fer una festa» no és incorrecte, però et demanem el verb més precís: *organitzar*."
+      - text: "posar"
+        why: "*Posar una festa* no es diu en català."
+    explanation: "Per a «una festa», el verb precís és *organitzar*."
+
+  - id: b2-50-054
+    type: choice
+    point: verbs-posar-donar
+    lesson: 5
+    instruction: "Tria el verb més precís."
+    prompt: "La Montse ha ___ taula per a sis persones."
+    answer: "parat"
+    distractors:
+      - text: "posat"
+        why: "*Posar* necessita l'article (*posar la taula*); *parar* no: *ha parat taula*."
+      - text: "penjat"
+        why: "*Penjar* és per a quadres o cortines, no per a la taula: *ha parat taula*."
+    explanation: "Per a la taula, el verb precís és *parar*, sense article: *ha parat taula*."
+
+  - id: b2-50-055
+    type: fill
+    point: compte-calcs
+    lesson: 5
+    prompt: "L'any passat el client no ___ cas de l'advertiment i va sortir una gotera."
+    hint: "verb per a «fer cas omís» (que és un calc): FER, passat perifràstic"
+    answers: ["va fer"]
+    wrong_answers:
+      - text: "fa"
+        why: "*L'any passat* demana el passat: *no va fer cas*."
+    grading: tolerant
+    explanation: "«Fer cas omís» és un calc; en català: *no fer cas*. Com que ja va passar: *no va fer cas*."
+
+  - id: b2-50-056
+    type: fill
+    point: verbs-fer
+    lesson: 5
+    prompt: "La Laia demà ___ al paleta per fixar el dia de l'obra."
+    hint: "verb precís per a «fer una trucada»: TRUCAR, futur"
+    answers: ["trucarà"]
+    wrong_answers:
+      - text: "truca"
+        why: "*Demà* demana el futur: *trucarà*."
+    grading: tolerant
+    explanation: "El verb precís per a «fer una trucada» és *trucar*. *Demà* demana el futur: *trucarà*."
+
+  - id: b2-50-057
+    type: find-error
+    point: compte-calcs
+    lesson: 5
+    sentence: "Hem de tomar una decisió sobre l'aïllament aquesta setmana."
+    error: "tomar una decisió"
+    fix: "prendre una decisió"
+    fix_distractors:
+      - text: "pendre una decisió"
+        why: "S'escriu *prendre*, amb *r* després de la *p*."
+      - text: "prendre una decissió"
+        why: "*Decisió* s'escriu amb una sola *s*: *decisió*."
+    explanation: "«Tomar una decisió» és un calc de «tomar una decisión». En català: *prendre una decisió*."
+
+  - id: b2-50-058
+    type: find-error
+    point: compte-calcs
+    lesson: 5
+    sentence: "L'aprenent va fer campana i el paleta es va enfadar."
+    no_error: true
+    explanation: "La frase és correcta: *fer campana* és la forma genuïna (el calc és «fer novillos»)."
+
+  - id: b2-50-059
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que fareu tot el possible per acabar divendres."
+    chunks: ["Farem", "mans", "i", "mànigues", "per", "acabar", "divendres"]
+    extra: ["peus"]
+    answers:
+      - "Farem mans i mànigues per acabar divendres."
+      - "Per acabar divendres, farem mans i mànigues."
+    explanation: "*Fer mans i mànigues* vol dir «fer tot el possible». Es diu sempre amb *mans* i *mànigues*."
+
+  - id: b2-50-060
+    type: match
+    point: verbs-posar-donar
+    lesson: 5
+    instruction: "Relaciona cada verb amb el nom que li correspon."
+    pairs:
+      - ["engegar", "la caldera"]
+      - ["parar", "taula"]
+      - ["penjar", "el quadre"]
+      - ["instal·lar", "l'aire condicionat"]
+      - ["somiar", "un somni"]
+    explanation: "Són combinacions fixes: *engegar la caldera*, *parar taula*, *penjar un quadre*, *instal·lar l'aire condicionat*, *somiar un somni*."
+
+  - id: b2-50-061
+    type: inline-choice
+    point: noms-precisos
+    lesson: 5
+    instruction: "Tria el mot més precís."
+    title: "Missatge de la Laia"
+    text: "Hola, Pau: he vist {el detall|la cosa|el ferro} del pressupost que no entenc. El paleta diu que la {qüestió|cosa|taula} és urgent, però no m'ha explicat res. Quan vinguis, necessito {l'eina|la cosa|la rajola} per mesurar la humitat. Laia."
+    explanation: "Els mots precisos són *el detall*, *la qüestió* i *l'eina*. *Cosa* és correcte, però vague."
+
+  - id: b2-50-062
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «fer mans i mànigues»?"
+    answer: "Fer tot el possible per aconseguir una cosa."
+    distractors:
+      - text: "Rentar-se les mans abans de dinar."
+        why: "Aquest és el sentit literal de «mans»; l'expressió vol dir esforçar-se al màxim."
+      - text: "Deixar una feina a mitges."
+        why: "És el contrari: l'expressió vol dir esforçar-se al màxim."
+    explanation: "«Fer mans i mànigues» vol dir fer tot el possible: *Farem mans i mànigues per acabar divendres*."
+
+  - id: b2-50-063
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Prou voltes: demà ___ i truquem a tres empreses."
+    hint: "expressió per a «començar una feina»: POSAR FIL A L'AGULLA, present (nosaltres)"
+    answers: ["posem fil a l'agulla"]
+    wrong_answers:
+      - text: "posen fil a l'agulla"
+        why: "Amb «nosaltres», el present és *posem*. *Posen* és «ells»."
+    grading: tolerant
+    explanation: "Començar una feina és *posar fil a l'agulla*. Amb «nosaltres», el present és *posem*."
+
+  - id: b2-50-064
+    type: choice
+    point: verbs-fer
+    lesson: 5
+    instruction: "Tria el verb més precís."
+    prompt: "Volen ___ la cuina abans de l'estiu."
+    answer: "reformar"
+    distractors:
+      - text: "fer"
+        why: "«Fer la cuina» s'entén, però et demanem el verb més precís: *reformar*."
+      - text: "tancar"
+        why: "*Tancar la cuina* no té sentit aquí. El verb precís és *reformar*."
+    explanation: "Canviar i millorar un espai és *reformar*."
+
+  - id: b2-50-065
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La reforma del pis de Gràcia"
+    text: |
+      La Laia i en Pau van comprar un pis a Gràcia l'any passat. Era un tercer sense ascensor, amb el parquet aixecat, una taca d'humitat al sostre i la caldera espatllada. El preu era raonable, però sabien que haurien de fer mans i mànigues per deixar-lo habitable.
+
+      Primer van posar fil a l'agulla: van demanar tres pressupostos i van formular moltes preguntes a cada paleta. Un pressupost era tan baix que van dubtar de seguida; un altre arribava un mes tard. Al final van triar una empresa petita de Sabadell que els va merèixer confiança.
+
+      L'obra va començar al març, amb el permís d'obres penjat a l'entrada. El manobre portava els maons i barrejava el ciment, mentre el paleta aixecava una paret nova. El fuster va col·locar les portes i va canviar el pany de l'entrada; el lampista va instal·lar l'aixeta i el desguàs del bany, i l'electricista va canviar els endolls i els interruptors de tot el pis. Quan van engegar la caldera nova, van descobrir una esquerda darrere del radiador. L'arquitecta va prendre la decisió de reforçar aquell tros de paret, i l'obra es va allargar dues setmanes. A la primavera, muntaran una bastida per pintar la façana.
+
+      Els veïns del replà no van posar cap inconvenient, però el veí del tercer sempre hi posava cullerada: opinava del color de la rajola i del model de persiana sense que ningú li demanés res. La Laia, que ja el coneixia, no li feia cas.
+
+      Al juny, l'obra es va acabar. El pis fa molt bona pinta: parquet nou, cuina clara i un lavabo que no degota. «Hem comès pocs errors», diu en Pau, «però no tornaríem a reformar sense un bon plànol».
+    questions:
+      - prompt: "Per què van haver de reformar el pis?"
+        answer: "El parquet, el sostre i la caldera estaven en mal estat."
+        distractors:
+          - text: "No els agradava el color de la rajola del bany."
+            why: "Van triar la rajola durant l'obra; el pis tenia problemes més greus."
+          - text: "El veí del tercer els va denunciar a l'ajuntament."
+            why: "El veí opinava de tot, però no els va denunciar."
+      - prompt: "Què va passar quan van engegar la caldera nova?"
+        answer: "Van trobar una esquerda darrere del radiador."
+        distractors:
+          - text: "El desguàs del bany es va embussar."
+            why: "El desguàs el va instal·lar el lampista sense cap problema."
+          - text: "Van veure que el parquet estava aixecat."
+            why: "El parquet ja estava aixecat quan van comprar el pis."
+      - prompt: "En el text, què vol dir «els va merèixer confiança»?"
+        answer: "Els va semblar una empresa de fiar."
+        distractors:
+          - text: "Els va fer el pressupost més baix."
+            why: "Del pressupost més baix van dubtar; van triar una altra empresa."
+          - text: "Els va prometre acabar en dues setmanes."
+            why: "L'obra es va allargar dues setmanes; ningú els ho havia promès."
+      - prompt: "Com va acabar la reforma?"
+        answer: "Dues setmanes tard, però amb un bon resultat."
+        distractors:
+          - text: "Abans del termini i sense cap error."
+            why: "L'obra es va allargar i en Pau admet alguns errors."
+          - text: "A temps, però amb la caldera espatllada."
+            why: "La caldera nova funciona; l'espatllada era la vella."
+    explanation: "El text explica la reforma del pis de la Laia i en Pau: els problemes, l'obra i el resultat final."
+
+  - id: b2-50-066
+    type: find-error
+    point: compte-calcs
+    lesson: 5
+    sentence: "La Laia prendrà la decisió quan tingui tots els pressupostos."
+    no_error: true
+    explanation: "La frase és correcta: *prendre una decisió* és la forma genuïna (el calc és «tomar una decisió»)."

@@ -1,0 +1,1028 @@
+id: b1-22
+level: B1
+title: "Narrar en passat"
+summary: "Aprens a combinar el perifràstic, l'imperfet i el plusquamperfet en un relat, amb connectors (*aleshores*, *l'endemà*, *al cap de*) i sense el perfet amb *ahir*."
+vocabulary_theme: "Notícies i successos"
+points:
+  - id: imperfet-relat
+    title: "L'imperfet i el perifràstic: descriure i narrar"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: plusquamperfet
+    title: "El plusquamperfet: *havia fet*"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: connectors-relat
+    title: "Connectors: *aleshores*, *l'endemà*, *al cap de*, *de cop*"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: el perfet no va amb *ahir*"
+  - id: expressions
+    title: "Expressions per explicar fets"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: descriure i narrar"
+  - title: "Practicar els tres temps"
+  - title: "Connectors i el perfet amb ahir"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "la notícia"
+    definition: "Informació d'un fet recent que surt als mitjans."
+    example: "Ahir van donar la notícia per la ràdio."
+  - word: "el diari"
+    definition: "Fulls o web amb les notícies de cada dia."
+    example: "El diari d'avui porta la foto de l'incendi."
+  - word: "el titular"
+    definition: "Frase gran que resumeix una notícia."
+    example: "El titular diu que el tren portava retard."
+  - word: "el periodista, la periodista"
+    definition: "Persona que escriu o explica notícies."
+    example: "Una periodista va entrevistar els veïns."
+  - word: "el testimoni"
+    definition: "Persona que ha vist un fet i l'explica."
+    example: "Un testimoni va trucar als bombers."
+  - word: "l'accident"
+    definition: "Fet sobtat que fa mal o trenca coses."
+    example: "L'accident va tallar la carretera dues hores."
+  - word: "l'incendi"
+    definition: "Foc gran que crema un edifici o un bosc."
+    example: "L'incendi va començar a la cuina."
+  - word: "el robatori"
+    definition: "Fet d'emportar-se una cosa que no és teva."
+    example: "El robatori va ser de matinada."
+  - word: "el lladre, la lladra"
+    definition: "Persona que roba."
+    example: "Els lladres van entrar per la finestra."
+  - word: "la policia"
+    definition: "Cos que manté l'ordre i persegueix els delictes."
+    example: "La policia va arribar en deu minuts."
+  - word: "el bomber, la bombera"
+    definition: "Persona que apaga focs i ajuda en accidents."
+    example: "Els bombers van arribar en cinc minuts."
+  - word: "l'ambulància"
+    definition: "Vehicle que porta els malalts a l'hospital."
+    example: "L'ambulància va arribar de seguida."
+  - word: "l'hospital"
+    definition: "Edifici on els metges curen els malalts i els ferits."
+    example: "El van portar a l'hospital per precaució."
+  - word: "el trànsit"
+    definition: "Cotxes que circulen per carrers i carreteres."
+    example: "A les vuit el trànsit és impossible."
+  - word: "la retenció"
+    definition: "Fila de cotxes aturats per un accident o unes obres."
+    example: "Hi havia tres quilòmetres de retenció."
+  - word: "el xoc"
+    definition: "Cop fort entre dos vehicles o contra una cosa."
+    example: "El xoc va trencar un fanal."
+  - word: "la víctima"
+    definition: "Persona que rep el mal d'un accident o un delicte."
+    example: "La víctima només tenia un cop al braç."
+  - word: "el soroll"
+    definition: "So fort que molesta o avisa."
+    example: "Van sentir un soroll i van sortir al balcó."
+  - word: "el fum"
+    definition: "Núvol gris que surt del foc."
+    example: "El fum es veia des de l'altra punta del poble."
+  - word: "la tempesta"
+    definition: "Pluja forta amb trons i llamps."
+    example: "La tempesta va trencar les branques dels arbres."
+  - word: "el llamp"
+    definition: "Llum del cel que cau durant una tempesta."
+    example: "Un llamp va caure sobre l'antena."
+  - word: "la inundació"
+    definition: "Aigua que cobreix un lloc on no hauria de ser."
+    example: "La inundació va mullar tot el pàrquing."
+  - word: "l'apagada"
+    definition: "Estona que no hi ha llum elèctrica."
+    example: "Durant l'apagada vam sopar amb espelmes."
+  - word: "el rescat"
+    definition: "Acció de treure algú d'un perill."
+    example: "El rescat del gos va sortir als diaris."
+  - word: "la denúncia"
+    definition: "Escrit que es porta a la policia per explicar un delicte."
+    example: "Va posar una denúncia a la comissaria."
+  - word: "la comissaria"
+    definition: "Oficina de la policia."
+    example: "El van portar a la comissaria a declarar."
+  - word: "declarar"
+    definition: "Explicar a la policia o al jutge què ha passat."
+    example: "El testimoni va declarar que no havia vist res."
+  - word: "el dany"
+    definition: "Mal que un accident fa a una cosa."
+    example: "El foc només va fer danys a la cuina."
+  - word: "el semàfor"
+    definition: "Aparell amb llums que ordena el trànsit."
+    example: "El semàfor de la cantonada no funcionava."
+  - word: "la vorera"
+    definition: "Part del carrer per on van les persones."
+    example: "El cotxe va pujar a la vorera."
+  - word: "el pas de vianants"
+    definition: "Ratlles blanques per on es creua el carrer."
+    example: "Travessava el carrer pel pas de vianants."
+  - word: "el vianant"
+    definition: "Persona que va a peu pel carrer."
+    example: "El vianant no es va fer mal."
+  - word: "la sirena"
+    definition: "So fort d'una ambulància o dels bombers."
+    example: "Se sentien les sirenes de lluny."
+  - word: "apagar"
+    definition: "Fer que un foc s'acabi."
+    example: "Van apagar el foc en una hora."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-22-001
+    type: choice
+    point: imperfet-relat
+    lesson: 1
+    prompt: "Mentre els bombers ___ el foc, els veïns miraven des de la vorera."
+    answer: "apagaven"
+    distractors:
+      - text: "van apagar"
+        why: "Amb *mentre* expliquem què passava en aquell moment: imperfet, *apagaven*."
+      - text: "han apagat"
+        why: "*Han apagat* és perfet, i aquí cal l'imperfet de l'acció en curs."
+    explanation: "«Mentre» presenta l'acció en curs: l'imperfet *apagaven*."
+
+  - id: b1-22-002
+    type: choice
+    point: imperfet-relat
+    lesson: 1
+    prompt: "Cada estiu, els avis ___ els nets a veure els castells de Tarragona."
+    answer: "portaven"
+    distractors:
+      - text: "van portar"
+        why: "*Van portar* és un fet puntual; «cada estiu» és un costum: imperfet."
+      - text: "han portat"
+        why: "El perfet no va amb un costum del passat."
+    explanation: "«Cada estiu» indica un costum: l'imperfet *portaven*."
+
+  - id: b1-22-003
+    type: choice
+    point: imperfet-relat
+    lesson: 1
+    prompt: "Ahir a les tres, un camió ___ contra un semàfor a la Gran Via. El xoc només va fer danys al semàfor."
+    answer: "va xocar"
+    distractors:
+      - text: "xocava"
+        why: "*Xocava* seria un costum o una descripció; aquí és un fet puntual d'ahir."
+      - text: "ha xocat"
+        why: "*Ha xocat* és perfet, i el perfet no va amb *ahir*."
+    explanation: "«Ahir a les tres» i un fet puntual demanen el perifràstic: *va xocar*."
+
+  - id: b1-22-004
+    type: choice
+    point: imperfet-relat
+    lesson: 1
+    prompt: "Quan la Núria va arribar a la plaça, ja ___ molt i els carrers eren buits."
+    answer: "plovia"
+    distractors:
+      - text: "va ploure"
+        why: "Amb *ja* la pluja és el fons de l'escena, no un fet nou: *plovia*."
+      - text: "ha plogut"
+        why: "El perfet no encaixa en una descripció del passat."
+    explanation: "La frase descriu la tarda quan va arribar: imperfet, *plovia*."
+
+  - id: b1-22-005
+    type: choice
+    point: plusquamperfet
+    lesson: 1
+    prompt: "Quan els bombers van arribar, el foc ja ___ tota la cuina."
+    answer: "havia cremat"
+    distractors:
+      - text: "va cremar"
+        why: "*Va cremar* passaria després de l'arribada; el foc ho va fer abans: *havia cremat*."
+      - text: "ha cremat"
+        why: "El perfet no va en un relat del passat amb «quan van arribar»."
+    explanation: "El foc ho va fer abans de l'arribada: plusquamperfet, *havia cremat*."
+
+  - id: b1-22-006
+    type: choice
+    point: plusquamperfet
+    lesson: 1
+    prompt: "L'Ibrahim no va poder entrar a casa: ___ les claus a la feina."
+    answer: "s'havia deixat"
+    distractors:
+      - text: "es va deixar"
+        why: "Ho va fer abans de tornar: plusquamperfet, *s'havia deixat*."
+      - text: "s'ha deixat"
+        why: "El perfet no va en un relat del passat."
+    explanation: "Es va deixar les claus abans de tornar: plusquamperfet, *s'havia deixat*."
+
+  - id: b1-22-007
+    type: choice
+    point: plusquamperfet
+    lesson: 1
+    prompt: "El tren portava retard perquè una tempesta ja ___ un arbre a la via."
+    answer: "havia fet caure"
+    distractors:
+      - text: "va fer caure"
+        why: "Amb *ja* cal marcar l'anterioritat: plusquamperfet, *havia fet caure*."
+      - text: "ha fet caure"
+        why: "El perfet no va en un relat del passat."
+    explanation: "La tempesta ho va fer abans del retard: plusquamperfet, *havia fet caure*."
+
+  - id: b1-22-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["de cop i volta", "de sobte, quan ningú s'ho espera"]
+      - ["tot d'una", "de seguida, sense esperar"]
+      - ["ves per on", "expressa sorpresa per una coincidència"]
+      - ["com qui no vol la cosa", "sense que es noti, dissimuladament"]
+    explanation: "Són quatre expressions per explicar fets: rapidesa, sorpresa i dissimulació."
+
+  - id: b1-22-009
+    type: inline-choice
+    point: imperfet-relat
+    lesson: 1
+    title: "Un matí de tempesta"
+    text: "Ahir al matí, mentre anava a la feina, ja {feia|va fer|ha fet} molt de vent i els carrers {eren|van ser|han estat} buits. De cop, un llamp {va caure|queia|ha caigut} sobre una antena i molts veïns {van sortir|sortien|han sortit} al balcó."
+    explanation: "*Feia* i *eren* descriuen el moment; *va caure* i *van sortir* són fets puntuals."
+
+  - id: b1-22-010
+    type: fill
+    point: imperfet-relat
+    lesson: 1
+    prompt: "Mentre el periodista ___ amb el testimoni, va començar a ploure."
+    hint: "parlar, imperfet"
+    answers: ["parlava"]
+    wrong_answers:
+      - text: "va parlar"
+        why: "Amb *mentre* cal l'imperfet: *parlava*."
+      - text: "ha parlat"
+        why: "El perfet no va en un relat del passat."
+    grading: tolerant
+    explanation: "«Mentre» presenta l'acció en curs: imperfet, *parlava*."
+
+  - id: b1-22-011
+    type: fill
+    point: imperfet-relat
+    lesson: 1
+    prompt: "De petit, en Pau ___ cada diumenge a comprar el diari amb el seu avi."
+    hint: "anar, imperfet"
+    answers: ["anava"]
+    wrong_answers:
+      - text: "va anar"
+        why: "«Cada diumenge» és un costum del passat: imperfet, *anava*."
+    grading: tolerant
+    explanation: "«De petit» i «cada diumenge» indiquen un costum: imperfet, *anava*."
+
+  - id: b1-22-012
+    type: order
+    point: imperfet-relat
+    lesson: 1
+    cue: "Explica que ahir, mentre plovia, vas veure un llamp."
+    chunks: ["ahir", "mentre plovia", "vaig veure", "un llamp"]
+    extra: ["he vist"]
+    answers:
+      - "Ahir, mentre plovia, vaig veure un llamp."
+      - "Mentre plovia, ahir vaig veure un llamp."
+      - "Ahir vaig veure un llamp mentre plovia."
+      - "Mentre plovia, vaig veure un llamp ahir."
+      - "Vaig veure un llamp ahir mentre plovia."
+    explanation: "L'imperfet *plovia* descriu el moment; el fet puntual és *vaig veure*."
+
+  - id: b1-22-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «El lladre va entrar com qui no vol la cosa»?"
+    answer: "Que va entrar dissimuladament."
+    distractors:
+      - text: "Que va entrar de pressa i fent soroll."
+        why: "Això és el contrari: l'expressió vol dir sense cridar l'atenció."
+      - text: "Que no volia entrar."
+        why: "Sí que volia entrar: ho va fer dissimuladament."
+    explanation: "*Com qui no vol la cosa* vol dir dissimuladament, sense cridar l'atenció."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-22-014
+    type: fill
+    point: imperfet-relat
+    lesson: 2
+    prompt: "Ahir a la nit els carrers ___ buits i només se sentien les sirenes."
+    hint: "ser, imperfet"
+    answers: ["eren"]
+    wrong_answers:
+      - text: "van ser"
+        why: "Aquí *eren* descriu els carrers, no explica un canvi: imperfet."
+    grading: tolerant
+    explanation: "La frase descriu els carrers: imperfet, *eren*."
+
+  - id: b1-22-015
+    type: fill
+    point: imperfet-relat
+    lesson: 2
+    prompt: "Mentre els agents ___ notes, el testimoni declarava què havia vist."
+    hint: "prendre, imperfet"
+    answers: ["prenien"]
+    wrong_answers:
+      - text: "van prendre"
+        why: "Amb *mentre* cal l'imperfet: *prenien*."
+    grading: tolerant
+    explanation: "«Mentre» presenta l'acció en curs: imperfet, *prenien*."
+
+  - id: b1-22-016
+    type: fill
+    point: imperfet-relat
+    lesson: 2
+    prompt: "Ahir un cotxe ___ a la vorera, al pas de vianants, però el vianant no es va fer mal."
+    hint: "pujar, perifràstic"
+    answers: ["va pujar"]
+    wrong_answers:
+      - text: "pujava"
+        why: "És un fet puntual d'ahir, no una descripció: *va pujar*."
+      - text: "ha pujat"
+        why: "El perfet no va amb *ahir*: *va pujar*."
+    grading: tolerant
+    explanation: "«Ahir» i un fet puntual demanen el perifràstic: *va pujar*."
+
+  - id: b1-22-017
+    type: fill
+    point: plusquamperfet
+    lesson: 2
+    prompt: "Quan va arribar l'ambulància, els veïns ja ___ la porta de l'edifici."
+    hint: "obrir, plusquamperfet"
+    answers: ["havien obert"]
+    wrong_answers:
+      - text: "van obrir"
+        why: "Ho van fer abans de l'arribada: plusquamperfet, *havien obert*."
+      - text: "obrien"
+        why: "*Obrien* seria l'acció en curs; aquí ja estava feta: *havien obert*."
+    grading: tolerant
+    explanation: "«Ja» indica anterioritat: plusquamperfet, *havien obert*."
+
+  - id: b1-22-018
+    type: fill
+    point: plusquamperfet
+    lesson: 2
+    prompt: "La Fàtima no va trobar el gos: algú ja ___ la porta del jardí."
+    hint: "deixar, plusquamperfet"
+    answers: ["havia deixat"]
+    wrong_answers:
+      - text: "va deixar"
+        why: "Ho va fer abans: plusquamperfet, *havia deixat*."
+    grading: tolerant
+    explanation: "«Ja» indica anterioritat: plusquamperfet, *havia deixat*."
+
+  - id: b1-22-019
+    type: fill
+    point: plusquamperfet
+    lesson: 2
+    prompt: "Els passatgers es van enfadar perquè el tren ja ___ sense ells."
+    hint: "marxar, plusquamperfet"
+    answers: ["havia marxat"]
+    wrong_answers:
+      - text: "va marxar"
+        why: "Amb *ja* cal marcar l'anterioritat: *havia marxat*."
+    grading: tolerant
+    explanation: "El tren va marxar abans: plusquamperfet, *havia marxat*."
+
+  - id: b1-22-020
+    type: order
+    point: plusquamperfet
+    lesson: 2
+    cue: "Explica que quan vas arribar a l'estació, el tren ja havia marxat."
+    chunks: ["quan vaig arribar", "el tren", "ja", "havia marxat"]
+    extra: ["ha marxat"]
+    answers:
+      - "Quan vaig arribar, el tren ja havia marxat."
+      - "El tren ja havia marxat quan vaig arribar."
+      - "Ja el tren havia marxat quan vaig arribar."
+      - "Ja havia marxat el tren quan vaig arribar."
+    explanation: "El tren va marxar abans de l'arribada: plusquamperfet, *havia marxat*."
+
+  - id: b1-22-021
+    type: order
+    point: plusquamperfet
+    lesson: 2
+    cue: "Digues que els lladres van entrar per una finestra que algú ja havia deixat oberta."
+    chunks: ["els lladres", "van entrar", "per una finestra", "que algú ja havia deixat oberta"]
+    extra: ["que algú ja va deixar oberta"]
+    answers:
+      - "Els lladres van entrar per una finestra que algú ja havia deixat oberta."
+    explanation: "La finestra ja estava oberta quan van entrar: *havia deixat*."
+
+  - id: b1-22-022
+    type: choice
+    point: imperfet-relat
+    lesson: 2
+    prompt: "___ les sirenes dels bombers mentre els veïns baixaven al carrer."
+    answer: "Se sentien"
+    distractors:
+      - text: "Es van sentir"
+        why: "Amb *mentre* i *baixaven* cal l'imperfet: *se sentien*."
+      - text: "S'han sentit"
+        why: "El perfet no va en un relat del passat."
+    explanation: "«Mentre» i *baixaven* demanen l'imperfet: *se sentien*."
+
+  - id: b1-22-023
+    type: choice
+    point: imperfet-relat
+    lesson: 2
+    prompt: "Ahir a la tarda, la policia ___ el trànsit durant dues hores."
+    answer: "va tallar"
+    distractors:
+      - text: "tallava"
+        why: "*Tallava* seria l'acció en curs; aquí és un fet tancat d'ahir: *va tallar*."
+      - text: "ha tallat"
+        why: "El perfet no va amb *ahir*: *va tallar*."
+    explanation: "«Ahir» i un fet tancat demanen el perifràstic: *va tallar*."
+
+  - id: b1-22-024
+    type: choice
+    point: plusquamperfet
+    lesson: 2
+    prompt: "La Laia va haver de tornar a casa: ___ el mòbil a l'oficina."
+    answer: "s'havia deixat"
+    distractors:
+      - text: "es va deixar"
+        why: "Ho va fer abans de tornar: plusquamperfet, *s'havia deixat*."
+      - text: "es deixava"
+        why: "*Es deixava* seria un costum; aquí és un fet anterior concret."
+    explanation: "Va ser abans de tornar: plusquamperfet, *s'havia deixat*."
+
+  - id: b1-22-025
+    type: inline-choice
+    point: plusquamperfet
+    lesson: 2
+    title: "El tren de les vuit"
+    text: "En Pau va perdre el tren de les vuit: ja {havia sortit|va sortir|ha sortit}. Quan va arribar a casa, tots ja {havien sopat|van sopar|han sopat}. L'endemà el cap li va dir que ja {havia llegit|va llegir|ha llegit} el missatge."
+    explanation: "Són fets anteriors a un altre fet del passat: *havia sortit*, *havien sopat*, *havia llegit*."
+
+  - id: b1-22-026
+    type: order
+    point: imperfet-relat
+    lesson: 2
+    cue: "Explica que cada tarda anaves a comprar el pa a la fleca del barri."
+    chunks: ["cada tarda", "anava", "a comprar el pa", "a la fleca del barri"]
+    extra: ["vaig anar"]
+    answers:
+      - "Cada tarda anava a comprar el pa a la fleca del barri."
+      - "Anava a comprar el pa a la fleca del barri cada tarda."
+      - "Anava cada tarda a comprar el pa a la fleca del barri."
+      - "Anava a comprar el pa cada tarda a la fleca del barri."
+    explanation: "«Cada tarda» és un costum: imperfet, *anava*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-22-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Ahir la Laia ha perdut el tren de les vuit."
+    error: "ha perdut"
+    fix: "va perdre"
+    fix_distractors:
+      - text: "perdia"
+        why: "*Perdia* seria un costum; aquí és un fet puntual d'ahir."
+      - text: "havia perdut"
+        why: "*Havia perdut* seria anterior a un altre fet; aquí és el fet principal."
+    explanation: "El perfet no va amb *ahir*: *ahir la Laia va perdre el tren*."
+
+  - id: b1-22-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Ahir a la nit hi ha hagut un incendi a un restaurant del barri."
+    error: "hi ha hagut"
+    fix: "va haver-hi"
+    fix_distractors:
+      - text: "ha hagut"
+        why: "Sense *hi*, la frase no té el verb *haver-hi*: *va haver-hi*."
+      - text: "havia"
+        why: "*Havia* sense *hi* no és el verb *haver-hi*: *va haver-hi*."
+    explanation: "El perfet no va amb *ahir*: *ahir a la nit va haver-hi un incendi*."
+
+  - id: b1-22-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Avui hi ha hagut tres accidents a la ronda."
+    no_error: true
+    explanation: "La frase és correcta: *avui* és un període obert i el perfet *hi ha hagut* hi va bé."
+
+  - id: b1-22-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La setmana passada hem publicat tres notícies sobre el robatori del banc."
+    error: "hem publicat"
+    fix: "vam publicar"
+    fix_distractors:
+      - text: "publicàvem"
+        why: "*Publicàvem* seria un costum; aquí són fets tancats: *vam publicar*."
+      - text: "havíem publicat"
+        why: "*Havíem publicat* seria anterior a un altre fet; aquí és el fet principal."
+    explanation: "El perfet no va amb un passat tancat com *la setmana passada*: *vam publicar*."
+
+  - id: b1-22-031
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Ahir van trobar el gos perdut i la Fàtima va retirar la denúncia."
+    no_error: true
+    explanation: "La frase és correcta: amb *ahir* fem servir el perifràstic (*van trobar*, *va retirar*)."
+
+  - id: b1-22-032
+    type: choice
+    point: connectors-relat
+    lesson: 3
+    prompt: "L'incendi va ser dilluns al vespre. ___, el diari portava la foto a la portada."
+    answer: "L'endemà"
+    distractors:
+      - text: "El dia abans"
+        why: "*El dia abans* seria diumenge; la foto va sortir després: *l'endemà*."
+      - text: "Aquella nit"
+        why: "La foto va sortir l'endemà, no la nit de l'incendi."
+    explanation: "L'incendi és de dilluns i la foto surt dimarts: *l'endemà*."
+
+  - id: b1-22-033
+    type: choice
+    point: connectors-relat
+    lesson: 3
+    prompt: "Van sentir un soroll i ___ es va fer fosc a tot l'edifici. L'apagada va durar deu minuts."
+    answer: "de cop"
+    distractors:
+      - text: "a poc a poc"
+        why: "*A poc a poc* és el contrari: aquí tot passa de sobte."
+      - text: "de tant en tant"
+        why: "*De tant en tant* és un costum; aquí és un fet sobtat."
+    explanation: "Tot passa de sobte: *de cop*."
+
+  - id: b1-22-034
+    type: choice
+    point: connectors-relat
+    lesson: 3
+    prompt: "El camió va bolcar a les deu. ___, a dos quarts d'onze la carretera ja estava tallada."
+    answer: "Al cap de mitja hora"
+    distractors:
+      - text: "L'endemà al matí"
+        why: "*L'endemà* és l'endemà; aquí passen minuts: de les deu a dos quarts d'onze."
+      - text: "Cada matí a les deu"
+        why: "*Cada matí* és un costum; aquí és un fet únic."
+    explanation: "De les deu a dos quarts d'onze passen minuts: *al cap de mitja hora*."
+
+  - id: b1-22-035
+    type: fill
+    point: connectors-relat
+    lesson: 3
+    prompt: "Va caure un llamp i de ___ els semàfors es van apagar."
+    hint: "connector: de manera sobtada"
+    answers: ["cop", "sobte", "cop i volta"]
+    wrong_answers:
+      - text: "volta"
+        why: "*De volta* vol dir tornar a un lloc; el connector sobtat és *de cop*."
+      - text: "nou"
+        why: "*De nou* vol dir una altra vegada; aquí cal un connector sobtat: *de cop*."
+    grading: tolerant
+    explanation: "Els semàfors es van apagar de sobte: *de cop*."
+
+  - id: b1-22-036
+    type: fill
+    point: connectors-relat
+    lesson: 3
+    prompt: "L'accident va ser a les vuit; ___ dues hores, el trànsit encara estava aturat."
+    hint: "connector: temps després"
+    answers: ["Al cap de", "passades"]
+    wrong_answers:
+      - text: "L'endemà"
+        why: "*L'endemà* és l'endemà; aquí passen dues hores."
+    grading: tolerant
+    explanation: "Passen dues hores, no un dia: *al cap de dues hores*."
+
+  - id: b1-22-037
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Ahir va ploure molt a Girona."
+    distractors:
+      - text: "Ahir ha plogut molt a Girona."
+        why: "El perfet no va amb *ahir*: *ahir va ploure*."
+      - text: "Ahir plou molt a Girona."
+        why: "*Plou* és present; amb *ahir* cal un passat: *va ploure*."
+    explanation: "Amb *ahir* fem servir el perifràstic: *ahir va ploure*."
+
+  - id: b1-22-038
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "___ hem tingut molta feina a la redacció."
+    answer: "Avui"
+    distractors:
+      - text: "Ahir"
+        why: "El perfet *hem tingut* no va amb *ahir*."
+      - text: "Demà"
+        why: "*Hem tingut* és passat; amb *demà* cal un futur."
+    explanation: "El perfet *hem tingut* va amb un període obert com *avui*."
+
+  - id: b1-22-039
+    type: inline-choice
+    point: connectors-relat
+    lesson: 3
+    title: "Una nit de tempesta"
+    text: "Ahir va caure una bona tempesta sobre Olot. {Aleshores|L'endemà|Cada dia} plovia a bots i barrals i els carrers eren rius. {De cop|De tant en tant|A poc a poc}, un llamp va tallar la llum de tot el barri. El carrer semblava un riu, però no hi va haver cap inundació. {Al cap de|D'aquí a} mitja hora, els bombers ja havien rebut deu avisos. {L'endemà|Abans|Sempre}, el diari explicava que no hi havia hagut ferits."
+    explanation: "Cada connector marca un moment: *aleshores*, *de cop*, *al cap de* i *l'endemà*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-22-040
+    type: transform
+    point: imperfet-relat
+    lesson: 4
+    instruction: "Reescriu la frase amb un fet puntual d'ahir."
+    source: "La Carla [[anava]] a comprar el diari cada tarda."
+    answers:
+      - "Ahir la Carla va anar a comprar el diari."
+      - "La Carla va anar a comprar el diari ahir."
+      - "La Carla va anar ahir a comprar el diari."
+    wrong_answers:
+      - text: "Ahir la Carla ha anat a comprar el diari."
+        why: "El perfet no va amb *ahir*: *va anar*."
+      - text: "Ahir la Carla anava a comprar el diari."
+        why: "*Anava* és un costum; un fet d'ahir és *va anar*."
+    grading: tolerant
+    explanation: "El costum (*anava*) passa a ser un fet puntual d'ahir: *va anar*."
+
+  - id: b1-22-041
+    type: transform
+    point: imperfet-relat
+    lesson: 4
+    instruction: "Reescriu la frase com una descripció del moment."
+    source: "Ahir a les nou [[va ploure]] molt."
+    answers:
+      - "Ahir a les nou plovia molt."
+      - "Plovia molt ahir a les nou."
+    wrong_answers:
+      - text: "Ahir a les nou ha plogut molt."
+        why: "El perfet no va amb *ahir*."
+      - text: "Ahir a les nou plou molt."
+        why: "*Plou* és present; cal un passat."
+    grading: tolerant
+    explanation: "La descripció del moment es fa amb l'imperfet: *plovia*."
+
+  - id: b1-22-042
+    type: transform
+    point: plusquamperfet
+    lesson: 4
+    instruction: "Reescriu la frase amb el plusquamperfet."
+    source: "El tren [[va marxar]] abans que jo arribés a l'estació."
+    answers:
+      - "El tren ja havia marxat quan vaig arribar a l'estació."
+      - "Quan vaig arribar a l'estació, el tren ja havia marxat."
+    wrong_answers:
+      - text: "El tren ja va marxar quan vaig arribar a l'estació."
+        why: "*Ja* indica anterioritat: plusquamperfet, *havia marxat*."
+      - text: "El tren ja marxava quan vaig arribar a l'estació."
+        why: "*Marxava* seria l'acció en curs; aquí ja havia marxat."
+    grading: tolerant
+    explanation: "El tren va marxar abans de l'arribada: plusquamperfet, *havia marxat*."
+
+  - id: b1-22-043
+    type: transform
+    point: plusquamperfet
+    lesson: 4
+    instruction: "Reescriu la frase amb el plusquamperfet."
+    source: "No vam poder entrar: algú [[va tancar]] la porta amb clau."
+    answers:
+      - "No vam poder entrar: algú havia tancat la porta amb clau."
+      - "No vam poder entrar: algú ja havia tancat la porta amb clau."
+    wrong_answers:
+      - text: "No vam poder entrar: algú ja tancava la porta amb clau."
+        why: "Amb *ja* cal el plusquamperfet: *havia tancat*."
+    grading: tolerant
+    explanation: "Tancar la porta és anterior: plusquamperfet, *havia tancat*."
+
+  - id: b1-22-044
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Ahir [[han acabat]] el rescat del gos perdut al parc."
+    answers:
+      - "Ahir van acabar el rescat del gos perdut al parc."
+      - "Van acabar el rescat del gos perdut al parc ahir."
+      - "Van acabar ahir el rescat del gos perdut al parc."
+    wrong_answers:
+      - text: "Ahir acabaven el rescat del gos perdut al parc."
+        why: "*Acabaven* seria una descripció; és un fet puntual: *van acabar*."
+    grading: tolerant
+    explanation: "El perfet no va amb *ahir*: *ahir van acabar*."
+
+  - id: b1-22-045
+    type: fill
+    point: imperfet-relat
+    lesson: 4
+    prompt: "Ahir els bombers ___ l'incendi en dues hores."
+    hint: "apagar, perifràstic"
+    answers: ["van apagar"]
+    wrong_answers:
+      - text: "apagaven"
+        why: "*En dues hores* indica un fet acabat: *van apagar*."
+      - text: "han apagat"
+        why: "El perfet no va amb *ahir*."
+    grading: tolerant
+    explanation: "«Ahir» i un fet acabat: perifràstic, *van apagar*."
+
+  - id: b1-22-046
+    type: fill
+    point: plusquamperfet
+    lesson: 4
+    prompt: "La Montse va reconèixer el lladre de seguida: l'___ al mercat feia dos dies."
+    hint: "veure, plusquamperfet"
+    answers: ["havia vist"]
+    wrong_answers:
+      - text: "va veure"
+        why: "*Feia dos dies* indica anterioritat en un relat: *havia vist*."
+      - text: "ha vist"
+        why: "El perfet no va en un relat del passat."
+    grading: tolerant
+    explanation: "«Feia dos dies» indica que és anterior: *l'havia vist*."
+
+  - id: b1-22-047
+    type: order
+    point: connectors-relat
+    lesson: 4
+    cue: "Explica que l'incendi va ser dilluns i que l'endemà el diari en portava la foto."
+    chunks: ["l'incendi va ser dilluns", "i", "l'endemà", "el diari en portava la foto"]
+    extra: ["el dia abans"]
+    answers:
+      - "L'incendi va ser dilluns i l'endemà el diari en portava la foto."
+    explanation: "L'incendi és de dilluns i la foto surt dimarts: *l'endemà*."
+
+  - id: b1-22-048
+    type: order
+    point: imperfet-relat
+    lesson: 4
+    cue: "Digues que ahir vas sentir un soroll mentre dormies."
+    chunks: ["ahir", "vaig sentir", "un soroll", "mentre dormia"]
+    extra: ["he sentit"]
+    answers:
+      - "Ahir vaig sentir un soroll mentre dormia."
+      - "Mentre dormia, ahir vaig sentir un soroll."
+      - "Ahir, mentre dormia, vaig sentir un soroll."
+      - "Mentre dormia, vaig sentir un soroll ahir."
+      - "Vaig sentir un soroll ahir mentre dormia."
+    explanation: "*Dormia* descriu el moment; el fet puntual és *vaig sentir*."
+
+  - id: b1-22-049
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Què vol dir «De cop i volta, es va fer fosc»?"
+    answer: "Que es va fer fosc de sobte."
+    distractors:
+      - text: "Que es va fer fosc a poc a poc."
+        why: "Això és el contrari: *de cop i volta* vol dir de sobte."
+      - text: "Que es va fer fosc cada tarda."
+        why: "No és un costum: és un fet sobtat."
+    explanation: "*De cop i volta* vol dir de sobte, sense avís."
+
+  - id: b1-22-050
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "—Saps qui em va trucar ahir? —No. —___, la meva mestra de primària!"
+    answer: "Ves per on"
+    distractors:
+      - text: "Tot d'una"
+        why: "*Tot d'una* vol dir de seguida; aquí cal una expressió de sorpresa."
+      - text: "Com qui no vol la cosa"
+        why: "Això vol dir dissimuladament; aquí cal una expressió de sorpresa."
+    explanation: "*Ves per on* expressa sorpresa per una coincidència."
+
+  - id: b1-22-051
+    type: match
+    point: connectors-relat
+    lesson: 4
+    instruction: "Relaciona cada connector amb el seu ús."
+    pairs:
+      - ["de cop", "un fet sobtat"]
+      - ["l'endemà", "un dia més tard"]
+      - ["al cap de", "passat un temps"]
+      - ["aleshores", "en aquell moment del relat"]
+    explanation: "Són els connectors del relat: moment, fets sobtats i temps que passa."
+
+  - id: b1-22-052
+    type: fill
+    point: connectors-relat
+    lesson: 4
+    prompt: "Van arribar els bombers i ___ van apagar el foc en una hora."
+    hint: "connector: en aquell moment"
+    answers: ["aleshores", "llavors"]
+    wrong_answers:
+      - text: "l'endemà"
+        why: "*L'endemà* és l'endemà; la pista demana «en aquell moment»: *aleshores*."
+    grading: tolerant
+    explanation: "*Aleshores* i *llavors* volen dir en aquell moment del relat."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-22-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un incendi a Gràcia"
+    text: |
+      Dimarts a la tarda la Carla tornava de la feina quan va veure una columna de fum al seu carrer, a Gràcia. Una botiga de roba s'estava cremant: les flames sortien per la porta i una vintena de veïns miraven des de la vorera del davant.
+
+      La Carla va trucar tot d'una als bombers. Mentrestant, el forner del costat va tancar el gas del seu edifici i dos veïns van ajudar una dona gran a baixar al carrer. Al cap de deu minuts van arribar dues ambulàncies i tres camions de bombers, que van apagar el foc en menys d'una hora.
+
+      Segons els bombers, el foc havia començat a la rebotiga, on hi havia capses de cartó. Per sort, ningú havia entrat a la botiga aquella tarda i no hi va haver ferits. L'única víctima va ser una bombera, que va respirar fum i la van portar a l'hospital per precaució.
+
+      L'endemà, el titular del diari del barri deia que la botiga ja havia tingut un petit incendi feia dos anys. La Carla, que havia comprat un jersei allà mateix la setmana anterior, encara no s'ho creia.
+
+      —Ves per on —va dir—. La setmana passada hi vaig comprar un jersei!
+    questions:
+      - prompt: "Què va veure la Carla quan tornava de la feina?"
+        answer: "Fum que sortia d'una botiga del seu carrer."
+        distractors:
+          - text: "Els bombers davant de casa seva."
+            why: "Els bombers van arribar després, quan la Carla ja havia trucat."
+          - text: "Tres camions a la vorera del davant."
+            why: "A la vorera hi havia els veïns; els camions van arribar més tard."
+      - prompt: "Què van fer els veïns abans que arribessin els bombers?"
+        answer: "Van acompanyar una dona gran fins al carrer."
+        distractors:
+          - text: "Van tancar el gas de tot el barri."
+            why: "El forner va tancar el gas del seu edifici, no de tot el barri."
+          - text: "Van entrar a la botiga a treure les capses."
+            why: "Ningú havia entrat a la botiga aquella tarda."
+      - prompt: "Per què no hi va haver ferits?"
+        answer: "Perquè no hi havia ningú a la botiga."
+        distractors:
+          - text: "Perquè els veïns van apagar el foc."
+            why: "El foc el van apagar els bombers, no els veïns."
+          - text: "Perquè només es va cremar la rebotiga."
+            why: "El foc va començar a la rebotiga, però les flames sortien per la porta."
+      - prompt: "Què deia el diari de l'endemà?"
+        answer: "Que la botiga ja s'havia cremat una vegada."
+        distractors:
+          - text: "Que la Carla hi havia comprat un jersei."
+            why: "Això ho pensa la Carla, no és el que diu el diari."
+          - text: "Que una bombera estava greu a l'hospital."
+            why: "La bombera només havia respirat fum i hi era per precaució."
+    explanation: "El text explica un incendi en una botiga de Gràcia i com el van apagar."
+
+  - id: b1-22-054
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Fa dos dies ha caigut un arbre al passeig de Gràcia."
+    error: "ha caigut"
+    fix: "va caure"
+    fix_distractors:
+      - text: "queia"
+        why: "*Queia* seria una descripció; aquí és un fet puntual."
+      - text: "havia caigut"
+        why: "*Havia caigut* seria anterior a un altre fet; aquí és el fet principal."
+    explanation: "El perfet no va amb un passat tancat com *fa dos dies*: *va caure*."
+
+  - id: b1-22-055
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Aquest matí hi ha hagut una retenció de tres quilòmetres a la ronda."
+    no_error: true
+    explanation: "La frase és correcta: amb *aquest matí* el perfet *hi ha hagut* hi va bé."
+
+  - id: b1-22-056
+    type: inline-choice
+    point: imperfet-relat
+    lesson: 5
+    title: "L'avís del veí"
+    text: "En Karim {dormia|va dormir|ha dormit} quan {va sentir|sentia|ha sentit} un soroll: el veí del tercer cridava el seu nom mentre {baixava|va baixar|ha baixat} l'escala."
+    explanation: "*Dormia* i *baixava* descriuen el moment; *va sentir* és el fet puntual."
+
+  - id: b1-22-057
+    type: fill
+    point: plusquamperfet
+    lesson: 5
+    prompt: "Els lladres van entrar per la porta del darrere, que el porter ja ___ oberta."
+    hint: "deixar, plusquamperfet"
+    answers: ["havia deixat"]
+    wrong_answers:
+      - text: "va deixar"
+        why: "Amb *ja* cal marcar l'anterioritat: *havia deixat*."
+    grading: tolerant
+    explanation: "«Ja» indica que és anterior: *havia deixat*."
+
+  - id: b1-22-058
+    type: transform
+    point: imperfet-relat
+    lesson: 5
+    instruction: "Reescriu la frase com un costum del passat."
+    source: "Ahir la Núria [[va anar]] a córrer al parc."
+    answers:
+      - "La Núria anava a córrer al parc cada dia."
+      - "Cada dia la Núria anava a córrer al parc."
+      - "La Núria anava cada dia a córrer al parc."
+      - "La Núria anava a córrer cada dia al parc."
+    wrong_answers:
+      - text: "Ahir la Núria anava a córrer al parc."
+        why: "Amb *ahir* la frase parla d'un dia concret, no d'un costum."
+      - text: "La Núria ha anat a córrer al parc cada dia."
+        why: "El perfet no va amb un costum del passat."
+    grading: tolerant
+    explanation: "El costum del passat es fa amb l'imperfet: *anava*."
+
+  - id: b1-22-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Vine tot d'una!»?"
+    answer: "Vine de seguida, sense esperar."
+    distractors:
+      - text: "Vine sense que es noti."
+        why: "Això és *com qui no vol la cosa*."
+      - text: "Vine quan vulguis."
+        why: "*Tot d'una* vol dir ara mateix, no quan vulguis."
+    explanation: "*Tot d'una* vol dir de seguida, immediatament."
+
+  - id: b1-22-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Saps qui era el testimoni? —___, el meu veí del tercer, que venia de la comissaria!"
+    answer: "Ves per on"
+    distractors:
+      - text: "Tot d'una"
+        why: "*Tot d'una* vol dir de seguida; aquí cal una expressió de sorpresa."
+      - text: "De cop i volta"
+        why: "*De cop i volta* vol dir de sobte; aquí cal una expressió de sorpresa."
+    explanation: "*Ves per on* expressa sorpresa per una coincidència."
+
+  - id: b1-22-061
+    type: find-error
+    point: imperfet-relat
+    lesson: 5
+    sentence: "Mentre la policia va fer fotos, el periodista prenia notes."
+    error: "va fer"
+    fix: "feia"
+    fix_distractors:
+      - text: "ha fet"
+        why: "El perfet no va en un relat del passat."
+      - text: "havia fet"
+        why: "*Havia fet* seria anterior a un altre fet; aquí és simultani: *feia*."
+    explanation: "Amb *mentre* cal l'imperfet: *mentre la policia feia fotos*."
+
+  - id: b1-22-062
+    type: order
+    point: plusquamperfet
+    lesson: 5
+    cue: "Digues que quan vas arribar ja havien apagat el foc."
+    chunks: ["quan vaig arribar", "ja", "havien apagat", "el foc"]
+    extra: ["han apagat"]
+    answers:
+      - "Quan vaig arribar ja havien apagat el foc."
+      - "Ja havien apagat el foc quan vaig arribar."
+    explanation: "El foc ja estava apagat: plusquamperfet, *havien apagat*."
+
+  - id: b1-22-063
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Em pots ajudar amb les bosses? —Sí, vinc tot ___!"
+    hint: "expressió: de seguida"
+    answers: ["d'una", "seguit"]
+    wrong_answers:
+      - text: "d'un"
+        why: "*Tot d'un* no existeix: l'expressió és *tot d'una*."
+      - text: "seguida"
+        why: "*Tot seguida* no existeix: és *tot d'una* (o *tot seguit*)."
+    grading: tolerant
+    explanation: "*Vinc tot d'una* vol dir que vinc de seguida."
+
+  - id: b1-22-064
+    type: choice
+    point: connectors-relat
+    lesson: 5
+    prompt: "Els bombers van arribar a les tres. ___, a un quart de quatre el foc ja estava apagat."
+    answer: "Al cap d'un quart d'hora"
+    distractors:
+      - text: "L'endemà a la tarda"
+        why: "*L'endemà* és l'endemà; aquí passen minuts."
+      - text: "De cop i volta"
+        why: "*De cop i volta* és de sobte; aquí cal un temps després."
+    explanation: "De les tres a un quart de quatre passen minuts: *al cap d'un quart d'hora*."
+
+  - id: b1-22-065
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "Ahir els veïns ___ una recollida de diners per a la botiga cremada."
+    hint: "organitzar, perifràstic"
+    answers: ["van organitzar"]
+    wrong_answers:
+      - text: "han organitzat"
+        why: "El perfet no va amb *ahir*: *van organitzar*."
+      - text: "organitzaven"
+        why: "És un fet puntual d'ahir, no un costum: *van organitzar*."
+    grading: tolerant
+    explanation: "«Ahir» i un fet puntual: perifràstic, *van organitzar*."

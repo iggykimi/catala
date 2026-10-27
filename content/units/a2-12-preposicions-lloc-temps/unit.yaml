@@ -1,0 +1,1068 @@
+id: a2-12
+level: A2
+title: "Preposicions de lloc i temps"
+summary: "Les preposicions *a, en, de, amb, per, cap a, fins a, des de*, l'hora i la data (*a les tres, el dilluns, al matí, a l'estiu, el 2025*) i expressions de temps."
+vocabulary_theme: "Calendari, horaris i festes"
+points:
+  - id: lloc-a-en
+    title: "El lloc: *a* i *en*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: origen-desti
+    title: "Origen i destí: *de, des de, cap a, fins a, amb, per*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: temps
+    title: "L'hora i la data: *a les tres, el dilluns, al matí, a l'estiu, el 2025*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *en Barcelona* i *desde*"
+  - id: expressions
+    title: "Expressions de temps"
+lessons:
+  - title: "On vius?"
+  - title: "D'on vens i on vas"
+  - title: "L'hora i els calcs"
+  - title: "Tu parles"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el calendari"
+    definition: "Full o llibre amb els dies de l'any."
+    example: "Miro el calendari: quin dia és Sant Jordi?"
+  - word: "l'horari"
+    definition: "Hores d'obertura d'un lloc o de sortida d'un transport."
+    example: "L'horari del museu és de deu a set."
+  - word: "la data"
+    definition: "Dia, mes i any d'un fet."
+    example: "La data del concert és al calendari de la cuina."
+  - word: "el matí"
+    definition: "Primera part del dia, fins al migdia."
+    example: "Al matí treballo en una fleca."
+  - word: "la tarda"
+    definition: "Part del dia entre el migdia i el vespre."
+    example: "A la tarda anem a passejar."
+  - word: "el vespre"
+    definition: "Última part del dia, abans de la nit."
+    example: "Sopem a les nou del vespre."
+  - word: "la nit"
+    definition: "Hores fosques entre el vespre i el matí."
+    example: "De nit dormo vuit hores."
+  - word: "el migdia"
+    definition: "Les dotze del matí, hora de dinar."
+    example: "Al migdia dinem a la feina."
+  - word: "l'hora"
+    definition: "Moment concret del dia."
+    example: "A quina hora quedem?"
+  - word: "el minut"
+    definition: "Seixantena part d'una hora."
+    example: "El tren arriba amb cinc minuts de retard."
+  - word: "el dia"
+    definition: "Vint-i-quatre hores; temps amb llum."
+    example: "Quin dia quedem: divendres o dissabte?"
+  - word: "la setmana"
+    definition: "Set dies, de dilluns a diumenge."
+    example: "La setmana que ve tinc vacances."
+  - word: "el cap de setmana"
+    definition: "Dissabte i diumenge."
+    example: "El cap de setmana anem a la platja."
+  - word: "l'any"
+    definition: "Dotze mesos."
+    example: "L'any passat vam anar a Menorca."
+  - word: "l'estiu"
+    definition: "Estació més calenta, entre la primavera i la tardor."
+    example: "A l'estiu anem a la platja."
+  - word: "l'hivern"
+    definition: "Estació més freda, entre la tardor i la primavera."
+    example: "A l'hivern esquiem als Pirineus."
+  - word: "la primavera"
+    definition: "Estació entre l'hivern i l'estiu."
+    example: "A la primavera hi ha flors al parc."
+  - word: "la tardor"
+    definition: "Estació entre l'estiu i l'hivern."
+    example: "A la tardor pleguem bolets."
+  - word: "la festa"
+    definition: "Dia especial amb celebració."
+    example: "La festa és a la plaça Major."
+  - word: "la festa major"
+    definition: "Festa gran d'un poble o d'un barri."
+    example: "A la festa major hi ha concerts."
+  - word: "Sant Joan"
+    definition: "Festa del 24 de juny, amb fogueres."
+    example: "Celebrem Sant Joan a la platja."
+  - word: "el Nadal"
+    definition: "Festa del desembre, amb la família."
+    example: "Aquest Nadal anem a veure els avis."
+  - word: "Sant Jordi"
+    definition: "Festa del 23 d'abril, amb llibres i roses."
+    example: "Sant Jordi regalem llibres i roses."
+  - word: "la revetlla"
+    definition: "Nit abans d'una festa."
+    example: "La revetlla de Sant Joan sopem fora."
+  - word: "puntual"
+    definition: "Que arriba a l'hora."
+    example: "El tren és molt puntual."
+  - word: "aviat"
+    definition: "Al cap de poc temps; d'hora."
+    example: "El metge et rebrà aviat."
+  - word: "celebrar"
+    definition: "Fer una festa per un fet."
+    example: "Celebrem l'aniversari amb els avis."
+  - word: "quedar"
+    definition: "Acordar una trobada amb algú."
+    example: "Quedem a les tres a la plaça."
+  - word: "passejar"
+    definition: "Caminar sense pressa, per gust."
+    example: "Passegem per la plaça cada tarda."
+  - word: "tornar"
+    definition: "Anar al lloc d'on has sortit."
+    example: "Torno a casa a les sis."
+  - word: "arribar"
+    definition: "Ser al lloc on vols anar."
+    example: "El tren arriba a les nou."
+  - word: "acompanyar"
+    definition: "Anar amb algú a un lloc."
+    example: "L'acompanyo fins a l'estació."
+  - word: "el poble"
+    definition: "Lloc petit on viu gent."
+    example: "Viuen en un poble de la costa."
+  - word: "la ciutat"
+    definition: "Lloc gran on viu molta gent."
+    example: "Girona és una ciutat molt bonica."
+  - word: "el barri"
+    definition: "Part d'una ciutat."
+    example: "Visc en un barri tranquil."
+  - word: "la plaça"
+    definition: "Espai obert on es troba la gent."
+    example: "Hi ha concerts a la plaça."
+  - word: "el mercat"
+    definition: "Lloc on es venen aliments."
+    example: "Comprem el pa al mercat."
+  - word: "la platja"
+    definition: "Costa de sorra on et banyes."
+    example: "La platja és plena de gent."
+  - word: "la muntanya"
+    definition: "Lloc alt amb boscos i pics."
+    example: "Pugem a la muntanya cada diumenge."
+  - word: "el tren"
+    definition: "Transport que va per vies."
+    example: "El tren va cap a Girona cada hora."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-12-001
+    type: choice
+    point: lloc-a-en
+    lesson: 1
+    prompt: "La Laia viu ___ Tarragona des de fa un any."
+    answer: "a"
+    distractors:
+      - text: "en"
+        why: "*En Tarragona* és un calc de «en Tarragona». Amb ciutats: *a*."
+      - text: "amb"
+        why: "*Amb* indica companyia. On viu porta *a*: *a Tarragona*."
+    explanation: "Amb els noms de ciutat, el lloc porta *a*: «viu a Tarragona»."
+
+  - id: a2-12-002
+    type: choice
+    point: lloc-a-en
+    lesson: 1
+    prompt: "Els nens són ___escola: pleguen a les cinc."
+    answer: "a l'"
+    distractors:
+      - text: "en l'"
+        why: "*En* no va amb article definit. El lloc és *a l'escola*."
+      - text: "de l'"
+        why: "*De* indica origen. On són porta *a*: *a l'escola*."
+    explanation: "*Escola* porta article definit: el lloc és *a l'escola*."
+
+  - id: a2-12-003
+    type: choice
+    point: lloc-a-en
+    lesson: 1
+    prompt: "Viuen ___ aquell poble de la costa."
+    answer: "en"
+    distractors:
+      - text: "d'"
+        why: "*De* indica origen. On viuen porta *en*: *en aquell poble*."
+      - text: "amb"
+        why: "*Amb* indica companyia. Amb un demostratiu, el lloc porta *en*."
+    explanation: "Davant del demostratiu «aquell», el lloc porta *en*."
+
+  - id: a2-12-004
+    type: choice
+    point: lloc-a-en
+    lesson: 1
+    prompt: "El Wei treballa ___ una fàbrica de Sabadell."
+    answer: "en"
+    distractors:
+      - text: "de"
+        why: "*De* indica origen. On treballa porta *en*: *en una fàbrica*."
+      - text: "amb"
+        why: "*Amb* indica companyia. Amb un indefinit, el lloc porta *en*."
+    explanation: "Davant de l'indefinit «una», el lloc porta *en*."
+
+  - id: a2-12-005
+    type: choice
+    point: lloc-a-en
+    lesson: 1
+    prompt: "Comprem el pa ___ mercat de la plaça."
+    answer: "al"
+    distractors:
+      - text: "en el"
+        why: "*En* no va amb article definit. El lloc és *al mercat*."
+      - text: "amb el"
+        why: "*Amb* indica companyia. El lloc és *a* + *el* = *al*."
+    explanation: "«El mercat» porta article definit: *a* + *el* = *al*."
+
+  - id: a2-12-006
+    type: choice
+    point: origen-desti
+    lesson: 1
+    prompt: "La Carla és ___ Valls: tota la família és allà."
+    answer: "de"
+    distractors:
+      - text: "en"
+        why: "*En* no indica origen. «Ser de Valls» diu d'on és."
+      - text: "amb"
+        why: "*Amb* indica companyia. L'origen amb *ser* porta *de*."
+    explanation: "Amb *ser*, l'origen porta *de*: «és de Valls»."
+
+  - id: a2-12-007
+    type: choice
+    point: origen-desti
+    lesson: 1
+    prompt: "Vaig al cinema ___ la Núria cada divendres."
+    answer: "amb"
+    distractors:
+      - text: "en"
+        why: "*En* no indica companyia. Amb una persona: *amb la Núria*."
+      - text: "de"
+        why: "*De* indica origen. Qui t'acompanya porta *amb*."
+    explanation: "La persona que t'acompanya porta *amb*: «amb la Núria»."
+
+  - id: a2-12-008
+    type: choice
+    point: origen-desti
+    lesson: 1
+    prompt: "Cada tarda passegem ___ la plaça amb el gos."
+    answer: "per"
+    distractors:
+      - text: "amb"
+        why: "*Amb la plaça* no té sentit: la companyia és el gos. El pas porta *per*."
+      - text: "en"
+        why: "*En* no indica pas. On passeges porta *per*: *per la plaça*."
+    explanation: "El lloc de pas porta *per*: «passegem per la plaça»."
+
+  - id: a2-12-009
+    type: inline-choice
+    point: lloc-a-en
+    lesson: 1
+    title: "Un missatge de la Fàtima"
+    text: "Visc {a|en} Reus, {en|amb|de} un pis petit del centre. Treballo {a|en} l'hospital i vaig a la feina {amb|en|de} la meva germana. Diumenge dinem {a|en|de} casa."
+    explanation: "*A* amb ciutats (*a Reus*), article definit (*a l'hospital*) i *casa*. *En* amb l'indefinit (*en un pis*). *Amb* per a la companyia."
+
+  - id: a2-12-010
+    type: fill
+    point: lloc-a-en
+    lesson: 1
+    prompt: "La Montse viu ___ Girona amb la seva parella."
+    hint: "preposició de lloc"
+    answers: ["a"]
+    wrong_answers:
+      - text: "en"
+        why: "*En Girona* és un calc de «en Gerona». Amb ciutats: *a*."
+      - text: "de"
+        why: "*De* indica origen. On viu porta *a*: *a Girona*."
+    grading: tolerant
+    explanation: "Amb els noms de ciutat, el lloc porta *a*: «viu a Girona»."
+
+  - id: a2-12-011
+    type: fill
+    point: origen-desti
+    lesson: 1
+    prompt: "El tren passa ___ Manresa a les nou."
+    hint: "preposició: lloc de pas"
+    answers: ["per"]
+    wrong_answers:
+      - text: "amb"
+        why: "*Amb* indica companyia. El lloc de pas porta *per*."
+      - text: "en"
+        why: "*En* no indica pas. Per on passa porta *per*."
+    grading: tolerant
+    explanation: "El lloc de pas porta *per*: «passa per Manresa»."
+
+  - id: a2-12-012
+    type: order
+    point: lloc-a-en
+    lesson: 1
+    cue: "Digues on vius i des de quan: Barcelona, l'any passat."
+    chunks: ["visc", "a", "Barcelona", "des de l'any passat"]
+    extra: ["en"]
+    answers:
+      - "Visc a Barcelona des de l'any passat."
+      - "Des de l'any passat visc a Barcelona."
+      - "Visc des de l'any passat a Barcelona."
+    explanation: "Amb ciutats, el lloc porta *a*: *a Barcelona*. *En Barcelona* és un calc."
+
+  - id: a2-12-013
+    type: order
+    point: origen-desti
+    lesson: 1
+    cue: "Digues que vas al cinema amb la Núria."
+    chunks: ["vaig", "al", "cinema", "amb la Núria"]
+    extra: ["en el"]
+    answers:
+      - "Vaig al cinema amb la Núria."
+      - "Amb la Núria vaig al cinema."
+    explanation: "*A* + *el* = *al*. La companyia porta *amb*: «amb la Núria»."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-12-014
+    type: fill
+    point: lloc-a-en
+    lesson: 2
+    prompt: "Dinem ___ casa cada diumenge."
+    hint: "preposició de lloc"
+    answers: ["a"]
+    wrong_answers:
+      - text: "en"
+        why: "*En casa* és un calc de «en casa». En català: *a casa*."
+      - text: "de"
+        why: "*De casa* indica origen. On dineu porta *a*: *a casa*."
+    grading: tolerant
+    explanation: "«Casa» com a llar no porta article: *a casa*. *En casa* és un calc."
+
+  - id: a2-12-015
+    type: fill
+    point: lloc-a-en
+    lesson: 2
+    prompt: "La festa és ___ barri vell: hi ha concerts a la plaça."
+    hint: "*a* + *el*"
+    answers: ["al"]
+    wrong_answers:
+      - text: "en el"
+        why: "*En* no va amb article definit: *al barri*."
+      - text: "a el"
+        why: "*A* i *el* s'ajunten en una paraula: *al*."
+    grading: strict
+    explanation: "*A* + *el* = *al*: «és al barri vell»."
+
+  - id: a2-12-016
+    type: fill
+    point: origen-desti
+    lesson: 2
+    prompt: "La Fàtima és ___ Tortosa, però viu a Reus."
+    hint: "preposició d'origen"
+    answers: ["de"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* no indica origen: «és de Tortosa»."
+      - text: "amb"
+        why: "*Amb* indica companyia. L'origen porta *de*."
+    grading: tolerant
+    explanation: "Amb *ser*, l'origen porta *de*: «és de Tortosa»."
+
+  - id: a2-12-017
+    type: fill
+    point: origen-desti
+    lesson: 2
+    prompt: "Anem d'excursió ___ els cosins."
+    hint: "preposició de companyia"
+    answers: ["amb"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* no indica companyia: *amb els cosins*."
+      - text: "de"
+        why: "*De* indica origen. Qui ve porta *amb*."
+    grading: tolerant
+    explanation: "La companyia porta *amb*: «amb els cosins»."
+
+  - id: a2-12-018
+    type: fill
+    point: lloc-a-en
+    lesson: 2
+    prompt: "Els llibres són ___ la prestatgeria del menjador."
+    hint: "preposició de lloc"
+    answers: ["a"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* no va amb article definit: *a la prestatgeria*."
+      - text: "de"
+        why: "*De* indica origen. On són porta *a*."
+    grading: tolerant
+    explanation: "Amb article definit, el lloc porta *a*: «són a la prestatgeria»."
+
+  - id: a2-12-019
+    type: fill
+    point: origen-desti
+    lesson: 2
+    prompt: "Passegem ___ barri cada vespre."
+    hint: "*per* + *el*"
+    answers: ["pel"]
+    wrong_answers:
+      - text: "per el"
+        why: "*Per* i *el* s'ajunten en una paraula: *pel*."
+      - text: "amb el"
+        why: "*Amb el barri* no indica pas. El pas és *per* + *el* = *pel*."
+    grading: strict
+    explanation: "*Per* + *el* = *pel*: «passegem pel barri»."
+
+  - id: a2-12-020
+    type: order
+    point: lloc-a-en
+    lesson: 2
+    cue: "Digues on viuen els avis: un poble de la costa."
+    chunks: ["els avis", "viuen", "en", "un poble de la costa"]
+    extra: ["de"]
+    answers:
+      - "Els avis viuen en un poble de la costa."
+      - "En un poble de la costa viuen els avis."
+    explanation: "Davant de l'indefinit «un», el lloc porta *en*: *en un poble*."
+
+  - id: a2-12-021
+    type: order
+    point: origen-desti
+    lesson: 2
+    cue: "Digues d'on és la Laia i on viu: Tortosa, Reus."
+    chunks: ["la Laia", "és", "de Tortosa", "i viu a Reus"]
+    extra: ["en Tortosa"]
+    answers:
+      - "La Laia és de Tortosa i viu a Reus."
+    explanation: "L'origen amb *ser* porta *de*. On viu porta *a*: «viu a Reus»."
+
+  - id: a2-12-022
+    type: order
+    point: origen-desti
+    lesson: 2
+    cue: "Un amic va a Berga. Digues per on passa l'autobús: Manresa."
+    chunks: ["l'autobús", "passa", "per", "Manresa"]
+    extra: ["amb"]
+    answers:
+      - "L'autobús passa per Manresa."
+    explanation: "El lloc de pas porta *per*: «passa per Manresa»."
+
+  - id: a2-12-023
+    type: choice
+    point: origen-desti
+    lesson: 2
+    prompt: "Mira ___ la finestra: ja plou."
+    answer: "cap a"
+    distractors:
+      - text: "a"
+        why: "*Mirar a* no és correcte. La direcció porta *cap a*."
+      - text: "de"
+        why: "*De* indica origen. La direcció porta *cap a*."
+    explanation: "Amb *mirar*, la direcció porta *cap a*: «mira cap a la finestra»."
+
+  - id: a2-12-024
+    type: choice
+    point: origen-desti
+    lesson: 2
+    prompt: "L'acompanyo ___ l'estació: el tren surt a les nou."
+    answer: "fins a"
+    distractors:
+      - text: "des de"
+        why: "*Des de* indica l'inici. Aquí és el final: *fins a*."
+      - text: "amb"
+        why: "*Amb l'estació* no indica destí. El final porta *fins a*."
+    explanation: "El final d'un camí porta *fins a*: «fins a l'estació»."
+
+  - id: a2-12-025
+    type: choice
+    point: origen-desti
+    lesson: 2
+    prompt: "Viu a Olot ___ l'any passat."
+    answer: "des de"
+    distractors:
+      - text: "de"
+        why: "*De* tot sol no indica l'inici: *des de l'any passat*."
+      - text: "fins a"
+        why: "*Fins a* indica el final. Aquí és l'inici: *des de*."
+    explanation: "L'inici d'un temps porta *des de*: «des de l'any passat»."
+
+  - id: a2-12-026
+    type: choice
+    point: compte-castella
+    lesson: 2
+    prompt: "Visc ___ Girona des de fa dos anys."
+    answer: "a"
+    distractors:
+      - text: "en"
+        why: "*En Girona* és un calc de «en Gerona». Amb ciutats: *a*."
+      - text: "de"
+        why: "*De* indica origen. On vius porta *a*: *a Girona*."
+    explanation: "*En Girona* és un calc de «en Gerona». Amb ciutats: *a Girona*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-12-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Visc en Barcelona des de fa dos anys."
+    error: "en Barcelona"
+    fix: "a Barcelona"
+    fix_distractors:
+      - text: "de Barcelona"
+        why: "*De* indica origen. On vius porta *a*: *a Barcelona*."
+      - text: "amb Barcelona"
+        why: "Amb noms de ciutat, el lloc porta *a*: *a Barcelona*."
+    explanation: "*En Barcelona* és un calc de «en Barcelona». Amb ciutats: *a*."
+
+  - id: a2-12-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Treballa aquí desde l'any passat."
+    error: "desde"
+    fix: "des de"
+    fix_distractors:
+      - text: "de"
+        why: "*De* tot sol no indica l'inici: *des de l'any passat*."
+      - text: "fins a"
+        why: "*Fins a* indica el final. Aquí és l'inici: *des de*."
+    explanation: "*Desde* no existeix en català: s'escriu separat, *des de*."
+
+  - id: a2-12-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Quedem en les tres a la plaça."
+    error: "en les tres"
+    fix: "a les tres"
+    fix_distractors:
+      - text: "de les tres"
+        why: "*De* no indica hora. L'hora porta *a*: *a les tres*."
+      - text: "les tres"
+        why: "L'hora necessita la preposició *a*: *a les tres*."
+    explanation: "L'hora porta *a*, no *en*: *a les tres*. *En les tres* és un calc."
+
+  - id: a2-12-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Al dilluns tinc dentista a Vic."
+    error: "Al dilluns"
+    fix: "El dilluns"
+    fix_distractors:
+      - text: "En dilluns"
+        why: "*En* no va amb els dies: *el dilluns*."
+      - text: "Del dilluns"
+        why: "*De* no va amb els dies. El dia no porta preposició: *el dilluns*."
+    explanation: "Els dies no porten preposició: *el dilluns*, no *al dilluns*."
+
+  - id: a2-12-031
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Després de la feina torno en casa."
+    error: "en casa"
+    fix: "a casa"
+    fix_distractors:
+      - text: "en la casa"
+        why: "Amb «casa» com a llar no hi ha article: *a casa*."
+      - text: "amb casa"
+        why: "*Amb* indica companyia. On tornes porta *a*: *a casa*."
+    explanation: "«Casa» com a llar no porta article: *a casa*. *En casa* és un calc."
+
+  - id: a2-12-032
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Passegen en la plaça cada tarda."
+    error: "en la plaça"
+    fix: "per la plaça"
+    fix_distractors:
+      - text: "amb la plaça"
+        why: "*Amb* indica companyia. El lloc de pas porta *per*."
+      - text: "de la plaça"
+        why: "*De* indica origen. On passegen és un pas: *per la plaça*."
+    explanation: "El lloc de pas porta *per*: *per la plaça*. *En la plaça* és un calc."
+
+  - id: a2-12-033
+    type: choice
+    point: temps
+    lesson: 3
+    prompt: "El tren arriba ___ les nou del matí."
+    answer: "a"
+    distractors:
+      - text: "en"
+        why: "*En* no indica hora: *a les nou*."
+      - text: "de"
+        why: "*De* no indica hora. L'hora porta *a*."
+    explanation: "L'hora porta *a*: *a les nou*."
+
+  - id: a2-12-034
+    type: choice
+    point: temps
+    lesson: 3
+    prompt: "___ dilluns tinc metge a Vic."
+    answer: "El"
+    distractors:
+      - text: "Al"
+        why: "Els dies no porten preposició: *el dilluns*."
+      - text: "En"
+        why: "*En* no va amb els dies: *el dilluns*."
+    explanation: "Els dies van amb article i sense preposició: *el dilluns*."
+
+  - id: a2-12-035
+    type: choice
+    point: temps
+    lesson: 3
+    prompt: "Treballa ___ matí en una fleca."
+    answer: "al"
+    distractors:
+      - text: "el"
+        why: "*El matí* tot sol no diu quan. Les parts del dia porten *a*: *al matí*."
+      - text: "en"
+        why: "*En matí* no és correcte. Les parts del dia porten *a*: *al matí*."
+    explanation: "Les parts del dia porten *a*: *a* + *el* = *al matí*."
+
+  - id: a2-12-036
+    type: fill
+    point: temps
+    lesson: 3
+    prompt: "El concert comença ___ les vuit del vespre."
+    hint: "preposició d'hora"
+    answers: ["a"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* no indica hora. L'hora porta *a*."
+      - text: "de"
+        why: "*De* no indica hora. L'hora porta *a*."
+    grading: tolerant
+    explanation: "L'hora porta *a*: *a les vuit*."
+
+  - id: a2-12-037
+    type: fill
+    point: temps
+    lesson: 3
+    prompt: "Es van casar ___ 2025 a Girona."
+    hint: "article de l'any, sense preposició"
+    answers: ["el"]
+    wrong_answers:
+      - text: "al"
+        why: "Els anys no porten preposició: *el 2025*."
+      - text: "en el"
+        why: "*En* no va amb els anys: *el 2025*."
+    grading: tolerant
+    explanation: "Els anys van amb article i sense preposició: *el 2025*."
+
+  - id: a2-12-038
+    type: fill
+    point: temps
+    lesson: 3
+    prompt: "Cada any anem a la platja: fa molt bon temps ___estiu."
+    hint: "preposició + article"
+    answers: ["a l'"]
+    wrong_answers:
+      - text: "a el"
+        why: "*El* s'apostrofa davant de vocal: *a l'estiu*."
+      - text: "en l'"
+        why: "*En* no va amb les estacions: *a l'estiu*."
+    grading: strict
+    explanation: "Les estacions porten *a*: *a l'estiu*. *El* s'apostrofa davant de vocal."
+
+  - id: a2-12-039
+    type: match
+    point: temps
+    lesson: 3
+    instruction: "Relaciona cada expressió de temps amb la pregunta."
+    pairs:
+      - ["a les tres", "a quina hora?"]
+      - ["el dilluns", "quin dia?"]
+      - ["al matí", "a quina part del dia?"]
+      - ["a l'estiu", "a quina estació?"]
+      - ["el 2025", "quin any?"]
+    explanation: "Cada expressió respon una pregunta: hora, dia, part del dia, estació i any."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-12-040
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Viuen [[en Barcelona]] des de fa un any."
+    answers: ["Viuen a Barcelona des de fa un any."]
+    wrong_answers:
+      - text: "Viuen en Barcelona des de fa un any."
+        why: "Encara hi ha el calc: ha de ser *a Barcelona*."
+      - text: "Viuen de Barcelona des de fa un any."
+        why: "*De* indica origen. On viuen porta *a*: *a Barcelona*."
+    grading: tolerant
+    explanation: "*En Barcelona* és un calc de «en Barcelona». Amb ciutats: *a*."
+
+  - id: a2-12-041
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Viu a Vic [[desde]] fa dos anys."
+    answers: ["Viu a Vic des de fa dos anys."]
+    wrong_answers:
+      - text: "Viu a Vic desde fa dos anys."
+        why: "Encara hi ha l'error: *desde* s'escriu separat, *des de*."
+      - text: "Viu a Vic de fa dos anys."
+        why: "*De fa* no és correcte: és *des de fa dos anys*."
+    grading: tolerant
+    explanation: "*Desde* no existeix: s'escriu en dues paraules, *des de*."
+
+  - id: a2-12-042
+    type: transform
+    point: origen-desti
+    lesson: 4
+    instruction: "Canvia el destí a «Manresa»."
+    source: "El tren va [[cap a Vic]] cada hora."
+    answers: ["El tren va cap a Manresa cada hora."]
+    wrong_answers:
+      - text: "El tren va cap Manresa cada hora."
+        why: "*Cap* tot sol no és correcte: la direcció és *cap a*."
+      - text: "El tren va cap a Vic cada hora."
+        why: "Has de canviar el destí: *cap a Manresa*."
+    grading: tolerant
+    explanation: "La direcció porta *cap a*. Només canvia la ciutat: *cap a Manresa*."
+
+  - id: a2-12-043
+    type: transform
+    point: origen-desti
+    lesson: 4
+    instruction: "Canvia «l'estació» per «casa»."
+    source: "L'acompanyo [[fins a l'estació]]."
+    answers: ["L'acompanyo fins a casa."]
+    wrong_answers:
+      - text: "L'acompanyo fins casa."
+        why: "*Fins* davant d'un nom porta *a*: *fins a casa*."
+      - text: "L'acompanyo fins a l'estació."
+        why: "Has de canviar el final del camí: *fins a casa*."
+    grading: tolerant
+    explanation: "El final porta *fins a*. «Casa» no porta article: *fins a casa*."
+
+  - id: a2-12-044
+    type: transform
+    point: temps
+    lesson: 4
+    instruction: "Canvia l'hora a «les cinc»."
+    source: "Quedem [[a les tres]] a la plaça."
+    answers: ["Quedem a les cinc a la plaça."]
+    wrong_answers:
+      - text: "Quedem les cinc a la plaça."
+        why: "L'hora porta *a*: *a les cinc*."
+      - text: "Quedem a les tres a la plaça."
+        why: "Has de canviar l'hora: *a les cinc*."
+    grading: tolerant
+    explanation: "L'hora porta *a*. Només canvia el nombre: *a les cinc*."
+
+  - id: a2-12-045
+    type: transform
+    point: temps
+    lesson: 4
+    instruction: "Canvia «el dilluns» a «el dijous»."
+    source: "Tinc dentista [[el dilluns]] a Vic."
+    answers: ["Tinc dentista el dijous a Vic."]
+    wrong_answers:
+      - text: "Tinc dentista al dijous a Vic."
+        why: "Els dies no porten preposició: *el dijous*."
+      - text: "Tinc dentista el dilluns a Vic."
+        why: "Has de canviar el dia: *el dijous*."
+    grading: tolerant
+    explanation: "Els dies van sense preposició. Només canvia el dia: *el dijous*."
+
+  - id: a2-12-046
+    type: transform
+    point: lloc-a-en
+    lesson: 4
+    instruction: "Canvia «Girona» per «el mercat»."
+    source: "Vaig [[a Girona]] cada dissabte."
+    answers: ["Vaig al mercat cada dissabte."]
+    wrong_answers:
+      - text: "Vaig a el mercat cada dissabte."
+        why: "*A* i *el* s'ajunten en una paraula: *al*."
+      - text: "Vaig en el mercat cada dissabte."
+        why: "*En* no va amb article definit: *al mercat*."
+    grading: strict
+    explanation: "Amb article definit, *a* + *el* = *al*: *al mercat*."
+
+  - id: a2-12-047
+    type: fill
+    point: lloc-a-en
+    lesson: 4
+    prompt: "El concert és ___ la plaça Major."
+    hint: "preposició de lloc"
+    answers: ["a"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* no va amb article definit: *a la plaça*."
+      - text: "per"
+        why: "*Per* indica pas. On és, porta *a*: *a la plaça*."
+    grading: tolerant
+    explanation: "Amb article definit, el lloc porta *a*: «és a la plaça»."
+
+  - id: a2-12-048
+    type: fill
+    point: origen-desti
+    lesson: 4
+    prompt: "Mira ___ la porta: algú truca."
+    hint: "preposició de direcció"
+    answers: ["cap a"]
+    wrong_answers:
+      - text: "a"
+        why: "*Mirar a* no és correcte: la direcció porta *cap a*."
+      - text: "de"
+        why: "*De* indica origen. La direcció porta *cap a*."
+    grading: tolerant
+    explanation: "Amb *mirar*, la direcció porta *cap a*: «mira cap a la porta»."
+
+  - id: a2-12-049
+    type: fill
+    point: temps
+    lesson: 4
+    prompt: "Dinem plegats ___ diumenge: veniu?"
+    hint: "article del dia, sense preposició"
+    answers: ["el"]
+    wrong_answers:
+      - text: "al"
+        why: "Els dies no porten preposició: *el diumenge*."
+      - text: "en"
+        why: "*En* no va amb els dies: *el diumenge*."
+    grading: tolerant
+    explanation: "Els dies van sense preposició: *el diumenge*."
+
+  - id: a2-12-050
+    type: fill
+    point: temps
+    lesson: 4
+    prompt: "El museu tanca ___ dilluns per obres: obre dimarts."
+    hint: "article del dia"
+    answers: ["el"]
+    wrong_answers:
+      - text: "al"
+        why: "Els dies no porten preposició: *el dilluns*."
+      - text: "els"
+        why: "*Els dilluns* són tots. Aquí és només un: *el dilluns*."
+    grading: tolerant
+    explanation: "És un dilluns concret: *el dilluns*. «Obre dimarts» ho confirma."
+
+  - id: a2-12-051
+    type: order
+    point: origen-desti
+    lesson: 4
+    cue: "Digues on vius i des de quan: Olot, l'any passat."
+    chunks: ["visc", "a", "Olot", "des de l'any passat"]
+    extra: ["desde"]
+    answers:
+      - "Visc a Olot des de l'any passat."
+      - "Des de l'any passat visc a Olot."
+      - "Visc des de l'any passat a Olot."
+    explanation: "El lloc amb ciutats porta *a*. L'inici és *des de*, en dues paraules."
+
+  - id: a2-12-052
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "El metge et rebrà molt aviat. Digues-ho amb una expressió."
+    chunks: ["el", "metge", "et", "rebrà", "d'aquí a poc"]
+    extra: ["a poc"]
+    answers:
+      - "El metge et rebrà d'aquí a poc."
+      - "D'aquí a poc el metge et rebrà."
+    explanation: "*D'aquí a poc* vol dir «al cap de poc temps»: *et rebrà d'aquí a poc*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-12-053
+    type: reading
+    point: lloc-a-en
+    lesson: 5
+    title: "Un dissabte a Girona"
+    text: |
+      Abans de sortir, la Carla i en Pau miren l'horari al mòbil i arriben puntuals a l'estació, deu minuts abans. Viuen en un poble petit a prop de Girona. Dissabte van a la ciutat en tren: el tren arriba a les deu a l'estació del centre.
+
+      Al matí passegen per la muralla i compren formatge al mercat de la plaça. A les dues dinen en un restaurant del barri vell amb els avis, que viuen en aquell barri des de fa anys.
+
+      A la tarda visiten una exposició al museu i tornen a casa a les set. El cap de setmana que ve tornen a Girona: la data és al calendari de la cuina. El mes de juny hi ha la festa major.
+    questions:
+      - prompt: "Com van a Girona?"
+        answer: "En transport públic."
+        distractors:
+          - text: "Amb els avis."
+            why: "Dinen amb els avis, però el viatge el fan en tren."
+          - text: "Amb el cotxe dels avis."
+            why: "El text parla d'un tren, no d'un cotxe."
+      - prompt: "On dinen?"
+        answer: "En un local del barri antic."
+        distractors:
+          - text: "A casa dels avis."
+            why: "Dinen en un restaurant, no a casa dels avis."
+          - text: "Al mercat de la plaça."
+            why: "Al mercat compren formatge: dinen en un restaurant."
+      - prompt: "Què fan a la tarda?"
+        answer: "Van al museu i després marxen."
+        distractors:
+          - text: "Passegen per la muralla."
+            why: "Per la muralla passegen al matí."
+          - text: "Dinen amb els avis."
+            why: "Amb els avis dinen a les dues, al migdia."
+    explanation: "La Carla i en Pau passen el dissabte a Girona: mercat, dinar amb els avis i museu."
+
+  - id: a2-12-054
+    type: reading
+    point: temps
+    lesson: 5
+    title: "La festa de Sant Joan"
+    text: |
+      La revetlla de Sant Joan és el 23 de juny. A l'escola del barri fan una festa grossa: comença a les cinc de la tarda i acaba a les nou del vespre.
+
+      Els nens canten cançons i els pares porten coca. Al migdia els mestres paren les taules al pati. A les vuit fan un sopar fred al pati. La Maria, que és mestra, diu que és la millor festa de l'estiu.
+
+      L'any passat va ploure i van sopar al gimnàs. Aquest any fa bon temps i tothom vol sopar fora. L'horari de la festa surt al calendari del barri. Aquest Nadal van fer una festa petita, però la festa grossa és la festa major de la tardor.
+    questions:
+      - prompt: "Quan és la festa de l'escola?"
+        answer: "El 23 de juny a la tarda."
+        distractors:
+          - text: "El 23 de juny al matí."
+            why: "La festa comença a les cinc de la tarda."
+          - text: "Aquest Nadal."
+            why: "La festa petita va ser aquest Nadal: aquesta és la de Sant Joan."
+      - prompt: "Què fan a les vuit?"
+        answer: "Sopen junts al pati."
+        distractors:
+          - text: "Canten cançons."
+            why: "Els nens canten, però el sopar és a les vuit."
+          - text: "Paren les taules."
+            why: "Les taules les paren al migdia, abans de la festa."
+      - prompt: "Com va anar la festa de l'any passat?"
+        answer: "Va ploure i van sopar a dins."
+        distractors:
+          - text: "Va fer bon temps i van sopar fora."
+            why: "Això és aquest any: l'any passat va ploure."
+          - text: "No van fer festa."
+            why: "Sí que la van fer: van sopar al gimnàs."
+    explanation: "L'escola celebra Sant Joan amb una festa a la tarda: cançons, coca i sopar al pati."
+
+  - id: a2-12-055
+    type: inline-choice
+    point: temps
+    lesson: 5
+    title: "El calendari de la Núria"
+    text: "La Núria mira el calendari cada diumenge. Queda amb el metge {el|al|en} dilluns {a|en|de} les nou. El dimecres va a la muntanya amb els cosins: surten {a|en} primera hora i tornen {a|en} casa {a|en|de} les vuit del vespre. La setmana que ve celebra Sant Jordi amb la família."
+    explanation: "Els dies sense preposició (*el dilluns*). L'hora amb *a* (*a les nou*, *a les vuit*). *A* a *primera hora* i a *casa*."
+
+  - id: a2-12-056
+    type: inline-choice
+    point: origen-desti
+    lesson: 5
+    title: "Un missatge de l'Ibrahim"
+    text: "L'Ibrahim és {de|des de|en} Manresa, però viu a Vic {des de|de|fins a} l'any passat. Demà va {cap a|de|amb} la muntanya amb uns amics: surten a les set i l'Ibrahim els acompanya {fins al|des del|amb el} refugi. A l'hivern i a la primavera, la muntanya és plena de gent."
+    explanation: "L'origen amb *ser* (*de Manresa*). L'inici (*des de l'any passat*), la direcció (*cap a la muntanya*) i el final (*fins al refugi*)."
+
+  - id: a2-12-057
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Vine de seguida»?"
+    answer: "Vine ara mateix, sense esperar."
+    distractors:
+      - text: "Vine d'aquí a una estona."
+        why: "Això és *d'aquí a poc*, no *de seguida*."
+      - text: "Vine demà molt d'hora."
+        why: "Això és *a primera hora*, no *de seguida*."
+    explanation: "*De seguida* vol dir «ara mateix, sense esperar»."
+
+  - id: a2-12-058
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «El metge et rebrà d'aquí a poc»?"
+    answer: "Et rebrà al cap de poc temps."
+    distractors:
+      - text: "Et rebrà ara mateix."
+        why: "«Ara mateix» és *de seguida*. *D'aquí a poc* triga una mica."
+      - text: "Et rebrà demà al matí."
+        why: "*D'aquí a poc* és avui, no demà."
+    explanation: "*D'aquí a poc* vol dir «al cap de poc temps»."
+
+  - id: a2-12-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Treballes al matí o a la tarda? —Ni una cosa ni l'altra: treballo ___."
+    answer: "de nit"
+    distractors:
+      - text: "de dia"
+        why: "*De dia* és quan hi ha llum: matí i tarda. Diu que no."
+      - text: "a primera hora"
+        why: "*A primera hora* és al matí. Diu que no treballa al matí."
+    explanation: "Si no treballa ni al matí ni a la tarda, treballa *de nit*."
+
+  - id: a2-12-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Demà surto a primera hora»?"
+    answer: "Surto molt d'hora al matí."
+    distractors:
+      - text: "Surto de nit."
+        why: "*De nit* és quan és fosc. *A primera hora* és al matí."
+      - text: "Surto sense esperar."
+        why: "«Sense esperar» és *de seguida*. *A primera hora* diu l'hora."
+    explanation: "*A primera hora* vol dir «molt d'hora al matí»."
+
+  - id: a2-12-061
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Treballa ___ en un hospital: dorm de dia."
+    hint: "expressió de temps"
+    answers: ["de nit"]
+    wrong_answers:
+      - text: "de dia"
+        why: "Es contradiu amb «dorm de dia»: és *de nit*."
+      - text: "a primera hora"
+        why: "*A primera hora* és al matí. Si dorm de dia, treballa *de nit*."
+    grading: tolerant
+    explanation: "Dorm de dia, doncs treballa *de nit*: quan és fosc."
+
+  - id: a2-12-062
+    type: fill
+    point: temps
+    lesson: 5
+    prompt: "La festa comença ___ les cinc de la tarda."
+    hint: "preposició d'hora"
+    answers: ["a"]
+    wrong_answers:
+      - text: "en"
+        why: "*En* no indica hora: *a les cinc*."
+      - text: "de"
+        why: "*De* no indica hora. L'hora porta *a*."
+    grading: tolerant
+    explanation: "L'hora porta *a*: *a les cinc*."
+
+  - id: a2-12-063
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["de seguida", "ara mateix, sense esperar"]
+      - ["d'aquí a poc", "al cap de poc temps"]
+      - ["de dia", "quan hi ha llum"]
+      - ["de nit", "quan és fosc"]
+      - ["a primera hora", "molt d'hora al matí"]
+    explanation: "Són expressions per dir quan passa una cosa, sense donar l'hora exacta."
+
+  - id: a2-12-064
+    type: find-error
+    point: lloc-a-en
+    lesson: 5
+    sentence: "Treballo a Reus des de la primavera."
+    no_error: true
+    explanation: "La frase és correcta: *a Reus* amb *a*, i l'inici amb *des de*."
+
+  - id: a2-12-065
+    type: find-error
+    point: temps
+    lesson: 5
+    sentence: "Quedem el dilluns a les tres a la plaça."
+    no_error: true
+    explanation: "La frase és correcta: *el dilluns* sense preposició, *a les tres* i *a la plaça*."

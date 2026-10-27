@@ -1,0 +1,1058 @@
+id: a2-04
+level: A2
+title: "Possessius, demostratius i comparació"
+summary: "Els possessius amb article (*el meu cotxe*), els demostratius (*aquest, aquell, això, allò*), la comparació (*més… que, tan… com*) i el superlatiu (*grandíssim*)."
+vocabulary_theme: "Casa i habitatge"
+points:
+  - id: possessius
+    title: "Els possessius amb article"
+    refs:
+      - label: "GEIEC: Els possessius"
+        url: "https://geiec.iec.cat"
+  - id: demostratius
+    title: "Els demostratius: *aquest, aquell, això, allò*"
+    refs:
+      - label: "GEIEC: Els demostratius"
+        url: "https://geiec.iec.cat"
+  - id: comparacio
+    title: "La comparació i el superlatiu"
+    refs:
+      - label: "GEIEC: La comparació"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: l'article i *tan/tant*"
+  - id: expressions
+    title: "Expressions de casa"
+lessons:
+  - title: "Conèixer els possessius i els demostratius"
+  - title: "Practicar els possessius i els demostratius"
+  - title: "La comparació i els calcs"
+  - title: "Produir frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el pis"
+    definition: "Apartament en un edifici, amb habitacions, cuina i bany."
+    example: "Visc en un pis de lloguer a Sabadell."
+  - word: "la casa"
+    definition: "Edifici per viure-hi, normalment amb jardí o pati."
+    example: "La casa dels avis té tres habitacions."
+  - word: "l'escala"
+    definition: "L'espai d'un edifici amb els graons i l'ascensor."
+    example: "La meva bici és a l'escala."
+  - word: "el replà"
+    definition: "L'espai pla de l'escala davant de cada porta."
+    example: "Deixem el paraigua al replà."
+  - word: "l'ascensor"
+    definition: "La cabina que puja i baixa entre els pisos."
+    example: "Aquest edifici té ascensor."
+  - word: "el rebedor"
+    definition: "La primera peça del pis, just darrere la porta."
+    example: "Deixa les sabates al rebedor."
+  - word: "el menjador"
+    definition: "La peça on mengem i fem vida."
+    example: "Sopem al menjador amb els avis."
+  - word: "la cuina"
+    definition: "La peça on cuinem i guardem el menjar."
+    example: "La cuina nova té un forn molt bo."
+  - word: "l'habitació"
+    definition: "La peça on dormim."
+    example: "La meva habitació és petita, però té molta llum."
+  - word: "el bany"
+    definition: "La peça amb el lavabo, la dutxa o la banyera."
+    example: "El bany té una finestra petita."
+  - word: "el lavabo"
+    definition: "La pica on ens rentem les mans i la cara."
+    example: "Renta't les mans al lavabo."
+  - word: "el balcó"
+    definition: "La part d'un pis oberta al carrer, amb una barana."
+    example: "El balcó que dona al carrer és molt gran."
+  - word: "la terrassa"
+    definition: "Un espai obert i pla per estar-hi a l'aire lliure."
+    example: "A l'estiu sopem a la terrassa."
+  - word: "el pati"
+    definition: "L'espai obert dins d'una casa o d'una illa de cases."
+    example: "Les finestres donen al pati."
+  - word: "el jardí"
+    definition: "El tros de terra amb plantes i flors."
+    example: "Rego el jardí cada tarda."
+  - word: "el garatge"
+    definition: "El lloc on guardem el cotxe o la moto."
+    example: "La moto és al garatge."
+  - word: "el traster"
+    definition: "La peça petita on guardem les coses que no fem servir."
+    example: "La bici vella és al traster."
+  - word: "la paret"
+    definition: "Allò que separa dues habitacions d'una casa."
+    example: "Contra la paret hi ha un armari."
+  - word: "el terra"
+    definition: "La superfície on caminem dins de casa."
+    example: "Frego el terra de la cuina cada setmana."
+  - word: "la finestra"
+    definition: "L'obertura a la paret per on entra la llum."
+    example: "Obre la finestra: fa molta calor."
+  - word: "la porta"
+    definition: "Allò que obrim i tanquem per entrar i sortir."
+    example: "Truquen a la porta!"
+  - word: "la persiana"
+    definition: "Allò que cobreix la finestra per tapar la llum."
+    example: "Abaixa la persiana: entra molt sol."
+  - word: "la clau"
+    definition: "Allò que fem servir per obrir i tancar la porta."
+    example: "He perdut les claus del garatge."
+  - word: "el pany"
+    definition: "El mecanisme de la porta on posem la clau."
+    example: "El pany nou està trencat."
+  - word: "el llum"
+    definition: "L'aparell que fa llum en una habitació."
+    example: "Encén el llum del rebedor."
+  - word: "l'endoll"
+    definition: "El punt de la paret on connectem els aparells elèctrics."
+    example: "L'endoll de la rentadora no funciona."
+  - word: "la nevera"
+    definition: "L'aparell fred on guardem el menjar."
+    example: "La llet és a la nevera."
+  - word: "el forn"
+    definition: "L'aparell calent on coem el menjar."
+    example: "El pa és al forn."
+  - word: "la rentadora"
+    definition: "La màquina que renta la roba."
+    example: "Posa la roba a la rentadora."
+  - word: "el sofà"
+    definition: "El seient llarg i tou del menjador."
+    example: "Al vespre llegim al sofà."
+  - word: "l'armari"
+    definition: "El moble alt amb portes on guardem la roba."
+    example: "La roba neta és a l'armari."
+  - word: "el calaix"
+    definition: "La capsa que surt d'un moble per guardar-hi coses."
+    example: "Les claus són al calaix del rebedor."
+  - word: "el mirall"
+    definition: "El vidre on ens veiem la cara."
+    example: "Al lavabo hi ha un mirall gran."
+  - word: "la dutxa"
+    definition: "On ens rentem amb l'aigua que cau de dalt."
+    example: "La dutxa nova va molt bé."
+  - word: "la banyera"
+    definition: "El recipient gran on ens banyem."
+    example: "Els nens juguen a la banyera."
+  - word: "el lloguer"
+    definition: "Els diners que paguem cada mes pel pis."
+    example: "El lloguer puja cada any."
+  - word: "la mudança"
+    definition: "El canvi de casa, amb totes les caixes."
+    example: "La mudança és aquest cap de setmana."
+  - word: "endreçar"
+    definition: "Posar cada cosa al seu lloc."
+    example: "Endreço l'habitació abans de sopar."
+  - word: "escombrar"
+    definition: "Netejar el terra amb l'escombra."
+    example: "Escombro el menjador cada dos dies."
+  - word: "fregar"
+    definition: "Netejar amb aigua, amb un drap o amb la fregona."
+    example: "Frego el terra de tot el pis."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-04-001
+    type: choice
+    point: possessius
+    lesson: 1
+    prompt: "—Jo visc al tercer. I tu? —___ pis és el primer."
+    answer: "El meu"
+    distractors:
+      - text: "El teu"
+        why: "Qui parla és «tu»: el pis és *el meu*, no *el teu*."
+      - text: "El seu"
+        why: "*Seu* és d'una altra persona. Qui parla és «tu»: *el meu*."
+    explanation: "Respon «tu», i parla del seu pis: el possessiu de «jo» és *el meu*."
+
+  - id: a2-04-002
+    type: choice
+    point: possessius
+    lesson: 1
+    prompt: "La Núria viu al tercer: ___ pis és molt sorollós."
+    answer: "el seu"
+    distractors:
+      - text: "el teu"
+        why: "La Núria parla del seu pis, no del teu: *el seu*."
+      - text: "el nostre"
+        why: "*Nostre* és de «nosaltres». La Núria parla d'ella: *el seu*."
+    explanation: "«La Núria» és «ella»: *el seu*. I «pis» és masculí."
+
+  - id: a2-04-003
+    type: choice
+    point: possessius
+    lesson: 1
+    prompt: "Tenim dos balcons, però ___ terrassa dona al carrer."
+    answer: "la nostra"
+    distractors:
+      - text: "el nostre"
+        why: "*Terrassa* és femení: *la nostra*."
+      - text: "la vostra"
+        why: "*Tenim* és «nosaltres»: *la nostra*, no *la vostra*."
+    explanation: "«Tenim» és «nosaltres», i «terrassa» és femení: *la nostra*."
+
+  - id: a2-04-004
+    type: choice
+    point: demostratius
+    lesson: 1
+    prompt: "Mira: ___ clau de la mà és la del traster."
+    answer: "aquesta"
+    distractors:
+      - text: "aquella"
+        why: "*Aquella* és per a coses llunyanes. La clau és a la mà: *aquesta*."
+      - text: "aquest"
+        why: "*Clau* és femení: *aquesta*, no *aquest*."
+    explanation: "La clau és a la mà, a prop: *aquesta*. *Clau* és femení."
+
+  - id: a2-04-005
+    type: choice
+    point: demostratius
+    lesson: 1
+    prompt: "___ casa del final del carrer té un jardí grandíssim."
+    answer: "Aquella"
+    distractors:
+      - text: "Aquesta"
+        why: "La casa és al final del carrer, lluny: *aquella*."
+      - text: "Aquell"
+        why: "*Casa* és femení: *aquella*."
+    explanation: "«Del final del carrer» és lluny: *aquella*. *Casa* és femení."
+
+  - id: a2-04-006
+    type: choice
+    point: demostratius
+    lesson: 1
+    prompt: "Posa tot ___ aquí, al rebedor."
+    answer: "això"
+    distractors:
+      - text: "allò"
+        why: "«Aquí» és a prop: *això*, no *allò*."
+      - text: "aquest"
+        why: "*Aquest* necessita un nom darrere. Sense nom, el neutre és *això*."
+    explanation: "«Aquí» és a prop, i no hi ha cap nom: el neutre és *això*."
+
+  - id: a2-04-007
+    type: match
+    point: possessius
+    lesson: 1
+    instruction: "Relaciona cada persona amb el seu possessiu."
+    pairs:
+      - ["jo", "meu, meva"]
+      - ["tu", "teu, teva"]
+      - ["ell o ella", "seu, seva"]
+      - ["nosaltres", "nostre, nostra"]
+      - ["vosaltres", "vostre, vostra"]
+    explanation: "Són les formes del possessiu. Davant del nom sempre porten article: *el meu, la teva*."
+
+  - id: a2-04-008
+    type: match
+    point: demostratius
+    lesson: 1
+    instruction: "Relaciona cada demostratiu amb quan es fa servir."
+    pairs:
+      - ["aquest, aquesta", "una cosa a prop"]
+      - ["aquests, aquestes", "coses a prop"]
+      - ["aquell, aquella", "una cosa lluny"]
+      - ["aquells, aquelles", "coses lluny"]
+      - ["això", "una cosa a prop, sense nom"]
+      - ["allò", "una cosa lluny, sense nom"]
+    explanation: "*Aquest* és a prop i *aquell* és lluny. Sense nom, fem servir *això* i *allò*."
+
+  - id: a2-04-009
+    type: inline-choice
+    point: demostratius
+    lesson: 1
+    title: "Un missatge de l'Ibrahim"
+    text: "Hola, Laia! {Aquest|Aquestos|Aquestes} dissabte vinc a veure el {teu|tu|seu} pis nou. Em pots deixar {aquesta|aquest|aquelles} clau del replà? El {meu|mi|meus} replà és fosc i sempre perdo les claus. Fins dissabte!"
+    explanation: "*Dissabte* és masculí i proper: *aquest*. El possessiu porta article: *el teu, el meu*. *Clau* és femení: *aquesta*."
+
+  - id: a2-04-010
+    type: choice
+    point: possessius
+    lesson: 1
+    prompt: "—Aquestes claus són les ___? —Sí, són de casa meva."
+    answer: "meves"
+    distractors:
+      - text: "meus"
+        why: "*Claus* és femení plural: *meves*."
+      - text: "teves"
+        why: "«Casa meva» és de qui parla: *meves*, no *teves*."
+    explanation: "«Claus» és femení plural, i «casa meva» és de qui parla: *les meves*."
+
+  - id: a2-04-011
+    type: choice
+    point: demostratius
+    lesson: 1
+    prompt: "No toquis ___ d'allà: és el pany nou i està trencat."
+    answer: "allò"
+    distractors:
+      - text: "això"
+        why: "«D'allà» és lluny: *allò*, no *això*."
+      - text: "aquell"
+        why: "*Aquell* necessita un nom darrere. Sense nom, el neutre és *allò*."
+    explanation: "«D'allà» és lluny, i no hi ha cap nom: el neutre és *allò*."
+
+  - id: a2-04-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—On sopem dissabte? —___, que tinc la nevera plena."
+    answer: "A casa meva"
+    distractors:
+      - text: "En casa meva"
+        why: "L'expressió és amb *a*: *a casa meva*. *En* és un calc de «en casa»."
+      - text: "A casa meves"
+        why: "*Casa* és singular: *a casa meva*."
+    explanation: "L'expressió és *a casa meva*: a casa de qui parla, sense article."
+
+  - id: a2-04-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Et quedes a dormir? —Sí, aquí ___."
+    answer: "estic com a casa"
+    distractors:
+      - text: "estic com en casa"
+        why: "L'expressió porta *a*: *estar com a casa*. *En* és un calc."
+      - text: "estic com casa"
+        why: "L'expressió porta *a*: *estar com a casa*."
+    explanation: "*Estar com a casa* vol dir sentir-se còmode, com a casa seva."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-04-014
+    type: fill
+    point: possessius
+    lesson: 2
+    prompt: "El Wei té una habitació nova: ___ finestra dona al pati."
+    hint: "*finestra*, possessiu de «ell»"
+    answers: ["la seva"]
+    wrong_answers:
+      - text: "el seu"
+        why: "*Finestra* és femení: *la seva*."
+      - text: "la seu"
+        why: "Et falta una *a*: *la seva*. *La seu* és una altra paraula."
+    grading: tolerant
+    explanation: "«El Wei» és «ell», i «finestra» és femení: *la seva*."
+
+  - id: a2-04-015
+    type: fill
+    point: possessius
+    lesson: 2
+    prompt: "Els avis viuen sols: ___ casa té tres habitacions."
+    hint: "*casa*, possessiu de «ells»"
+    answers: ["la seva"]
+    wrong_answers:
+      - text: "el seu"
+        why: "*Casa* és femení: *la seva*."
+      - text: "seva"
+        why: "El possessiu porta article: *la seva*."
+    grading: tolerant
+    explanation: "«Els avis» és «ells», i «casa» és femení: *la seva*."
+
+  - id: a2-04-016
+    type: fill
+    point: possessius
+    lesson: 2
+    prompt: "—On són ___ claus? —Les meves són darrere la porta."
+    hint: "*claus*, possessiu de «tu»"
+    answers: ["les teves"]
+    wrong_answers:
+      - text: "les teus"
+        why: "*Claus* és femení: *les teves*."
+      - text: "les seves"
+        why: "Parles amb la persona: *les teves*, no *les seves*."
+    grading: tolerant
+    explanation: "«Claus» és femení plural, i parles amb la persona: *les teves*."
+
+  - id: a2-04-017
+    type: fill
+    point: demostratius
+    lesson: 2
+    prompt: "___ pisos d'aquí baix són més barats."
+    hint: "demostratiu de proximitat, masculí plural"
+    answers: ["Aquests"]
+    wrong_answers:
+      - text: "Aquells"
+        why: "«D'aquí» és a prop: *aquests*."
+      - text: "Aquest"
+        why: "*Pisos* és plural: *aquests*."
+    grading: tolerant
+    explanation: "«D'aquí» és a prop, i «pisos» és plural: *aquests*."
+
+  - id: a2-04-018
+    type: fill
+    point: demostratius
+    lesson: 2
+    prompt: "Mira ___ fotos del mòbil: són de la cuina nova."
+    hint: "demostratiu de proximitat, femení plural"
+    answers: ["aquestes"]
+    wrong_answers:
+      - text: "aquelles"
+        why: "Les fotos són al mòbil, a prop: *aquestes*."
+      - text: "aquests"
+        why: "*Fotos* és femení: *aquestes*."
+    grading: tolerant
+    explanation: "Les fotos són al mòbil, a prop. I «fotos» és femení plural: *aquestes*."
+
+  - id: a2-04-019
+    type: fill
+    point: demostratius
+    lesson: 2
+    prompt: "Guarda ___ que tens a les mans al calaix."
+    hint: "neutre de proximitat"
+    answers: ["això"]
+    wrong_answers:
+      - text: "allò"
+        why: "«A les mans» és a prop: *això*."
+      - text: "aquest"
+        why: "*Aquest* necessita un nom darrere. Sense nom: *això*."
+    grading: tolerant
+    explanation: "«A les mans» és a prop, i no hi ha cap nom: *això*."
+
+  - id: a2-04-020
+    type: inline-choice
+    point: possessius
+    lesson: 2
+    title: "La mudança de la Carla"
+    text: "La Carla fa la mudança aquest cap de setmana. Els {seus|seves|seu} amics l'ajuden amb les caixes. El {seu|seva|seus} germà porta el cotxe, i la {seva|seu|seves} germana neteja el pis nou. Diu que {Els seus|Les seves|Els seves} veïns són molt simpàtics!"
+    explanation: "*Amics, germà* i *veïns* són masculins; *germana*, femení. La Carla és «ella»: *seu, seva, seus*."
+
+  - id: a2-04-021
+    type: order
+    point: possessius
+    lesson: 2
+    cue: "Digues que cada diumenge dinem a casa dels teus pares."
+    chunks: ["cada diumenge", "dinem", "a casa", "dels teus pares"]
+    extra: ["dels tus pares"]
+    answers:
+      - "Cada diumenge dinem a casa dels teus pares."
+      - "Dinem a casa dels teus pares cada diumenge."
+      - "Dinem cada diumenge a casa dels teus pares."
+      - "A casa dels teus pares dinem cada diumenge."
+      - "Cada diumenge a casa dels teus pares dinem."
+      - "A casa dels teus pares cada diumenge dinem."
+    explanation: "*A casa* no porta article, i *pares* és masculí plural: *dels teus pares*."
+
+  - id: a2-04-022
+    type: order
+    point: demostratius
+    lesson: 2
+    cue: "Explica que aquests mobles del menjador són de l'àvia."
+    chunks: ["aquests mobles", "del menjador", "són", "de l'àvia"]
+    extra: ["aquestes mobles"]
+    answers:
+      - "Aquests mobles del menjador són de l'àvia."
+      - "De l'àvia són aquests mobles del menjador."
+    explanation: "«Mobles» és masculí plural i a prop: *aquests mobles*. Són de l'àvia."
+
+  - id: a2-04-023
+    type: choice
+    point: possessius
+    lesson: 2
+    prompt: "—On deixes la bici? —___ bici és a l'escala."
+    answer: "La meva"
+    distractors:
+      - text: "La teva"
+        why: "Parla de la seva bici: *la meva*."
+      - text: "El meu"
+        why: "*Bici* és femení: *la meva*."
+    explanation: "Respon «jo», i «bici» és femení: *la meva*."
+
+  - id: a2-04-024
+    type: choice
+    point: demostratius
+    lesson: 2
+    prompt: "Abaixa ___ persianes d'aquí: entra molt sol."
+    answer: "aquestes"
+    distractors:
+      - text: "aquelles"
+        why: "«D'aquí» és a prop: *aquestes*."
+      - text: "aquests"
+        why: "*Persianes* és femení: *aquestes*."
+    explanation: "«D'aquí» és a prop, i «persianes» és femení plural: *aquestes*."
+
+  - id: a2-04-025
+    type: fill
+    point: possessius
+    lesson: 2
+    prompt: "La Fàtima i jo compartim pis: ___ despeses són altes."
+    hint: "*despeses*, possessiu de «nosaltres»"
+    answers: ["les nostres"]
+    wrong_answers:
+      - text: "els nostres"
+        why: "*Despeses* és femení: *les nostres*."
+      - text: "les nostras"
+        why: "En català és *nostres*, amb *e*: *les nostres*."
+    grading: tolerant
+    explanation: "«La Fàtima i jo» és «nosaltres», i «despeses» és femení: *les nostres*."
+
+  - id: a2-04-026
+    type: fill
+    point: demostratius
+    lesson: 2
+    prompt: "No miris ___ fotos d'allà: són de la mudança."
+    hint: "demostratiu de llunyania, femení plural"
+    answers: ["aquelles"]
+    wrong_answers:
+      - text: "aquestes"
+        why: "«D'allà» és lluny: *aquelles*."
+      - text: "aquells"
+        why: "*Fotos* és femení: *aquelles*."
+    grading: tolerant
+    explanation: "«D'allà» és lluny, i «fotos» és femení plural: *aquelles*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-04-027
+    type: choice
+    point: comparacio
+    lesson: 3
+    prompt: "El pis de dalt té tres nens petits: és ___ sorollós que el nostre."
+    answer: "més"
+    distractors:
+      - text: "menys"
+        why: "Tres nens petits fan soroll: és *més* sorollós."
+      - text: "tan"
+        why: "*Tan* va amb *com*: *tan sorollós com*. Amb *que*, *més*."
+    explanation: "Amb tres nens és superior: *més… que*. *Tan* va amb *com*."
+
+  - id: a2-04-028
+    type: choice
+    point: comparacio
+    lesson: 3
+    prompt: "Aquesta banyera amb descompte costa ___ que l'antiga."
+    answer: "menys"
+    distractors:
+      - text: "més"
+        why: "Amb descompte costa menys: *menys… que*."
+      - text: "tant"
+        why: "*Tant* va amb *com*. Amb *que*: *menys*."
+    explanation: "Amb descompte costa menys: inferioritat, *menys… que*."
+
+  - id: a2-04-029
+    type: choice
+    point: comparacio
+    lesson: 3
+    prompt: "La cuina és ___ gran com el menjador: fan la mateixa mida."
+    answer: "tan"
+    distractors:
+      - text: "tant"
+        why: "*Gran* és un adjectiu: *tan*. *Tant* va amb noms i verbs."
+      - text: "més"
+        why: "«La mateixa mida» és igualtat: *tan… com*, no *més*."
+    explanation: "«La mateixa mida» és igualtat, i «gran» és un adjectiu: *tan… com*."
+
+  - id: a2-04-030
+    type: choice
+    point: comparacio
+    lesson: 3
+    prompt: "Aquest hivern fa ___ fred com l'any passat."
+    answer: "tant"
+    distractors:
+      - text: "tan"
+        why: "*Fred* és un nom: *tant*. *Tan* va amb adjectius."
+      - text: "tanta"
+        why: "*Fred* és masculí: *tant*, sense *a*."
+    explanation: "*Fred* és un nom masculí: igualtat amb nom, *tant… com*."
+
+  - id: a2-04-031
+    type: choice
+    point: comparacio
+    lesson: 3
+    prompt: "Aquesta nevera nova és ___ que l'antiga: gasta menys llum."
+    answer: "millor"
+    distractors:
+      - text: "més bona"
+        why: "El comparatiu de *bo* és *millor*: no diem *més bo*."
+      - text: "més millor"
+        why: "*Millor* ja és un comparatiu: no porta *més* davant."
+    explanation: "El comparatiu de *bo* és *millor*. «Gasta menys» ho confirma."
+
+  - id: a2-04-032
+    type: choice
+    point: comparacio
+    lesson: 3
+    prompt: "El pis és ___. Té quatre habitacions i dues terrasses!"
+    answer: "grandíssim"
+    distractors:
+      - text: "graníssim"
+        why: "*Gran* fa el superlatiu *grandíssim*, amb *d*."
+      - text: "més grandíssim"
+        why: "El superlatiu no porta *més*: *grandíssim*."
+    explanation: "*Gran* fa *grandíssim*, amb *d*. El superlatiu no porta *més*."
+
+  - id: a2-04-033
+    type: fill
+    point: comparacio
+    lesson: 3
+    prompt: "El menjador és ___ lluminós que l'habitació: té dos balcons."
+    hint: "comparatiu de superioritat"
+    answers: ["més"]
+    wrong_answers:
+      - text: "menys"
+        why: "Dos balcons fan llum: és *més* lluminós."
+      - text: "mas"
+        why: "El comparatiu s'escriu *més*, amb accent."
+    grading: tolerant
+    explanation: "Dos balcons fan més llum: superioritat, *més… que*."
+
+  - id: a2-04-034
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "___ cotxe aparca al garatge cada nit."
+    hint: "possessiu de «jo», amb article"
+    answers: ["El meu"]
+    wrong_answers:
+      - text: "Mi"
+        why: "*Mi* és castellà. En català, amb article: *el meu*."
+      - text: "Meu"
+        why: "El possessiu porta article: *el meu*."
+    grading: tolerant
+    explanation: "El possessiu porta article: *el meu cotxe*. *Mi* és castellà."
+
+  - id: a2-04-035
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Aquest armari és ___ alt que no arribo a dalt."
+    hint: "*tan/tant*: va amb un adjectiu"
+    answers: ["tan"]
+    wrong_answers:
+      - text: "tant"
+        why: "*Alt* és un adjectiu: *tan*. *Tant* va amb noms i verbs."
+      - text: "tanto"
+        why: "En català és *tan* o *tant*, mai «tanto»."
+    grading: tolerant
+    explanation: "«Alt» és un adjectiu: *tan*. *Tant* va amb noms i verbs."
+
+  - id: a2-04-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Meva mare sempre fa dissabte al matí."
+    error: "Meva mare"
+    fix: "La meva mare"
+    fix_distractors:
+      - text: "Meva la mare"
+        why: "L'article va davant del possessiu: *la meva mare*."
+      - text: "Les meves mare"
+        why: "*Mare* és singular: *la meva mare*."
+    explanation: "El possessiu porta l'article davant: *la meva mare*. *Mare* és singular."
+
+  - id: a2-04-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Aquest pis és tant lluminós que no cal encendre el llum."
+    error: "tant lluminós"
+    fix: "tan lluminós"
+    fix_distractors:
+      - text: "tanta lluminós"
+        why: "*Tanta* va amb noms femenins. Aquí cal *tan*, amb l'adjectiu."
+      - text: "tan lluminosos"
+        why: "«Pis» és singular: *tan lluminós*."
+    explanation: "«Lluminós» és un adjectiu: *tan*. *Tant* va amb noms i verbs."
+
+  - id: a2-04-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La seva cuina és més gran que la nostra."
+    no_error: true
+    explanation: "La frase és correcta: *la seva* i *la nostra* porten article, i la comparació és *més… que*."
+
+  - id: a2-04-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El menjador és tan gran como la cuina."
+    error: "tan gran como"
+    fix: "tan gran com"
+    fix_distractors:
+      - text: "tant gran com"
+        why: "*Gran* és un adjectiu: *tan*, no *tant*."
+      - text: "tan grans com"
+        why: "«Menjador» és singular: *tan gran com*."
+    explanation: "En català és *com*, no «como». I «gran» és un adjectiu: *tan*."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-04-040
+    type: transform
+    point: possessius
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[El meu pis]] és molt tranquil."
+    answers: ["Els meus pisos són molt tranquils."]
+    wrong_answers:
+      - text: "Els meves pisos són molt tranquils."
+        why: "*Pisos* és masculí: *els meus*."
+      - text: "Els meus pisos és molt tranquil."
+        why: "El verb i l'adjectiu també van en plural: *són… tranquils*."
+    grading: tolerant
+    explanation: "En plural: *els meus pisos*. El verb i l'adjectiu concorden: *són… tranquils*."
+
+  - id: a2-04-041
+    type: transform
+    point: demostratius
+    lesson: 4
+    instruction: "Canvia «aquest» per «aquell»."
+    source: "Vull comprar [[aquest llum]] per al rebedor."
+    answers: ["Vull comprar aquell llum per al rebedor."]
+    wrong_answers:
+      - text: "Vull comprar aquella llum per al rebedor."
+        why: "*Llum* (l'aparell) és masculí: *aquell llum*."
+      - text: "Vull comprar aquell llum per el rebedor."
+        why: "La destinació és *per al*: *per al rebedor*."
+    grading: tolerant
+    explanation: "«Aquest» és a prop; «aquell», lluny. *Llum* és masculí: *aquell llum*."
+
+  - id: a2-04-042
+    type: transform
+    point: comparacio
+    lesson: 4
+    instruction: "Reescriu la frase amb el superlatiu en «-íssim»."
+    source: "Aquest pis és [[molt tranquil]]."
+    answers: ["Aquest pis és tranquil·líssim."]
+    wrong_answers:
+      - text: "Aquest pis és tranquilíssim."
+        why: "De *tranquil*, el superlatiu dobla la *l*: *tranquil·líssim*."
+      - text: "Aquest pis és més tranquil·líssim."
+        why: "El superlatiu no porta *més*: *tranquil·líssim*."
+    grading: tolerant
+    explanation: "El superlatiu afegeix *-íssim*. De *tranquil*: *tranquil·líssim*, amb *l·l*."
+
+  - id: a2-04-043
+    type: transform
+    point: comparacio
+    lesson: 4
+    instruction: "Fes la comparació d'igualtat amb «com»."
+    source: "Aquest sofà és [[més còmode que l'antic]]."
+    answers: ["Aquest sofà és tan còmode com l'antic."]
+    wrong_answers:
+      - text: "Aquest sofà és tant còmode com l'antic."
+        why: "*Còmode* és un adjectiu: *tan*."
+      - text: "Aquest sofà és tan còmode que l'antic."
+        why: "*Tan* va amb *com*: *tan còmode com*."
+    grading: tolerant
+    explanation: "La igualtat amb un adjectiu és *tan… com*: *tan còmode com*."
+
+  - id: a2-04-044
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[Mi pis]] és més petit que el teu."
+    answers: ["El meu pis és més petit que el teu."]
+    wrong_answers:
+      - text: "Meu pis és més petit que el teu."
+        why: "El possessiu porta article: *el meu pis*."
+      - text: "El meu pis és més petit como el teu."
+        why: "En català és *com*, no «como»."
+    grading: tolerant
+    explanation: "*Mi* és castellà. En català, el possessiu porta article: *el meu*."
+
+  - id: a2-04-045
+    type: transform
+    point: demostratius
+    lesson: 4
+    instruction: "Canvia «aquesta» per «aquella»."
+    source: "No vull [[aquesta rentadora]]: fa molt soroll."
+    answers: ["No vull aquella rentadora: fa molt soroll."]
+    wrong_answers:
+      - text: "No vull aquell rentadora: fa molt soroll."
+        why: "*Rentadora* és femení: *aquella rentadora*."
+      - text: "No vull aquelles rentadora: fa molt soroll."
+        why: "*Rentadora* és singular: *aquella rentadora*."
+    grading: tolerant
+    explanation: "«Aquella» és lluny. *Rentadora* és femení singular: *aquella rentadora*."
+
+  - id: a2-04-046
+    type: transform
+    point: possessius
+    lesson: 4
+    instruction: "Canvia «nostre» per «vostre»."
+    source: "[[El nostre pis]] té dues terrasses."
+    answers: ["El vostre pis té dues terrasses."]
+    wrong_answers:
+      - text: "El vuestro pis té dues terrasses."
+        why: "«Vuestro» és castellà. En català: *vostre*."
+      - text: "El vostre pis tenen dues terrasses."
+        why: "El subjecte és «el pis»: el verb és *té*."
+    grading: tolerant
+    explanation: "El possessiu de «vosaltres» és *vostre*. El verb no canvia: *té*."
+
+  - id: a2-04-047
+    type: fill
+    point: comparacio
+    lesson: 4
+    prompt: "Aquest forn és ___ que l'antic: cou de pressa i bé."
+    hint: "comparatiu de «bo»"
+    answers: ["millor"]
+    wrong_answers:
+      - text: "més bo"
+        why: "El comparatiu de *bo* és *millor*."
+      - text: "mejor"
+        why: "«Mejor» és castellà. En català: *millor*."
+    grading: tolerant
+    explanation: "El comparatiu de *bo* és *millor*. «Cou de pressa i bé» ho confirma."
+
+  - id: a2-04-048
+    type: fill
+    point: comparacio
+    lesson: 4
+    prompt: "Quin fred! Aquest hivern és ___: no recordo cap igual."
+    hint: "superlatiu en «-íssim» de «fred»"
+    answers: ["fredíssim"]
+    wrong_answers:
+      - text: "fredissim"
+        why: "El superlatiu porta accent: *fredíssim*."
+    grading: strict
+    explanation: "El superlatiu de *fred* és *fredíssim*, amb accent a la *i*."
+
+  - id: a2-04-049
+    type: order
+    point: comparacio
+    lesson: 4
+    cue: "Digues que la teva habitació és més petita que el menjador."
+    chunks: ["la meva habitació", "és", "més petita", "que el menjador"]
+    extra: ["més petit"]
+    answers:
+      - "La meva habitació és més petita que el menjador."
+    explanation: "«Habitació» és femení: *més petita*. La superioritat és *més… que*."
+
+  - id: a2-04-050
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Digues que tens tanta feina que avui no pots fer dissabte."
+    chunks: ["tinc", "tanta feina", "que", "avui no puc fer dissabte"]
+    extra: ["tan feina"]
+    answers:
+      - "Tinc tanta feina que avui no puc fer dissabte."
+    explanation: "«Feina» és un nom femení: *tanta*. *Tant* va amb noms i verbs."
+
+  - id: a2-04-051
+    type: choice
+    point: comparacio
+    lesson: 4
+    prompt: "Aquest edifici és ___ que l'altre: té ascensor i no se sent ni un soroll."
+    answer: "millor"
+    distractors:
+      - text: "pitjor"
+        why: "«Té ascensor i ni un soroll» és bo: *millor*."
+      - text: "més bo"
+        why: "El comparatiu de *bo* és *millor*."
+    explanation: "«Té ascensor i ni un soroll» és bo: el comparatiu de *bo* és *millor*."
+
+  - id: a2-04-052
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "Dissabte al matí sempre ___: frego el terra de tot el pis."
+    hint: "expressió amb «dissabte», jo"
+    answers: ["faig dissabte", "jo faig dissabte"]
+    wrong_answers:
+      - text: "faig el dissabte"
+        why: "L'expressió no porta article: *fer dissabte*."
+      - text: "faig un dissabte"
+        why: "L'expressió és *fer dissabte*, sense article."
+    grading: tolerant
+    explanation: "*Fer dissabte* vol dir fer neteja a fons. No porta article."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-04-053
+    type: reading
+    point: comparacio
+    lesson: 5
+    title: "Un pis nou a Sabadell"
+    text: |
+      L'Ibrahim i la Carla busquen un pis de lloguer a Sabadell. Aquest dissabte visiten dos pisos. El primer és al centre: és més petit que el segon, però té una cuina grandíssima i un balcó que dona al carrer. El segon és a prop de l'estació: és més gran i més barat, però la nevera és vella i el bany és petitíssim. El lavabo és nou: té dutxa i un mirall grandíssim.
+
+      «Aquest pis del centre m'agrada més», diu la Carla. «La cuina és tan gran com el menjador de casa meva!»
+
+      «Però aquell pis de l'estació és més barat», respon l'Ibrahim. «I la nostra feina és a prop de l'estació.»
+
+      Al final trien el pis del centre: és més car, però és més tranquil.
+    questions:
+      - prompt: "Per què la Carla prefereix el pis del centre?"
+        answer: "Per la cuina, que és molt gran."
+        distractors:
+          - text: "Perquè és més barat."
+            why: "El pis del centre és més car. El barat és el de l'estació."
+          - text: "Perquè és a prop de la feina."
+            why: "A prop de la feina és el pis de l'estació."
+      - prompt: "Què diu l'Ibrahim del pis de l'estació?"
+        answer: "Que és més barat i a prop de la feina."
+        distractors:
+          - text: "Que té una cuina grandíssima."
+            why: "La cuina grandíssima és del pis del centre."
+          - text: "Que té el bany molt gran."
+            why: "El bany del pis de l'estació és petitíssim."
+      - prompt: "Com és el bany del pis de l'estació?"
+        answer: "Molt petit."
+        distractors:
+          - text: "Molt gran."
+            why: "El text diu que és petitíssim."
+          - text: "Nou i modern."
+            why: "El text no diu això: diu que és petitíssim."
+      - prompt: "Quin pis trien al final?"
+        answer: "El del centre, que és més car."
+        distractors:
+          - text: "El de l'estació, que és més barat."
+            why: "Trien el del centre, que és més car."
+          - text: "Cap dels dos: continuen buscant."
+            why: "El text diu que trien el pis del centre."
+    explanation: "L'Ibrahim i la Carla comparen dos pisos i trien el del centre, més car però més tranquil."
+
+  - id: a2-04-054
+    type: find-error
+    point: comparacio
+    lesson: 5
+    sentence: "Aquesta terrassa és més millor que la nostra."
+    error: "més millor"
+    fix: "millor"
+    fix_distractors:
+      - text: "més bona"
+        why: "El comparatiu de *bo* és *millor*."
+      - text: "la millor"
+        why: "*La millor* és superlatiu. Aquí cal el comparatiu: *millor*."
+    explanation: "*Millor* ja és un comparatiu: no porta *més*. *Més millor* no existeix."
+
+  - id: a2-04-055
+    type: find-error
+    point: possessius
+    lesson: 5
+    sentence: "Tu pis té més llum que el meu."
+    error: "Tu pis"
+    fix: "El teu pis"
+    fix_distractors:
+      - text: "El tu pis"
+        why: "«Tu» és el pronom. El possessiu és *teu*: *el teu pis*."
+      - text: "La teva pis"
+        why: "*Pis* és masculí: *el teu pis*."
+    explanation: "El possessiu de «tu» és *teu*, amb article: *el teu pis*."
+
+  - id: a2-04-056
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Plou tant que avui toca escombrar i fer dissabte."
+    no_error: true
+    explanation: "La frase és correcta: *tant* va amb el verb *ploure*, i l'expressió és *fer dissabte*."
+
+  - id: a2-04-057
+    type: find-error
+    point: demostratius
+    lesson: 5
+    sentence: "Aquest endoll d'allà és molt antic."
+    error: "Aquest endoll d'allà"
+    fix: "Aquell endoll d'allà"
+    fix_distractors:
+      - text: "Aquella endoll d'allà"
+        why: "*Endoll* és masculí: *aquell endoll d'allà*."
+      - text: "Aquests endoll d'allà"
+        why: "*Endoll* és singular: *aquell endoll d'allà*."
+    explanation: "«D'allà» és lluny: *aquell*. *Endoll* és masculí singular."
+
+  - id: a2-04-058
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Què fas dissabte al matí? —___. Sempre endreço i netejo tot el pis."
+    answer: "Faig dissabte"
+    distractors:
+      - text: "Faig el dissabte"
+        why: "L'expressió no porta article: *fer dissabte*."
+      - text: "Estic de dissabte"
+        why: "L'expressió és *fer dissabte*: *faig dissabte*."
+    explanation: "*Fer dissabte* vol dir fer neteja a fons. Es conjuga: *faig dissabte*."
+
+  - id: a2-04-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «fer dissabte»?"
+    answer: "Netejar la casa a fons."
+    distractors:
+      - text: "Sortir de festa dissabte a la nit."
+        why: "«Fer dissabte» és netejar, no sortir de festa."
+      - text: "Treballar fora de casa un dissabte."
+        why: "«Fer dissabte» és la neteja de casa, no la feina."
+    explanation: "*Fer dissabte* és fer la neteja a fons, normalment el dissabte."
+
+  - id: a2-04-060
+    type: match
+    point: comparacio
+    lesson: 5
+    instruction: "Relaciona cada estructura amb el seu ús."
+    pairs:
+      - ["més… que", "una cosa superior"]
+      - ["menys… que", "una cosa inferior"]
+      - ["tan… com", "iguals, amb un adjectiu"]
+      - ["tant… com", "iguals, amb un nom o un verb"]
+      - ["millor", "comparatiu de «bo»"]
+      - ["pitjor", "comparatiu de «dolent»"]
+    explanation: "La superioritat és *més… que*; la igualtat, *tan… com* o *tant… com*."
+
+  - id: a2-04-061
+    type: fill
+    point: possessius
+    lesson: 5
+    prompt: "—On deixem les bosses? —Poseu ___ bosses contra la paret."
+    hint: "*bosses*, possessiu de «vosaltres»"
+    answers: ["les vostres"]
+    wrong_answers:
+      - text: "les vostros"
+        why: "En català és *vostres*, amb *e*: *les vostres*."
+      - text: "les nostres"
+        why: "Qui respon parla amb el grup: *les vostres*."
+    grading: tolerant
+    explanation: "«Poseu» és «vosaltres», i «bosses» és femení: *les vostres*."
+
+  - id: a2-04-062
+    type: fill
+    point: comparacio
+    lesson: 5
+    prompt: "Aquest barri és ___ tranquil com el nostre: no se sent res."
+    hint: "*tan/tant*: va amb un adjectiu"
+    answers: ["tan"]
+    wrong_answers:
+      - text: "tant"
+        why: "*Tranquil* és un adjectiu: *tan*."
+      - text: "més"
+        why: "Amb *com* és igualtat: *tan… com*."
+    grading: tolerant
+    explanation: "«Tranquil» és un adjectiu, i amb *com* és igualtat: *tan*."
+
+  - id: a2-04-063
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Dos pisos"
+    text: "El {meu|mi|meus} pis és {tan|tant|tanto} gran {com|como|que} el teu. El {teu|tu|teus} replà és més tranquil. Tinc {tanta|tantes|tan} sort amb els veïns!"
+    explanation: "El possessiu porta article: *el meu, el teu*. Amb l'adjectiu *gran*: *tan… com*. «Sort» és femení: *tanta*."
+
+  - id: a2-04-064
+    type: order
+    point: comparacio
+    lesson: 5
+    cue: "Digues que aquell pis és el millor del barri."
+    chunks: ["aquell pis", "és", "el millor", "del barri"]
+    extra: ["el més millor"]
+    answers:
+      - "Aquell pis és el millor del barri."
+    explanation: "El superlatiu de *bo* és *el millor*. No porta *més*."
+
+  - id: a2-04-065
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «estar com a casa»?"
+    answer: "Sentir-se còmode en un lloc."
+    distractors:
+      - text: "Trobar a faltar casa seva."
+        why: "«Estar com a casa» és estar bé on ets, no trobar-ho a faltar."
+      - text: "Voler tornar a casa aviat."
+        why: "«Estar com a casa» és estar còmode, no voler marxar."
+    explanation: "Qui està com a casa se sent còmode, com a casa seva."
+
+

@@ -1,0 +1,1019 @@
+id: b1-27
+level: B1
+title: "Connectors de causa, conseqüència i contrast"
+summary: "Aprens a enllaçar idees amb *perquè*, *com que* i *ja que* (causa), *per tant*, *així que*, *de manera que* i *doncs* (conseqüència), i *però*, *sinó*, *en canvi*, *tot i que* i *encara que* (contrast)."
+vocabulary_theme: "Educació i estudis"
+points:
+  - id: connectors-causa
+    title: "La causa: *perquè*, *com que* i *ja que*"
+    refs:
+      - label: "GEIEC: Les conjuncions"
+        url: "https://geiec.iec.cat"
+  - id: connectors-consequencia
+    title: "La conseqüència: *per tant*, *així que*, *de manera que* i *doncs*"
+    refs:
+      - label: "GEIEC: Les conjuncions"
+        url: "https://geiec.iec.cat"
+  - id: connectors-contrast
+    title: "El contrast: *però*, *sinó*, *en canvi*, *tot i que* i *encara que*"
+    refs:
+      - label: "GEIEC: Les conjuncions"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella-doncs
+    title: "Compte amb el castellà: *doncs* no dona una causa"
+  - id: expressions
+    title: "Expressions per enllaçar idees"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "La causa i la conseqüència"
+  - title: "Practiquem: causes i resultats"
+  - title: "El contrast i el *doncs*"
+  - title: "Produïm: tot junt"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "l'examen"
+    definition: "Prova escrita o oral per comprovar què ha après un alumne."
+    example: "L'examen de matemàtiques és dijous a primera hora."
+  - word: "l'apunt"
+    definition: "Nota que un alumne escriu a classe per estudiar després."
+    example: "Em deixes els apunts de la lliçó d'ahir?"
+  - word: "el professor, la professora"
+    definition: "Persona que ensenya una assignatura a l'institut o a la universitat."
+    example: "La professora d'història explica molt bé."
+  - word: "l'alumne, l'alumna"
+    definition: "Persona que estudia en una escola o un institut."
+    example: "Tots els alumnes han lliurat el treball."
+  - word: "la classe"
+    definition: "Lliçó que fa un professor, o grup d'alumnes que estudien junts."
+    example: "La classe de ciències comença a les nou."
+  - word: "l'aula"
+    definition: "Sala d'una escola on es fan les classes."
+    example: "La nostra aula és al segon pis."
+  - word: "el pati"
+    definition: "Espai obert d'una escola on els alumnes surten a l'hora del descans."
+    example: "A l'hora del pati juguem a futbol."
+  - word: "el passadís"
+    definition: "Corredor llarg que porta a les aules."
+    example: "No corregueu pel passadís."
+  - word: "la biblioteca"
+    definition: "Lloc on es poden llegir i demanar llibres en préstec."
+    example: "Estudio a la biblioteca perquè a casa hi ha soroll."
+  - word: "el gimnàs"
+    definition: "Sala gran d'una escola per fer esport."
+    example: "La festa de final de curs serà al gimnàs."
+  - word: "la nota"
+    definition: "Qualificació que un alumne treu en un examen o un treball."
+    example: "Ha tret molt bona nota en anglès."
+  - word: "l'assignatura"
+    definition: "Cadascuna de les matèries que s'estudien en un curs."
+    example: "La meva assignatura preferida és la biologia."
+  - word: "les matemàtiques"
+    definition: "Assignatura dels nombres, les operacions i els problemes."
+    example: "Les matemàtiques em costen més que la història."
+  - word: "la història"
+    definition: "Assignatura que estudia el passat de les persones i els països."
+    example: "A història estudiem l'edat mitjana."
+  - word: "les ciències"
+    definition: "Assignatures que estudien la natura: física, química i biologia."
+    example: "Al laboratori fem pràctiques de ciències."
+  - word: "dibuixar"
+    definition: "Fer figures amb un llapis o un pinzell sobre un paper."
+    example: "Al meu fill li agrada dibuixar animals."
+  - word: "el batxillerat"
+    definition: "Estudis de dos cursos abans de la universitat."
+    example: "Faré el batxillerat científic a l'institut del barri."
+  - word: "la universitat"
+    definition: "Centre on s'estudien els graus després del batxillerat."
+    example: "Vol entrar a la universitat l'any que ve."
+  - word: "el cicle"
+    definition: "Estudis de formació professional, més pràctics que el batxillerat."
+    example: "Fa un cicle de grau mitjà d'informàtica."
+  - word: "la beca"
+    definition: "Diners que un alumne rep per estudiar."
+    example: "Li han donat una beca per les bones notes."
+  - word: "la matrícula"
+    definition: "Inscripció oficial en un curs o uns estudis."
+    example: "La matrícula del curs vinent obre al maig."
+  - word: "el curs"
+    definition: "Any d'estudis, o conjunt de classes d'una matèria."
+    example: "Repeteixo el curs perquè he suspès quatre assignatures."
+  - word: "l'avaluació"
+    definition: "Valoració del que ha après un alumne en un trimestre."
+    example: "Aquesta avaluació he aprovat totes les assignatures."
+  - word: "el company, la companya"
+    definition: "Persona que estudia o treballa amb tu."
+    example: "La meva companya de classe m'ajuda amb els deures."
+  - word: "el tutor, la tutora"
+    definition: "Professor que s'encarrega d'un grup d'alumnes."
+    example: "Parla amb el tutor si tens cap problema."
+  - word: "el director, la directora"
+    definition: "Persona que dirigeix una escola o un institut."
+    example: "La directora ha convocat una reunió de pares."
+  - word: "estudiar"
+    definition: "Aprendre una matèria llegint i practicant."
+    example: "Estudia cada tarda a la biblioteca."
+  - word: "aprendre"
+    definition: "Arribar a saber una cosa que no sabies."
+    example: "Vull aprendre a tocar la guitarra."
+  - word: "aprovar"
+    definition: "Treure una nota prou bona en un examen o un curs."
+    example: "Si estudies, aprovaràs sense problemes."
+  - word: "suspendre"
+    definition: "No arribar a la nota mínima en un examen o un curs."
+    example: "Ha suspès perquè no va estudiar gens."
+  - word: "repetir"
+    definition: "Tornar a fer un curs que no s'ha aprovat."
+    example: "No vull repetir: estudiaré tot l'estiu."
+  - word: "lliurar"
+    definition: "Donar un treball o un examen al professor."
+    example: "Hem de lliurar el treball divendres."
+  - word: "la pissarra"
+    definition: "Superfície gran on el professor escriu a classe."
+    example: "La professora ha escrit el deure a la pissarra."
+  - word: "el guix"
+    definition: "Barreta blanca per escriure a la pissarra."
+    example: "No queda guix: escriuré amb el retolador."
+  - word: "el projector"
+    definition: "Aparell que mostra imatges grans en una pantalla."
+    example: "El projector no funciona: truqueu al conserge."
+  - word: "l'expedient"
+    definition: "Conjunt de les notes d'un alumne durant els estudis."
+    example: "Amb aquest expedient entrarà a medicina."
+  - word: "el justificant"
+    definition: "Paper que explica per què un alumne no ha anat a classe."
+    example: "Porta el justificant del metge a secretaria."
+  - word: "el delegat, la delegada"
+    definition: "Alumne que representa la classe davant dels professors."
+    example: "La delegada ha demanat canviar la data de l'examen."
+  - word: "la vaga"
+    definition: "Dia que els treballadors o els alumnes no van a la feina o a classe per protestar."
+    example: "Demà hi ha vaga de busos: anirem a peu."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-27-001
+    type: choice
+    point: connectors-causa
+    lesson: 1
+    prompt: "—Per què estudies medicina? —___ vull ser metgessa."
+    answer: "Perquè"
+    distractors:
+      - text: "Per què"
+        why: "*Per què*, en dues paraules, serveix per preguntar. Aquí responem la pregunta: *perquè*."
+      - text: "Però"
+        why: "*Però* indica un contrast. «Vull ser metgessa» és la causa: *perquè*."
+    explanation: "«Per què» pregunta i *perquè* respon: «vull ser metgessa» és la causa."
+
+  - id: b1-27-002
+    type: choice
+    point: connectors-causa
+    lesson: 1
+    prompt: "___ plovia molt, la professora va fer la classe al gimnàs."
+    answer: "Com que"
+    distractors:
+      - text: "Per què"
+        why: "*Per què* només serveix per preguntar, i aquí no hi ha cap pregunta."
+      - text: "Però"
+        why: "*Però* indica un contrast. «Plovia molt» és la causa de fer la classe al gimnàs."
+      - text: "Així que"
+        why: "*Així que* va davant del resultat. Aquest buit va davant de la causa: *com que*."
+    explanation: "«Plovia molt» és una causa coneguda al principi de la frase: *com que*."
+
+  - id: b1-27-003
+    type: choice
+    point: connectors-causa
+    lesson: 1
+    prompt: "___ has aprovat el batxillerat, pots demanar la beca."
+    answer: "Ja que"
+    distractors:
+      - text: "Per què"
+        why: "*Per què* només serveix per preguntar, i aquí no hi ha cap pregunta."
+      - text: "Tot i que"
+        why: "*Tot i que* indica un contrast. Haver aprovat és la causa que permet demanar la beca."
+    explanation: "«Has aprovat el batxillerat» és una causa coneguda: *ja que*."
+
+  - id: b1-27-004
+    type: choice
+    point: connectors-consequencia
+    lesson: 1
+    prompt: "L'Ibrahim ha suspès tres assignatures; ___, haurà de repetir el curs."
+    answer: "per tant"
+    distractors:
+      - text: "perquè"
+        why: "*Perquè* dona una causa. «Haurà de repetir» és la conseqüència: *per tant*."
+      - text: "però"
+        why: "*Però* indica un contrast, i aquí un fet és el resultat de l'altre."
+    explanation: "«Haurà de repetir el curs» és el resultat de suspendre: *per tant*."
+
+  - id: b1-27-005
+    type: choice
+    point: connectors-consequencia
+    lesson: 1
+    prompt: "No quedaven places a la biblioteca, ___ vam estudiar al bar."
+    answer: "així que"
+    distractors:
+      - text: "perquè"
+        why: "*Perquè* donaria la causa. «Vam estudiar al bar» és el resultat."
+      - text: "com que"
+        why: "*Com que* va al principi, davant de la causa. El buit va davant del resultat: *així que*."
+    explanation: "«Vam estudiar al bar» és el resultat de no tenir places: *així que*."
+
+  - id: b1-27-006
+    type: choice
+    point: connectors-consequencia
+    lesson: 1
+    prompt: "Què vol dir «La Laia estudiava de nit, de manera que treia males notes»?"
+    answer: "Treia males notes perquè estudiava de nit."
+    distractors:
+      - text: "Estudiava de nit perquè treia males notes."
+        why: "Això inverteix la frase: la causa és estudiar de nit, i el resultat, les males notes."
+      - text: "Estudiava de nit encara que treia males notes."
+        why: "*De manera que* no indica un contrast, sinó un resultat."
+    explanation: "*De manera que* introdueix el resultat: estudiar de nit va causar les males notes."
+
+  - id: b1-27-007
+    type: choice
+    point: connectors-consequencia
+    lesson: 1
+    prompt: "L'examen és demà. Cal repassar, ___."
+    answer: "doncs"
+    distractors:
+      - text: "perquè"
+        why: "*Perquè* necessita una frase amb verb darrere. Al final de la frase, la conseqüència és *doncs*."
+      - text: "ja que"
+        why: "*Ja que* dona una causa amb verb. Aquí tanquem amb la conseqüència: *doncs*."
+    explanation: "«Cal repassar» és la conseqüència de tenir examen: *doncs*, darrere del verb."
+
+  - id: b1-27-008
+    type: match
+    point: connectors-causa
+    lesson: 1
+    instruction: "Relaciona cada principi amb el seu final."
+    pairs:
+      - ["Com que neva molt", "l'institut ha tancat dos dies"]
+      - ["Ja que tens els apunts", "em pots dir què entra a l'examen?"]
+      - ["La Núria estudia anglès", "perquè vol fer un màster a Londres"]
+      - ["En Pau no ha vingut a classe", "perquè té febre"]
+    explanation: "Cada causa va amb el seu resultat: *com que* i *ja que* al principi, *perquè* darrere."
+
+  - id: b1-27-009
+    type: match
+    point: connectors-consequencia
+    lesson: 1
+    instruction: "Relaciona cada fet amb el seu resultat."
+    pairs:
+      - ["No entenia els exercicis", "per tant va demanar ajuda al tutor"]
+      - ["S'ha espatllat el projector", "així que farem l'examen en paper"]
+      - ["Va copiar a l'examen", "de manera que el van suspendre"]
+      - ["Demà hi ha vaga de busos", "les classes començaran més tard, doncs"]
+    explanation: "Cada fet va amb el seu resultat: *per tant*, *així que*, *de manera que* i *doncs*."
+
+  - id: b1-27-010
+    type: inline-choice
+    point: connectors-causa
+    lesson: 1
+    title: "Un correu al tutor"
+    text: "Benvolgut tutor: {Per què|Perquè} no vaig venir ahir a classe? {Perquè|Per què} tenia metge. {Com que|Tot i que} tinc el justificant, us l'adjunto. {Ja que|Tot i que} demà hi ha examen, voldria saber què entra. Gràcies, Arnau."
+    explanation: "La pregunta és *per què* i la resposta, *perquè*. Les dues causes conegudes porten *com que* i *ja que*."
+
+  - id: b1-27-011
+    type: inline-choice
+    point: connectors-consequencia
+    lesson: 1
+    title: "Avís a l'aula"
+    text: "L'aula era buida, {per tant|perquè}, hi hem entrat. El guix s'ha acabat, {així que|com que} la Carla anirà a buscar-ne. Volem acabar el tema avui, {de manera que|perquè} no hi haurà pati. Estudieu a casa: us ho preguntarem, {doncs|perquè}."
+    explanation: "Els quatre buits són resultats: *per tant*, *així que*, *de manera que* i *doncs*."
+
+  - id: b1-27-012
+    type: fill
+    point: connectors-causa
+    lesson: 1
+    prompt: "___ tens el llibre, em pots dir què entra a l'examen?"
+    hint: "connector de causa coneguda"
+    answers: ["Ja que", "Com que"]
+    wrong_answers:
+      - text: "Per què"
+        why: "*Per què* només serveix per preguntar, i aquí no hi ha cap pregunta."
+    grading: tolerant
+    explanation: "«Tens el llibre» és una causa coneguda al principi: *ja que* o *com que*."
+
+  - id: b1-27-013
+    type: fill
+    point: connectors-consequencia
+    lesson: 1
+    prompt: "L'aula era plena, ___ vam seure al passadís."
+    hint: "connector de conseqüència"
+    answers: ["per tant", "així que"]
+    wrong_answers:
+      - text: "perquè"
+        why: "*Perquè* donaria la causa. «Vam seure al passadís» és el resultat."
+      - text: "ja que"
+        why: "*Ja que* dona una causa. Aquí cal el resultat: *per tant* o *així que*."
+    grading: tolerant
+    explanation: "«Vam seure al passadís» és el resultat: *per tant* o *així que*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-27-014
+    type: choice
+    point: connectors-causa
+    lesson: 2
+    prompt: "—___ has suspès? —No havia estudiat prou."
+    answer: "Per què"
+    distractors:
+      - text: "Perquè"
+        why: "*Perquè*, en una paraula, dona la causa. La pregunta és *per què*."
+      - text: "Com que"
+        why: "*Com que* presenta una causa coneguda, no fa una pregunta."
+    explanation: "És una pregunta: *per què*, en dues paraules."
+
+  - id: b1-27-015
+    type: choice
+    point: connectors-causa
+    lesson: 2
+    prompt: "La Montse fa classes de repàs ___ li costa aprovar les matemàtiques."
+    answer: "perquè"
+    distractors:
+      - text: "per què"
+        why: "*Per què* només pregunta. Aquí donem la causa: *perquè*."
+      - text: "per tant"
+        why: "*Per tant* donaria el resultat. «Li costa aprovar» és la causa de fer repàs."
+    explanation: "«Li costa aprovar» és la causa de fer classes de repàs: *perquè*."
+
+  - id: b1-27-016
+    type: choice
+    point: connectors-consequencia
+    lesson: 2
+    prompt: "En Wei no ha lliurat el treball, ___, ha suspès l'avaluació."
+    answer: "per tant"
+    distractors:
+      - text: "perquè"
+        why: "*Perquè* donaria la causa. «Ha suspès» és el resultat de no lliurar el treball."
+      - text: "ja que"
+        why: "*Ja que* dona una causa. Aquí cal el resultat: *per tant*."
+    explanation: "«Ha suspès l'avaluació» és el resultat: *per tant*."
+
+  - id: b1-27-017
+    type: choice
+    point: connectors-consequencia
+    lesson: 2
+    prompt: "Hem perdut l'autobús; ___ arribarem tard a l'examen."
+    answer: "així que"
+    distractors:
+      - text: "perquè"
+        why: "*Perquè* donaria la causa. «Arribarem tard» és el resultat."
+      - text: "tot i que"
+        why: "*Tot i que* indica un contrast. Arribar tard és el resultat de perdre l'autobús."
+    explanation: "«Arribarem tard» és el resultat: *així que*."
+
+  - id: b1-27-018
+    type: fill
+    point: connectors-causa
+    lesson: 2
+    prompt: "___ feia vaga de trens, molts alumnes van arribar tard."
+    hint: "connector de causa al principi"
+    answers: ["Com que", "Ja que"]
+    wrong_answers:
+      - text: "Per què"
+        why: "*Per què* només serveix per preguntar, i aquí no hi ha cap pregunta."
+    grading: tolerant
+    explanation: "«Feia vaga» és una causa coneguda al principi: *com que* o *ja que*."
+
+  - id: b1-27-019
+    type: fill
+    point: connectors-causa
+    lesson: 2
+    prompt: "L'Arnau estudia al bar ___ a casa té massa soroll."
+    hint: "connector de causa"
+    answers: ["perquè", "ja que"]
+    wrong_answers:
+      - text: "per què"
+        why: "*Per què*, en dues paraules, només pregunta. La causa és *perquè*."
+      - text: "per tant"
+        why: "*Per tant* donaria un resultat. «Té massa soroll» és la causa."
+    grading: tolerant
+    explanation: "«Té massa soroll» és la causa d'estudiar al bar: *perquè* o *ja que*."
+
+  - id: b1-27-020
+    type: fill
+    point: connectors-consequencia
+    lesson: 2
+    prompt: "No hi havia llum a l'edifici, ___ es van ajornar els exàmens."
+    hint: "connector de conseqüència"
+    answers: ["per tant", "així que"]
+    wrong_answers:
+      - text: "perquè"
+        why: "*Perquè* donaria la causa. «Es van ajornar els exàmens» és el resultat."
+      - text: "ja que"
+        why: "*Ja que* dona una causa. Aquí cal el resultat: *per tant* o *així que*."
+    grading: tolerant
+    explanation: "«Es van ajornar els exàmens» és el resultat: *per tant* o *així que*."
+
+  - id: b1-27-021
+    type: fill
+    point: connectors-consequencia
+    lesson: 2
+    prompt: "Plou molt; queda't a casa, ___."
+    hint: "connector de conseqüència al final"
+    answers: ["doncs"]
+    wrong_answers:
+      - text: "perquè"
+        why: "*Perquè* necessita una frase amb verb darrere. Al final, la conseqüència és *doncs*."
+      - text: "ja que"
+        why: "*Ja que* dona una causa amb verb. Aquí tanquem amb *doncs*."
+    grading: tolerant
+    explanation: "«Queda't a casa» és la conseqüència: *doncs*, al final de la frase."
+
+  - id: b1-27-022
+    type: fill
+    point: connectors-causa
+    lesson: 2
+    prompt: "___ tens germans a l'institut, coneixes bé els professors."
+    hint: "connector de causa coneguda"
+    answers: ["Ja que", "Com que"]
+    wrong_answers:
+      - text: "Per què"
+        why: "*Per què* només serveix per preguntar, i aquí no hi ha cap pregunta."
+    grading: tolerant
+    explanation: "«Tens germans» és una causa coneguda: *ja que* o *com que*."
+
+  - id: b1-27-023
+    type: fill
+    point: connectors-consequencia
+    lesson: 2
+    prompt: "Era el delegat de la classe, ___ parlava en nom de tothom."
+    hint: "connector de conseqüència"
+    answers: ["per tant", "així que"]
+    wrong_answers:
+      - text: "perquè"
+        why: "*Perquè* donaria la causa. «Parlava en nom de tothom» és el resultat."
+    grading: tolerant
+    explanation: "«Parlava en nom de tothom» és el resultat de ser delegat: *per tant* o *així que*."
+
+  - id: b1-27-024
+    type: order
+    point: connectors-causa
+    lesson: 2
+    cue: "Explica que, com que nevava, vau fer l'examen al gimnàs."
+    chunks: ["Com que", "nevava", "vam fer", "l'examen", "al gimnàs"]
+    extra: ["perquè"]
+    answers:
+      - "Com que nevava, vam fer l'examen al gimnàs."
+      - "Com que nevava, al gimnàs vam fer l'examen."
+    explanation: "*Com que* va al principi, amb la causa coneguda: *com que nevava*."
+
+  - id: b1-27-025
+    type: order
+    point: connectors-consequencia
+    lesson: 2
+    cue: "Digues que no hi havia guix per a la pissarra i que per això vau fer servir el projector."
+    chunks: ["No hi havia", "guix per a la pissarra", "així que", "vam fer servir", "el projector"]
+    extra: ["perquè"]
+    answers:
+      - "No hi havia guix per a la pissarra, així que vam fer servir el projector."
+    explanation: "«Vam fer servir el projector» és el resultat: *així que*."
+
+  - id: b1-27-026
+    type: inline-choice
+    point: connectors-causa
+    lesson: 2
+    title: "Nota de la directora"
+    text: "{Com que|Per què} demà hi ha vaga, les classes començaran a les deu. Molts professors venen de fora, {per tant|perquè}, no hi haurà primera hora. {Ja que|Tot i que} la biblioteca obre igualment, podeu estudiar-hi. Porteu el carnet: us el demanaran, {doncs|perquè}. Si teniu dubtes, pregunteu, {perquè|per què} volem ajudar-vos."
+    explanation: "*Com que* i *ja que* donen causes conegudes; *per tant* i *doncs*, resultats; i *perquè* respon *per què*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-27-027
+    type: choice
+    point: connectors-contrast
+    lesson: 3
+    prompt: "Volia estudiar medicina, ___ finalment va triar dret."
+    answer: "però"
+    distractors:
+      - text: "sinó"
+        why: "*Sinó* corregeix una frase negativa. Aquí no hi ha cap negació: *però*."
+      - text: "perquè"
+        why: "*Perquè* donaria una causa. «Va triar dret» contrasta amb «volia medicina»."
+    explanation: "Hi ha un contrast entre voler medicina i triar dret: *però*."
+
+  - id: b1-27-028
+    type: choice
+    point: connectors-contrast
+    lesson: 3
+    prompt: "No estudia física, ___ química."
+    answer: "sinó"
+    distractors:
+      - text: "però"
+        why: "Després d'una negació, la correcció és *sinó*. *Però química*, sense verb, no és correcte."
+      - text: "si no"
+        why: "*Si no*, en dues paraules, és una condició. La correcció és *sinó*."
+    explanation: "És una correcció d'una frase negativa: *no... sinó...*."
+
+  - id: b1-27-029
+    type: choice
+    point: connectors-contrast
+    lesson: 3
+    prompt: "___ estudia molt, sempre treu males notes."
+    answer: "Tot i que"
+    distractors:
+      - text: "Perquè"
+        why: "*Perquè* donaria la causa, i estudiar molt no causa les males notes: hi ha un contrast."
+      - text: "Ja que"
+        why: "*Ja que* dona una causa. Aquí l'esforç contrasta amb el resultat: *tot i que*."
+    explanation: "L'esforç contrasta amb el resultat: *tot i que*, amb el verb en indicatiu."
+
+  - id: b1-27-030
+    type: choice
+    point: connectors-contrast
+    lesson: 3
+    prompt: "La Fàtima va aprovar-ho tot; ___, el seu germà va suspendre tres assignatures."
+    answer: "en canvi"
+    distractors:
+      - text: "per tant"
+        why: "*Per tant* donaria un resultat. Suspendre no és el resultat d'aprovar: és un contrast."
+      - text: "perquè"
+        why: "*Perquè* donaria una causa. Aquí comparem dues situacions: *en canvi*."
+    explanation: "Comparem dues situacions diferents: *en canvi*."
+
+  - id: b1-27-031
+    type: fill
+    point: connectors-contrast
+    lesson: 3
+    prompt: "No faré el batxillerat científic, ___ el tecnològic."
+    hint: "connector de correcció"
+    answers: ["sinó"]
+    wrong_answers:
+      - text: "però"
+        why: "Després d'una negació, la correcció és *sinó*. *Però el tecnològic*, sense verb, no és correcte."
+      - text: "si no"
+        why: "*Si no*, en dues paraules, és una condició: *si no estudies*. Aquí cal *sinó*."
+    grading: strict
+    explanation: "És una correcció d'una negació: *sinó*, en una paraula i amb accent."
+
+  - id: b1-27-032
+    type: fill
+    point: connectors-contrast
+    lesson: 3
+    prompt: "___ plovia, vam fer l'excursió de final de curs."
+    hint: "connector de contrast"
+    answers: ["Tot i que", "Encara que"]
+    wrong_answers:
+      - text: "Ja que"
+        why: "*Ja que* dona una causa. La pluja no causa l'excursió: hi ha un contrast."
+      - text: "Com que"
+        why: "*Com que* presenta una causa. Aquí la pluja contrasta amb fer l'excursió."
+    grading: tolerant
+    explanation: "La pluja contrasta amb fer l'excursió: *tot i que* o *encara que*."
+
+  - id: b1-27-033
+    type: fill
+    point: compte-castella-doncs
+    lesson: 3
+    prompt: "Estudia cada dia; ___, suspendràs l'examen."
+    hint: "condició negativa: *si* + *no*"
+    answers: ["si no"]
+    wrong_answers:
+      - text: "sinó"
+        why: "*Sinó* corregeix una negació. Aquí és una condició: *si* + *no*, separat i sense accent."
+    grading: strict
+    explanation: "És una condició (*si* + negació): *si no*, en dues paraules i sense accent."
+
+  - id: b1-27-034
+    type: find-error
+    point: compte-castella-doncs
+    lesson: 3
+    sentence: "Doncs plovia molt, vam fer la classe al gimnàs."
+    error: "Doncs"
+    fix: "Com que"
+    fix_distractors:
+      - text: "Tot i que"
+        why: "*Tot i que* indica un contrast i canvia el sentit. La pluja és la causa: *com que*."
+      - text: "Per què"
+        why: "*Per què* només serveix per preguntar."
+    explanation: "*Doncs* no introdueix una causa. La causa coneguda és *com que plovia molt*."
+
+  - id: b1-27-035
+    type: find-error
+    point: compte-castella-doncs
+    lesson: 3
+    sentence: "Vaig suspendre, doncs no havia estudiat gens."
+    error: "doncs"
+    fix: "perquè"
+    fix_distractors:
+      - text: "per què"
+        why: "*Per què* només pregunta. Aquí responem *per què* va suspendre: *perquè*."
+      - text: "tot i que"
+        why: "*Tot i que* indica un contrast. No haver estudiat és la causa: *perquè*."
+    explanation: "*Doncs* no dona una causa; és un calc de «pues». La causa és *perquè no havia estudiat*."
+
+  - id: b1-27-036
+    type: find-error
+    point: compte-castella-doncs
+    lesson: 3
+    sentence: "Ja que tens el justificant, porta'l a secretaria."
+    no_error: true
+    explanation: "La frase és correcta: *ja que* dona una causa coneguda i *porta'l* porta el pronom de «el justificant»."
+
+  - id: b1-27-037
+    type: find-error
+    point: connectors-contrast
+    lesson: 3
+    sentence: "No vull fer dret, si no medicina."
+    error: "si no"
+    fix: "sinó"
+    fix_distractors:
+      - text: "però"
+        why: "*Però medicina*, sense verb, no és correcte. La correcció d'una negació és *sinó*."
+      - text: "tot i que"
+        why: "*Tot i que* necessita una frase amb verb. Aquí cal *sinó*."
+    explanation: "És una correcció, no una condició: *sinó*, en una paraula i amb accent."
+
+  - id: b1-27-038
+    type: find-error
+    point: connectors-contrast
+    lesson: 3
+    sentence: "En Pau estudia molt, per tant, la Laia no estudia gens."
+    error: "per tant"
+    fix: "en canvi"
+    fix_distractors:
+      - text: "perquè"
+        why: "*Perquè* donaria una causa. Que en Pau estudiï no causa que la Laia no estudiï."
+      - text: "així que"
+        why: "*Així que* donaria un resultat. Aquí comparem dues situacions: *en canvi*."
+    explanation: "No hi ha cap resultat, sinó dues situacions oposades: *en canvi*."
+
+  - id: b1-27-039
+    type: find-error
+    point: connectors-contrast
+    lesson: 3
+    sentence: "No farem l'examen al pati, sinó al gimnàs."
+    no_error: true
+    explanation: "La frase és correcta: és una negació amb la correcció *sinó*, en una paraula."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-27-040
+    type: transform
+    point: connectors-causa
+    lesson: 4
+    instruction: "Comença la frase amb *com que*."
+    source: "No va venir a classe [[perquè tenia febre]]."
+    answers:
+      - "Com que tenia febre, no va venir a classe."
+    wrong_answers:
+      - text: "Tot i que tenia febre, no va venir a classe."
+        why: "*Tot i que* indica un contrast i canvia el sentit. La febre és la causa."
+    grading: tolerant
+    explanation: "«Tenia febre» és una causa coneguda: *com que tenia febre*, al principi."
+
+  - id: b1-27-041
+    type: transform
+    point: connectors-consequencia
+    lesson: 4
+    instruction: "Uneix les dues frases amb *per tant*."
+    source: "No entenia el problema. [[Va demanar ajuda al tutor.]]"
+    answers:
+      - "No entenia el problema; per tant, va demanar ajuda al tutor."
+    wrong_answers:
+      - text: "No entenia el problema, perquè va demanar ajuda al tutor."
+        why: "Això inverteix el sentit: demanar ajuda és el resultat, no la causa."
+    grading: tolerant
+    explanation: "«Va demanar ajuda» és el resultat de no entendre el problema: *per tant*."
+
+  - id: b1-27-042
+    type: transform
+    point: connectors-contrast
+    lesson: 4
+    instruction: "Comença la frase amb *tot i que*."
+    source: "Volia anar a la universitat, [[però va haver de treballar]]."
+    answers:
+      - "Tot i que volia anar a la universitat, va haver de treballar."
+    wrong_answers:
+      - text: "Tot i que volia anar a la universitat, però va haver de treballar."
+        why: "*Tot i que* i *però* no van junts: un sol connector ja marca el contrast."
+    grading: tolerant
+    explanation: "Hi ha un contrast entre voler estudiar i haver de treballar: *tot i que*."
+
+  - id: b1-27-043
+    type: transform
+    point: compte-castella-doncs
+    lesson: 4
+    instruction: "Corregeix el connector de causa."
+    source: "[[Doncs plou]], ens quedem a casa."
+    answers:
+      - "Com que plou, ens quedem a casa."
+      - "Ja que plou, ens quedem a casa."
+    wrong_answers:
+      - text: "Tot i que plou, ens quedem a casa."
+        why: "*Tot i que* indica un contrast i canvia el sentit. La pluja és la causa."
+    grading: tolerant
+    explanation: "*Doncs* no introdueix una causa; és un calc de «pues». La causa és *com que* o *ja que*."
+
+  - id: b1-27-044
+    type: transform
+    point: connectors-contrast
+    lesson: 4
+    instruction: "Corregeix: vols fer el treball amb la Núria."
+    source: "No vull fer el treball [[amb aquest company]]."
+    answers:
+      - "No vull fer el treball amb aquest company, sinó amb la Núria."
+      - "No vull fer el treball amb aquest company sinó amb la Núria."
+    wrong_answers:
+      - text: "No vull fer el treball amb aquest company, si no amb la Núria."
+        why: "*Si no* és una condició. La correcció d'una negació és *sinó*."
+    grading: strict
+    explanation: "És una correcció d'una negació: *sinó*, en una paraula i amb accent."
+
+  - id: b1-27-045
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Uneix les dues frases amb *tot i així*."
+    source: "Plovia i feia fred. [[Vam fer l'excursió igualment.]]"
+    answers:
+      - "Plovia i feia fred; tot i així, vam fer l'excursió."
+      - "Plovia i feia fred; vam fer l'excursió tot i així."
+    wrong_answers:
+      - text: "Plovia i feia fred; per tant, vam fer l'excursió."
+        why: "Fer l'excursió no és el resultat del mal temps: és *tot i així*, «malgrat tot»."
+    grading: tolerant
+    explanation: "Van fer l'excursió malgrat el mal temps: *tot i així*."
+
+  - id: b1-27-046
+    type: transform
+    point: connectors-contrast
+    lesson: 4
+    instruction: "Uneix les dues frases amb *en canvi*."
+    source: "L'examen semblava fàcil. [[Va suspendre la meitat de la classe.]]"
+    answers:
+      - "L'examen semblava fàcil; en canvi, va suspendre la meitat de la classe."
+    wrong_answers:
+      - text: "L'examen semblava fàcil, per tant va suspendre la meitat de la classe."
+        why: "Suspendre no és el resultat que s'esperava: és un contrast, *en canvi*."
+    grading: tolerant
+    explanation: "El resultat contrasta amb el que semblava: *en canvi*."
+
+  - id: b1-27-047
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Uneix les dues frases amb *tot i així*."
+    source: "No havia estudiat gens. [[Va aprovar l'examen.]]"
+    answers:
+      - "No havia estudiat gens; tot i així, va aprovar l'examen."
+      - "No havia estudiat gens; va aprovar l'examen tot i així."
+    wrong_answers:
+      - text: "No havia estudiat gens, perquè va aprovar l'examen."
+        why: "Això inverteix el sentit: aprovar no és la causa de no estudiar."
+    grading: tolerant
+    explanation: "Va aprovar malgrat no haver estudiat: *tot i així*."
+
+  - id: b1-27-048
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "Plovia i nevava; ___, vam anar a l'excursió."
+    hint: "expressió: «malgrat tot»"
+    answers: ["tot i així"]
+    wrong_answers:
+      - text: "en canvi"
+        why: "*En canvi* compara dues situacions. Aquí és «malgrat tot»: *tot i així*."
+      - text: "per tant"
+        why: "*Per tant* donaria un resultat. Anar-hi malgrat la neu és *tot i així*."
+    grading: tolerant
+    explanation: "Van anar-hi malgrat el mal temps: *tot i així*."
+
+  - id: b1-27-049
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "—Vens a repàs demà? —___! Tinc examen dijous."
+    hint: "expressió d'afirmació entusiasta amb *ara*"
+    answers: ["I ara"]
+    grading: tolerant
+    explanation: "*I ara!* vol dir «és clar!»: és una afirmació entusiasta."
+
+  - id: b1-27-050
+    type: fill
+    point: connectors-contrast
+    lesson: 4
+    prompt: "M'agrada la física, ___ la química no m'interessa gens."
+    hint: "connector de contrast"
+    answers: ["però", "en canvi"]
+    wrong_answers:
+      - text: "sinó"
+        why: "*Sinó* corregeix una negació. Aquí no hi ha cap negació: *però* o *en canvi*."
+    grading: tolerant
+    explanation: "Hi ha un contrast entre les dues assignatures: *però* o *en canvi*."
+
+  - id: b1-27-051
+    type: order
+    point: connectors-contrast
+    lesson: 4
+    cue: "Digues que no faràs el batxillerat, sinó un cicle de grau mitjà."
+    chunks: ["No faré", "el batxillerat", "sinó", "un cicle", "de grau mitjà"]
+    extra: ["si no"]
+    answers:
+      - "No faré el batxillerat, sinó un cicle de grau mitjà."
+    explanation: "És una correcció d'una negació: *sinó*, en una paraula."
+
+  - id: b1-27-052
+    type: order
+    point: connectors-contrast
+    lesson: 4
+    cue: "Digues que, tot i que plovia, vau fer el partit al pati."
+    chunks: ["Tot i que", "plovia", "vam fer", "el partit", "al pati"]
+    extra: ["perquè"]
+    answers:
+      - "Tot i que plovia, vam fer el partit al pati."
+      - "Vam fer el partit al pati, tot i que plovia."
+      - "Tot i que plovia, al pati vam fer el partit."
+    explanation: "La pluja no va impedir el partit: *tot i que*, al principi."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-27-053
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Al cap i a la fi, va aprovar»?"
+    answer: "Que finalment va aprovar, després de dubtar-ho."
+    distractors:
+      - text: "Que gairebé va aprovar, però no."
+        why: "*Al cap i a la fi* vol dir que sí que va passar, al final."
+      - text: "Que va aprovar sense estudiar gens."
+        why: "L'expressió parla del final d'un dubte, no de l'esforç."
+    explanation: "*Al cap i a la fi* vol dir «finalment, després de dubtar-ho»."
+
+  - id: b1-27-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Aprovarem, ja ho veuràs. —___! Segur que sí!"
+    answer: "I ara"
+    distractors:
+      - text: "En canvi"
+        why: "*En canvi* compara situacions. Aquí és una afirmació entusiasta: *i ara*."
+      - text: "Per tant"
+        why: "*Per tant* dona un resultat. Aquí és una exclamació: *i ara*."
+    explanation: "*I ara!* és una afirmació entusiasta: vol dir «és clar!»."
+
+  - id: b1-27-055
+    type: choice
+    point: connectors-contrast
+    lesson: 5
+    prompt: "No és que no vulgui estudiar; ___ que no té temps."
+    answer: "sinó"
+    distractors:
+      - text: "però"
+        why: "Després de «no és que», la correcció és *sinó que*: *però que* no és correcte."
+      - text: "si no"
+        why: "*Si no* és una condició. La correcció és *sinó que*."
+    explanation: "És una correcció: *no és que... sinó que...*."
+
+  - id: b1-27-056
+    type: fill
+    point: connectors-causa
+    lesson: 5
+    prompt: "En Pau va demanar la beca ___ tenia molt bon expedient."
+    hint: "connector de causa"
+    answers: ["perquè", "ja que"]
+    wrong_answers:
+      - text: "per què"
+        why: "*Per què* només pregunta. La causa és *perquè* o *ja que*."
+      - text: "per tant"
+        why: "*Per tant* donaria un resultat. «Tenia bon expedient» és la causa."
+    grading: tolerant
+    explanation: "«Tenia bon expedient» és la causa de demanar la beca: *perquè* o *ja que*."
+
+  - id: b1-27-057
+    type: fill
+    point: connectors-contrast
+    lesson: 5
+    prompt: "La Carla estudia dret, ___ el seu germà estudia medicina."
+    hint: "connector de contrast"
+    answers: ["però", "en canvi"]
+    wrong_answers:
+      - text: "sinó"
+        why: "*Sinó* corregeix una negació, i aquí no n'hi ha cap."
+      - text: "per tant"
+        why: "*Per tant* donaria un resultat. Aquí comparem dues situacions."
+    grading: tolerant
+    explanation: "Comparem dues situacions diferents: *però* o *en canvi*."
+
+  - id: b1-27-058
+    type: transform
+    point: connectors-contrast
+    lesson: 5
+    instruction: "Uneix les dues frases amb *tot i que*."
+    source: "Té molt bona memòria. [[No estudia mai.]]"
+    answers:
+      - "Té molt bona memòria, tot i que no estudia mai."
+      - "Tot i que no estudia mai, té molt bona memòria."
+    wrong_answers:
+      - text: "Té molt bona memòria, perquè no estudia mai."
+        why: "Això inverteix el sentit: no estudiar no causa la bona memòria."
+    grading: tolerant
+    explanation: "Hi ha un contrast entre la memòria i no estudiar: *tot i que*."
+
+  - id: b1-27-059
+    type: find-error
+    point: connectors-contrast
+    lesson: 5
+    sentence: "M'agrada la història, sinó la geografia."
+    error: "sinó"
+    fix: "però"
+    fix_distractors:
+      - text: "si no"
+        why: "*Si no* és una condició. Aquí hi ha un contrast: *però*."
+      - text: "tot i que"
+        why: "*Tot i que* necessita una frase amb verb. Aquí cal *però*."
+    explanation: "No hi ha cap negació que calgui corregir: és un contrast, *però*."
+
+  - id: b1-27-060
+    type: find-error
+    point: compte-castella-doncs
+    lesson: 5
+    sentence: "Si no estudies, suspendràs; estudia, doncs."
+    no_error: true
+    explanation: "La frase és correcta: *si no* és la condició i *doncs* tanca amb la conseqüència."
+
+  - id: b1-27-061
+    type: order
+    point: connectors-causa
+    lesson: 5
+    cue: "Digues que, ja que tens els apunts, em pots ajudar."
+    chunks: ["Ja que", "tens", "els apunts", "em pots", "ajudar"]
+    extra: ["perquè"]
+    answers:
+      - "Ja que tens els apunts, em pots ajudar."
+      - "Em pots ajudar, ja que tens els apunts."
+    explanation: "«Tens els apunts» és una causa coneguda: *ja que*, al principi."
+
+  - id: b1-27-062
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["al cap i a la fi", "tries una opció després de dubtar molt"]
+      - ["en canvi", "compares dues situacions diferents"]
+      - ["tot i així", "fas una cosa malgrat una dificultat"]
+      - ["i ara!", "respons «és clar!» amb entusiasme"]
+      - ["de tota manera", "dius que una cosa passa igualment"]
+      - ["així doncs", "tanques un argument amb la conclusió"]
+    explanation: "Són sis maneres d'enllaçar idees: tria la que demana cada situació."
+
+  - id: b1-27-063
+    type: inline-choice
+    point: connectors-contrast
+    lesson: 5
+    title: "Missatge al grup de classe"
+    text: "Hola! {Com que|Per què} demà hi ha vaga de busos, quedem a les nou a l'institut. En Pau no pot venir, {però|perquè} vindrà a la tarda. Porteu els apunts, {si no|sinó}, no podrem repassar. {Tot i que|Perquè} farà fred, estudiarem al pati. {Per tant|Perquè}, porteu roba d'abrigar! {Així doncs|Perquè}, ens veiem a les nou."
+    explanation: "Causa (*com que*), contrast (*però*, *tot i que*), condició (*si no*) i resultat (*per tant*, *així doncs*)."
+
+  - id: b1-27-064
+    type: inline-choice
+    point: expressions
+    lesson: 5
+    title: "Abans de l'examen"
+    text: "L'examen és difícil; {tot i així|per tant}, l'aprovaràs si estudies. La teoria és llarga; {en canvi|per tant}, els exercicis són curts. Dubtava entre dues respostes; {al cap i a la fi|perquè}, vaig triar la primera. —M'ajudes a repassar? —{I ara|En canvi}! Quan vulguis. He suspès altres cops; {de tota manera|per tant}, estic content de l'esforç."
+    explanation: "Cinc expressions d'aquesta unitat: *tot i així*, *en canvi*, *al cap i a la fi*, *i ara* i *de tota manera*."
+
+  - id: b1-27-065
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La tria de la Júlia"
+    text: |
+      La Júlia té setze anys i estudia quart d'ESO a Sabadell. Com que sempre ha tret bones notes en ciències, tothom pensava que faria el batxillerat científic. Però ella dubtava: li agradava la biologia, però també li agradava dibuixar, i passava hores fent còmics i volia aprendre a dibuixar de debò.
+
+      Ja que la data de la matrícula s'acostava, va demanar hora amb la tutora. La tutora li va dir que no calia triar entre ciències i art, perquè hi ha un batxillerat artístic amb assignatures de disseny. Tot i que la Júlia no coneixia ningú que l'hagués fet, la idea li va agradar.
+
+      Així que va parlar amb els seus pares. El pare volia que fes ciències; la mare, en canvi, li va dir que triés el que la fes feliç. Al cap i a la fi, la Júlia es va matricular a l'artístic. Estudia molt, però no ha perdut la il·lusió: diu que, si no dibuixa cada dia, es posa trista.
+    questions:
+      - prompt: "Per què tothom pensava que la Júlia faria el científic?"
+        answer: "Perquè treia bones notes en ciències."
+        distractors:
+          - text: "Perquè volia ser dissenyadora."
+            why: "Li agradava dibuixar, però el text no diu que volgués ser dissenyadora."
+          - text: "Perquè la tutora li ho havia aconsellat."
+            why: "La tutora li va parlar de l'artístic, no del científic."
+      - prompt: "Què li va proposar la tutora?"
+        answer: "Un batxillerat que barreja l'art amb el disseny."
+        distractors:
+          - text: "Un cicle formatiu de grau mitjà per dibuixar còmics."
+            why: "El text no parla de cap cicle."
+          - text: "El batxillerat científic, com volia el pare."
+            why: "El científic el volia el pare; la tutora va proposar l'artístic."
+      - prompt: "Com van reaccionar els pares?"
+        answer: "El pare preferia ciències i la mare la va deixar triar."
+        distractors:
+          - text: "Tots dos volien que fes el batxillerat científic."
+            why: "La mare li va dir que triés el que la fes feliç."
+          - text: "Tots dos volien que fes el batxillerat artístic."
+            why: "El pare volia que fes ciències."
+      - prompt: "Què va triar la Júlia al final?"
+        answer: "El batxillerat artístic."
+        distractors:
+          - text: "El batxillerat científic."
+            why: "Era el que tothom esperava, però no el que va triar."
+          - text: "Deixar els estudis per dibuixar còmics."
+            why: "El text no diu que deixés els estudis: estudia molt."
+    explanation: "La Júlia dubtava entre ciències i art i, amb l'ajuda de la tutora, va triar l'artístic."

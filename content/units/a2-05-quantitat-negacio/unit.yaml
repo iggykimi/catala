@@ -1,0 +1,1032 @@
+# Unitat a2-05: Quantitat i negació
+id: a2-05
+level: A2
+title: "Quantitat i negació"
+summary: "Quantificadors (*molt, poc, massa, prou, força, bastant*), *gaire* i *gens*, la negació (*cap, ningú, res, enlloc, mai, tampoc*) i expressions (*ni de broma, tant me fa, no fa res, ni fu ni fa*)."
+vocabulary_theme: "Compres, botigues, quantitats i envasos"
+points:
+  - id: quantificadors
+    title: "Quantitat: *molt, poc, massa, prou, força, bastant*"
+    refs:
+      - label: "GEIEC: Els quantificadors"
+        url: "https://geiec.iec.cat"
+  - id: gaire-gens
+    title: "*Gaire* i *gens* en negatives i preguntes"
+    refs:
+      - label: "GEIEC: Els quantificadors"
+        url: "https://geiec.iec.cat"
+  - id: negacio
+    title: "La negació: *cap, ningú, res, enlloc, mai, tampoc*"
+    refs:
+      - label: "GEIEC: La negació"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *gaire, res* i altres"
+  - id: expressions
+    title: "Expressions per negar i per dir que és igual"
+lessons:
+  - title: "Molta gent al mercat"
+  - title: "Practicar la quantitat"
+  - title: "La negació i els calcs"
+  - title: "Produir frases negatives"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la botiga"
+    definition: "Lloc on es venen coses."
+    example: "A la botiga del barri tenen un pa molt bo."
+  - word: "el mercat"
+    definition: "Lloc amb parades on es ven menjar."
+    example: "Dissabte anem al mercat a comprar verdura."
+  - word: "la fleca"
+    definition: "Botiga on es ven pa."
+    example: "La fleca del carrer Major obre a les set."
+  - word: "el forn"
+    definition: "Botiga on es fa i es ven pa."
+    example: "El forn tanca els diumenges."
+  - word: "la peixateria"
+    definition: "Botiga on es ven peix."
+    example: "A la peixateria hi ha cua cada matí."
+  - word: "la fruiteria"
+    definition: "Botiga on es ven fruita."
+    example: "A la fruiteria hi ha poques ofertes avui."
+  - word: "el quiosc"
+    definition: "Botiga petita on es venen diaris."
+    example: "Compro el diari al quiosc de la plaça."
+  - word: "la farmàcia"
+    definition: "Botiga on es venen medicines."
+    example: "La farmàcia del centre tanca a les nou."
+  - word: "el preu"
+    definition: "Diners que costa una cosa."
+    example: "El preu del peix ha pujat molt."
+  - word: "l'oferta"
+    definition: "Preu baix durant uns dies."
+    example: "Aquesta setmana hi ha ofertes de formatge."
+  - word: "la rebaixa"
+    definition: "Descompte gran en una època de l'any."
+    example: "A les rebaixes, molta gent va de compres."
+  - word: "el tiquet"
+    definition: "Paper petit que diu què has comprat."
+    example: "Guarda el tiquet de la compra."
+  - word: "la caixa"
+    definition: "Lloc de la botiga on es paga."
+    example: "Hi ha molta gent a la caixa."
+  - word: "la cua"
+    definition: "Fila de gent que espera."
+    example: "A la fleca no hi ha ningú a la cua."
+  - word: "el cistell"
+    definition: "Recipient per portar una compra petita."
+    example: "Agafa un cistell a l'entrada."
+  - word: "la bossa"
+    definition: "Recipient per portar la compra a casa."
+    example: "Porta una bossa de casa."
+  - word: "el paquet"
+    definition: "Embolcall d'un producte."
+    example: "He comprat un paquet de macarrons."
+  - word: "l'ampolla"
+    definition: "Envàs alt i estret per a líquids."
+    example: "Una ampolla d'oli d'oliva."
+  - word: "la capsa"
+    definition: "Envàs quadrat, sovint de cartó."
+    example: "Una capsa de galetes de xocolata."
+  - word: "la dotzena"
+    definition: "Grup de dotze coses."
+    example: "Una dotzena d'ous."
+  - word: "la barra"
+    definition: "Pa llarg i estret."
+    example: "Cada dia comprem una barra de pa."
+  - word: "la llista"
+    definition: "Paper amb les coses que has de comprar."
+    example: "Faig la llista abans d'anar al mercat."
+  - word: "el diari"
+    definition: "Fulls amb les notícies del dia."
+    example: "Llegeixo el diari amb el cafè."
+  - word: "comprar"
+    definition: "Donar diners a canvi d'una cosa."
+    example: "Cada dissabte comprem verdura al mercat."
+  - word: "costar"
+    definition: "Tenir un preu."
+    example: "Aquest formatge costa massa."
+  - word: "car, cara"
+    definition: "Que té un preu alt."
+    example: "El pernil és massa car."
+  - word: "el client, la clienta"
+    definition: "Persona que compra coses."
+    example: "Avui hi ha pocs clients."
+  - word: "el dependent, la dependenta"
+    definition: "Persona que ven coses."
+    example: "El dependent és molt amable."
+  - word: "la factura"
+    definition: "Paper que diu quins diners has de pagar."
+    example: "Aquest mes tinc moltes factures."
+  - word: "el got"
+    definition: "Recipient per beure."
+    example: "Posa els gots a taula."
+  - word: "el pastís"
+    definition: "Dolç de forn, sovint amb crema o fruita."
+    example: "Fem un pastís per a l'aniversari."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-05-001
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "Avui hi ha ___ gent a la caixa del forn."
+    answer: "molta"
+    distractors:
+      - text: "molt"
+        why: "*Molt* és masculí. «Gent» és femení: *molta*."
+      - text: "molts"
+        why: "*Molts* és plural. «Gent» és singular: *molta*."
+    explanation: "«Gent» és femení singular: *molta gent*."
+
+  - id: a2-05-002
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "Aquest mes tinc ___ factures pendents."
+    answer: "moltes"
+    distractors:
+      - text: "molta"
+        why: "*Molta* és singular. «Factures» és plural: *moltes*."
+      - text: "molts"
+        why: "*Molts* és masculí. «Factures» és femení: *moltes*."
+    explanation: "«Factures» és femení plural: *moltes factures*."
+
+  - id: a2-05-003
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "A la nevera queden ___ ous."
+    answer: "pocs"
+    distractors:
+      - text: "poc"
+        why: "*Poc* és singular. «Ous» és plural: *pocs*."
+      - text: "poques"
+        why: "*Poques* és femení. «Ous» és masculí: *pocs*."
+    explanation: "«Ous» és masculí plural: *pocs ous*."
+
+  - id: a2-05-004
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "Aquest formatge costa ___: no el compro."
+    answer: "massa"
+    distractors:
+      - text: "masses"
+        why: "*Massa* no canvia mai: *costa massa*."
+      - text: "masa"
+        why: "*Massa* s'escriu amb dues esses."
+    explanation: "*Massa* no canvia mai: *costa massa*."
+
+  - id: a2-05-005
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "M'agrada ___ el pa calent."
+    answer: "molt"
+    distractors:
+      - text: "molta"
+        why: "Amb un verb, *molt* no canvia: *m'agrada molt*."
+      - text: "molts"
+        why: "Amb un verb, *molt* no canvia: *m'agrada molt*."
+    explanation: "Amb un verb, *molt* no canvia: *m'agrada molt*."
+
+  - id: a2-05-006
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "A casa tinc ___ pa."
+    answer: "prou"
+    distractors:
+      - text: "prous"
+        why: "*Prou* no canvia mai: *prou pa*."
+      - text: "pròu"
+        why: "*Prou* no porta accent."
+    explanation: "*Prou* no canvia mai: *prou pa*."
+
+  - id: a2-05-007
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "Hi ha ___ rebaixes a la botiga del barri."
+    answer: "força"
+    distractors:
+      - text: "forsa"
+        why: "*Força* s'escriu amb *ç*."
+      - text: "forces"
+        why: "*Força* no canvia mai: *força rebaixes*."
+    explanation: "*Força* no canvia mai: *força rebaixes*."
+
+  - id: a2-05-008
+    type: choice
+    point: quantificadors
+    lesson: 1
+    prompt: "Tinc ___ feina per tota la setmana."
+    answer: "bastant"
+    distractors:
+      - text: "bastante"
+        why: "«Bastante» és la forma castellana. En català és *bastant*."
+      - text: "bastantes"
+        why: "En català, *bastant* s'escriu sense *e* final: *bastant feina*."
+    explanation: "*Bastant* s'escriu sense *e* final i no canvia: *bastant feina*."
+
+  - id: a2-05-009
+    type: choice
+    point: gaire-gens
+    lesson: 1
+    prompt: "No tinc ___ temps avui."
+    answer: "gaire"
+    distractors:
+      - text: "gens"
+        why: "*Gens* va amb *de* davant d'un nom: *gens de temps*."
+      - text: "cap"
+        why: "*Cap* no va amb noms que no es poden comptar, com «temps»."
+    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire temps*."
+
+  - id: a2-05-010
+    type: choice
+    point: gaire-gens
+    lesson: 1
+    prompt: "No queda ___ de pa a la fleca."
+    answer: "gens"
+    distractors:
+      - text: "gaire"
+        why: "*Gaire* va sense *de*: *gaire pa*."
+      - text: "cap"
+        why: "*Cap* no va amb noms que no es poden comptar, com «pa»."
+    explanation: "*Gens* va amb *de* davant d'un nom: *gens de pa*."
+
+  - id: a2-05-011
+    type: choice
+    point: gaire-gens
+    lesson: 1
+    prompt: "—Tens ___ fred? —Una mica."
+    answer: "gaire"
+    distractors:
+      - text: "gaire de"
+        why: "*Gaire* va sense *de*: *gaire fred*."
+      - text: "gens"
+        why: "*Gens* va amb *de* davant d'un nom: *gens de fred*."
+    explanation: "Per preguntar per una quantitat petita fem servir *gaire*: *Tens gaire fred?*"
+
+  - id: a2-05-012
+    type: match
+    point: quantificadors
+    lesson: 1
+    instruction: "Relaciona cada nom amb el quantificador correcte."
+    pairs:
+      - ["pa", "molt"]
+      - ["ous", "molts"]
+      - ["sal", "poca"]
+      - ["ofertes", "moltes"]
+    explanation: "*Molt* i *poc* concorden amb el nom: *molt pa*, *molts ous*, *poca sal* i *moltes ofertes*."
+
+  - id: a2-05-013
+    type: inline-choice
+    point: quantificadors
+    lesson: 1
+    title: "Al mercat del dissabte"
+    text: "Aquest matí he anat al mercat. Hi havia {molta|molt|moltes} gent a l'entrada i he fet una cua llarga. He comprat {molts|molt|moltes} ous i {molta|molt|moltes} llet, però {poc|poca|pocs} formatge. A la fruiteria hi havia {poques|poca|pocs} ofertes. El preu del formatge és bo."
+    explanation: "*Molt* i *poc* concorden amb el nom: *molta gent*, *molts ous*, *molta llet*, *poc formatge* i *poques ofertes*."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-05-014
+    type: fill
+    point: quantificadors
+    lesson: 2
+    prompt: "A la festa hi ha ___ gent de l'oficina."
+    hint: "MOLT"
+    answers: ["molta"]
+    wrong_answers:
+      - text: "molt"
+        why: "«Gent» és femení: *molta*."
+      - text: "molts"
+        why: "«Gent» és singular: *molta*."
+    grading: tolerant
+    explanation: "«Gent» és femení i singular: *molta*."
+
+  - id: a2-05-015
+    type: fill
+    point: quantificadors
+    lesson: 2
+    prompt: "Aquest mes he rebut ___ cartes del banc."
+    hint: "MOLT"
+    answers: ["moltes"]
+    wrong_answers:
+      - text: "molts"
+        why: "«Cartes» és femení: *moltes*."
+      - text: "molta"
+        why: "«Cartes» és plural: *moltes*."
+    grading: tolerant
+    explanation: "«Cartes» és femení plural: *moltes cartes*."
+
+  - id: a2-05-016
+    type: fill
+    point: quantificadors
+    lesson: 2
+    prompt: "Queda ___ sucre per al pastís de diumenge."
+    hint: "POC"
+    answers: ["poc"]
+    wrong_answers:
+      - text: "poca"
+        why: "«Sucre» és masculí: *poc*."
+      - text: "pocs"
+        why: "«Sucre» és singular: *poc*."
+    grading: tolerant
+    explanation: "«Sucre» és masculí singular: *poc sucre*."
+
+  - id: a2-05-017
+    type: fill
+    point: quantificadors
+    lesson: 2
+    prompt: "A la peixateria hi ha ___ cua avui."
+    hint: "MASSA"
+    answers: ["massa"]
+    wrong_answers:
+      - text: "masses"
+        why: "*Massa* no canvia mai."
+      - text: "masa"
+        why: "*Massa* s'escriu amb dues esses."
+    grading: tolerant
+    explanation: "*Massa* no canvia: *massa cua*."
+
+  - id: a2-05-018
+    type: fill
+    point: gaire-gens
+    lesson: 2
+    prompt: "No tinc ___ llet a casa."
+    hint: "quantificador negatiu"
+    answers: ["gaire"]
+    wrong_answers:
+      - text: "gaire de"
+        why: "*Gaire* va sense *de*."
+      - text: "gens"
+        why: "*Gens* va amb *de* davant d'un nom."
+    grading: tolerant
+    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire llet*."
+
+  - id: a2-05-019
+    type: fill
+    point: gaire-gens
+    lesson: 2
+    prompt: "No hi ha ___ de sucre a casa."
+    hint: "quantificador negatiu"
+    answers: ["gens"]
+    wrong_answers:
+      - text: "gaire"
+        why: "*Gaire* va sense *de*: *gaire sucre*."
+      - text: "cap"
+        why: "*Cap* no va amb noms que no es poden comptar."
+    grading: tolerant
+    explanation: "*Gens* va amb *de* davant d'un nom: *gens de sucre*."
+
+  - id: a2-05-020
+    type: fill
+    point: gaire-gens
+    lesson: 2
+    prompt: "—Queda ___ pa a casa? —Sí, una barra sencera."
+    hint: "quantificador per a preguntes"
+    answers: ["gaire"]
+    wrong_answers:
+      - text: "gens"
+        why: "*Gens* va amb *de* davant d'un nom."
+      - text: "gaire de"
+        why: "*Gaire* va sense *de*."
+    grading: tolerant
+    explanation: "Per preguntar per una quantitat petita fem servir *gaire*, sense *de*: *gaire pa*."
+
+  - id: a2-05-021
+    type: order
+    point: quantificadors
+    lesson: 2
+    cue: "Digues que hi ha molta gent a la cua del forn."
+    chunks: ["hi ha", "molta gent", "a la cua", "del forn"]
+    extra: ["moltes gent"]
+    answers:
+      - "Hi ha molta gent a la cua del forn."
+      - "A la cua del forn hi ha molta gent."
+    explanation: "*Molta* concorda amb «gent»: femení singular."
+
+  - id: a2-05-022
+    type: order
+    point: gaire-gens
+    lesson: 2
+    cue: "Digues que no tens gaire temps avui."
+    chunks: ["no", "tinc", "gaire temps", "avui"]
+    extra: ["gaire de temps"]
+    answers:
+      - "No tinc gaire temps avui."
+      - "Avui no tinc gaire temps."
+    explanation: "*Gaire* va sense *de*: *No tinc gaire temps*."
+
+  - id: a2-05-023
+    type: order
+    point: quantificadors
+    lesson: 2
+    cue: "Digues que avui tens prou llet a la nevera."
+    chunks: ["tinc", "prou llet", "a la nevera", "avui"]
+    extra: ["prous llet"]
+    answers:
+      - "Tinc prou llet a la nevera avui."
+      - "Avui tinc prou llet a la nevera."
+    explanation: "*Prou* no canvia: *prou llet*."
+
+  - id: a2-05-024
+    type: choice
+    point: quantificadors
+    lesson: 2
+    prompt: "La Laia parla ___ de pressa."
+    answer: "molt"
+    distractors:
+      - text: "molta"
+        why: "Amb un verb, *molt* no canvia: *parla molt*."
+      - text: "molts"
+        why: "Amb un verb, *molt* no canvia: *parla molt*."
+    explanation: "*Parla* és un verb: *molt* no canvia."
+
+  - id: a2-05-025
+    type: choice
+    point: gaire-gens
+    lesson: 2
+    prompt: "Aquest te no m'agrada ___."
+    answer: "gens"
+    distractors:
+      - text: "gaire de"
+        why: "*Gaire* va sense *de*."
+      - text: "gens de"
+        why: "*De* necessita un nom darrere: *no m'agrada gens*."
+    explanation: "Sense un nom darrere, *gens* va sol: *no m'agrada gens*."
+
+  - id: a2-05-026
+    type: inline-choice
+    point: gaire-gens
+    lesson: 2
+    title: "Un missatge a la Núria"
+    text: "Núria, aquesta setmana no tinc {gaire|gens|cap} temps lliure. A la feina no queda {gens|gaire|cap} de calma: tenim {massa|masses|masa} comandes. Demà et truco i m'ajudes amb les bosses."
+    explanation: "*Gaire* va sense *de*: *gaire temps*. *Gens* va amb *de*: *gens de calma*. *Massa* no canvia: *massa comandes*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-05-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "A la farmàcia hi ha bastante cua aquest matí."
+    error: "bastante"
+    fix: "bastant"
+    fix_distractors:
+      - text: "bastantes"
+        why: "*Bastant* s'escriu sense *e* final."
+      - text: "vastant"
+        why: "*Bastant* s'escriu amb *b*."
+    explanation: "«Bastante» és la forma castellana; en català és *bastant*."
+
+  - id: a2-05-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Aquest pernil és muy bo."
+    error: "muy"
+    fix: "molt"
+    fix_distractors:
+      - text: "molta"
+        why: "*Molt* no canvia davant d'un adjectiu: *molt bo*."
+      - text: "moltes"
+        why: "*Molt* no canvia davant d'un adjectiu: *molt bo*."
+    explanation: "«Muy» és castellà. En català: *molt bo*."
+
+  - id: a2-05-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Jo no menjo carn. —Jo tampoco."
+    error: "tampoco"
+    fix: "tampoc"
+    fix_distractors:
+      - text: "també"
+        why: "Responem a una negativa («Jo no menjo carn»): cal *tampoc*, no *també*."
+      - text: "tan poc"
+        why: "*Tan poc* són dues paraules i parlen d'una quantitat: *tampoc* és una paraula."
+    explanation: "«Tampoco» és castellà. En català: *Jo tampoc*."
+
+  - id: a2-05-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "No ve nadie a dinar diumenge."
+    error: "nadie"
+    fix: "ningú"
+    fix_distractors:
+      - text: "algú"
+        why: "En una frase negativa com aquesta diem *ningú*."
+      - text: "cap"
+        why: "«No ve ___ a dinar» no té cap nom: *cap* necessita un nom, com *cap amic*."
+    explanation: "«Nadie» és castellà. En català: *ningú*."
+
+  - id: a2-05-031
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "L'Ibrahim no té molts clients encara."
+    no_error: true
+    explanation: "La frase és correcta: en negatives *molts* no és incorrecte, però sona més natural *gaires*."
+
+  - id: a2-05-032
+    type: choice
+    point: negacio
+    lesson: 3
+    prompt: "No hi ha ___ a la botiga: tanquen aviat."
+    answer: "ningú"
+    distractors:
+      - text: "algú"
+        why: "En una frase negativa com aquesta diem *ningú*."
+      - text: "cap"
+        why: "«No hi ha ___ a la botiga» no té cap nom: *cap* necessita un nom, com *cap client*."
+    explanation: "Parlem de persones en una frase negativa: *ningú*."
+
+  - id: a2-05-033
+    type: choice
+    point: negacio
+    lesson: 3
+    prompt: "No vull ___, gràcies: ja he dinat."
+    answer: "res"
+    distractors:
+      - text: "cap"
+        why: "«No vull ___» no té cap nom: *cap* necessita un nom, com *cap plat*."
+      - text: "alguna cosa"
+        why: "En una frase negativa, *alguna cosa* passa a *res*."
+    explanation: "Parlem de coses en una frase negativa: *res*."
+
+  - id: a2-05-034
+    type: choice
+    point: negacio
+    lesson: 3
+    prompt: "No trobo el tiquet ___."
+    answer: "enlloc"
+    distractors:
+      - text: "en lloc"
+        why: "*Enlloc* (= en cap lloc) s'escriu en una sola paraula."
+      - text: "enllocs"
+        why: "*Enlloc* no té plural."
+    explanation: "*Enlloc* vol dir «en cap lloc» i no canvia."
+
+  - id: a2-05-035
+    type: choice
+    point: negacio
+    lesson: 3
+    prompt: "La Maria no menja ___ carn."
+    answer: "mai"
+    distractors:
+      - text: "nunca"
+        why: "«Nunca» és castellà. En català és *mai*."
+      - text: "tampoc"
+        why: "*Tampoc* respon a una negativa anterior."
+    explanation: "*Mai* parla del temps en una frase negativa."
+
+  - id: a2-05-036
+    type: fill
+    point: negacio
+    lesson: 3
+    prompt: "No tinc ___ germà: els meus pares tenen un sol fill."
+    hint: "ALGUN, en negativa"
+    answers: ["cap"]
+    wrong_answers:
+      - text: "algun"
+        why: "En una frase negativa, *algun* passa a *cap*."
+      - text: "res"
+        why: "*Res* no va amb un nom: *cap germà*."
+    grading: tolerant
+    explanation: "En una frase negativa, *algun* passa a *cap*: *cap germà*."
+
+  - id: a2-05-037
+    type: fill
+    point: negacio
+    lesson: 3
+    prompt: "El Wei té ___ llibre de receptes, si el vols."
+    hint: "amb *algun*"
+    answers: ["algun"]
+    wrong_answers:
+      - text: "cap"
+        why: "*Cap* no va en frases afirmatives com aquesta: cal *algun*."
+      - text: "res"
+        why: "*Res* no va amb un nom."
+    grading: tolerant
+    explanation: "És una frase afirmativa i la pista demana *algun*: *algun llibre*."
+
+  - id: a2-05-038
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "—Vols ___? —No, gràcies: ja he berenat."
+    hint: "amb *res*"
+    answers: ["res"]
+    wrong_answers:
+      - text: "gens"
+        why: "*Gens* va amb *de* i un nom: *gens de pa*."
+      - text: "res de"
+        why: "*De* necessita un nom darrere."
+    grading: tolerant
+    explanation: "En preguntes, *res* vol dir «alguna cosa»: *Vols res?*"
+
+  - id: a2-05-039
+    type: inline-choice
+    point: negacio
+    lesson: 3
+    title: "La botiga tanca aviat"
+    text: "Són les vuit i a la botiga ja no hi ha {ningú|algú|cap}. La dependenta diu que no queda {res|cap|alguna cosa} per a esmorzar. El Pau no troba {cap|algun|res} oferta bona, i la Maria no vol {res|cap|alguna cosa} més."
+    explanation: "En frases negatives: *ningú* (persones), *res* (coses) i *cap* (amb un nom)."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-05-040
+    type: transform
+    point: gaire-gens
+    lesson: 4
+    instruction: "Fes la frase negativa amb *gaire*."
+    source: "Tinc [[molt temps]] aquest matí."
+    answers:
+      - "No tinc gaire temps aquest matí."
+      - "Aquest matí no tinc gaire temps."
+    wrong_answers:
+      - text: "No tinc gens temps aquest matí."
+        why: "*Gens* va amb *de*: *gens de temps*."
+      - text: "No tinc gaire de temps aquest matí."
+        why: "*Gaire* va sense *de*."
+    grading: tolerant
+    explanation: "En una frase negativa, *gaire* va sense *de*: *No tinc gaire temps*."
+
+  - id: a2-05-041
+    type: transform
+    point: gaire-gens
+    lesson: 4
+    instruction: "Fes la frase negativa amb *gaire*."
+    source: "Hi ha [[pocs ous]] a la nevera."
+    answers:
+      - "No hi ha gaires ous a la nevera."
+      - "A la nevera no hi ha gaires ous."
+    wrong_answers:
+      - text: "No hi ha gens ous a la nevera."
+        why: "*Gens* va amb *de*: *gens d'ous*."
+      - text: "No hi ha cap ous a la nevera."
+        why: "*Cap* va amb un nom en singular."
+    grading: tolerant
+    explanation: "«Ous» és plural: *gaires ous*."
+
+  - id: a2-05-042
+    type: transform
+    point: negacio
+    lesson: 4
+    instruction: "Fes la frase negativa."
+    source: "Hi ha [[algun problema]] amb el tiquet."
+    answers:
+      - "No hi ha cap problema amb el tiquet."
+    wrong_answers:
+      - text: "No hi ha algun problema amb el tiquet."
+        why: "En una frase negativa, *algun* passa a *cap*."
+      - text: "No hi ha res problema amb el tiquet."
+        why: "*Res* no va amb un nom."
+    grading: tolerant
+    explanation: "En una frase negativa, *algun* passa a *cap*: *cap problema*."
+
+  - id: a2-05-043
+    type: transform
+    point: negacio
+    lesson: 4
+    instruction: "Fes la frase negativa."
+    source: "[[Ve tothom]] a la festa."
+    answers:
+      - "No ve ningú a la festa."
+      - "A la festa no ve ningú."
+    wrong_answers:
+      - text: "No ve algú a la festa."
+        why: "En una frase negativa com aquesta diem *ningú*."
+      - text: "No ve cap a la festa."
+        why: "«No ve ___ a la festa» no té cap nom: *cap* necessita un nom, com *cap amic*."
+    grading: tolerant
+    explanation: "En una frase negativa parlem de persones amb *ningú*: *No ve ningú*."
+
+  - id: a2-05-044
+    type: transform
+    point: negacio
+    lesson: 4
+    instruction: "Fes la frase negativa."
+    source: "Vull [[alguna cosa]] de postres."
+    answers:
+      - "No vull res de postres."
+      - "De postres no vull res."
+    wrong_answers:
+      - text: "No vull alguna cosa de postres."
+        why: "En una frase negativa, *alguna cosa* passa a *res*."
+      - text: "No vull cap de postres."
+        why: "Aquí *cap* necessita un nom darrere (*cap plat*), no «de postres»."
+    grading: tolerant
+    explanation: "En una frase negativa, *alguna cosa* passa a *res*: *No vull res*."
+
+  - id: a2-05-045
+    type: transform
+    point: negacio
+    lesson: 4
+    instruction: "Fes la frase negativa amb *tampoc*."
+    source: "La Fàtima [[també menja]] pa integral."
+    answers:
+      - "La Fàtima tampoc menja pa integral."
+      - "La Fàtima no menja pa integral tampoc."
+    wrong_answers:
+      - text: "La Fàtima no també menja pa integral."
+        why: "En una frase negativa, *també* passa a *tampoc*."
+      - text: "La Fàtima també no menja pa integral."
+        why: "En una frase negativa, *també* passa a *tampoc*."
+    grading: tolerant
+    explanation: "En una frase negativa, *també* passa a *tampoc*: *La Fàtima tampoc menja pa integral*."
+
+  - id: a2-05-046
+    type: transform
+    point: quantificadors
+    lesson: 4
+    instruction: "Canvia «verdura» per «macarrons»."
+    source: "Menjo [[molta verdura]] cada dia."
+    answers:
+      - "Menjo molts macarrons cada dia."
+      - "Cada dia menjo molts macarrons."
+    wrong_answers:
+      - text: "Menjo molta macarrons cada dia."
+        why: "«Macarrons» és masculí plural: *molts*."
+      - text: "Menjo molt macarrons cada dia."
+        why: "«Macarrons» és plural: *molts*."
+    grading: tolerant
+    explanation: "«Macarrons» és masculí plural: *molts macarrons*."
+
+  - id: a2-05-047
+    type: fill
+    point: negacio
+    lesson: 4
+    prompt: "No vull ___ més, gràcies: ja he dinat."
+    hint: "ALGUNA COSA, en negativa"
+    answers: ["res"]
+    wrong_answers:
+      - text: "cap"
+        why: "«No vull ___ més» no té cap nom: *cap* necessita un nom, com *cap plat*."
+      - text: "alguna cosa"
+        why: "En una frase negativa, *alguna cosa* passa a *res*."
+    grading: tolerant
+    explanation: "En una frase negativa diem *res*: *No vull res més*."
+
+  - id: a2-05-048
+    type: fill
+    point: negacio
+    lesson: 4
+    prompt: "—No m'agrada el te. —A mi ___."
+    hint: "resposta a una negativa"
+    answers: ["tampoc"]
+    wrong_answers:
+      - text: "també"
+        why: "Responem a una negativa («No m'agrada el te»): cal *tampoc*, no *també*."
+      - text: "tan poc"
+        why: "*Tan poc* són dues paraules i parlen d'una quantitat."
+    grading: tolerant
+    explanation: "*Tampoc* respon a una frase negativa: *A mi tampoc*."
+
+  - id: a2-05-049
+    type: fill
+    point: gaire-gens
+    lesson: 4
+    prompt: "No fa ___ fred: podem anar a peu."
+    hint: "quantificador negatiu"
+    answers: ["gaire"]
+    wrong_answers:
+      - text: "gens"
+        why: "*Gens* va amb *de*: *gens de fred*."
+      - text: "gaire de"
+        why: "*Gaire* va sense *de*."
+    grading: tolerant
+    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire fred*."
+
+  - id: a2-05-050
+    type: order
+    point: negacio
+    lesson: 4
+    cue: "Digues que diumenge no ve ningú a dinar."
+    chunks: ["diumenge", "no", "ve", "ningú", "a dinar"]
+    extra: ["algú"]
+    answers:
+      - "Diumenge no ve ningú a dinar."
+      - "No ve ningú a dinar diumenge."
+      - "Diumenge no ve a dinar ningú."
+      - "No ve a dinar ningú diumenge."
+    explanation: "Parlem de persones en una frase negativa: *No ve ningú*."
+
+  - id: a2-05-051
+    type: order
+    point: negacio
+    lesson: 4
+    cue: "Digues que no trobes el tiquet enlloc."
+    chunks: ["no", "trobo", "el tiquet", "enlloc"]
+    extra: ["en lloc"]
+    answers:
+      - "No trobo el tiquet enlloc."
+      - "No trobo enlloc el tiquet."
+    explanation: "*Enlloc* vol dir «en cap lloc»: *No trobo el tiquet enlloc*."
+
+  - id: a2-05-052
+    type: order
+    point: negacio
+    lesson: 4
+    cue: "Digues que aquí no compres mai res."
+    chunks: ["aquí", "no", "compro", "mai", "res"]
+    extra: ["alguna cosa"]
+    answers:
+      - "Aquí no compro mai res."
+      - "No compro mai res aquí."
+      - "Aquí no compro res mai."
+      - "No compro res mai aquí."
+    explanation: "En una frase negativa podem ajuntar *mai* i *res*: *no compro mai res*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-05-053
+    type: reading
+    point: negacio
+    lesson: 5
+    title: "La compra de la Laia"
+    text: |
+      Cada dissabte al matí, la Laia va al mercat. Va d'hora, perquè després hi ha molta gent i no té gaire temps. Compra la verdura i una dotzena d'ous a la parada de la plaça. A la llista també porta una ampolla d'oli, un paquet de macarrons i una capsa de galetes.
+      Aquesta setmana no ha trobat cap oferta de peix, i el pernil és massa car. «Avui no compro res més», diu. A la fleca no hi ha ningú a la cua, i compra una barra de pa calent. A casa, el seu company l'ajuda amb les bosses.
+      «Vols res més de la botiga?», pregunta ell. «No, amb això en tinc prou», diu la Laia. De tornada passa per davant del quiosc, però no compra el diari: no té gaire temps de llegir.
+    questions:
+      - prompt: "Per què va d'hora al mercat?"
+        answer: "Perquè més tard hi ha molta gent."
+        distractors:
+          - text: "Perquè el dependent marxa d'hora."
+            why: "El text diu que hi va d'hora perquè després hi ha molta gent."
+          - text: "Perquè la fleca tanca d'hora."
+            why: "De la fleca només diu que no hi ha ningú a la cua."
+      - prompt: "Què compra a la parada de la plaça?"
+        answer: "Verdura i ous."
+        distractors:
+          - text: "Peix i pernil."
+            why: "De peix no ha trobat cap oferta, i el pernil és massa car."
+          - text: "Pa i el diari."
+            why: "El pa el compra a la fleca, i el diari no el compra."
+      - prompt: "Què fa la Laia a la fleca?"
+        answer: "Compra una barra de pa a la fleca."
+        distractors:
+          - text: "Compra una ampolla d'oli."
+            why: "L'oli és a la llista, però a la fleca compra pa."
+          - text: "No compra res."
+            why: "A la fleca sí que compra: una barra de pa."
+      - prompt: "Què respon la Laia quan el company li pregunta si vol res més?"
+        answer: "Que amb això en té prou."
+        distractors:
+          - text: "Que no ha trobat cap oferta de peix."
+            why: "Això passa al mercat, abans de tornar a casa."
+          - text: "Que el pernil és massa car."
+            why: "Això ho pensa al mercat, no a casa."
+    explanation: "La Laia va al mercat d'hora, compra verdura i pa, i no compra res més."
+
+  - id: a2-05-054
+    type: match
+    point: negacio
+    lesson: 5
+    instruction: "Relaciona cada mot amb el seu ús."
+    pairs:
+      - ["ningú", "persones, en frases negatives"]
+      - ["res", "coses, en frases negatives"]
+      - ["enlloc", "llocs, en frases negatives"]
+      - ["mai", "temps, en frases negatives"]
+      - ["tampoc", "«també» en frases negatives"]
+    explanation: "*Ningú*, *res*, *enlloc* i *mai* neguen persones, coses, llocs i temps. *Tampoc* és el *també* de les negatives."
+
+  - id: a2-05-055
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["ni de broma", "de cap manera"]
+      - ["tant me fa", "m'és igual"]
+      - ["no fa res", "no té importància"]
+      - ["ni fu ni fa", "ni bo ni dolent"]
+    explanation: "Són quatre maneres de negar, de dir que és igual o que no té importància."
+
+  - id: a2-05-056
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "No torno nunca a aquesta botiga."
+    error: "nunca"
+    fix: "mai"
+    fix_distractors:
+      - text: "sempre"
+        why: "*Sempre* és el contrari de *mai*."
+      - text: "tampoc"
+        why: "*Tampoc* respon a una negativa anterior."
+    explanation: "«Nunca» és castellà. En català: *mai*."
+
+  - id: a2-05-057
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "No tinc ningún germà petit."
+    error: "ningún"
+    fix: "cap"
+    fix_distractors:
+      - text: "algun"
+        why: "En una frase negativa, *algun* passa a *cap*."
+      - text: "res"
+        why: "*Res* no va amb un nom: *cap germà*."
+    explanation: "«Ningún» és castellà. En català: *cap*."
+
+  - id: a2-05-058
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "—Vols alguna cosa del mercat? —No, gràcies."
+    no_error: true
+    explanation: "La frase és correcta: en preguntes diem *alguna cosa* (o *res*)."
+
+  - id: a2-05-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «ni de broma»?"
+    answer: "De cap manera."
+    distractors:
+      - text: "Potser sí."
+        why: "*Ni de broma* és una negativa total, no un dubte."
+      - text: "Molt de pressa."
+        why: "*Ni de broma* no parla de temps."
+    explanation: "*Ni de broma* és una negativa total: «de cap manera»."
+
+  - id: a2-05-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Pots quedar-te fins tard avui? —___, que demà m'aixeco d'hora."
+    answer: "Ni de broma"
+    distractors:
+      - text: "Tant me fa"
+        why: "*Tant me fa* vol dir «m'és igual»: aquí hi ha una negativa."
+      - text: "No fa res"
+        why: "*No fa res* vol dir «no té importància»: aquí hi ha una negativa."
+    explanation: "És una negativa total: *ni de broma*."
+
+  - id: a2-05-061
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Pots triar la pel·lícula: a mi ___."
+    answer: "tant me fa"
+    distractors:
+      - text: "ni de broma"
+        why: "*Ni de broma* és una negativa i no va amb «a mi»."
+      - text: "no fa res"
+        why: "*No fa res* no va amb «a mi»: aquí cal *tant me fa*."
+    explanation: "*Tant me fa* vol dir «m'és igual»."
+
+  - id: a2-05-062
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Perdona, he trencat un got. —___, no pateixis."
+    answer: "No fa res"
+    distractors:
+      - text: "Ni de broma"
+        why: "*Ni de broma* és una negativa: aquí perdonem un error."
+      - text: "Ni fu ni fa"
+        why: "*Ni fu ni fa* parla d'una cosa ni bona ni dolenta."
+    explanation: "*No fa res* vol dir «no té importància»."
+
+  - id: a2-05-063
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Pots triar tu el restaurant: a mi ___."
+    hint: "expressió d'indiferència"
+    answers: ["tant me fa"]
+    wrong_answers:
+      - text: "tan me fa"
+        why: "Davant d'un verb és *tant*, amb *t* final."
+      - text: "tant fa"
+        why: "L'expressió sencera és *tant me fa*."
+    grading: tolerant
+    explanation: "*Tant me fa* vol dir «m'és igual»."
+
+  - id: a2-05-064
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Què et sembla el pis nou? —___, ni bo ni dolent."
+    hint: "expressió: ni una cosa ni l'altra"
+    answers: ["ni fu ni fa"]
+    wrong_answers:
+      - text: "ni de broma"
+        why: "*Ni de broma* és una negativa total."
+      - text: "ni fa ni fu"
+        why: "L'ordre fix és *ni fu ni fa*."
+    grading: tolerant
+    explanation: "*Ni fu ni fa* vol dir «ni bo ni dolent»."
+
+  - id: a2-05-065
+    type: inline-choice
+    point: negacio
+    lesson: 5
+    title: "La Júlia tanca la botiga"
+    text: "Són les nou i a la botiga ja no hi ha {ningú|algú|cap}. La Júlia no troba {cap|algun|res} cistell lliure a l'entrada. No queda {res|cap|alguna cosa}: podem tancar. Els diumenges no obre {mai|tampoc|cap}."
+    explanation: "En frases negatives: *ningú*, *cap* amb un nom, *res* i *mai*."

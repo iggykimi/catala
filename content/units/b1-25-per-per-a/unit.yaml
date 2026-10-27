@@ -1,0 +1,1026 @@
+id: b1-25
+level: B1
+title: "Per i per a"
+summary: "Aprens quan cal *per* (causa, mitjà, pas, temps) i quan cal *per a* (destinatari, destinació, finalitat, termini), i la forma formal davant d'infinitiu."
+vocabulary_theme: "Viatges, reserves i turisme"
+points:
+  - id: per
+    title: "*Per*: *per la vaga*, *per telèfon*, *per Girona*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: per-a
+    title: "*Per a*: *per a tu*, *per a Roma*, *per al viatge*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: per-infinitiu
+    title: "*Per* + infinitiu: *per reservar*"
+    refs:
+      - label: "GEIEC: Les preposicions"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *per a* no és sempre «para»"
+  - id: expressions
+    title: "Expressions amb *per*"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: *per* i *per a*"
+  - title: "Practicar *per* i *per a*"
+  - title: "*Per* + infinitiu i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el bitllet"
+    definition: "Paper o codi que dona dret a viatjar o a entrar en un lloc."
+    example: "He comprat els bitllets de tren per internet."
+  - word: "el vol"
+    definition: "Viatge en avió entre dues ciutats."
+    example: "El vol a Roma surt a les deu."
+  - word: "l'aeroport"
+    definition: "Lloc on surten i arriben els avions."
+    example: "Hem d'arribar a l'aeroport dues hores abans."
+  - word: "l'hotel"
+    definition: "Edifici on pots dormir i menjar quan viatges."
+    example: "L'hotel té piscina i vistes al mar."
+  - word: "l'habitació"
+    definition: "Cambra d'un hotel on dorms."
+    example: "Volem una habitació doble amb bany."
+  - word: "la reserva"
+    definition: "Nota que guarda una habitació o un seient per a tu."
+    example: "Tinc una reserva a nom de Núria Riba."
+  - word: "la recepció"
+    definition: "Taulell d'un hotel on et donen la clau."
+    example: "A la recepció ens han donat un mapa."
+  - word: "el client, la clienta"
+    definition: "Persona que compra o fa servir un servei."
+    example: "Els clients de l'hotel poden fer servir la piscina."
+  - word: "el turista, la turista"
+    definition: "Persona que visita un lloc per plaer."
+    example: "A l'estiu, Cadaqués és ple de turistes."
+  - word: "el viatger, la viatgera"
+    definition: "Persona que fa un viatge."
+    example: "Els viatgers del vol 214 han d'embarcar."
+  - word: "la guia"
+    definition: "Persona o llibre que explica un lloc als visitants."
+    example: "La guia parla tres llengües."
+  - word: "l'excursió"
+    definition: "Sortida curta per visitar un lloc."
+    example: "Dissabte farem una excursió en vaixell."
+  - word: "el mapa"
+    definition: "Dibuix que mostra els carrers o els camins d'un lloc."
+    example: "Amb aquest mapa no ens perdrem."
+  - word: "el fullet"
+    definition: "Paper curt amb informació o propaganda."
+    example: "Aquest fullet explica els horaris del museu."
+  - word: "el passaport"
+    definition: "Document per viatjar a un altre país."
+    example: "No oblidis el passaport: anem a Londres."
+  - word: "la targeta d'embarcament"
+    definition: "Paper que et donen per pujar a l'avió."
+    example: "Tens la targeta d'embarcament al mòbil."
+  - word: "l'hostessa"
+    definition: "Persona que atén els passatgers a l'avió."
+    example: "Una hostessa ens ha ajudat amb la maleta."
+  - word: "la maleta"
+    definition: "Caixa amb rodes per portar la roba de viatge."
+    example: "He facturat una maleta de vint quilos."
+  - word: "la motxilla"
+    definition: "Bossa que es porta a l'esquena."
+    example: "Poso la guia i l'aigua a la motxilla."
+  - word: "el seient"
+    definition: "Cadira d'un avió, un tren o un autocar."
+    example: "Prefereixo el seient de la finestra."
+  - word: "la finestra"
+    definition: "Obertura amb vidre per mirar a fora."
+    example: "El nen mira els núvols per la finestra."
+  - word: "l'autocar"
+    definition: "Autobús gran per a viatges llargs."
+    example: "Puja a l'autocar: sortim d'aquí a deu minuts."
+  - word: "el vaixell"
+    definition: "Vehicle que va per l'aigua."
+    example: "El vaixell triga cinc hores a arribar a Menorca."
+  - word: "el taxi"
+    definition: "Cotxe amb conductor que et porta on vols."
+    example: "Hem agafat un taxi fins a l'hotel."
+  - word: "el mareig"
+    definition: "Malestar amb ganes de vomitar, sovint en un vaixell."
+    example: "El mareig no em deixa llegir a l'autocar."
+  - word: "la pastilla"
+    definition: "Medicina petita i rodona que es pren amb aigua."
+    example: "Pren-te una pastilla per al mareig."
+  - word: "el telèfon"
+    definition: "Aparell per parlar amb algú de lluny."
+    example: "Apaga el telèfon durant el vol."
+  - word: "internet"
+    definition: "Xarxa mundial per buscar informació i comunicar-se."
+    example: "Reservem els vols per internet."
+  - word: "el correu electrònic"
+    definition: "Sistema per enviar missatges per internet."
+    example: "T'envio els bitllets per correu electrònic."
+  - word: "l'agència"
+    definition: "Oficina on t'organitzen un viatge."
+    example: "L'agència ens ha canviat els bitllets."
+  - word: "el retard"
+    definition: "Temps que una cosa arriba tard."
+    example: "El tren porta mitja hora de retard."
+  - word: "la vaga"
+    definition: "Dia que els treballadors no treballen per protestar."
+    example: "La vaga de pilots ha suspès molts vols."
+  - word: "la boira"
+    definition: "Núvol baix que no deixa veure gaire."
+    example: "Amb tanta boira, l'avió no pot sortir."
+  - word: "el preu"
+    definition: "Diners que costa una cosa."
+    example: "El preu inclou l'esmorzar."
+  - word: "el descompte"
+    definition: "Rebaixa del preu normal."
+    example: "Amb el carnet jove tens un descompte."
+  - word: "facturar"
+    definition: "Donar la maleta a l'aeroport abans de pujar a l'avió."
+    example: "Hem facturat dues maletes."
+  - word: "embarcar"
+    definition: "Pujar a l'avió o al vaixell."
+    example: "Embarquem a les sis per la porta vuit."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-25-001
+    type: choice
+    point: per
+    lesson: 1
+    prompt: "El vol s'ha suspès ___ la vaga de pilots."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* diu qui rep o la destinació. «La vaga» és el motiu: *per*."
+      - text: "de"
+        why: "*De* no indica el motiu. La causa es fa amb *per*."
+    explanation: "«La vaga» és el motiu de la suspensió. La causa es fa amb *per*: *per la vaga*."
+
+  - id: b1-25-002
+    type: choice
+    point: per
+    lesson: 1
+    prompt: "Hem reservat l'hotel ___ internet."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. «Internet» és el canal: *per*."
+      - text: "en"
+        why: "El canal d'una gestió (telèfon, internet, correu) es fa amb *per*, no amb *en*."
+    explanation: "«Internet» és el canal de la reserva. El mitjà es fa amb *per*: *per internet*."
+
+  - id: b1-25-003
+    type: choice
+    point: per
+    lesson: 1
+    prompt: "De camí a França, passem ___ Girona sense aturar-nos."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* + lloc és la destinació. Girona és el camí: *per*."
+      - text: "a"
+        why: "«Passar a Girona» voldria dir aturar-s'hi. Com que no ens aturem, és el camí: *per*."
+    explanation: "Girona és el camí, no la destinació («sense aturar-nos»). El lloc de pas es fa amb *per*."
+
+  - id: b1-25-004
+    type: choice
+    point: per
+    lesson: 1
+    prompt: "Tornarem a casa ___ Nadal, però encara no sabem quin dia."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* + temps és una data límit («per a divendres»). Aquí és aproximat («no sabem quin dia»): *per*."
+      - text: "a"
+        why: "El temps aproximat d'una festa es fa amb *per*: *per Nadal*."
+    explanation: "«No sabem quin dia» vol dir aproximat. El temps aproximat es fa amb *per*: *per Nadal*."
+
+  - id: b1-25-005
+    type: choice
+    point: per-a
+    lesson: 1
+    prompt: "Aquest bitllet és ___ tu, Laia."
+    answer: "per a"
+    distractors:
+      - text: "per"
+        why: "«Tu» és qui rep el bitllet, no el motiu. El destinatari es fa amb *per a*."
+      - text: "a"
+        why: "Qui rep un regal o un bitllet no va amb *a*. El destinatari es fa amb *per a*."
+    explanation: "«Tu» és qui rep el bitllet. El destinatari es fa amb *per a*: *per a tu*."
+
+  - id: b1-25-006
+    type: choice
+    point: per-a
+    lesson: 1
+    prompt: "El vol de Barcelona surt ___ Roma a les deu."
+    answer: "per a"
+    distractors:
+      - text: "per"
+        why: "*Per* + lloc és el camí («passem per Roma»). La destinació és *per a*."
+      - text: "de"
+        why: "«De Roma» seria l'origen. El vol surt de Barcelona i va cap a Roma: *per a*."
+    explanation: "Roma és on va el vol. La destinació es fa amb *per a*: *per a Roma*."
+
+  - id: b1-25-007
+    type: choice
+    point: per-a
+    lesson: 1
+    prompt: "Aquestes pastilles són ___ mareig del viatge."
+    answer: "per al"
+    distractors:
+      - text: "pel"
+        why: "*Pel* és *per* + *el*: causa o camí («pel mal temps»). La finalitat és *per a*: *per al mareig*."
+      - text: "per"
+        why: "Aquí *mareig* porta article (*el mareig*), i *per a* + *el* es contrau: *per al*."
+    explanation: "Les pastilles serveixen contra el mareig: és la finalitat. *Per a* + *el* dona *per al*."
+
+  - id: b1-25-008
+    type: choice
+    point: per-a
+    lesson: 1
+    prompt: "Els bitllets han d'estar reservats ___ divendres a tot tardar."
+    answer: "per a"
+    distractors:
+      - text: "per"
+        why: "*Per* + temps és aproximat («tornarem per Nadal»). Una data límit («a tot tardar») és *per a*."
+      - text: "de"
+        why: "*De* no indica una data límit. El termini es fa amb *per a*."
+    explanation: "«A tot tardar» marca una data límit. El termini es fa amb *per a*: *per a divendres*."
+
+  - id: b1-25-009
+    type: choice
+    point: per
+    lesson: 1
+    prompt: "Hem comprat els bitllets ___ trenta euros."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. El preu total es fa amb *per*."
+      - text: "amb"
+        why: "*Amb* diu amb què pagues («amb targeta») o amb qui vas. El preu total va amb *per*."
+    explanation: "«Trenta euros» és el preu total. El preu es fa amb *per*: *per trenta euros*."
+
+  - id: b1-25-010
+    type: match
+    point: per
+    lesson: 1
+    instruction: "Relaciona cada frase amb l'ús de *per*."
+    pairs:
+      - ["El vol s'ha suspès per la boira.", "causa"]
+      - ["Reservem l'hotel per telèfon.", "mitjà"]
+      - ["Passem per Vic sense aturar-nos.", "lloc de pas"]
+      - ["Tornem per Setmana Santa.", "temps aproximat"]
+    explanation: "*Per* fa la causa, el mitjà, el lloc de pas i el temps aproximat."
+
+  - id: b1-25-011
+    type: inline-choice
+    point: per
+    lesson: 1
+    title: "Retard a l'aeroport"
+    text: "El vol de la Núria porta retard {per|per a} la boira. Li han enviat un missatge {per|per a} telèfon. L'avió ve {per|per a} Madrid, però no s'hi atura. El bitllet li ha costat {per|per a} noranta euros."
+    explanation: "La causa (*la boira*), el mitjà (*telèfon*), el lloc de pas (*Madrid*) i el preu (*noranta euros*) es fan amb *per*."
+
+  - id: b1-25-012
+    type: fill
+    point: per
+    lesson: 1
+    prompt: "—Com t'han avisat del retard, Marc? —___ correu electrònic."
+    hint: "mitjà"
+    answers: ["per"]
+    wrong_answers:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. El canal és *per*."
+    grading: tolerant
+    explanation: "«El correu» és el canal de l'avís. El mitjà es fa amb *per*."
+
+  - id: b1-25-013
+    type: order
+    point: per
+    lesson: 1
+    cue: "Explica que l'excursió s'ha suspès a causa del mal temps."
+    chunks: ["l'excursió", "s'ha suspès", "pel", "mal temps"]
+    extra: ["per al"]
+    answers:
+      - "L'excursió s'ha suspès pel mal temps."
+      - "Pel mal temps s'ha suspès l'excursió."
+    explanation: "«El mal temps» és el motiu. *Per* + *el* es contrau: *pel*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-25-014
+    type: fill
+    point: per-a
+    lesson: 2
+    prompt: "Aquesta motxilla és ___ en Pau: l'hi pots donar?"
+    hint: "destinatari"
+    answers: ["per a"]
+    wrong_answers:
+      - text: "per"
+        why: "Qui rep una cosa va amb *per a*: *per a en Pau*."
+    grading: tolerant
+    explanation: "«En Pau» és qui rep la motxilla. El destinatari es fa amb *per a*."
+
+  - id: b1-25-015
+    type: fill
+    point: per-a
+    lesson: 2
+    prompt: "Demà sortim ___ Menorca amb el vaixell de les vuit."
+    hint: "destinació"
+    answers: ["per a"]
+    wrong_answers:
+      - text: "per"
+        why: "*Per* + lloc és el camí. La destinació és *per a*."
+    grading: tolerant
+    explanation: "Menorca és on anem. La destinació es fa amb *per a*."
+
+  - id: b1-25-016
+    type: fill
+    point: per
+    lesson: 2
+    prompt: "Per anar a Cadaqués, passarem ___ Figueres."
+    hint: "lloc de pas"
+    answers: ["per"]
+    wrong_answers:
+      - text: "per a"
+        why: "Cadaqués és la destinació, però Figueres és el camí: *per*."
+    grading: tolerant
+    explanation: "Figueres és el camí cap a Cadaqués. El lloc de pas es fa amb *per*."
+
+  - id: b1-25-017
+    type: fill
+    point: per
+    lesson: 2
+    prompt: "Hem tornat d'hora ___ mal temps."
+    hint: "causa"
+    answers: ["pel"]
+    wrong_answers:
+      - text: "per al"
+        why: "*Per al* és *per a* + *el*: finalitat. La causa és *per*: *pel*."
+    grading: tolerant
+    explanation: "«El mal temps» és el motiu. *Per* + *el* es contrau: *pel*."
+
+  - id: b1-25-018
+    type: fill
+    point: per-a
+    lesson: 2
+    prompt: "Porto diners ___ taxi de tornada."
+    hint: "finalitat"
+    answers: ["per al"]
+    wrong_answers:
+      - text: "pel"
+        why: "*Pel* és *per* + *el*: causa o camí. La finalitat és *per a*: *per al*."
+    grading: tolerant
+    explanation: "Els diners serveixen per al taxi: és la finalitat. *Per a* + *el* dona *per al*."
+
+  - id: b1-25-019
+    type: fill
+    point: per
+    lesson: 2
+    prompt: "T'envio els bitllets ___ correu: revisa si falta res."
+    hint: "mitjà"
+    answers: ["per"]
+    wrong_answers:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. El canal és *per*."
+    grading: tolerant
+    explanation: "«El correu» és el canal. El mitjà es fa amb *per*."
+
+  - id: b1-25-020
+    type: order
+    point: per-a
+    lesson: 2
+    cue: "Digues que aquest seient de la finestra és per a la teva àvia."
+    chunks: ["aquest seient", "és", "per a", "la teva àvia"]
+    extra: ["per"]
+    answers:
+      - "Aquest seient és per a la teva àvia."
+    explanation: "«La teva àvia» és qui rep el seient. El destinatari es fa amb *per a*."
+
+  - id: b1-25-021
+    type: order
+    point: per
+    lesson: 2
+    cue: "Digues que tornareu per Setmana Santa, sense data exacta."
+    chunks: ["tornarem", "per", "Setmana Santa"]
+    extra: ["per a"]
+    answers:
+      - "Tornarem per Setmana Santa."
+      - "Per Setmana Santa tornarem."
+    explanation: "Sense data exacta, és temps aproximat. El temps aproximat es fa amb *per*."
+
+  - id: b1-25-022
+    type: choice
+    point: per
+    lesson: 2
+    prompt: "El viatge ha estat organitzat ___ una agència de Vic."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. Qui fa l'acció en passiva és *per*."
+      - text: "amb"
+        why: "«Amb una agència» parla de companyia. Qui ha fet l'acció (l'agent) va amb *per*."
+    explanation: "L'agència és qui ha organitzat el viatge. L'agent de la passiva es fa amb *per*."
+
+  - id: b1-25-023
+    type: choice
+    point: per-a
+    lesson: 2
+    prompt: "___ serveix aquest bitllet petit?"
+    answer: "Per a què"
+    distractors:
+      - text: "Per què"
+        why: "*Per què* pregunta el motiu («Per què plores?»). La utilitat es pregunta amb *per a què*."
+      - text: "Per a que"
+        why: "En una pregunta de finalitat, *què* porta accent: *per a què*."
+    explanation: "Preguntem la utilitat del bitllet. La finalitat es pregunta amb *per a què*."
+
+  - id: b1-25-024
+    type: choice
+    point: per
+    lesson: 2
+    prompt: "—___ viatges amb dues maletes? —Porto regals per a tota la família."
+    answer: "Per què"
+    distractors:
+      - text: "Per a què"
+        why: "*Per a què* pregunta la utilitat. Aquí preguntem el motiu: *per què*."
+      - text: "Per a"
+        why: "Aquí cal una pregunta de motiu: *per què*. *Per a* sol no pregunta res."
+    explanation: "Preguntem el motiu de les dues maletes. La causa es pregunta amb *per què*."
+
+  - id: b1-25-025
+    type: choice
+    point: per-a
+    lesson: 2
+    prompt: "Volem una habitació ___ dues persones."
+    answer: "per a"
+    distractors:
+      - text: "per"
+        why: "L'habitació ha de servir per a dues persones: és la finalitat, *per a*."
+      - text: "amb"
+        why: "«Amb dues persones» parla d'ocupació (ja hi són). La capacitat que volem és *per a*."
+    explanation: "L'habitació ha de servir per a dues persones: és la finalitat. *Per a* no es contrau amb *dues*."
+
+  - id: b1-25-026
+    type: choice
+    point: per
+    lesson: 2
+    prompt: "A l'avió, he canviat el meu seient ___ un de finestra."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. El seient nou és un canvi: *per*."
+      - text: "amb"
+        why: "*Canviar amb* vol una persona («canvio amb tu»). La cosa nova va amb *per*: *canviar un seient per un altre*."
+    explanation: "El seient nou és el canvi. *Canviar una cosa per una altra* es fa amb *per*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-25-027
+    type: choice
+    point: per-infinitiu
+    lesson: 3
+    prompt: "«Hem corregut per no perdre el tren.» Per què hem corregut?"
+    answer: "Perquè no volíem perdre el tren."
+    distractors:
+      - text: "Perquè ja havíem perdut el tren."
+        why: "Si ja l'haguessin perdut, no caldria córrer."
+      - text: "Perquè el tren anava amb retard."
+        why: "La frase no diu res del retard del tren."
+    explanation: "*Per* + infinitiu diu la finalitat: hem corregut per aconseguir no perdre el tren."
+
+  - id: b1-25-028
+    type: fill
+    point: per
+    lesson: 3
+    prompt: "El vol porta retard ___ núvols baixos."
+    hint: "causa"
+    answers: ["pels"]
+    wrong_answers:
+      - text: "per als"
+        why: "*Per als* és *per a* + *els*: finalitat. La causa és *per*: *pels núvols*."
+    grading: tolerant
+    explanation: "«Els núvols» són el motiu del retard. *Per* + *els* es contrau: *pels*."
+
+  - id: b1-25-029
+    type: fill
+    point: per-a
+    lesson: 3
+    prompt: "La reserva ha d'estar feta ___ demà."
+    hint: "termini"
+    answers: ["per a"]
+    wrong_answers:
+      - text: "per"
+        why: "*Per* + temps és aproximat. Una data límit és *per a*."
+    grading: tolerant
+    explanation: "«Demà» és la data límit. El termini es fa amb *per a*."
+
+  - id: b1-25-030
+    type: find-error
+    point: per-infinitiu
+    lesson: 3
+    sentence: "Truco a l'hotel para confirmar la reserva."
+    error: "para confirmar"
+    fix: "per confirmar"
+    fix_distractors:
+      - text: "a confirmar"
+        why: "«Trucar a» vol una persona («truco a la Núria»), no un infinitiu de finalitat."
+      - text: "de confirmar"
+        why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per*."
+    explanation: "*Para* és castellà. En català, la finalitat davant d'infinitiu es fa amb *per*: *per confirmar*."
+
+  - id: b1-25-031
+    type: find-error
+    point: per-infinitiu
+    lesson: 3
+    sentence: "Hem corregut molt per no perdre el tren."
+    no_error: true
+    explanation: "La frase és correcta: la finalitat (*no perdre el tren*) davant d'infinitiu es fa amb *per*."
+
+  - id: b1-25-032
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Aquest bitllet és para la Fàtima."
+    error: "para la Fàtima"
+    fix: "per a la Fàtima"
+    fix_distractors:
+      - text: "per la Fàtima"
+        why: "«És per la Fàtima» no diu qui rep el bitllet. El destinatari és *per a*."
+      - text: "amb la Fàtima"
+        why: "«És amb la Fàtima» parla de companyia. Qui rep el bitllet és *per a*."
+    explanation: "*Para* és castellà. Qui rep una cosa es fa amb *per a*: *per a la Fàtima*."
+
+  - id: b1-25-033
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El vol s'ha suspès por la boira."
+    error: "por la boira"
+    fix: "per la boira"
+    fix_distractors:
+      - text: "per a la boira"
+        why: "*Per a* és qui rep o la finalitat. El motiu és *per*."
+      - text: "de la boira"
+        why: "*De* no indica el motiu. La causa es fa amb *per*."
+    explanation: "*Por* és castellà. En català, la causa es fa amb *per*: *per la boira*."
+
+  - id: b1-25-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El bitllet per a la Laia l'he comprat per internet."
+    no_error: true
+    explanation: "La frase és correcta: qui rep (*la Laia*) va amb *per a*, i el canal (*internet*) va amb *per*."
+
+  - id: b1-25-035
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Porto pastilles ___ mal de cap."
+    answer: "per al"
+    distractors:
+      - text: "pel"
+        why: "*Pel* és *per* + *el*: causa o camí. La finalitat és *per a*: *per al*."
+      - text: "per"
+        why: "Aquí *mal de cap* porta article (*el mal de cap*): *per a* + *el* es contrau, *per al*."
+    explanation: "Les pastilles serveixen contra el mal de cap: és la finalitat. *Per a* + *el* dona *per al*."
+
+  - id: b1-25-036
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Hem de tornar ___ Nadal, a tot tardar."
+    answer: "per a"
+    distractors:
+      - text: "per"
+        why: "*Per* + festa és aproximat. Amb «a tot tardar» és un termini: *per a*."
+      - text: "a"
+        why: "«A» + festa no indica temps. Amb «a tot tardar» és un termini: *per a*."
+    explanation: "«A tot tardar» marca un termini, no un temps aproximat. El termini es fa amb *per a*."
+
+  - id: b1-25-037
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Aquest fullet és ___ clients de l'hotel."
+    hint: "destinatari"
+    answers: ["per als"]
+    wrong_answers:
+      - text: "pels"
+        why: "*Pels* és *per* + *els*: causa o camí. Qui rep és *per a*: *per als*."
+    grading: tolerant
+    explanation: "«Els clients» és qui rep el fullet. *Per a* + *els* dona *per als*."
+
+  - id: b1-25-038
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "T'ho confirmo ___ correu aquesta tarda."
+    hint: "mitjà"
+    answers: ["per"]
+    wrong_answers:
+      - text: "per a"
+        why: "*Per a* és qui rep o la finalitat. El canal és *per*."
+    grading: tolerant
+    explanation: "«El correu» és el canal. El mitjà es fa amb *per*."
+
+  - id: b1-25-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "L'autocar passa ___ Vic sense aturar-se."
+    answer: "per"
+    distractors:
+      - text: "per a"
+        why: "*Per a* + lloc és la destinació. Vic és el camí: *per*."
+      - text: "a"
+        why: "«Passar a Vic» voldria dir aturar-s'hi. Sense aturar-se, és el camí: *per*."
+    explanation: "Vic és el camí («sense aturar-se»). El lloc de pas es fa amb *per*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-25-040
+    type: transform
+    point: per-infinitiu
+    lesson: 4
+    instruction: "Uneix les dues frases amb *per* + infinitiu."
+    source: "[[Vull canviar les dates del vol. Truco a l'agència.]]"
+    answers:
+      - "Truco a l'agència per canviar les dates del vol."
+      - "Per canviar les dates del vol, truco a l'agència."
+      - "Jo truco a l'agència per canviar les dates del vol."
+      - "Per canviar les dates del vol, jo truco a l'agència."
+      - "Truco a l'agència per a canviar les dates del vol."
+      - "Per a canviar les dates del vol, truco a l'agència."
+      - "Jo truco a l'agència per a canviar les dates del vol."
+      - "Per a canviar les dates del vol, jo truco a l'agència."
+    wrong_answers:
+      - text: "Truco a l'agència para canviar les dates del vol."
+        why: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per*."
+      - text: "Truco a l'agència de canviar les dates del vol."
+        why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per*."
+    grading: tolerant
+    explanation: "Les dues frases s'uneixen amb la finalitat. La forma formal davant d'infinitiu és *per* (*per a* també s'accepta)."
+
+  - id: b1-25-041
+    type: transform
+    point: per-infinitiu
+    lesson: 4
+    instruction: "Uneix les dues frases amb *per* + infinitiu."
+    source: "[[Va aparcar al carril bus. La van multar.]]"
+    answers:
+      - "La van multar per aparcar al carril bus."
+      - "Per aparcar al carril bus, la van multar."
+      - "La van multar per a aparcar al carril bus."
+      - "Per a aparcar al carril bus, la van multar."
+    wrong_answers:
+      - text: "La van multar d'aparcar al carril bus."
+        why: "«Multar de» no existeix. La causa davant d'infinitiu es fa amb *per*."
+      - text: "La van multar a aparcar al carril bus."
+        why: "«Multar a» no existeix. La causa davant d'infinitiu es fa amb *per*."
+    grading: tolerant
+    explanation: "Aparcar malament és el motiu de la multa. La forma formal davant d'infinitiu és *per* (*per a* també s'accepta)."
+
+  - id: b1-25-042
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Aquest seient lliure queda [[per tu]]."
+    answers: ["Aquest seient lliure queda per a tu."]
+    wrong_answers:
+      - text: "Aquest seient lliure queda para tu."
+        why: "*Para* és castellà. El destinatari es fa amb *per a*."
+      - text: "Aquest seient lliure queda amb tu."
+        why: "«Quedar amb tu» parla de companyia, no de qui rep el seient. El destinatari és *per a*."
+    grading: tolerant
+    explanation: "«Tu» és qui rep el seient. El destinatari es fa amb *per a*."
+
+  - id: b1-25-043
+    type: transform
+    point: per
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "L'autocar passa [[per a Vic]] sense parar."
+    answers: ["L'autocar passa per Vic sense parar."]
+    wrong_answers:
+      - text: "L'autocar passa a Vic sense parar."
+        why: "«Passar a Vic» voldria dir aturar-s'hi. De pas és *per*."
+    grading: tolerant
+    explanation: "Vic és el camí («sense parar»). El lloc de pas es fa amb *per*."
+
+  - id: b1-25-044
+    type: transform
+    point: per
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "El vol s'ha suspès [[per a la vaga]]."
+    answers: ["El vol s'ha suspès per la vaga."]
+    wrong_answers:
+      - text: "El vol s'ha suspès de la vaga."
+        why: "*De* no indica el motiu. La causa es fa amb *per*."
+      - text: "El vol s'ha suspès por la vaga."
+        why: "*Por* és castellà. La causa es fa amb *per*."
+    grading: tolerant
+    explanation: "«La vaga» és el motiu. La causa es fa amb *per*."
+
+  - id: b1-25-045
+    type: transform
+    point: per-a
+    lesson: 4
+    instruction: "Passa al plural la part marcada."
+    source: "Porto [[el bitllet per al viatger]]."
+    answers: ["Porto els bitllets per als viatgers."]
+    wrong_answers:
+      - text: "Porto els bitllets pels viatgers."
+        why: "*Pels* és *per* + *els*: causa o camí. La finalitat és *per a*: *per als*."
+      - text: "Porto els bitllets per a els viatgers."
+        why: "*Per a* + *els* es contrau: *per als*."
+    grading: tolerant
+    explanation: "En plural: *els bitllets*, *els viatgers*. *Per a* + *els* dona *per als*."
+
+  - id: b1-25-046
+    type: transform
+    point: per-infinitiu
+    lesson: 4
+    instruction: "Uneix les dues frases amb *per* + infinitiu."
+    source: "[[Volem viatjar al Japó. Estalviem molt.]]"
+    answers:
+      - "Estalviem molt per viatjar al Japó."
+      - "Per viatjar al Japó, estalviem molt."
+      - "Nosaltres estalviem molt per viatjar al Japó."
+      - "Per viatjar al Japó, nosaltres estalviem molt."
+      - "Estalviem molt per a viatjar al Japó."
+      - "Per a viatjar al Japó, estalviem molt."
+      - "Nosaltres estalviem molt per a viatjar al Japó."
+      - "Per a viatjar al Japó, nosaltres estalviem molt."
+    wrong_answers:
+      - text: "Estalviem molt para viatjar al Japó."
+        why: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per*."
+      - text: "Estalviem molt de viatjar al Japó."
+        why: "Aquí *estalviem* vol dir guardar diners: la finalitat va amb *per*."
+    grading: tolerant
+    explanation: "Les dues frases s'uneixen amb la finalitat. La forma formal davant d'infinitiu és *per* (*per a* també s'accepta)."
+
+  - id: b1-25-047
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Els bitllets, amb descompte, han costat [[per a vint euros]]."
+    answers: ["Els bitllets, amb descompte, han costat per vint euros."]
+    wrong_answers:
+      - text: "Els bitllets, amb descompte, han costat amb vint euros."
+        why: "*Amb* diu amb què pagues o amb qui vas. El preu total va amb *per*."
+      - text: "Els bitllets, amb descompte, han costat por vint euros."
+        why: "*Por* és castellà. El preu es fa amb *per*."
+    grading: tolerant
+    explanation: "«Vint euros» és el preu total. El preu es fa amb *per*."
+
+  - id: b1-25-048
+    type: fill
+    point: per-a
+    lesson: 4
+    prompt: "Tinc dos bitllets ___avió de les tres."
+    hint: "finalitat"
+    answers: ["per a l'"]
+    wrong_answers:
+      - text: "per l'"
+        why: "*Per l'* és *per* + *l'*: el camí. Un bitllet per a un vol concret va amb *per a*: *per a l'avió*."
+    grading: tolerant
+    explanation: "Els bitllets són per a l'avió de les tres: és la finalitat. *Per a* + *l'* es manté: *per a l'avió*."
+
+  - id: b1-25-049
+    type: fill
+    point: per
+    lesson: 4
+    prompt: "Tornarem ___autopista: és més ràpid."
+    hint: "lloc de pas"
+    answers: ["per l'"]
+    wrong_answers:
+      - text: "per a l'"
+        why: "*Per a l'* és destinació. L'autopista és el camí: *per l'autopista*."
+    grading: tolerant
+    explanation: "L'autopista és el camí de tornada. El lloc de pas es fa amb *per*: *per l'autopista*."
+
+  - id: b1-25-050
+    type: fill
+    point: per-a
+    lesson: 4
+    prompt: "Aquesta crema solar és ___ cara i el cos."
+    hint: "finalitat"
+    answers: ["per a la"]
+    wrong_answers:
+      - text: "per la"
+        why: "*Per la* és causa o camí. La utilitat de la crema és *per a*: *per a la cara*."
+    grading: tolerant
+    explanation: "La crema serveix per a la cara: és la finalitat. *Per a* + *la* no es contrau."
+
+  - id: b1-25-051
+    type: order
+    point: per-a
+    lesson: 4
+    cue: "Digues que l'habitació doble és per als teus pares."
+    chunks: ["l'habitació doble", "és", "per als", "teus pares"]
+    extra: ["pels"]
+    answers:
+      - "L'habitació doble és per als teus pares."
+    explanation: "«Els teus pares» és qui rep l'habitació. *Per a* + *els* dona *per als*."
+
+  - id: b1-25-052
+    type: order
+    point: per
+    lesson: 4
+    cue: "Explica que heu reservat els bitllets per telèfon."
+    chunks: ["hem reservat", "els bitllets", "per", "telèfon"]
+    extra: ["per a"]
+    answers:
+      - "Hem reservat els bitllets per telèfon."
+      - "Per telèfon hem reservat els bitllets."
+    explanation: "«El telèfon» és el canal. El mitjà es fa amb *per*."
+
+  - id: b1-25-053
+    type: match
+    point: per-a
+    lesson: 4
+    instruction: "Relaciona cada exemple amb l'ús de *per a*."
+    pairs:
+      - ["un regal per a la Carla", "qui rep una cosa"]
+      - ["un vol per a Palma", "on anem"]
+      - ["diners per al taxi", "per a què serveix"]
+      - ["llest per a divendres", "data límit"]
+    explanation: "*Per a* fa el destinatari, la destinació, la finalitat i el termini."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-25-054
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un cap de setmana a Menorca"
+    text: |
+      La Carla i en Marc volen passar un cap de setmana a Menorca. Han reservat els bitllets per internet: surten divendres a les set del matí i tornen diumenge al vespre.
+
+      Divendres es lleven a les cinc. De camí a l'aeroport, passen per Santa Coloma sense aturar-se. A la porta d'embarcament, porten el passaport i la targeta d'embarcament a la mà. Una hostessa els diu que l'avió porta una hora de retard per la boira. «Per fi sortim!», diu en Marc quan embarquen.
+
+      A Maó, un taxi els porta a l'hotel. L'habitació és per a dues persones i té vistes al port. Per cert, l'hotel no té ascensor, però només han de pujar un pis. A la recepció, demanen un mapa per a l'excursió de dissabte.
+
+      Dissabte fan una excursió amb un vaixell petit. L'avió anava ple de turistes, però el vaixell va mig buit. La guia parla a poc a poc i explica històries de pescadors. La Carla es mareja i en Marc li dona una pastilla per al mareig. El preu del bitllet és vint euros. Diumenge compren formatge per a tota la família i tornen a casa contents.
+    questions:
+      - prompt: "Com han comprat els bitllets de l'avió?"
+        answer: "Per internet, abans del viatge."
+        distractors:
+          - text: "A l'aeroport, el dia del vol."
+            why: "Quan arriben a l'aeroport, els bitllets ja estan reservats."
+          - text: "A la recepció de l'hotel."
+            why: "A la recepció demanen un mapa, no els bitllets."
+      - prompt: "Per què l'avió surt amb retard?"
+        answer: "Per la boira."
+        distractors:
+          - text: "Perquè els turistes arriben tard."
+            why: "El text no diu que els turistes arribin tard."
+          - text: "Perquè a Maó fa mal temps."
+            why: "La boira és a la sortida, no a Maó."
+      - prompt: "Què li passa a la Carla dissabte?"
+        answer: "Es mareja al vaixell i pren una pastilla."
+        distractors:
+          - text: "Perd el mapa de l'excursió."
+            why: "El mapa el demanen divendres i el text no diu que el perdin."
+          - text: "Compra formatge per a la família."
+            why: "El formatge el compren diumenge, no dissabte."
+      - prompt: "Com és l'hotel?"
+        answer: "No té ascensor i l'habitació té vistes al port."
+        distractors:
+          - text: "Té ascensor i és al port."
+            why: "L'hotel no té ascensor; el que dona al port són les vistes."
+          - text: "És a Santa Coloma, de camí a l'aeroport."
+            why: "Per Santa Coloma només hi passen; l'hotel és a Maó."
+    explanation: "El text explica el viatge de la Carla i en Marc: el retard per la boira, l'hotel de Maó i l'excursió amb vaixell."
+
+  - id: b1-25-055
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Missatge de l'agència"
+    text: "Hola, Carla: el vol de demà porta retard {per|per a} la boira. Hem avisat en Marc {per|per a} telèfon. El bitllet nou és {per a|per} tu: el tens al correu. L'avió passa {per|per a} Palma, però no s'hi atura. Gràcies {per|per a} la paciència!"
+    explanation: "La causa (*la boira*), el mitjà (*telèfon*), el lloc de pas (*Palma*) i *gràcies* van amb *per*. Qui rep (*tu*) va amb *per a*."
+
+  - id: b1-25-056
+    type: inline-choice
+    point: per-a
+    lesson: 5
+    title: "Nota a la recepció"
+    text: "Bona tarda: som la família Riba. Tenim una habitació {per a|per} dues persones. La clau de l'habitació petita és {per a|per} en Marc. Teniu pastilles {per al|pel} mareig? Ho necessitem tot {per a|per} demà al matí, si us plau."
+    explanation: "La capacitat (*dues persones*), el destinatari (*en Marc*), la finalitat (*el mareig*) i el termini (*demà*) es fan amb *per a*."
+
+  - id: b1-25-057
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["per si de cas", "Agafes el paraigua encara que fa sol."]
+      - ["per cert", "Canvies de tema en una conversa."]
+      - ["per fi", "Arribes a l'hotel després d'un viatge molt llarg."]
+      - ["per molts anys", "Felicites un amic pel seu aniversari."]
+    explanation: "Són quatre expressions molt habituals amb *per*."
+
+  - id: b1-25-058
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Agafa la jaqueta per si de cas»?"
+    answer: "Agafa-la per precaució, encara que potser no cal."
+    distractors:
+      - text: "Agafa-la perquè fa molt de fred fora."
+        why: "«Per si de cas» no diu que faci fred: diu precaució."
+      - text: "Agafa-la només si vols."
+        why: "No és indiferència: és un consell per precaució."
+    explanation: "*Per si de cas* vol dir per precaució, per si cal."
+
+  - id: b1-25-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Després de tres hores de retard, l'avió aterra. Què dius?"
+    answer: "Per fi!"
+    distractors:
+      - text: "Per cert!"
+        why: "*Per cert* canvia de tema. L'alleujament és *per fi*."
+      - text: "Per si de cas!"
+        why: "*Per si de cas* és precaució. L'alleujament és *per fi*."
+    explanation: "*Per fi* diu alleujament quan una cosa arriba després d'esperar."
+
+  - id: b1-25-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "És l'aniversari d'en Pau i li dones un regal. Què li dius?"
+    answer: "Per molts anys!"
+    distractors:
+      - text: "Per fi, ja era hora!"
+        why: "*Per fi* és alleujament, no una felicitació."
+      - text: "Per cert, que vagi bé!"
+        why: "*Per cert* canvia de tema, no felicita."
+    explanation: "*Per molts anys* és la felicitació d'aniversari."
+
+  - id: b1-25-061
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues a la Núria que agafi el paraigua per precaució."
+    chunks: ["Núria,", "agafa el paraigua", "per si de cas"]
+    extra: ["si de cas"]
+    answers:
+      - "Núria, agafa el paraigua per si de cas."
+      - "Agafa el paraigua per si de cas, Núria."
+    explanation: "*Per si de cas* vol dir per precaució."
+
+  - id: b1-25-062
+    type: choice
+    point: per-infinitiu
+    lesson: 5
+    prompt: "«Hem sortit d'hora per facturar amb calma.» Per què hem sortit d'hora?"
+    answer: "Perquè volíem facturar amb calma."
+    distractors:
+      - text: "Perquè ja havíem facturat."
+        why: "Si ja haguessin facturat, no caldria sortir d'hora."
+      - text: "Perquè hem perdut el vol."
+        why: "Si haguessin perdut el vol, no caldria facturar."
+    explanation: "*Per* + infinitiu diu la finalitat: hem sortit d'hora per aconseguir facturar amb calma."
+
+  - id: b1-25-063
+    type: find-error
+    point: per-infinitiu
+    lesson: 5
+    sentence: "Estalvien cada mes para viatjar al Japó."
+    error: "para viatjar"
+    fix: "per viatjar"
+    fix_distractors:
+      - text: "a viatjar"
+        why: "Aquí *estalvien* vol dir guardar diners: la finalitat va amb *per*."
+      - text: "de viatjar"
+        why: "«Cada mes de viatjar» no té sentit. La finalitat va amb *per*."
+    explanation: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per*."
+
+  - id: b1-25-064
+    type: order
+    point: compte-castella
+    lesson: 5
+    cue: "Digues que portes diners per al taxi."
+    chunks: ["porto", "diners", "per al", "taxi"]
+    extra: ["pel"]
+    answers:
+      - "Porto diners per al taxi."
+    explanation: "Els diners serveixen per al taxi: és la finalitat. *Per a* + *el* dona *per al*."
+
+  - id: b1-25-065
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Parles de l'hotel i vols preguntar a quina hora surt el vol. Què dius?"
+    answer: "Per cert, a quina hora surt el vol?"
+    distractors:
+      - text: "Per fi, a quina hora surt el vol?"
+        why: "*Per fi* és alleujament, no canvi de tema."
+      - text: "Per si de cas, a quina hora surt el vol?"
+        why: "*Per si de cas* és precaució, no canvi de tema."
+    explanation: "*Per cert* introdueix un tema nou en una conversa."

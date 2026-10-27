@@ -1,0 +1,1044 @@
+id: b1-18
+level: B1
+title: "El present de subjuntiu"
+summary: "Aprens les formes del present de subjuntiu (*parli*, *facis*, *vingui*) i a fer-les servir amb *vull que*, *espero que*, *demano que* i *cal que*."
+vocabulary_theme: "Desitjos, peticions i celebracions"
+points:
+  - id: subjuntiu-formes
+    title: "Les formes regulars: *parli*, *perdis*, *dormis*"
+    refs:
+      - label: "GEIEC: El mode subjuntiu"
+        url: "https://geiec.iec.cat"
+  - id: subjuntiu-irregulars
+    title: "Els irregulars: *sigui*, *faci*, *vagi*"
+    refs:
+      - label: "GEIEC: El mode subjuntiu"
+        url: "https://geiec.iec.cat"
+  - id: voler-esperar-demanar
+    title: "«Vull que vinguis»: *voler*, *esperar*, *demanar* i *caldre*"
+    refs:
+      - label: "GEIEC: El mode subjuntiu"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: formes que no es poden deduir"
+  - id: expressions
+    title: "Expressions de desig"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Les formes: regulars i irregulars"
+  - title: "Practiquem les formes"
+  - title: "«Vull que vinguis»: usos del subjuntiu"
+  - title: "Formes que no es poden deduir del castellà"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el desig"
+    definition: "Cosa que vols que passi."
+    example: "El meu desig és que vinguis a la festa."
+  - word: "desitjar"
+    definition: "Voler que passi una cosa bona."
+    example: "Et desitjo que aprovis l'examen."
+  - word: "la petició"
+    definition: "Demanda formal d'una cosa."
+    example: "Han fet una petició per canviar l'horari."
+  - word: "demanar"
+    definition: "Dir a algú que vols una cosa."
+    example: "Li demano que em truqui demà."
+  - word: "esperar"
+    definition: "Tenir esperança que una cosa passarà."
+    example: "Espero que arribis aviat."
+  - word: "la celebració"
+    definition: "Festa per un motiu alegre."
+    example: "La celebració serà dissabte a casa."
+  - word: "celebrar"
+    definition: "Fer una festa per un motiu especial."
+    example: "Diumenge celebrem l'aniversari del Pau."
+  - word: "la festa"
+    definition: "Trobada per divertir-se amb gent."
+    example: "La festa comença a les vuit del vespre."
+  - word: "l'aniversari"
+    definition: "Dia en què una persona fa anys."
+    example: "Per al seu aniversari vol un llibre."
+  - word: "fer anys"
+    definition: "Complir un any més de vida."
+    example: "La Laia fa anys al març."
+  - word: "el pastís"
+    definition: "Dolç gran per a les celebracions."
+    example: "Vull que el pastís sigui de xocolata."
+  - word: "l'espelma"
+    definition: "Barra de cera amb foc per al pastís."
+    example: "Bufarem les espelmes tots junts."
+  - word: "bufar"
+    definition: "Treure aire per la boca per apagar el foc."
+    example: "El nen bufa les espelmes del pastís."
+  - word: "el regal"
+    definition: "Cosa que dones a una persona estimada."
+    example: "Espero que t'agradi el regal."
+  - word: "embolcar"
+    definition: "Posar paper al voltant d'un regal."
+    example: "Cal que embolquis el regal abans de sortir."
+  - word: "la sorpresa"
+    definition: "Cosa inesperada que fa il·lusió."
+    example: "Li preparen una festa sorpresa."
+  - word: "la invitació"
+    definition: "Paper o missatge per convidar algú."
+    example: "M'ha arribat la invitació del casament."
+  - word: "convidar"
+    definition: "Demanar a algú que vingui a un acte."
+    example: "Vull que convidis també els veïns."
+  - word: "el brindis"
+    definition: "Copa que aixequem per celebrar."
+    example: "Fem un brindis per la Núria!"
+  - word: "brindar"
+    definition: "Aixecar la copa per celebrar."
+    example: "Brindem per la salut dels nuvis."
+  - word: "el cava"
+    definition: "Vi amb bombolles de les celebracions."
+    example: "Cal que portis una ampolla de cava."
+  - word: "la copa"
+    definition: "Got alt per al cava o el vi."
+    example: "Aixeca la copa i demana un desig."
+  - word: "el ram"
+    definition: "Conjunt de flors per regalar."
+    example: "Li han portat un ram de flors."
+  - word: "l'abraçada"
+    definition: "Gesto d'estimar amb els braços."
+    example: "Espero que em facis una abraçada gran."
+  - word: "felicitar"
+    definition: "Dir coses bones a algú en un dia especial."
+    example: "Li truco per felicitar-la."
+  - word: "l'enhorabona"
+    definition: "Paraula per felicitar algú."
+    example: "Enhorabona! Espero que siguis molt feliç."
+  - word: "el casament"
+    definition: "Festa quan dues persones es casen."
+    example: "El casament serà a la primavera."
+  - word: "els nuvis"
+    definition: "Les dues persones que es casen."
+    example: "Els nuvis volen que hi anem tots."
+  - word: "el premi"
+    definition: "Cosa que guanya qui ho fa millor."
+    example: "Tant de bo guanyis el primer premi!"
+  - word: "l'èxit"
+    definition: "Resultat bo d'un projecte."
+    example: "Li desitjo molt d'èxit a la feina nova."
+  - word: "la sort"
+    definition: "Cosa bona que passa sense esperar-la."
+    example: "Que tinguis molta sort a l'entrevista!"
+  - word: "agrair"
+    definition: "Donar les gràcies per una cosa."
+    example: "T'agraeixo que m'ajudis amb la mudança."
+  - word: "el discurs"
+    definition: "Paraules que es diuen en públic."
+    example: "El director farà un petit discurs."
+  - word: "aplaudir"
+    definition: "Picar de mans per mostrar alegria."
+    example: "Tothom aplaudeix els nuvis."
+  - word: "el somni"
+    definition: "Cosa que vols aconseguir."
+    example: "El seu somni és que els fills vagin a la universitat."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-18-001
+    type: choice
+    point: subjuntiu-formes
+    lesson: 1
+    prompt: "Vull que la Laia ___ la porta."
+    answer: "tanqui"
+    distractors:
+      - text: "tanca"
+        why: "*Tanca* és indicatiu. Darrere de *vull que* cal el subjuntiu: *tanqui*."
+      - text: "tanquis"
+        why: "*Tanquis* és per a *tu*. «La Laia» és tercera persona: *tanqui*."
+    explanation: "«La Laia» és tercera persona: *tanqui*. Davant de *i*, la *c* s'escriu *qu*."
+
+  - id: b1-18-002
+    type: choice
+    point: subjuntiu-formes
+    lesson: 1
+    prompt: "Vols que jo ___ el pa?"
+    answer: "compri"
+    distractors:
+      - text: "compro"
+        why: "*Compro* és indicatiu. Darrere de *vols que* cal *compri*."
+      - text: "compra"
+        why: "*Compra* és per a *ell* (o una ordre). Per a *jo*: *compri*."
+    explanation: "«Jo» fa *compri*. *Compra* és de *ell* o l'imperatiu."
+
+  - id: b1-18-003
+    type: choice
+    point: subjuntiu-formes
+    lesson: 1
+    prompt: "Cal que els nens ___ vuit hores."
+    answer: "dormin"
+    distractors:
+      - text: "dormen"
+        why: "*Dormen* és indicatiu. Darrere de *cal que* cal *dormin*."
+      - text: "dormiu"
+        why: "*Dormiu* és per a *vosaltres*. «Els nens» és tercera persona plural: *dormin*."
+    explanation: "«Els nens» és tercera persona plural: *dormin*."
+
+  - id: b1-18-004
+    type: choice
+    point: subjuntiu-formes
+    lesson: 1
+    prompt: "—Vull que em ___ per l'aniversari. —I tant!"
+    answer: "felicitis"
+    distractors:
+      - text: "felicites"
+        why: "*Felicites* és indicatiu. Darrere de *vull que* cal *felicitis*."
+      - text: "feliciti"
+        why: "Parles amb *tu*: *felicitis*. *Feliciti* és per a *ell*."
+    explanation: "Parles amb l'altra persona (*tu*): *felicitis*."
+
+  - id: b1-18-005
+    type: choice
+    point: subjuntiu-formes
+    lesson: 1
+    prompt: "Voleu que nosaltres ___ el cava?"
+    answer: "obrim"
+    distractors:
+      - text: "obren"
+        why: "*Obren* és per a *ells*. «Nosaltres» fa *obrim*."
+      - text: "obriu"
+        why: "*Obriu* és per a *vosaltres*. «Nosaltres» fa *obrim*."
+    explanation: "«Nosaltres» fa *obrim*, igual que en indicatiu."
+
+  - id: b1-18-006
+    type: choice
+    point: subjuntiu-irregulars
+    lesson: 1
+    prompt: "Vull que la festa ___ perfecta."
+    answer: "sigui"
+    distractors:
+      - text: "sea"
+        why: "«Sea» és castellà. En català: *sigui*."
+      - text: "sigues"
+        why: "*Sigues* és l'imperatiu. Darrere de *vull que* cal *sigui*."
+    explanation: "*Ser* és irregular: el subjuntiu és *sigui*."
+
+  - id: b1-18-007
+    type: choice
+    point: subjuntiu-irregulars
+    lesson: 1
+    prompt: "Espero que en Pau ___ demà."
+    answer: "vingui"
+    distractors:
+      - text: "venga"
+        why: "«Venga» és castellà. En català: *vingui*."
+      - text: "ve"
+        why: "*Ve* és indicatiu. Darrere de *espero que* cal *vingui*."
+    explanation: "*Venir* és irregular: el subjuntiu (*ell*) és *vingui*."
+
+  - id: b1-18-008
+    type: choice
+    point: subjuntiu-irregulars
+    lesson: 1
+    prompt: "Vols que jo ___ el discurs?"
+    answer: "faci"
+    distractors:
+      - text: "haga"
+        why: "«Haga» és castellà. En català: *faci*."
+      - text: "faig"
+        why: "*Faig* és indicatiu. Darrere de *vols que* cal *faci*."
+    explanation: "*Fer* és irregular: el subjuntiu (*jo*) és *faci*."
+
+  - id: b1-18-009
+    type: choice
+    point: subjuntiu-irregulars
+    lesson: 1
+    prompt: "Cal que tu ___ la invitació."
+    answer: "tinguis"
+    distractors:
+      - text: "tengas"
+        why: "«Tengas» és castellà. En català: *tinguis*."
+      - text: "tingues"
+        why: "*Tingues* és l'imperatiu. Darrere de *cal que* cal *tinguis*."
+    explanation: "El subjuntiu de *tenir* (*tu*) és *tinguis*."
+
+  - id: b1-18-010
+    type: choice
+    point: subjuntiu-irregulars
+    lesson: 1
+    prompt: "Vull que vosaltres ___ la veritat."
+    answer: "sapigueu"
+    distractors:
+      - text: "sabeu"
+        why: "*Sabeu* és indicatiu. Darrere de *vull que* cal *sapigueu*."
+      - text: "sàpiguen"
+        why: "*Sàpiguen* és per a *ells*. «Vosaltres» fa *sapigueu*."
+    explanation: "El subjuntiu de *saber* (*vosaltres*) és *sapigueu*."
+
+  - id: b1-18-011
+    type: inline-choice
+    point: subjuntiu-formes
+    lesson: 1
+    title: "Missatge al grup de la festa"
+    text: "Hola! Dissabte fem la festa. Vull que la Laia {compri|compra|compris} el pastís i que en Pau {porti|porta|portis} el cava. Cal que tothom {arribi|arriba|arribin} a les vuit. Voleu que jo {truqui|truca|truquis} als veïns?"
+    explanation: "Són subjuntius regulars: *compri*, *porti*, *arribi* i *truqui*. *Tothom* és singular."
+
+  - id: b1-18-012
+    type: inline-choice
+    point: subjuntiu-irregulars
+    lesson: 1
+    title: "Desitjos per a l'any nou"
+    text: "Enguany vull que {siguis|ets|sigues} feliç i que {tinguis|tens|tingues} salut. Espero que {puguem|podem|pugueu} viatjar molt i que tot {vagi|va|vagin} bé."
+    explanation: "*Siguis*, *tinguis*, *puguem* i *vagi* són formes irregulars que cal memoritzar."
+
+  - id: b1-18-013
+    type: match
+    point: subjuntiu-irregulars
+    lesson: 1
+    instruction: "Relaciona cada verb amb el seu subjuntiu (*jo*)."
+    pairs:
+      - ["ser", "sigui"]
+      - ["fer", "faci"]
+      - ["anar", "vagi"]
+      - ["tenir", "tingui"]
+      - ["poder", "pugui"]
+      - ["voler", "vulgui"]
+    explanation: "Són els irregulars més freqüents. La primera persona no s'assembla a l'indicatiu."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-18-014
+    type: fill
+    point: subjuntiu-formes
+    lesson: 2
+    prompt: "Vull que la Carla ___ amb el ram."
+    hint: "*arribar*, ella"
+    answers: ["arribi"]
+    wrong_answers:
+      - text: "arriba"
+        why: "*Arriba* és indicatiu. Darrere de *vull que* cal *arribi*."
+      - text: "arribis"
+        why: "*Arribis* és per a *tu*. «La Carla» és tercera persona: *arribi*."
+    grading: tolerant
+    explanation: "«La Carla» és tercera persona: *arribi*."
+
+  - id: b1-18-015
+    type: fill
+    point: subjuntiu-formes
+    lesson: 2
+    prompt: "Cal que vosaltres ___ la porta amb clau."
+    hint: "*tancar*, vosaltres"
+    answers: ["tanqueu"]
+    wrong_answers:
+      - text: "tanquen"
+        why: "*Tanquen* és per a *ells*. «Vosaltres» fa *tanqueu*."
+      - text: "tanquem"
+        why: "*Tanquem* és per a *nosaltres*. «Vosaltres» fa *tanqueu*."
+    grading: tolerant
+    explanation: "«Vosaltres» fa *tanqueu*: la *c* s'escriu *qu*."
+
+  - id: b1-18-016
+    type: fill
+    point: subjuntiu-formes
+    lesson: 2
+    prompt: "Vols que jo ___ el regal?"
+    hint: "*embolcar*, jo"
+    answers: ["embolqui"]
+    wrong_answers:
+      - text: "embolco"
+        why: "*Embolco* és indicatiu. Darrere de *vols que* cal *embolqui*."
+      - text: "embolico"
+        why: "*Embolico* és indicatiu del verb *embolicar*. La pista demana *embolcar*: *embolqui*."
+    grading: tolerant
+    explanation: "El subjuntiu del verb *embolcar* (*jo*) és *embolqui*."
+
+  - id: b1-18-017
+    type: fill
+    point: subjuntiu-formes
+    lesson: 2
+    prompt: "Vull que els convidats ___ molt fort."
+    hint: "*aplaudir*, 3a plural"
+    answers: ["aplaudeixin"]
+    wrong_answers:
+      - text: "aplaudeixen"
+        why: "*Aplaudeixen* és indicatiu. En subjuntiu, *ells* fan *aplaudeixin*."
+      - text: "aplaudeixi"
+        why: "*Aplaudeixi* és singular. «Els convidats» és plural: *aplaudeixin*."
+    grading: tolerant
+    explanation: "*Aplaudir* és incoatiu: conserva *-eix-*. «Els convidats» fa *aplaudeixin*."
+
+  - id: b1-18-018
+    type: order
+    point: subjuntiu-formes
+    lesson: 2
+    cue: "Vols parlar amb la Laia. Digues que vols una trucada demà."
+    chunks: ["vull", "que", "la Laia", "truqui", "demà"]
+    extra: ["truca"]
+    answers:
+      - "Vull que la Laia truqui demà."
+      - "Demà vull que la Laia truqui."
+    explanation: "El subjuntiu de *trucar* (*ella*) és *truqui*: la *c* es converteix en *qu*."
+
+  - id: b1-18-019
+    type: choice
+    point: subjuntiu-formes
+    lesson: 2
+    prompt: "Tothom vol que nosaltres ___ l'enhorabona del director."
+    answer: "rebem"
+    distractors:
+      - text: "reben"
+        why: "*Reben* és per a *ells*. «Nosaltres» fa *rebem*."
+      - text: "rebeu"
+        why: "*Rebeu* és per a *vosaltres*. «Nosaltres» fa *rebem*."
+    explanation: "«Nosaltres» fa *rebem*, igual que en indicatiu."
+
+  - id: b1-18-020
+    type: fill
+    point: subjuntiu-irregulars
+    lesson: 2
+    prompt: "El somni d'en Pau és que la Núria ___ venir."
+    hint: "*poder*, ella"
+    answers: ["pugui"]
+    wrong_answers:
+      - text: "pueda"
+        why: "«Pueda» és castellà. En català: *pugui*."
+      - text: "pot"
+        why: "*Pot* és indicatiu. Un desig demana el subjuntiu: *pugui*."
+    grading: tolerant
+    explanation: "El subjuntiu de *poder* (*ella*) és *pugui*."
+
+  - id: b1-18-021
+    type: fill
+    point: subjuntiu-irregulars
+    lesson: 2
+    prompt: "Vull que tu ___ paciència."
+    hint: "*tenir*, tu"
+    answers: ["tinguis"]
+    wrong_answers:
+      - text: "tengas"
+        why: "«Tengas» és castellà. En català: *tinguis*."
+      - text: "tingues"
+        why: "*Tingues* és l'imperatiu. Darrere de *vull que* cal *tinguis*."
+    grading: tolerant
+    explanation: "El subjuntiu de *tenir* (*tu*) és *tinguis*."
+
+  - id: b1-18-022
+    type: fill
+    point: subjuntiu-irregulars
+    lesson: 2
+    prompt: "Cal que hi ___ cadires per a tothom."
+    hint: "*haver-hi*, subjuntiu"
+    answers: ["hagi"]
+    wrong_answers:
+      - text: "haya"
+        why: "«Haya» és castellà. En català: *hagi*."
+      - text: "ha"
+        why: "*Hi ha* és indicatiu. Darrere de *cal que* cal *hagi*: *hi hagi*."
+    grading: tolerant
+    explanation: "El subjuntiu del verb *haver-hi* és *hagi*: *cal que hi hagi*."
+
+  - id: b1-18-023
+    type: fill
+    point: subjuntiu-irregulars
+    lesson: 2
+    prompt: "Vull que vosaltres ___ la veritat."
+    hint: "*saber*, vosaltres"
+    answers: ["sapigueu"]
+    wrong_answers:
+      - text: "sabeu"
+        why: "*Sabeu* és indicatiu. Darrere de *vull que* cal *sapigueu*."
+      - text: "sàpiguen"
+        why: "*Sàpiguen* és per a *ells*. «Vosaltres» fa *sapigueu*."
+    grading: tolerant
+    explanation: "El subjuntiu de *saber* (*vosaltres*) és *sapigueu*."
+
+  - id: b1-18-024
+    type: order
+    point: subjuntiu-irregulars
+    lesson: 2
+    cue: "Vols que tot surti bé a la celebració. Expressa-ho com un desig."
+    chunks: ["que", "la festa", "tingui", "èxit"]
+    extra: ["tenga"]
+    answers:
+      - "Que la festa tingui èxit."
+    explanation: "Els desitjos comencen amb *que* + subjuntiu: *tingui*. «Tenga» és castellà."
+
+  - id: b1-18-025
+    type: order
+    point: subjuntiu-irregulars
+    lesson: 2
+    cue: "Vols que tothom vingui a la festa. Digues-ho amb el verb anar."
+    chunks: ["vull", "que", "hi", "vagin", "tots"]
+    extra: ["vayan"]
+    answers:
+      - "Vull que hi vagin tots."
+      - "Vull que tots hi vagin."
+    explanation: "El subjuntiu del verb *anar* (*ells*) és *vagin*. «Vayan» és castellà."
+
+  - id: b1-18-026
+    type: choice
+    point: subjuntiu-irregulars
+    lesson: 2
+    prompt: "Tant de bo ___ bon temps diumenge!"
+    answer: "faci"
+    distractors:
+      - text: "haga"
+        why: "«Haga» és castellà. En català: *faci*."
+      - text: "fa"
+        why: "*Fa* és indicatiu. Darrere de *tant de bo* cal *faci*."
+    explanation: "El subjuntiu de *fer* és *faci*. *Tant de bo* sempre porta subjuntiu."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-18-027
+    type: choice
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "—Qui ve a buscar el pastís? —Vull ___ jo mateix."
+    answer: "venir"
+    distractors:
+      - text: "que vingui"
+        why: "«Jo mateix» és el mateix subjecte que *vull*: cal l'infinitiu, sense *que*."
+      - text: "que vinc"
+        why: "Amb el mateix subjecte, *vull* porta infinitiu: *vull venir*."
+    explanation: "El subjecte és el mateix (*jo*): *vull venir*, sense *que*."
+
+  - id: b1-18-028
+    type: choice
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "Vull que la Laia ___ demà a celebrar l'aniversari."
+    answer: "vingui"
+    distractors:
+      - text: "venir"
+        why: "«La Laia» no és el mateix subjecte: cal *que* + subjuntiu: *vingui*."
+      - text: "ve"
+        why: "*Ve* és indicatiu. Amb dos subjectes diferents: *que vingui*."
+    explanation: "Dos subjectes diferents (*jo, la Laia*): *vull que vingui*."
+
+  - id: b1-18-029
+    type: choice
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "Et demano que tu em ___ demà."
+    answer: "truquis"
+    distractors:
+      - text: "truques"
+        why: "*Truques* és indicatiu. Darrere de *demanar que* cal *truquis*."
+      - text: "truqui"
+        why: "*Truqui* és per a *ell*. «Tu» fa *truquis*."
+    explanation: "«Tu» fa *truquis*. *Demanar que* porta subjuntiu."
+
+  - id: b1-18-030
+    type: choice
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "Cal que en Pau ___ el regal al casament."
+    answer: "porti"
+    distractors:
+      - text: "porta"
+        why: "*Porta* és indicatiu. Darrere de *cal que* cal *porti*."
+      - text: "portin"
+        why: "*Portin* és plural. «En Pau» és singular: *porti*."
+    explanation: "«En Pau» és tercera persona: *porti*."
+
+  - id: b1-18-031
+    type: fill
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "Voleu que jo ___ les copes?"
+    hint: "*portar*, jo"
+    answers: ["porti"]
+    wrong_answers:
+      - text: "porto"
+        why: "*Porto* és indicatiu. Darrere de *voleu que* cal *porti*."
+      - text: "portin"
+        why: "*Portin* és plural. «Jo» fa *porti*."
+    grading: tolerant
+    explanation: "«Jo» fa *porti*."
+
+  - id: b1-18-032
+    type: fill
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "Li han demanat que ___ la invitació."
+    hint: "*agrair*, ell"
+    answers: ["agraeixi"]
+    wrong_answers:
+      - text: "agraeix"
+        why: "*Agraeix* és indicatiu. Darrere de *demanar que* cal *agraeixi*."
+      - text: "agradeixen"
+        why: "*Agradeixen* és plural. «Ell» fa *agraeixi*."
+    grading: tolerant
+    explanation: "*Agrair* és incoatiu: *agraeixi*."
+
+  - id: b1-18-033
+    type: fill
+    point: voler-esperar-demanar
+    lesson: 3
+    prompt: "Espero que no ___ diumenge."
+    hint: "*ploure*, subjuntiu"
+    answers: ["plogui"]
+    wrong_answers:
+      - text: "plou"
+        why: "*Plou* és indicatiu. Darrere de *espero que* cal *plogui*."
+      - text: "ploguin"
+        why: "*Ploure* no té plural: sempre *plogui*."
+    grading: tolerant
+    explanation: "*Ploure* és impersonal: *plogui*."
+
+  - id: b1-18-034
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Vull que la festa ___ perfecta."
+    hint: "*ser*, ella"
+    answers: ["sigui"]
+    wrong_answers:
+      - text: "sea"
+        why: "«Sea» és castellà. En català: *sigui*."
+      - text: "sigues"
+        why: "*Sigues* és l'imperatiu. Darrere de *vull que* cal *sigui*."
+    grading: tolerant
+    explanation: "*Ser* és irregular: *sigui*. «Sea» és castellà."
+
+  - id: b1-18-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Vull que venga tothom a la festa."
+    error: "venga"
+    fix: "vingui"
+    fix_distractors:
+      - text: "ve"
+        why: "*Ve* és indicatiu. Darrere de *vull que* cal *vingui*."
+      - text: "vinguin"
+        why: "*Vinguin* és plural. «Tothom» és singular: *vingui*."
+    explanation: "«Venga» és castellà. En català: *vingui*. *Tothom* és singular."
+
+  - id: b1-18-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Cal que tu em digas la veritat."
+    error: "digas"
+    fix: "diguis"
+    fix_distractors:
+      - text: "digues"
+        why: "*Digues* és l'imperatiu. Darrere de *cal que* cal *diguis*."
+      - text: "dius"
+        why: "*Dius* és indicatiu. Darrere de *cal que* cal *diguis*."
+    explanation: "«Digas» és castellà. En català: *diguis*."
+
+  - id: b1-18-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Vull que vinguis demà a l'aniversari."
+    no_error: true
+    explanation: "La frase és correcta: *vinguis* és el subjuntiu de *venir* (*tu*)."
+
+  - id: b1-18-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Espero que tu estés contenta amb el regal."
+    error: "estés"
+    fix: "estiguis"
+    fix_distractors:
+      - text: "estàs"
+        why: "*Estàs* és indicatiu. Darrere de *espero que* cal *estiguis*."
+      - text: "estigues"
+        why: "*Estigues* és l'imperatiu. Darrere de *espero que* cal *estiguis*."
+    explanation: "«Estés» és la forma castellana. En català: *estiguis*."
+
+  - id: b1-18-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Cal que siguem puntuals a la celebració."
+    no_error: true
+    explanation: "La frase és correcta: *siguem* és el subjuntiu de *ser* (*nosaltres*)."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-18-040
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "Vols que et haga un cafè?"
+    error: "haga"
+    fix: "faci"
+    fix_distractors:
+      - text: "faig"
+        why: "*Faig* és indicatiu. Darrere de *vols que* cal *faci*."
+      - text: "fas"
+        why: "*Fas* és indicatiu. Darrere de *vols que* cal *faci*."
+    explanation: "«Haga» és castellà. En català, *fer* fa *faci*."
+
+  - id: b1-18-041
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "Vull que tu sepas la notícia."
+    error: "sepas"
+    fix: "sàpigues"
+    fix_distractors:
+      - text: "saps"
+        why: "*Saps* és indicatiu. Darrere de *vull que* cal *sàpigues*."
+      - text: "sàpigui"
+        why: "*Sàpigui* no és correcte: «tu» fa *sàpigues*."
+    explanation: "«Sepas» és castellà. En català: *sàpigues*."
+
+  - id: b1-18-042
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "Demana a en Pau que et vea demà."
+    error: "vea"
+    fix: "vegi"
+    fix_distractors:
+      - text: "veu"
+        why: "*Veu* és indicatiu. Darrere de *demana que* cal *vegi*."
+      - text: "veges"
+        why: "*Veges* és l'imperatiu (*tu*). Amb «en Pau»: *vegi*."
+    explanation: "«Vea» és castellà. En català: *vegi*."
+
+  - id: b1-18-043
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "Espero que pugueu venir dissabte a la festa."
+    no_error: true
+    explanation: "La frase és correcta: *pugueu* és el subjuntiu de *poder* (*vosaltres*)."
+
+  - id: b1-18-044
+    type: transform
+    point: voler-esperar-demanar
+    lesson: 4
+    instruction: "Expressa la frase com un desig amb «Vull que»."
+    source: "La Núria [[ve]] demà a la festa."
+    start: "Vull que"
+    answers:
+      - "Vull que la Núria vingui demà a la festa."
+      - "Vull que demà la Núria vingui a la festa."
+    wrong_answers:
+      - text: "Vull que la Núria ve demà a la festa."
+        why: "*Ve* és indicatiu. Un desig demana el subjuntiu: *vingui*."
+      - text: "Vull que la Núria venga demà a la festa."
+        why: "«Venga» és castellà. En català: *vingui*."
+    grading: tolerant
+    explanation: "El desig demana *que* + subjuntiu: *vingui*."
+
+  - id: b1-18-045
+    type: transform
+    point: voler-esperar-demanar
+    lesson: 4
+    instruction: "Expressa la frase com una necessitat amb «Cal que»."
+    source: "En Pau [[té]] paciència."
+    start: "Cal que"
+    answers: ["Cal que en Pau tingui paciència."]
+    wrong_answers:
+      - text: "Cal que en Pau té paciència."
+        why: "*Té* és indicatiu. Darrere de *cal que* cal *tingui*."
+      - text: "Cal que en Pau tenga paciència."
+        why: "«Tenga» és castellà. En català: *tingui*."
+    grading: tolerant
+    explanation: "*Cal que* porta subjuntiu: *tingui*."
+
+  - id: b1-18-046
+    type: transform
+    point: voler-esperar-demanar
+    lesson: 4
+    instruction: "Expressa la petició amb «Et demano que»."
+    source: "Em [[pots ajudar]] amb el pastís?"
+    start: "Et demano que"
+    answers: ["Et demano que m'ajudis amb el pastís."]
+    wrong_answers:
+      - text: "Et demano que m'ajudes amb el pastís."
+        why: "*Ajudes* és indicatiu. Darrere de *demano que* cal *ajudis*."
+      - text: "Et demano que m'ajudi amb el pastís."
+        why: "La petició és per a *tu*, no per a *ell*: *ajudis*."
+    grading: tolerant
+    explanation: "*Demanar que* porta subjuntiu: *ajudis*."
+
+  - id: b1-18-047
+    type: transform
+    point: subjuntiu-formes
+    lesson: 4
+    instruction: "Canvia el subjecte a «la Laia»."
+    source: "Vull que [[arribis]] aviat."
+    answers: ["Vull que la Laia arribi aviat."]
+    wrong_answers:
+      - text: "Vull que la Laia arribis aviat."
+        why: "*Arribis* és per a *tu*. «La Laia» és tercera persona: *arribi*."
+      - text: "Vull que la Laia arriba aviat."
+        why: "*Arriba* és indicatiu. Darrere de *vull que* cal *arribi*."
+    grading: tolerant
+    explanation: "Amb «la Laia», el verb concorda en tercera persona: *arribi*."
+
+  - id: b1-18-048
+    type: transform
+    point: subjuntiu-irregulars
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Espero que [[estàs]] content amb el premi."
+    answers: ["Espero que estiguis content amb el premi."]
+    wrong_answers:
+      - text: "Espero que estés content amb el premi."
+        why: "«Estés» és la forma castellana. Aquí cal *estiguis*."
+      - text: "Espero que estigues content amb el premi."
+        why: "*Estigues* és l'imperatiu. Darrere de *espero que* cal *estiguis*."
+    grading: tolerant
+    explanation: "*Estàs* és indicatiu. Darrere de *espero que* cal *estiguis*."
+
+  - id: b1-18-049
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Espero que tot [[vaya]] bé."
+    answers: ["Espero que tot vagi bé."]
+    wrong_answers:
+      - text: "Espero que tot va bé."
+        why: "*Va* és indicatiu. Darrere de *espero que* cal *vagi*."
+      - text: "Espero que tot vaigui bé."
+        why: "*Vaigui* no existeix. En català: *vagi*."
+    grading: tolerant
+    explanation: "«Vaya» és castellà. En català: *vagi*."
+
+  - id: b1-18-050
+    type: order
+    point: voler-esperar-demanar
+    lesson: 4
+    cue: "El teu cap vol l'informe avui. Explica què et demana."
+    chunks: ["el cap", "demana", "que", "facis", "l'informe", "avui"]
+    extra: ["fas"]
+    answers:
+      - "El cap demana que facis l'informe avui."
+      - "Avui el cap demana que facis l'informe."
+    explanation: "*Demanar que* porta subjuntiu: *facis*."
+
+  - id: b1-18-051
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Vols que no falti ningú a la festa. Digues que és el teu desig, amb el verb anar."
+    chunks: ["vull", "que", "hi", "vagi", "tothom"]
+    extra: ["vaya"]
+    answers:
+      - "Vull que hi vagi tothom."
+      - "Vull que tothom hi vagi."
+    explanation: "El subjuntiu del verb *anar* (*tothom*) és *vagi*. «Vaya» és castellà."
+
+  - id: b1-18-052
+    type: fill
+    point: voler-esperar-demanar
+    lesson: 4
+    prompt: "Vols que ___ plegats?"
+    hint: "*anar*, nosaltres"
+    answers: ["anem"]
+    wrong_answers:
+      - text: "vagim"
+        why: "*Vagim* no existeix. *Anar* fa *anem*, com en indicatiu."
+      - text: "vamos"
+        why: "«Vamos» és castellà. En català: *anem*."
+    grading: tolerant
+    explanation: "*Anar* és especial: *anem*, com en indicatiu."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-18-053
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Un amic marxa de viatge. Què li dius?"
+    answer: "Que vagi bé!"
+    distractors:
+      - text: "Que aprofiti!"
+        why: "*Que aprofiti* es diu abans de menjar, no per acomiadar."
+      - text: "Tant de bo!"
+        why: "Aquí acomiades un amic: la fórmula és *que vagi bé*."
+    explanation: "Per acomiadar algú que marxa, diem *que vagi bé*."
+
+  - id: b1-18-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Seus a taula per dinar amb la família. Què dius?"
+    answer: "Que aprofiti!"
+    distractors:
+      - text: "Que vagi bé!"
+        why: "*Que vagi bé* és per acomiadar, no per a un àpat."
+      - text: "Que t'ho passis bé!"
+        why: "*Que t'ho passis bé* és per a una festa o un viatge, no per a un àpat."
+    explanation: "Abans de menjar, diem *que aprofiti*."
+
+  - id: b1-18-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Tant de bo arribi aviat»?"
+    answer: "Que vols que arribi aviat."
+    distractors:
+      - text: "Que saps que arribarà aviat."
+        why: "*Tant de bo* expressa un desig, no una certesa."
+      - text: "Que acaba d'arribar."
+        why: "Si ja ha arribat, no cal desitjar-ho. *Tant de bo* mira al futur."
+    explanation: "*Tant de bo* expressa un desig: vols que passi una cosa."
+
+  - id: b1-18-056
+    type: choice
+    point: voler-esperar-demanar
+    lesson: 5
+    prompt: "Els nuvis volen que hi ___ tothom."
+    answer: "vagi"
+    distractors:
+      - text: "va"
+        why: "*Va* és indicatiu. Darrere de *voler que* cal *vagi*."
+      - text: "vaya"
+        why: "«Vaya» és castellà. En català: *vagi*."
+    explanation: "*Tothom* és singular: *vagi*."
+
+  - id: b1-18-057
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["que vagi bé!", "quan un amic marxa de viatge"]
+      - ["que t'ho passis bé!", "a la festa d'aniversari"]
+      - ["que aprofiti!", "abans de dinar"]
+      - ["tant de bo!", "quan vols que faci sol"]
+    explanation: "Són quatre maneres de desitjar coses bones."
+
+  - id: b1-18-058
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Demà marxo a Madrid per feina. —___!"
+    hint: "expressió per acomiadar"
+    answers: ["Que vagi bé"]
+    wrong_answers:
+      - text: "Que aprofiti"
+        why: "*Que aprofiti* es diu abans de menjar, no per acomiadar."
+      - text: "Tant de bo"
+        why: "Aquí acomiades algú: la fórmula és *que vagi bé*."
+    grading: tolerant
+    explanation: "Per acomiadar algú que marxa, diem *que vagi bé*."
+
+  - id: b1-18-059
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Demà tinc l'entrevista: desitja'm sort. —___!"
+    hint: "expressa un desig"
+    answers: ["Tant de bo vagi bé"]
+    wrong_answers:
+      - text: "Tant de bo anirà bé"
+        why: "*Tant de bo* porta subjuntiu, no futur: *vagi*."
+      - text: "Tant de bo va bé"
+        why: "*Tant de bo* porta subjuntiu: *vagi*."
+    grading: tolerant
+    explanation: "*Tant de bo* expressa un desig i porta subjuntiu: *vagi*."
+
+  - id: b1-18-060
+    type: fill
+    point: subjuntiu-irregulars
+    lesson: 5
+    prompt: "Voleu que nosaltres ___ el brindis?"
+    hint: "*fer*, nosaltres"
+    answers: ["fem"]
+    wrong_answers:
+      - text: "facin"
+        why: "*Facin* és per a *ells*. «Nosaltres» fa *fem*."
+      - text: "hagamos"
+        why: "«Hagamos» és castellà. En català: *fem*."
+    grading: tolerant
+    explanation: "*Fer* és especial: *fem*, com en indicatiu."
+
+  - id: b1-18-061
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Acomiada en Pau amb l'expressió adequada."
+    source: "Adeu, Pau! [[Tot sortirà bé.]]"
+    answers: ["Adeu, Pau! Que vagi bé!"]
+    wrong_answers:
+      - text: "Adeu, Pau! Que aprofiti!"
+        why: "*Que aprofiti* es diu abans de menjar, no per acomiadar."
+      - text: "Adeu, Pau! Tant de bo!"
+        why: "Aquí acomiades en Pau: la fórmula és *que vagi bé*."
+    grading: tolerant
+    explanation: "Per acomiadar, diem *que vagi bé*."
+
+  - id: b1-18-062
+    type: transform
+    point: voler-esperar-demanar
+    lesson: 5
+    instruction: "Canvia el subjecte a «jo»."
+    source: "Vull [[que vingueu]] dissabte."
+    answers:
+      - "Vull venir dissabte."
+      - "Dissabte vull venir."
+    wrong_answers:
+      - text: "Vull que vinc dissabte."
+        why: "Amb el mateix subjecte, *vull* porta infinitiu: *vull venir*."
+      - text: "Vull que vingui dissabte."
+        why: "L'exercici demana el subjecte *jo*: sense *que*, *vull venir*."
+    grading: tolerant
+    explanation: "Amb el mateix subjecte (*jo*), *vull* porta infinitiu: *vull venir*."
+
+  - id: b1-18-063
+    type: inline-choice
+    point: voler-esperar-demanar
+    lesson: 5
+    title: "Nota a la Laia"
+    text: "Laia, vull que tu {vagis|vas|vagi} a comprar el regal. Vull que {vinguis|vens|veniu} amb mi. Cal que nosaltres {sortim|surten|sortiu} a les deu. Espero que la botiga {sigui|és|soc} oberta."
+    explanation: "Amb *tu*: *vagis* i *vinguis*. Amb *nosaltres*: *sortim*. Amb *la botiga*: *sigui*."
+
+  - id: b1-18-064
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "La Carla va a una festa. Desitja-li que s'ho passi bé."
+    chunks: ["que", "t'ho", "passis", "bé", "a la festa"]
+    extra: ["passes"]
+    answers:
+      - "Que t'ho passis bé a la festa."
+      - "A la festa, que t'ho passis bé."
+    explanation: "Per a una festa, diem *que t'ho passis bé*. *Passes* és indicatiu."
+
+  - id: b1-18-065
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La festa sorpresa de l'Ibrahim"
+    text: |
+      L'Ibrahim fa quaranta anys divendres i els amics li preparen una festa sorpresa. La Fàtima vol que tot sigui perfecte: ha comprat un pastís de maduixa, ha convidat vint persones i ha demanat a en Quim que porti el cava. Ningú no li ha dit res a l'Ibrahim; volen que arribi a casa i que trobi tothom al menjador.
+
+      El pla és senzill. La Fàtima demana que els convidats arribin a les set i que portin alguna cosa per picar. També demana que ningú truqui a l'Ibrahim aquella tarda, perquè no sospiti res. En Quim espera que el cava sigui bo: l'ha triat ell mateix.
+
+      «Vull que bufem les espelmes tots junts», diu la Fàtima, «i que després brindem per l'Ibrahim. Tant de bo no plogui i puguem sopar a la terrassa!»
+
+      L'Ibrahim, mentrestant, només vol que divendres sigui un dia tranquil. No sap que els amics li volen fer una abraçada gegant i cridar tots junts: «Per molts anys!»
+    questions:
+      - prompt: "Per què fan una festa?"
+        answer: "Perquè l'Ibrahim fa quaranta anys."
+        distractors:
+          - text: "Perquè en Quim ha triat un cava."
+            why: "El cava és per a la festa, però el motiu és l'aniversari."
+          - text: "Perquè estrenen la terrassa."
+            why: "Volen sopar a la terrassa, però la festa és per l'aniversari."
+      - prompt: "Què ha de portar en Quim?"
+        answer: "El cava."
+        distractors:
+          - text: "El pastís de maduixa."
+            why: "El pastís l'ha comprat la Fàtima."
+          - text: "Les espelmes."
+            why: "Les espelmes són per al pastís; en Quim porta el cava."
+      - prompt: "Què demana la Fàtima als convidats?"
+        answer: "Que arribin a les set i portin menjar."
+        distractors:
+          - text: "Que truquin a l'Ibrahim a la tarda."
+            why: "Demana just el contrari: que no li truquin."
+          - text: "Que portin el pastís."
+            why: "El pastís ja l'ha comprat ella."
+      - prompt: "Què vol l'Ibrahim per divendres?"
+        answer: "Un dia tranquil sense sorpreses."
+        distractors:
+          - text: "Una festa amb vint persones."
+            why: "Això és el que volen els amics, no ell."
+          - text: "Un brindis a la terrassa."
+            why: "El brindis és idea de la Fàtima."
+    explanation: "Els amics preparen una festa sorpresa per als quaranta anys de l'Ibrahim, que no en sap res."

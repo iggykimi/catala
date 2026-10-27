@@ -1,0 +1,1071 @@
+id: b1-17
+level: B1
+title: "Combinacions de dos pronoms"
+summary: "Aprens a combinar dos pronoms (*me'l*, *l'hi*, *n'hi*) i a posar-los amb l'infinitiu i l'imperatiu (*dona-me'l*, *vull donar-te-la*)."
+vocabulary_theme: "Préstecs, favors i serveis"
+points:
+  - id: combinacions-ordre
+    title: "Ordre i formes: *me'l*, *te la*, *ens ho*, *se'ls*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: li-cd
+    title: "*Li* + *el/la/els/les/ho*: *l'hi*, *la hi*, *li ho*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: en-hi
+    title: "La combinació *n'hi*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: posicio-infinitiu-imperatiu
+    title: "Amb infinitiu i imperatiu: *dona-me'l*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *se lo* → *l'hi* / *li ho*"
+  - id: expressions
+    title: "Expressions: favors i insistència"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: dos pronoms junts"
+  - title: "Practicar: *me'l*, *l'hi*, *la hi*"
+  - title: "*N'hi*, l'imperatiu i *se lo*"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el préstec"
+    definition: "Deixar una cosa a algú perquè la faci servir i la torni."
+    example: "El préstec del trepant és per una setmana."
+  - word: "deixar en préstec"
+    definition: "Donar una cosa a algú per un temps: després l'ha de tornar."
+    example: "Et deixo la bicicleta en préstec fins divendres."
+  - word: "tornar"
+    definition: "Donar una cosa al seu propietari quan ja l'has fet servir."
+    example: "Demà torno el llibre a la biblioteca."
+  - word: "el favor"
+    definition: "Cosa que fas per ajudar algú, sense cobrar."
+    example: "Et demano un favor: pots regar les plantes?"
+  - word: "l'eina"
+    definition: "Objecte que serveix per arreglar o construir coses."
+    example: "Aquesta eina serveix per arreglar endolls."
+  - word: "la caixa d'eines"
+    definition: "Capsa on es guarden les eines."
+    example: "El martell és a la caixa d'eines."
+  - word: "el martell"
+    definition: "Eina que serveix per donar cops."
+    example: "Amb aquest martell pots penjar el quadre."
+  - word: "el tornavís"
+    definition: "Eina que serveix per posar i treure caragols."
+    example: "Necessito un tornavís petit per arreglar l'endoll."
+  - word: "l'escala de mà"
+    definition: "Escala que es pot moure per arribar als llocs alts."
+    example: "Puja a l'escala de mà i canvia la bombeta."
+  - word: "la clau"
+    definition: "Peça de metall que obre una porta."
+    example: "He perdut la clau de casa."
+  - word: "la clau anglesa"
+    definition: "Eina per estrènyer caragols grossos."
+    example: "La clau anglesa és a la caixa d'eines."
+  - word: "el paraigua"
+    definition: "Objecte per no mullar-se quan plou."
+    example: "Agafa el paraigua, que avui plourà."
+  - word: "el carregador"
+    definition: "Aparell per carregar la bateria del mòbil."
+    example: "Em deixes el carregador? No tinc bateria."
+  - word: "la bicicleta"
+    definition: "Vehicle de dues rodes que es mou amb pedals."
+    example: "Vaig a la feina amb bicicleta."
+  - word: "la biblioteca"
+    definition: "Lloc on et deixen llibres en préstec."
+    example: "He tornat tres llibres a la biblioteca."
+  - word: "el taller"
+    definition: "Lloc on s'arreglen bicicletes, cotxes o màquines."
+    example: "He deixat la bicicleta al taller."
+  - word: "el magatzem"
+    definition: "Lloc gran on es guarden productes o eines."
+    example: "Al magatzem queden dues cadires."
+  - word: "el calaix"
+    definition: "Part d'un moble que s'obre estirant."
+    example: "Els rebuts són al calaix de dalt."
+  - word: "la prestatgeria"
+    definition: "Mobles amb lleixes per a llibres i objectes."
+    example: "Hem penjat la prestatgeria al menjador."
+  - word: "el paquet"
+    definition: "Capsa o embolcall amb una cosa a dins."
+    example: "Ha arribat un paquet per a tu."
+  - word: "l'encàrrec"
+    definition: "Feina o compra que demanes a algú que faci."
+    example: "Tinc un encàrrec per a tu al mercat."
+  - word: "el rebut"
+    definition: "Paper que diu que has pagat una cosa."
+    example: "Guarda el rebut de la compra."
+  - word: "la fiança"
+    definition: "Diners que deixes com a garantia i et tornen després."
+    example: "En marxar del pis, et tornen la fiança."
+  - word: "el torn"
+    definition: "Moment en què et toca fer una cosa."
+    example: "Espera el teu torn a la cua."
+  - word: "la cita"
+    definition: "Dia i hora fixats per trobar algú."
+    example: "Tinc cita amb el metge a les deu."
+  - word: "el lampista"
+    definition: "Persona que arregla les coses del bany i la cuina."
+    example: "El lampista vindrà dimarts al matí."
+  - word: "l'electricista"
+    definition: "Persona que arregla endolls i llums."
+    example: "L'electricista ha canviat l'endoll."
+  - word: "arreglar"
+    definition: "Deixar una cosa espatllada com nova."
+    example: "El taller m'ha arreglat la bicicleta."
+  - word: "espatllat, espatllada"
+    definition: "Que no funciona."
+    example: "El mòbil està espatllat."
+  - word: "confiar"
+    definition: "Creure que algú farà bé les coses."
+    example: "Confio en tu: deixa-li les claus."
+  - word: "emportar-se"
+    definition: "Agafar una cosa i anar amb ella a un altre lloc."
+    example: "Emporta't el paraigua, que plourà."
+  - word: "quedar-se"
+    definition: "No tornar una cosa; guardar-la per a tu."
+    example: "Si vols, queda't el llibre."
+  - word: "l'endoll"
+    definition: "Peça de la paret on connectes els aparells elèctrics."
+    example: "L'endoll del menjador no funciona."
+  - word: "penjar"
+    definition: "Posar una cosa a la paret perquè no caigui."
+    example: "Hem penjat dos quadres al menjador."
+  - word: "el trepant"
+    definition: "Eina elèctrica per fer forats a la paret."
+    example: "Amb el trepant penjarem els prestatges."
+  - word: "el replà"
+    definition: "Espai de l'escala davant la porta del pis."
+    example: "No deixeu les bicicletes al replà."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-17-001
+    type: choice
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "—Em deixes el martell en préstec? —Sí, ___ deixo ara mateix."
+    answer: "te'l"
+    distractors:
+      - text: "et el"
+        why: "*Et* i *el* es combinen en una sola forma: *te'l*. *Et el* no existeix."
+      - text: "el te"
+        why: "L'ordre és indirecte + directe: primer *te* (a tu) i després *el* (el martell): *te'l*."
+    explanation: "«A tu» és *te* i «el martell» és *el*. Van junts, l'indirecte primer: *te'l deixo*."
+
+  - id: b1-17-002
+    type: choice
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "—Em tornes la clau anglesa? —Sí, ___ torno demà."
+    answer: "te la"
+    distractors:
+      - text: "te'l"
+        why: "*Te'l* és masculí (*el*). «La clau» és femenina: *te la*."
+      - text: "la te"
+        why: "L'indirecte (*te*) va primer: *te la*."
+    explanation: "«A tu» és *te* i «la clau» és *la*: *te la torno*."
+
+  - id: b1-17-003
+    type: choice
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "—Em pots explicar això del rebut? —Sí, ___ explico ara."
+    answer: "t'ho"
+    distractors:
+      - text: "te ho"
+        why: "*Te* i *ho* es combinen en *t'ho*. *Te ho* no existeix."
+      - text: "te'l"
+        why: "*Te'l* substitueix un nom masculí. «Això del rebut» és una idea: *t'ho*."
+    explanation: "«A tu» és *te* i «això» és *ho*: *t'ho explico*."
+
+  - id: b1-17-004
+    type: choice
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "L'Ibrahim s'emporta dos entrepans i ___ menja a l'oficina."
+    answer: "se'ls"
+    distractors:
+      - text: "es els"
+        why: "*Es* i *els* es combinen en *se'ls*. *Es els* no existeix."
+      - text: "se les"
+        why: "*Entrepans* és masculí plural: *els*. *Se les* seria per a un nom femení."
+    explanation: "«Es» + «els entrepans» donen *se'ls*: *se'ls menja*."
+
+  - id: b1-17-005
+    type: choice
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "El taller ___ arreglarà demà: hi hem deixat dues bicicletes i tenim el primer torn."
+    answer: "ens les"
+    distractors:
+      - text: "ens els"
+        why: "*Bicicletes* és femení: *les*. *Ens els* seria per a un nom masculí."
+      - text: "les ens"
+        why: "L'indirecte (*ens*) va primer: *ens les*."
+    explanation: "«A nosaltres» és *ens* i «les bicicletes» és *les*: *ens les arreglarà*."
+
+  - id: b1-17-006
+    type: choice
+    point: li-cd
+    lesson: 1
+    prompt: "—Has donat el paquet a la veïna? —Sí, ___ he donat aquest matí."
+    answer: "l'hi"
+    distractors:
+      - text: "se lo"
+        why: "*Se lo* és un calc del castellà «se lo». En català, *li* + *el* donen *l'hi*."
+      - text: "li el"
+        why: "*Li* i *el* no van separats: es combinen en *l'hi*. *Li el* no existeix."
+    explanation: "«A la veïna» és *li* i «el paquet» és *el*. La combinació és *l'hi*: *l'hi he donat*."
+
+  - id: b1-17-007
+    type: choice
+    point: li-cd
+    lesson: 1
+    prompt: "—Has explicat la norma a en Pau? —Sí, ___ he explicat dues vegades."
+    answer: "la hi"
+    distractors:
+      - text: "l'hi"
+        why: "*L'hi* porta *el* (masculí). «La norma» és femenina: *la hi*."
+      - text: "se la"
+        why: "«A en Pau» és *li*, no *es*: *li* + *la* donen *la hi*."
+    explanation: "«A en Pau» és *li* i «la norma» és *la*: *la hi he explicat*."
+
+  - id: b1-17-008
+    type: inline-choice
+    point: combinacions-ordre
+    lesson: 1
+    title: "Un missatge a en Jordi"
+    text: "Hola, Jordi: {me'l|me la|m'ho} pots deixar, el tornavís? {Te'l|Te la|T'ho} torno demà al matí, que l'he de fer servir aquest vespre. Si tens també la clau anglesa, {me la|me'l|m'ho} pots deixar? {T'ho|Te'l|Te la} agrairé molt!"
+    explanation: "*Me'l* (a mi + el tornavís), *te'l* (a tu + el tornavís), *me la* (a mi + la clau) i *t'ho* (a tu + això)."
+
+  - id: b1-17-009
+    type: inline-choice
+    point: li-cd
+    lesson: 1
+    title: "A la biblioteca"
+    text: "—Has tornat el llibre a la Núria? —Sí, {l'hi|la hi|li ho} he tornat avui. I les revistes? —També {les hi|els hi|li ho} he donat. I li has dit que tanquen a les vuit? —Sí, {li ho|l'hi|la hi} he dit per telèfon."
+    explanation: "*L'hi* (li + el llibre), *les hi* (li + les revistes) i *li ho* (li + això)."
+
+  - id: b1-17-010
+    type: match
+    point: combinacions-ordre
+    lesson: 1
+    instruction: "Relaciona cada combinació amb els complements que substitueix."
+    pairs:
+      - ["me'l", "a mi + el tornavís"]
+      - ["te la", "a tu + la clau"]
+      - ["ens ho", "a nosaltres + això"]
+      - ["se'ls", "es + els entrepans"]
+      - ["m'ho", "a mi + això"]
+    explanation: "Davant del verb, l'indirecte va primer i el directe després: *me'l*, *te la*, *ens ho*, *se'ls*, *m'ho*."
+
+  - id: b1-17-011
+    type: fill
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "—Em deixes la bicicleta? —Sí, ___ deixo, però torna-la aviat."
+    hint: "pronom per a «a tu» i «la bicicleta»"
+    answers: ["te la"]
+    wrong_answers:
+      - text: "te'l"
+        why: "*Te'l* és masculí. «La bicicleta» és femenina: *te la*."
+      - text: "la te"
+        why: "L'indirecte (*te*) va primer: *te la*."
+    grading: tolerant
+    explanation: "«A tu» és *te* i «la bicicleta» és *la*: *te la deixo*."
+
+  - id: b1-17-012
+    type: fill
+    point: combinacions-ordre
+    lesson: 1
+    prompt: "—Ens dieu l'hora de la cita? —Sí, ___ diem ara mateix."
+    hint: "pronom per a «a vosaltres» i «l'hora»"
+    answers: ["us la"]
+    wrong_answers:
+      - text: "us el"
+        why: "*Us el* és masculí. «L'hora» és femenina: *us la*."
+      - text: "us ho"
+        why: "*Us ho* seria per a una idea («això»). «L'hora» és un nom femení: *us la*."
+    grading: tolerant
+    explanation: "«A vosaltres» és *us* i «l'hora» és *la*: *us la diem*."
+
+  - id: b1-17-013
+    type: order
+    point: combinacions-ordre
+    lesson: 1
+    cue: "Digues a un company que li pots deixar el carregador demà."
+    chunks: ["te'l", "puc", "deixar", "demà"]
+    extra: ["se'l"]
+    answers:
+      - "Te'l puc deixar demà."
+      - "Demà te'l puc deixar."
+    explanation: "«A tu» + «el carregador» donen *te'l*, davant del verb: *te'l puc deixar*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-17-014
+    type: fill
+    point: combinacions-ordre
+    lesson: 2
+    prompt: "—Ens porteu els paquets? —Sí, ___ portem a les cinc."
+    hint: "pronom per a «a vosaltres» i «els paquets»"
+    answers: ["us els"]
+    wrong_answers:
+      - text: "us les"
+        why: "*Paquets* és masculí: *els*. *Us les* seria per a un nom femení."
+      - text: "us ho"
+        why: "*Us ho* és per a una idea. «Els paquets» és un nom: *us els*."
+    grading: tolerant
+    explanation: "«A vosaltres» és *us* i «els paquets» és *els*: *us els portem*."
+
+  - id: b1-17-015
+    type: fill
+    point: combinacions-ordre
+    lesson: 2
+    prompt: "La Fàtima es prova les sabates i ___ queda: li van molt bé."
+    hint: "pronom per a «es» i «les sabates»"
+    answers: ["se les"]
+    wrong_answers:
+      - text: "se'ls"
+        why: "*Sabates* és femení: *les*. *Se'ls* seria per a un nom masculí."
+      - text: "es les"
+        why: "*Es* i *les* es combinen en *se les*. *Es les* no existeix."
+    grading: tolerant
+    explanation: "«Es» + «les sabates» donen *se les*: *se les queda*."
+
+  - id: b1-17-016
+    type: fill
+    point: combinacions-ordre
+    lesson: 2
+    prompt: "—M'expliques això del rebut? —Sí, ___ explico amb calma."
+    hint: "pronom per a «a tu» i «això»"
+    answers: ["t'ho"]
+    wrong_answers:
+      - text: "te'l"
+        why: "*Te'l* és per a un nom masculí. «Això» és una idea: *t'ho*."
+      - text: "te ho"
+        why: "*Te* i *ho* es combinen en *t'ho*. *Te ho* no existeix."
+    grading: tolerant
+    explanation: "«A tu» + «això» donen *t'ho*: *t'ho explico*."
+
+  - id: b1-17-017
+    type: fill
+    point: li-cd
+    lesson: 2
+    prompt: "—Has dit a en Jordi que vindràs? —Sí, ___ he dit per missatge."
+    hint: "pronom per a «a en Jordi» i «això»"
+    answers: ["li ho"]
+    wrong_answers:
+      - text: "l'hi"
+        why: "*L'hi* porta *el*, per a un nom masculí. «Que vindràs» és una idea: *li ho*."
+      - text: "se lo"
+        why: "*Se lo* és un calc del castellà «se lo». En català: *li ho*."
+    grading: tolerant
+    explanation: "«A en Jordi» és *li* i «que vindràs» és una idea (*ho*): *li ho he dit*."
+
+  - id: b1-17-018
+    type: fill
+    point: li-cd
+    lesson: 2
+    prompt: "—Heu ensenyat les fotos a l'àvia? —Sí, ___ hem ensenyat totes."
+    hint: "pronom per a «a l'àvia» i «les fotos»"
+    answers: ["les hi"]
+    wrong_answers:
+      - text: "els hi"
+        why: "*Els hi* és per a un nom masculí plural. «Les fotos» és femení: *les hi*."
+      - text: "se les"
+        why: "«A l'àvia» és *li*, no *es*: *li* + *les* donen *les hi*."
+    grading: tolerant
+    explanation: "«A l'àvia» és *li* i «les fotos» és *les*: *les hi hem ensenyat*."
+
+  - id: b1-17-019
+    type: order
+    point: combinacions-ordre
+    lesson: 2
+    cue: "Explica que el lampista us mostrarà demà l'endoll espatllat."
+    chunks: ["el lampista", "us el", "mostrarà", "demà"]
+    extra: ["els el"]
+    answers:
+      - "El lampista us el mostrarà demà."
+      - "Demà el lampista us el mostrarà."
+    explanation: "«A vosaltres» + «l'endoll» donen *us el*, davant del verb: *us el mostrarà*."
+
+  - id: b1-17-020
+    type: order
+    point: li-cd
+    lesson: 2
+    cue: "Digues que ahir vas dir a la Montse que la reunió era a les nou."
+    chunks: ["ahir", "li ho", "vaig", "dir"]
+    extra: ["l'hi"]
+    answers:
+      - "Ahir li ho vaig dir."
+      - "Li ho vaig dir ahir."
+    explanation: "«A la Montse» + «això» donen *li ho*: *li ho vaig dir*."
+
+  - id: b1-17-021
+    type: choice
+    point: combinacions-ordre
+    lesson: 2
+    prompt: "A nosaltres, l'electricista ___ dirà demà si pot venir."
+    answer: "ens ho"
+    distractors:
+      - text: "ens el"
+        why: "*Ens el* és per a un nom masculí. «Si pot venir» és una idea: *ens ho*."
+      - text: "us ho"
+        why: "*Us ho* vol dir «a vosaltres». La frase parla d'«a nosaltres»: *ens ho*."
+    explanation: "«A nosaltres» + «això» donen *ens ho*: *ens ho dirà*."
+
+  - id: b1-17-022
+    type: choice
+    point: combinacions-ordre
+    lesson: 2
+    prompt: "La Núria es mira el rebut i ___ guarda a la bossa."
+    answer: "se'l"
+    distractors:
+      - text: "es el"
+        why: "*Es* i *el* es combinen en *se'l*. *Es el* no existeix."
+      - text: "l'hi"
+        why: "*L'hi* porta *li* (a ell o a ella). El verb és pronominal (*es mira...*): *se'l*."
+    explanation: "El verb és pronominal (*es mira...*): «es» + «el rebut» donen *se'l*."
+
+  - id: b1-17-023
+    type: choice
+    point: li-cd
+    lesson: 2
+    prompt: "—Li has donat els documents al gestor? —Sí, ___ he donat avui."
+    answer: "els hi"
+    distractors:
+      - text: "se'ls"
+        why: "*Se'ls* porta *es*, no *li*. «Al gestor» és *li*, i *li* + *els* donen *els hi*."
+      - text: "les hi"
+        why: "*Les hi* és femení. «Els documents» és masculí: *els hi*."
+    explanation: "«Al gestor» és *li* i «els documents» és *els*: *els hi he donat*."
+
+  - id: b1-17-024
+    type: choice
+    point: li-cd
+    lesson: 2
+    prompt: "—I a la Laia, li has dit l'hora? —No, encara no ___ he dit."
+    answer: "la hi"
+    distractors:
+      - text: "li ho"
+        why: "*Li ho* seria per a una idea («això»). «L'hora» és un nom femení: *la hi*."
+      - text: "se la"
+        why: "«A la Laia» és *li*, no *es*: *li* + *la* donen *la hi*."
+    explanation: "«A la Laia» és *li* i «l'hora» és *la*: *la hi he dit*."
+
+  - id: b1-17-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «Em pots fer un favor»?"
+    answer: "Em pots ajudar en una cosa."
+    distractors:
+      - text: "Em pots deixar diners."
+        why: "*Fer un favor* és ajudar en general, no només amb diners."
+      - text: "Em pots fer companyia."
+        why: "*Fer companyia* és estar amb algú. *Fer un favor* és fer una cosa per ajudar-lo."
+    explanation: "*Fer un favor* vol dir fer una cosa per ajudar algú."
+
+  - id: b1-17-026
+    type: inline-choice
+    point: li-cd
+    lesson: 2
+    title: "Missatges amb la Núria"
+    text: "—Núria, li has deixat el paraigua a en Quim? —Sí, {l'hi|la hi|li ho} he deixat aquest matí. I els guants? —També {els hi|les hi|se'ls} he deixat. I li has dit que plourà? —És clar que {li ho|l'hi|la hi} he dit!"
+    explanation: "*L'hi* (li + el paraigua), *els hi* (li + els guants) i *li ho* (li + això)."
+
+  - id: b1-17-027
+    type: transform
+    point: combinacions-ordre
+    lesson: 2
+    instruction: "Substitueix la part marcada per pronoms."
+    source: "La Laia es quedarà [[la bicicleta]] del seu germà."
+    answers: ["La Laia se la quedarà del seu germà."]
+    wrong_answers:
+      - text: "La Laia es la quedarà del seu germà."
+        why: "*Es* i *la* es combinen en *se la*: *se la quedarà*."
+      - text: "La Laia se'l quedarà del seu germà."
+        why: "*Se'l* és masculí. «La bicicleta» és femenina: *se la*."
+    grading: tolerant
+    explanation: "«Es» + «la bicicleta» donen *se la*: *se la quedarà*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-17-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Tinc el rebut per a la Núria. Quan la veus, se lo dones."
+    error: "se lo dones"
+    fix: "l'hi dones"
+    fix_distractors:
+      - text: "li ho dones"
+        why: "*Li ho* és per a una idea («això»). «El rebut» és masculí: *l'hi*."
+      - text: "se la dones"
+        why: "A més de ser femení, *se la* tampoc no és la forma: *li* + *el* donen *l'hi*."
+    explanation: "*Se lo* és un calc del castellà «se lo». *Li* (a la Núria) + *el* (el rebut) donen *l'hi*."
+
+  - id: b1-17-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Que tanquen el taller a les sis, a en Pau encara no se lo he dit."
+    error: "se lo he dit"
+    fix: "li ho he dit"
+    fix_distractors:
+      - text: "l'hi he dit"
+        why: "*L'hi* porta *el*, per a un nom masculí. «Que tanquen...» és una idea: *li ho*."
+      - text: "ho li he dit"
+        why: "*Li* va primer: *li ho*. *Ho li* no existeix."
+    explanation: "«Que tanquen el taller» és una idea (*ho*), i «a en Pau» és *li*: *li ho he dit*. *Se lo* és un calc."
+
+  - id: b1-17-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si veus en Jordi, l'hi dones, si us plau: és el carregador que em va deixar."
+    no_error: true
+    explanation: "La frase és correcta: *l'hi* és *li* (a en Jordi) + *el* (el carregador)."
+
+  - id: b1-17-031
+    type: find-error
+    point: en-hi
+    lesson: 3
+    sentence: "—Hi ha tornavisos al calaix? —Sí, hi ha tres."
+    error: "hi ha tres"
+    fix: "n'hi ha tres"
+    fix_distractors:
+      - text: "en hi ha tres"
+        why: "*En* i *hi* es combinen en *n'hi*: *en hi* no existeix."
+      - text: "els hi ha tres"
+        why: "*Els* no serveix per a un nom amb quantitat; cal *en* i, amb *hi*, *n'hi*."
+    explanation: "*Hi ha* sol no substitueix *tornavisos*. Amb *en* + *hi* escrivim *n'hi ha tres*."
+
+  - id: b1-17-032
+    type: find-error
+    point: en-hi
+    lesson: 3
+    sentence: "—Queden claus angleses al magatzem? —Sí, n'hi queden dues."
+    no_error: true
+    explanation: "La frase és correcta: *n'hi queden dues* porta *en* (claus) + *hi* (al magatzem)."
+
+  - id: b1-17-033
+    type: fill
+    point: en-hi
+    lesson: 3
+    prompt: "—On poses els rebuts? —___ poso al calaix de dalt."
+    hint: "pronom per a «els rebuts» i «al calaix»: *en* + *hi*"
+    answers: ["N'hi"]
+    wrong_answers:
+      - text: "Hi"
+        why: "Sense *en*, no hi ha pronom per a *els rebuts*: cal *n'hi*."
+      - text: "En hi"
+        why: "*En* i *hi* es combinen en *n'hi*. *En hi* no existeix."
+    grading: tolerant
+    explanation: "«Els rebuts» és *en* i «al calaix» és *hi*: *n'hi poso*."
+
+  - id: b1-17-034
+    type: fill
+    point: en-hi
+    lesson: 3
+    prompt: "—Quants llibres tornes a la biblioteca? —___ torno tres."
+    hint: "*en* + *hi*: «llibres» i «a la biblioteca»"
+    answers: ["N'hi"]
+    wrong_answers:
+      - text: "Hi"
+        why: "Sense *en*, no hi ha pronom per a *llibres*: cal *n'hi*."
+      - text: "Els hi"
+        why: "*Els hi* porta *li* o *els* (persones). Aquí hi ha *en* (llibres) + *hi* (biblioteca): *n'hi*."
+    grading: tolerant
+    explanation: "«Llibres» és *en* i «a la biblioteca» és *hi*: *n'hi torno tres*."
+
+  - id: b1-17-035
+    type: fill
+    point: posicio-infinitiu-imperatiu
+    lesson: 3
+    prompt: "—Em deixes el paraigua? —I tant, ___!"
+    hint: "imperatiu de *emportar-se* + *el paraigua*"
+    answers: ["emporta-te'l"]
+    wrong_answers:
+      - text: "emporta't el"
+        why: "Darrere l'imperatiu els pronoms van junts amb guionets: *emporta-te'l*."
+      - text: "emporta-te-lo"
+        why: "*El* darrere de *te* s'apostrofa: *te'l*. *Te-lo* no existeix."
+    grading: tolerant
+    explanation: "Imperatiu + *te* + *el paraigua*: *emporta-te'l*."
+
+  - id: b1-17-036
+    type: fill
+    point: posicio-infinitiu-imperatiu
+    lesson: 3
+    prompt: "Si ja no fas servir el tornavís, ___."
+    hint: "imperatiu de *tornar* + *me* + *el tornavís*"
+    answers: ["torna-me'l"]
+    wrong_answers:
+      - text: "torna'm el"
+        why: "Amb el pronom *el*, no es pot separar: darrere l'imperatiu va junt: *torna-me'l*."
+      - text: "torna-me-lo"
+        why: "*Me-lo* no existeix: *me* + *el* donen *me'l*."
+    grading: tolerant
+    explanation: "Imperatiu + *me* (a mi) + *el* (el tornavís): *torna-me'l*."
+
+  - id: b1-17-037
+    type: choice
+    point: en-hi
+    lesson: 3
+    prompt: "—Hi ha martells al magatzem? —Sí, ___."
+    answer: "n'hi ha"
+    distractors:
+      - text: "hi ha"
+        why: "Sense *en* no hi ha pronom per a *martells*: cal *n'hi ha*."
+      - text: "en hi ha"
+        why: "*En* i *hi* es combinen en *n'hi*: *en hi* no existeix."
+    explanation: "«Martells» és *en* i «al magatzem» és *hi*: *n'hi ha*."
+
+  - id: b1-17-038
+    type: choice
+    point: posicio-infinitiu-imperatiu
+    lesson: 3
+    prompt: "La Laia vol el tornavís. Què li dius?"
+    answer: "Emporta-te'l!"
+    distractors:
+      - text: "T'el emporta!"
+        why: "*T'el* no existeix, i amb l'imperatiu afirmatiu els pronoms van darrere: *emporta-te'l*."
+      - text: "T'ho emporta!"
+        why: "*Ho* és per a una idea. «El tornavís» és masculí: *te'l*, i darrere l'imperatiu: *emporta-te'l*."
+    explanation: "Amb l'imperatiu afirmatiu, els pronoms van darrere: *emporta-te'l* (te + el tornavís)."
+
+  - id: b1-17-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "—Encara no has donat el paquet a la veïna? —No, però ___."
+    answer: "l'hi donaré demà"
+    distractors:
+      - text: "se lo donaré demà"
+        why: "*Se lo* és un calc del castellà «se lo». En català: *l'hi*."
+      - text: "li el donaré demà"
+        why: "*Li* i *el* no van separats: *l'hi*. *Li el* no existeix."
+    explanation: "*Li* (a la veïna) + *el* (el paquet) donen *l'hi*: *l'hi donaré*."
+
+  - id: b1-17-040
+    type: order
+    point: en-hi
+    lesson: 3
+    cue: "Digues que poses dos rebuts al calaix de dalt."
+    chunks: ["n'hi", "poso", "dos", "al calaix de dalt"]
+    extra: ["hi"]
+    answers:
+      - "N'hi poso dos al calaix de dalt."
+      - "Al calaix de dalt n'hi poso dos."
+    explanation: "*En* (rebuts) + *hi* (al calaix) donen *n'hi*: *n'hi poso dos*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-17-041
+    type: transform
+    point: combinacions-ordre
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "El lampista portarà [[els rebuts]] [[a nosaltres]] demà."
+    answers:
+      - "El lampista ens els portarà demà."
+      - "Demà el lampista ens els portarà."
+    wrong_answers:
+      - text: "El lampista ens les portarà demà."
+        why: "*Ens les* és femení. «Els rebuts» és masculí: *ens els*."
+      - text: "El lampista els ens portarà demà."
+        why: "L'indirecte (*ens*) va primer: *ens els*. *Els ens* no existeix."
+    grading: tolerant
+    explanation: "«A nosaltres» és *ens* i «els rebuts» és *els*: *ens els portarà*."
+
+  - id: b1-17-042
+    type: transform
+    point: combinacions-ordre
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "No diguis [[això]] [[a mi]]."
+    answers: ["No m'ho diguis."]
+    wrong_answers:
+      - text: "No me'l diguis."
+        why: "*Me'l* és per a un nom masculí. «Això» és una idea: *m'ho*."
+      - text: "No digues-me-ho."
+        why: "Amb l'imperatiu negatiu el verb és *diguis* i els pronoms van davant: *no m'ho diguis*."
+    grading: tolerant
+    explanation: "«A mi» + «això» donen *m'ho*. Amb la negació, davant del verb: *no m'ho diguis*."
+
+  - id: b1-17-043
+    type: transform
+    point: li-cd
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "Explica [[l'horari]] [[a la clienta]], si us plau."
+    answers:
+      - "Explica-l'hi, si us plau."
+      - "Si us plau, explica-l'hi."
+    wrong_answers:
+      - text: "Explica-li-ho, si us plau."
+        why: "*Li ho* és per a una idea. «L'horari» és masculí: *explica-l'hi*."
+      - text: "Explica-se-lo, si us plau."
+        why: "*Se lo* és un calc del castellà. En català: *explica-l'hi*."
+    grading: tolerant
+    explanation: "«A la clienta» + «l'horari» donen *l'hi*. Darrere l'imperatiu: *explica-l'hi*."
+
+  - id: b1-17-044
+    type: transform
+    point: li-cd
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms. Hi ha dues respostes possibles."
+    source: "Has d'explicar [[la norma]] [[a l'Ibrahim]]."
+    answers:
+      - "La hi has d'explicar."
+      - "Has d'explicar-la-hi."
+    wrong_answers:
+      - text: "L'hi has d'explicar."
+        why: "*L'hi* és masculí. «La norma» és femenina: *la hi*."
+      - text: "Has d'explicar-se-la."
+        why: "«A l'Ibrahim» és *li*, no *es*: *li* + *la* donen *la hi*."
+    grading: tolerant
+    explanation: "«A l'Ibrahim» + «la norma» donen *la hi* davant del verb i *explicar-la-hi* darrere l'infinitiu."
+
+  - id: b1-17-045
+    type: transform
+    point: posicio-infinitiu-imperatiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per pronoms. Hi ha dues respostes possibles."
+    source: "En Pau vol emportar-se [[el paraigua]]."
+    answers:
+      - "En Pau se'l vol emportar."
+      - "En Pau vol emportar-se'l."
+    wrong_answers:
+      - text: "En Pau es el vol emportar."
+        why: "*Es* i *el* es combinen en *se'l*: *se'l vol emportar*."
+      - text: "En Pau vol emportar-se-lo."
+        why: "*Se-lo* no existeix: *se* + *el* donen *se'l*, també darrere l'infinitiu."
+    grading: tolerant
+    explanation: "«Es» + «el paraigua» donen *se'l* davant del verb i *emportar-se'l* darrere l'infinitiu."
+
+  - id: b1-17-046
+    type: transform
+    point: posicio-infinitiu-imperatiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per pronoms. Hi ha més d'una resposta possible."
+    source: "Demà et puc tornar [[el llibre]]."
+    answers:
+      - "Demà te'l puc tornar."
+      - "Te'l puc tornar demà."
+      - "Demà puc tornar-te'l."
+      - "Puc tornar-te'l demà."
+    wrong_answers:
+      - text: "Demà et el puc tornar."
+        why: "*Et* i *el* es combinen en *te'l*: *demà te'l puc tornar*."
+      - text: "Demà puc tornar-te-lo."
+        why: "*Te-lo* no existeix: *te* + *el* donen *te'l*."
+    grading: tolerant
+    explanation: "«Et» + «el llibre» donen *te'l* davant del verb i *tornar-te'l* darrere l'infinitiu."
+
+  - id: b1-17-047
+    type: transform
+    point: en-hi
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "El lampista portarà dues [[claus]] [[al taller]]."
+    answers: ["El lampista n'hi portarà dues."]
+    wrong_answers:
+      - text: "El lampista hi portarà dues."
+        why: "Sense *en* no hi ha pronom per a *claus*: cal *n'hi*."
+      - text: "El lampista en hi portarà dues."
+        why: "*En* i *hi* es combinen en *n'hi*. *En hi* no existeix."
+    grading: tolerant
+    explanation: "«Claus» és *en* i «al taller» és *hi*: *n'hi portarà dues*."
+
+  - id: b1-17-048
+    type: fill
+    point: posicio-infinitiu-imperatiu
+    lesson: 4
+    prompt: "—No em cal el paraigua. —Doncs ___, que plourà."
+    hint: "imperatiu de *quedar-se* + *el paraigua*"
+    answers: ["queda-te'l"]
+    wrong_answers:
+      - text: "queda't el"
+        why: "Darrere l'imperatiu els pronoms van junts: *queda-te'l*."
+      - text: "queda-te-lo"
+        why: "*Te-lo* no existeix: *te* + *el* donen *te'l*."
+    grading: tolerant
+    explanation: "Imperatiu + *te* + *el paraigua*: *queda-te'l*."
+
+  - id: b1-17-049
+    type: fill
+    point: posicio-infinitiu-imperatiu
+    lesson: 4
+    prompt: "Si saps quan tanquen, ___."
+    hint: "imperatiu de *dir* + *me* + *ho* (això)"
+    answers: ["digues-m'ho"]
+    wrong_answers:
+      - text: "digues-me-ho"
+        why: "*Me* i *ho* es combinen en *m'ho*: *digues-m'ho*. *Digues-me-ho* no existeix."
+      - text: "digues-me'l"
+        why: "*Me'l* és per a un nom masculí. «Quan tanquen» és una idea: *digues-m'ho*."
+    grading: tolerant
+    explanation: "«A mi» + «això» donen *m'ho*. Darrere l'imperatiu: *digues-m'ho*."
+
+  - id: b1-17-050
+    type: fill
+    point: li-cd
+    lesson: 4
+    prompt: "—A qui dono el rebut, al client? —Sí, ___ pots donar ara."
+    hint: "pronom per a «al client» i «el rebut»"
+    answers: ["l'hi"]
+    wrong_answers:
+      - text: "se lo"
+        why: "*Se lo* és un calc del castellà. En català: *l'hi*."
+      - text: "li ho"
+        why: "*Li ho* és per a una idea. «El rebut» és masculí: *l'hi*."
+    grading: tolerant
+    explanation: "«Al client» és *li* i «el rebut» és *el*: *l'hi pots donar*."
+
+  - id: b1-17-051
+    type: order
+    point: posicio-infinitiu-imperatiu
+    lesson: 4
+    cue: "Digues a en Pau que doni el paquet a la veïna demà al matí."
+    chunks: ["si us plau", "dona-l'hi", "demà", "al matí"]
+    extra: ["dona-li-ho"]
+    answers:
+      - "Si us plau, dona-l'hi demà al matí."
+      - "Dona-l'hi demà al matí, si us plau."
+      - "Dona-l'hi, si us plau, demà al matí."
+    explanation: "«A la veïna» + «el paquet» donen *l'hi*. Darrere l'imperatiu: *dona-l'hi*."
+
+  - id: b1-17-052
+    type: order
+    point: combinacions-ordre
+    lesson: 4
+    cue: "Digues a un company que li deixaràs les eines demà."
+    chunks: ["te", "les", "deixaré", "demà"]
+    extra: ["els"]
+    answers:
+      - "Te les deixaré demà."
+      - "Demà te les deixaré."
+    explanation: "L'indirecte (*te*) va davant del directe (*les*): *te les deixaré*."
+
+  - id: b1-17-053
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "La Núria sempre deixa la bicicleta al replà. El veí diu: «Si ___, truco a l'administrador.»"
+    answer: "s'hi torna"
+    distractors:
+      - text: "s'ho torna"
+        why: "*S'ho* és *es* + *ho* (això). L'expressió és *tornar-s'hi*: *s'hi torna*."
+      - text: "es torna"
+        why: "Sense *hi* no és l'expressió: *tornar-s'hi* vol dir repetir una acció: *s'hi torna*."
+    explanation: "*Tornar-s'hi* vol dir repetir una acció (que molesta): *si s'hi torna...*."
+
+  - id: b1-17-054
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "—Deixa't estar i vine a ajudar-me! Què vol dir «deixa't estar»?"
+    answer: "Para de fer el que fas."
+    distractors:
+      - text: "Seu i descansa."
+        why: "*Deixa't estar* no vol dir seure: vol dir parar de fer el que fas."
+      - text: "Deixa les coses on són."
+        why: "Això seria *deixa-ho estar*. *Deixa't estar* vol dir que paris."
+    explanation: "*Deixar-se estar* vol dir parar de fer el que fas: *deixa't estar i vine*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-17-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—El teu germà t'ajuda amb la mudança? —No, no ___."
+    answer: "em dona cap cop de mà"
+    distractors:
+      - text: "em dona la mà quan arriba"
+        why: "*Donar la mà* és saludar. Per ajudar en una feina: *donar un cop de mà*."
+      - text: "em fa la mà sense ganes"
+        why: "*Em fa la mà* no és l'expressió: és *donar un cop de mà*."
+    explanation: "*Donar un cop de mà* vol dir ajudar en una feina: *no em dona cap cop de mà*."
+
+  - id: b1-17-056
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «En Quim s'hi ha tornat»?"
+    answer: "Que ha repetit una acció que molesta."
+    distractors:
+      - text: "Que ha tornat a casa seva."
+        why: "*Tornar a casa* és tornar a un lloc. *Tornar-s'hi* és repetir una acció."
+      - text: "Que s'ha girat de sobte."
+        why: "*Girar-se* és canviar de direcció. *Tornar-s'hi* és repetir una acció."
+    explanation: "*Tornar-s'hi* vol dir repetir una acció, sovint que molesta: *s'hi ha tornat*."
+
+  - id: b1-17-057
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "—Ja has dit a la Laia que plourà? —Sí, ___."
+    answer: "li ho he dit"
+    distractors:
+      - text: "se lo he dit"
+        why: "*Se lo* és un calc del castellà «se lo». En català: *li ho*."
+      - text: "l'hi he dit"
+        why: "*L'hi* és per a un nom masculí. «Que plourà» és una idea: *li ho*."
+    explanation: "«A la Laia» és *li* i «que plourà» és *ho*: *li ho he dit*."
+
+  - id: b1-17-058
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Si vols el rebut, se lo demanes al lampista."
+    error: "se lo demanes"
+    fix: "l'hi demanes"
+    fix_distractors:
+      - text: "li ho demanes"
+        why: "*Li ho* és per a una idea. «El rebut» és masculí: *l'hi*."
+      - text: "te lo demanes"
+        why: "*Te lo* no existeix. A més, «al lampista» és *li*: *l'hi demanes*."
+    explanation: "*Se lo* és un calc del castellà. *Li* (al lampista) + *el* (el rebut) donen *l'hi*."
+
+  - id: b1-17-059
+    type: find-error
+    point: combinacions-ordre
+    lesson: 5
+    sentence: "Si em deixes el carregador, te'l torno demà al matí."
+    no_error: true
+    explanation: "La frase és correcta: *te'l* és *te* (a tu) + *el* (el carregador)."
+
+  - id: b1-17-060
+    type: find-error
+    point: en-hi
+    lesson: 5
+    sentence: "—Quants encàrrecs portes al magatzem? —Hi porto quatre."
+    error: "Hi porto quatre"
+    fix: "N'hi porto quatre"
+    fix_distractors:
+      - text: "En hi porto quatre"
+        why: "*En* i *hi* es combinen en *n'hi*. *En hi* no existeix."
+      - text: "Els porto quatre"
+        why: "*Els porto quatre* no és correcte: amb una quantitat el pronom és *en*, i amb *hi* (al magatzem): *n'hi*."
+    explanation: "«Encàrrecs» és *en* i «al magatzem» és *hi*: *n'hi porto quatre*."
+
+  - id: b1-17-061
+    type: transform
+    point: li-cd
+    lesson: 5
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "No donis [[les claus]] [[a ningú]]."
+    answers: ["No les hi donis."]
+    wrong_answers:
+      - text: "No se les donis."
+        why: "«A ningú» és *li*, no *es*: *li* + *les* donen *les hi*."
+      - text: "No els hi donis."
+        why: "*Els hi* és masculí. «Les claus» és femení: *les hi*."
+    grading: tolerant
+    explanation: "«A ningú» és *li* i «les claus» és *les*: *les hi*. En negatiu, davant del verb: *no les hi donis*."
+
+  - id: b1-17-062
+    type: fill
+    point: combinacions-ordre
+    lesson: 5
+    prompt: "—Tu ja tens el rebut? —No, però confio en l'electricista: ___ porta demà."
+    hint: "pronom per a «a mi» i «el rebut»"
+    answers: ["me'l"]
+    wrong_answers:
+      - text: "m'ho"
+        why: "*M'ho* és per a una idea. «El rebut» és masculí: *me'l*."
+      - text: "el me"
+        why: "L'indirecte (*me*) va primer: *me'l*. *El me* no existeix."
+    grading: tolerant
+    explanation: "«A mi» és *me* i «el rebut» és *el*: *me'l porta*."
+
+  - id: b1-17-063
+    type: order
+    point: li-cd
+    lesson: 5
+    cue: "Digues que ahir vas tornar la fiança a la Fàtima."
+    chunks: ["ahir", "la hi", "vaig", "tornar"]
+    extra: ["li ho"]
+    answers:
+      - "Ahir la hi vaig tornar."
+      - "La hi vaig tornar ahir."
+    explanation: "«A la Fàtima» + «la fiança» donen *la hi*: *la hi vaig tornar*."
+
+  - id: b1-17-064
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["fer un favor", "fer una cosa per ajudar algú"]
+      - ["donar un cop de mà", "ajudar en una feina"]
+      - ["deixar-se estar", "parar de fer el que fas"]
+      - ["tornar-s'hi", "repetir una acció que molesta"]
+    explanation: "Són expressions per parlar de favors i d'accions que es repeteixen."
+
+  - id: b1-17-065
+    type: match
+    point: li-cd
+    lesson: 5
+    instruction: "Relaciona cada parella de complements amb la combinació."
+    pairs:
+      - ["a la Laia + el llibre", "l'hi"]
+      - ["a en Pau + la clau", "la hi"]
+      - ["al veí + això", "li ho"]
+      - ["a la Núria + els paquets", "els hi"]
+      - ["a en Jordi + les claus", "les hi"]
+    explanation: "*Li* + *el/la/els/les/ho* donen *l'hi*, *la hi*, *els hi*, *les hi*, *li ho*."
+
+  - id: b1-17-066
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La caixa d'eines del replà"
+    text: |
+      Al replà de la Laia hi ha una caixa d'eines de tots els veïns. La idea va ser de l'Ibrahim: un préstec d'eines entre veïns. Cada família hi posa les eines que no fa servir cada dia, i tothom les pot agafar quan en necessita una. A la caixa hi ha de tot: martells, tornavisos, una escala de mà i fins i tot un trepant.
+
+      La setmana passada, la Laia va penjar tres prestatges amb el trepant de la caixa. Quan va acabar, el va netejar i el va tornar al seu lloc. «Si el tornes net, el pròxim el troba a punt», li va dir l'Ibrahim.
+
+      En Pau, en canvi, s'hi ha tornat: es va emportar l'escala de mà per pintar el menjador i encara no la hi ha tornat. La Laia li ha enviat dos missatges, però ell diu que encara no la hi pot tornar perquè no ha acabat.
+
+      Ahir, la Fàtima va demanar el trepant per penjar una prestatgeria. La Laia li ho va explicar tot: que el trepant hi era, però que l'escala no. «Deixa't estar i truca a en Pau», li va dir la Fàtima rient.
+
+      Al final, en Pau va tornar l'escala al vespre i es va disculpar. Avui la caixa torna a ser plena.
+    questions:
+      - prompt: "Què és la caixa d'eines del replà?"
+        answer: "Unes eines compartides entre els veïns."
+        distractors:
+          - text: "La caixa on en Pau guarda les seves eines."
+            why: "La caixa és de tots; en Pau només hi torna l'escala."
+          - text: "Les eines personals de la Laia."
+            why: "La caixa és al seu replà, però les eines són de tots els veïns."
+      - prompt: "Què va fer la Laia amb el trepant?"
+        answer: "Va penjar prestatges i el va tornar net."
+        distractors:
+          - text: "Va penjar una prestatgeria per a la Fàtima."
+            why: "La prestatgeria la vol penjar la Fàtima, no la Laia."
+          - text: "Es va emportar l'escala per pintar."
+            why: "L'escala se la va emportar en Pau, no la Laia."
+      - prompt: "Per què es queixa la Laia d'en Pau?"
+        answer: "Perquè encara no ha tornat l'escala."
+        distractors:
+          - text: "Perquè ha trencat el trepant."
+            why: "El trepant funciona: la Laia l'acaba de fer servir."
+          - text: "Perquè no ha netejat l'escala."
+            why: "La Laia no li demana que la netegi: vol que la torni."
+      - prompt: "Com acaba la història?"
+        answer: "En Pau torna l'escala i es disculpa."
+        distractors:
+          - text: "La Fàtima truca a en Pau."
+            why: "La Fàtima ho proposa, però el text no diu que ho faci."
+          - text: "En Pau penja la prestatgeria de la Fàtima."
+            why: "La prestatgeria és un pla de la Fàtima; en Pau només torna l'escala."
+    explanation: "El text explica com funciona la caixa d'eines compartida i què passa quan en Pau no torna l'escala."

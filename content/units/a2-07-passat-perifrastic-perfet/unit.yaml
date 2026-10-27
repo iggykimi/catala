@@ -1,0 +1,1061 @@
+id: a2-07
+level: A2
+title: "El passat perifràstic i el perfet"
+summary: "El passat perifràstic (*vaig anar*), el perfet (*he anat*), els participis irregulars i quan es fa servir cada temps."
+vocabulary_theme: "Viatges i transports"
+points:
+  - id: passat-perifrastic
+    title: "El passat perifràstic"
+    refs:
+      - label: "GEIEC: El passat perifràstic"
+        url: "https://geiec.iec.cat"
+  - id: perfet
+    title: "El perfet"
+    refs:
+      - label: "GEIEC: El perfet"
+        url: "https://geiec.iec.cat"
+  - id: participis-irregulars
+    title: "Participis irregulars"
+    refs:
+      - label: "GEIEC: El participi"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *vaig anar* i *vaig a anar*"
+  - id: expressions
+    title: "Expressions de viatge"
+lessons:
+  - title: "El passat perifràstic i el perfet"
+  - title: "Practicar els dos passats"
+  - title: "Participis irregulars i el calc"
+  - title: "Produir frases en passat"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el viatge"
+    definition: "Sortida llarga per anar a un altre lloc."
+    example: "El viatge a Galícia dura vuit hores en cotxe."
+  - word: "viatjar"
+    definition: "Fer un viatge, anar a un altre lloc."
+    example: "Viatjo molt per feina: cada mes agafo l'avió."
+  - word: "el bitllet"
+    definition: "Paper o missatge que et deixa pujar al tren o a l'avió."
+    example: "He comprat dos bitllets per a divendres."
+  - word: "el tren"
+    definition: "Transport que va per la via, amb vagons."
+    example: "El tren de les vuit sempre va ple."
+  - word: "l'avió"
+    definition: "Transport que vola pel cel."
+    example: "L'avió surt a les set del matí."
+  - word: "l'autobús"
+    definition: "Cotxe gran que porta molta gent per la ciutat o per carretera."
+    example: "L'autobús de les nou passa per casa meva."
+  - word: "el metro"
+    definition: "Tren que va per sota de la ciutat."
+    example: "Per anar a la feina agafo el metro."
+  - word: "el taxi"
+    definition: "Cotxe amb conductor que et porta on vols."
+    example: "Com que plou, tornem en taxi."
+  - word: "el vaixell"
+    definition: "Transport gran que va pel mar."
+    example: "El vaixell a Mallorca surt al vespre."
+  - word: "la bicicleta"
+    definition: "Vehicle de dues rodes que va amb els peus."
+    example: "Vaig a la feina en bicicleta."
+  - word: "el cotxe"
+    definition: "Vehicle petit per a quatre o cinc persones."
+    example: "Hem llogat un cotxe per al cap de setmana."
+  - word: "l'estació"
+    definition: "Lloc on surten i arriben els trens i els autobusos."
+    example: "L'estació de Sants és molt gran."
+  - word: "l'aeroport"
+    definition: "Lloc on surten i arriben els avions."
+    example: "Cal ser a l'aeroport dues hores abans."
+  - word: "la parada"
+    definition: "Lloc on el bus s'atura per pujar i baixar."
+    example: "Baixo a la parada del mercat."
+  - word: "l'andana"
+    definition: "Costat de la via on la gent espera el tren."
+    example: "El tren surt de l'andana 3."
+  - word: "la maleta"
+    definition: "Caixa amb rodes per portar la roba de viatge."
+    example: "Aquest matí he fet la maleta."
+  - word: "la motxilla"
+    definition: "Bossa que es porta a l'esquena."
+    example: "Porto el dinar a la motxilla."
+  - word: "el passaport"
+    definition: "Document per viatjar a un altre país."
+    example: "No trobo el passaport: mira a la motxilla."
+  - word: "el seient"
+    definition: "Cadira del tren, de l'avió o del cotxe."
+    example: "El meu seient és al costat de la finestra."
+  - word: "el vol"
+    definition: "Viatge en avió, d'un lloc a un altre."
+    example: "El vol a Madrid dura una hora."
+  - word: "el retard"
+    definition: "Temps que un tren o un avió surt més tard del previst."
+    example: "El tren porta deu minuts de retard."
+  - word: "l'horari"
+    definition: "Hora de sortida i d'arribada dels trens o dels avions."
+    example: "Mira l'horari: potser hi ha un tren més tard."
+  - word: "el mapa"
+    definition: "Dibuix d'una ciutat o d'un país per no perdre's."
+    example: "Amb el mapa del mòbil no ens perdem."
+  - word: "l'hotel"
+    definition: "Lloc on pots dormir quan viatges."
+    example: "L'hotel és a prop de l'estació."
+  - word: "la reserva"
+    definition: "Plaça guardada abans d'arribar: a l'hotel, al tren, al restaurant."
+    example: "He fet la reserva per internet."
+  - word: "el turista, la turista"
+    definition: "Persona que visita un lloc per plaer."
+    example: "A l'estiu hi ha molts turistes a la platja."
+  - word: "el passatger, la passatgera"
+    definition: "Persona que viatja en un tren, un avió o un vaixell."
+    example: "Els passatgers ja pugen a l'avió."
+  - word: "el conductor, la conductora"
+    definition: "Persona que porta un cotxe, un autobús o un tren."
+    example: "La conductora ens ha dit on cal baixar."
+  - word: "agafar"
+    definition: "Pujar a un transport per fer-lo servir."
+    example: "Cada dia agafo el metro a les vuit."
+  - word: "perdre"
+    definition: "No arribar a temps a un tren o a un avió."
+    example: "Corre, que perdem el tren!"
+  - word: "pujar"
+    definition: "Entrar en un tren, un avió o un cotxe."
+    example: "Pugem al tren: surt d'aquí a cinc minuts."
+  - word: "baixar"
+    definition: "Sortir d'un tren, un avió o un cotxe."
+    example: "Baixem a la parada següent."
+  - word: "arribar"
+    definition: "Ser ja al lloc on vas."
+    example: "El tren arriba a les nou en punt."
+  - word: "tornar"
+    definition: "Anar una altra vegada al lloc d'on has sortit."
+    example: "Diumenge tornem a casa."
+  - word: "sortir"
+    definition: "Començar un viatge o marxar d'un lloc."
+    example: "El tren surt de l'andana 2."
+  - word: "visitar"
+    definition: "Anar a veure un lloc o una persona."
+    example: "Demà visitem el museu amb els nens."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-07-001
+    type: choice
+    point: passat-perifrastic
+    lesson: 1
+    prompt: "Ahir la Núria ___ a Girona en tren."
+    answer: "va anar"
+    distractors:
+      - text: "van anar"
+        why: "*Van* és per a «ells». «La Núria» és «ella»: *va anar*."
+      - text: "vam anar"
+        why: "*Vam* és per a «nosaltres». «La Núria» és «ella»: *va anar*."
+    explanation: "«La Núria» és «ella»: el perifràstic fa *va* + infinitiu: *va anar*."
+
+  - id: a2-07-002
+    type: choice
+    point: passat-perifrastic
+    lesson: 1
+    prompt: "La setmana passada nosaltres ___ el museu de Figueres."
+    answer: "vam visitar"
+    distractors:
+      - text: "van visitar"
+        why: "*Van* és per a «ells». Amb «nosaltres»: *vam visitar*."
+      - text: "vau visitar"
+        why: "*Vau* és per a «vosaltres». Amb «nosaltres»: *vam visitar*."
+    explanation: "Amb «nosaltres», el perifràstic fa *vam* + infinitiu: *vam visitar*."
+
+  - id: a2-07-003
+    type: choice
+    point: passat-perifrastic
+    lesson: 1
+    prompt: "Ahir vosaltres ___ tard a l'estació, oi?"
+    answer: "vau arribar"
+    distractors:
+      - text: "vam arribar"
+        why: "*Vam* és per a «nosaltres». Amb «vosaltres»: *vau arribar*."
+      - text: "van arribar"
+        why: "*Van* és per a «ells». Amb «vosaltres»: *vau arribar*."
+    explanation: "Amb «vosaltres», el perifràstic fa *vau* + infinitiu: *vau arribar*."
+
+  - id: a2-07-004
+    type: choice
+    point: passat-perifrastic
+    lesson: 1
+    prompt: "Dilluns passat l'Ibrahim ___ el bitllet per internet."
+    answer: "va comprar"
+    distractors:
+      - text: "vas comprar"
+        why: "*Vas* és per a «tu». «L'Ibrahim» és «ell»: *va comprar*."
+      - text: "vam comprar"
+        why: "*Vam* és per a «nosaltres». «L'Ibrahim» és «ell»: *va comprar*."
+    explanation: "«L'Ibrahim» és «ell»: el perifràstic fa *va* + infinitiu: *va comprar*."
+
+  - id: a2-07-005
+    type: choice
+    point: perfet
+    lesson: 1
+    prompt: "—On és en Pau? —Aquest matí ___ el tren de les vuit."
+    answer: "ha agafat"
+    distractors:
+      - text: "han agafat"
+        why: "*Han* és per a «ells». «En Pau» és «ell»: *ha agafat*."
+      - text: "hem agafat"
+        why: "*Hem* és per a «nosaltres». «En Pau» és «ell»: *ha agafat*."
+    explanation: "«En Pau» és «ell»: el perfet fa *ha* + participi: *ha agafat*."
+
+  - id: a2-07-006
+    type: choice
+    point: perfet
+    lesson: 1
+    prompt: "—Ja heu dinat? —Sí, ___ a l'estació."
+    answer: "hem dinat"
+    distractors:
+      - text: "han dinat"
+        why: "Responen «nosaltres», no «ells»: *hem dinat*."
+      - text: "he dinat"
+        why: "Responen «nosaltres», no «jo»: *hem dinat*."
+    explanation: "Responen «nosaltres»: el perfet fa *hem* + participi: *hem dinat*."
+
+  - id: a2-07-007
+    type: choice
+    point: perfet
+    lesson: 1
+    prompt: "Aquesta setmana la Carla ___ dos viatges a Madrid."
+    answer: "ha fet"
+    distractors:
+      - text: "han fet"
+        why: "*Han* és per a «ells». «La Carla» és «ella»: *ha fet*."
+      - text: "hem fet"
+        why: "*Hem* és per a «nosaltres». «La Carla» és «ella»: *ha fet*."
+    explanation: "«La Carla» és «ella»: el perfet fa *ha* + participi: *ha fet*."
+
+  - id: a2-07-008
+    type: choice
+    point: perfet
+    lesson: 1
+    prompt: "Avui en Jordi i la Núria ___ en vaixell a Barcelona."
+    answer: "han arribat"
+    distractors:
+      - text: "hem arribat"
+        why: "*Hem* és per a «nosaltres». Aquí el subjecte és «ells»: *han arribat*."
+      - text: "ha arribat"
+        why: "*Ha* és singular. «En Jordi i la Núria» són dos: *han arribat*."
+    explanation: "«En Jordi i la Núria» és «ells»: *han* + participi: *han arribat*."
+
+  - id: a2-07-009
+    type: match
+    point: passat-perifrastic
+    lesson: 1
+    instruction: "Relaciona cada persona amb la forma del passat perifràstic."
+    pairs:
+      - ["jo", "vaig sortir"]
+      - ["tu", "vas sortir"]
+      - ["ella", "va sortir"]
+      - ["nosaltres", "vam sortir"]
+      - ["vosaltres", "vau sortir"]
+      - ["ells", "van sortir"]
+    explanation: "El perifràstic és *vaig, vas, va, vam, vau, van* + infinitiu."
+
+  - id: a2-07-010
+    type: match
+    point: perfet
+    lesson: 1
+    instruction: "Relaciona cada persona amb la forma del perfet."
+    pairs:
+      - ["jo", "he sortit"]
+      - ["tu", "has sortit"]
+      - ["ell", "ha sortit"]
+      - ["nosaltres", "hem sortit"]
+      - ["vosaltres", "heu sortit"]
+      - ["elles", "han sortit"]
+    explanation: "El perfet és *he, has, ha, hem, heu, han* + participi."
+
+  - id: a2-07-011
+    type: inline-choice
+    point: passat-perifrastic
+    lesson: 1
+    title: "Un dissabte a Tarragona"
+    text: "Dissabte passat la Carla i jo {vam|van|vau} anar a Tarragona amb els nens. Jo {vaig|vas|vam} conduir tot el camí. La Carla {va|van|vam} comprar les entrades del museu. Després {vam|van|vau} dinar tots junts al port i els nens {van|vam|va} jugar una estona a la platja."
+    explanation: "Amb «dissabte passat» fem servir el perifràstic: *vam anar*, *vaig conduir*, *va comprar*, *vam dinar*, *van jugar*."
+
+  - id: a2-07-012
+    type: inline-choice
+    point: perfet
+    lesson: 1
+    title: "Aquest matí a l'aeroport"
+    text: "Soc a l'aeroport. Són les vuit del matí i jo ja {he|has|ha} arribat. En Pau i jo {hem|han|heu} esmorzat al bar de la terminal. La Núria {ha|han|hem} comprat el diari. Els meus pares ja {han|hem|ha} pujat a l'avió. Jo encara no {he|ha|han} passat el control de seguretat. L'avió va ple de passatgers."
+    explanation: "Amb «aquest matí» fem servir el perfet: *he arribat*, *hem esmorzat*, *ha comprat*, *han pujat*, *he passat*."
+
+  - id: a2-07-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «perdre el tren»?"
+    answer: "No arribar a temps per pujar al tren."
+    distractors:
+      - text: "Anar molt de pressa per l'andana."
+        why: "Córrer per l'andana no és perdre el tren: és intentar no perdre'l."
+      - text: "Canviar de tren a mig viatge."
+        why: "Canviar de tren no és perdre'l: és continuar el viatge amb un altre tren."
+    explanation: "*Perdre el tren* vol dir no arribar a temps per pujar al tren."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-07-014
+    type: fill
+    point: passat-perifrastic
+    lesson: 2
+    prompt: "Ahir ___ a peu fins a l'estació."
+    hint: "*anar*, passat perifràstic, jo"
+    answers: ["vaig anar", "jo vaig anar"]
+    wrong_answers:
+      - text: "vas anar"
+        why: "*Vas* és per a «tu». Aquí el subjecte és «jo»: *vaig anar*."
+      - text: "he anat"
+        why: "Amb «ahir» fem servir el perifràstic, no el perfet: *vaig anar*."
+    grading: tolerant
+    explanation: "Amb «ahir» i el subjecte «jo»: *vaig anar*."
+
+  - id: a2-07-015
+    type: fill
+    point: passat-perifrastic
+    lesson: 2
+    prompt: "La setmana passada la Fàtima ___ els bitllets per internet i va mirar l'horari."
+    hint: "*comprar*, passat perifràstic"
+    answers: ["va comprar"]
+    wrong_answers:
+      - text: "van comprar"
+        why: "*Van* és per a «ells». «La Fàtima» és «ella»: *va comprar*."
+      - text: "ha comprat"
+        why: "Amb «la setmana passada» fem servir el perifràstic, no el perfet."
+    grading: tolerant
+    explanation: "«La Fàtima» és «ella», i «la setmana passada» és passat: *va comprar*."
+
+  - id: a2-07-016
+    type: fill
+    point: passat-perifrastic
+    lesson: 2
+    prompt: "Dilluns passat, vosaltres ___ a l'aeroport molt d'hora."
+    hint: "*arribar*, passat perifràstic"
+    answers: ["vau arribar", "vàreu arribar"]
+    wrong_answers:
+      - text: "vam arribar"
+        why: "*Vam* és per a «nosaltres». Amb «vosaltres»: *vau arribar*."
+      - text: "heu arribat"
+        why: "Amb «dilluns passat» fem servir el perifràstic, no el perfet."
+    grading: tolerant
+    explanation: "Amb «vosaltres»: *vau arribar*. *Vàreu arribar* també és correcte."
+
+  - id: a2-07-017
+    type: fill
+    point: perfet
+    lesson: 2
+    prompt: "Avui ___ l'avió de les set, com sempre."
+    hint: "*agafar*, perfet, jo"
+    answers: ["he agafat", "jo he agafat"]
+    wrong_answers:
+      - text: "has agafat"
+        why: "*Has* és per a «tu». Aquí el subjecte és «jo»: *he agafat*."
+      - text: "vaig agafar"
+        why: "Amb «avui» fem servir el perfet, no el perifràstic: *he agafat*."
+    grading: tolerant
+    explanation: "Amb «avui» i el subjecte «jo»: *he agafat*."
+
+  - id: a2-07-018
+    type: fill
+    point: perfet
+    lesson: 2
+    prompt: "Aquest matí en Wei ___ tard a classe."
+    hint: "*arribar*, perfet"
+    answers: ["ha arribat"]
+    wrong_answers:
+      - text: "han arribat"
+        why: "*Han* és per a «ells». «En Wei» és «ell»: *ha arribat*."
+      - text: "va arribar"
+        why: "Amb «aquest matí» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "«En Wei» és «ell», i «aquest matí» demana el perfet: *ha arribat*."
+
+  - id: a2-07-019
+    type: fill
+    point: perfet
+    lesson: 2
+    prompt: "Aquesta setmana ___ tres cops en tren a Barcelona, la Núria i jo."
+    hint: "*anar*, perfet, nosaltres"
+    answers: ["hem anat"]
+    wrong_answers:
+      - text: "han anat"
+        why: "*Han* és per a «ells». «La Núria i jo» és «nosaltres»: *hem anat*."
+      - text: "vam anar"
+        why: "Amb «aquesta setmana» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "«La Núria i jo» és «nosaltres»: *hem anat*."
+
+  - id: a2-07-020
+    type: order
+    point: passat-perifrastic
+    lesson: 2
+    cue: "Digues que ahir vas visitar la teva àvia a Vic."
+    chunks: ["ahir", "vaig visitar", "la meva àvia", "a Vic"]
+    extra: ["he visitat"]
+    answers:
+      - "Ahir vaig visitar la meva àvia a Vic."
+      - "Vaig visitar la meva àvia a Vic ahir."
+    explanation: "Amb «ahir» fem servir el perifràstic: *vaig visitar*. *He visitat* és perfet."
+
+  - id: a2-07-021
+    type: order
+    point: perfet
+    lesson: 2
+    cue: "Digues que aquest matí has perdut el tren de les vuit."
+    chunks: ["aquest matí", "he perdut", "el tren", "de les vuit"]
+    extra: ["vaig perdre"]
+    answers:
+      - "Aquest matí he perdut el tren de les vuit."
+      - "He perdut el tren de les vuit aquest matí."
+    explanation: "Amb «aquest matí» fem servir el perfet: *he perdut*. *Vaig perdre* és perifràstic."
+
+  - id: a2-07-022
+    type: order
+    point: passat-perifrastic
+    lesson: 2
+    cue: "Digues que els teus pares van tornar de Menorca dissabte passat."
+    chunks: ["els meus pares", "van tornar", "de Menorca", "dissabte passat"]
+    extra: ["han tornat"]
+    answers:
+      - "Els meus pares van tornar de Menorca dissabte passat."
+      - "Dissabte passat els meus pares van tornar de Menorca."
+    explanation: "«Els meus pares» és «ells»: *van tornar*. *Han tornat* és perfet."
+
+  - id: a2-07-023
+    type: choice
+    point: passat-perifrastic
+    lesson: 2
+    prompt: "___ vam baixar del metro a la parada del centre."
+    answer: "Ahir"
+    distractors:
+      - text: "Demà"
+        why: "*Demà* parla del futur. Amb el passat perifràstic cal un marcador de passat."
+      - text: "Ara"
+        why: "*Ara* parla del present. Amb el passat perifràstic cal un marcador de passat."
+    explanation: "*Vam baixar* és passat perifràstic: necessita un marcador de passat, com *ahir*."
+
+  - id: a2-07-024
+    type: choice
+    point: perfet
+    lesson: 2
+    prompt: "___ he dinat a l'aeroport."
+    answer: "Avui"
+    distractors:
+      - text: "Ahir"
+        why: "Amb «ahir» fem servir el perifràstic: *vaig dinar*. *He dinat* és perfet."
+      - text: "La setmana passada"
+        why: "Amb «la setmana passada» fem servir el perifràstic: *vaig dinar*."
+    explanation: "*He dinat* és perfet: va amb *avui*, no amb *ahir*."
+
+  - id: a2-07-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «fer un tomb»?"
+    answer: "Passejar una estona, sense pressa."
+    distractors:
+      - text: "Córrer per no perdre el tren."
+        why: "Això és anar de pressa. *Fer un tomb* és passejar sense pressa."
+      - text: "Viatjar molt lluny de casa."
+        why: "*Fer un tomb* és una passejada curta, no un viatge llarg."
+    explanation: "*Fer un tomb* vol dir passejar una estona, sense pressa."
+
+  - id: a2-07-026
+    type: fill
+    point: perfet
+    lesson: 2
+    prompt: "Aquest mes vosaltres ___ molt en avió per feina."
+    hint: "*viatjar*, perfet"
+    answers: ["heu viatjat"]
+    wrong_answers:
+      - text: "han viatjat"
+        why: "*Han* és per a «ells». Amb «vosaltres»: *heu viatjat*."
+      - text: "vau viatjar"
+        why: "Amb «aquest mes» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "«Aquest mes» demana el perfet. Amb «vosaltres»: *heu viatjat*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-07-027
+    type: choice
+    point: participis-irregulars
+    lesson: 3
+    prompt: "Aquest matí he ___ la maleta de pressa."
+    answer: "fet"
+    distractors:
+      - text: "fer"
+        why: "Després de *he* va el participi, no l'infinitiu: *fet*."
+      - text: "dit"
+        why: "*Dit* és el participi de *dir*. De *fer* és *fet*."
+    explanation: "El participi de *fer* és *fet*: *he fet la maleta*."
+
+  - id: a2-07-028
+    type: choice
+    point: participis-irregulars
+    lesson: 3
+    prompt: "La Núria m'ha ___ que el vol porta retard."
+    answer: "dit"
+    distractors:
+      - text: "dir"
+        why: "Després de *ha* va el participi, no l'infinitiu: *dit*."
+      - text: "parlat"
+        why: "*Parlar* no porta *que* darrere: *m'ha dit que…*."
+    explanation: "El participi de *dir* és *dit*: *m'ha dit que…*."
+
+  - id: a2-07-029
+    type: fill
+    point: participis-irregulars
+    lesson: 3
+    prompt: "Avui ___ molt de fred al tren."
+    hint: "*fer*, perfet, ell"
+    answers: ["ha fet"]
+    wrong_answers:
+      - text: "ha fer"
+        why: "Després de *ha* va el participi, no l'infinitiu: *ha fet*."
+      - text: "va fer"
+        why: "Amb «avui» fem servir el perfet, no el perifràstic: *ha fet*."
+    grading: tolerant
+    explanation: "«Avui» demana el perfet, i el participi de *fer* és *fet*: *ha fet*."
+
+  - id: a2-07-030
+    type: fill
+    point: participis-irregulars
+    lesson: 3
+    prompt: "Aquest matí ___ esmorzar: tenia molta pressa."
+    hint: "no *poder*, perfet, jo"
+    answers: ["no he pogut", "jo no he pogut"]
+    wrong_answers:
+      - text: "no he poder"
+        why: "Després de *he* va el participi, no l'infinitiu: *no he pogut*."
+      - text: "no vaig poder"
+        why: "Amb «aquest matí» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "El participi de *poder* és *pogut*: *no he pogut esmorzar*."
+
+  - id: a2-07-031
+    type: fill
+    point: participis-irregulars
+    lesson: 3
+    prompt: "___ mai en vaixell a les Balears?"
+    hint: "*estar*, perfet, vosaltres"
+    answers: ["Heu estat"]
+    wrong_answers:
+      - text: "heu estar"
+        why: "Després de *heu* va el participi, no l'infinitiu: *heu estat*."
+      - text: "heu sigut"
+        why: "*Sigut* no és el participi d'*estar*: és *estat*."
+    grading: tolerant
+    explanation: "El participi del verb *estar* és *estat*: *heu estat*."
+
+  - id: a2-07-032
+    type: fill
+    point: participis-irregulars
+    lesson: 3
+    prompt: "Aquesta setmana ___ molts problemes amb el cotxe."
+    hint: "*tenir*, perfet, nosaltres"
+    answers: ["hem tingut"]
+    wrong_answers:
+      - text: "hem tenir"
+        why: "Després de *hem* va el participi, no l'infinitiu: *hem tingut*."
+      - text: "hem tenit"
+        why: "*Tenir* és irregular: el participi és *tingut*, no *tenit*."
+    grading: tolerant
+    explanation: "El participi de *tenir* és *tingut*: *hem tingut*."
+
+  - id: a2-07-033
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Ahir vaig a perdre el tren: vaig arribar dos minuts tard."
+    error: "vaig a perdre"
+    fix: "vaig perdre"
+    fix_distractors:
+      - text: "he perdut"
+        why: "Amb «ahir» fem servir el perifràstic, no el perfet."
+      - text: "perdo"
+        why: "*Perdo* és present. Amb «ahir» cal el passat: *vaig perdre*."
+    explanation: "«Vaig a perdre», com «voy a perder», és futur. Amb «ahir»: *vaig perdre*."
+
+  - id: a2-07-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La setmana passada vam a visitar els avis a Lleida."
+    error: "vam a visitar"
+    fix: "vam visitar"
+    fix_distractors:
+      - text: "hem visitat"
+        why: "Amb «la setmana passada» fem servir el perifràstic, no el perfet."
+      - text: "visitem"
+        why: "*Visitem* és present. Amb «la setmana passada» cal el passat."
+    explanation: "«Vam a visitar», com «vamos a visitar», és futur. Amb passat: *vam visitar*."
+
+  - id: a2-07-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Demà vaig a comprar els bitllets per internet."
+    no_error: true
+    explanation: "La frase és correcta: «vaig a comprar» és futur, i «demà» també."
+
+  - id: a2-07-036
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Què vol dir «Ahir vaig anar a Girona»?"
+    answer: "Que el viatge a Girona ja ha passat."
+    distractors:
+      - text: "Que el viatge a Girona és demà."
+        why: "*Vaig anar*, sense *a*, és passat: el viatge ja ha passat."
+      - text: "Que viatja a Girona cada dia."
+        why: "No és un hàbit: és un fet d'ahir."
+    explanation: "*Vaig anar*, sense *a*, és passat, no «voy a ir»: el viatge ja ha passat."
+
+  - id: a2-07-037
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Què vol dir «Demà vaig a trucar a l'hotel»?"
+    answer: "Que encara no hi ha trucat."
+    distractors:
+      - text: "Que ja hi ha trucat."
+        why: "*Vaig a trucar* és futur: encara no ho ha fet."
+      - text: "Que hi truca cada dia."
+        why: "No és un hàbit: és un pla per a demà."
+    explanation: "*Vaig a trucar*, amb *a*, és futur, com «voy a llamar»: encara no ho ha fet."
+
+  - id: a2-07-038
+    type: find-error
+    point: participis-irregulars
+    lesson: 3
+    sentence: "Aquest matí he saput que el vol surt amb retard."
+    error: "saput"
+    fix: "sabut"
+    fix_distractors:
+      - text: "saber"
+        why: "Després de *he* va el participi, no l'infinitiu."
+      - text: "tingut"
+        why: "El verb és *saber*, no *tenir*: el participi és *sabut*."
+    explanation: "El participi de *saber* és *sabut*, no *saput*: *he sabut que…*."
+
+  - id: a2-07-039
+    type: find-error
+    point: participis-irregulars
+    lesson: 3
+    sentence: "Avui hem tingut un dia molt llarg a l'aeroport."
+    no_error: true
+    explanation: "La frase és correcta: el participi de *tenir* és *tingut*, i «avui» demana el perfet."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-07-040
+    type: transform
+    point: passat-perifrastic
+    lesson: 4
+    instruction: "Canvia el subjecte a «tu»."
+    source: "Ahir [[vaig dinar]] a l'estació."
+    answers:
+      - "Ahir vas dinar a l'estació."
+      - "Ahir tu vas dinar a l'estació."
+    wrong_answers:
+      - text: "Ahir vas a dinar a l'estació."
+        why: "Amb «ahir» és passat, sense *a*: *vas dinar*."
+      - text: "Ahir has dinat a l'estació."
+        why: "Amb «ahir» fem servir el perifràstic, no el perfet."
+    grading: tolerant
+    explanation: "Amb «tu», el perifràstic fa *vas* + infinitiu: *vas dinar*."
+
+  - id: a2-07-041
+    type: transform
+    point: passat-perifrastic
+    lesson: 4
+    instruction: "Passa la frase a «nosaltres»."
+    source: "Dilluns passat [[va tornar]] en tren de València."
+    answers:
+      - "Dilluns passat vam tornar en tren de València."
+      - "Dilluns passat vàrem tornar en tren de València."
+      - "Dilluns passat nosaltres vam tornar en tren de València."
+      - "Dilluns passat nosaltres vàrem tornar en tren de València."
+    wrong_answers:
+      - text: "Dilluns passat vam a tornar en tren de València."
+        why: "Amb «dilluns passat» és passat, sense *a*: *vam tornar*."
+      - text: "Dilluns passat hem tornat en tren de València."
+        why: "Amb «dilluns passat» fem servir el perifràstic, no el perfet."
+    grading: tolerant
+    explanation: "Amb «nosaltres»: *vam tornar*. *Vàrem tornar* també és correcte."
+
+  - id: a2-07-042
+    type: transform
+    point: perfet
+    lesson: 4
+    instruction: "Passa la frase a «vosaltres»."
+    source: "Aquest matí [[he esmorzat]] a l'hotel."
+    answers:
+      - "Aquest matí heu esmorzat a l'hotel."
+      - "Aquest matí vosaltres heu esmorzat a l'hotel."
+    wrong_answers:
+      - text: "Aquest matí heu esmorzar a l'hotel."
+        why: "Després de *heu* va el participi, no l'infinitiu: *heu esmorzat*."
+      - text: "Aquest matí vau esmorzar a l'hotel."
+        why: "Amb «aquest matí» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "Amb «vosaltres», el perfet fa *heu* + participi: *heu esmorzat*."
+
+  - id: a2-07-043
+    type: transform
+    point: perfet
+    lesson: 4
+    instruction: "Canvia el subjecte a «ells»."
+    source: "Avui [[ha vingut]] en tren: el cotxe no funciona."
+    answers:
+      - "Avui han vingut en tren: el cotxe no funciona."
+      - "Avui ells han vingut en tren: el cotxe no funciona."
+    wrong_answers:
+      - text: "Avui han venut en tren: el cotxe no funciona."
+        why: "*Venut* és el participi de *vendre*. De *venir* és *vingut*."
+      - text: "Avui van venir en tren: el cotxe no funciona."
+        why: "Amb «avui» fem servir el perfet, no el perifràstic: *han vingut*."
+    grading: tolerant
+    explanation: "Amb «ells», el perfet fa *han* + participi: *han vingut*."
+
+  - id: a2-07-044
+    type: transform
+    point: passat-perifrastic
+    lesson: 4
+    instruction: "Passa la frase al passat perifràstic, amb «ahir»."
+    source: "[[Torno]] tard de la feina."
+    answers:
+      - "Ahir vaig tornar tard de la feina."
+      - "Vaig tornar tard de la feina ahir."
+      - "Ahir jo vaig tornar tard de la feina."
+      - "Jo vaig tornar tard de la feina ahir."
+    wrong_answers:
+      - text: "Ahir he tornat tard de la feina."
+        why: "Amb «ahir» fem servir el perifràstic, no el perfet: *vaig tornar*."
+      - text: "Ahir vaig a tornar tard de la feina."
+        why: "Amb «ahir» és passat, sense *a*: *vaig tornar*."
+    grading: tolerant
+    explanation: "«Ahir» demana el perifràstic. Amb «jo»: *vaig tornar*."
+
+  - id: a2-07-045
+    type: transform
+    point: perfet
+    lesson: 4
+    instruction: "Passa la frase al perfet, amb «avui»."
+    source: "[[Dino]] a casa dels meus pares."
+    answers:
+      - "Avui he dinat a casa dels meus pares."
+      - "He dinat a casa dels meus pares avui."
+      - "Avui jo he dinat a casa dels meus pares."
+      - "Jo he dinat a casa dels meus pares avui."
+    wrong_answers:
+      - text: "Avui vaig dinar a casa dels meus pares."
+        why: "Amb «avui» fem servir el perfet, no el perifràstic: *he dinat*."
+      - text: "Avui he dinar a casa dels meus pares."
+        why: "Després de *he* va el participi, no l'infinitiu: *he dinat*."
+    grading: tolerant
+    explanation: "«Avui» demana el perfet. Amb «jo»: *he dinat*."
+
+  - id: a2-07-046
+    type: transform
+    point: participis-irregulars
+    lesson: 4
+    instruction: "Passa la frase al perfet."
+    source: "Avui [[faig]] la maleta de pressa."
+    answers:
+      - "Avui he fet la maleta de pressa."
+      - "Avui jo he fet la maleta de pressa."
+    wrong_answers:
+      - text: "Avui he fer la maleta de pressa."
+        why: "Després de *he* va el participi, no l'infinitiu: *he fet*."
+      - text: "Avui vaig fer la maleta de pressa."
+        why: "Amb «avui» fem servir el perfet, no el perifràstic: *he fet*."
+    grading: tolerant
+    explanation: "El participi de *fer* és *fet*: *he fet la maleta*."
+
+  - id: a2-07-047
+    type: transform
+    point: participis-irregulars
+    lesson: 4
+    instruction: "Passa la frase al perfet."
+    source: "Enguany [[veiem]] molts turistes al barri."
+    answers:
+      - "Enguany hem vist molts turistes al barri."
+      - "Enguany nosaltres hem vist molts turistes al barri."
+    wrong_answers:
+      - text: "Enguany hem veure molts turistes al barri."
+        why: "Després de *hem* va el participi, no l'infinitiu: *hem vist*."
+      - text: "Enguany vam veure molts turistes al barri."
+        why: "«Enguany» inclou el present: cal el perfet, *hem vist*."
+    grading: tolerant
+    explanation: "El participi de *veure* és *vist*: *hem vist*."
+
+  - id: a2-07-048
+    type: fill
+    point: passat-perifrastic
+    lesson: 4
+    prompt: "Dissabte passat ___ la Sagrada Família amb uns amics de Madrid."
+    hint: "*visitar*, passat perifràstic, nosaltres"
+    answers: ["vam visitar", "vàrem visitar", "nosaltres vam visitar", "nosaltres vàrem visitar"]
+    wrong_answers:
+      - text: "vam a visitar"
+        why: "Amb «dissabte passat» és passat, sense *a*: *vam visitar*."
+      - text: "hem visitat"
+        why: "Amb «dissabte passat» fem servir el perifràstic, no el perfet."
+    grading: tolerant
+    explanation: "«Dissabte passat» és passat. Amb «nosaltres»: *vam visitar*. *Vàrem visitar* també és correcte."
+
+  - id: a2-07-049
+    type: fill
+    point: perfet
+    lesson: 4
+    prompt: "Aquesta setmana el meu germà ___ tres cops l'autobús per anar a la feina."
+    hint: "*agafar*, perfet"
+    answers: ["ha agafat"]
+    wrong_answers:
+      - text: "ha agafar"
+        why: "Després de *ha* va el participi, no l'infinitiu: *ha agafat*."
+      - text: "va agafar"
+        why: "Amb «aquesta setmana» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "«El meu germà» és «ell», i «aquesta setmana» demana el perfet: *ha agafat*."
+
+  - id: a2-07-050
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "Demà ___ els bitllets: avui l'oficina és tancada."
+    hint: "futur amb *anar a* + infinitiu: *comprar*, jo"
+    answers: ["vaig a comprar", "jo vaig a comprar"]
+    wrong_answers:
+      - text: "vaig comprar"
+        why: "*Vaig comprar* és passat. Per a «demà» cal el futur: *vaig a comprar*."
+    grading: tolerant
+    explanation: "Per a «demà», el futur es fa *vaig a* + infinitiu, com «voy a comprar»."
+
+  - id: a2-07-051
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Explica el teu pla per a demà: buscar els bitllets a l'estació."
+    chunks: ["demà", "vaig a buscar", "els bitllets", "a l'estació"]
+    extra: ["vaig buscar"]
+    answers:
+      - "Demà vaig a buscar els bitllets a l'estació."
+      - "Vaig a buscar els bitllets a l'estació demà."
+    explanation: "Per a «demà», el futur es fa *vaig a* + infinitiu. *Vaig buscar*, sense *a*, és passat."
+
+  - id: a2-07-052
+    type: order
+    point: participis-irregulars
+    lesson: 4
+    cue: "Digues que avui no has tingut temps de dinar a l'hotel."
+    chunks: ["avui", "no", "has pogut", "dinar", "a l'hotel"]
+    extra: ["vas poder"]
+    answers:
+      - "Avui no has pogut dinar a l'hotel."
+      - "No has pogut dinar a l'hotel avui."
+      - "No has pogut dinar avui a l'hotel."
+    explanation: "El participi de *poder* és *pogut*: *no has pogut dinar*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-07-053
+    type: reading
+    point: passat-perifrastic
+    lesson: 5
+    title: "Un cap de setmana a Menorca"
+    text: |
+      Divendres passat vam agafar el vaixell a Barcelona. Vam pujar a bord amb les maletes i vam buscar els nostres seients. El vaixell va sortir amb una hora de retard, però el viatge va anar molt bé.
+
+      Dissabte vam visitar Ciutadella amb un mapa de l'hotel. Vam dinar en un bar del port i a la tarda vam tornar a l'hotel en autobús. El conductor va dir que diumenge hi ha mercat al port.
+
+      Diumenge vam fer un tomb pel mercat i vam comprar formatge. A la tarda vam tornar a Barcelona. Va ser un cap de setmana curt, però genial!
+    questions:
+      - prompt: "Com van anar a Menorca?"
+        answer: "En vaixell, des de Barcelona."
+        distractors:
+          - text: "En avió, des de Barcelona."
+            why: "El text diu que van agafar el vaixell."
+          - text: "En autobús, des de Ciutadella."
+            why: "L'autobús el van agafar a Menorca, per tornar a l'hotel."
+      - prompt: "Què van fer dissabte?"
+        answer: "Visitar Ciutadella i dinar al port."
+        distractors:
+          - text: "Comprar formatge al mercat."
+            why: "Això ho van fer diumenge."
+          - text: "Agafar el vaixell a Barcelona."
+            why: "Això ho van fer divendres."
+      - prompt: "Què va dir el conductor de l'autobús?"
+        answer: "Que diumenge hi ha mercat."
+        distractors:
+          - text: "Que el bar del port era tancat."
+            why: "El text no diu això: hi van dinar dissabte."
+          - text: "Que diumenge no hi ha mercat."
+            why: "Va dir el contrari: que sí que hi ha mercat."
+      - prompt: "Quan van tornar a Barcelona?"
+        answer: "Diumenge a la tarda."
+        distractors:
+          - text: "Dissabte a la tarda."
+            why: "Dissabte a la tarda van tornar a l'hotel, no a Barcelona."
+          - text: "Dilluns al matí."
+            why: "El text diu que van tornar diumenge."
+    explanation: "El text explica un cap de setmana a Menorca: el viatge en vaixell, la visita a Ciutadella i el mercat de diumenge."
+
+  - id: a2-07-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Aquest estiu volem ___: ens agrada caminar per la muntanya."
+    answer: "anar d'excursió"
+    distractors:
+      - text: "perdre el tren"
+        why: "*Perdre el tren* és no arribar a temps: aquí parlen d'una sortida."
+      - text: "fer un tomb"
+        why: "*Fer un tomb* és una passejada curta. Per a la muntanya diem *anar d'excursió*."
+    explanation: "*Anar d'excursió* és fer una sortida a la muntanya o al camp."
+
+  - id: a2-07-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Vam sortir tard de casa i ___: vam haver d'agafar un taxi."
+    answer: "vam perdre el tren"
+    distractors:
+      - text: "vam fer un tomb"
+        why: "*Fer un tomb* és passejar sense pressa: aquí tenien pressa."
+      - text: "vam anar d'excursió"
+        why: "*Anar d'excursió* és una sortida a la muntanya, no perdre el tren."
+    explanation: "Si surts tard i no arribes a temps, *perds el tren*."
+
+  - id: a2-07-056
+    type: match
+    point: participis-irregulars
+    lesson: 5
+    instruction: "Relaciona cada infinitiu amb el seu participi."
+    pairs:
+      - ["fer", "fet"]
+      - ["dir", "dit"]
+      - ["veure", "vist"]
+      - ["voler", "volgut"]
+      - ["saber", "sabut"]
+      - ["poder", "pogut"]
+    explanation: "Són participis irregulars: cal saber-los de memòria."
+
+  - id: a2-07-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Diumenge al matí la Laia i jo sempre ___ pel parc amb el gos."
+    hint: "expressió: passejar una estona"
+    answers: ["fem un tomb"]
+    wrong_answers:
+      - text: "perdem el tren"
+        why: "*Perdre el tren* vol dir no arribar a temps. Aquí passegen sense pressa."
+    grading: tolerant
+    explanation: "*Fer un tomb* vol dir passejar una estona, sense pressa."
+
+  - id: a2-07-058
+    type: fill
+    point: passat-perifrastic
+    lesson: 5
+    prompt: "L'any passat ___ una setmana a Roma amb la Marta."
+    hint: "*passar*, passat perifràstic, jo"
+    answers: ["vaig passar", "jo vaig passar"]
+    wrong_answers:
+      - text: "vaig a passar"
+        why: "Amb «l'any passat» és passat, sense *a*: *vaig passar*."
+      - text: "he passat"
+        why: "Amb «l'any passat» fem servir el perifràstic, no el perfet."
+    grading: tolerant
+    explanation: "Amb «l'any passat» i el subjecte «jo»: *vaig passar*."
+
+  - id: a2-07-059
+    type: fill
+    point: participis-irregulars
+    lesson: 5
+    prompt: "Aquest any encara no ___ vacances: potser a l'agost."
+    hint: "*fer*, perfet, jo"
+    answers: ["he fet"]
+    wrong_answers:
+      - text: "he fer"
+        why: "Després de *he* va el participi, no l'infinitiu: *he fet*."
+      - text: "vaig fer"
+        why: "Amb «aquest any» fem servir el perfet, no el perifràstic."
+    grading: tolerant
+    explanation: "El participi de *fer* és *fet*: *encara no he fet vacances*."
+
+  - id: a2-07-060
+    type: find-error
+    point: passat-perifrastic
+    lesson: 5
+    sentence: "Ahir hem anat al mercat de Vic."
+    error: "hem anat"
+    fix: "vam anar"
+    fix_distractors:
+      - text: "vam a anar"
+        why: "Amb «ahir» és passat, sense *a*: *vam anar*."
+      - text: "anem"
+        why: "*Anem* és present. Amb «ahir» cal el passat: *vam anar*."
+    explanation: "Amb «ahir» fem servir el passat perifràstic: *vam anar*."
+
+  - id: a2-07-061
+    type: find-error
+    point: perfet
+    lesson: 5
+    sentence: "Aquest matí vaig esmorzar a l'aeroport."
+    error: "vaig esmorzar"
+    fix: "he esmorzat"
+    fix_distractors:
+      - text: "he esmorzar"
+        why: "Després de *he* va el participi, no l'infinitiu."
+      - text: "esmorzo"
+        why: "*Esmorzo* és present. Amb «aquest matí» cal el perfet: *he esmorzat*."
+    explanation: "Amb «aquest matí» fem servir el perfet: *he esmorzat*."
+
+  - id: a2-07-062
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Ahir vaig perdre el tren i avui he vingut en taxi."
+    no_error: true
+    explanation: "La frase és correcta: *vaig perdre* (ahir, perifràstic) i *he vingut* (avui, perfet)."
+
+  - id: a2-07-063
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Fes servir l'expressió *anar d'excursió*."
+    source: "Diumenge volem [[fer una sortida]] a peu a Montserrat."
+    answers:
+      - "Diumenge volem anar d'excursió a peu a Montserrat."
+    wrong_answers:
+      - text: "Diumenge volem perdre el tren a peu a Montserrat."
+        why: "*Perdre el tren* no té sentit aquí: cal *anar d'excursió*."
+    grading: tolerant
+    explanation: "*Anar d'excursió* és fer una sortida a la muntanya o al camp."
+
+  - id: a2-07-064
+    type: order
+    point: passat-perifrastic
+    lesson: 5
+    cue: "Digues que dissabte passat vas visitar Girona amb en Pau."
+    chunks: ["dissabte passat", "vaig visitar", "Girona", "amb en Pau"]
+    extra: ["he visitat"]
+    answers:
+      - "Dissabte passat vaig visitar Girona amb en Pau."
+      - "Vaig visitar Girona amb en Pau dissabte passat."
+    explanation: "Amb «dissabte passat» fem servir el perifràstic: *vaig visitar*."
+
+  - id: a2-07-065
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Els plans de la Núria"
+    text: "Ahir la Núria {va comprar|va a comprar|ha comprat} els bitllets per internet i {va fer|va a fer|ha fet} la reserva de l'hotel. Aquest matí {ha preparat|va preparar|va a preparar} la motxilla i {ha buscat|va buscar|va a buscar} el passaport. Demà {va a agafar|va agafar|ha agafat} el tren de les set: {va a baixar|va baixar|ha baixat} a l'estació en bicicleta i vol arribar una hora abans. Diu que a l'andana sempre hi ha molts passatgers i no vol perdre el tren."
+    explanation: "«Ahir» demana el perifràstic (*va comprar*, *va fer*); «aquest matí», el perfet (*ha preparat*, *ha buscat*); «demà», el futur (*va a agafar*, *va a baixar*)."

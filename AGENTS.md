@@ -79,3 +79,7 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
 - 2026-10-23 — Unidades `a2-01` y `a2-02` (Sonnet + revisión a mano + LanguageTool + e2e).
   Hechas: a2-01, a2-02, a2-03, b1-14, b2-42. Siguiente: a2-04 en adelante, de dos en dos.
   **Pendiente: feedback del usuario sobre unidades y app.**
+- 2026-10-27 — Redacción masiva orquestada (MuseCode): 60/60 unidades, 3902 ítems,
+  `validate` a 0 errores, jueces por unidad + doble barrido LanguageTool (delta 0).
+  Informe y dudas para revisión humana en `docs/validacion-unidades.md`.
+  e2e con 60 unidades: 2 fallos pendientes (aparcados, fuera de alcance «solo unidades»).

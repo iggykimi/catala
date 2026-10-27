@@ -1,0 +1,1024 @@
+id: b2-40
+level: B2
+title: "Concessives, finals i consecutives"
+summary: "Les concessives, les finals i les consecutives, en el context del medi ambient i l'energia."
+vocabulary_theme: "Medi ambient i energia"
+points:
+  - id: concessives
+    title: "Les concessives: un obstacle que no impedeix res"
+    refs:
+      - label: "GEIEC: Les oracions subordinades adverbials"
+        url: "https://geiec.iec.cat"
+  - id: finals
+    title: "Les finals: l'objectiu"
+    refs:
+      - label: "GEIEC: Les oracions subordinades adverbials"
+        url: "https://geiec.iec.cat"
+  - id: consecutives
+    title: "Les consecutives: el resultat"
+    refs:
+      - label: "GEIEC: Les oracions subordinades adverbials"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: els calcs d'aquesta unitat"
+    refs:
+      - label: "Optimot: Dubtes de gramàtica"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions: no rendir-se"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: concessives i finals"
+  - title: "Practicar les concessives i les finals"
+  - title: "Les consecutives i el castellà"
+  - title: "Produir: unir i reescriure frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el medi ambient"
+    definition: "La natura que ens envolta: l'aire, l'aigua, els boscos i els animals."
+    example: "Cal protegir el medi ambient amb petits gestos de cada dia."
+  - word: "el canvi climàtic"
+    definition: "Canvi del clima de la Terra per l'acció humana, que fa pujar les temperatures."
+    example: "El canvi climàtic porta més sequeres i més tempestes."
+  - word: "les emissions"
+    definition: "Gasos que surten dels cotxes i les fàbriques i embruten l'aire."
+    example: "Les emissions dels cotxes empitjoren la contaminació de la ciutat."
+  - word: "l'energia renovable"
+    definition: "Energia que no s'acaba mai, com la del sol, el vent o l'aigua."
+    example: "El poble viu de l'energia renovable des de fa tres anys."
+  - word: "la placa solar"
+    definition: "Aparell que converteix la llum del sol en electricitat."
+    example: "Hem posat vuit plaques solars al terrat."
+  - word: "el parc eòlic"
+    definition: "Conjunt de molins grans que fan electricitat amb el vent."
+    example: "El parc eòlic es veu des de la carretera."
+  - word: "la factura de la llum"
+    definition: "Paper que diu quants diners has de pagar per l'electricitat."
+    example: "Amb les plaques, la factura de la llum ha baixat molt."
+  - word: "estalviar"
+    definition: "Gastar menys diners, energia o aigua."
+    example: "Si tanques l'aixeta, estalvies molta aigua."
+  - word: "l'estalvi"
+    definition: "Diners o energia que no gastes."
+    example: "L'estalvi de cada mes ens permet pagar les plaques."
+  - word: "el consum"
+    definition: "Allò que es gasta d'energia, d'aigua o d'un producte."
+    example: "El consum d'aigua puja molt a l'estiu."
+  - word: "consumir"
+    definition: "Gastar energia, aigua o un producte."
+    example: "Aquesta nevera vella consumeix molta electricitat."
+  - word: "el reciclatge"
+    definition: "Acció de separar les deixalles per tornar-les a fer servir."
+    example: "El reciclatge comença a casa, amb tres contenidors."
+  - word: "reciclar"
+    definition: "Separar les deixalles perquè es puguin tornar a fer servir."
+    example: "A casa reciclem el vidre, el paper i el plàstic."
+  - word: "el contenidor"
+    definition: "Recipient gran del carrer per a cada tipus de deixalles."
+    example: "El vidre va al contenidor verd."
+  - word: "les deixalles"
+    definition: "Allò que llencem perquè ja no serveix."
+    example: "Separa les deixalles abans de baixar la brossa."
+  - word: "reutilitzar"
+    definition: "Tornar a fer servir una cosa en lloc de llençar-la."
+    example: "Reutilitzem l'aigua de la pluja per regar."
+  - word: "l'envàs"
+    definition: "Recipient on es ven un producte, com una ampolla o una capsa."
+    example: "Compra l'arròs a granel i estalvia envasos."
+  - word: "el plàstic"
+    definition: "Material molt usat en envasos que triga molt a desaparèixer."
+    example: "Porta la teva bossa i evita el plàstic."
+  - word: "la pila"
+    definition: "Peça petita que dona electricitat a aparells com el comandament."
+    example: "Les piles usades no van a la brossa."
+  - word: "l'aixeta"
+    definition: "Aparell que obre i tanca el pas de l'aigua."
+    example: "Tanca bé l'aixeta quan et rentes les dents."
+  - word: "la sequera"
+    definition: "Període llarg sense pluja."
+    example: "La sequera d'aquest any ha buidat els pantans."
+  - word: "l'hort urbà"
+    definition: "Tros de terra a la ciutat on els veïns planten verdures."
+    example: "A l'hort urbà hi cultivem tomàquets."
+  - word: "el bosc"
+    definition: "Terreny gran ple d'arbres."
+    example: "Diumenge anirem a netejar el bosc amb els voluntaris."
+  - word: "l'incendi forestal"
+    definition: "Foc gran que crema un bosc."
+    example: "L'incendi forestal va cremar dues-centes hectàrees."
+  - word: "la platja"
+    definition: "Vora del mar amb sorra."
+    example: "Cada primavera netegem la platja del poble."
+  - word: "el voluntari, la voluntària"
+    definition: "Persona que treballa gratis per ajudar els altres."
+    example: "Els voluntaris recullen la brossa del riu."
+  - word: "netejar"
+    definition: "Treure la brutícia d'un lloc."
+    example: "Netejarem el jardí dissabte al matí."
+  - word: "la manifestació"
+    definition: "Marxa de molta gent al carrer per demanar una cosa."
+    example: "Dissabte hi ha una manifestació pel clima."
+  - word: "el transport públic"
+    definition: "Autobusos, trens i metros que pot fer servir tothom."
+    example: "Vaig a la feina en transport públic."
+  - word: "el carril bici"
+    definition: "Part del carrer només per a bicicletes."
+    example: "El carril bici nou arriba fins a l'estació."
+  - word: "la contaminació"
+    definition: "Brutícia de l'aire o de l'aigua per l'acció humana."
+    example: "La contaminació baixa quan hi ha menys cotxes."
+  - word: "contaminar"
+    definition: "Embrutar l'aire o l'aigua amb productes nocius."
+    example: "Les fàbriques no poden contaminar el riu."
+  - word: "la tempesta"
+    definition: "Pluja forta amb vent, trons i llamps."
+    example: "La tempesta d'ahir va tallar la llum."
+  - word: "el riu"
+    definition: "Corrent natural d'aigua que va fins al mar."
+    example: "El riu baixa molt brut després de la tempesta."
+  - word: "el soroll"
+    definition: "So fort o desagradable."
+    example: "El soroll de les obres no em deixa dormir."
+  - word: "l'electricitat"
+    definition: "Energia que fa funcionar els llums i els aparells."
+    example: "Sense electricitat no va ni la nevera."
+  - word: "la calefacció"
+    definition: "Sistema que escalfa una casa o un edifici."
+    example: "A l'hivern posem la calefacció a vint graus."
+  - word: "la deixalleria"
+    definition: "Lloc on es porten les deixalles especials: piles, mobles, pintura."
+    example: "Porta les piles usades a la deixalleria."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-40-001
+    type: choice
+    point: concessives
+    lesson: 1
+    prompt: "___ plou, demà anirem a netejar la platja amb els voluntaris."
+    answer: "Tot i que"
+    distractors:
+      - text: "Per tal que"
+        why: "*Per tal que* expressa finalitat. La pluja no és l'objectiu de netejar: és un obstacle."
+      - text: "De manera que"
+        why: "Anar a netejar no és el resultat de la pluja: hi anirem malgrat la pluja."
+    explanation: "Anirem a netejar malgrat la pluja: la pluja és un obstacle, no l'objectiu ni el resultat. *Tot i que* presenta un obstacle real amb indicatiu."
+
+  - id: b2-40-002
+    type: choice
+    point: concessives
+    lesson: 1
+    prompt: "___ que plovia a bots i barrals, vam netejar tota la platja."
+    answer: "Malgrat"
+    distractors:
+      - text: "A pesar de"
+        why: "*A pesar de* és un calc de «a pesar de». En català, davant de *que* diem *malgrat que*."
+      - text: "Malgrat de"
+        why: "*Malgrat que*, sense *de*."
+    explanation: "Davant de *que* + frase, el connector és *malgrat que*. *A pesar de que* és un calc del castellà."
+
+  - id: b2-40-003
+    type: choice
+    point: finals
+    lesson: 1
+    prompt: "Tanqueu l'aixeta ___ no es malgasti l'aigua."
+    answer: "perquè"
+    distractors:
+      - text: "tot i que"
+        why: "No és una concessió: que no es malgasti l'aigua és l'objectiu de tancar l'aixeta."
+      - text: "així doncs"
+        why: "*Així doncs* expressa una conclusió amb indicatiu; aquí hi ha una finalitat amb subjuntiu."
+    explanation: "Tancar l'aixeta té un objectiu: que no es malgasti l'aigua. La finalitat s'expressa amb *perquè* + subjuntiu."
+
+  - id: b2-40-004
+    type: choice
+    point: finals
+    lesson: 1
+    prompt: "Us envio els horaris del transport públic ___ venir sense cotxe."
+    answer: "perquè pugueu"
+    distractors:
+      - text: "perquè podeu"
+        why: "L'indicatiu (*podeu*) expressaria la causa («us l'envio perquè podeu venir»), que no té sentit: és la finalitat."
+      - text: "per a que pugueu"
+        why: "*Per a que* no existeix: la finalitat és *perquè* (o *per tal que*) + subjuntiu."
+    explanation: "Enviar els horaris té un objectiu: que pugueu venir sense cotxe. La finalitat demana subjuntiu: *pugueu*."
+
+  - id: b2-40-005
+    type: choice
+    point: concessives
+    lesson: 1
+    prompt: "Què vol dir «Per més que insistim, no ens faran cas»?"
+    answer: "Encara que insistim molt, no ens faran cas."
+    distractors:
+      - text: "Si insistim més, potser ens faran cas."
+        why: "Al contrari: no ens faran cas per més que insistim."
+      - text: "Hem d'insistir perquè ens facin cas."
+        why: "No és un objectiu: és un esforç inútil."
+    explanation: "*Per més que* + subjuntiu expressa un esforç inútil: insistim molt, però no ens faran cas."
+
+  - id: b2-40-006
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["contra vent i marea", "malgrat totes les dificultats"]
+      - ["de totes totes", "amb tota decisió"]
+      - ["sigui com sigui", "en tot cas"]
+      - ["costi el que costi", "sense importar el preu ni l'esforç"]
+    explanation: "Són expressions per dir que no ens rendim, passi el que passi."
+
+  - id: b2-40-007
+    type: inline-choice
+    point: concessives
+    lesson: 1
+    title: "Excursió al parc natural"
+    text: "Benvolgudes famílies: {Tot i que|Perquè|De manera que} diuen que plourà, demà anirem d'excursió al parc natural. Porteu botes, {perquè|encara que|així doncs} el camí és ple de fang. {Encara que|Per tal que|De manera que} algú es cansi, el grup l'esperarà. Dinarem al refugi {perquè|tot i que|de manera que} fa massa fred per dinar fora."
+    explanation: "La pluja anunciada és un obstacle (*tot i que*); les botes i el refugi tenen una causa (*perquè* el camí és ple de fang; *perquè* fa fred); el cansament és una hipòtesi (*encara que* + subjuntiu)."
+
+  - id: b2-40-008
+    type: fill
+    point: finals
+    lesson: 1
+    prompt: "Guarda les piles usades en aquest pot perquè no ___ el calaix."
+    hint: "contaminar, tercera persona plural"
+    answers: ["contaminin"]
+    wrong_answers:
+      - text: "contaminen"
+        why: "L'indicatiu (*contaminen*) expressaria la causa, que no té sentit: és la finalitat, *contaminin*."
+    grading: tolerant
+    explanation: "Guardar les piles té un objectiu: que no contaminin el calaix. La finalitat demana subjuntiu."
+
+  - id: b2-40-009
+    type: fill
+    point: concessives
+    lesson: 1
+    prompt: "___ que insistiu, no us faran cap descompte en la factura de la llum."
+    hint: "connector d'esforç inútil"
+    answers: ["Per més", "Per molt"]
+    wrong_answers:
+      - text: "Per tal"
+        why: "*Per tal que* expressa finalitat («amb l'objectiu que»), no un esforç inútil."
+      - text: "A pesar de"
+        why: "«A pesar de que» és un calc del castellà; aquí cal un connector d'esforç inútil: *per més que*."
+    grading: tolerant
+    explanation: "El descompte no arribarà per més que insistiu: és un esforç inútil. *Per més que* (o *per molt que*) va amb subjuntiu."
+
+  - id: b2-40-010
+    type: choice
+    point: finals
+    lesson: 1
+    prompt: "Què vol dir «Tanca la porta perquè no entri fred»?"
+    answer: "Tanca-la amb l'objectiu que no entri fred."
+    distractors:
+      - text: "Tanca-la, ja que no entra gens de fred."
+        why: "Si no entrés fred, no caldria tancar-la: és l'objectiu, no la causa."
+      - text: "Tanca-la després que hagi entrat fred."
+        why: "No és posterior: cal tancar-la abans que entri."
+    explanation: "«Perquè no entri fred» no diu la causa, sinó l'objectiu de tancar la porta: la finalitat, amb subjuntiu."
+
+  - id: b2-40-011
+    type: order
+    point: concessives
+    lesson: 1
+    cue: "L'Arnau anuncia la neteja del bosc: la pluja no us aturarà."
+    chunks: ["Encara que", "plogui", "sortirem", "a netejar el bosc"]
+    extra: ["plou"]
+    answers:
+      - "Encara que plogui, sortirem a netejar el bosc."
+      - "Sortirem a netejar el bosc encara que plogui."
+    explanation: "La pluja és una hipòtesi futura, no un fet: *encara que* + subjuntiu (*plogui*). El bloc concessiu pot anar davant o darrere."
+
+  - id: b2-40-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «contra vent i marea»?"
+    answer: "Malgrat totes les dificultats."
+    distractors:
+      - text: "Amb molt de vent i onades."
+        why: "Aquest és el sentit literal; l'expressió és figurada."
+      - text: "Amb l'ajuda de tothom."
+        why: "Al contrari: vol dir sense ajuda, superant dificultats."
+    explanation: "«Contra vent i marea» vol dir malgrat totes les dificultats, sense rendir-se."
+
+  - id: b2-40-013
+    type: choice
+    point: finals
+    lesson: 1
+    prompt: "Regaran l'hort de nit ___ l'aigua no s'evapori amb la calor."
+    answer: "perquè"
+    distractors:
+      - text: "tot i que"
+        why: "No és una concessió: que l'aigua no s'evapori és l'objectiu de regar de nit."
+      - text: "així doncs"
+        why: "*Així doncs* no va amb subjuntiu ni expressa finalitat."
+    explanation: "Regar de nit té un objectiu: que l'aigua no s'evapori. La finalitat s'expressa amb *perquè* + subjuntiu."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-40-014
+    type: fill
+    point: finals
+    lesson: 2
+    prompt: "La Fàtima us deixa les claus de casa perquè ___ sense trucar."
+    hint: "poder entrar, segona persona plural"
+    answers: ["pugueu entrar"]
+    wrong_answers:
+      - text: "podeu entrar"
+        why: "La finalitat demana subjuntiu: *pugueu entrar*."
+    grading: tolerant
+    explanation: "Deixar les claus té un objectiu: que pugueu entrar sense trucar. La finalitat demana subjuntiu."
+
+  - id: b2-40-015
+    type: fill
+    point: finals
+    lesson: 2
+    prompt: "Posa el menjar en un envàs de vidre i posa'l a la nevera perquè no es ___."
+    hint: "fer-se malbé, tercera persona singular"
+    answers: ["faci malbé"]
+    wrong_answers:
+      - text: "fa malbé"
+        why: "La finalitat demana subjuntiu: que no es *faci malbé*."
+    grading: tolerant
+    explanation: "Posar el menjar a la nevera té un objectiu: que no es faci malbé. La finalitat demana subjuntiu."
+
+  - id: b2-40-016
+    type: fill
+    point: concessives
+    lesson: 2
+    prompt: "—Demà potser farà vent. —Encara que ___, la Fira de la Terra es farà igualment."
+    hint: "fer vent, present de subjuntiu"
+    answers: ["faci vent"]
+    wrong_answers:
+      - text: "fa vent"
+        why: "«Demà potser» presenta una hipòtesi, no un fet: cal subjuntiu, *faci*."
+      - text: "farà vent"
+        why: "El futur no és possible darrere de *encara que*: cal subjuntiu, *faci*."
+    grading: tolerant
+    explanation: "«Demà potser» presenta una hipòtesi futura: *encara que* + subjuntiu (*faci*). El futur d'indicatiu no hi és possible."
+
+  - id: b2-40-017
+    type: fill
+    point: concessives
+    lesson: 2
+    prompt: "—Ahir feia un fred que pelava i el Pau va anar a la feina pel carril bici. —Sí, encara que ___ molt fred, no agafa mai el cotxe."
+    hint: "fer, imperfet d'indicatiu"
+    answers: ["feia"]
+    wrong_answers:
+      - text: "farà"
+        why: "*Encara que* no admet el futur: aquí cal l'imperfet, *feia*."
+      - text: "fes"
+        why: "El verb és impersonal («el fred»): tercera persona singular, *feia*."
+    grading: tolerant
+    explanation: "«Ahir feia» presenta un fet real: *encara que* + indicatiu (*feia*). El verb és impersonal: tercera persona singular."
+
+  - id: b2-40-018
+    type: order
+    point: finals
+    lesson: 2
+    cue: "Digues que tanquin l'aixeta amb l'objectiu de no malgastar l'aigua."
+    chunks: ["Tanqueu", "l'aixeta", "perquè", "no es malgasti", "l'aigua"]
+    extra: ["es malgasta"]
+    answers:
+      - "Tanqueu l'aixeta perquè no es malgasti l'aigua."
+      - "Perquè no es malgasti l'aigua, tanqueu l'aixeta."
+    explanation: "L'objectiu de tancar l'aixeta és que no es malgasti l'aigua: *perquè* + subjuntiu. El bloc final pot anar davant o darrere."
+
+  - id: b2-40-019
+    type: order
+    point: concessives
+    lesson: 2
+    cue: "En Jordi explica com van treballar a l'hort amb la calor que feia."
+    chunks: ["Malgrat", "la calor", "van treballar", "tot el dia", "a l'hort"]
+    extra: ["que"]
+    answers:
+      - "Malgrat la calor, van treballar tot el dia a l'hort."
+      - "Van treballar tot el dia a l'hort malgrat la calor."
+    explanation: "La calor és un obstacle real: *malgrat* + nom. Davant d'un nom, *malgrat* no porta *que*."
+
+  - id: b2-40-020
+    type: choice
+    point: concessives
+    lesson: 2
+    prompt: "___ insistiu, no us abaixaran la factura."
+    answer: "Per més que"
+    distractors:
+      - text: "Per tal que"
+        why: "*Per tal que* expressa finalitat («amb l'objectiu que insistiu»), que no té sentit aquí."
+      - text: "Tot i"
+        why: "Davant d'una frase amb verb conjugat cal *tot i que*, no *tot i* tot sol."
+    explanation: "L'esforç és inútil: per més que insistiu, no us abaixaran la factura. *Per més que* va amb subjuntiu."
+
+  - id: b2-40-021
+    type: choice
+    point: finals
+    lesson: 2
+    prompt: "Posarem plaques solars perquè la factura ___ més barata."
+    answer: "surti"
+    distractors:
+      - text: "surt"
+        why: "L'indicatiu expressaria la causa: si la factura ja surt barata, no caldria posar plaques. És la finalitat: *surti*."
+      - text: "sortiria"
+        why: "El condicional no va mai darrere d'un connector de finalitat."
+    explanation: "Posar plaques té un objectiu futur: que la factura surti més barata. La finalitat demana subjuntiu."
+
+  - id: b2-40-022
+    type: choice
+    point: concessives
+    lesson: 2
+    prompt: "Què vol dir «Encara que estigui cansat, vindrà a la xerrada sobre el canvi climàtic»?"
+    answer: "Potser està cansat, però vindrà igualment."
+    distractors:
+      - text: "Està cansat i vindrà igualment."
+        why: "El subjuntiu no diu que estigui cansat: només que és possible."
+      - text: "Vindrà només si està cansat."
+        why: "No és una condició: vindrà tant si està cansat com si no."
+    explanation: "El subjuntiu (*estigui*) presenta el cansament com una possibilitat, no com un fet: potser està cansat, però vindrà igualment."
+
+  - id: b2-40-023
+    type: inline-choice
+    point: finals
+    lesson: 2
+    title: "La factura de la llum"
+    text: "Vols pagar menys de llum? Apaga els llums {perquè|tot i que|així doncs} no gastin energia quan no hi ha ningú. {Tot i que|Perquè|De manera que} fa mandra, desconnecta els aparells del tot, {perquè|tot i que|de manera que} el consum en repòs també es paga. Posarem plaques solars {perquè|tot i que|així doncs} la factura surti més barata."
+    explanation: "Apagar els llums i posar plaques tenen un objectiu (*perquè* + subjuntiu). La mandra és un obstacle (*tot i que* + indicatiu) i el consum en repòs és la causa (*perquè* + indicatiu)."
+
+  - id: b2-40-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—Vindreu a netejar el riu dissabte? —___: no ens ho perdríem per res del món."
+    answer: "De totes totes"
+    distractors:
+      - text: "De tant en tant"
+        why: "Vol dir «a vegades»: aquí vindran segur."
+      - text: "De mica en mica"
+        why: "Vol dir «poc a poc»: aquí vindran segur."
+    explanation: "«De totes totes» vol dir amb tota decisió: vindran segur, no s'ho perdran per res del món."
+
+  - id: b2-40-025
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "___, acabarem el parc eòlic abans de l'estiu."
+    hint: "expressió: malgrat totes les dificultats"
+    answers: ["Contra vent i marea"]
+    wrong_answers:
+      - text: "Contra el vent i la marea"
+        why: "L'expressió fixa no porta articles: *contra vent i marea*."
+    grading: tolerant
+    explanation: "«Contra vent i marea» vol dir malgrat totes les dificultats: l'expressió no porta articles."
+
+  - id: b2-40-026
+    type: choice
+    point: finals
+    lesson: 2
+    prompt: "Parla a poc a poc ___ tothom t'entengui."
+    answer: "perquè"
+    distractors:
+      - text: "tot i que"
+        why: "No és una concessió: que t'entenguin és l'objectiu."
+      - text: "per més que"
+        why: "No és un esforç inútil: que t'entenguin és l'objectiu."
+    explanation: "Parlar a poc a poc té un objectiu: que tothom t'entengui. La finalitat s'expressa amb *perquè* + subjuntiu."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-40-027
+    type: fill
+    point: consecutives
+    lesson: 3
+    prompt: "La tempesta va ser ___ forta que va arrencar deu arbres del passeig."
+    hint: "tan o tant?"
+    answers: ["tan"]
+    wrong_answers:
+      - text: "tant"
+        why: "Davant d'adjectiu (*forta*), el quantificador és *tan*, invariable."
+    grading: tolerant
+    explanation: "Davant d'adjectiu (*forta*), el quantificador és *tan*, invariable: *tan… que*."
+
+  - id: b2-40-028
+    type: fill
+    point: consecutives
+    lesson: 3
+    prompt: "Hi havia ___ gent a la manifestació que no hi cabia ni una agulla."
+    hint: "tant, concordat amb «gent»"
+    answers: ["tanta"]
+    wrong_answers:
+      - text: "tan"
+        why: "Amb un nom, *tant* concordat: *tanta*."
+      - text: "tantes"
+        why: "«Gent» és singular: *tanta*."
+    grading: tolerant
+    explanation: "«Gent» és un nom femení singular: *tanta… que*, amb *tant* concordat."
+
+  - id: b2-40-029
+    type: choice
+    point: consecutives
+    lesson: 3
+    prompt: "Hi va haver un incendi forestal a prop del poble, ___ vam haver de tancar les finestres."
+    answer: "de manera que"
+    distractors:
+      - text: "per tal que"
+        why: "*Per tal que* demana subjuntiu; «vam haver» és indicatiu."
+      - text: "tot i que"
+        why: "No és una concessió: tancar les finestres és la conseqüència de l'incendi."
+    explanation: "Tancar les finestres és el resultat de l'incendi: *de manera que* + indicatiu."
+
+  - id: b2-40-030
+    type: choice
+    point: consecutives
+    lesson: 3
+    prompt: "No quedaven entrades. ___, vam tornar a casa."
+    answer: "Així doncs"
+    distractors:
+      - text: "Tot i que"
+        why: "Tornar a casa no és malgrat que no hi hagués entrades: és la conseqüència."
+      - text: "Perquè"
+        why: "Tornar a casa no és la causa de res: és el resultat. *Perquè* introdueix la causa dins la mateixa frase."
+    explanation: "Tornar a casa és la conclusió: *així doncs* introdueix el resultat en una frase nova."
+
+  - id: b2-40-031
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "A pesar de que plou, els voluntaris netegen la platja."
+    error: "A pesar de que"
+    fix: "Malgrat que"
+    fix_distractors:
+      - text: "Malgrat de que"
+        why: "*Malgrat que*, sense *de*."
+      - text: "A pesar que"
+        why: "Encara és el calc «a pesar de»: en català, *malgrat que*."
+    explanation: "*A pesar de que* és un calc de «a pesar de que». En català, el connector és *malgrat que* (o *tot i que*)."
+
+  - id: b2-40-032
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "T'ho apunto para que no ho oblidis."
+    error: "para que"
+    fix: "perquè"
+    fix_distractors:
+      - text: "per a que"
+        why: "*Per a que* no existeix: la finalitat és *perquè*."
+      - text: "per què"
+        why: "*Per què* pregunta el motiu; la finalitat és *perquè*, en una paraula."
+    explanation: "*Para que* és un calc de «para que». La finalitat s'expressa amb *perquè* + subjuntiu."
+
+  - id: b2-40-033
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "A pesar de la sequera, l'hort urbà ha donat molts tomàquets."
+    error: "A pesar de"
+    fix: "Malgrat"
+    fix_distractors:
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta *de*: *malgrat la sequera*."
+      - text: "Malgrat que"
+        why: "Davant d'un nom (*la sequera*), *malgrat* sense *que*."
+    explanation: "*A pesar de* és un calc de «a pesar de». Davant d'un nom, en català diem *malgrat*, sense *que*."
+
+  - id: b2-40-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Malgrat que feia fred, vam anar a la manifestació pel medi ambient."
+    no_error: true
+    explanation: "La frase és correcta: *malgrat que* + indicatiu (*feia*) presenta un obstacle real."
+
+  - id: b2-40-035
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "T'ho dic ___ ho tinguis clar abans de votar."
+    answer: "perquè"
+    distractors:
+      - text: "para que"
+        why: "*Para que* és un calc de «para que»: en català, *perquè* + subjuntiu."
+      - text: "per a que"
+        why: "*Per a que* no existeix: la finalitat és *perquè* + subjuntiu."
+    explanation: "Dir-ho té un objectiu: que ho tinguis clar. La finalitat és *perquè* + subjuntiu; *para que* i *per a que* són incorrectes."
+
+  - id: b2-40-036
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "___ la pluja, la festa del barri es va fer igualment."
+    answer: "Malgrat"
+    distractors:
+      - text: "A pesar de"
+        why: "*A pesar de* és un calc de «a pesar de»: en català, *malgrat*."
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta *de*: *malgrat la pluja*."
+    explanation: "Davant d'un nom (*la pluja*), el connector és *malgrat*, sense *que*. *A pesar de* és un calc del castellà."
+
+  - id: b2-40-037
+    type: choice
+    point: consecutives
+    lesson: 3
+    prompt: "Què vol dir «Parla tan de pressa que no l'entenc»?"
+    answer: "Parla molt de pressa i no l'entenc."
+    distractors:
+      - text: "Parla de pressa perquè no l'entengui."
+        why: "No és l'objectiu: no entendre'l és el resultat."
+      - text: "Parla de pressa, però l'entenc."
+        why: "Al contrari: el resultat és que no l'entenc."
+    explanation: "«Tan de pressa que» expressa el resultat: parla molt de pressa i, per això, no l'entenc."
+
+  - id: b2-40-038
+    type: fill
+    point: consecutives
+    lesson: 3
+    prompt: "Va caure ___ aigua que el carrer es va inundar."
+    hint: "tant, concordat amb «aigua»"
+    answers: ["tanta"]
+    wrong_answers:
+      - text: "tant"
+        why: "«Aigua» és femení singular: *tanta*."
+      - text: "tantes"
+        why: "«Aigua» és singular: *tanta*."
+    grading: tolerant
+    explanation: "«Aigua» és un nom femení singular: *tanta… que*, amb *tant* concordat."
+
+  - id: b2-40-039
+    type: fill
+    point: consecutives
+    lesson: 3
+    prompt: "El tren anava ___ ple que no vam poder seure."
+    hint: "tan o tant?"
+    answers: ["tan"]
+    wrong_answers:
+      - text: "tant"
+        why: "Davant d'adjectiu (*ple*), el quantificador és *tan*, invariable."
+    grading: tolerant
+    explanation: "Davant d'adjectiu (*ple*), el quantificador és *tan*, invariable: *tan… que*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-40-040
+    type: transform
+    point: concessives
+    lesson: 4
+    instruction: "Uneix les dues frases amb «tot i que»."
+    source: "[[Plou a bots i barrals]]. Els voluntaris netegen la platja igualment."
+    answers:
+      - "Tot i que plou a bots i barrals, els voluntaris netegen la platja."
+      - "Els voluntaris netegen la platja tot i que plou a bots i barrals."
+      - "Tot i que plou a bots i barrals, els voluntaris netegen la platja igualment."
+      - "Els voluntaris netegen la platja igualment tot i que plou a bots i barrals."
+    grading: tolerant
+    explanation: "La pluja és un obstacle real: *tot i que* + indicatiu. El bloc concessiu pot anar davant o darrere."
+
+  - id: b2-40-041
+    type: transform
+    point: concessives
+    lesson: 4
+    instruction: "Reescriu la frase amb «encara que»."
+    source: "[[Potser farà fred demà]], però sortirem a plantar arbres igualment."
+    answers:
+      - "Encara que faci fred demà, sortirem a plantar arbres."
+      - "Sortirem a plantar arbres encara que faci fred demà."
+      - "Encara que faci fred demà, sortirem a plantar arbres igualment."
+      - "Sortirem a plantar arbres igualment encara que faci fred demà."
+    wrong_answers:
+      - text: "Encara que fa fred demà, sortirem a plantar arbres."
+        why: "«Demà» presenta una hipòtesi: cal subjuntiu, *faci*."
+    grading: tolerant
+    explanation: "«Potser farà fred» és una hipòtesi: *encara que* + subjuntiu (*faci*). El bloc pot anar davant o darrere."
+
+  - id: b2-40-042
+    type: transform
+    point: finals
+    lesson: 4
+    instruction: "Reescriu la frase amb «per tal que»."
+    source: "Tanca l'aixeta [[perquè no es malgasti l'aigua]]."
+    answers:
+      - "Tanca l'aixeta per tal que no es malgasti l'aigua."
+      - "Per tal que no es malgasti l'aigua, tanca l'aixeta."
+    wrong_answers:
+      - text: "Tanca l'aixeta per tal de que no es malgasti l'aigua."
+        why: "*Per tal que*, sense *de*."
+    grading: tolerant
+    explanation: "*Per tal que* expressa finalitat, com *perquè*: tancar l'aixeta amb l'objectiu que no es malgasti l'aigua."
+
+  - id: b2-40-043
+    type: transform
+    point: consecutives
+    lesson: 4
+    instruction: "Uneix les dues frases amb «tan… que»."
+    source: "El pis és molt sorollós. [[No podem dormir amb la finestra oberta.]]"
+    answers:
+      - "El pis és tan sorollós que no podem dormir amb la finestra oberta."
+    wrong_answers:
+      - text: "El pis és tant sorollós que no podem dormir amb la finestra oberta."
+        why: "Davant d'adjectiu (*sorollós*), el quantificador és *tan*."
+    grading: tolerant
+    explanation: "No poder dormir és el resultat: el pis és *tan sorollós que* no podem dormir. Davant d'adjectiu, *tan*."
+
+  - id: b2-40-044
+    type: transform
+    point: finals
+    lesson: 4
+    instruction: "Uneix les dues frases amb «perquè»."
+    source: "[[Vull que entenguis l'informe]]. Te l'explico a poc a poc."
+    answers:
+      - "Te l'explico a poc a poc perquè entenguis l'informe."
+      - "Perquè entenguis l'informe, te l'explico a poc a poc."
+    wrong_answers:
+      - text: "Te l'explico a poc a poc perquè entens l'informe."
+        why: "La finalitat demana subjuntiu: *entenguis*."
+    grading: tolerant
+    explanation: "Explicar l'informe té un objectiu: que l'entenguis. La finalitat s'expressa amb *perquè* + subjuntiu."
+
+  - id: b2-40-045
+    type: transform
+    point: consecutives
+    lesson: 4
+    instruction: "Uneix les dues frases amb «de manera que»."
+    source: "Va nevar molt. [[Vam haver de tancar l'escola.]]"
+    answers:
+      - "Va nevar molt, de manera que vam haver de tancar l'escola."
+    wrong_answers:
+      - text: "Va nevar molt, de manera que haguéssim de tancar l'escola."
+        why: "El tancament és el resultat de la nevada, no l'objectiu: *de manera que* + indicatiu."
+    grading: tolerant
+    explanation: "Tancar l'escola és el resultat de la nevada: *de manera que* + indicatiu."
+
+  - id: b2-40-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[A pesar de que no hi ha aigua]], reguen el jardí cada dia."
+    answers:
+      - "Malgrat que no hi ha aigua, reguen el jardí cada dia."
+      - "Tot i que no hi ha aigua, reguen el jardí cada dia."
+      - "Reguen el jardí cada dia malgrat que no hi ha aigua."
+      - "Reguen el jardí cada dia tot i que no hi ha aigua."
+    wrong_answers:
+      - text: "A pesar que no hi ha aigua, reguen el jardí cada dia."
+        why: "Encara és el calc «a pesar de»: en català, *malgrat que*."
+    grading: tolerant
+    explanation: "*A pesar de que* és un calc del castellà. En català diem *malgrat que* (o *tot i que*) + indicatiu."
+
+  - id: b2-40-047
+    type: fill
+    point: finals
+    lesson: 4
+    prompt: "Us passo l'adreça de la deixalleria perquè hi ___ demà al matí."
+    hint: "poder anar, segona persona plural"
+    answers: ["pugueu anar"]
+    wrong_answers:
+      - text: "podeu anar"
+        why: "La finalitat demana subjuntiu: *pugueu anar*."
+    grading: tolerant
+    explanation: "Passar l'adreça té un objectiu: que hi pugueu anar. La finalitat demana subjuntiu."
+
+  - id: b2-40-048
+    type: fill
+    point: consecutives
+    lesson: 4
+    prompt: "S'ha fet ___ tard que ja no hi ha transport públic."
+    hint: "tan o tant?"
+    answers: ["tan"]
+    wrong_answers:
+      - text: "tant"
+        why: "Davant d'adjectiu (*tard*), el quantificador és *tan*, invariable."
+    grading: tolerant
+    explanation: "Davant d'adjectiu (*tard*), el quantificador és *tan*, invariable: *tan… que*."
+
+  - id: b2-40-049
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "___ no arribi tard, l'avisarem amb temps."
+    hint: "connector de finalitat"
+    answers: ["Perquè", "Per tal que", "A fi que"]
+    wrong_answers:
+      - text: "Para que"
+        why: "*Para que* és un calc de «para que»: en català, *perquè* + subjuntiu."
+    grading: tolerant
+    explanation: "Avisar-lo té un objectiu: que no arribi tard. La finalitat és *perquè* (o *per tal que*, *a fi que*) + subjuntiu."
+
+  - id: b2-40-050
+    type: order
+    point: consecutives
+    lesson: 4
+    cue: "Explica que la calor no els va deixar dormir."
+    chunks: ["Feia", "tanta calor", "que", "no van poder", "dormir"]
+    extra: ["tan"]
+    answers:
+      - "Feia tanta calor que no van poder dormir."
+    explanation: "No poder dormir és el resultat de la calor: *tanta calor que…*, amb *tant* concordat amb «calor»."
+
+  - id: b2-40-051
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "L'Ibrahim explica que ho apunta amb l'objectiu de no oblidar-ho."
+    chunks: ["M'ho", "apunto", "perquè", "no ho oblidi"]
+    extra: ["para que"]
+    answers:
+      - "M'ho apunto perquè no ho oblidi."
+      - "Perquè no ho oblidi, m'ho apunto."
+    explanation: "Apuntar-ho té un objectiu: no oblidar-ho. La finalitat és *perquè* + subjuntiu; *para que* és un calc."
+
+  - id: b2-40-052
+    type: inline-choice
+    point: consecutives
+    lesson: 4
+    title: "Reunió de veïns"
+    text: "La tempesta d'ahir va ser {tan|tant|molt} forta que va arrencar deu arbres del passeig. Hi havia {tanta|tan|tantes} aigua al soterrani que vam haver d'avisar els bombers. La presidenta va parlar {tan|tant|tan de} de pressa que ningú la va entendre. Estàvem {tan|tant|tants} cansats que vam plegar a les deu."
+    explanation: "La força de la tempesta, l'aigua, la velocitat i el cansament porten un resultat: *tan… que* amb adjectius i adverbis, *tanta… que* amb el nom femení «aigua»."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-40-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un poble que vol viure del sol"
+    text: |
+      Fa cinc anys, l'Ajuntament de Vilabona, un poble de tres mil habitants de la comarca d'Osona, va decidir que el municipi viuria de l'energia renovable per reduir la contaminació. Tot i que el pressupost era molt just, van instal·lar plaques solars a l'escola, al pavelló i a la residència d'avis. Malgrat que alguns veïns protestaven perquè les obres feien soroll, el projecte va tirar endavant.
+
+      L'objectiu era clar: produir al poble tota l'electricitat que es consumeix. Per tal que tothom entengués el projecte, l'Ajuntament va organitzar xerrades obertes. «Volem que la factura de la llum surti més barata i que els diners es quedin al poble», va explicar l'alcaldessa, la Núria Vilar.
+
+      Per més que ho intentessin, no aconseguien convèncer tothom. Alguns pagesos deien que les plaques ocupaven massa terra. L'Ajuntament les va posar en terrats i en aparcaments, de manera que no es va perdre ni un pam de conreu. Finalment, gairebé tothom hi va estar d'acord.
+
+      Tres anys després, els resultats són tan bons que altres pobles volen copiar el model. La factura mitjana ha baixat un trenta per cent, un estalvi important per a les famílies, i les emissions del poble també han baixat, encara que el preu de l'electricitat ha pujat a tot el país. S'ha creat una cooperativa amb dos-cents socis que gestiona les instal·lacions. Els beneficis es fan servir perquè l'escola tingui menjador gratuït. També han millorat el reciclatge: hi ha contenidors nous a cada carrer i reutilitzen l'aigua de la pluja per regar el camp de futbol.
+
+      També organitzen xerrades sobre el canvi climàtic a l'escola. Sigui com sigui, la Núria diu que la feina no s'ha acabat: ara volen canviar la calefacció dels edificis públics. Contra vent i marea, Vilabona continua endavant.
+    questions:
+      - prompt: "Què va fer l'Ajuntament tot i tenir pocs diners?"
+        answer: "Va instal·lar plaques solars en tres edificis públics."
+        distractors:
+          - text: "Va tancar la residència d'avis per estalviar diners."
+            why: "La residència és un dels edificis on van posar plaques."
+          - text: "Va esperar a tenir més pressupost abans de començar."
+            why: "Van començar tot i que el pressupost era just."
+      - prompt: "Per què es van queixar alguns veïns al principi?"
+        answer: "Perquè les obres feien soroll."
+        distractors:
+          - text: "Perquè les plaques ocupaven massa terra de conreu."
+            why: "Això ho deien els pagesos, no els veïns."
+          - text: "Perquè no volien pagar la factura de la llum."
+            why: "El text no diu que la factura fos el motiu de la queixa."
+      - prompt: "Com es va resoldre el problema de la terra de conreu?"
+        answer: "Es van posar les plaques en terrats i aparcaments."
+        distractors:
+          - text: "Es va pagar als pagesos per cada pam de terra ocupat."
+            why: "El text no diu que paguessin als pagesos."
+          - text: "Es van treure les plaques de l'escola i del pavelló."
+            why: "Les plaques de l'escola i del pavelló hi continuen."
+      - prompt: "Què es fa amb els beneficis de la cooperativa?"
+        answer: "Es paga el menjador gratuït de l'escola."
+        distractors:
+          - text: "Es canvia la calefacció dels edificis públics."
+            why: "Això és el pròxim projecte, encara no fet."
+          - text: "S'abaixa el preu de l'electricitat de tot el país."
+            why: "El preu ha pujat a tot el país; al poble ha baixat la factura."
+    explanation: "El text explica com Vilabona va passar a l'energia renovable malgrat les dificultats."
+
+  - id: b2-40-054
+    type: find-error
+    point: concessives
+    lesson: 5
+    sentence: "Encara que plourà demà, la festa del barri es farà igualment."
+    error: "plourà"
+    fix: "plogui"
+    fix_distractors:
+      - text: "plou"
+        why: "El present d'indicatiu presenta un fet real; «demà» aquí presenta una hipòtesi: cal subjuntiu."
+      - text: "ploguin"
+        why: "*Ploure* és impersonal: tercera persona singular, *plogui*."
+    explanation: "«Demà» presenta una hipòtesi: *encara que* + subjuntiu (*plogui*). El futur d'indicatiu no hi és possible."
+
+  - id: b2-40-055
+    type: find-error
+    point: finals
+    lesson: 5
+    sentence: "Explica-ho a la Laia perquè ho entén."
+    error: "entén"
+    fix: "entengui"
+    fix_distractors:
+      - text: "entengués"
+        why: "Amb una ordre en present («explica-ho»), la finalitat va en present de subjuntiu: *entengui*."
+      - text: "entendrà"
+        why: "El futur no va mai darrere d'un *perquè* de finalitat."
+    explanation: "Explicar-ho té un objectiu: que ho entengui. La finalitat demana subjuntiu, no indicatiu."
+
+  - id: b2-40-056
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "T'ho apunto perquè no ho oblidis."
+    no_error: true
+    explanation: "La frase és correcta: *perquè* + subjuntiu (*oblidis*) expressa la finalitat."
+
+  - id: b2-40-057
+    type: choice
+    point: consecutives
+    lesson: 5
+    prompt: "S'ha fet tan fosc ___ hem hagut d'encendre els llums."
+    answer: "que"
+    distractors:
+      - text: "perquè"
+        why: "Darrere de *tan* + adjectiu, la consecutiva porta *que*, no *perquè*."
+      - text: "per tal que"
+        why: "La consecutiva amb *tan* porta *que*, no un connector de finalitat."
+    explanation: "Darrere de *tan* + adjectiu, la consecutiva continua amb *que*."
+
+  - id: b2-40-058
+    type: choice
+    point: finals
+    lesson: 5
+    prompt: "Deixa el cotxe a casa, ___ hi ha vaga de transports."
+    answer: "perquè"
+    distractors:
+      - text: "per tal que"
+        why: "*Per tal que* només expressa finalitat, amb subjuntiu; «hi ha» és indicatiu."
+      - text: "de manera que"
+        why: "La vaga no és el resultat de deixar el cotxe: és la causa."
+    explanation: "La vaga és la causa de deixar el cotxe: *perquè* + indicatiu. *Per tal que* només expressa finalitat, amb subjuntiu."
+
+  - id: b2-40-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "En Wei diu que vindrà a la manifestació contra el plàstic ___."
+    answer: "passi el que passi"
+    distractors:
+      - text: "passi el que passa"
+        why: "L'expressió fixa porta els dos verbs en subjuntiu: *passi el que passi*."
+      - text: "passa el que passi"
+        why: "El primer verb també va en subjuntiu: *passi*."
+    explanation: "«Passi el que passi» vol dir faci el que faci el futur: vindrà a la manifestació en qualsevol cas."
+
+  - id: b2-40-060
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "___, el resultat és un èxit: hem recollit dues tones de deixalles."
+    hint: "expressió: en tot cas"
+    answers: ["Sigui com sigui"]
+    wrong_answers:
+      - text: "Sigui com serà"
+        why: "L'expressió fixa porta els dos verbs en present de subjuntiu: *sigui com sigui*."
+    grading: tolerant
+    explanation: "«Sigui com sigui» vol dir en tot cas: l'èxit no depèn de com vagin les coses."
+
+  - id: b2-40-061
+    type: fill
+    point: consecutives
+    lesson: 5
+    prompt: "Menja ___ lentament que sempre acaba l'últim."
+    hint: "tan o tant?"
+    answers: ["tan"]
+    wrong_answers:
+      - text: "tant"
+        why: "Davant d'adverbi (*lentament*), el quantificador és *tan*, invariable."
+    grading: tolerant
+    explanation: "Davant d'adverbi (*lentament*), el quantificador és *tan*, invariable: *tan… que*."
+
+  - id: b2-40-062
+    type: order
+    point: concessives
+    lesson: 5
+    cue: "La Carla anuncia la plantada d'arbres: potser farà fred, però es farà igualment."
+    chunks: ["Encara que", "faci fred", "sortirem", "a plantar arbres"]
+    extra: ["fa fred"]
+    answers:
+      - "Encara que faci fred, sortirem a plantar arbres."
+      - "Sortirem a plantar arbres encara que faci fred."
+    explanation: "El fred és una hipòtesi futura: *encara que* + subjuntiu (*faci*). El bloc pot anar davant o darrere."
+
+  - id: b2-40-063
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació en què es pot fer servir."
+    pairs:
+      - ["contra vent i marea", "Van acabar el parc eòlic malgrat les protestes i els retards."]
+      - ["de totes totes", "Votarà a favor segur: no té cap dubte."]
+      - ["sigui com sigui", "Tant se val el resultat: ho hem intentat."]
+      - ["costi el que costi", "Volen salvar el bosc, encara que calgui gastar molts diners."]
+      - ["passi el que passi", "Encara no sap què decidirà l'Ajuntament, però continuarà reciclant."]
+    explanation: "Són cinc maneres de dir que continuem endavant, passi el que passi."
+
+  - id: b2-40-064
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix la frase."
+    source: "T'ho explico [[para que ho entenguis]]."
+    answers:
+      - "T'ho explico perquè ho entenguis."
+      - "T'ho explico per tal que ho entenguis."
+      - "T'ho explico a fi que ho entenguis."
+      - "Perquè ho entenguis, t'ho explico."
+      - "Per tal que ho entenguis, t'ho explico."
+      - "A fi que ho entenguis, t'ho explico."
+    wrong_answers:
+      - text: "T'ho explico per a que ho entenguis."
+        why: "*Per a que* no existeix: la finalitat és *perquè* + subjuntiu."
+    grading: tolerant
+    explanation: "*Para que* és un calc de «para que». La finalitat s'expressa amb *perquè* (o *per tal que*, *a fi que*) + subjuntiu."

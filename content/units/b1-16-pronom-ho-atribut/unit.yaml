@@ -1,0 +1,995 @@
+id: b1-16
+level: B1
+title: "El pronom *ho* i l'atribut"
+summary: "Aprens a fer servir *ho* per a les idees (*ho sé*, *no ho entenc*) i per a l'atribut (*sí que ho és*, *ho sembla*), davant i darrere del verb."
+vocabulary_theme: "Personalitat i emocions"
+points:
+  - id: ho-neutre
+    title: "*Ho* neutre: *ho sé*, *ho faré*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: ho-atribut
+    title: "*Ho* atribut amb *ser*, *estar* i *semblar*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: ho-posicio
+    title: "La posició de *ho*: davant i darrere del verb"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: no ometre *ho*"
+  - id: expressions
+    title: "Expressions amb *ho*"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: *ho* neutre i *ho* atribut"
+  - title: "Practicar *ho*: idees i atributs"
+  - title: "La posició de *ho* i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "tranquil, tranquil·la"
+    definition: "Que no es posa nerviós amb facilitat."
+    example: "L'Ibrahim és un home tranquil: mai crida."
+  - word: "nerviós, nerviosa"
+    definition: "Que està tens o preocupat per alguna cosa."
+    example: "Estic nerviosa: demà tinc l'entrevista."
+  - word: "alegre"
+    definition: "Que mostra alegria o bon humor."
+    example: "És una noia alegre: sempre riu."
+  - word: "trist, trista"
+    definition: "Que sent pena o melancolia."
+    example: "Avui estic trista: ha marxat la meva germana."
+  - word: "vergonyós, vergonyosa"
+    definition: "A qui li costa parlar o actuar davant dels altres."
+    example: "De petit era molt vergonyós."
+  - word: "tossut, tossuda"
+    definition: "Que no canvia d'opinió amb facilitat."
+    example: "El meu germà és tossut: sempre vol tenir raó."
+  - word: "generós, generosa"
+    definition: "Que dona amb gust als altres."
+    example: "La veïna és generosa: ens porta pastís."
+  - word: "gelós, gelosa"
+    definition: "Que té por de perdre l'estima d'algú."
+    example: "El seu gat és gelós del gos nou."
+  - word: "orgullós, orgullosa"
+    definition: "Que se sent molt satisfet d'alguna cosa."
+    example: "Estan orgullosos del seu fill."
+  - word: "poruc, poruga"
+    definition: "Que té por amb facilitat."
+    example: "El meu gat és poruc: s'amaga quan truquen."
+  - word: "valent"
+    definition: "Que no té por davant d'una dificultat."
+    example: "Vas ser molt valenta, ahir."
+  - word: "sincer, sincera"
+    definition: "Que diu el que pensa, sense mentir."
+    example: "Sigues sincera: t'ha agradat?"
+  - word: "simpàtic, simpàtica"
+    definition: "Que cau bé als altres."
+    example: "El nou company és molt simpàtic."
+  - word: "pacient"
+    definition: "Que sap esperar sense posar-se nerviós."
+    example: "Has de ser pacient amb els nens."
+  - word: "impacient"
+    definition: "Que no sap esperar."
+    example: "Soc impacient: ho vull tot de seguida."
+  - word: "optimista"
+    definition: "Que espera que les coses aniran bé."
+    example: "Soc optimista: segur que ho aconseguim."
+  - word: "sensible"
+    definition: "Que nota amb força les emocions."
+    example: "És una nena sensible: plora amb les pel·lícules."
+  - word: "el caràcter"
+    definition: "La manera de ser d'una persona."
+    example: "Té un caràcter tranquil, com el seu pare."
+  - word: "l'humor"
+    definition: "L'estat d'ànim en un moment concret."
+    example: "Avui està de bon humor."
+  - word: "la por"
+    definition: "El sentiment davant d'un perill."
+    example: "Tinc por de parlar en públic."
+  - word: "l'alegria"
+    definition: "El sentiment de felicitat."
+    example: "Quina alegria veure't!"
+  - word: "la tristesa"
+    definition: "El sentiment de pena."
+    example: "La tristesa marxarà amb el temps."
+  - word: "la vergonya"
+    definition: "El sentiment quan fem una cosa que no calia."
+    example: "Quina vergonya: m'he equivocat de porta."
+  - word: "la ràbia"
+    definition: "Un enuig molt fort."
+    example: "Em fa ràbia perdre el tren."
+  - word: "la calma"
+    definition: "L'absència de nervis."
+    example: "Respira amb calma abans de parlar."
+  - word: "la paciència"
+    definition: "La capacitat de saber esperar."
+    example: "Amb els nens cal molta paciència."
+  - word: "l'enuig"
+    definition: "Un disgust petit amb algú."
+    example: "El seu enuig va durar un dia."
+  - word: "fer por"
+    definition: "Causar por."
+    example: "Les aranyes em fan por."
+  - word: "fer vergonya"
+    definition: "Causar vergonya."
+    example: "Em fa vergonya parlar en públic."
+  - word: "fer ràbia"
+    definition: "Causar un enuig fort."
+    example: "Em fa ràbia suspendre l'examen."
+  - word: "fer pena"
+    definition: "Causar tristesa."
+    example: "Em fa pena veure'l tan trist."
+  - word: "enfadar-se"
+    definition: "Posar-se en contra d'algú per una cosa que ha fet."
+    example: "No t'enfadis: ha estat un error."
+  - word: "calmar-se"
+    definition: "Tornar a la calma."
+    example: "Escolta música per calmar-te."
+  - word: "confiar"
+    definition: "Creure que algú farà una cosa bé."
+    example: "Confio en tu: ho faràs bé."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-16-001
+    type: choice
+    point: ho-neutre
+    lesson: 1
+    prompt: "—Saps que tanquen el bar del barri? —Sí, ___ sé."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* substitueix un nom masculí. Aquí substituïm tota la idea «que tanquen el bar»: *ho*."
+      - text: "hi"
+        why: "*Hi* és per a un lloc. Aquí no hi ha cap lloc: és una idea, *ho*."
+    explanation: "«Que tanquen el bar» és una idea sencera, no un nom. Les idees se substitueixen per *ho*: *ho sé*."
+
+  - id: b1-16-002
+    type: choice
+    point: ho-neutre
+    lesson: 1
+    prompt: "—Creus que demà plourà? —No ___ crec: el cel és ben blau."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* necessitaria un nom masculí, i aquí no n'hi ha cap: el que no creus és la idea «que plourà», *ho*."
+      - text: "hi"
+        why: "*Hi* és per a un lloc. Aquí és una idea: *ho*."
+    explanation: "«Que demà plourà» és una idea, no un nom. Les idees van amb *ho*: *no ho crec*."
+
+  - id: b1-16-003
+    type: choice
+    point: ho-neutre
+    lesson: 1
+    prompt: "«Ho va dir la directora.» Què substitueix «ho»?"
+    answer: "El que va dir."
+    distractors:
+      - text: "La directora."
+        why: "*La directora* és el subjecte, no el que se substitueix."
+      - text: "Un nom concret."
+        why: "*Ho* aquí substitueix tota la idea. Si fos un nom masculí concret, el pronom seria *el*."
+    explanation: "*Ho* substitueix el que va dir (una idea o una frase sencera), no qui ho va dir."
+
+  - id: b1-16-004
+    type: choice
+    point: ho-atribut
+    lesson: 1
+    prompt: "—És veritat que plegues? —Sí que ___ és."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* substitueix un nom masculí. «Veritat» és l'atribut: *ho*."
+      - text: "la"
+        why: "*Ho* atribut no concorda: encara que «veritat» sigui femení, el pronom és *ho*."
+    explanation: "«Veritat» és l'atribut de *ser*. L'atribut se substitueix per *ho*, que no canvia mai."
+
+  - id: b1-16-005
+    type: choice
+    point: ho-atribut
+    lesson: 1
+    prompt: "—Està contenta, la Montse, amb el nou horari? —Sí que ___ està."
+    answer: "ho"
+    distractors:
+      - text: "la"
+        why: "*Ho* atribut no concorda amb el subjecte: encara que la Montse sigui «ella», és *ho*."
+      - text: "hi"
+        why: "*Hi està* voldria dir que és en un lloc. Aquí és l'atribut «contenta»: *ho*."
+    explanation: "«Contenta» és l'atribut de *estar*. El verb es repeteix igual i l'atribut es converteix en *ho*."
+
+  - id: b1-16-006
+    type: choice
+    point: ho-atribut
+    lesson: 1
+    prompt: "—Sembla fàcil, l'examen de divendres? —Sí, ___ sembla."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* seria un nom masculí. «Fàcil» és l'atribut: *ho*."
+      - text: "hi"
+        why: "*Hi* és per a un lloc. Aquí és l'atribut «fàcil»: *ho*."
+    explanation: "«Fàcil» és l'atribut de *semblar*. Com amb *ser* i *estar*, l'atribut se substitueix per *ho*."
+
+  - id: b1-16-007
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["ja ho veuràs", "Si no estudies, suspendràs."]
+      - ["tant m'és", "Cafè o te? Totes dues opcions em van bé."]
+      - ["ho sento molt", "He arribat tard a la reunió."]
+      - ["no ho sé pas", "No en tinc ni idea, de veritat."]
+    explanation: "Són quatre expressions molt habituals: fixa't en quina situació va cadascuna."
+
+  - id: b1-16-008
+    type: inline-choice
+    point: ho-neutre
+    lesson: 1
+    title: "Un missatge de l'Arnau"
+    text: "Hola, Laia. Ja {ho|el} sé, que demà plourà: {ho|el} ha dit el meteoròleg. Si vols, {ho|el} comentem a la feina. Jo no {ho|la} entenc: tot canvia cada dia, però el meu avi tampoc {ho|el} entén."
+    explanation: "En tots els forats substituïm una idea: *ho*. *El* i *la* només van amb un nom concret."
+
+  - id: b1-16-009
+    type: fill
+    point: ho-neutre
+    lesson: 1
+    prompt: "—Diuen que pujaran el lloguer. —Sí, ___ va dir la veïna del tercer."
+    hint: "pronom per a «que pujaran el lloguer»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* seria un nom masculí. «Que pujaran el lloguer» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que pujaran el lloguer» és una idea sencera: *ho va dir*."
+
+  - id: b1-16-010
+    type: fill
+    point: ho-atribut
+    lesson: 1
+    prompt: "—És tossut, el teu germà? —Sí que ___ és: té un caràcter molt fort."
+    hint: "pronom per a «tossut»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* substitueix un nom. «Tossut» és l'atribut: *ho*, que no canvia mai."
+    grading: tolerant
+    explanation: "«Tossut» és l'atribut de *ser*: *sí que ho és*."
+
+  - id: b1-16-011
+    type: fill
+    point: ho-atribut
+    lesson: 1
+    prompt: "—Estàs tranquil·la, abans de l'entrevista? —Sí que ___ estic."
+    hint: "pronom per a «tranquil·la»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "la"
+        why: "*Ho* atribut no concorda: encara que el subjecte sigui femení, el pronom és *ho*."
+    grading: tolerant
+    explanation: "«Tranquil·la» és l'atribut de *estar*. El verb es repeteix i l'atribut es converteix en *ho*."
+
+  - id: b1-16-012
+    type: order
+    point: ho-neutre
+    lesson: 1
+    cue: "La Fàtima t'explica una notícia. Digues que ja ho saps."
+    chunks: ["ja", "ho", "sé"]
+    extra: ["el"]
+    answers:
+      - "Ja ho sé."
+    explanation: "El pronom *ho* va just davant del verb: *ja ho sé*."
+
+  - id: b1-16-013
+    type: order
+    point: ho-atribut
+    lesson: 1
+    cue: "Et pregunten si en Pau era vergonyós de petit. Digues que sí que ho era."
+    chunks: ["sí", "que", "ho", "era"]
+    extra: ["el"]
+    answers:
+      - "Sí que ho era."
+    explanation: "«Vergonyós» era l'atribut: *sí que ho era*. En passat, el verb també es repeteix."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-16-014
+    type: fill
+    point: ho-neutre
+    lesson: 2
+    prompt: "—Explicaràs que vols plegar? El cap s'enfadarà. —Sí, ___ explicaré demà amb calma."
+    hint: "pronom per a «que vols plegar»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* seria un nom masculí. «Que vols plegar» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que vols plegar» és una idea sencera: *ho explicaré*."
+
+  - id: b1-16-015
+    type: fill
+    point: ho-neutre
+    lesson: 2
+    prompt: "La Núria vol canviar de feina, però encara no ___ ha decidit."
+    hint: "pronom per a «canviar de feina»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "la"
+        why: "*La* seria un nom femení. «Canviar de feina» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Canviar de feina» és una idea, no un nom: *no ho ha decidit*."
+
+  - id: b1-16-016
+    type: fill
+    point: ho-neutre
+    lesson: 2
+    prompt: "—Saps el número de l'Ibrahim? —Sí, ___ sé de memòria."
+    hint: "pronom per a «el número»"
+    answers: ["el"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* és per a una idea. «El número» és un nom masculí concret: *el*."
+    grading: tolerant
+    explanation: "«El número» és un nom masculí concret que fa de complement directe: *el sé*."
+
+  - id: b1-16-017
+    type: fill
+    point: ho-atribut
+    lesson: 2
+    prompt: "—Sou optimistes, amb el nou projecte? —Sí que ___ som, per sort."
+    hint: "pronom per a «optimistes»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "hi"
+        why: "*Hi som* voldria dir que som en un lloc. Aquí és l'atribut «optimistes»: *ho*."
+    grading: tolerant
+    explanation: "«Optimistes» és l'atribut de *ser*, en plural: *sí que ho som*."
+
+  - id: b1-16-018
+    type: fill
+    point: ho-atribut
+    lesson: 2
+    prompt: "—La Fàtima sembla cansada. —Sí, ___ sembla des de dilluns."
+    hint: "pronom per a «cansada»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "la"
+        why: "*Ho* no concorda: encara que la Fàtima sigui «ella», l'atribut és *ho*."
+    grading: tolerant
+    explanation: "«Cansada» és l'atribut de *semblar*: *ho sembla*."
+
+  - id: b1-16-019
+    type: order
+    point: ho-neutre
+    lesson: 2
+    cue: "Algú t'explica una norma nova. Digues que no ho entens."
+    chunks: ["no", "ho", "entenc"]
+    extra: ["el"]
+    answers:
+      - "No ho entenc."
+    explanation: "*Ho* va davant del verb: *no ho entenc*."
+
+  - id: b1-16-020
+    type: order
+    point: ho-neutre
+    lesson: 2
+    cue: "Digues que ja ho faràs demà."
+    chunks: ["ja", "ho", "faré", "demà"]
+    extra: ["el"]
+    answers:
+      - "Ja ho faré demà."
+      - "Demà ja ho faré."
+    explanation: "*Ho* va davant del verb: *ja ho faré*. *Demà* pot anar al principi o al final."
+
+  - id: b1-16-021
+    type: order
+    point: ho-atribut
+    lesson: 2
+    cue: "Et pregunten si estàs nerviós. Respon que no ho estàs gens."
+    chunks: ["no", "ho", "estic", "gens"]
+    extra: ["el"]
+    answers:
+      - "No ho estic gens."
+    explanation: "En negatiu: *no ho estic gens*. *Ho* no canvia mai, ni en negatiu."
+
+  - id: b1-16-022
+    type: choice
+    point: ho-neutre
+    lesson: 2
+    prompt: "—Has promès que vindràs a ajudar-me? —Sí, ___ he promès."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* seria un nom masculí. «Que vindràs» és una idea: *ho*."
+      - text: "li"
+        why: "*Li* és complement indirecte. «Que vindràs» és una idea: *ho*."
+    explanation: "«Que vindràs a ajudar-me» és una idea sencera: *ho he promès*."
+
+  - id: b1-16-023
+    type: choice
+    point: ho-atribut
+    lesson: 2
+    prompt: "—És gelós, l'Arnau? —No, no ___ és gens."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* substitueix un nom. «Gelós» és l'atribut: *ho*."
+      - text: "hi"
+        why: "*Hi és* voldria dir que és en un lloc. Aquí és l'atribut: *ho*."
+    explanation: "«Gelós» és l'atribut de *ser*. En negatiu: *no ho és gens*."
+
+  - id: b1-16-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «Tant m'és»?"
+    answer: "Que li és igual."
+    distractors:
+      - text: "Que no ho sap."
+        why: "Això seria *no ho sé pas*, no *tant m'és*."
+      - text: "Que ho sent molt."
+        why: "Això és una disculpa: *ho sento molt*."
+    explanation: "*Tant m'és* vol dir que totes les opcions et van bé: t'és igual."
+
+  - id: b1-16-025
+    type: choice
+    point: ho-neutre
+    lesson: 2
+    prompt: "—Has vist la pel·lícula nova de divendres? —Sí, ___ vaig veure dos cops."
+    answer: "la"
+    distractors:
+      - text: "ho"
+        why: "*Ho* és per a una idea. «La pel·lícula» és un nom femení concret: *la*."
+      - text: "hi"
+        why: "*Hi* és per a un lloc. «La pel·lícula» és un complement directe femení: *la*."
+    explanation: "«La pel·lícula» és un nom femení concret que fa de complement directe: *la vaig veure*."
+
+  - id: b1-16-026
+    type: choice
+    point: ho-atribut
+    lesson: 2
+    prompt: "—Eren simpàtics, els veïns nous? —Sí que ___ eren."
+    answer: "ho"
+    distractors:
+      - text: "els"
+        why: "*Els* seria un nom masculí plural. L'atribut «simpàtics» es converteix en *ho*, que no canvia mai."
+      - text: "hi"
+        why: "*Hi eren* voldria dir que eren en un lloc. Aquí és l'atribut: *ho*."
+    explanation: "«Simpàtics» és l'atribut de *ser*. *Ho* no té plural: *sí que ho eren*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-16-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Saps que la Carla plega? —Sí, ja sé."
+    error: "ja sé"
+    fix: "ja ho sé"
+    fix_distractors:
+      - text: "ja el sé"
+        why: "*El* seria un nom masculí. «Que la Carla plega» és una idea: *ho*."
+      - text: "ja hi sé"
+        why: "*Hi* és per a un lloc. «Que la Carla plega» no és un lloc: és una idea, *ho*."
+    explanation: "En català, si no repetim la idea, el pronom és obligatori: *ja ho sé*."
+
+  - id: b1-16-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—És veritat que vindràs? —Sí que és."
+    error: "Sí que és"
+    fix: "Sí que ho és"
+    fix_distractors:
+      - text: "Sí que l'és"
+        why: "*El* substitueix un nom masculí. «Veritat» és l'atribut: *ho*."
+      - text: "Sí que hi és"
+        why: "*Hi és* voldria dir que és en un lloc. Aquí és l'atribut «veritat»: *ho*."
+    explanation: "L'atribut «veritat» no es repeteix, però el pronom *ho* és obligatori: *sí que ho és*."
+
+  - id: b1-16-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "No ho entenc: el metge diu que he de descansar i el cap diu que he de treballar."
+    no_error: true
+    explanation: "La frase és correcta: *ho* substitueix tota la idea de després dels dos punts."
+
+  - id: b1-16-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—T'han dit que demà tanquem? —Sí, ja entenc."
+    error: "ja entenc"
+    fix: "ja ho entenc"
+    fix_distractors:
+      - text: "ja l'entenc"
+        why: "*El* necessitaria un nom masculí, i aquí no n'hi ha cap: és la idea «que demà tanquem», *ho*."
+      - text: "ja hi entenc"
+        why: "*Hi* és per a un lloc. Aquí és una idea: *ho*."
+    explanation: "«Ja entenc» és un calc del castellà «ya entiendo». En català, el pronom és obligatori: *ja ho entenc*."
+
+  - id: b1-16-031
+    type: find-error
+    point: ho-posicio
+    lesson: 3
+    sentence: "No t'he sentit: digues-lo més alt, sense vergonya."
+    error: "digues-lo"
+    fix: "digues-ho"
+    fix_distractors:
+      - text: "digues-la"
+        why: "*La* seria un nom femení. «El que has dit» és una idea: *ho*."
+      - text: "digues-los"
+        why: "*Els* seria un nom plural. Aquí és una idea: *ho*."
+    explanation: "«El que has dit» és una idea, no un nom: *digues-ho*. Darrere de l'imperatiu, *ho* va amb guionet."
+
+  - id: b1-16-032
+    type: find-error
+    point: ho-posicio
+    lesson: 3
+    sentence: "Si vols venir, has de dir-ho abans de divendres."
+    no_error: true
+    explanation: "La frase és correcta: *dir-ho* porta *ho* darrere de l'infinitiu, i *has de* és l'obligació."
+
+  - id: b1-16-033
+    type: fill
+    point: ho-posicio
+    lesson: 3
+    prompt: "—Vols dir que plegaràs? —Sí. —Doncs explica-___ a la reunió."
+    hint: "pronom per a «això», darrere l'imperatiu"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "la"
+        why: "*La* necessitaria un nom femení, i aquí no n'hi ha cap: és la idea «que plegaràs», *ho*."
+    grading: tolerant
+    explanation: "«Que plegaràs» és una idea: *explica-ho*. Darrere de l'imperatiu, el pronom va amb guionet."
+
+  - id: b1-16-034
+    type: fill
+    point: ho-posicio
+    lesson: 3
+    prompt: "Vull entendre-___ tot abans de signar."
+    hint: "pronom per a «tot això», darrere l'infinitiu"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "lo"
+        why: "*Lo* darrere de l'infinitiu és el pronom *el*, per a un nom masculí. Aquí és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Tot això» és una idea: *entendre-ho*. Darrere de l'infinitiu, *ho* va amb guionet."
+
+  - id: b1-16-035
+    type: fill
+    point: ho-posicio
+    lesson: 3
+    prompt: "No ___ puc creure: hem guanyat el partit!"
+    hint: "pronom per a «això»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* seria un nom masculí. «Que hem guanyat» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que hem guanyat» és una idea sencera: *no ho puc creure*."
+
+  - id: b1-16-036
+    type: choice
+    point: ho-posicio
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Has de fer-ho avui."
+    distractors:
+      - text: "Has de ho fer avui."
+        why: "*Ho* no pot anar entre el modal i l'infinitiu: va davant de tot (*ho has de fer*) o darrere (*fer-ho*)."
+      - text: "Has de fer-lo avui."
+        why: "*Fer-lo* seria un nom masculí concret. «Això» és una idea: *fer-ho*."
+    explanation: "Amb un verb modal, *ho* va davant del verb (*ho has de fer*) o darrere de l'infinitiu (*has de fer-ho*)."
+
+  - id: b1-16-037
+    type: choice
+    point: ho-posicio
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Digues-ho més alt, si us plau."
+    distractors:
+      - text: "Ho digues més alt, si us plau."
+        why: "Amb l'imperatiu afirmatiu, el pronom va darrere: *digues-ho*."
+      - text: "Digues-lo més alt, si us plau."
+        why: "*Digues-lo* seria un nom masculí. «El que dius» és una idea: *digues-ho*."
+    explanation: "L'imperatiu afirmatiu porta el pronom darrere, amb guionet: *digues-ho*."
+
+  - id: b1-16-038
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "—Està trista, la Laia? —Quina resposta és correcta?"
+    answer: "Sí que ho està."
+    distractors:
+      - text: "Sí que està."
+        why: "Sense *ho* la frase queda incompleta: l'atribut «trista» es converteix en *ho*."
+      - text: "Sí que la està."
+        why: "*Ho* atribut no concorda: encara que la Laia sigui «ella», el pronom és *ho*, no *la*."
+    explanation: "«Trista» és l'atribut de *estar*. No es repeteix, però el pronom *ho* és obligatori."
+
+  - id: b1-16-039
+    type: choice
+    point: expressions
+    lesson: 3
+    prompt: "—Vols venir al cinema o prefereixes quedar-te a casa? —___"
+    answer: "Tant m'és."
+    distractors:
+      - text: "Ho sento molt."
+        why: "Això és una disculpa, no una resposta a «què prefereixes»."
+      - text: "Ja ho veuràs."
+        why: "Això és un avís, no una manera de dir que tot et va bé."
+    explanation: "*Tant m'és* vol dir que les dues opcions et van bé."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-16-040
+    type: transform
+    point: ho-neutre
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Sé [[que vindràs demà]]."
+    answers: ["Ho sé."]
+    wrong_answers:
+      - text: "El sé."
+        why: "*El* seria un nom masculí. «Que vindràs demà» és una idea: *ho*."
+      - text: "La sé."
+        why: "*La* seria un nom femení. Aquí és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que vindràs demà» és una idea sencera: *ho sé*."
+
+  - id: b1-16-041
+    type: transform
+    point: ho-neutre
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "El director diu [[que tancaran la fàbrica]]."
+    answers: ["El director ho diu."]
+    wrong_answers:
+      - text: "El director el diu."
+        why: "*El* seria un nom masculí. «Que tancaran» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que tancaran la fàbrica» és una idea: *el director ho diu*."
+
+  - id: b1-16-042
+    type: transform
+    point: ho-atribut
+    lesson: 4
+    instruction: "Respon afirmativament amb un pronom."
+    source: "—Està nerviosa, la Núria?"
+    start: "—Sí que"
+    answers: ["—Sí que ho està."]
+    wrong_answers:
+      - text: "—Sí que està."
+        why: "Sense *ho* la frase queda incompleta: l'atribut «nerviosa» es converteix en *ho*."
+      - text: "—Sí que la està."
+        why: "*Ho* atribut no concorda amb el subjecte: és *ho*, no *la*."
+    grading: tolerant
+    explanation: "«Nerviosa» és l'atribut de *estar*: *sí que ho està*."
+
+  - id: b1-16-043
+    type: transform
+    point: ho-atribut
+    lesson: 4
+    instruction: "Respon afirmativament amb un pronom."
+    source: "—Sembla generós, el nou company?"
+    start: "—Sí"
+    answers: ["—Sí, ho sembla.", "—Sí que ho sembla."]
+    wrong_answers:
+      - text: "—Sí, sembla."
+        why: "Sense *ho* la frase queda incompleta: cal *ho sembla*."
+      - text: "—Sí, el sembla."
+        why: "*El* seria un nom masculí. «Generós» és l'atribut: *ho*."
+    grading: tolerant
+    explanation: "«Generós» és l'atribut de *semblar*: *ho sembla*."
+
+  - id: b1-16-044
+    type: transform
+    point: ho-posicio
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Vull saber [[si vindràs]] diumenge."
+    answers: ["Ho vull saber diumenge.", "Vull saber-ho diumenge."]
+    wrong_answers:
+      - text: "El vull saber diumenge."
+        why: "*El* seria un nom masculí. «Si vindràs» és una idea: *ho*."
+    grading: tolerant
+    explanation: "Amb un modal, *ho* va davant (*ho vull saber*) o darrere de l'infinitiu (*vull saber-ho*)."
+
+  - id: b1-16-045
+    type: transform
+    point: ho-posicio
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Has de fer [[el que et diuen]] sense protestar."
+    answers: ["Ho has de fer sense protestar.", "Has de fer-ho sense protestar."]
+    wrong_answers:
+      - text: "L'has de fer sense protestar."
+        why: "*El* seria un nom masculí concret. «El que et diuen» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«El que et diuen» és una idea: *ho has de fer* o *has de fer-ho*."
+
+  - id: b1-16-046
+    type: fill
+    point: ho-neutre
+    lesson: 4
+    prompt: "—El cap ha dit que demà tanquem. —Sí, ja ___ ha dit a tothom."
+    hint: "pronom per a «que demà tanquem»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* seria un nom masculí. «Que demà tanquem» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que demà tanquem» és la idea: *ja ho ha dit*. «A tothom» es queda igual."
+
+  - id: b1-16-047
+    type: fill
+    point: ho-atribut
+    lesson: 4
+    prompt: "—La teva filla és valenta? —Sí que ___ és: no té por de res."
+    hint: "pronom per a «valenta»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "la"
+        why: "*Ho* atribut no concorda: encara que sigui una nena, el pronom és *ho*."
+    grading: tolerant
+    explanation: "«Valenta» és l'atribut de *ser*: *sí que ho és*."
+
+  - id: b1-16-048
+    type: fill
+    point: ho-posicio
+    lesson: 4
+    prompt: "Va plegar sense dir-___ a ningú."
+    hint: "pronom per a «que plegava», darrere l'infinitiu"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "lo"
+        why: "*Lo* darrere de l'infinitiu és el pronom *el*, per a un nom masculí. «Que plegava» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«Que plegava» és una idea: *sense dir-ho a ningú*."
+
+  - id: b1-16-049
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "—Vols cafè o prefereixes te? —Tant ___."
+    hint: "expressió: igual"
+    answers: ["m'és"]
+    wrong_answers:
+      - text: "ho és"
+        why: "L'expressió és *tant m'és*, amb el pronom *m'*, no *ho*."
+    grading: strict
+    explanation: "L'expressió *tant m'és* vol dir que totes les opcions et van bé."
+
+  - id: b1-16-050
+    type: order
+    point: ho-posicio
+    lesson: 4
+    instruction: "Ordena els fragments: el pronom va davant del verb."
+    cue: "Digues que ho has de fer avui."
+    chunks: ["ho", "has", "de", "fer", "avui"]
+    extra: ["el"]
+    answers:
+      - "Ho has de fer avui."
+    explanation: "Davant del verb conjugat: *ho has de fer*. L'altra posició seria *has de fer-ho avui*."
+
+  - id: b1-16-051
+    type: order
+    point: ho-posicio
+    lesson: 4
+    instruction: "Ordena els fragments: el pronom va darrere de l'infinitiu."
+    cue: "Digues que vols saber-ho tot abans."
+    chunks: ["vull", "saber-ho", "tot", "abans"]
+    extra: ["saber-lo"]
+    answers:
+      - "Vull saber-ho tot abans."
+      - "Abans vull saber-ho tot."
+    explanation: "Darrere de l'infinitiu: *saber-ho*. *Abans* pot anar al principi o al final."
+
+  - id: b1-16-052
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Et pregunten si saps que tanquen el bar. Respon que sí que ho saps."
+    chunks: ["sí", "que", "ho", "sé"]
+    extra: ["el"]
+    answers:
+      - "Sí que ho sé."
+    explanation: "Sense *ho* la frase queda incompleta: *sí que ho sé*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-16-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La Carla canvia de feina"
+    text: |
+      La Carla té trenta-quatre anys i treballa en un banc de Sabadell des de fa deu anys. Guanya un bon sou, però fa mesos que està trista: diu que la feina l'avorreix i li fa ràbia perdre el temps. El seu germà, en Pau, és mestre i sempre li diu que provi de canviar.
+
+      Al gener, la Carla ho explica als seus pares. S'esperava un enuig i una discussió, però el seu pare, un home sincer, ho entén de seguida: ell també va canviar de feina als quaranta anys. La seva mare està nerviosa: és molt impacient i li fa moltes preguntes. Li fa pena veure-la trista. Però al cap d'una setmana es calma.
+
+      El canvi li feia una mica de por, però al març la Carla ho decideix: deixa el banc i comença un curs per ser infermera. «No ho sé pas, si podré», diu el primer dia, perquè preguntar li fa vergonya, «però ho intentaré amb calma». Les companyes són alegres, simpàtiques i pacients, i els professors són generosos i tenen molta paciència. La Carla confia en ells.
+
+      Ara la Carla està contenta i sempre és de bon humor: l'alegria ha tornat i la tristesa ha marxat. «Ho sé: guanyaré menys diners», diu rient, «però soc molt més feliç. Si ets valent, ja ho veuràs: tot canvia». Els seus pares estan orgullosos d'ella: sempre ha estat una noia sensible.
+    questions:
+      - prompt: "Per què vol canviar de feina, la Carla?"
+        answer: "Perquè la feina del banc l'avorreix."
+        distractors:
+          - text: "Perquè guanya pocs diners al banc."
+            why: "El text diu que guanya un bon sou."
+          - text: "Perquè vol treballar amb el seu germà."
+            why: "El text no diu que vulgui treballar amb el seu germà."
+      - prompt: "Com reacciona el pare quan la Carla ho explica?"
+        answer: "Ho accepta bé: ell també va canviar de feina."
+        distractors:
+          - text: "Es discuteix amb ella durant dies."
+            why: "El text diu que s'esperava una discussió, però no n'hi ha cap."
+          - text: "Es posa nerviós i li fa preguntes."
+            why: "Qui es posa nerviosa és la mare, no el pare."
+      - prompt: "Què fa la Carla al març?"
+        answer: "Deixa el banc i comença un curs d'infermeria."
+        distractors:
+          - text: "Comença a treballar d'infermera."
+            why: "Al març comença el curs, no la feina."
+          - text: "Demana un augment de sou al banc."
+            why: "El text no diu res del sou al març: deixa el banc."
+      - prompt: "Com està la Carla al final?"
+        answer: "Contenta, encara que guanyarà menys."
+        distractors:
+          - text: "Trista, perquè troba a faltar el banc."
+            why: "Al final està contenta: és molt més feliç."
+          - text: "Nerviosa, perquè el curs és difícil."
+            why: "El text no diu que el curs sigui difícil."
+    explanation: "El text explica com la Carla deixa el banc, fa un curs d'infermera i queda contenta."
+
+  - id: b1-16-054
+    type: transform
+    point: ho-neutre
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "No entenc [[el que dius]]."
+    answers: ["No ho entenc."]
+    wrong_answers:
+      - text: "No l'entenc."
+        why: "*El* seria un nom masculí. «El que dius» és una idea: *ho*."
+      - text: "No entenc."
+        why: "Sense *ho* la frase queda incompleta: si no repetim la idea, cal el pronom."
+    grading: tolerant
+    explanation: "«El que dius» és una idea, no un nom: *no ho entenc*."
+
+  - id: b1-16-055
+    type: transform
+    point: ho-atribut
+    lesson: 5
+    instruction: "Respon negativament amb un pronom."
+    source: "—És poruc, el teu gat?"
+    start: "—No,"
+    answers: ["—No, no ho és gens.", "—No, no ho és."]
+    wrong_answers:
+      - text: "—No, no és gens."
+        why: "Sense *ho* la frase queda incompleta: l'atribut «poruc» es converteix en *ho*."
+    grading: tolerant
+    explanation: "«Poruc» és l'atribut de *ser*. En negatiu: *no, no ho és gens*."
+
+  - id: b1-16-056
+    type: transform
+    point: ho-posicio
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Repeteix [[el que has dit]], si us plau."
+    answers: ["Repeteix-ho, si us plau."]
+    wrong_answers:
+      - text: "Repeteix-lo, si us plau."
+        why: "*Lo* darrere del verb és el pronom *el*, per a un nom. «El que has dit» és una idea: *ho*."
+    grading: tolerant
+    explanation: "«El que has dit» és una idea: *repeteix-ho*. Amb l'imperatiu, el pronom va darrere."
+
+  - id: b1-16-057
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "La Núria està trista"
+    text: "La Núria està trista des de dilluns. Jo ja {ho|∅} sé, però no {ho|∅} acabo d'entendre. Diu que a la feina tot va bé. Demà {ho|∅} comentarem amb calma i, si cal, {ho|∅} explicarem al cap."
+    explanation: "Si la idea no es repeteix, *ho* és obligatori: els quatre forats necessiten *ho*."
+
+  - id: b1-16-058
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "—Creus que vindrà, la Laia? —No crec."
+    error: "No crec"
+    fix: "No ho crec"
+    fix_distractors:
+      - text: "No el crec"
+        why: "*El* faria referència a una persona. Aquí és la idea «que vindrà»: *ho*."
+      - text: "No hi crec"
+        why: "*Creure-hi* és «creure en alguna cosa». Aquí és la idea «que vindrà»: *ho*."
+    explanation: "«Que vindrà» és una idea: *no ho crec*. Sense *ho* la resposta queda incompleta."
+
+  - id: b1-16-059
+    type: find-error
+    point: ho-atribut
+    lesson: 5
+    sentence: "—Esteu cansats, després de la caminada? —Sí que estem."
+    error: "Sí que estem"
+    fix: "Sí que ho estem"
+    fix_distractors:
+      - text: "Sí que hi estem"
+        why: "*Hi estem* voldria dir que som en un lloc. Aquí és l'atribut «cansats»: *ho*."
+      - text: "Sí que l'estem"
+        why: "*El* seria un nom masculí. «Cansats» és l'atribut: *ho*."
+    explanation: "«Cansats» és l'atribut de *estar*. El verb es repeteix i l'atribut es converteix en *ho*."
+
+  - id: b1-16-060
+    type: find-error
+    point: ho-neutre
+    lesson: 5
+    sentence: "—Ja ho has decidit? —Sí, ho faré demà al matí."
+    no_error: true
+    explanation: "La frase és correcta: *ho* substitueix la idea tant en la pregunta com en la resposta."
+
+  - id: b1-16-061
+    type: match
+    point: ho-posicio
+    lesson: 5
+    instruction: "Relaciona cada forma amb el seu ús."
+    pairs:
+      - ["ho sé", "davant del verb"]
+      - ["saber-ho", "darrere de l'infinitiu"]
+      - ["fes-ho", "darrere de l'imperatiu"]
+      - ["fent-ho", "darrere del gerundi"]
+    explanation: "*Ho* va davant del verb conjugat i darrere de l'infinitiu, el gerundi i l'imperatiu."
+
+  - id: b1-16-062
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Arribes tard a una reunió. Quina expressió fas servir?"
+    answer: "Ho sento molt."
+    distractors:
+      - text: "Ja ho veuràs."
+        why: "Això és un avís, no una disculpa."
+      - text: "No ho sé pas."
+        why: "Això vol dir que no ho saps, no que et sap greu."
+    explanation: "*Ho sento molt* és una disculpa: es fa servir quan arribes tard o fas una cosa malament."
+
+  - id: b1-16-063
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «No ho sé pas»?"
+    answer: "Que no ho sap gens."
+    distractors:
+      - text: "Que ho sap una mica."
+        why: "*Pas* reforça la negació: vol dir que no ho sap gens."
+      - text: "Que ho sabrà demà."
+        why: "No parla del futur: reforça que ara no ho sap."
+    explanation: "*Pas* reforça la negació: *no ho sé pas* vol dir que no ho saps gens."
+
+  - id: b1-16-064
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Si continues així, suspendràs. —___: aprovaré amb nota!"
+    hint: "expressió: avís"
+    answers: ["Ja ho veuràs"]
+    wrong_answers:
+      - text: "Ja el veuràs."
+        why: "L'expressió és amb *ho*: *ja ho veuràs*."
+    grading: tolerant
+    explanation: "*Ja ho veuràs* és un avís: anuncia una conseqüència."
+
+  - id: b1-16-065
+    type: fill
+    point: ho-atribut
+    lesson: 5
+    prompt: "—Sembla simpàtica, la veïna nova. —Sí, ___ sembla molt."
+    hint: "pronom per a «simpàtica»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "la"
+        why: "*Ho* atribut no concorda: encara que la veïna sigui «ella», el pronom és *ho*."
+    grading: tolerant
+    explanation: "«Simpàtica» és l'atribut de *semblar*: *ho sembla*."

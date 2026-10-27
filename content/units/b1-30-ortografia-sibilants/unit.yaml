@@ -1,0 +1,1033 @@
+id: b1-30
+level: B1
+title: "Ortografia: les sibilants"
+summary: "Aprens a escriure *s/ss/z, c/ç* i *g/j*, els noms en *-ció/-sió/-ssió* i els verbs en *-itzar*: *passar, adreça, decisió, organitzar, viatjar, projecte*."
+vocabulary_theme: "Oficina, documents i informàtica bàsica"
+points:
+  - id: s-ss-z
+    title: "La essa sorda i la sonora: *s*, *ss* i *z*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: ce-trencada
+    title: "La ce trencada: *c* i *ç*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: terminacions-cio-sio
+    title: "Els noms en *-ció*, *-sió* i *-ssió*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: ge-jota
+    title: "La ge i la jota: *g* i *j*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: la essa doble i la zeta"
+  - id: expressions
+    title: "Expressions de la feina"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: la essa, la ce i la ce trencada"
+  - title: "Practicar: s, ss, z, c i ç"
+  - title: "Terminacions en -ció i la ge i la jota"
+  - title: "Produir: corregir i escriure"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "l'oficina"
+    definition: "Lloc on es treballa amb documents i ordinadors."
+    example: "L'oficina nova és a prop de l'estació."
+  - word: "l'ordinador"
+    definition: "Màquina per escriure, calcular i connectar-se a internet."
+    example: "Apaga l'ordinador quan pleguis."
+  - word: "la impressora"
+    definition: "Màquina que passa els documents a paper."
+    example: "La impressora s'ha quedat sense tinta."
+  - word: "el teclat"
+    definition: "Part de l'ordinador amb les tecles per escriure."
+    example: "Aquest teclat fa massa soroll."
+  - word: "la pantalla"
+    definition: "Part de l'ordinador on es veuen les lletres i les imatges."
+    example: "Mira la pantalla i digues què hi veus."
+  - word: "el correu"
+    definition: "Missatge que s'envia per internet; també, el servei que els envia."
+    example: "T'he enviat el contracte per correu."
+  - word: "l'arxiu"
+    definition: "Lloc o carpeta on es guarden els documents."
+    example: "Guarda una còpia a l'arxiu de l'empresa."
+  - word: "la carpeta"
+    definition: "Funda per guardar papers, o espai per guardar fitxers."
+    example: "Desa el document a la carpeta de factures."
+  - word: "el document"
+    definition: "Paper o fitxer amb informació oficial o de feina."
+    example: "Cal signar el document abans de divendres."
+  - word: "el contracte"
+    definition: "Document que diu les condicions d'una feina o d'un acord."
+    example: "He signat el contracte aquest matí."
+  - word: "l'informe"
+    definition: "Document que explica un tema o el resultat d'una feina."
+    example: "La Carla escriu l'informe de cada mes."
+  - word: "el formulari"
+    definition: "Paper amb caselles per omplir amb les teves dades."
+    example: "Omple el formulari amb l'adreça nova."
+  - word: "el justificant"
+    definition: "Paper que demostra que has fet o pagat una cosa."
+    example: "Porta el justificant del metge a la feina."
+  - word: "la factura"
+    definition: "Document que diu què has comprat i quant has pagat."
+    example: "La factura de la llum ha pujat molt."
+  - word: "el pressupost"
+    definition: "Càlcul de quant costarà una feina o una obra."
+    example: "Demana un pressupost abans de decidir-te."
+  - word: "la reunió"
+    definition: "Trobada per parlar d'un tema de feina i decidir."
+    example: "La reunió de dilluns és a les nou."
+  - word: "l'agenda"
+    definition: "Llibreta o programa amb els dies i les cites."
+    example: "Apunta la cita a l'agenda."
+  - word: "la presentació"
+    definition: "Explicació d'un tema davant d'un grup de persones."
+    example: "La presentació de dimarts va anar bé."
+  - word: "el projecte"
+    definition: "Pla de feina amb un objectiu i un termini."
+    example: "El projecte nou comença al setembre."
+  - word: "l'objectiu"
+    definition: "Allò que es vol aconseguir amb una feina."
+    example: "El nostre objectiu és acabar divendres."
+  - word: "desar"
+    definition: "Guardar un fitxer a l'ordinador."
+    example: "Desa el document abans de tancar el programa."
+  - word: "imprimir"
+    definition: "Passar un document a paper amb la impressora."
+    example: "Imprimeix dues còpies de l'informe."
+  - word: "enviar"
+    definition: "Fer arribar un missatge o un paquet a algú."
+    example: "Envia'm el pressupost per correu."
+  - word: "adjuntar"
+    definition: "Afegir un fitxer a un correu."
+    example: "T'adjunto el contracte en aquest correu."
+  - word: "descarregar"
+    definition: "Copiar un fitxer d'internet a l'ordinador."
+    example: "He descarregat el programa nou."
+  - word: "organitzar"
+    definition: "Preparar i ordenar una activitat o uns documents."
+    example: "La Núria organitza les reunions del mes."
+  - word: "utilitzar"
+    definition: "Fer servir una cosa per a una tasca."
+    example: "Utilitzem un programa nou per a les factures."
+  - word: "autoritzar"
+    definition: "Donar permís perquè es faci una cosa."
+    example: "El cap ha autoritzat la compra."
+  - word: "revisar"
+    definition: "Mirar una cosa amb atenció per trobar errors."
+    example: "Revisa l'informe abans d'enviar-lo."
+  - word: "avisar"
+    definition: "Fer saber una cosa a algú."
+    example: "Avisa'm quan arribi el tècnic."
+  - word: "signar"
+    definition: "Escriure el nom en un document per acceptar-lo."
+    example: "Cal signar cada full del contracte."
+  - word: "la contrasenya"
+    definition: "Paraula secreta que obre un compte o un ordinador."
+    example: "No diguis a ningú la contrasenya."
+  - word: "el programa"
+    definition: "Conjunt d'instruccions que fa funcionar l'ordinador."
+    example: "Aquest programa és molt fàcil."
+  - word: "la xarxa"
+    definition: "Conjunt d'ordinadors connectats; també, internet."
+    example: "La xarxa de l'oficina va molt lenta."
+  - word: "el company, la companya"
+    definition: "Persona que treballa amb tu."
+    example: "La meva companya m'ajuda amb els informes."
+  - word: "l'horari"
+    definition: "Hores d'entrada i de sortida de la feina."
+    example: "El meu horari és de vuit a tres."
+  - word: "el venciment"
+    definition: "Dia en què cal pagar o fer una cosa."
+    example: "El venciment de la factura és divendres."
+  - word: "el despatx"
+    definition: "Habitació on treballa una persona a l'oficina."
+    example: "El cap et vol veure al despatx."
+  - word: "la recepció"
+    definition: "Lloc on s'atén qui arriba a una empresa."
+    example: "Deixa el paquet a la recepció."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-30-001
+    type: choice
+    point: s-ss-z
+    lesson: 1
+    prompt: "Visc en una ___ de pagès a prop de Vic."
+    answer: "casa"
+    distractors:
+      - text: "caça"
+        why: "*Caça* és perseguir animals. Una llar és una *casa*."
+      - text: "cassa"
+        why: "*Casa* sona amb *s* sonora: una *s*."
+    explanation: "Una llar és una *casa*, amb *s* sonora."
+
+  - id: b1-30-002
+    type: choice
+    point: s-ss-z
+    lesson: 1
+    prompt: "No hi posis ___ sucre, que ja és prou dolç."
+    answer: "massa"
+    distractors:
+      - text: "masa"
+        why: "*Masa* amb una *s* no és correcte: és *massa*, amb *ss*."
+      - text: "maça"
+        why: "*Maça* és una eina per picar. «En excés» és *massa*."
+    explanation: "«En excés» s'escriu amb *ss*: *massa*."
+
+  - id: b1-30-003
+    type: choice
+    point: s-ss-z
+    lesson: 1
+    prompt: "Vull ensenyar-te una ___ molt útil d'aquest programa."
+    answer: "cosa"
+    distractors:
+      - text: "coça"
+        why: "*Coça* és un cop de peu. Un tema o un assumpte és una *cosa*."
+      - text: "cossa"
+        why: "*Cosa* sona amb *s* sonora: una *s*."
+    explanation: "Un tema o un assumpte és una *cosa*, amb *s* sonora."
+
+  - id: b1-30-004
+    type: choice
+    point: s-ss-z
+    lesson: 1
+    prompt: "El ___ de música viu al meu carrer."
+    answer: "professor"
+    distractors:
+      - text: "profesor"
+        why: "*Profesor* amb una *s* és la forma del castellà «profesor». En català és *professor*."
+      - text: "profeçor"
+        why: "*Professor* no porta mai *ç*: és amb *ss*."
+    explanation: "*Professor* s'escriu amb *ss*."
+
+  - id: b1-30-005
+    type: choice
+    point: ce-trencada
+    lesson: 1
+    prompt: "Escriu la teva ___ al formulari, si us plau."
+    answer: "adreça"
+    distractors:
+      - text: "adresa"
+        why: "*Adreça* s'escriu amb *ç* davant de *a*."
+      - text: "adreca"
+        why: "*Adreca* sonaria «adreka»: davant de *a*, el so suau és *ç*."
+    explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
+
+  - id: b1-30-006
+    type: choice
+    point: ce-trencada
+    lesson: 1
+    prompt: "La reunió ___ a les nou en punt."
+    answer: "comença"
+    distractors:
+      - text: "comensa"
+        why: "*Començar* manté la *ç* davant de *a*: *comença*."
+      - text: "comenza"
+        why: "*Començar* no porta mai *z*: *comença*."
+    explanation: "Davant de *a*, el so s'escriu amb *ç*: *comença*."
+
+  - id: b1-30-007
+    type: choice
+    point: ce-trencada
+    lesson: 1
+    prompt: "El cap vol ___ els canvis demà al matí."
+    answer: "anunciar"
+    distractors:
+      - text: "anunsiar"
+        why: "Davant de *i*, el so de *s* sorda s'escriu amb *c*: *anunciar*."
+      - text: "anunçiar"
+        why: "*Ç* mai va davant de *e* ni de *i*: *anunciar*."
+    explanation: "Davant de *i*, el so de *s* sorda s'escriu amb *c*: *anunciar*."
+
+  - id: b1-30-008
+    type: inline-choice
+    point: s-ss-z
+    lesson: 1
+    title: "Un dilluns a l'oficina"
+    text: "La Marta arriba a l'oficina a les vuit. Primer repa{ss|s}a el correu i de{s|ss}a els documents a la carpeta. Després truca al profe{ss|s}or d'anglès i l'avi{s|ss}a que dimecres no hi ha cla{ss|s}e. A les on{z|s}e surt a esmorzar amb una companya."
+    explanation: "*Repassar, professor* i *classe* s'escriuen amb *ss*. *Desar* i *avisar* sonen amb *s* sonora: una *s*. *Onze* porta *z*."
+
+  - id: b1-30-009
+    type: inline-choice
+    point: ce-trencada
+    lesson: 1
+    title: "Nota de recepció"
+    text: "A les nou comen{c|ç|s}em la jornada amb molta for{ça|sa|ca}. Apunteu l'adre{ça|sa|ca} de la feina i no perdeu cap pe{ça|sa|ca} de l'expedient. A la re{ce|se}pció us anun{ci|si|zi}arem les reunions del dia."
+    explanation: "*Comencem* i *anunciarem* porten *c* davant de *e* i de *i*. *Força, adreça* i *peça* porten *ç* davant de *a*. *Recepció* porta *c*."
+
+  - id: b1-30-010
+    type: fill
+    point: s-ss-z
+    lesson: 1
+    prompt: "Som ___ gent: no cabem en aquesta sala."
+    hint: "en excés, més del compte"
+    answers: ["massa"]
+    wrong_answers:
+      - text: "masa"
+        why: "*Masa* amb una *s* no és correcte: tant «en excés» com la pasta per cuinar són *massa*."
+      - text: "maça"
+        why: "*Maça* és una eina per picar. «En excés» és *massa*."
+    grading: strict
+    explanation: "«En excés» s'escriu amb *ss*: *massa*."
+
+  - id: b1-30-011
+    type: transform
+    point: s-ss-z
+    lesson: 1
+    instruction: "Corregeix la frase."
+    source: "El [[profesor]] de música arriba tard cada dilluns."
+    answers: ["El professor de música arriba tard cada dilluns."]
+    wrong_answers:
+      - text: "El profeçor de música arriba tard cada dilluns."
+        why: "*Professor* no porta mai *ç*: és amb *ss*."
+    grading: strict
+    explanation: "*Professor* s'escriu amb *ss*."
+
+  - id: b1-30-012
+    type: fill
+    point: ce-trencada
+    lesson: 1
+    prompt: "Escriu la teva ___ electrònica al formulari."
+    hint: "on t'envien els correus"
+    answers: ["adreça"]
+    wrong_answers:
+      - text: "adresa"
+        why: "*Adreça* s'escriu amb *ç* davant de *a*."
+      - text: "adreca"
+        why: "*Adreca* sonaria «adreka»: el so suau davant de *a* és *ç*."
+    grading: strict
+    explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
+
+  - id: b1-30-013
+    type: fill
+    point: ce-trencada
+    lesson: 1
+    prompt: "He demanat la ___ de recanvi per a la impressora."
+    hint: "part d'una màquina"
+    answers: ["peça"]
+    wrong_answers:
+      - text: "pesa"
+        why: "*Pesa* és per pesar o una cosa que fa pes. Una part d'una màquina és una *peça*."
+      - text: "peca"
+        why: "*Peca* és del verb *pecar*. Una part d'una màquina és una *peça*."
+    grading: strict
+    explanation: "Una part d'una màquina és una *peça*, amb *ç*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-30-014
+    type: transform
+    point: s-ss-z
+    lesson: 2
+    instruction: "Corregeix la frase."
+    source: "No oblidis [[dessar]] el document abans de tancar l'ordinador."
+    answers: ["No oblidis desar el document abans de tancar l'ordinador."]
+    wrong_answers:
+      - text: "No oblidis dezar el document abans de tancar l'ordinador."
+        why: "*Desar* no porta *z*: sona amb *s* sonora i s'escriu amb una *s*."
+    grading: strict
+    explanation: "*Desar* sona amb *s* sonora: una *s*."
+
+  - id: b1-30-015
+    type: transform
+    point: s-ss-z
+    lesson: 2
+    instruction: "Corregeix la frase."
+    source: "És [[posible]] aparcar davant de l'oficina?"
+    answers: ["És possible aparcar davant de l'oficina?"]
+    wrong_answers:
+      - text: "És posible aparcar davant de l'oficina?"
+        why: "Encara hi ha l'error: *posible* s'escriu amb *ss*."
+    grading: strict
+    explanation: "*Possible* s'escriu amb *ss*."
+
+  - id: b1-30-016
+    type: fill
+    point: ce-trencada
+    lesson: 2
+    prompt: "La classe ___ a les nou en punt."
+    hint: "COMENÇAR, ella"
+    answers: ["comença"]
+    wrong_answers:
+      - text: "comensa"
+        why: "*Començar* manté la *ç* davant de *a*: *comença*."
+      - text: "comenza"
+        why: "*Començar* no porta mai *z*: *comença*."
+    grading: strict
+    explanation: "Davant de *a*, el so s'escriu amb *ç*: *comença*."
+
+  - id: b1-30-017
+    type: transform
+    point: ce-trencada
+    lesson: 2
+    instruction: "Corregeix la frase."
+    source: "La cap vol [[anunsiar]] els canvis divendres."
+    answers: ["La cap vol anunciar els canvis divendres."]
+    wrong_answers:
+      - text: "La cap vol anunçiar els canvis divendres."
+        why: "*Ç* mai va davant de *e* ni de *i*: *anunciar*."
+    grading: strict
+    explanation: "Davant de *i*, el so de *s* sorda s'escriu amb *c*: *anunciar*."
+
+  - id: b1-30-018
+    type: choice
+    point: s-ss-z
+    lesson: 2
+    prompt: "No és ___ portar el passaport: n'hi ha prou amb el DNI."
+    answer: "necessari"
+    distractors:
+      - text: "necesari"
+        why: "*Necesari* amb una *s* és la forma del castellà «necesario». En català és *necessari*."
+      - text: "necessario"
+        why: "L'adjectiu acaba en *-ari* en català, no en *-ario*: *necessari*."
+    explanation: "*Necessari* s'escriu amb *ss* i acaba en *-ari*."
+
+  - id: b1-30-019
+    type: choice
+    point: s-ss-z
+    lesson: 2
+    prompt: "El codi de l'alarma és ___-quatre-set."
+    answer: "zero"
+    distractors:
+      - text: "sero"
+        why: "*Zero* es pronuncia amb el so sonor i s'escriu amb *z*."
+      - text: "cero"
+        why: "*Cero* és la forma del castellà «cero». En català és *zero*."
+    explanation: "*Zero* s'escriu amb *z*, que sona sonora."
+
+  - id: b1-30-020
+    type: choice
+    point: ce-trencada
+    lesson: 2
+    prompt: "La Laia té molta ___: treballa i estudia alhora."
+    answer: "força"
+    distractors:
+      - text: "forsa"
+        why: "*Força* s'escriu amb *ç*."
+      - text: "forca"
+        why: "*Forca* és una eina del camp o per penjar. L'energia és *força*."
+    explanation: "L'energia és la *força*, amb *ç*."
+
+  - id: b1-30-021
+    type: choice
+    point: ce-trencada
+    lesson: 2
+    prompt: "S'ha trencat una ___ de la impressora."
+    answer: "peça"
+    distractors:
+      - text: "pesa"
+        why: "*Pesa* és per pesar o una cosa que fa pes. Una part d'una màquina és una *peça*."
+      - text: "peca"
+        why: "*Peca* és del verb *pecar*. Una part d'una màquina és una *peça*."
+    explanation: "Una part d'una màquina és una *peça*, amb *ç*."
+
+  - id: b1-30-022
+    type: order
+    point: s-ss-z
+    lesson: 2
+    cue: "Digues a un company que demà has de passar per l'oficina."
+    chunks: ["demà", "he", "de", "passar", "per", "l'oficina"]
+    extra: ["pasar"]
+    answers:
+      - "Demà he de passar per l'oficina."
+      - "He de passar per l'oficina demà."
+      - "He de passar demà per l'oficina."
+    explanation: "*Passar* s'escriu amb *ss*. El verb *haver de* demana l'infinitiu."
+
+  - id: b1-30-023
+    type: order
+    point: ce-trencada
+    lesson: 2
+    cue: "Explica que la reunió comença a les deu en punt."
+    chunks: ["la", "reunió", "comença", "a", "les", "deu", "en", "punt"]
+    extra: ["comensa"]
+    answers:
+      - "La reunió comença a les deu en punt."
+      - "A les deu en punt comença la reunió."
+    explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *comença*."
+
+  - id: b1-30-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «anar de corcoll»?"
+    answer: "Anar amb moltes presses, atrafegat."
+    distractors:
+      - text: "Anar sense rumb, a poc a poc."
+        why: "Això seria *badar*. *Anar de corcoll* és anar amb presses."
+      - text: "Deixar la feina a mitges."
+        why: "*Anar de corcoll* és tenir molta feina, no deixar-la."
+    explanation: "*Anar de corcoll* vol dir anar amb moltes presses, atrafegat."
+
+  - id: b1-30-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «posar-se a la feina»?"
+    answer: "Començar a treballar de debò."
+    distractors:
+      - text: "Buscar una feina nova."
+        why: "Això seria *buscar feina*. *Posar-se a la feina* és començar a treballar."
+      - text: "Plegar abans de l'hora."
+        why: "*Posar-se a la feina* és començar, no plegar."
+    explanation: "*Posar-se a la feina* vol dir començar a treballar de debò."
+
+  - id: b1-30-053
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Avui vaig ___: tinc tres reunions seguides."
+    hint: "l'expressió amb CORCOLL"
+    answers: ["de corcoll"]
+    wrong_answers:
+      - text: "de corcol"
+        why: "*Corcoll* s'escriu amb dues *l* al final: *corcoll*."
+      - text: "amb corcoll"
+        why: "L'expressió és *anar **de** corcoll*, amb *de*."
+    grading: tolerant
+    explanation: "*Anar de corcoll* vol dir anar amb moltes presses, atrafegat."
+
+  - id: b1-30-054
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Vinga, Carla, que són les nou: ___!"
+    hint: "l'expressió amb FEINA"
+    answers: ["posa't a la feina"]
+    wrong_answers:
+      - text: "posat a la feina"
+        why: "*Posat* és el participi; l'imperatiu amb pronom és *posa't*."
+      - text: "posa't en la feina"
+        why: "L'expressió porta *a*: *posar-se **a** la feina*."
+    grading: tolerant
+    explanation: "*Posar-se a la feina* vol dir començar a treballar de debò."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-30-026
+    type: choice
+    point: terminacions-cio-sio
+    lesson: 3
+    prompt: "El cap encara no ha pres cap ___."
+    answer: "decisió"
+    distractors:
+      - text: "decició"
+        why: "*Decisió* s'escriu amb *s*, no amb *c*."
+      - text: "decissió"
+        why: "*Decisió* porta una sola *s*."
+    explanation: "El nom del verb *decidir* és *decisió*, amb *s*."
+
+  - id: b1-30-027
+    type: choice
+    point: terminacions-cio-sio
+    lesson: 3
+    prompt: "La ___ de la Maria va sorprendre tothom."
+    answer: "dimissió"
+    distractors:
+      - text: "dimisió"
+        why: "*Dimissió* s'escriu amb *ss*."
+      - text: "dimició"
+        why: "*Dimissió* no porta *c*: és amb *ss*."
+    explanation: "El nom del verb *dimitir* és *dimissió*, amb *ss*."
+
+  - id: b1-30-028
+    type: choice
+    point: terminacions-cio-sio
+    lesson: 3
+    prompt: "L'___ de l'empresa creix cada any."
+    answer: "organització"
+    distractors:
+      - text: "organisació"
+        why: "Els noms dels verbs en *-itzar* s'escriuen amb *tz*: *organització*."
+      - text: "organizació"
+        why: "En català és *tz*, no *z*: *organització*."
+    explanation: "El nom del verb *organitzar* és *organització*, amb *tz*."
+
+  - id: b1-30-029
+    type: choice
+    point: ge-jota
+    lesson: 3
+    prompt: "A l'estiu ___ a Menorca amb els nens."
+    answer: "viatgem"
+    distractors:
+      - text: "viajem"
+        why: "*Viatjar* s'escriu amb *tj*: *viatgem*."
+      - text: "viatguem"
+        why: "*Viatjar* porta *tj*, no *tg*: *viatgem*."
+    explanation: "El verb és *viatjar*, amb *tj*: *viatgem*."
+
+  - id: b1-30-030
+    type: choice
+    point: ge-jota
+    lesson: 3
+    prompt: "Diumenge anirem a la ___ a nedar una estona."
+    answer: "platja"
+    distractors:
+      - text: "plaja"
+        why: "*Platja* s'escriu amb *tj*."
+      - text: "platga"
+        why: "*Platja* porta *tj*, no *tg*."
+    explanation: "*Platja* s'escriu amb *tj*, com *viatjar*."
+
+  - id: b1-30-031
+    type: match
+    point: terminacions-cio-sio
+    lesson: 3
+    instruction: "Relaciona cada verb amb el nom corresponent."
+    pairs:
+      - ["organitzar", "l'organització"]
+      - ["decidir", "la decisió"]
+      - ["discutir", "la discussió"]
+      - ["imprimir", "la impressió"]
+      - ["redactar", "la redacció"]
+      - ["admetre", "l'admissió"]
+    explanation: "Cada verb té el seu nom: *organitzar → organització, decidir → decisió, discutir → discussió, imprimir → impressió, redactar → redacció, admetre → admissió*."
+
+  - id: b1-30-032
+    type: inline-choice
+    point: terminacions-cio-sio
+    lesson: 3
+    title: "Correu del cap"
+    text: "Bon dia: la direcció vol millorar l'organi{tz|z}ació de les reunions. Hem pres la deci{s|ss|c}ió de parlar-ne sense discu{ss|s|c}ió llarga. La Núria farà la reda{cci|ssi|si}ó de l'acta i jo m'ocuparé de la impre{ss|s|c}ió. Si cal, tornarem a organi{tz|z}ar-ho tot al setembre."
+    explanation: "*Organització* i *organitzar* porten *tz*. *Decisió* porta una *s*; *discussió* i *impressió*, *ss*; *redacció*, *cc*."
+
+  - id: b1-30-033
+    type: inline-choice
+    point: ge-jota
+    lesson: 3
+    title: "Missatge de la Fàtima"
+    text: "Hola! Demà no vindré a dinar: aniré a men{j|g}ar amb la meva mare. El nou pro{j|g}ecte m'ocupa tot el matí. Deixa l'a{g|j}enda sobre la taula i apunta-hi el tra{j|g}ecte de dijous. Si pots, corre{g|j}eix el pressupost abans de les tres."
+    explanation: "*Menjar* i *trajecte* porten *j*. *Agenda* i *corregeix* porten *g*. *Projecte* és una excepció: s'escriu amb *j*."
+
+  - id: b1-30-034
+    type: fill
+    point: terminacions-cio-sio
+    lesson: 3
+    prompt: "L'___ de la festa va molt bé, gràcies a la Carla."
+    hint: "ORGANITZAR, el nom"
+    answers: ["organització"]
+    wrong_answers:
+      - text: "organisació"
+        why: "Els noms dels verbs en *-itzar* acaben en *-ització*: *organització*."
+      - text: "organizació"
+        why: "En català és *tz*, no *z*: *organització*."
+    grading: strict
+    explanation: "El nom del verb *organitzar* és *organització*, amb *tz*."
+
+  - id: b1-30-035
+    type: fill
+    point: terminacions-cio-sio
+    lesson: 3
+    prompt: "Encara no hem pres cap ___."
+    hint: "DECIDIR, el nom"
+    answers: ["decisió"]
+    wrong_answers:
+      - text: "decició"
+        why: "*Decisió* s'escriu amb *s*, no amb *c*."
+      - text: "decissió"
+        why: "*Decisió* porta una sola *s*."
+    grading: strict
+    explanation: "El nom del verb *decidir* és *decisió*, amb *s*."
+
+  - id: b1-30-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El cap ha pres la decició final aquest matí."
+    error: "decició"
+    fix: "decisió"
+    fix_distractors:
+      - text: "decissió"
+        why: "*Decissió* amb *ss* no és correcte: és *decisió*, amb una *s*."
+      - text: "desició"
+        why: "*Desició* és un calc de «decisión». En català és *decisió*."
+    explanation: "El nom del verb *decidir* és *decisió*, amb *s*."
+
+  - id: b1-30-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Diumenge anirem a la plaja amb els nens."
+    error: "plaja"
+    fix: "platja"
+    fix_distractors:
+      - text: "platga"
+        why: "El so de *platja* s'escriu *tj*, no *tg*."
+      - text: "platxa"
+        why: "*Tx* és el so de *despatx*. *Platja* s'escriu amb *tj*."
+    explanation: "*Platja* s'escriu amb *tj*, com *viatjar*."
+
+  - id: b1-30-038
+    type: choice
+    point: expressions
+    lesson: 3
+    prompt: "Aquesta setmana ___: tinc quatre informes per entregar."
+    answer: "vaig de corcoll"
+    distractors:
+      - text: "vaig amb corcoll"
+        why: "L'expressió és *anar **de** corcoll*, amb *de*."
+      - text: "faig de corcoll"
+        why: "El verb de l'expressió és *anar*: *vaig de corcoll*."
+    explanation: "*Anar de corcoll* vol dir anar amb moltes presses, atrafegat."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-30-039
+    type: transform
+    point: s-ss-z
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Demà he de [[pasar]] per l'oficina a signar el contracte."
+    answers: ["Demà he de passar per l'oficina a signar el contracte."]
+    wrong_answers:
+      - text: "Demà he de paçar per l'oficina a signar el contracte."
+        why: "*Passar* no porta mai *ç*: és amb *ss*."
+    grading: strict
+    explanation: "*Passar* s'escriu amb *ss*."
+
+  - id: b1-30-040
+    type: transform
+    point: ce-trencada
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[Comensem]] la reunió a les nou en punt."
+    answers: ["Comencem la reunió a les nou en punt."]
+    wrong_answers:
+      - text: "Començem la reunió a les nou en punt."
+        why: "*Ç* mai va davant de *e* ni de *i*: *comencem*."
+    grading: strict
+    explanation: "Davant de *e*, el so de *s* sorda s'escriu amb *c*: *comencem*."
+
+  - id: b1-30-041
+    type: transform
+    point: ce-trencada
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Escriu la teva [[adresa]] a la part de dalt del full."
+    answers: ["Escriu la teva adreça a la part de dalt del full."]
+    wrong_answers:
+      - text: "Escriu la teva adreca a la part de dalt del full."
+        why: "*Adreca* sonaria «adreka»: és *adreça*."
+    grading: strict
+    explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
+
+  - id: b1-30-042
+    type: transform
+    point: terminacions-cio-sio
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "La direcció ha pres la [[decició]] final avui."
+    answers: ["La direcció ha pres la decisió final avui."]
+    wrong_answers:
+      - text: "La direcció ha pres la decissió final avui."
+        why: "*Decisió* porta una sola *s*."
+    grading: strict
+    explanation: "El nom del verb *decidir* és *decisió*, amb *s*."
+
+  - id: b1-30-043
+    type: transform
+    point: ge-jota
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "El [[progecte]] de l'oficina nova va amb retard."
+    answers: ["El projecte de l'oficina nova va amb retard."]
+    wrong_answers:
+      - text: "El progecte de l'oficina nova va amb retard."
+        why: "*Progecte* no és correcte: *projecte* s'escriu amb *j*."
+    grading: strict
+    explanation: "*Projecte* és una excepció: s'escriu amb *j*."
+
+  - id: b1-30-044
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "He rebut el teu [[mensatge]] i et truco després."
+    answers: ["He rebut el teu missatge i et truco després."]
+    wrong_answers:
+      - text: "He rebut el teu misatge i et truco després."
+        why: "*Misatge* amb una *s* no és correcte: és *missatge*."
+    grading: strict
+    explanation: "*Missatge* s'escriu amb *ss* i amb *g*."
+
+  - id: b1-30-045
+    type: fill
+    point: ge-jota
+    lesson: 4
+    prompt: "A les dues ___ al bar de la cantonada amb els companys."
+    hint: "MENJAR, nosaltres"
+    answers: ["mengem"]
+    wrong_answers:
+      - text: "menjem"
+        why: "El verb és *menjar*, però davant de *e* s'escriu amb *g*: *mengem*."
+    grading: strict
+    explanation: "El verb és *menjar*, però davant de *e* s'escriu amb *g*: *mengem*."
+
+  - id: b1-30-046
+    type: fill
+    point: ge-jota
+    lesson: 4
+    prompt: "Apunta la cita a l'___ de paper."
+    hint: "llibreta amb els dies de l'any"
+    answers: ["agenda"]
+    wrong_answers:
+      - text: "ajenda"
+        why: "*Agenda* s'escriu amb *g* davant de *e*."
+    grading: strict
+    explanation: "Davant de *e*, el so suau normalment s'escriu amb *g*: *agenda*."
+
+  - id: b1-30-047
+    type: choice
+    point: compte-castella
+    lesson: 4
+    prompt: "El nostre ___ és obrir al setembre."
+    answer: "objectiu"
+    distractors:
+      - text: "objetivo"
+        why: "*Objetivo* amb *o* final és la forma del castellà «objetivo». En català és *objectiu*."
+      - text: "obgetiu"
+        why: "*Objectiu* és una excepció: s'escriu amb *j*."
+    explanation: "*Objectiu* s'escriu amb *j* i acaba en *-iu*: és una excepció."
+
+  - id: b1-30-048
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "He rebut el seu mensatge aquest matí."
+    error: "mensatge"
+    fix: "missatge"
+    fix_distractors:
+      - text: "misatge"
+        why: "*Misatge* amb una *s* no és correcte: és *missatge*, amb *ss*."
+      - text: "missatje"
+        why: "*Missatge* s'escriu amb *g*, no amb *j*."
+    explanation: "*Missatge* s'escriu amb *ss* i amb *g*: és un dels mots que cal memoritzar."
+
+  - id: b1-30-049
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "Escriu la teva adresa aquí dalt, si us plau."
+    error: "adresa"
+    fix: "adreça"
+    fix_distractors:
+      - text: "adreca"
+        why: "*Adreca* sonaria «adreka»: davant de *a*, el so suau és *ç*."
+      - text: "adreza"
+        why: "*Adreça* no porta mai *z*: és amb *ç*."
+    explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
+
+  - id: b1-30-050
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "El professor de català passa llista cada matí."
+    no_error: true
+    explanation: "La frase és correcta: *professor* i *passa* s'escriuen amb *ss*."
+
+  - id: b1-30-051
+    type: order
+    point: terminacions-cio-sio
+    lesson: 4
+    cue: "Explica que el cap encara no ha pres cap decisió."
+    chunks: ["el", "cap", "encara", "no", "ha", "pres", "cap", "decisió"]
+    extra: ["decició"]
+    answers:
+      - "El cap encara no ha pres cap decisió."
+      - "El cap no ha pres cap decisió encara."
+    explanation: "El nom del verb *decidir* és *decisió*, amb *s*."
+
+  - id: b1-30-052
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Digues que has rebut el seu missatge."
+    chunks: ["he", "rebut", "el", "seu", "missatge"]
+    extra: ["mensatge"]
+    answers:
+      - "He rebut el seu missatge."
+    explanation: "*Missatge* s'escriu amb *ss* i amb *g*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-30-055
+    type: choice
+    point: ge-jota
+    lesson: 5
+    prompt: "El ___ de la Núria comença dilluns."
+    answer: "projecte"
+    distractors:
+      - text: "progecte"
+        why: "*Projecte* és una excepció: s'escriu amb *j*."
+      - text: "proyecte"
+        why: "*Projecte* no porta *y*: és amb *j*."
+    explanation: "*Projecte* és una excepció: s'escriu amb *j*."
+
+  - id: b1-30-056
+    type: choice
+    point: terminacions-cio-sio
+    lesson: 5
+    prompt: "La ___ d'aquest matí ha anat molt bé."
+    answer: "presentació"
+    distractors:
+      - text: "presentasió"
+        why: "*Presentació* s'escriu amb *c*, no amb *s*."
+      - text: "presentassió"
+        why: "*Presentació* porta *c*, no *ss*."
+    explanation: "El nom del verb *presentar* és *presentació*, amb *c*."
+
+  - id: b1-30-057
+    type: match
+    point: terminacions-cio-sio
+    lesson: 5
+    instruction: "Relaciona cada verb amb el nom corresponent."
+    pairs:
+      - ["presentar", "la presentació"]
+      - ["corregir", "la correcció"]
+      - ["informar", "la informació"]
+      - ["utilitzar", "la utilització"]
+      - ["autoritzar", "l'autorització"]
+      - ["transmetre", "la transmissió"]
+    explanation: "Cada verb té el seu nom: *presentar → presentació, corregir → correcció, informar → informació, utilitzar → utilització, autoritzar → autorització, transmetre → transmissió*."
+
+  - id: b1-30-058
+    type: inline-choice
+    point: s-ss-z
+    lesson: 5
+    title: "Nota per a l'Ibrahim"
+    text: "Si us plau, pa{ss|s}a demà pel despatx: és nece{ss|s}ari parlar dels venciments del mes. Porta alguna co{s|ss}sa de beure; a la cuina no hi ha qua{s|ss}i res. El codi nou és el {z|s}ero-nou-dos. Ah, i porta el justificant del metge!"
+    explanation: "*Passar* i *necessari* s'escriuen amb *ss*. *Cosa* i *quasi* sonen amb *s* sonora: una *s*. *Zero* porta *z*."
+
+  - id: b1-30-059
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Encara no tenim l'autorisació del propietari."
+    error: "autorisació"
+    fix: "autorització"
+    fix_distractors:
+      - text: "autorizació"
+        why: "En català és *tz*, no *z*: *autorització*."
+      - text: "autorissació"
+        why: "Els noms dels verbs en *-itzar* acaben en *-ització*: *autorització*."
+    explanation: "El nom del verb *autoritzar* és *autorització*, amb *tz*."
+
+  - id: b1-30-060
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Organitzem la presentació de dimarts a la sala gran."
+    no_error: true
+    explanation: "La frase és correcta: *organitzem* porta *tz* i *presentació* acaba en *-ció*."
+
+  - id: b1-30-061
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix la frase."
+    source: "Mira l'horari: a les [[once]] tanquem l'oficina."
+    answers: ["Mira l'horari: a les onze tanquem l'oficina."]
+    wrong_answers:
+      - text: "Mira l'horari: a les onse tanquem l'oficina."
+        why: "*Onze* es pronuncia amb el so sonor i s'escriu amb *z*."
+    grading: strict
+    explanation: "*Onze* s'escriu amb *z*, que sona sonora."
+
+  - id: b1-30-062
+    type: transform
+    point: ce-trencada
+    lesson: 5
+    instruction: "Corregeix la frase."
+    source: "El ventilador nou té molta [[forsa]]: fa massa soroll."
+    answers: ["El ventilador nou té molta força: fa massa soroll."]
+    wrong_answers:
+      - text: "El ventilador nou té molta forca: fa massa soroll."
+        why: "*Forca* és una eina del camp o per penjar. La potència és *força*."
+    grading: strict
+    explanation: "La potència és la *força*, amb *ç*."
+
+  - id: b1-30-063
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Vinga, nois, que són les nou: ___!"
+    answer: "poseu-vos a la feina"
+    distractors:
+      - text: "poseu-vos en la feina"
+        why: "L'expressió porta *a*, no *en*: *posar-se **a** la feina*."
+      - text: "poseu-se a la feina"
+        why: "Amb *vosaltres*, el pronom és *-vos*: *poseu-vos*."
+    explanation: "*Posar-se a la feina* vol dir començar a treballar de debò."
+
+  - id: b1-30-064
+    type: order
+    point: ge-jota
+    lesson: 5
+    cue: "Explica que el nou projecte comença al setembre."
+    chunks: ["el", "nou", "projecte", "comença", "al", "setembre"]
+    extra: ["progecte"]
+    answers:
+      - "El nou projecte comença al setembre."
+      - "Al setembre comença el nou projecte."
+    explanation: "*Projecte* és una excepció: s'escriu amb *j*."
+
+  - id: b1-30-065
+    type: choice
+    point: terminacions-cio-sio
+    lesson: 5
+    prompt: "El tècnic ha publicat una nova ___ del programa."
+    answer: "versió"
+    distractors:
+      - text: "verció"
+        why: "*Versió* s'escriu amb *s*, no amb *c*."
+      - text: "verssió"
+        why: "*Versió* porta una sola *s*."
+    explanation: "Una edició nova d'un programa és una *versió*, amb *s*."
+
+  - id: b1-30-066
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "El primer dia de la Núria"
+    text: |
+      La Núria comença avui la feina nova en una oficina de Sabadell. El primer que fa és encendre l'ordinador i mirar la pantalla: en Pau, el company del despatx del costat, l'ajuda a entrar a la xarxa i a triar una contrasenya segura. Després l'acompanya a la recepció i li presenta la cap.
+
+      La cap li ensenya el programa de factures. La Núria ha de revisar tres factures pendents, descarregar dos documents de l'arxiu i enviar un correu amb el contracte adjunt. També comprova els venciments de la setmana. Al principi escriu massa de pressa i s'equivoca amb el teclat, però en Pau li diu que no passa res.
+
+      A les onze surten a esmorzar. En Pau li explica que aquesta setmana va de corcoll: té un informe per acabar i cada dia hi ha una reunió a la tarda. La Núria somriu: li agrada començar amb energia.
+
+      Abans de plegar, la Núria desa els documents a la carpeta correcta i apaga la impressora. En Pau li promet que demà li ensenyarà a organitzar els arxius per ordre alfabètic. «A poc a poc», li diu.
+    questions:
+      - prompt: "On és la feina nova de la Núria?"
+        answer: "Treballa en una oficina de Sabadell."
+        distractors:
+          - text: "A la recepció de l'empresa."
+            why: "La Núria només passa per la recepció; treballa en una oficina."
+          - text: "Al despatx d'en Pau."
+            why: "El despatx és el d'en Pau, al costat del seu."
+      - prompt: "Què l'ajuda a fer en Pau al matí?"
+        answer: "Accedir a la xarxa i escollir una contrasenya."
+        distractors:
+          - text: "Revisar tres factures pendents."
+            why: "Això ho ha de fer la Núria sola, amb el programa."
+          - text: "Escriure un informe."
+            why: "L'informe l'ha d'acabar en Pau, no la Núria."
+      - prompt: "Què ha de fer la Núria el primer dia?"
+        answer: "Revisar factures, descarregar documents i enviar un correu."
+        distractors:
+          - text: "Enviar un informe amb el contracte adjunt."
+            why: "El correu porta el contracte, però l'informe és cosa d'en Pau."
+          - text: "Organitzar els arxius per ordre alfabètic."
+            why: "Això li ensenyarà en Pau demà."
+      - prompt: "Què vol dir que en Pau «va de corcoll»?"
+        answer: "Que té molta feina i va amb presses."
+        distractors:
+          - text: "Que marxa de l'empresa."
+            why: "En Pau no marxa: té un informe per acabar."
+          - text: "Que comença a treballar de debò."
+            why: "Això seria *posar-se a la feina*, una altra expressió."
+    explanation: "La Núria comença a treballar en una oficina: en Pau l'ajuda i ella aprèn les primeres tasques."

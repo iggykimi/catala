@@ -1,0 +1,1039 @@
+id: b1-32
+level: B1
+title: "Apòstrof, guionet, ela geminada i numerals"
+summary: "Aprens a apostrofar (*l'oferta*, *m'han pagat*), a escriure els numerals amb guionet (*vint-i-tres*, *dos-cents*), la ela geminada (*col·legi*, *novel·la*) i els cardinals i ordinals (*quinze*, *tercer*, *dues*)."
+vocabulary_theme: "Diners, banc i preus"
+points:
+  - id: apostrofacio
+    title: "L'apostrofació: article, *de* i pronoms"
+    refs:
+      - label: "GEIEC: L'apostrofació"
+        url: "https://geiec.iec.cat"
+  - id: guionet
+    title: "El guionet: numerals i pronoms"
+    refs:
+      - label: "GEIEC: El guionet"
+        url: "https://geiec.iec.cat"
+  - id: ela-geminada
+    title: "La ela geminada: *col·legi*, *novel·la*"
+    refs:
+      - label: "GEIEC: La ela geminada"
+        url: "https://geiec.iec.cat"
+  - id: numerals
+    title: "Cardinals, ordinals, *mig* i *quart*"
+    refs:
+      - label: "GEIEC: Els numerals"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: els numerals"
+  - id: expressions
+    title: "Expressions amb diners"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: l'apòstrof i el guionet"
+  - title: "Practicar: apòstrof, guionet i ela geminada"
+  - title: "Numerals i interferències del castellà"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el compte"
+    definition: "Compte que tens al banc per guardar-hi els diners."
+    example: "M'han ingressat el sou al compte."
+  - word: "el caixer"
+    definition: "Màquina on pots treure diners amb la targeta."
+    example: "El caixer del mercat no funciona."
+  - word: "la targeta"
+    definition: "Plàstic del banc que serveix per pagar o treure diners."
+    example: "He pagat amb la targeta de dèbit."
+  - word: "el rebut"
+    definition: "Paper que demostra que has pagat una cosa."
+    example: "Guarda el rebut de la compra."
+  - word: "la factura"
+    definition: "Document que diu quant has de pagar i a qui."
+    example: "La factura de la llum arriba cada mes."
+  - word: "el tiquet"
+    definition: "Paper petit que et donen quan pagues a una botiga."
+    example: "Necessito el tiquet per tornar la camisa."
+  - word: "el canvi"
+    definition: "Diners que et tornen quan pagues de més."
+    example: "M'ha tornat malament el canvi."
+  - word: "el deute"
+    definition: "Diners que deus a algú."
+    example: "Té un deute de mil euros amb el banc."
+  - word: "el préstec"
+    definition: "Diners que el banc et deixa i que has de tornar."
+    example: "Han demanat un préstec per al cotxe."
+  - word: "el pressupost"
+    definition: "Càlcul dels diners que costarà una feina."
+    example: "El lampista ens farà un pressupost."
+  - word: "la quota"
+    definition: "Part fixa que pagues cada mes o cada any."
+    example: "La quota del gimnàs puja al gener."
+  - word: "l'assegurança"
+    definition: "Contracte que et cobreix si tens un accident."
+    example: "L'assegurança del pis és obligatòria."
+  - word: "el descompte"
+    definition: "Rebaixa del preu d'una cosa."
+    example: "Amb aquest cupó tens un descompte."
+  - word: "l'oferta"
+    definition: "Preu més baix durant uns dies."
+    example: "Aquesta oferta acaba diumenge."
+  - word: "el preu"
+    definition: "Diners que costa una cosa."
+    example: "El preu del pa ha apujat."
+  - word: "el cèntim"
+    definition: "La moneda més petita de l'euro."
+    example: "No em queda ni un cèntim."
+  - word: "l'euro"
+    definition: "Moneda de la majoria de països d'Europa."
+    example: "El bitllet val cinc euros."
+  - word: "el bitllet"
+    definition: "Paper moneda d'un valor determinat."
+    example: "El caixer no dona bitllets petits."
+  - word: "la moneda"
+    definition: "Diners de metall."
+    example: "Té una col·lecció de monedes antigues."
+  - word: "la cartera"
+    definition: "Objecte pla per portar bitllets i targetes."
+    example: "M'he deixat la cartera a la feina."
+  - word: "el moneder"
+    definition: "Bossa petita per portar monedes."
+    example: "Al moneder només hi ha cèntims."
+  - word: "el sou"
+    definition: "Diners que guanyes cada mes per la feina."
+    example: "Amb aquest sou no arriba a final de mes."
+  - word: "la nòmina"
+    definition: "Document que diu quant has guanyat aquell mes."
+    example: "La nòmina arriba l'últim dia del mes."
+  - word: "el lloguer"
+    definition: "Diners que pagues per viure en un pis que no és teu."
+    example: "Aquest lloguer costa un ull de la cara."
+  - word: "la hipoteca"
+    definition: "Préstec gran per comprar una casa."
+    example: "Encara paguen la hipoteca del pis."
+  - word: "l'estalvi"
+    definition: "Diners que guardes i no gastes."
+    example: "Els estalvis van a un compte a part."
+  - word: "l'ingrés"
+    definition: "Diners que entren al teu compte."
+    example: "He fet un ingrés de dos-cents euros."
+  - word: "la despesa"
+    definition: "Diners que gastes; allò que pagues."
+    example: "Les despeses del gener són molt altes."
+  - word: "gastar"
+    definition: "Fer servir els diners per comprar coses."
+    example: "Aquest mes hem gastat massa."
+  - word: "estalviar"
+    definition: "Guardar diners per al futur."
+    example: "Estalvia una mica cada mes."
+  - word: "apujar"
+    definition: "Fer més alt un preu."
+    example: "Han apujat el lloguer un 5 %."
+  - word: "tornar"
+    definition: "Donar a algú els diners que sobren."
+    example: "M'ha tornat cinc euros de canvi."
+  - word: "deure"
+    definition: "Haver de pagar diners a algú."
+    example: "Encara em deu vint euros."
+  - word: "el client, la clienta"
+    definition: "Persona que compra o fa servir un servei."
+    example: "El banc tanca a les dues per als clients."
+  - word: "la caixa"
+    definition: "Lloc de la botiga on pagues."
+    example: "A la caixa només accepten targeta."
+  - word: "barat, barata"
+    definition: "Que costa pocs diners."
+    example: "Aquest mercat és més barat que el del centre."
+  - word: "car, cara"
+    definition: "Que costa molts diners."
+    example: "Aquest restaurant és massa car."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-32-001
+    type: choice
+    point: apostrofacio
+    lesson: 1
+    prompt: "—On és el rebut del gas? —A ___ entrada, al calaix de la cuina."
+    answer: "l'"
+    distractors:
+      - text: "la"
+        why: "*La* no va davant de vocal: *entrada* comença per *e*, i *la* s'apostrofa."
+      - text: "el"
+        why: "*Entrada* és femení: l'article és *la*, que davant de vocal s'escriu *l'*."
+    explanation: "«Entrada» és femení i comença per vocal: *la* s'apostrofa."
+
+  - id: b1-32-002
+    type: choice
+    point: apostrofacio
+    lesson: 1
+    prompt: "La Núria estudia a ___ Universitat de Barcelona."
+    answer: "la"
+    distractors:
+      - text: "l'"
+        why: "*La* no s'apostrofa davant de *u* àtona + vocal: *la universitat*."
+      - text: "el"
+        why: "*Universitat* és femení: l'article és *la*."
+    explanation: "«Universitat» comença per *u* àtona + vocal: és l'excepció i *la* no s'apostrofa."
+
+  - id: b1-32-003
+    type: choice
+    point: apostrofacio
+    lesson: 1
+    prompt: "Aquest anell és ___ or pur, no és bijuteria."
+    answer: "d'"
+    distractors:
+      - text: "de"
+        why: "*De* s'apostrofa davant de vocal: *d'or*."
+      - text: "del"
+        why: "Aquí *or* no porta article, així que no hi ha contracció: *d'or*."
+    explanation: "«Or» comença per vocal i no porta article: *de* s'apostrofa."
+
+  - id: b1-32-004
+    type: choice
+    point: apostrofacio
+    lesson: 1
+    prompt: "—Qui ha pagat el dinar? —___ ha pagat l'Ibrahim, com sempre."
+    answer: "L'"
+    distractors:
+      - text: "El"
+        why: "Davant de vocal, *el* s'apostrofa: *l'ha pagat*."
+      - text: "La"
+        why: "El pronom substitueix «el dinar», masculí: *el*, que davant de vocal és *l'*."
+    explanation: "El pronom *el* («el dinar») va davant de *ha*: s'apostrofa."
+
+  - id: b1-32-005
+    type: fill
+    point: apostrofacio
+    lesson: 1
+    prompt: "L'assegurança puja cada any: aquest gener ___ han apujat un 10 %."
+    hint: "pronom *em*, davant de vocal"
+    answers: ["m'"]
+    wrong_answers:
+      - text: "em"
+        why: "Davant de vocal, *em* s'apostrofa: *m'han apujat*."
+      - text: "me"
+        why: "Davant del verb la forma és *em*, i davant de vocal s'apostrofa: *m'han*."
+    grading: strict
+    explanation: "Davant de *han*, *em* s'apostrofa: *m'han apujat*."
+
+  - id: b1-32-006
+    type: order
+    point: apostrofacio
+    lesson: 1
+    cue: "Digues que el rebut de la llum ja l'has pagat."
+    chunks: ["el", "rebut", "ja", "l'he", "pagat"]
+    extra: ["la"]
+    answers:
+      - "El rebut ja l'he pagat."
+      - "Ja l'he pagat, el rebut."
+    explanation: "Davant de *he*, el pronom *el* («el rebut») s'apostrofa: *l'he pagat*."
+
+  - id: b1-32-007
+    type: choice
+    point: guionet
+    lesson: 1
+    prompt: "La quota del col·legi és de ___ euros."
+    answer: "trenta-dos"
+    distractors:
+      - text: "trenta i dos"
+        why: "Les desenes (menys la vintena) s'uneixen a la unitat amb guionet i sense *i*: *trenta-dos*."
+      - text: "treinta-dos"
+        why: "«Treinta» és castellà: en català és *trenta-dos*."
+    explanation: "*Trenta-dos* s'escriu amb guionet i sense la conjunció *i*."
+
+  - id: b1-32-008
+    type: choice
+    point: guionet
+    lesson: 1
+    prompt: "Han comprat ___ entrades per al concert."
+    answer: "vint-i-una"
+    distractors:
+      - text: "vint-i-un"
+        why: "*Vint-i-un* és masculí. «Entrades» és femení: *vint-i-una*."
+      - text: "vintiuna"
+        why: "La vintena porta la conjunció *i* amb guionets: *vint-i-una*."
+    explanation: "«Entrades» és femení: *vint-i-una*, amb la *i* i dos guionets."
+
+  - id: b1-32-009
+    type: choice
+    point: guionet
+    lesson: 1
+    prompt: "Aquesta bici de segona mà val ___ euros."
+    answer: "dos-cents"
+    distractors:
+      - text: "dos cents"
+        why: "El multiplicador i *cents* s'uneixen amb guionet: *dos-cents*."
+      - text: "doscientos"
+        why: "«Doscientos» és castellà: en català és *dos-cents*."
+    explanation: "*Dos-cents* s'escriu amb guionet entre el multiplicador i *cents*."
+
+  - id: b1-32-010
+    type: inline-choice
+    point: guionet
+    lesson: 1
+    title: "El pressupost del lampista"
+    text: "El lampista ens ha fet un pressupost de {dos-cents|dos cents|doscientos} euros per canviar la caldera. Si paguem aquesta setmana, ens fa un descompte de {trenta-dos|trenta i dos|treinta-dos} euros. Tenim {vint-i-un|vint i un|veintiún} dies per decidir-nos."
+    explanation: "*Dos-cents* i *trenta-dos* porten guionet. *Vint-i-un*, amb la *i*: davant d'un nom masculí acaba en *-un*. «Doscientos», «treinta» i «veintiún» són castellans."
+
+  - id: b1-32-011
+    type: fill
+    point: guionet
+    lesson: 1
+    prompt: "El curs d'anglès costa noranta-___ euros al trimestre."
+    hint: "NORANTA-NOU: escriu la unitat"
+    answers: ["nou"]
+    wrong_answers:
+      - text: "nueve"
+        why: "«Nueve» és castellà: *nou*."
+      - text: "nòu"
+        why: "*Nou* no porta accent."
+    grading: strict
+    explanation: "El numeral és *noranta-nou*: el guionet ja hi és, només falta *nou*."
+
+  - id: b1-32-012
+    type: order
+    point: guionet
+    lesson: 1
+    cue: "Digues que vols comprar el tiquet d'autobús per internet."
+    chunks: ["vull", "comprar-lo", "per", "internet"]
+    extra: ["lo"]
+    answers:
+      - "Vull comprar-lo per internet."
+      - "Per internet vull comprar-lo."
+    explanation: "Darrere de l'infinitiu, el pronom va unit amb guionet: *comprar-lo*."
+
+  - id: b1-32-013
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["fer números", "Cal calcular si el sou arriba a final de mes."]
+      - ["costar un ull de la cara", "Un lloguer molt més car del normal."]
+      - ["tirar la casa per la finestra", "Gastar molt en el casament de la filla."]
+      - ["no tenir ni cinc", "Quedar-se sense diners a final de mes."]
+    explanation: "Són expressions per parlar de diners: calcular (*fer números*), el preu (*costar un ull de la cara*), gastar molt (*tirar la casa per la finestra*) o no tenir res (*no tenir ni cinc*)."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-32-014
+    type: fill
+    point: apostrofacio
+    lesson: 2
+    prompt: "No estic d'acord amb ___ import del rebut: és massa alt."
+    hint: "article *el*, davant de vocal"
+    answers: ["l'"]
+    wrong_answers:
+      - text: "el"
+        why: "Davant de vocal, *el* s'apostrofa: *amb l'import*."
+      - text: "la"
+        why: "*Import* és masculí: *amb l'import*."
+    grading: strict
+    explanation: "«Import» és masculí i comença per vocal: *amb l'import*."
+
+  - id: b1-32-015
+    type: fill
+    point: apostrofacio
+    lesson: 2
+    prompt: "Quan tinguis el pressupost, ___ sense falta."
+    hint: "TRUCAR + *em*, imperatiu"
+    answers: ["truca'm"]
+    wrong_answers:
+      - text: "trucam"
+        why: "Darrere d'una vocal, *em* s'apostrofa: *truca'm*."
+      - text: "truca-me"
+        why: "Darrere d'una vocal, *em* es redueix a *'m*: *truca'm*."
+    grading: strict
+    explanation: "Darrere d'un imperatiu acabat en vocal, *em* s'apostrofa: *truca'm*."
+
+  - id: b1-32-016
+    type: choice
+    point: apostrofacio
+    lesson: 2
+    prompt: "T'han tornat tot el canvi. Quina frase ho diu?"
+    answer: "M'han tornat el canvi sencer."
+    distractors:
+      - text: "Em han tornat el canvi sencer."
+        why: "Davant de vocal, *em* s'apostrofa: *m'han tornat*."
+      - text: "Me han tornat el canvi sencer."
+        why: "Davant del verb la forma és *em*, i davant de vocal s'apostrofa: *m'han*."
+    explanation: "Davant de *han*, *em* perd la vocal: *m'han tornat*."
+
+  - id: b1-32-017
+    type: fill
+    point: guionet
+    lesson: 2
+    prompt: "Aquest rebut important, cal ___ abans de divendres."
+    hint: "PAGAR + *el*"
+    answers: ["pagar-lo"]
+    wrong_answers:
+      - text: "pagar lo"
+        why: "Darrere de l'infinitiu, el pronom va unit amb guionet: *pagar-lo*."
+      - text: "pagar el"
+        why: "Darrere del verb, *el* canvia de forma: *pagar-lo*."
+    grading: strict
+    explanation: "Darrere de l'infinitiu, el pronom *el* s'escriu *-lo*: *pagar-lo*."
+
+  - id: b1-32-018
+    type: fill
+    point: guionet
+    lesson: 2
+    prompt: "El viatge costa dos-___ euros per persona."
+    hint: "DOS-CENTS: escriu la segona part"
+    answers: ["cents"]
+    wrong_answers:
+      - text: "cientos"
+        why: "«Cientos» és castellà: *cents*."
+      - text: "cent"
+        why: "Amb un multiplicador (*dos*), *cent* porta *-s* i concorda: *dos-cents*."
+    grading: strict
+    explanation: "Amb un multiplicador, *cent* fa el plural: *dos-cents*."
+
+  - id: b1-32-019
+    type: choice
+    point: guionet
+    lesson: 2
+    prompt: "Vol pagar el rebut per internet. Quina frase ho diu?"
+    answer: "Vol pagar-lo aquesta nit."
+    distractors:
+      - text: "Vol el pagar aquesta nit."
+        why: "El pronom no pot anar entre el verb i l'infinitiu: o *el vol pagar* o *vol pagar-lo*."
+      - text: "Vol pagar lo aquesta nit."
+        why: "Darrere de l'infinitiu, *el* canvia a *-lo*: *pagar-lo*."
+    explanation: "El pronom pot anar davant del verb (*el vol pagar*) o darrere l'infinitiu amb guionet."
+
+  - id: b1-32-020
+    type: choice
+    point: ela-geminada
+    lesson: 2
+    prompt: "La Fàtima té una ___ de monedes antigues."
+    answer: "col·lecció"
+    distractors:
+      - text: "colecció"
+        why: "*Col·lecció* s'escriu amb ela geminada: *col·lecció*, no *colecció*."
+      - text: "collecció"
+        why: "No és *ll* (ela palatal), és *l·l* (ela geminada): *col·lecció*."
+    explanation: "*Col·lecció* porta ela geminada: sona *col-lec-ci-ó*."
+
+  - id: b1-32-021
+    type: choice
+    point: ela-geminada
+    lesson: 2
+    prompt: "Aquest estiu llegiré una ___ policíaca."
+    answer: "novel·la"
+    distractors:
+      - text: "novela"
+        why: "«Novela» és castellà: en català és *novel·la*."
+      - text: "novella"
+        why: "No és *ll*, és *l·l*: *novel·la*."
+    explanation: "*Novel·la* s'escriu amb ela geminada."
+
+  - id: b1-32-022
+    type: choice
+    point: ela-geminada
+    lesson: 2
+    prompt: "El caixer només dona ___ de vint euros."
+    answer: "bitllets"
+    distractors:
+      - text: "bit·llets"
+        why: "*Bitllet* no porta ela geminada: la *ll* és la ela palatal, com a *illa*."
+      - text: "bitlets"
+        why: "*Bitllet* s'escriu amb dues eles (*ll*), no amb una."
+    explanation: "*Bitllet* porta *ll* (ela palatal), no *l·l*."
+
+  - id: b1-32-023
+    type: inline-choice
+    point: ela-geminada
+    lesson: 2
+    title: "Un missatge del banc"
+    text: "Benvolgut client: hem {anul·lat|anulat|anullat} la targeta que vas perdre. Pots {instal·lar|instalar|installar} l'aplicació del banc per demanar-ne una de nova. És un servei {intel·ligent|inteligent|intelligent} i gratuït."
+    explanation: "*Anul·lar*, *instal·lar* i *intel·ligent* s'escriuen amb ela geminada."
+
+  - id: b1-32-024
+    type: order
+    point: ela-geminada
+    lesson: 2
+    cue: "Digues que la novel·la que llegeixes és molt bona."
+    chunks: ["la", "novel·la", "és", "molt", "bona"]
+    extra: ["novela"]
+    answers:
+      - "La novel·la és molt bona."
+    explanation: "*Novel·la* s'escriu amb ela geminada (*l·l*)."
+
+  - id: b1-32-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «Hem de fer números abans de comprar el cotxe»?"
+    answer: "Que cal calcular si ho podem pagar."
+    distractors:
+      - text: "Que han de comptar els cotxes del carrer."
+        why: "No és comptar cotxes: és calcular els diners."
+      - text: "Que el cotxe porta números a la matrícula."
+        why: "No parla de matrícules: parla de calcular les despeses."
+    explanation: "*Fer números* vol dir fer comptes, calcular si arriben els diners."
+
+  - id: b1-32-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—Compreu el pis del centre? —Ni parlar-ne: ___."
+    answer: "costa un ull de la cara"
+    distractors:
+      - text: "costa un ull a la cara"
+        why: "L'expressió fixa és *costar un ull de la cara*."
+      - text: "costa molt barat"
+        why: "Si és car, no pot ser barat: l'expressió vol dir que és molt car."
+    explanation: "*Costar un ull de la cara* vol dir ser molt car."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-32-027
+    type: find-error
+    point: ela-geminada
+    lesson: 3
+    sentence: "Vaig llegir una novela molt bona durant les vacances."
+    error: "novela"
+    fix: "novel·la"
+    fix_distractors:
+      - text: "novella"
+        why: "No és *ll* (ela palatal): és *l·l* (ela geminada)."
+      - text: "nove·la"
+        why: "El punt va entre les dues eles: *novel·la*."
+    explanation: "*Novel·la* s'escriu amb ela geminada: *l·l*."
+
+  - id: b1-32-028
+    type: find-error
+    point: ela-geminada
+    lesson: 3
+    sentence: "El banc ha cancelat el rebut perquè el compte no tenia diners."
+    error: "cancelat"
+    fix: "cancel·lat"
+    fix_distractors:
+      - text: "cancellat"
+        why: "No és *ll*: és *l·l*: *cancel·lat*."
+      - text: "cance·lat"
+        why: "El punt va entre les dues eles: *cancel·lat*."
+    explanation: "*Cancel·lar* s'escriu amb ela geminada: *cancel·lat*."
+
+  - id: b1-32-029
+    type: choice
+    point: ela-geminada
+    lesson: 3
+    prompt: "Has perdut la targeta. El banc l'ha ___."
+    answer: "anul·lada"
+    distractors:
+      - text: "anulada"
+        why: "*Anul·lar* porta ela geminada: *anul·lada*."
+      - text: "anullada"
+        why: "No és *ll*, és *l·l*: *anul·lada*."
+    explanation: "*Anul·lar* s'escriu amb ela geminada; el participi és *anul·lat, anul·lada*."
+
+  - id: b1-32-030
+    type: inline-choice
+    point: ela-geminada
+    lesson: 3
+    title: "La col·lecció de l'Ibrahim"
+    text: "L'Ibrahim té una {col·lecció|colecció|collecció} de monedes antigues. Diu que és una afició {intel·ligent|inteligent|intelligent}: aprèn història i no gasta gaire. Ara estalvia per comprar un {bitllet|bit·llet|bitlel} antic de fa cent anys."
+    explanation: "*Col·lecció* i *intel·ligent* porten *l·l*. En canvi, *bitllet* porta *ll* (ela palatal)."
+
+  - id: b1-32-031
+    type: choice
+    point: numerals
+    lesson: 3
+    prompt: "La factura del gas és de ___ euros."
+    answer: "seixanta"
+    distractors:
+      - text: "sesenta"
+        why: "«Sesenta» és castellà: *seixanta*."
+      - text: "seixenta"
+        why: "*Seixanta* s'escriu amb *a*: *seixanta*."
+    explanation: "*Seixanta* (60) s'escriu amb *ei* i amb *a*."
+
+  - id: b1-32-032
+    type: choice
+    point: numerals
+    lesson: 3
+    prompt: "Viuen al ___: no tenen ascensor."
+    answer: "tercer"
+    distractors:
+      - text: "tercero"
+        why: "«Tercero» és castellà: *tercer*."
+      - text: "treser"
+        why: "L'ordinal de *tres* és *tercer*: *treser* no existeix."
+    explanation: "L'ordinal de *tres* és *tercer*: el tercer pis."
+
+  - id: b1-32-033
+    type: choice
+    point: numerals
+    lesson: 3
+    prompt: "La fruiteria té ___ ofertes aquesta setmana."
+    answer: "quatre"
+    distractors:
+      - text: "cuatro"
+        why: "«Cuatro» és castellà: *quatre*."
+      - text: "cuatre"
+        why: "*Quatre* s'escriu amb *qu*: *quatre*."
+    explanation: "El 4 és *quatre*, amb *qu* inicial."
+
+  - id: b1-32-034
+    type: fill
+    point: numerals
+    lesson: 3
+    prompt: "Aquest mes la hipoteca puja a mil ___ euros."
+    hint: "MIL NOU-CENTS: escriu les centenes"
+    answers: ["nou-cents"]
+    wrong_answers:
+      - text: "nou cents"
+        why: "El multiplicador i *cents* s'uneixen amb guionet: *nou-cents*."
+      - text: "novecientos"
+        why: "«Novecientos» és castellà: *nou-cents*."
+    grading: strict
+    explanation: "*Nou-cents* (900) s'escriu amb guionet."
+
+  - id: b1-32-035
+    type: fill
+    point: numerals
+    lesson: 3
+    prompt: "Són les tres i ___: el banc ja ha tancat."
+    hint: "MIG, en femení (amb les hores)"
+    answers: ["mitja"]
+    wrong_answers:
+      - text: "mig"
+        why: "Amb les hores, *mig* és femení (*les tres*): *i mitja*."
+      - text: "media"
+        why: "«Media» és castellà: *mitja*."
+    grading: strict
+    explanation: "Amb les hores fem servir el femení: *les tres i mitja*."
+
+  - id: b1-32-036
+    type: fill
+    point: numerals
+    lesson: 3
+    prompt: "Per a la recepta cal ___ de litre d'oli."
+    hint: "QUART: una quarta part"
+    answers: ["un quart"]
+    wrong_answers:
+      - text: "un cuarto"
+        why: "«Cuarto» és castellà: *un quart*."
+      - text: "una quarta"
+        why: "*Quart* és masculí: *un quart de litre*."
+    grading: strict
+    explanation: "*Quart* és una quarta part i és masculí: *un quart de litre*."
+
+  - id: b1-32-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "A la col·lecció hi ha dos-cientes monedes."
+    error: "dos-cientes"
+    fix: "dues-centes"
+    fix_distractors:
+      - text: "dos-centes"
+        why: "*Dos* també té femení: *dues-centes*."
+      - text: "doscientes"
+        why: "En català és *dues-centes*, amb *u* i amb guionet."
+    explanation: "«Monedes» és femení: *dues-centes*. I en català porta guionet."
+
+  - id: b1-32-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "He pagat les dues factures amb la targeta nova."
+    no_error: true
+    explanation: "La frase és correcta: «factures» és femení i el numeral concorda, *dues*."
+
+  - id: b1-32-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "La Carla té ___ targetes: una de dèbit i una de crèdit."
+    answer: "dues"
+    distractors:
+      - text: "dos"
+        why: "*Targetes* és femení: el femení de *dos* és *dues*."
+      - text: "segones"
+        why: "*Segones* és l'ordinal. Aquí cal el cardinal *dues*."
+    explanation: "«Targetes» és femení: el femení de *dos* és *dues*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-32-040
+    type: transform
+    point: apostrofacio
+    lesson: 4
+    instruction: "Corregeix l'article."
+    source: "He deixat el rebut a [[la entrada]] del banc."
+    answers: ["He deixat el rebut a l'entrada del banc."]
+    wrong_answers:
+      - text: "He deixat el rebut a la entrada del banc."
+        why: "Davant de vocal, *la* s'apostrofa: *l'entrada*."
+    grading: strict
+    explanation: "«Entrada» comença per vocal: *la* s'apostrofa."
+
+  - id: b1-32-041
+    type: transform
+    point: apostrofacio
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "He pagat [[l'assegurança]] aquest matí."
+    answers:
+      - "L'he pagat aquest matí."
+      - "L'he pagada aquest matí."
+    wrong_answers:
+      - text: "La he pagat aquest matí."
+        why: "Davant de vocal, *la* s'apostrofa: *l'he pagat*."
+      - text: "Ho he pagat aquest matí."
+        why: "*Ho* substitueix una idea, no un nom femení com «l'assegurança»."
+    grading: strict
+    explanation: "«L'assegurança» és CD femení: el pronom és *la*, que davant de *he* s'apostrofa."
+
+  - id: b1-32-042
+    type: transform
+    point: guionet
+    lesson: 4
+    instruction: "Corregeix el numeral."
+    source: "El preu del curs és de [[cinquanta dos]] euros."
+    answers: ["El preu del curs és de cinquanta-dos euros."]
+    wrong_answers:
+      - text: "El preu del curs és de cinquanta dos euros."
+        why: "Les desenes i la unitat s'uneixen amb guionet: *cinquanta-dos*."
+    grading: strict
+    explanation: "*Cinquanta-dos* s'escriu amb guionet."
+
+  - id: b1-32-043
+    type: transform
+    point: guionet
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Vull pagar [[el rebut]] demà."
+    answers:
+      - "Vull pagar-lo demà."
+      - "El vull pagar demà."
+    wrong_answers:
+      - text: "Vull pagar lo demà."
+        why: "Darrere de l'infinitiu, *el* canvia a *-lo*: *pagar-lo*."
+      - text: "Vull el pagar demà."
+        why: "El pronom no va entre el verb i l'infinitiu: o *el vull pagar* o *vull pagar-lo*."
+    grading: strict
+    explanation: "El pronom pot anar davant (*el vull pagar*) o darrere l'infinitiu (*vull pagar-lo*)."
+
+  - id: b1-32-044
+    type: transform
+    point: numerals
+    lesson: 4
+    instruction: "Corregeix la frase amb l'ordinal."
+    source: "Viu al pis [[tres]]."
+    answers: ["Viu al tercer pis."]
+    wrong_answers:
+      - text: "Viu al tercero pis."
+        why: "«Tercero» és castellà: *tercer*."
+      - text: "Viu al treser pis."
+        why: "L'ordinal de *tres* és *tercer*."
+    grading: strict
+    explanation: "L'ordinal de *tres* és *tercer*, i va davant del nom: *el tercer pis*."
+
+  - id: b1-32-045
+    type: transform
+    point: numerals
+    lesson: 4
+    instruction: "Corregeix la quantitat."
+    source: "Necessito [[mig]] hora per acabar l'informe."
+    answers: ["Necessito mitja hora per acabar l'informe."]
+    wrong_answers:
+      - text: "Necessito mig hora per acabar l'informe."
+        why: "*Hora* és femení: *mitja hora*."
+      - text: "Necessito media hora per acabar l'informe."
+        why: "«Media» és castellà: *mitja*."
+    grading: strict
+    explanation: "«Hora» és femení: *mitja hora*."
+
+  - id: b1-32-046
+    type: transform
+    point: numerals
+    lesson: 4
+    instruction: "Corregeix la frase amb l'ordinal."
+    source: "És la quota [[cinc]] de l'any."
+    answers: ["És la cinquena quota de l'any."]
+    wrong_answers:
+      - text: "És la quinta quota de l'any."
+        why: "«Quinta» és castellà: *cinquena*."
+      - text: "És la cinquè quota de l'any."
+        why: "*Quota* és femení: l'ordinal concorda, *cinquena*."
+    grading: strict
+    explanation: "L'ordinal de *cinc* és *cinquè*; en femení: *cinquena*."
+
+  - id: b1-32-047
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix el numeral."
+    source: "He comprat [[dos]] targetes noves."
+    answers: ["He comprat dues targetes noves."]
+    wrong_answers:
+      - text: "He comprat dos targetes noves."
+        why: "*Targetes* és femení: el femení de *dos* és *dues*."
+    grading: strict
+    explanation: "«Targetes» és femení: *dues targetes*."
+
+  - id: b1-32-048
+    type: fill
+    point: apostrofacio
+    lesson: 4
+    prompt: "El bitllet de cinquanta euros ___ trencat pel mig."
+    hint: "*es* + *ha*"
+    answers: ["s'ha"]
+    wrong_answers:
+      - text: "es ha"
+        why: "Davant de *ha*, *es* s'apostrofa: *s'ha trencat*."
+      - text: "sa"
+        why: "S'escriu amb apòstrof: *s'ha trencat*."
+    grading: strict
+    explanation: "Davant de *ha*, el pronom *es* s'apostrofa: *s'ha trencat*."
+
+  - id: b1-32-049
+    type: fill
+    point: guionet
+    lesson: 4
+    prompt: "Aquesta factura tan urgent, paga-___ avui mateix."
+    hint: "pronom per a «aquesta factura»"
+    answers: ["la"]
+    wrong_answers:
+      - text: "l'"
+        why: "Darrere del verb, *la* no s'apostrofa: *paga-la*."
+      - text: "el"
+        why: "«Factura» és femení: el pronom és *la*: *paga-la*."
+    grading: strict
+    explanation: "«Factura» és femení: el pronom és *la*, unit amb guionet: *paga-la*."
+
+  - id: b1-32-050
+    type: fill
+    point: numerals
+    lesson: 4
+    prompt: "El pis és a la ___ planta: hi ha ascensor."
+    hint: "ordinal de *quatre*, en femení"
+    answers: ["quarta"]
+    wrong_answers:
+      - text: "cuarta"
+        why: "«Cuarta» és castellà: *quarta*."
+      - text: "quart"
+        why: "*Planta* és femení: *quarta*."
+    grading: strict
+    explanation: "L'ordinal de *quatre* és *quart*; en femení: *quarta*."
+
+  - id: b1-32-051
+    type: order
+    point: numerals
+    lesson: 4
+    cue: "Digues que el bitllet d'autobús costa dos euros i mig."
+    chunks: ["el", "bitllet", "costa", "dos", "euros", "i", "mig"]
+    extra: ["mitja"]
+    answers:
+      - "El bitllet costa dos euros i mig."
+    explanation: "«Euros» és masculí: *dos euros i mig*."
+
+  - id: b1-32-052
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Digues que aquest mes us cal calcular bé les despeses."
+    chunks: ["aquest", "mes", "hem", "de", "fer", "números"]
+    extra: ["número"]
+    answers:
+      - "Aquest mes hem de fer números."
+      - "Hem de fer números aquest mes."
+    explanation: "*Fer números* vol dir calcular si arriben els diners."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-32-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un matí al banc"
+    text: |
+      La Carla va al banc cada primer dilluns de mes. Aquest dilluns hi va amb dues factures: la de la llum, de noranta-dos euros, i la de l'aigua, de vint-i-u. A la caixa, el client de davant paga amb un bitllet de cinquanta i la caixera li torna el canvi amb tres monedes. La cua és llarga, però avança de pressa.
+
+      Després, la Carla passa pel despatx de l'Ibrahim, que és el director. Vol anul·lar la targeta vella i demanar-ne una de nova. L'Ibrahim li explica que pot instal·lar l'aplicació del banc i fer-ho tot des del mòbil. «És molt intel·ligent», li diu. «I gratuït.» La Carla no ho sabia: sempre ho feia tot a la finestreta.
+
+      També parlen del préstec del cotxe. Fins ara pagava dos-cents trenta-quatre euros al mes, però vol pagar una mica més i acabar abans. Fan números junts i, amb els estalvis, queden que pagarà tres-cents euros al mes.
+
+      Abans de marxar, la Carla passa pel caixer i treu quaranta euros. La nòmina ja li ha arribat aquest matí. «Aquest mes no em quedaré sense un cèntim», pensa. Li fa il·lusió acabar el préstec aviat.
+    questions:
+      - prompt: "Què porta la Carla al banc?"
+        answer: "Dues factures per pagar."
+        distractors:
+          - text: "Un xec per ingressar."
+            why: "No porta cap xec: porta la factura de la llum i la de l'aigua."
+          - text: "La targeta vella per anul·lar."
+            why: "Vol anul·lar-la, però no diu que la porti: en parla al despatx."
+      - prompt: "Què li proposa l'Ibrahim?"
+        answer: "Fer servir l'aplicació del banc."
+        distractors:
+          - text: "Anar sempre a la finestreta."
+            why: "És el que feia abans: ell li proposa el mòbil."
+          - text: "Pagar una mica més cada mes."
+            why: "Pagar més és idea de la Carla, per al préstec."
+      - prompt: "Quant pagarà ara pel préstec?"
+        answer: "Tres-cents euros al mes."
+        distractors:
+          - text: "Dos-cents trenta-quatre euros."
+            why: "Això pagava fins ara: ara pagarà més."
+          - text: "Quaranta euros."
+            why: "Quaranta euros és el que treu del caixer."
+      - prompt: "Què pensa la Carla en sortir?"
+        answer: "Que aquest mes no es quedarà sense diners."
+        distractors:
+          - text: "Que ha de tornar un altre dia."
+            why: "El text no diu que hagi de tornar."
+          - text: "Que no té ni cinc per pagar el préstec."
+            why: "Ella pensa que no es quedarà sense diners: tot el contrari."
+    explanation: "El text explica què fa la Carla al banc: paga factures, demana una targeta nova i apuja la quota del préstec."
+
+  - id: b1-32-054
+    type: find-error
+    point: ela-geminada
+    lesson: 5
+    sentence: "La novel·la que em vas deixar és molt bona: l'he acabat en tres dies."
+    no_error: true
+    explanation: "La frase és correcta: *novel·la* porta *l·l* i *l'he acabat* va apostrofat."
+
+  - id: b1-32-055
+    type: choice
+    point: ela-geminada
+    lesson: 5
+    prompt: "Cobrar-te dos cops la mateixa quota és ___."
+    answer: "il·legal"
+    distractors:
+      - text: "ilegal"
+        why: "*Il·legal* porta ela geminada: *il·legal*."
+      - text: "illegal"
+        why: "No és *ll*, és *l·l*: *il·legal*."
+    explanation: "*Il·legal* s'escriu amb ela geminada."
+
+  - id: b1-32-056
+    type: choice
+    point: numerals
+    lesson: 5
+    prompt: "La multa per aparcar malament és de ___ euros."
+    answer: "vuitanta"
+    distractors:
+      - text: "ochenta"
+        why: "«Ochenta» és castellà: *vuitanta*."
+      - text: "buitanta"
+        why: "*Vuitanta* ve de *vuit*: s'escriu amb *v*."
+    explanation: "*Vuitanta* (80) s'escriu amb *v* inicial, com *vuit*."
+
+  - id: b1-32-057
+    type: fill
+    point: numerals
+    lesson: 5
+    prompt: "L'edifici del carrer de Mallorca té ___ pisos i dos locals."
+    hint: "el numeral entre *quinze* i *disset*"
+    answers: ["setze"]
+    wrong_answers:
+      - text: "sedze"
+        why: "*Setze* s'escriu amb *tz*: *setze*."
+      - text: "dieciseis"
+        why: "«Dieciséis» és castellà: *setze*."
+    grading: strict
+    explanation: "*Setze* (16) s'escriu amb *tz*."
+
+  - id: b1-32-058
+    type: find-error
+    point: numerals
+    lesson: 5
+    sentence: "He comprat mitja quilo de cebes per a l'amanida."
+    error: "mitja quilo"
+    fix: "mig quilo"
+    fix_distractors:
+      - text: "mig quilos"
+        why: "*Mig* + nom en singular: *mig quilo*."
+      - text: "mitjà quilo"
+        why: "*Mitjà* és l'adjectiu («un preu mitjà»). Amb *quilo* cal *mig*: *mig quilo*."
+    explanation: "«Quilo» és masculí: *mig quilo*."
+
+  - id: b1-32-059
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Ens han cobrat dos-centes euros per l'equipatge."
+    error: "dos-centes euros"
+    fix: "dos-cents euros"
+    fix_distractors:
+      - text: "dues-centes euros"
+        why: "«Euros» és masculí: *dos-cents euros*."
+      - text: "doscientos euros"
+        why: "«Doscientos» és castellà: *dos-cents euros*."
+    explanation: "«Euros» és masculí: *dos-cents euros*, amb guionet."
+
+  - id: b1-32-060
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Amb aquest ingrés, el deute baixa a dos mil euros."
+    no_error: true
+    explanation: "La frase és correcta: *dos mil* no porta guionet i *mil* no fa plural."
+
+  - id: b1-32-061
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "És el ___ dia del mes i el moneder ja és buit."
+    answer: "primer"
+    distractors:
+      - text: "primero"
+        why: "«Primero» és castellà: *el primer dia*."
+      - text: "unè"
+        why: "L'ordinal de l'1 és *primer*: *unè* no existeix."
+    explanation: "L'ordinal de l'1 és *primer*, també davant del nom: *el primer dia*."
+
+  - id: b1-32-062
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "L'inquilí encara em deu ___ mensualitats del lloguer."
+    hint: "DOS, en femení"
+    answers: ["dues"]
+    wrong_answers:
+      - text: "dos"
+        why: "*Mensualitats* és femení: *dues*."
+      - text: "segones"
+        why: "*Segones* és l'ordinal: aquí cal el cardinal *dues*."
+    grading: strict
+    explanation: "«Mensualitats» és femení: *dues mensualitats*."
+
+  - id: b1-32-063
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["estar sense un cèntim", "No tenir res a la cartera a final de mes."]
+      - ["costar un ull de la cara", "Un sopar més car que enlloc."]
+      - ["fer números", "Mirar si pots pagar el lloguer i el cotxe."]
+      - ["tirar la casa per la finestra", "Celebrar el naixement d'un fill amb una gran festa."]
+    explanation: "Són les expressions dels diners: gastar (*tirar la casa per la finestra*), el preu (*costar un ull de la cara*), calcular (*fer números*) o no tenir res (*estar sense un cèntim*)."
+
+  - id: b1-32-064
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «Des del gener no té ni cinc»?"
+    answer: "Que no té gens de diners."
+    distractors:
+      - text: "Que ha perdut una moneda de cinc cèntims."
+        why: "No ha perdut res: és que no té diners."
+      - text: "Que només té cinc euros."
+        why: "No té cinc euros: no té res."
+    explanation: "*No tenir ni cinc* vol dir no tenir gens de diners."
+
+  - id: b1-32-065
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Per al casament del seu fill van ___: lloguer de sala, música i cent convidats."
+    hint: "expressió: gastar molt en una festa"
+    answers: ["tirar la casa per la finestra"]
+    wrong_answers:
+      - text: "llençar la casa per la finestra"
+        why: "L'expressió fixa és amb *tirar*: *tirar la casa per la finestra*."
+    grading: tolerant
+    explanation: "*Tirar la casa per la finestra* vol dir gastar molt en una celebració."

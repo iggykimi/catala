@@ -1,0 +1,978 @@
+id: b2-43
+level: B2
+title: "Perífrasis i probabilitat en passat"
+summary: "Suposicions sobre el passat amb «deu haver» i «devia», retrets amb «havia d'haver», l'acció progressiva amb «anar» + gerundi i «estar per», en el context d'una investigació."
+vocabulary_theme: "Misteris, investigació i successos"
+points:
+  - id: deure-probabilitat-passat
+    title: "Deure: suposicions sobre el passat"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: haver-dhaver-passat
+    title: "Havia d'haver + participi: allò que no es va fer"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: anar-gerundi
+    title: "Anar + gerundi: l'acció que avança"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: estar-per
+    title: "Estar per + infinitiu: pendent o imminent"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: compte-deure-de
+    title: "Compte amb el castellà: deu haver"
+    refs:
+      - label: "Optimot: consultes lingüístiques"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions de misteri"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Suposicions sobre el passat"
+  - title: "Retrets i accions que avancen"
+  - title: "Estar per i compte amb el castellà"
+  - title: "Produir: reescriure frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la pista"
+    definition: "Senyal o dada que ajuda a resoldre un misteri."
+    example: "La policia busca pistes al garatge."
+  - word: "l'indici"
+    definition: "Senyal petit que fa pensar en una explicació."
+    example: "No hi ha cap indici que la porta sigui forçada."
+  - word: "el testimoni, la testimoni"
+    definition: "Persona que ha vist o sentit un fet i ho pot explicar."
+    example: "Un testimoni va veure el lladre sortir del garatge."
+  - word: "la coartada"
+    definition: "Prova que una persona era en un altre lloc quan va passar un fet."
+    example: "El sospitós no té cap coartada per a aquella nit."
+  - word: "el sospitós, la sospitosa"
+    definition: "Persona de qui es pensa que ha fet una cosa mal feta."
+    example: "Els Mossos van detenir dos sospitosos."
+  - word: "la sospita"
+    definition: "Idea que algú ha fet una cosa mal feta, sense proves."
+    example: "La sospita va caure sobre un antic veí."
+  - word: "sospitar"
+    definition: "Pensar que algú ha fet una cosa mal feta, sense proves."
+    example: "La inspectora sospita del porter."
+  - word: "l'investigador, la investigadora"
+    definition: "Persona que busca dades per resoldre un cas."
+    example: "L'investigador va interrogar tots els veïns."
+  - word: "la denúncia"
+    definition: "Escrit que explica un delicte a la policia o al jutge."
+    example: "Va posar una denúncia a la comissaria."
+  - word: "el judici"
+    definition: "Acte en què un jutge escolta les parts i decideix."
+    example: "El judici serà el mes vinent."
+  - word: "el jutge, la jutgessa"
+    definition: "Persona que decideix en un judici."
+    example: "La jutgessa va escoltar els testimonis."
+  - word: "l'advocat, l'advocada"
+    definition: "Persona que defensa algú davant del jutge."
+    example: "L'advocat va demanar més temps."
+  - word: "la prova"
+    definition: "Fet o objecte que demostra una cosa."
+    example: "Encara falta una prova per tancar el cas."
+  - word: "l'empremta"
+    definition: "Marca que deixa un dit o un peu en una superfície."
+    example: "Hi havia una empremta al vidre de la porta."
+  - word: "la petjada"
+    definition: "Marca que deixa el peu a terra."
+    example: "La policia va trobar petjades de fang al jardí."
+  - word: "el robatori"
+    definition: "Fet de prendre una cosa d'algú sense permís."
+    example: "El robatori va ser de matinada."
+  - word: "robar"
+    definition: "Prendre una cosa d'algú sense permís."
+    example: "Algú ha robat la bicicleta del garatge."
+  - word: "el lladre, la lladra"
+    definition: "Persona que roba."
+    example: "El lladre va entrar per la finestra."
+  - word: "la desaparició"
+    definition: "Fet que una persona o una cosa no es trobi enlloc."
+    example: "La desaparició es va produir de nit."
+  - word: "desaparèixer"
+    definition: "Deixar de ser en un lloc, sense saber on."
+    example: "La bicicleta va desaparèixer del garatge."
+  - word: "amagar"
+    definition: "Posar una cosa en un lloc on no es vegi."
+    example: "Va amagar les claus sota el test."
+  - word: "l'amagatall"
+    definition: "Lloc secret on s'amaga una cosa o una persona."
+    example: "Van trobar la bicicleta en un amagatall del parc."
+  - word: "forçar"
+    definition: "Obrir una porta o un cadenat amb força."
+    example: "El cadenat era a terra, forçat."
+  - word: "esbrinar"
+    definition: "Arribar a saber una cosa després d'investigar."
+    example: "La policia encara ha d'esbrinar qui va entrar."
+  - word: "resoldre"
+    definition: "Trobar la solució d'un cas o d'un problema."
+    example: "El cas està per resoldre."
+  - word: "el misteri"
+    definition: "Fet que no té explicació."
+    example: "És un misteri on va la bicicleta."
+  - word: "misteriós, misteriosa"
+    definition: "Que no s'entén o que fa sospitar."
+    example: "A mitjanit van sentir un soroll misteriós."
+  - word: "declarar"
+    definition: "Explicar formalment què s'ha vist, davant la policia o el jutge."
+    example: "La testimoni va declarar al judici."
+  - word: "interrogar"
+    definition: "Fer preguntes a algú per obtenir informació."
+    example: "La inspectora va interrogar els veïns."
+  - word: "la hipòtesi"
+    definition: "Explicació possible d'un fet, que cal comprovar."
+    example: "La hipòtesi és que el lladre coneixia l'edifici."
+  - word: "deduir"
+    definition: "Arribar a una conclusió a partir de les pistes."
+    example: "Dels sorolls va deduir que hi havia algú."
+  - word: "el mòbil"
+    definition: "Motiu que fa actuar algú."
+    example: "El mòbil del robatori era la venjança."
+  - word: "el cas"
+    definition: "Assumpte que investiga la policia o el jutge."
+    example: "El cas encara no està tancat."
+  - word: "la comissaria"
+    definition: "Oficina de la policia on es posen denúncies."
+    example: "Va anar a la comissaria a declarar."
+  - word: "els Mossos d'Esquadra"
+    definition: "La policia de Catalunya."
+    example: "Els Mossos van detenir el sospitós."
+  - word: "la víctima"
+    definition: "Persona que pateix un delicte."
+    example: "La víctima no va sentir res."
+  - word: "la sentència"
+    definition: "Decisió final del jutge en un judici."
+    example: "El jutge va dictar la sentència."
+  - word: "el cadenat"
+    definition: "Peça de metall que tanca amb clau."
+    example: "El cadenat del garatge era forçat."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-43-001
+    type: choice
+    point: deure-probabilitat-passat
+    lesson: 1
+    prompt: "Són les deu del matí i el judici comença a les deu: l'advocat ___."
+    answer: "deu haver sortit de casa"
+    distractors:
+      - text: "devia sortir de casa"
+        why: "*Devia* situa la suposició en el passat. Amb «són les deu», el punt de vista és ara."
+      - text: "debe haver sortit de casa"
+        why: "*Debe* és la forma castellana. En català, la 3a persona és *deu*."
+    explanation: "«Són les deu» situa la suposició ara, sobre un fet acabat: *deu haver* + participi."
+
+  - id: b2-43-002
+    type: choice
+    point: deure-probabilitat-passat
+    lesson: 1
+    prompt: "L'Arnau dormia quan van forçar la porta: ___."
+    answer: "devia ser molt tard"
+    distractors:
+      - text: "deu haver estat molt tard"
+        why: "*Deu haver estat* situa la suposició ara. Amb «dormia» i «van forçar», el punt de vista és el passat: *devia ser*."
+      - text: "debe ser molt tard"
+        why: "*Debe* és la forma castellana. En català, en passat: *devia ser*."
+    explanation: "«Dormia» i «van forçar» situen la suposició en el passat: *devia* + infinitiu."
+
+  - id: b2-43-003
+    type: choice
+    point: deure-probabilitat-passat
+    lesson: 1
+    prompt: "Què vol dir «Aquestes hores deu haver declarat»?"
+    answer: "Segurament ja ha declarat."
+    distractors:
+      - text: "Havia de declarar, però no ho ha fet."
+        why: "Això és una obligació no complerta: *havia d'haver declarat*."
+      - text: "Declararà d'aquí a una estona."
+        why: "Això és futur; *deu haver declarat* parla d'un fet passat."
+    explanation: "*Deu haver* + participi és una suposició sobre un fet ja acabat."
+
+  - id: b2-43-004
+    type: choice
+    point: deure-probabilitat-passat
+    lesson: 1
+    prompt: "Els testimonis no van veure res: ___ quan va passar."
+    answer: "devien dormir"
+    distractors:
+      - text: "devien dormit"
+        why: "Darrere de *devien* va l'infinitiu *dormir*, no el participi."
+      - text: "deben dormir"
+        why: "*Deben* és la forma castellana. En català, en passat: *devien*."
+    explanation: "«No van veure res» situa la suposició en el passat: *devien* + infinitiu."
+
+  - id: b2-43-005
+    type: match
+    point: deure-probabilitat-passat
+    lesson: 1
+    instruction: "Relaciona cada infinitiu amb el seu participi."
+    pairs:
+      - ["dir", "dit"]
+      - ["fer", "fet"]
+      - ["veure", "vist"]
+      - ["escriure", "escrit"]
+      - ["prendre", "pres"]
+    explanation: "Per formar *deu haver* + participi calen els participis irregulars: *dit, fet, vist, escrit, pres*."
+
+  - id: b2-43-006
+    type: inline-choice
+    point: deure-probabilitat-passat
+    lesson: 1
+    title: "Nit de tempesta"
+    text: "Ahir va caure una tempesta forta sobre Girona. Aquest matí el jardí és ple de fulles: el cel {deu haver descarregat|devia descarregar|debe haver descarregat} amb força. La finestra del garatge és oberta: algú {deu haver entrat|devia entrar|debe haver entrat}. Aquella nit els veïns no van sentir res: {devien dormir|deuen dormir|deben dormir}. El diari encara no ha arribat: el repartidor {deu haver fet tard|devia fer tard|debe haver fet tard}."
+    explanation: "*Deu haver* + participi és una suposició d'ara sobre un fet acabat; *devia* + infinitiu, una suposició del passat."
+
+  - id: b2-43-007
+    type: fill
+    point: deure-probabilitat-passat
+    lesson: 1
+    prompt: "El terra és moll: aquesta nit ___."
+    hint: "ploure, *deu haver* + participi"
+    answers: ["deu haver plogut"]
+    wrong_answers:
+      - text: "debe haver plogut"
+        why: "*Debe* és la forma castellana. En català: *deu*."
+    grading: tolerant
+    explanation: "«El terra és moll» és una suposició d'ara sobre un fet acabat: *deu haver plogut*."
+
+  - id: b2-43-008
+    type: fill
+    point: deure-probabilitat-passat
+    lesson: 1
+    prompt: "L'Ibrahim coneixia tots els detalls del cas: ___ a la comissaria."
+    hint: "treballar, *devia* + infinitiu"
+    answers: ["devia treballar"]
+    wrong_answers:
+      - text: "devia treballat"
+        why: "Darrere de *devia* va l'infinitiu *treballar*, no el participi."
+    grading: tolerant
+    explanation: "«Coneixia» situa la suposició en el passat: *devia* + infinitiu."
+
+  - id: b2-43-009
+    type: order
+    point: deure-probabilitat-passat
+    lesson: 1
+    cue: "Digues que el lladre segurament va entrar per la finestra."
+    chunks: ["Aquestes hores", "el lladre", "deu haver entrat", "per la finestra"]
+    extra: ["debe"]
+    answers:
+      - "Aquestes hores el lladre deu haver entrat per la finestra."
+      - "El lladre deu haver entrat per la finestra aquestes hores."
+    explanation: "«Aquestes hores» situa la suposició ara: *deu haver* + participi. *Debe* és la forma castellana."
+
+  - id: b2-43-010
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «lligar caps»?"
+    answer: "Relacionar pistes per arribar a una conclusió."
+    distractors:
+      - text: "Donar el cas per tancat sense proves."
+        why: "Això és no investigar; *lligar caps* és relacionar les pistes."
+      - text: "Explicar un secret a tothom."
+        why: "*Lligar caps* no és explicar res: és entendre el cas."
+    explanation: "*Lligar caps* és ajuntar les pistes per entendre què ha passat."
+
+  - id: b2-43-011
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "L'investigador no perd el temps amb detalls: ___."
+    answer: "va per feina"
+    distractors:
+      - text: "és un misteri"
+        why: "Això vol dir que no té explicació; aquí parlem d'eficiència."
+      - text: "lliga caps"
+        why: "Això és relacionar pistes; aquí vol dir que va a l'important."
+    explanation: "*Anar per feina* és anar directament a l'important, sense perdre temps."
+
+  - id: b2-43-012
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["lligar caps", "relacionar les pistes per entendre el cas"]
+      - ["ser un misteri", "no tenir cap explicació"]
+      - ["anar per feina", "anar directament a l'important"]
+      - ["agafar amb les mans a la massa", "enxampar algú mentre ho fa"]
+    explanation: "Són expressions habituals per parlar de misteris i investigacions."
+
+  - id: b2-43-013
+    type: fill
+    point: expressions
+    lesson: 1
+    prompt: "Ningú no sap on va la bicicleta del garatge: ___."
+    hint: "expressió: no tenir cap explicació"
+    answers: ["és un misteri"]
+    wrong_answers:
+      - text: "és un misteriós"
+        why: "*Misteriós* és un adjectiu; l'expressió és *ser un misteri*."
+    grading: tolerant
+    explanation: "«Ningú no sap» indica que no té explicació: *és un misteri*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-43-014
+    type: choice
+    point: haver-dhaver-passat
+    lesson: 2
+    prompt: "Què vol dir «Havies d'haver tancat la porta»?"
+    answer: "No la vas tancar, i ho havies de fer."
+    distractors:
+      - text: "Vas tancar la porta a temps."
+        why: "Si l'hagués tancada, no faríem servir *havia d'haver*."
+      - text: "Potser vas tancar la porta."
+        why: "Això és una suposició; aquí hi ha un retret."
+    explanation: "*Havia d'haver* + participi és un retret: allò no es va fer."
+
+  - id: b2-43-015
+    type: choice
+    point: haver-dhaver-passat
+    lesson: 2
+    prompt: "El testimoni ___ abans del judici, però no ho va fer."
+    answer: "havia d'haver declarat"
+    distractors:
+      - text: "havia d'haver declarar"
+        why: "Darrere de *haver* va el participi *declarat*, no l'infinitiu."
+      - text: "havia haver declarat"
+        why: "Falta la preposició *de*: *havia d'haver declarat*."
+    explanation: "«Però no ho va fer» indica una obligació no complerta: *havia d'haver* + participi."
+
+  - id: b2-43-016
+    type: fill
+    point: haver-dhaver-passat
+    lesson: 2
+    prompt: "Ahir ___ la denúncia, però la comissaria era tancada."
+    hint: "posar, *haver d'haver* + participi"
+    answers: ["havia d'haver posat", "hauria d'haver posat"]
+    wrong_answers:
+      - text: "havia haver posat"
+        why: "Falta la preposició *de*: *havia d'haver posat*."
+    grading: tolerant
+    explanation: "«Però era tancada» indica que no ho va fer: *havia d'haver* (o *hauria d'haver*) + participi."
+
+  - id: b2-43-017
+    type: fill
+    point: haver-dhaver-passat
+    lesson: 2
+    prompt: "—No em vas avisar, Wei. —Tens raó, Carla: ___."
+    hint: "avisar, *haver d'haver* + participi, primera persona"
+    answers: ["havia d'haver avisat", "hauria d'haver avisat"]
+    grading: tolerant
+    explanation: "És un retret per una cosa no feta: *havia d'haver* (o *hauria d'haver*) + participi."
+
+  - id: b2-43-018
+    type: order
+    point: haver-dhaver-passat
+    lesson: 2
+    cue: "Retreu a la Núria que ahir no va amagar les claus."
+    chunks: ["Ahir", "havies", "d'haver amagat", "les claus"]
+    extra: ["d'haver amagar"]
+    answers:
+      - "Ahir havies d'haver amagat les claus."
+      - "Havies d'haver amagat les claus ahir."
+    explanation: "El retret per una cosa no feta es fa amb *haver d'haver* + participi: *amagat*, no *amagar*."
+
+  - id: b2-43-019
+    type: choice
+    point: haver-dhaver-passat
+    lesson: 2
+    prompt: "Quina frase és un retret per una cosa que no es va fer?"
+    answer: "Hauríeu d'haver interrogat el sospitós."
+    distractors:
+      - text: "Heu d'interrogar el sospitós demà."
+        why: "Això és una ordre per al futur, no un retret."
+      - text: "Devíeu interrogar el sospitós cada dia."
+        why: "Això és una suposició (*devia* + infinitiu), no un retret."
+    explanation: "Només *hauríeu d'haver interrogat* diu que no ho van fer."
+
+  - id: b2-43-020
+    type: choice
+    point: anar-gerundi
+    lesson: 2
+    prompt: "Cada dia que passava, les pistes ___."
+    answer: "s'anaven acumulant"
+    distractors:
+      - text: "s'anaven acumular"
+        why: "Darrere de *anar* va el gerundi *acumulant*, no l'infinitiu."
+      - text: "s'aniran acumulant"
+        why: "*Aniran* és futur; «cada dia que passava» és passat."
+    explanation: "«Cada dia que passava» indica un canvi progressiu en el passat: *anar* + gerundi en imperfet."
+
+  - id: b2-43-021
+    type: choice
+    point: anar-gerundi
+    lesson: 2
+    prompt: "Què vol dir «El cas es va anar complicant»?"
+    answer: "El cas es va complicar a poc a poc."
+    distractors:
+      - text: "El cas es va complicar de cop."
+        why: "Això seria *es va complicar*; *anar* + gerundi indica un canvi lent."
+      - text: "El cas es complicarà aviat."
+        why: "Això és futur; la frase és en passat."
+    explanation: "*Anar* + gerundi expressa un canvi lent i progressiu."
+
+  - id: b2-43-022
+    type: fill
+    point: anar-gerundi
+    lesson: 2
+    prompt: "El cel ___ mentre queia la nit."
+    hint: "enfosquir-se, imperfet d'*anar* + gerundi"
+    answers: ["s'anava enfosquint"]
+    wrong_answers:
+      - text: "s'anava enfosquir"
+        why: "Darrere de *anar* va el gerundi *enfosquint*, no l'infinitiu."
+    grading: tolerant
+    explanation: "«Mentre queia» indica un canvi en marxa: *anar* + gerundi en imperfet."
+
+  - id: b2-43-023
+    type: fill
+    point: anar-gerundi
+    lesson: 2
+    prompt: "Amb els anys, el testimoni ___ dels detalls."
+    hint: "oblidar-se, passat perifràstic d'*anar* + gerundi"
+    answers: ["es va anar oblidant"]
+    wrong_answers:
+      - text: "es va anar oblidar"
+        why: "Darrere de *anar* va el gerundi *oblidant*, no l'infinitiu."
+    grading: tolerant
+    explanation: "«Amb els anys» indica un canvi lent: *anar* + gerundi."
+
+  - id: b2-43-024
+    type: order
+    point: anar-gerundi
+    lesson: 2
+    cue: "Digues que la cua es feia més llarga a poc a poc."
+    chunks: ["La cua", "es va anar", "fent", "més llarga"]
+    extra: ["fer"]
+    answers:
+      - "La cua es va anar fent més llarga."
+      - "Es va anar fent més llarga la cua."
+    explanation: "Per al canvi progressiu, *anar* porta gerundi (*fent*), no infinitiu (*fer*)."
+
+  - id: b2-43-025
+    type: inline-choice
+    point: anar-gerundi
+    lesson: 2
+    title: "La boira"
+    text: "Aquell matí la boira {s'anava aixecant|s'anava aixecar|s'anirà aixecant} lentament. Els cotxes {anaven avançant|anaven avançar|aniran avançant} a poc a poc per la carretera. Al migdia, a poc a poc, el sol {es va anar imposant|es va anar imposar|es va anar imposat} entre els núvols."
+    explanation: "En aquesta perífrasi, darrere de *anar* va el gerundi, no l'infinitiu ni el participi."
+
+  - id: b2-43-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "El van enxampar amb la bicicleta que volia robar: el van agafar ___."
+    answer: "amb les mans a la massa"
+    distractors:
+      - text: "amb les mans buides"
+        why: "Això vol dir sense res; aquí el van enxampar robant."
+      - text: "amb un pam de nas"
+        why: "Això vol dir quedar-se sense el que esperava; no es combina amb *agafar*."
+    explanation: "*Agafar amb les mans a la massa* és enxampar algú mentre fa una cosa mal feta."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-43-027
+    type: choice
+    point: estar-per
+    lesson: 3
+    prompt: "La denúncia encara no l'han començada: ___."
+    answer: "està per escriure"
+    distractors:
+      - text: "està escrita"
+        why: "Això voldria dir que ja l'han escrita; però «encara no»."
+      - text: "s'està escrivint"
+        why: "Això voldria dir que l'estan escrivint; però «encara no l'han començada»."
+    explanation: "«Encara no l'han començada» indica una cosa pendent: *estar per* + infinitiu."
+
+  - id: b2-43-028
+    type: choice
+    point: estar-per
+    lesson: 3
+    prompt: "Mira el cel: encara no cau ni una gota, però ___."
+    answer: "està per ploure"
+    distractors:
+      - text: "està plovent"
+        why: "Això voldria dir que ja plou; però «encara no cau ni una gota»."
+      - text: "ha plogut"
+        why: "Això voldria dir que ja ha plogut."
+    explanation: "Encara no plou, però plourà d'un moment a l'altre: *estar per* + infinitiu indica imminència."
+
+  - id: b2-43-029
+    type: fill
+    point: estar-per
+    lesson: 3
+    prompt: "L'informe encara ___: el volen demà al matí."
+    hint: "estar per + infinitiu de *fer*"
+    answers: ["està per fer"]
+    wrong_answers:
+      - text: "està per fet"
+        why: "Darrere de *per* va l'infinitiu *fer*, no el participi."
+    grading: tolerant
+    explanation: "«Encara» indica que no és fet: una cosa pendent amb *estar per* + infinitiu."
+
+  - id: b2-43-030
+    type: fill
+    point: estar-per
+    lesson: 3
+    prompt: "El tren ___: encara no es veu, però ja sento el xiulet."
+    hint: "arribar, *estar per* + infinitiu"
+    answers: ["està per arribar"]
+    wrong_answers:
+      - text: "està per arribat"
+        why: "Darrere de *per* va l'infinitiu *arribar*, no el participi."
+    grading: tolerant
+    explanation: "«Encara no es veu» indica que arribarà d'un moment a l'altre: *estar per* + infinitiu."
+
+  - id: b2-43-031
+    type: order
+    point: estar-per
+    lesson: 3
+    cue: "Digues que el judici encara no ha començat."
+    chunks: ["El judici", "està", "per", "començar"]
+    extra: ["començat"]
+    answers:
+      - "El judici està per començar."
+      - "Està per començar el judici."
+    explanation: "Una cosa pendent es diu amb *estar per* + infinitiu: *per començar*, no el participi *començat*."
+
+  - id: b2-43-032
+    type: inline-choice
+    point: estar-per
+    lesson: 3
+    title: "Abans del judici"
+    text: "L'advocat Jordi té molta feina: encara no ha començat res. La defensa {està per preparar|està preparada|s'està preparant} i els papers {estan per ordenar|estan ordenats|s'estan ordenant}. El judici {està per començar|està començat|està començant} dilluns vinent."
+    explanation: "*Estar per* + infinitiu indica una cosa pendent o imminent: encara no feta, però propera."
+
+  - id: b2-43-033
+    type: find-error
+    point: compte-deure-de
+    lesson: 3
+    sentence: "Aquestes hores el testimoni debe haver declarat."
+    error: "debe haver declarat"
+    fix: "deu haver declarat"
+    fix_distractors:
+      - text: "deben haver declarat"
+        why: "El subjecte «el testimoni» és singular: *deu*."
+      - text: "deu haber declarat"
+        why: "L'auxiliar és *haver*, amb *v*."
+    explanation: "En català la 3a persona de *deure* és *deu* (no *debe*) i l'auxiliar és *haver* (no *haber*)."
+
+  - id: b2-43-034
+    type: find-error
+    point: compte-deure-de
+    lesson: 3
+    sentence: "Els sospitosos deben haver amagat les proves."
+    error: "deben haver amagat"
+    fix: "deuen haver amagat"
+    fix_distractors:
+      - text: "deu haver amagat"
+        why: "El subjecte «els sospitosos» és plural: *deuen*."
+      - text: "deuen haber amagat"
+        why: "L'auxiliar és *haver*, amb *v*."
+    explanation: "La 3a persona plural de *deure* és *deuen*: *deuen haver amagat*."
+
+  - id: b2-43-035
+    type: find-error
+    point: compte-deure-de
+    lesson: 3
+    sentence: "Aquella nit deben ser molts a la comissaria."
+    error: "deben ser"
+    fix: "devien ser"
+    fix_distractors:
+      - text: "deuen ser"
+        why: "«Aquella nit» és passat: *devien*."
+      - text: "debe ser"
+        why: "*Debe* és castellà; el subjecte és plural i el temps és passat: *devien*."
+    explanation: "«Aquella nit» situa la suposició en el passat: *devien* + infinitiu."
+
+  - id: b2-43-036
+    type: find-error
+    point: compte-deure-de
+    lesson: 3
+    sentence: "Deu haver estat la Fàtima qui ha avisat els Mossos."
+    no_error: true
+    explanation: "La frase és correcta: *deu haver* + participi expressa una suposició sobre un fet acabat."
+
+  - id: b2-43-037
+    type: find-error
+    point: compte-deure-de
+    lesson: 3
+    sentence: "El lladre deu haber forçat la finestra del garatge."
+    error: "deu haber forçat"
+    fix: "deu haver forçat"
+    fix_distractors:
+      - text: "debe haver forçat"
+        why: "*Debe* és la forma castellana. En català: *deu*."
+      - text: "deuen haver forçat"
+        why: "El subjecte «el lladre» és singular: *deu*."
+    explanation: "L'auxiliar és *haver*, amb *v*: *deu haver forçat*."
+
+  - id: b2-43-038
+    type: choice
+    point: compte-deure-de
+    lesson: 3
+    prompt: "La Montse no troba les claus: ___ haver-les perdut."
+    answer: "deu"
+    distractors:
+      - text: "debe"
+        why: "*Debe* és la forma castellana. En català: *deu*."
+      - text: "deben"
+        why: "*Deben* és castellà; el subjecte «la Montse» és singular: *deu*."
+    explanation: "La 3a persona singular de *deure* és *deu*: *deu haver-les perdut*."
+
+  - id: b2-43-039
+    type: fill
+    point: compte-deure-de
+    lesson: 3
+    prompt: "Els veïns no van sentir el soroll: ___ estar adormits."
+    hint: "deure, imperfet, tercera persona plural"
+    answers: ["devien"]
+    wrong_answers:
+      - text: "deben"
+        why: "*Deben* és la forma castellana. En català: *devien*."
+    grading: tolerant
+    explanation: "«No van sentir» situa la suposició en el passat: *devien* + infinitiu."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-43-040
+    type: transform
+    point: deure-probabilitat-passat
+    lesson: 4
+    instruction: "Reescriu la frase amb *deu haver* + participi."
+    source: "[[Va ploure]] aquesta nit: el terra és moll."
+    answers:
+      - "Deu haver plogut aquesta nit: el terra és moll."
+      - "Aquesta nit deu haver plogut: el terra és moll."
+    wrong_answers:
+      - text: "Debe haver plogut aquesta nit: el terra és moll."
+        why: "*Debe* és la forma castellana. En català: *deu*."
+    grading: tolerant
+    explanation: "La suposició sobre un fet acabat es fa amb *deu haver* + participi."
+
+  - id: b2-43-041
+    type: transform
+    point: deure-probabilitat-passat
+    lesson: 4
+    instruction: "Reescriu la frase amb *devia* + infinitiu."
+    source: "Potser [[dormia]] quan vam trucar."
+    answers:
+      - "Devia dormir quan vam trucar."
+      - "Potser devia dormir quan vam trucar."
+    wrong_answers:
+      - text: "Devia dormit quan vam trucar."
+        why: "Darrere de *devia* va l'infinitiu *dormir*, no el participi."
+    grading: tolerant
+    explanation: "La suposició situada en el passat es fa amb *devia* + infinitiu."
+
+  - id: b2-43-042
+    type: transform
+    point: haver-dhaver-passat
+    lesson: 4
+    instruction: "Reescriu la frase amb *haver d'haver* + participi."
+    source: "[[No vas declarar]] al judici, i ho havies de fer."
+    answers:
+      - "Havies d'haver declarat al judici."
+      - "Hauries d'haver declarat al judici."
+    wrong_answers:
+      - text: "Havies d'haver declarar al judici."
+        why: "Darrere de *haver* va el participi *declarat*, no l'infinitiu."
+    grading: tolerant
+    explanation: "El retret per una cosa no feta es fa amb *haver d'haver* + participi."
+
+  - id: b2-43-043
+    type: transform
+    point: anar-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase amb *anar* + gerundi."
+    source: "El misteri [[es va fer]] més gran cada dia."
+    answers: ["El misteri es va anar fent més gran cada dia."]
+    wrong_answers:
+      - text: "El misteri es va anar fer més gran cada dia."
+        why: "Darrere de *anar* va el gerundi *fent*, no l'infinitiu."
+    grading: tolerant
+    explanation: "El canvi lent s'expressa amb *anar* + gerundi."
+
+  - id: b2-43-044
+    type: transform
+    point: estar-per
+    lesson: 4
+    instruction: "Reescriu la frase amb *estar per* + infinitiu."
+    source: "El judici [[encara no ha començat]]: és dilluns vinent."
+    answers: ["El judici està per començar: és dilluns vinent."]
+    grading: tolerant
+    explanation: "Una cosa imminent es diu amb *estar per* + infinitiu."
+
+  - id: b2-43-045
+    type: transform
+    point: compte-deure-de
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Els testimonis [[deben]] haver vist el lladre."
+    answers: ["Els testimonis deuen haver vist el lladre."]
+    grading: tolerant
+    explanation: "La 3a persona plural de *deure* és *deuen*: *deuen haver vist*."
+
+  - id: b2-43-046
+    type: transform
+    point: anar-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase amb *anar* + gerundi en imperfet."
+    source: "La boira [[s'aixecava]] lentament."
+    answers: ["La boira s'anava aixecant lentament."]
+    wrong_answers:
+      - text: "La boira s'anava aixecar lentament."
+        why: "Darrere de *anar* va el gerundi *aixecant*, no l'infinitiu."
+    grading: tolerant
+    explanation: "El canvi en marxa en el passat: *anar* + gerundi en imperfet."
+
+  - id: b2-43-047
+    type: fill
+    point: deure-probabilitat-passat
+    lesson: 4
+    prompt: "La porta del despatx del Pau és oberta: algú ___."
+    hint: "entrar, *deu haver* + participi"
+    answers: ["deu haver entrat"]
+    wrong_answers:
+      - text: "debe haver entrat"
+        why: "*Debe* és la forma castellana. En català: *deu*."
+    grading: tolerant
+    explanation: "Suposició d'ara sobre un fet acabat: *deu haver entrat*."
+
+  - id: b2-43-048
+    type: fill
+    point: haver-dhaver-passat
+    lesson: 4
+    prompt: "La víctima no va tancar la finestra: ___."
+    hint: "tancar, *haver d'haver* + participi"
+    answers: ["havia d'haver tancat", "hauria d'haver tancat"]
+    grading: tolerant
+    explanation: "No ho va fer: retret amb *haver d'haver* + participi."
+
+  - id: b2-43-049
+    type: fill
+    point: estar-per
+    lesson: 4
+    prompt: "El cas ___: encara falta esbrinar qui va entrar."
+    hint: "resoldre, *estar per* + infinitiu"
+    answers: ["està per resoldre"]
+    grading: tolerant
+    explanation: "«Encara falta» indica una cosa pendent: *està per resoldre*."
+
+  - id: b2-43-050
+    type: order
+    point: deure-probabilitat-passat
+    lesson: 4
+    cue: "Digues que la Laia segurament va perdre les claus al parc."
+    chunks: ["La Laia", "deu haver", "perdut les claus", "al parc"]
+    extra: ["debe haver perdut"]
+    answers:
+      - "La Laia deu haver perdut les claus al parc."
+      - "Al parc la Laia deu haver perdut les claus."
+    explanation: "La suposició sobre un fet acabat: *deu haver* + participi. *Debe* és castellà."
+
+  - id: b2-43-051
+    type: order
+    point: estar-per
+    lesson: 4
+    cue: "Digues que la prova clau encara no s'ha trobat."
+    chunks: ["La prova clau", "està", "per", "trobar"]
+    extra: ["trobada"]
+    answers:
+      - "La prova clau està per trobar."
+      - "Està per trobar la prova clau."
+    explanation: "Una cosa pendent: *estar per* + infinitiu, no el participi."
+
+  - id: b2-43-052
+    type: inline-choice
+    point: deure-probabilitat-passat
+    lesson: 4
+    title: "L'inspector repassa el cas"
+    text: "«Aquestes hores el lladre {deu haver venut|devia vendre|debe haver venut} la bicicleta. Aquella nit {devia actuar|deuen actuar|debe actuar} sol. El porter {havia d'haver sentit|havia d'haver sentir|ha de sentir} el soroll, però diu que dormia.»"
+    explanation: "*Deu haver* situa la suposició ara; *devia*, en el passat. *Havia d'haver* marca una cosa no feta."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-43-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "El misteri de la bicicleta blava"
+    text: |
+      La setmana passada va desaparèixer la bicicleta blava de la Fàtima del garatge de casa seva, al barri de Gràcia. La Fàtima l'havia deixada lligada amb un cadenat a les sis de la tarda, i l'endemà al matí ja no hi era. El cadenat era a terra, forçat. Era el tercer robatori del barri aquell mes, i la desaparició es va produir de nit. La Fàtima va trucar als Mossos i va posar una denúncia a la comissaria del carrer de la Marina.
+
+      La inspectora Sala va interrogar els veïns. El porter no havia sentit res: devia dormir quan el lladre va entrar. Una testimoni, la senyora Rius, del tercer, va declarar que a mitjanit havia sentit un soroll metàl·lic, però no hi havia donat importància. Havia d'haver avisat la policia en aquell moment, va reconèixer. Les pistes s'anaven acumulant: una petjada de fang al costat del cadenat, una empremta al vidre de la porta i un noi amb una motxilla vermella que un altre testimoni havia vist sortir del garatge.
+
+      El cas, però, estava per resoldre: encara faltava una prova per identificar el sospitós. La inspectora va lligar caps i va deduir que el lladre coneixia l'edifici. La sospita va caure sobre el Quim, un antic veí que havia discutit amb la Fàtima per una plaça de pàrquing i que no tenia cap coartada. La seva hipòtesi era que havia actuat sol. El mòbil era clar. Aquestes hores deu haver venut la bicicleta, va pensar la inspectora, però encara no tenia cap indici clar.
+
+      L'endemà, els Mossos van trobar la bicicleta en un amagatall del parc del Guinardó i van detenir el Quim quan hi va tornar. El van enxampar amb les mans a la massa, desmuntant la bicicleta. Al judici, l'advocat del Quim va dir que el seu client havia actuat per venjança. El jutge va dictar la sentència: el Quim haurà de tornar la bicicleta i pagar una multa. És un misteri com no el va sentir ningú, va dir la Fàtima. La inspectora va somriure: aquells dies tothom devia dormir amb les finestres tancades.
+    questions:
+      - prompt: "Què va trobar la Fàtima l'endemà al matí?"
+        answer: "El cadenat forçat a terra i cap bicicleta."
+        distractors:
+          - text: "La bicicleta amb el cadenat trencat."
+            why: "La bicicleta ja no hi era."
+          - text: "La porta del garatge oberta."
+            why: "La Fàtima només va trobar el cadenat."
+      - prompt: "Per què sospitava la inspectora del Quim?"
+        answer: "Havia discutit amb la Fàtima i no tenia coartada."
+        distractors:
+          - text: "L'havien trobat dormint dins del garatge."
+            why: "Qui dormia era el porter."
+          - text: "Havia posat una denúncia falsa a la comissaria."
+            why: "La denúncia la va posar la Fàtima."
+      - prompt: "Com van detenir el Quim?"
+        answer: "El van trobar a l'amagatall mentre desmuntava la bicicleta."
+        distractors:
+          - text: "El van interrogar a la comissaria durant hores."
+            why: "Van interrogar els veïns, no el Quim."
+          - text: "Va confessar tot sol a la comissaria."
+            why: "No va confessar: el van enxampar al parc."
+      - prompt: "Quina va ser la sentència del judici?"
+        answer: "El Quim ha de tornar la bicicleta i pagar una multa."
+        distractors:
+          - text: "La Fàtima ha de pagar una multa per la denúncia."
+            why: "La multa la paga el Quim; la denúncia la va posar la Fàtima."
+          - text: "El Quim ha de tornar al parc del Guinardó."
+            why: "Ha de tornar la bicicleta, no anar al parc."
+    explanation: "El text explica el robatori d'una bicicleta, la investigació de la inspectora Sala i la detenció del lladre."
+
+  - id: b2-43-054
+    type: choice
+    point: haver-dhaver-passat
+    lesson: 5
+    prompt: "La senyora Rius va sentir un soroll i no va trucar: ___."
+    answer: "havia d'haver avisat la policia"
+    distractors:
+      - text: "havia d'haver avisar la policia"
+        why: "Darrere de *haver* va el participi *avisat*, no l'infinitiu."
+      - text: "havia haver avisat la policia"
+        why: "Falta la preposició *de*: *havia d'haver avisat*."
+    explanation: "No ho va fer: retret amb *havia d'haver* + participi."
+
+  - id: b2-43-055
+    type: choice
+    point: estar-per
+    lesson: 5
+    prompt: "Les proves encara no són al despatx: ___."
+    answer: "estan per arribar"
+    distractors:
+      - text: "han arribat"
+        why: "Això voldria dir que ja hi són; però «encara no»."
+      - text: "estan arribades"
+        why: "*Arribar* no fa *estar* + participi: l'imminent es diu *estan per arribar*."
+    explanation: "«Encara no són» indica imminència: *estar per* + infinitiu."
+
+  - id: b2-43-056
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—On és l'informe del pèrit? —No en tinc ni idea: ___."
+    answer: "és un misteri"
+    distractors:
+      - text: "lliga caps"
+        why: "Això és entendre el cas; aquí no saben res."
+      - text: "va per feina"
+        why: "Això és anar a l'important; aquí falta l'informe."
+    explanation: "Si ningú no ho sap, *és un misteri*."
+
+  - id: b2-43-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "La inspectora va ___ i va entendre qui era el lladre."
+    hint: "expressió: relacionar les pistes"
+    answers: ["lligar caps"]
+    grading: tolerant
+    explanation: "Relacionar les pistes per entendre el cas: *lligar caps*."
+
+  - id: b2-43-058
+    type: fill
+    point: deure-probabilitat-passat
+    lesson: 5
+    prompt: "El Quim coneixia el garatge: ___."
+    hint: "viure a l'edifici, *devia* + infinitiu"
+    answers: ["devia viure a l'edifici"]
+    wrong_answers:
+      - text: "devia viscut a l'edifici"
+        why: "Darrere de *devia* va l'infinitiu *viure*, no el participi."
+    grading: tolerant
+    explanation: "«Coneixia» situa la suposició en el passat: *devia* + infinitiu."
+
+  - id: b2-43-059
+    type: match
+    point: deure-probabilitat-passat
+    lesson: 5
+    instruction: "Relaciona cada subjecte amb la forma de *deure*."
+    pairs:
+      - ["ell, ara", "deu haver arribat"]
+      - ["ells, ara", "deuen haver arribat"]
+      - ["ell, aleshores", "devia dormir"]
+      - ["ells, aleshores", "devien dormir"]
+    explanation: "*Deure* es conjuga: *deu* i *deuen* per a les suposicions d'ara, *devia* i *devien* per a les del passat."
+
+  - id: b2-43-060
+    type: order
+    point: anar-gerundi
+    lesson: 5
+    cue: "Digues que, amb el temps, el cas misteriós es va fer més clar."
+    chunks: ["El cas", "misteriós", "es va anar", "aclarint"]
+    extra: ["aclarir"]
+    answers:
+      - "El cas misteriós es va anar aclarint."
+      - "Es va anar aclarint el cas misteriós."
+    explanation: "El canvi lent: *anar* + gerundi. Darrere de *anar* va el gerundi *aclarint*."
+
+  - id: b2-43-061
+    type: find-error
+    point: deure-probabilitat-passat
+    lesson: 5
+    sentence: "Aquestes hores la jutgessa deu haver dictat la sentència."
+    no_error: true
+    explanation: "La frase és correcta: *deu haver* + participi expressa una suposició sobre un fet acabat."
+
+  - id: b2-43-062
+    type: find-error
+    point: anar-gerundi
+    lesson: 5
+    sentence: "La Fàtima es va anar a preocupar cada dia més."
+    error: "anar a preocupar"
+    fix: "anar preocupant"
+    fix_distractors:
+      - text: "anar a preocupant"
+        why: "Aquesta perífrasi no porta *a*."
+      - text: "anar preocupat"
+        why: "Darrere de *anar* va el gerundi, no el participi."
+    explanation: "«Cada dia més» indica un canvi progressiu: *anar* + gerundi, sense *a*."
+
+  - id: b2-43-063
+    type: find-error
+    point: compte-deure-de
+    lesson: 5
+    sentence: "Aquella nit els carrers devien estar buits."
+    no_error: true
+    explanation: "La frase és correcta: *devien* + infinitiu expressa una suposició situada en el passat."
+
+  - id: b2-43-064
+    type: inline-choice
+    point: haver-dhaver-passat
+    lesson: 5
+    title: "Repàs del torn de nit"
+    text: "El testimoni {havia d'haver avisat|havia d'haver avisar|havia haver avisat} la policia, però no ho va fer. Quan van arribar els Mossos, el lladre {s'anava allunyant|s'anava allunyar|s'anava allunyat} pel carreró, però el van atrapar. El cas {està per resoldre|està resolt|està per resolt}: encara falta una prova. Aquestes hores el jutge {deu haver signat|devia signar|debe haver signat} l'ordre de detenció."
+    explanation: "Repàs: *haver d'haver* (no fet), *anar* + gerundi (en marxa), *estar per* (pendent) i *deu haver* (suposició d'ara)."
+
+  - id: b2-43-065
+    type: transform
+    point: estar-per
+    lesson: 5
+    instruction: "Reescriu la frase amb *estar per* + infinitiu."
+    source: "Les petjades [[encara no s'han analitzat]]."
+    answers: ["Les petjades estan per analitzar."]
+    grading: tolerant
+    explanation: "Una cosa pendent es diu amb *estar per* + infinitiu."

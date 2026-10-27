@@ -1,0 +1,1050 @@
+id: b1-24
+level: B1
+title: "Perífrasis verbals"
+summary: "Aprens a distingir l'obligació (*has de*) de la probabilitat (*deu ser*), a situar l'acció en el temps (*acabar de*, *estar a punt de*, *tornar a*, *posar-se a*) i a descriure accions en curs (*estar* i *continuar* + gerundi)."
+vocabulary_theme: "Salut, metge i farmàcia"
+points:
+  - id: obligacio-probabilitat
+    title: "*Haver de* (obligació) i *deure* (probabilitat)"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: perifrasis-fase
+    title: "*Acabar de*, *estar a punt de*, *tornar a* i *posar-se a*"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: estar-continuar-gerundi
+    title: "*Estar* i *continuar* + gerundi"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *deu ser* és probabilitat"
+  - id: expressions
+    title: "Expressions de salut"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: obligació, probabilitat i fases"
+  - title: "Practicar les perífrasis"
+  - title: "El gerundi i les interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el metge, la metgessa"
+    definition: "Persona que diagnostica i cura les malalties."
+    example: "El metge m'ha dit que faci repòs tres dies."
+  - word: "l'infermer, la infermera"
+    definition: "Persona que té cura dels malalts a l'hospital o al CAP."
+    example: "La infermera em va prendre la tensió."
+  - word: "el pacient, la pacient"
+    definition: "Persona malalta que un metge visita o tracta."
+    example: "Els pacients esperen el seu torn a la sala d'espera."
+  - word: "el CAP"
+    definition: "Centre d'atenció primària: l'ambulatori del barri."
+    example: "Vaig al CAP a buscar la recepta."
+  - word: "les urgències"
+    definition: "Servei de l'hospital per als casos greus i immediats."
+    example: "Si empitjores aquesta nit, ves a urgències."
+  - word: "la sala d'espera"
+    definition: "Sala on els pacients esperen el seu torn."
+    example: "La sala d'espera era plena de gent."
+  - word: "la consulta"
+    definition: "Despatx on el metge visita els pacients."
+    example: "El metge em rep a la consulta dos."
+  - word: "demanar hora"
+    definition: "Concertar una visita amb el metge."
+    example: "He demanat hora per dimarts al matí."
+  - word: "la recepta mèdica"
+    definition: "Paper del metge que diu quins medicaments has de prendre."
+    example: "El farmacèutic em va demanar la recepta mèdica."
+  - word: "el medicament"
+    definition: "Producte que serveix per curar una malaltia."
+    example: "Aquest medicament s'ha de prendre amb menjar."
+  - word: "la pastilla"
+    definition: "Petit medicament rodó que es pren amb aigua."
+    example: "Em prenc una pastilla per al mal de cap."
+  - word: "el xarop"
+    definition: "Líquid dolç que és un medicament, sobretot per a la tos."
+    example: "El nen pren una cullerada de xarop cada vuit hores."
+  - word: "la dosi"
+    definition: "Quantitat exacta d'un medicament que s'ha de prendre."
+    example: "No passis mai de la dosi del prospecte."
+  - word: "el prospecte"
+    definition: "Paper que explica com s'ha de prendre un medicament."
+    example: "Llegeix el prospecte abans de prendre-te'l."
+  - word: "la farmàcia"
+    definition: "Botiga on es venen medicaments."
+    example: "La farmàcia de guàrdia és a la plaça."
+  - word: "el farmacèutic, la farmacèutica"
+    definition: "Persona que prepara i ven medicaments a la farmàcia."
+    example: "La farmacèutica m'ha recomanat un xarop suau."
+  - word: "la febre"
+    definition: "Temperatura del cos més alta del normal."
+    example: "Si tens més de 38 graus, tens febre."
+  - word: "la tensió"
+    definition: "La pressió de la sang."
+    example: "La infermera em pren la tensió cada visita."
+  - word: "el termòmetre"
+    definition: "Aparell per mesurar la temperatura del cos."
+    example: "Posa't el termòmetre i espera dos minuts."
+  - word: "la tos"
+    definition: "Soroll fort que fem amb la gola quan estem refredats."
+    example: "Aquest xarop em calma la tos."
+  - word: "el refredat"
+    definition: "Malaltia lleu amb tos i mal de coll."
+    example: "Amb aquest fred agafaré un refredat."
+  - word: "la grip"
+    definition: "Malaltia amb febre alta i dolor a tot el cos."
+    example: "Amb la grip, cal fer repòs uns dies."
+  - word: "el dolor"
+    definition: "Mal que se sent en una part del cos."
+    example: "Tinc un dolor al genoll quan pujo escales."
+  - word: "el mal de cap"
+    definition: "Dolor a l'interior del cap."
+    example: "Amb aquest soroll em vindrà mal de cap."
+  - word: "el mal de coll"
+    definition: "Dolor a la gola quan menges o beus."
+    example: "Beu llet amb mel per al mal de coll."
+  - word: "la ferida"
+    definition: "Tall obert a la pell."
+    example: "Renta't la ferida amb aigua i sabó."
+  - word: "la bena"
+    definition: "Tira de roba que tapa una ferida."
+    example: "La infermera li va posar una bena al braç."
+  - word: "l'esparadrap"
+    definition: "Cinta que enganxa la bena a la pell."
+    example: "Posa't un trosset d'esparadrap a la ferida."
+  - word: "el símptoma"
+    definition: "Senyal d'una malaltia, com la febre o la tos."
+    example: "El primer símptoma va ser el mal de cap."
+  - word: "el diagnòstic"
+    definition: "Nom de la malaltia que diu el metge després de visitar-te."
+    example: "El diagnòstic és clar: és un virus."
+  - word: "el tractament"
+    definition: "Medicaments i cures per a una malaltia."
+    example: "El tractament dura deu dies."
+  - word: "tossir"
+    definition: "Fer aquell soroll fort amb la gola quan estem refredats."
+    example: "Tapeu-vos la boca quan tossiu."
+  - word: "sagnar"
+    definition: "Perdre sang d'una ferida o del nas."
+    example: "M'he tallat i em sagna el dit."
+  - word: "reposar"
+    definition: "Descansar per recuperar la salut."
+    example: "El metge m'ha dit que reposi una setmana."
+  - word: "la vacuna"
+    definition: "Punxada que protegeix d'una malaltia."
+    example: "A la tardor em poso la vacuna de la grip."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-24-001
+    type: choice
+    point: obligacio-probabilitat
+    lesson: 1
+    prompt: "La Montse està constipada. El metge diu que ___ reposar tres dies."
+    answer: "ha de"
+    distractors:
+      - text: "té que"
+        why: "*Tenir que* és un calc de «tener que». L'obligació és *haver de*: *ha de reposar*."
+      - text: "ha"
+        why: "*Haver de* porta sempre la preposició *de*: *ha de reposar*."
+    explanation: "«La Montse» és tercera persona i és una obligació del metge: *ha de* + infinitiu."
+
+  - id: b1-24-002
+    type: choice
+    point: obligacio-probabilitat
+    lesson: 1
+    prompt: "—La Núria no contesta el mòbil. —___ ser a la consulta, sense cobertura."
+    answer: "Deu"
+    distractors:
+      - text: "Té que"
+        why: "*Tenir que* és un calc de «tener que». I aquí no és una obligació, sinó una suposició: *deu ser*."
+      - text: "Va"
+        why: "*Va ser* és passat (*ahir va ser*). Aquí és una suposició sobre ara: *deu ser*."
+    explanation: "És una suposició, no una obligació: *deure* + infinitiu, sense *de*."
+
+  - id: b1-24-003
+    type: choice
+    point: obligacio-probabilitat
+    lesson: 1
+    prompt: "«Deuen tenir la grip, tots dos.» Què vol dir?"
+    answer: "Que probablement tenen la grip."
+    distractors:
+      - text: "Que el metge els obliga a tenir la grip."
+        why: "*Deure* aquí expressa probabilitat, no una ordre del metge: probablement tenen la grip."
+      - text: "Que volen tenir la grip."
+        why: "*Deure* no expressa un desig, sinó una probabilitat: probablement tenen la grip."
+    explanation: "*Deure* + infinitiu expressa probabilitat: *deuen tenir* = probablement tenen."
+
+  - id: b1-24-004
+    type: choice
+    point: perifrasis-fase
+    lesson: 1
+    prompt: "—On és en Pau? —___ de sortir cap a la farmàcia."
+    answer: "Acaba"
+    distractors:
+      - text: "Torna"
+        why: "*Tornar* va amb *a*: *torna a sortir*. A més, aquí ha sortit fa un moment: *acaba de sortir*."
+      - text: "Posa"
+        why: "L'inici d'una acció és *posar-se a*, amb *a* i amb pronom: *es posa a sortir*."
+    explanation: "Després del buit hi ha *de*: dels tres verbs, només *acabar* va amb *de* (*acaba de sortir* = ha sortit fa un moment)."
+
+  - id: b1-24-005
+    type: choice
+    point: perifrasis-fase
+    lesson: 1
+    prompt: "La infermera ens diu que esperem: el metge ___ rebre'ns."
+    answer: "està a punt de"
+    distractors:
+      - text: "acaba de"
+        why: "*Acabar de* vol dir que ja ha passat; «ens diu que esperem» vol dir que encara no: *està a punt de*."
+      - text: "es posa de"
+        why: "*Posar-se* va amb *a*, no amb *de*. I aquí falta molt poc: *està a punt de*."
+    explanation: "«Ens diu que esperem» vol dir que encara no ha passat: *estar a punt de* + infinitiu."
+
+  - id: b1-24-006
+    type: choice
+    point: perifrasis-fase
+    lesson: 1
+    prompt: "L'Ibrahim ___ febre: és el tercer cop aquesta setmana."
+    answer: "ha tornat a tenir"
+    distractors:
+      - text: "ha tornat de tenir"
+        why: "*Tornar* va amb *a*, no amb *de*: *ha tornat a tenir*."
+      - text: "ha acabat a tenir"
+        why: "*Acabar* va amb *de*, no amb *a*. I aquí l'acció es repeteix: *ha tornat a tenir*."
+    explanation: "«És el tercer cop» indica una repetició: *tornar a* + infinitiu. *Tornar* va amb *a*; *acabar*, amb *de*."
+
+  - id: b1-24-007
+    type: choice
+    point: perifrasis-fase
+    lesson: 1
+    prompt: "Quan la infermera li va treure la bena i l'esparadrap d'una revolada, la nena ___ plorar."
+    answer: "es va posar a"
+    distractors:
+      - text: "va acabar de"
+        why: "*Va acabar de plorar* vol dir que ja ha plorat; aquí comença a plorar: *es va posar a*."
+      - text: "va tornar de"
+        why: "*Tornar* va amb *a*. I aquí no es repeteix, sinó que comença: *es va posar a plorar*."
+    explanation: "Treure la bena d'una revolada fa mal: la nena comença a plorar. L'inici és *posar-se a* + infinitiu."
+
+  - id: b1-24-008
+    type: inline-choice
+    point: perifrasis-fase
+    lesson: 1
+    title: "Un missatge de la Carla"
+    text: "Hola, Laia! Perdona que no t'he trucat abans, però jo {acabo|acaba|acaben} de sortir del CAP i {estic|està|estan} a punt de pujar a l'autobús. M'he trobat fatal aquest matí i {m'he posat a|m'he posat de|he tornat de} tremolar a la feina. El metge diu que no és greu, però que si {torno a|torno de|acabo a} tenir febre, hi he de tornar demà. Ja et truco!"
+    explanation: "«No t'he trucat… però jo» fixa la primera persona: *acabo*, *estic*. L'inici és *posar-se a*; la repetició, *tornar a*: les preposicions són *a*."
+
+  - id: b1-24-009
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["estar fet pols", "estar molt cansat o esgotat"]
+      - ["trobar-se malament", "sentir-se malalt"]
+      - ["posar-se bo", "recuperar la salut"]
+      - ["estar com una rosa", "tenir molt bon aspecte i salut"]
+    explanation: "Són expressions de salut: *fet pols* és cansament extrem, *trobar-se malament* és sentir-se malalt, *posar-se bo* és curar-se i *com una rosa* és tenir molt bon aspecte."
+
+  - id: b1-24-010
+    type: fill
+    point: obligacio-probabilitat
+    lesson: 1
+    prompt: "La Fàtima té tos i febre. Demà ___ al CAP."
+    hint: "*haver de*, ella"
+    answers: ["ha d'anar"]
+    wrong_answers:
+      - text: "té que anar"
+        why: "*Tenir que* és un calc de «tener que»: *ha d'anar*."
+      - text: "ha anar"
+        why: "Falta la preposició *de*: *ha d'anar*."
+    grading: tolerant
+    explanation: "És una obligació en tercera persona: *ha de* + infinitiu. Davant de vocal, *de* s'apostrofa: *ha d'anar*."
+
+  - id: b1-24-011
+    type: fill
+    point: perifrasis-fase
+    lesson: 1
+    prompt: "L'Arnau ___ de prendre's la pastilla: encara té el got a la mà."
+    hint: "*acabar de*, ell (present)"
+    answers: ["acaba"]
+    wrong_answers:
+      - text: "torna"
+        why: "*Tornar* va amb *a*: *torna a prendre's*. Aquí ha passat fa un moment: *acaba de prendre's*."
+      - text: "posa"
+        why: "*Posar-se* va amb *a* i porta pronom: *es posa a prendre's*. Aquí ha passat fa un moment: *acaba de*."
+    grading: tolerant
+    explanation: "«Encara té el got a la mà» vol dir que ha passat fa un moment: *acabar de* + infinitiu."
+
+  - id: b1-24-012
+    type: order
+    point: obligacio-probabilitat
+    lesson: 1
+    cue: "Digues que probablement el Wei és a la farmàcia."
+    chunks: ["el", "Wei", "deu", "ser", "a", "la", "farmàcia"]
+    extra: ["hi"]
+    answers:
+      - "El Wei deu ser a la farmàcia."
+    explanation: "És una suposició sobre el Wei: *deure* + infinitiu, sense *de*. En singular: *deu ser*."
+
+  - id: b1-24-013
+    type: order
+    point: perifrasis-fase
+    lesson: 1
+    cue: "Digues que la Carla ha començat a prendre el xarop."
+    chunks: ["la", "Carla", "s'ha", "posat", "a", "prendre", "el", "xarop"]
+    extra: ["de"]
+    answers:
+      - "La Carla s'ha posat a prendre el xarop."
+    explanation: "Començar una acció és *posar-se a* + infinitiu, amb *a* i amb pronom: *s'ha posat a prendre*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-24-014
+    type: fill
+    point: obligacio-probabilitat
+    lesson: 2
+    prompt: "Tens la tensió alta: ___ menjar sense sal."
+    hint: "*haver de*, tu"
+    answers: ["has de"]
+    wrong_answers:
+      - text: "tens que"
+        why: "*Tenir que* és un calc de «tener que»: *has de menjar*."
+      - text: "has"
+        why: "Falta la preposició *de*: *has de menjar*."
+    grading: tolerant
+    explanation: "És una ordre del metge en segona persona: *has de* + infinitiu."
+
+  - id: b1-24-015
+    type: fill
+    point: obligacio-probabilitat
+    lesson: 2
+    prompt: "En Pau i la Núria no hi són: ___ ser a urgències."
+    hint: "*deure*, ells (present)"
+    answers: ["deuen"]
+    wrong_answers:
+      - text: "deven"
+        why: "Aquesta forma no existeix: la tercera persona del plural és *deuen*."
+      - text: "tenen que"
+        why: "*Tenir que* és un calc. I aquí no és una obligació, sinó una suposició: *deuen ser*."
+    grading: tolerant
+    explanation: "És una suposició en plural: *deure* + infinitiu. La tercera persona del plural és *deuen*."
+
+  - id: b1-24-016
+    type: fill
+    point: perifrasis-fase
+    lesson: 2
+    prompt: "Els pacients ___ passar a la consulta: són els següents de la llista."
+    hint: "*estar a punt de*, ells (present)"
+    answers: ["estan a punt de"]
+    wrong_answers:
+      - text: "estan a punt a"
+        why: "*Estar a punt de* porta *de*, no *a*."
+      - text: "acaben de"
+        why: "*Acabar de* vol dir que ja ha passat; «són els següents» vol dir que encara no: *estan a punt de*."
+    grading: tolerant
+    explanation: "«Són els següents» vol dir que encara no han passat: *estar a punt de* + infinitiu."
+
+  - id: b1-24-017
+    type: fill
+    point: perifrasis-fase
+    lesson: 2
+    prompt: "La Montse es trobava bé, però ___ a tenir febre per segon cop."
+    hint: "*tornar a*, ella (passat perifràstic)"
+    answers: ["va tornar"]
+    wrong_answers:
+      - text: "va acabar"
+        why: "*Acabar* va amb *de*, no amb *a*."
+      - text: "es va posar"
+        why: "*Posar-se a* marca l'inici; «per segon cop» indica una repetició: *va tornar a*."
+    grading: tolerant
+    explanation: "«Per segon cop» indica una repetició en passat: *tornar a* + infinitiu. En perifràstic: *va tornar a*."
+
+  - id: b1-24-018
+    type: fill
+    point: perifrasis-fase
+    lesson: 2
+    prompt: "En sentir el diagnòstic, el noi ___ plorar."
+    hint: "*posar-se a*, ell (passat perifràstic)"
+    answers: ["es va posar a", "va posar-se a"]
+    wrong_answers:
+      - text: "es va posar de"
+        why: "*Posar-se* va amb *a*, no amb *de*: *es va posar a plorar*."
+      - text: "va tornar a"
+        why: "*Tornar a* vol dir «una altra vegada»; aquí comença a plorar: *es va posar a plorar*."
+    grading: tolerant
+    explanation: "«En sentir el diagnòstic» marca l'inici: *posar-se a* + infinitiu. En passat: *es va posar a*."
+
+  - id: b1-24-019
+    type: order
+    point: obligacio-probabilitat
+    lesson: 2
+    cue: "Digues que la Laia ha de demanar hora per dijous."
+    chunks: ["la", "Laia", "ha", "de", "demanar", "hora", "per", "dijous"]
+    extra: ["que"]
+    answers:
+      - "La Laia ha de demanar hora per dijous."
+      - "Per dijous la Laia ha de demanar hora."
+    explanation: "L'obligació en tercera persona és *ha de* + infinitiu: *La Laia ha de demanar hora*."
+
+  - id: b1-24-020
+    type: order
+    point: perifrasis-fase
+    lesson: 2
+    cue: "Digues que acabes de parlar amb el metge."
+    chunks: ["acabo", "de", "parlar", "amb", "el", "metge"]
+    extra: ["a"]
+    answers:
+      - "Acabo de parlar amb el metge."
+    explanation: "*Acabar de* indica que ha passat fa molt poc: *acabo de parlar amb el metge*."
+
+  - id: b1-24-021
+    type: order
+    point: perifrasis-fase
+    lesson: 2
+    cue: "Digues que estan a punt de tancar la farmàcia."
+    chunks: ["estan", "a", "punt", "de", "tancar", "la", "farmàcia"]
+    extra: ["per"]
+    answers:
+      - "Estan a punt de tancar la farmàcia."
+    explanation: "Que falta molt poc és *estar a punt de* + infinitiu. La preposició és *de*: *estan a punt de tancar*."
+
+  - id: b1-24-022
+    type: choice
+    point: perifrasis-fase
+    lesson: 2
+    prompt: "El metge ___ visitar-te: ja t'ha cridat pel teu nom."
+    answer: "està a punt de"
+    distractors:
+      - text: "acaba de"
+        why: "*Acabar de* vol dir que ja t'ha visitat; «ja t'ha cridat» vol dir que encara no: *està a punt de*."
+      - text: "ha tornat a"
+        why: "*Ha tornat a visitar-te* vol dir que ja t'havia visitat abans; aquí et visitarà per primer cop i falta molt poc: *està a punt de*."
+    explanation: "«Ja t'ha cridat pel teu nom» vol dir que et visitarà d'aquí a molt poc: *estar a punt de* + infinitiu."
+
+  - id: b1-24-023
+    type: choice
+    point: obligacio-probabilitat
+    lesson: 2
+    prompt: "—Em fa mal tot el cos. —___ tenir la grip: ves al metge."
+    answer: "Deus"
+    distractors:
+      - text: "Tens que"
+        why: "*Tenir que* és un calc de «tener que». I aquí és una suposició, no una obligació: *deus tenir*."
+      - text: "Has"
+        why: "*Has tenir* no és correcte: *haver de* porta *de*. I aquí és una suposició: *deus tenir*."
+    explanation: "És una suposició («potser tens la grip») en segona persona: *deus* + infinitiu, sense *de*."
+
+  - id: b1-24-024
+    type: choice
+    point: compte-castella
+    lesson: 2
+    prompt: "«Tienes que guardar cama.» Com ho dius en català?"
+    answer: "Has de fer repòs."
+    distractors:
+      - text: "Tens que fer repòs."
+        why: "*Tenir que* és un calc de «tener que»: *has de fer repòs*."
+      - text: "Has fer repòs."
+        why: "Falta la preposició *de*: *has de fer repòs*."
+    explanation: "L'obligació és *haver de* + infinitiu. I «guardar cama» en català és *fer repòs*."
+
+  - id: b1-24-025
+    type: choice
+    point: obligacio-probabilitat
+    lesson: 2
+    prompt: "«Tinc un dolor fort i he de prendre aquest xarop cada vuit hores.» Què expressa «he de prendre»?"
+    answer: "Una obligació."
+    distractors:
+      - text: "Una suposició."
+        why: "La suposició és *deure* + infinitiu. «Cada vuit hores» és una ordre del metge: una obligació."
+      - text: "Un desig."
+        why: "*Haver de* no expressa un desig, sinó una obligació o una necessitat."
+    explanation: "«Cada vuit hores» és una ordre del metge: *he de* + infinitiu expressa una obligació."
+
+  - id: b1-24-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «estar fet pols»?"
+    answer: "Estar molt cansat o esgotat."
+    distractors:
+      - text: "Estar molt brut de pols."
+        why: "No parla de pols de veritat: vol dir que no pots més de cansament."
+      - text: "Tenir febre molt alta."
+        why: "*Estar fet pols* és cansament extrem, no febre."
+    explanation: "*Estar fet pols* descriu un cansament extrem: *Després de dotze hores d'urgències estic fet pols*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-24-027
+    type: choice
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "—On és el metge? —Ara mateix ___ un pacient a la consulta dos."
+    answer: "està visitant"
+    distractors:
+      - text: "està a visitar"
+        why: "*Estar* va amb el gerundi, sense preposició: *està visitant*."
+      - text: "està visitar"
+        why: "Després de *estar* cal el gerundi: *visitant*, no l'infinitiu."
+    explanation: "Una acció que passa ara mateix: *estar* + gerundi. *Visitar* fa *visitant*."
+
+  - id: b1-24-028
+    type: choice
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "La Carla té tos des de dilluns i ___."
+    answer: "continua tossint"
+    distractors:
+      - text: "continua a tossir"
+        why: "*Continuar* va amb el gerundi, sense *a*: *continua tossint*."
+      - text: "torna a tossir"
+        why: "*Tornar a* vol dir «després d'haver parat»; «des de dilluns» vol dir que no ha parat: *continua tossint*."
+    explanation: "«Des de dilluns» vol dir que no ha parat: *continuar* + gerundi."
+
+  - id: b1-24-029
+    type: choice
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "«La ferida continua sagnant.» Què vol dir?"
+    answer: "Que encara sagna, que no ha parat."
+    distractors:
+      - text: "Que ha començat a sagnar ara."
+        why: "L'inici és *posar-se a*: *s'ha posat a sagnar*. *Continuar* vol dir que no para."
+      - text: "Que ha sagnat fa un moment."
+        why: "«Fa un moment» és *acabar de*: *acaba de sagnar*. *Continuar* vol dir que encara dura."
+    explanation: "*Continuar* + gerundi indica que l'acció dura i no para: *continua sagnant* = encara sagna."
+
+  - id: b1-24-030
+    type: fill
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "El Wei ___ a la sala d'espera des de les nou."
+    hint: "*estar* + gerundi de *esperar*, ell (present)"
+    answers: ["està esperant"]
+    wrong_answers:
+      - text: "està a esperar"
+        why: "*Estar* va amb el gerundi, sense preposició: *està esperant*."
+      - text: "es posa a esperar"
+        why: "*Posar-se a* marca l'inici; «des de les nou» demana una acció en curs: *està esperant*."
+    grading: tolerant
+    explanation: "«Des de les nou» indica una acció en curs: *estar* + gerundi. *Esperar* fa *esperant*."
+
+  - id: b1-24-031
+    type: fill
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "La tos no marxa: la Núria ___ dia i nit."
+    hint: "*continuar* + *tossir*, ella (present)"
+    answers: ["continua tossint", "segueix tossint"]
+    wrong_answers:
+      - text: "continua a tossir"
+        why: "*Continuar* va amb el gerundi, sense *a*: *continua tossint*."
+      - text: "torna a tossir"
+        why: "*Tornar a* vol dir «després d'haver parat»; «no marxa» vol dir que no para: *continua tossint*."
+    grading: tolerant
+    explanation: "«No marxa» vol dir que la tos no para: *continuar* + gerundi (o *seguir* + gerundi)."
+
+  - id: b1-24-032
+    type: fill
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "Quan va arribar l'ambulància, el pacient ___ encara."
+    hint: "*estar* + *respirar*, ell (imperfet)"
+    answers: ["estava respirant"]
+    wrong_answers:
+      - text: "estava a respirar"
+        why: "*Estar* va amb el gerundi, sense preposició: *estava respirant*."
+      - text: "estava respirar"
+        why: "Després de *estar* cal el gerundi: *respirant*, no l'infinitiu."
+    grading: tolerant
+    explanation: "Una acció en curs en el passat: *estar* en imperfet + gerundi. *Respirar* fa *respirant*."
+
+  - id: b1-24-033
+    type: fill
+    point: estar-continuar-gerundi
+    lesson: 3
+    prompt: "L'Ibrahim té febre des de dilluns i, malgrat el medicament, ___."
+    hint: "*seguir* + *tenir*, ell (present)"
+    answers: ["segueix tenint febre", "continua tenint febre"]
+    wrong_answers:
+      - text: "segueix a tenir febre"
+        why: "*Seguir* va amb el gerundi, sense *a*: *segueix tenint febre*."
+      - text: "torna a tenir febre"
+        why: "*Tornar a* vol dir «després d'haver parat»; «des de dilluns» vol dir que no para: *segueix tenint*."
+    grading: tolerant
+    explanation: "*Seguir* equival a *continuar*: va amb gerundi. *Tenir* fa *tenint*."
+
+  - id: b1-24-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El farmacèutic diu que tinc que respectar la dosi: dues pastilles al dia."
+    error: "tinc que respectar"
+    fix: "he de respectar"
+    fix_distractors:
+      - text: "tinc de respectar"
+        why: "L'obligació és *haver de*: *he de respectar*. *Tenir de* no és correcte."
+      - text: "he que respectar"
+        why: "*Haver de* porta *de*, no *que*: *he de respectar*."
+    explanation: "L'obligació d'una persona és *haver de* + infinitiu. *Tenir que* és un calc de «tener que»."
+
+  - id: b1-24-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Per la febre, hi ha que beure molta aigua."
+    error: "hi ha que beure"
+    fix: "cal beure"
+    fix_distractors:
+      - text: "ha que beure"
+        why: "«Ha que» no és correcte. Sense persona concreta, l'obligació és *cal*: *cal beure*."
+      - text: "té que beure"
+        why: "*Tenir que* és un calc de «tener que». Sense persona concreta: *cal beure*."
+    explanation: "Sense una persona concreta, l'obligació és *cal* + infinitiu. *Hi ha que* és un calc de «hay que»."
+
+  - id: b1-24-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La Laia deu tenir la grip: té febre i mal de coll."
+    no_error: true
+    explanation: "La frase és correcta: és una suposició («potser té la grip»), i la probabilitat és *deure* + infinitiu, sense *de*."
+
+  - id: b1-24-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Aquests símptomes deven ser d'un refredat."
+    error: "deven ser"
+    fix: "deuen ser"
+    fix_distractors:
+      - text: "deu ser"
+        why: "«Aquests símptomes» és plural: *deuen ser*. *Deu* és singular."
+      - text: "tenen que ser"
+        why: "*Tenir que* és un calc. I aquí és una suposició, no una obligació: *deuen ser*."
+    explanation: "És una suposició en plural: *deure* + infinitiu. «Aquests símptomes» demana *deuen*; *deven* no existeix."
+
+  - id: b1-24-038
+    type: find-error
+    point: estar-continuar-gerundi
+    lesson: 3
+    sentence: "El metge està de visitar ara, no pot atendre't."
+    error: "està de visitar"
+    fix: "està visitant"
+    fix_distractors:
+      - text: "està a visitar"
+        why: "*Estar* va amb el gerundi, sense preposició: *està visitant*."
+      - text: "està visitar"
+        why: "Després de *estar* cal el gerundi: *visitant*, no l'infinitiu."
+    explanation: "Una acció que passa ara mateix: *estar* + gerundi, sense preposició. *Visitar* fa *visitant*."
+
+  - id: b1-24-039
+    type: find-error
+    point: estar-continuar-gerundi
+    lesson: 3
+    sentence: "El nen continua a tossir malgrat el xarop."
+    error: "continua a tossir"
+    fix: "continua tossint"
+    fix_distractors:
+      - text: "torna a tossir"
+        why: "*Tornar a* vol dir «després d'haver parat»; «malgrat el xarop» vol dir que no para: *continua tossint*."
+      - text: "continua tossir"
+        why: "Després de *continuar* cal el gerundi: *tossint*, no l'infinitiu."
+    explanation: "*Continuar* (i *seguir*) van amb el gerundi, sense preposició: *continua tossint*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-24-040
+    type: transform
+    point: obligacio-probabilitat
+    lesson: 4
+    instruction: "Canvia el subjecte a «la Núria»."
+    source: "[[Has de]] venir a posar-te la vacuna demà."
+    answers: ["La Núria ha de venir a posar-se la vacuna demà."]
+    wrong_answers:
+      - text: "La Núria has de venir a posar-se la vacuna demà."
+        why: "«La Núria» és tercera persona: *ha de*, no *has de*."
+      - text: "La Núria ha de venir a posar-te la vacuna demà."
+        why: "«La Núria» és tercera persona: el pronom és *es*: *posar-se*."
+    grading: tolerant
+    explanation: "«La Núria» és tercera persona: *ha de*… i el pronom *es*: *La Núria ha de venir a posar-se la vacuna*."
+
+  - id: b1-24-041
+    type: transform
+    point: perifrasis-fase
+    lesson: 4
+    instruction: "Reescriu la frase amb *acabar de*."
+    source: "La Carla [[fa molt poc que ha sortit]] de la consulta."
+    answers: ["La Carla acaba de sortir de la consulta."]
+    wrong_answers:
+      - text: "La Carla acaba a sortir de la consulta."
+        why: "*Acabar* va amb *de*, no amb *a*: *acaba de sortir*."
+      - text: "La Carla està a punt de sortir de la consulta."
+        why: "«Fa molt poc» vol dir que ja ha sortit; *estar a punt de* vol dir que encara no: *acaba de sortir*."
+    grading: tolerant
+    explanation: "«Fa molt poc» equival a *acabar de* + infinitiu: *acaba de sortir*."
+
+  - id: b1-24-042
+    type: transform
+    point: estar-continuar-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase amb *estar* + gerundi."
+    source: "El farmacèutic [[atén]] un client ara mateix."
+    answers:
+      - "El farmacèutic està atenent un client ara mateix."
+      - "El farmacèutic està atenent ara mateix un client."
+      - "Ara mateix el farmacèutic està atenent un client."
+    wrong_answers:
+      - text: "El farmacèutic està a atendre un client ara mateix."
+        why: "*Estar* va amb el gerundi, sense preposició: *està atenent*."
+      - text: "El farmacèutic es posa a atendre un client ara mateix."
+        why: "La frase diu que ja atén (*atén*), no que comença: *està atenent*."
+    grading: tolerant
+    explanation: "«Ara mateix» indica una acció en curs: *estar* + gerundi. *Atendre* fa *atenent*."
+
+  - id: b1-24-043
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix el calc del castellà."
+    source: "[[Tens que]] fer repòs, diu el metge."
+    answers: ["Has de fer repòs, diu el metge."]
+    wrong_answers:
+      - text: "Has fer repòs, diu el metge."
+        why: "Falta la preposició *de*: *has de fer repòs*."
+      - text: "Tens de fer repòs, diu el metge."
+        why: "L'obligació és *haver de*: *has de fer*. *Tenir de* no és correcte."
+    grading: tolerant
+    explanation: "*Tenir que* és un calc de «tener que». L'obligació en segona persona és *has de* + infinitiu."
+
+  - id: b1-24-044
+    type: transform
+    point: perifrasis-fase
+    lesson: 4
+    instruction: "Reescriu la frase amb *posar-se a*."
+    source: "Quan la infermera li va posar la vacuna, la nena [[va començar a]] plorar."
+    answers:
+      - "Quan la infermera li va posar la vacuna, la nena es va posar a plorar."
+      - "Quan la infermera li va posar la vacuna, la nena va posar-se a plorar."
+    wrong_answers:
+      - text: "Quan la infermera li va posar la vacuna, la nena es va posar de plorar."
+        why: "*Posar-se* va amb *a*, no amb *de*: *es va posar a plorar*."
+      - text: "Quan la infermera li va posar la vacuna, la nena va tornar a plorar."
+        why: "«Va començar» indica l'inici, no una repetició: *es va posar a plorar*."
+    grading: tolerant
+    explanation: "«Començar a» equival a *posar-se a* + infinitiu: *es va posar a plorar*."
+
+  - id: b1-24-045
+    type: transform
+    point: estar-continuar-gerundi
+    lesson: 4
+    instruction: "Reescriu la frase amb *seguir* + gerundi."
+    source: "Des de dilluns, el pacient [[té febre]] malgrat el tractament."
+    answers:
+      - "Des de dilluns, el pacient segueix tenint febre malgrat el tractament."
+      - "Des de dilluns, el pacient continua tenint febre malgrat el tractament."
+    wrong_answers:
+      - text: "Des de dilluns, el pacient segueix a tenir febre malgrat el tractament."
+        why: "*Seguir* va amb el gerundi, sense *a*: *segueix tenint*."
+      - text: "Des de dilluns, el pacient torna a tenir febre malgrat el tractament."
+        why: "«Des de dilluns» vol dir que no ha parat; *tornar a* vol dir «després d'haver parat»: *segueix tenint*."
+    grading: tolerant
+    explanation: "«Des de dilluns» indica continuïtat: *seguir* (= *continuar*) + gerundi."
+
+  - id: b1-24-046
+    type: fill
+    point: obligacio-probabilitat
+    lesson: 4
+    prompt: "Si voleu visitar el pacient, ___ rentar-vos les mans."
+    hint: "*haver de*, vosaltres"
+    answers: ["heu de"]
+    wrong_answers:
+      - text: "teniu que"
+        why: "*Tenir que* és un calc de «tener que»: *heu de rentar*."
+      - text: "heu"
+        why: "Falta la preposició *de*: *heu de rentar*."
+    grading: tolerant
+    explanation: "És una norma de l'hospital en segona persona del plural: *heu de* + infinitiu."
+
+  - id: b1-24-047
+    type: fill
+    point: perifrasis-fase
+    lesson: 4
+    prompt: "L'operació ___ començar d'aquí a deu minuts."
+    hint: "*estar a punt de*, ella (present)"
+    answers: ["està a punt de"]
+    wrong_answers:
+      - text: "acaba de"
+        why: "*Acabar de* vol dir que ja ha començat; «d'aquí a deu minuts» vol dir que encara no: *està a punt de*."
+      - text: "es posa a"
+        why: "«D'aquí a deu minuts» és futur immediat, no l'inici: *està a punt de començar*."
+    grading: tolerant
+    explanation: "«D'aquí a deu minuts» indica un futur immediat: *estar a punt de* + infinitiu."
+
+  - id: b1-24-048
+    type: fill
+    point: estar-continuar-gerundi
+    lesson: 4
+    prompt: "No truquis a la Laia: ___ el torn de nit a l'hospital."
+    hint: "*estar* + *fer*, ella (present)"
+    answers: ["està fent"]
+    wrong_answers:
+      - text: "està a fer"
+        why: "*Estar* va amb el gerundi, sense preposició: *està fent*."
+      - text: "està fer"
+        why: "Després de *estar* cal el gerundi: *fent*, no l'infinitiu."
+    grading: tolerant
+    explanation: "«No truquis» indica que ho fa ara: *estar* + gerundi. *Fer* fa *fent*."
+
+  - id: b1-24-049
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "Abans d'entrar a la consulta, ___ desinfectar-se les mans."
+    hint: "*caldre*, impersonal (present)"
+    answers: ["cal"]
+    wrong_answers:
+      - text: "hi ha que"
+        why: "*Hi ha que* és un calc de «hay que»: *cal desinfectar-se*."
+      - text: "ha de"
+        why: "Sense persona concreta, l'obligació és *cal*. *Ha de* necessita un subjecte: *el visitant ha de desinfectar-se*."
+    grading: tolerant
+    explanation: "És una norma general, sense una persona concreta: *cal* + infinitiu."
+
+  - id: b1-24-050
+    type: order
+    point: obligacio-probabilitat
+    lesson: 4
+    cue: "Digues que demà has d'anar a donar sang."
+    chunks: ["demà", "has", "d'anar", "a", "donar", "sang"]
+    extra: ["que"]
+    answers:
+      - "Demà has d'anar a donar sang."
+      - "Has d'anar a donar sang demà."
+      - "Has d'anar demà a donar sang."
+    explanation: "L'obligació en segona persona és *has de* + infinitiu. Davant de vocal: *has d'anar*."
+
+  - id: b1-24-051
+    type: order
+    point: estar-continuar-gerundi
+    lesson: 4
+    cue: "Digues que la Núria continua prenent vitamines."
+    chunks: ["la", "Núria", "continua", "prenent", "vitamines"]
+    extra: ["a"]
+    answers:
+      - "La Núria continua prenent vitamines."
+    explanation: "*Continuar* va amb el gerundi, sense preposició: *continua prenent*."
+
+  - id: b1-24-052
+    type: order
+    point: perifrasis-fase
+    lesson: 4
+    cue: "Digues que el metge està a punt de trucar-te."
+    chunks: ["el", "metge", "està", "a", "punt", "de", "trucar-te"]
+    extra: ["que"]
+    answers:
+      - "El metge està a punt de trucar-te."
+    explanation: "La immediatesa és *estar a punt de* + infinitiu: *el metge està a punt de trucar-te*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-24-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una visita al CAP"
+    text: |
+      La Núria es va llevar dimarts amb mal de cap i una mica de febre. Com que havia de treballar, es va prendre una pastilla i va anar a l'oficina. Però a mig matí es va posar a tremolar i la seva companya, la Fàtima, la va acompanyar al CAP del barri.
+
+      A la sala d'espera hi havia molta gent. La Núria estava a punt de trucar a la feina i avisar que no tornaria, quan la van cridar a la consulta dos. El metge li va prendre la temperatura amb el termòmetre: en tenia 38,5. Li va dir que probablement era un virus i que havia de fer repòs tres dies.
+
+      En sortir de la consulta, la Núria va anar a la farmàcia amb la recepta mèdica. El farmacèutic li va explicar que havia de prendre el xarop cada vuit hores, com diu el prospecte, i que, si tornava a tenir febre alta, havia de tornar al CAP.
+
+      Divendres, la Núria encara continuava tossint, però ja no tenia febre. Va trucar a la Fàtima: «Estic molt millor. Demà ja torno a treballar.»
+    questions:
+      - prompt: "Per què va anar la Núria al CAP?"
+        answer: "Perquè tenia febre i es va posar a tremolar a la feina."
+        distractors:
+          - text: "Perquè havia d'acompanyar la Fàtima al metge."
+            why: "És al revés: la Fàtima va acompanyar la Núria."
+          - text: "Perquè havia d'anar a la farmàcia a buscar un xarop."
+            why: "A la farmàcia hi va anar després, amb la recepta; al CAP hi va anar perquè es trobava malament."
+      - prompt: "Què li va dir el metge?"
+        answer: "Que probablement era un virus i que fes repòs tres dies."
+        distractors:
+          - text: "Que l'endemà havia de tornar a la consulta dos."
+            why: "Tornar al CAP era només si tenia febre alta; el metge li va dir que fes repòs tres dies."
+          - text: "Que tornés a treballar l'endemà."
+            why: "Al contrari: li va dir que fes repòs tres dies."
+      - prompt: "Què havia de fer la Núria amb el xarop?"
+        answer: "Prendre'l cada vuit hores."
+        distractors:
+          - text: "Prendre'l només si tenia febre."
+            why: "El xarop era cada vuit hores; tornar al CAP, només si hi havia febre alta."
+          - text: "Comprar-ne un altre divendres."
+            why: "El text no diu que comprés més xarop."
+      - prompt: "Com estava la Núria divendres?"
+        answer: "Millor: encara tossia, però ja no tenia febre."
+        distractors:
+          - text: "Igual que dimarts: amb febre alta."
+            why: "Divendres ja no tenia febre, només tos."
+          - text: "Pitjor que dimarts: amb més febre."
+            why: "Al contrari: divendres ja no tenia febre, només tos."
+    explanation: "El text explica la visita de la Núria al CAP: té un virus, ha de fer repòs i prendre un xarop."
+
+  - id: b1-24-054
+    type: transform
+    point: obligacio-probabilitat
+    lesson: 5
+    instruction: "Reescriu la frase amb *deure*."
+    source: "Potser el metge [[és a la consulta]]."
+    answers: ["El metge deu ser a la consulta."]
+    wrong_answers:
+      - text: "El metge deve ser a la consulta."
+        why: "Aquesta forma no existeix: en singular és *deu ser*."
+      - text: "El metge deuen ser a la consulta."
+        why: "«El metge» és singular: *deu ser*. *Deuen* és plural."
+    grading: tolerant
+    explanation: "«Potser» expressa una suposició: *deure* + infinitiu. En singular: *deu ser*."
+
+  - id: b1-24-055
+    type: transform
+    point: perifrasis-fase
+    lesson: 5
+    instruction: "Reescriu la frase amb *estar a punt de*."
+    source: "La infermera [[vindrà ara mateix]] amb el resultat."
+    answers: ["La infermera està a punt de venir amb el resultat."]
+    wrong_answers:
+      - text: "La infermera està a punt a venir amb el resultat."
+        why: "*Estar a punt de* porta *de*, no *a*."
+      - text: "La infermera acaba de venir amb el resultat."
+        why: "«Vindrà» és futur; *acabar de* vol dir que ja ha vingut: *està a punt de venir*."
+    grading: tolerant
+    explanation: "«Vindrà ara mateix» indica un futur immediat: *estar a punt de* + infinitiu."
+
+  - id: b1-24-056
+    type: transform
+    point: estar-continuar-gerundi
+    lesson: 5
+    instruction: "Reescriu la frase amb *continuar*."
+    source: "La ferida [[encara sagna]] malgrat la bena."
+    answers:
+      - "La ferida continua sagnant malgrat la bena."
+      - "La ferida segueix sagnant malgrat la bena."
+    wrong_answers:
+      - text: "La ferida continua a sagnar malgrat la bena."
+        why: "*Continuar* va amb el gerundi, sense *a*: *continua sagnant*."
+      - text: "La ferida torna a sagnar malgrat la bena."
+        why: "«Encara» vol dir que no ha parat; *tornar a* vol dir «després d'haver parat»: *continua sagnant*."
+    grading: tolerant
+    explanation: "«Encara» indica que l'acció no para: *continuar* + gerundi. *Sagnar* fa *sagnant*."
+
+  - id: b1-24-057
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Consells de la farmacèutica"
+    text: "Si tens una mica de febre, {has de|tens que|has} beure molta aigua i {has de|tens que|han de} fer repòs. Probablement {deu|deve|deuen} ser un refredat. Si la febre no baixa, {cal|hi ha que|han} tornar al CAP."
+    explanation: "L'obligació és *haver de* (*has de*, no *tens que*), la suposició és *deu* (*deve* no existeix) i la norma general és *cal* (no *hi ha que*)."
+
+  - id: b1-24-058
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Si vols donar sang, tens que tenir més de divuit anys."
+    error: "tens que tenir"
+    fix: "has de tenir"
+    fix_distractors:
+      - text: "has tenir"
+        why: "Falta la preposició *de*: *has de tenir*."
+      - text: "tens de tenir"
+        why: "L'obligació és *haver de*: *has de tenir*. *Tenir de* no és correcte."
+    explanation: "És una condició obligatòria en segona persona: *has de* + infinitiu. *Tenir que* és un calc de «tener que»."
+
+  - id: b1-24-059
+    type: find-error
+    point: estar-continuar-gerundi
+    lesson: 5
+    sentence: "L'Arnau està fent repòs a casa: té la grip."
+    no_error: true
+    explanation: "La frase és correcta: és una acció en curs (*estar* + gerundi) i *fer repòs* vol dir descansar per posar-se bo."
+
+  - id: b1-24-060
+    type: match
+    point: perifrasis-fase
+    lesson: 5
+    instruction: "Relaciona cada perífrasi amb el seu ús."
+    pairs:
+      - ["acabar de + infinitiu", "una cosa que ha passat fa molt poc"]
+      - ["estar a punt de + infinitiu", "una cosa que passarà d'aquí a molt poc"]
+      - ["tornar a + infinitiu", "una cosa que es repeteix"]
+      - ["posar-se a + infinitiu", "l'inici d'una acció"]
+    explanation: "Cada perífrasi situa l'acció en el temps: fa poc, d'aquí a poc, una altra vegada o a l'inici."
+
+  - id: b1-24-061
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—L'Arnau encara té la grip? —No, ja ___."
+    answer: "s'ha posat bo"
+    distractors:
+      - text: "s'ha trobat malament"
+        why: "*Trobar-se malament* vol dir sentir-se malalt, al contrari de «ja no té la grip»: *s'ha posat bo*."
+      - text: "fa repòs"
+        why: "*Fer repòs* és descansar perquè encara estàs malalt; «No» vol dir que ja no té la grip: *s'ha posat bo*."
+    explanation: "*Posar-se bo* vol dir recuperar la salut: *L'Arnau ja s'ha posat bo*."
+
+  - id: b1-24-062
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Després de dotze hores d'urgències, la infermera ___."
+    hint: "*estar fet pols*, ella"
+    answers: ["està feta pols"]
+    wrong_answers:
+      - text: "està fet pols"
+        why: "«La infermera» és femení: *feta pols*."
+      - text: "està com una rosa"
+        why: "*Estar com una rosa* és tenir molt bon aspecte; després de dotze hores, la infermera *està feta pols*."
+    grading: tolerant
+    explanation: "*Estar fet pols* descriu un cansament extrem i concorda: *la infermera està feta pols*."
+
+  - id: b1-24-063
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "«Després d'una setmana de vacances, la Montse està com una rosa.» Què vol dir?"
+    answer: "Que té molt bon aspecte i salut."
+    distractors:
+      - text: "Que s'ha posat vermella com una rosa."
+        why: "No parla del color: *estar com una rosa* vol dir tenir molt bona salut."
+      - text: "Que està cansada de tant descansar."
+        why: "Al contrari: *estar com una rosa* vol dir estar ple d'energia i salut."
+    explanation: "*Estar com una rosa* vol dir tenir molt bon aspecte i salut."
+
+  - id: b1-24-064
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que et trobes malament i que vas al metge."
+    chunks: ["em", "trobo", "malament", "i", "vaig", "al", "metge"]
+    extra: ["me"]
+    answers:
+      - "Em trobo malament i vaig al metge."
+    explanation: "*Trobar-se malament* vol dir sentir-se malalt. És pronominal: *em trobo malament*."
+
+  - id: b1-24-065
+    type: fill
+    point: perifrasis-fase
+    lesson: 5
+    prompt: "Ahir va fer deu passes amb crosses i avui el pacient ja ___ a caminar tot sol."
+    hint: "*tornar a*, ell (present)"
+    answers: ["torna"]
+    wrong_answers:
+      - text: "acaba"
+        why: "*Acabar* va amb *de*, no amb *a*."
+      - text: "segueix"
+        why: "*Seguir* va amb gerundi (*segueix caminant*); aquí l'acció es repeteix: *torna a caminar*."
+    grading: tolerant
+    explanation: "«Ahir… avui» indica una repetició: *tornar a* + infinitiu."

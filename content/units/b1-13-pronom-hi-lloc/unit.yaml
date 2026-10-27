@@ -1,0 +1,984 @@
+id: b1-13
+level: B1
+title: "El pronom hi (I): lloc"
+summary: "Aprens a fer servir *hi* per al lloc on anem o on som (*hi vaig*, *hi visc*), amb verbs de moviment (*tornar-hi*, *passar-hi*) i en expressions (*ja hi som*)."
+vocabulary_theme: "Barri, serveis i equipaments"
+points:
+  - id: hi-locatiu
+    title: "*Hi* de lloc: *hi vaig*, *hi visc*, *no hi era*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: hi-moviment
+    title: "*Hi* amb verbs de moviment: *tornar-hi*, *passar-hi*, *quedar-hi*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: hi-formes
+    title: "*Anar-hi*, *ser-hi* i la posició del pronom"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: no ometre *hi*"
+  - id: expressions
+    title: "Expressions amb *hi*"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: on anem i on som"
+  - title: "Practicar *hi*: lloc i moviment"
+  - title: "Formes, *ser-hi* i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el barri"
+    definition: "Zona d'una ciutat o d'un poble que té un nom propi."
+    example: "El nostre barri té un mercat molt bo."
+  - word: "la plaça"
+    definition: "Espai obert del barri on la gent es troba i passeja."
+    example: "Els diumenges la plaça s'omple de nens."
+  - word: "el carrer major"
+    definition: "El carrer principal d'un poble o d'un barri."
+    example: "La farmàcia és al carrer major."
+  - word: "la vorera"
+    definition: "Part del carrer on caminen les persones."
+    example: "Les voreres noves són més amples."
+  - word: "el passeig"
+    definition: "Carrer ample, sovint amb arbres, per passejar."
+    example: "Al vespre el passeig és ple de gent."
+  - word: "el parc"
+    definition: "Espai verd amb arbres, bancs i camins."
+    example: "Al parc hi ha una zona per a gossos."
+  - word: "el jardí"
+    definition: "Espai amb plantes i flors, públic o d'una casa."
+    example: "El jardí de la biblioteca és molt tranquil."
+  - word: "la font"
+    definition: "Construcció d'on surt aigua, en una plaça o un parc."
+    example: "Els nens juguen al voltant de la font."
+  - word: "el banc"
+    definition: "Seient llarg de fusta o pedra, en un parc o una plaça."
+    example: "S'asseuen al banc a llegir el diari."
+  - word: "la biblioteca"
+    definition: "Lloc on es llegeixen i es deixen llibres."
+    example: "La Laia va a la biblioteca cada dimecres."
+  - word: "el casal"
+    definition: "Local del barri on es fan activitats i cursos."
+    example: "Al casal fan un curs de cuina."
+  - word: "el centre cívic"
+    definition: "Equipament del barri amb activitats culturals i serveis."
+    example: "L'exposició és al centre cívic."
+  - word: "el CAP"
+    definition: "Centre on els veïns van quan necessiten el metge."
+    example: "Demà tinc visita al CAP a les nou."
+  - word: "la farmàcia"
+    definition: "Botiga on es venen medicaments."
+    example: "La farmàcia de guàrdia tanca a les deu."
+  - word: "el forn"
+    definition: "Botiga on es fa i es ven pa."
+    example: "Compro el pa al forn del carrer major."
+  - word: "la perruqueria"
+    definition: "Local on et tallen els cabells."
+    example: "Tinc hora a la perruqueria divendres."
+  - word: "la papereria"
+    definition: "Botiga de llibretes, bolígrafs i material d'escola."
+    example: "Compra els quaderns a la papereria."
+  - word: "el quiosc"
+    definition: "Parada petita on es venen diaris i revistes."
+    example: "El Pau compra el diari al quiosc."
+  - word: "la parada d'autobús"
+    definition: "Lloc marcat on l'autobús recull els passatgers."
+    example: "La parada d'autobús és davant del parc."
+  - word: "l'estació"
+    definition: "Lloc on arriben i surten els trens o els autobusos."
+    example: "L'estació queda a deu minuts de casa."
+  - word: "el metro"
+    definition: "Tren de la ciutat que passa per sota terra."
+    example: "El metro arriba fins a l'aeroport."
+  - word: "la piscina municipal"
+    definition: "Piscina pública del barri o del poble."
+    example: "A l'estiu els nens van a la piscina municipal."
+  - word: "el poliesportiu"
+    definition: "Edifici amb pistes i sales per fer esport."
+    example: "El poliesportiu obre a les set del matí."
+  - word: "l'escola bressol"
+    definition: "Escola per a nens de menys de tres anys."
+    example: "L'escola bressol és al costat del parc."
+  - word: "el teatre"
+    definition: "Local on es fan obres i espectacles."
+    example: "Dissabte anem al teatre amb els avis."
+  - word: "l'ajuntament"
+    definition: "Edifici del govern de la ciutat o del poble."
+    example: "Les oficines de l'ajuntament tanquen a les dues."
+  - word: "l'oficina de correus"
+    definition: "Lloc on s'envien i es recullen cartes i paquets."
+    example: "He de passar per l'oficina de correus."
+  - word: "el caixer"
+    definition: "Màquina on es treuen diners del banc."
+    example: "El caixer del carrer major no funciona."
+  - word: "el pàrquing"
+    definition: "Lloc on es deixen els cotxes."
+    example: "El pàrquing del centre és caríssim."
+  - word: "el veïnat"
+    definition: "El conjunt de veïns d'un barri o d'una escala."
+    example: "Tot el veïnat va anar a la festa."
+  - word: "passejar"
+    definition: "Caminar a poc a poc per un carrer o un parc."
+    example: "Al vespre passegem pel barri."
+  - word: "apuntar-se"
+    definition: "Escriure el teu nom en una llista per fer una activitat."
+    example: "La Núria s'ha apuntat al curs de ioga."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-13-001
+    type: choice
+    point: hi-locatiu
+    lesson: 1
+    prompt: "—Vas a la piscina? —Sí, ___ vaig cada dimecres."
+    answer: "hi"
+    distractors:
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un *això*, no un lloc com «la piscina»."
+      - text: "la"
+        why: "*La* és complement directe femení. «A la piscina» és un lloc, introduït per *a*."
+    explanation: "«A la piscina» és el lloc on vas. Un lloc se substitueix per *hi*: *hi vaig*."
+
+  - id: b1-13-002
+    type: choice
+    point: hi-locatiu
+    lesson: 1
+    prompt: "La Carla viu a Girona des de fa un any. ___ viu amb la seva germana."
+    answer: "Hi"
+    distractors:
+      - text: "Ho"
+        why: "*Ho* substitueix una idea o un *això*, no un lloc com «Girona»."
+      - text: "La"
+        why: "*La* és complement directe («la veig»). «A Girona» és un lloc."
+    explanation: "«A Girona» és on viu la Carla: *hi viu amb la seva germana*."
+
+  - id: b1-13-003
+    type: choice
+    point: hi-locatiu
+    lesson: 1
+    prompt: "Ahir a la tarda vaig anar al quiosc. ___ era la Laia, comprant el diari."
+    answer: "Hi"
+    distractors:
+      - text: "Ho"
+        why: "*Ho* no substitueix un lloc."
+      - text: "L'"
+        why: "*L'* és complement directe («l'ajudo»). «Al quiosc» és un lloc."
+    explanation: "«Al quiosc» és on era la Laia: *hi era*. *Hi* també va amb el verb en passat."
+
+  - id: b1-13-004
+    type: choice
+    point: hi-moviment
+    lesson: 1
+    prompt: "—Tornes al casal demà? —Sí, ___ torno a les cinc."
+    answer: "hi"
+    distractors:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+      - text: "el"
+        why: "*El* és complement directe. «Al casal» és el lloc on tornes."
+    explanation: "«Al casal» és el lloc on tornes: *hi torno a les cinc*."
+
+  - id: b1-13-005
+    type: choice
+    point: hi-moviment
+    lesson: 1
+    prompt: "—A quina hora entreu al teatre? —___ entrem a les vuit."
+    answer: "Hi"
+    distractors:
+      - text: "Ho"
+        why: "*Ho* no substitueix un lloc."
+      - text: "El"
+        why: "*El* és complement directe. «Al teatre» és on entreu."
+    explanation: "«Al teatre» és on entreu: *hi entrem a les vuit*."
+
+  - id: b1-13-006
+    type: choice
+    point: hi-formes
+    lesson: 1
+    prompt: "Vols anar al poliesportiu demà. Quina frase és correcta?"
+    answer: "Hi vull anar demà."
+    distractors:
+      - text: "Vull hi anar demà."
+        why: "*Hi* no pot anar entre *vull* i l'infinitiu: va davant del verb, *hi vull anar*, o darrere, *vull anar-hi*."
+      - text: "Ho vull anar demà."
+        why: "*Ho* no substitueix un lloc."
+    explanation: "Amb un verb modal, *hi* va davant del verb (*hi vull anar*) o darrere l'infinitiu (*vull anar-hi*)."
+
+  - id: b1-13-007
+    type: inline-choice
+    point: hi-locatiu
+    lesson: 1
+    title: "Missatge a la Laia"
+    text: "Laia, demà anem al centre cívic? Jo {hi|ho|la} vaig cada dijous a ioga: m'hi he apuntat aquest mes. La Núria també {hi|ho|li} va, i després dinem juntes. L'any passat no {hi|ho|les} anava mai, però ara m'agrada molt."
+    explanation: "El centre cívic és on van: sempre *hi*. *Hi* també va en passat: *no hi anava mai*."
+
+  - id: b1-13-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["no hi ha res a fer", "El metge diu que el genoll ja no es curarà."]
+      - ["ja hi som", "Baixes del tren i truques a la teva germana."]
+      - ["hi ha d'haver", "Creus que segur que existeix una solució."]
+      - ["tant hi fa", "Et donen a triar entre dos horaris i tots dos et van bé."]
+    explanation: "Són quatre expressions molt habituals amb *hi*. *Ja hi som* es diu en arribar a un lloc."
+
+  - id: b1-13-009
+    type: fill
+    point: hi-locatiu
+    lesson: 1
+    prompt: "—Vas sovint al poliesportiu? —Sí, ___ vaig tres cops per setmana."
+    hint: "pronom per a «al poliesportiu»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* substitueix una idea, no un lloc."
+    grading: tolerant
+    explanation: "«Al poliesportiu» és on vas: *hi vaig tres cops per setmana*."
+
+  - id: b1-13-010
+    type: fill
+    point: hi-locatiu
+    lesson: 1
+    prompt: "L'Ibrahim treballa a l'oficina de correus: ___ treballa des de fa deu anys."
+    hint: "pronom per a «a l'oficina de correus»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A l'oficina de correus» és on treballa: *hi treballa*."
+
+  - id: b1-13-011
+    type: fill
+    point: hi-moviment
+    lesson: 1
+    prompt: "—A quina hora arribeu a l'estació? —___ arribem a les nou."
+    hint: "pronom per a «a l'estació»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A l'estació» és on arribeu: *hi arribem a les nou*."
+
+  - id: b1-13-012
+    type: order
+    point: hi-locatiu
+    lesson: 1
+    cue: "Un veí et pregunta si vas a la biblioteca. Respon que hi vas cada dimecres."
+    chunks: ["hi", "vaig", "cada", "dimecres"]
+    extra: ["ho"]
+    answers:
+      - "Hi vaig cada dimecres."
+      - "Cada dimecres hi vaig."
+    explanation: "El pronom va davant del verb: *hi vaig*. «Cada dimecres» diu quan, no on."
+
+  - id: b1-13-013
+    type: order
+    point: hi-moviment
+    lesson: 1
+    cue: "Explica que la teva filla torna al casal demà a la tarda."
+    chunks: ["la meva filla", "hi", "torna", "demà a la tarda"]
+    extra: ["ho"]
+    answers:
+      - "La meva filla hi torna demà a la tarda."
+      - "Demà a la tarda la meva filla hi torna."
+    explanation: "«Al casal» es converteix en *hi*, davant del verb: *hi torna*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-13-014
+    type: fill
+    point: hi-locatiu
+    lesson: 2
+    prompt: "—Vius al barri vell? —Sí, ___ visc des de petita."
+    hint: "pronom per a «al barri vell»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«Al barri vell» és on vius: *hi visc des de petita*."
+
+  - id: b1-13-015
+    type: fill
+    point: hi-locatiu
+    lesson: 2
+    prompt: "—Vau anar a la festa del barri? —Sí, ___ vam anar dissabte."
+    hint: "pronom per a «a la festa»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "Vam anar a la festa: *hi vam anar dissabte*. *Hi* també va amb el verb en passat."
+
+  - id: b1-13-016
+    type: fill
+    point: hi-moviment
+    lesson: 2
+    prompt: "—Passeu per Olot de camí a Puigcerdà? —Sí, ___ passem al migdia."
+    hint: "pronom per a «per Olot»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "*Hi passem*: passar per un lloc també porta *hi*."
+
+  - id: b1-13-017
+    type: fill
+    point: hi-moviment
+    lesson: 2
+    prompt: "La Montse i el Jordi queden a la plaça cada divendres: ___ queden a les sis."
+    hint: "pronom per a «a la plaça»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "*Hi queden*: el lloc on queden també se substitueix per *hi*."
+
+  - id: b1-13-018
+    type: fill
+    point: hi-formes
+    lesson: 2
+    prompt: "Demà volem anar a la piscina municipal: volem anar-___ al matí."
+    hint: "pronom de lloc, darrere l'infinitiu"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Anar-ho* no és correcte: *ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "Darrere de l'infinitiu, el pronom va amb guionet: *volem anar-hi*."
+
+  - id: b1-13-019
+    type: order
+    point: hi-moviment
+    lesson: 2
+    cue: "Digues que demà entres a la biblioteca a les deu."
+    chunks: ["demà", "hi", "entro", "a les deu"]
+    extra: ["ho"]
+    answers:
+      - "Demà hi entro a les deu."
+      - "Hi entro demà a les deu."
+    explanation: "«A la biblioteca» és on entres: *hi entro*."
+
+  - id: b1-13-020
+    type: order
+    point: hi-formes
+    lesson: 2
+    cue: "A l'estació de metro, digues a un amic que vols anar al parc amb ell demà."
+    chunks: ["vull", "anar-hi", "amb tu", "demà"]
+    extra: ["anar-ho"]
+    answers:
+      - "Vull anar-hi amb tu demà."
+      - "Demà vull anar-hi amb tu."
+    explanation: "Darrere de l'infinitiu, *hi* va amb guionet: *anar-hi*."
+
+  - id: b1-13-021
+    type: choice
+    point: hi-formes
+    lesson: 2
+    prompt: "A un amic que va al CAP, li dius: «___ d'hora, que sempre hi ha cua!»"
+    answer: "Ves-hi"
+    distractors:
+      - text: "Ves-ho"
+        why: "*Ho* no substitueix un lloc."
+      - text: "Hi ves"
+        why: "Amb l'imperatiu afirmatiu el pronom va darrere: *ves-hi*."
+    explanation: "Amb l'imperatiu, el pronom va darrere amb guionet: *ves-hi*."
+
+  - id: b1-13-022
+    type: choice
+    point: hi-formes
+    lesson: 2
+    prompt: "Truques al CAP i preguntes per la doctora. Quina pregunta és correcta?"
+    answer: "Hi és, la doctora Soler?"
+    distractors:
+      - text: "És, la doctora Soler?"
+        why: "Sense *hi* la frase queda incompleta: per preguntar si algú és present diem *hi és*."
+      - text: "Ho és, la doctora Soler?"
+        why: "*Ho és* parla d'una qualitat («és metgessa»), no de la presència."
+    explanation: "Per preguntar si algú és present, fem servir *ser-hi*: *hi és*."
+
+  - id: b1-13-023
+    type: choice
+    point: hi-moviment
+    lesson: 2
+    prompt: "—Vindràs a la festa del casal? —Sí, ___ vindré amb els nens."
+    answer: "hi"
+    distractors:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+      - text: "la"
+        why: "*La* és complement directe. «A la festa» és un lloc."
+    explanation: "«A la festa» és on vindràs: *hi vindré amb els nens*."
+
+  - id: b1-13-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Arribes a l'estació i truques a la teva germana: «___!»"
+    answer: "Ja hi som"
+    distractors:
+      - text: "Ja ho som"
+        why: "L'expressió feta és amb *hi*: *ja hi som*."
+      - text: "Ja som"
+        why: "Sense *hi* queda incomplet: l'expressió feta és *ja hi som*."
+    explanation: "*Ja hi som* és l'expressió que es diu en arribar a un lloc."
+
+  - id: b1-13-025
+    type: choice
+    point: hi-formes
+    lesson: 2
+    prompt: "Quina frase és correcta?"
+    answer: "Vull anar-hi demà."
+    distractors:
+      - text: "Vull hi anar demà."
+        why: "*Hi* no pot anar entre el verb conjugat i l'infinitiu."
+      - text: "Vull anar-ho demà."
+        why: "*Ho* no substitueix un lloc."
+    explanation: "Darrere de l'infinitiu el pronom va amb guionet: *anar-hi*. (També pots dir *hi vull anar*.)"
+
+  - id: b1-13-026
+    type: inline-choice
+    point: hi-moviment
+    lesson: 2
+    title: "Cap de setmana a Tarragona"
+    text: "La setmana que ve anem a Tarragona. Dissabte {hi|ho|la} anem al matí i {hi|ho|el} tornem diumenge al vespre. Diumenge {hi|ho|li} dinem amb els meus oncles i a la tarda passegem pel barri vell. A les vuit ja {hi|ho|la} som, cansats però contents."
+    explanation: "Tarragona és on van, on tornen i on dinen: sempre *hi*. Al final, *hi som* vol dir que ja són allà."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-13-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Vas a la platja? —Sí, vaig cada diumenge."
+    error: "vaig cada diumenge"
+    fix: "hi vaig cada diumenge"
+    fix_distractors:
+      - text: "ho vaig cada diumenge"
+        why: "*Ho* no substitueix un lloc."
+      - text: "la vaig cada diumenge"
+        why: "*La* és complement directe; «a la platja» és un lloc."
+    explanation: "Sense *hi* és un calc del castellà «voy cada domingo». Si no repetim el lloc, cal *hi vaig*."
+
+  - id: b1-13-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Vius a Vic? —Sí, visc des de fa tres anys."
+    error: "visc des de fa tres anys"
+    fix: "hi visc des de fa tres anys"
+    fix_distractors:
+      - text: "ho visc des de fa tres anys"
+        why: "*Ho* no substitueix un lloc."
+      - text: "la visc des de fa tres anys"
+        why: "*La* és complement directe; «a Vic» és un lloc."
+    explanation: "Sense *hi* és un calc del castellà «vivo desde hace». En català: *hi visc des de fa tres anys*."
+
+  - id: b1-13-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—Vas sovint al teatre? —Sí, hi vaig cada mes."
+    no_error: true
+    explanation: "La frase és correcta: el lloc no es repeteix i el pronom *hi* hi és: *hi vaig cada mes*."
+
+  - id: b1-13-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "—A quina hora vas a la perruqueria? —Vaig a les vuit."
+    error: "Vaig a les vuit"
+    fix: "Hi vaig a les vuit"
+    fix_distractors:
+      - text: "Ho vaig a les vuit"
+        why: "*Ho* no substitueix un lloc."
+      - text: "La vaig a les vuit"
+        why: "*La* és complement directe; «a la perruqueria» és un lloc."
+    explanation: "Sense *hi* és un calc del castellà «voy». En català: *hi vaig a les vuit*."
+
+  - id: b1-13-031
+    type: find-error
+    point: hi-formes
+    lesson: 3
+    sentence: "El Pau va a la piscina cada dia. Demà vull hi anar amb ell."
+    error: "vull hi anar"
+    fix: "hi vull anar"
+    fix_distractors:
+      - text: "vull anar-ho"
+        why: "*Ho* no substitueix un lloc."
+      - text: "ho vull anar"
+        why: "*Ho* és per a una idea, no per a «la piscina»."
+    explanation: "*Hi* no pot anar entre el verb i l'infinitiu. Davant del verb conjugat: *hi vull anar*."
+
+  - id: b1-13-032
+    type: find-error
+    point: hi-moviment
+    lesson: 3
+    sentence: "Marxem d'Andorra demà, però hi tornem al setembre."
+    no_error: true
+    explanation: "La frase és correcta: *hi tornem* vol dir que tornaran a Andorra al setembre."
+
+  - id: b1-13-033
+    type: fill
+    point: hi-formes
+    lesson: 3
+    prompt: "—___ és el conserge? L'espero al banc de la vorera."
+    hint: "verb *ser-hi*, present"
+    answers: ["Hi"]
+    wrong_answers:
+      - text: "Ho"
+        why: "*Ho és* parla d'una qualitat, no de la presència."
+    grading: tolerant
+    explanation: "Per preguntar si algú és present: *hi és*."
+
+  - id: b1-13-034
+    type: fill
+    point: hi-formes
+    lesson: 3
+    prompt: "La biblioteca tanca a les vuit: ves-___ abans de sopar."
+    hint: "pronom de lloc, darrere l'imperatiu"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "Amb l'imperatiu, el pronom va darrere amb guionet: *ves-hi*."
+
+  - id: b1-13-035
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "—Anireu a la festa del barri? —Sí, ___ anirem tota la família."
+    hint: "pronom per a «a la festa»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "Sense *hi* seria un calc del castellà «iremos». En català: *hi anirem*."
+
+  - id: b1-13-036
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "—Tornes al poliesportiu demà? —Quina resposta és correcta?"
+    answer: "Sí, hi torno a les set."
+    distractors:
+      - text: "Sí, torno a les set."
+        why: "Sense *hi* és un calc del castellà «vuelvo»."
+      - text: "Sí, ho torno a les set."
+        why: "*Ho* no substitueix un lloc."
+    explanation: "Si no repetim el lloc, *hi* és obligatori: *hi torno a les set*."
+
+  - id: b1-13-037
+    type: choice
+    point: hi-formes
+    lesson: 3
+    prompt: "La Montse no és a l'ajuntament. Quina frase ho diu?"
+    answer: "No hi és."
+    distractors:
+      - text: "No és."
+        why: "*No és* queda incomplet: falta dir on no és. Per a la presència cal *hi*: *no hi és*."
+      - text: "No ho és."
+        why: "*No ho és* nega una qualitat, no diu que no és present."
+    explanation: "*No hi és* vol dir que no és present, que no és allà."
+
+  - id: b1-13-038
+    type: choice
+    point: hi-moviment
+    lesson: 3
+    prompt: "Plou molt i la Núria és a casa de la seva mare. La mare li diu: «___ fins demà!»"
+    answer: "Queda-t'hi"
+    distractors:
+      - text: "Queda-hi"
+        why: "El verb és pronominal (*quedar-se*): cal el pronom *et*, que davant de *hi* és *t'*: *queda-t'hi*."
+      - text: "Queda-t'ho"
+        why: "*Ho* no substitueix un lloc."
+    explanation: "*Quedar-se* és pronominal: *queda't* + *hi* donen *queda-t'hi*."
+
+  - id: b1-13-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Escrius a un amic que és a Girona. Quina frase és correcta?"
+    answer: "Diumenge hi aniré i dinarem junts."
+    distractors:
+      - text: "Diumenge aniré i dinarem junts."
+        why: "Sense *hi* és un calc del castellà; a més, no se sap on aniràs."
+      - text: "Diumenge ho aniré i dinarem junts."
+        why: "*Ho* no substitueix un lloc."
+    explanation: "El lloc no es repeteix, però el pronom no pot desaparèixer: *hi aniré*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-13-040
+    type: transform
+    point: hi-locatiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Visc [[a Gràcia]] des de fa anys."
+    answers:
+      - "Hi visc des de fa anys."
+      - "Des de fa anys hi visc."
+    wrong_answers:
+      - text: "Ho visc des de fa anys."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A Gràcia» és on vius: *hi visc des de fa anys*."
+
+  - id: b1-13-041
+    type: transform
+    point: hi-locatiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Vaig [[a ioga]] amb la Fàtima cada dijous."
+    answers:
+      - "Hi vaig amb la Fàtima cada dijous."
+      - "Cada dijous hi vaig amb la Fàtima."
+    wrong_answers:
+      - text: "Ho vaig amb la Fàtima cada dijous."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A ioga» és on vas: *hi vaig*."
+
+  - id: b1-13-042
+    type: transform
+    point: hi-moviment
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Demà tornem [[a Barcelona]] amb el tren de les vuit."
+    answers:
+      - "Demà hi tornem amb el tren de les vuit."
+      - "Hi tornem demà amb el tren de les vuit."
+    wrong_answers:
+      - text: "Demà ho tornem amb el tren de les vuit."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A Barcelona» és on tornen: *hi tornem*."
+
+  - id: b1-13-043
+    type: transform
+    point: hi-moviment
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Hem quedat [[al casal]] a les sis."
+    answers:
+      - "Hi hem quedat a les sis."
+      - "A les sis hi hem quedat."
+    wrong_answers:
+      - text: "Ho hem quedat a les sis."
+        why: "*Ho* no substitueix un lloc."
+      - text: "Hem quedat-hi a les sis."
+        why: "*Hi* va davant del verb conjugat, no darrere: *hi hem quedat*."
+    grading: tolerant
+    explanation: "«Al casal» és on han quedat: *hi hem quedat*."
+
+  - id: b1-13-044
+    type: transform
+    point: hi-formes
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Volem anar [[al caixer]] dissabte."
+    answers:
+      - "Hi volem anar dissabte."
+      - "Volem anar-hi dissabte."
+      - "Dissabte hi volem anar."
+      - "Dissabte volem anar-hi."
+    wrong_answers:
+      - text: "Volem hi anar dissabte."
+        why: "*Hi* no pot anar entre el verb i l'infinitiu."
+      - text: "Ho volem anar dissabte."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "El pronom va davant del verb (*hi volem anar*) o darrere l'infinitiu (*volem anar-hi*)."
+
+  - id: b1-13-045
+    type: transform
+    point: hi-formes
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Ves [[a la farmàcia]] abans de dinar."
+    answers:
+      - "Ves-hi abans de dinar."
+      - "Abans de dinar ves-hi."
+    wrong_answers:
+      - text: "Ves-ho abans de dinar."
+        why: "*Ho* no substitueix un lloc."
+      - text: "Hi ves abans de dinar."
+        why: "Amb l'imperatiu el pronom va darrere: *ves-hi*."
+    grading: tolerant
+    explanation: "Amb l'imperatiu, el pronom va darrere amb guionet: *ves-hi*."
+
+  - id: b1-13-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Afegeix el pronom *hi* on calgui."
+    source: "—Tornareu al poble per Nadal? —Sí, [[tornarem]]."
+    answers:
+      - "—Tornareu al poble per Nadal? —Sí, hi tornarem."
+    wrong_answers:
+      - text: "—Tornareu al poble per Nadal? —Sí, tornarem."
+        why: "Sense *hi* és un calc del castellà «volveremos»."
+      - text: "—Tornareu al poble per Nadal? —Sí, ho tornarem."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "En la resposta curta, el lloc no es repeteix, però *hi* és obligatori: *hi tornarem*."
+
+  - id: b1-13-047
+    type: fill
+    point: hi-formes
+    lesson: 4
+    prompt: "Si aneu al mercat, aneu-___ d'hora, que tanquen a les dues."
+    hint: "pronom de lloc, darrere l'imperatiu"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "Amb l'imperatiu de *vosaltres*, el pronom també va darrere: *aneu-hi*."
+
+  - id: b1-13-048
+    type: fill
+    point: hi-moviment
+    lesson: 4
+    prompt: "—Que vindreu a la calçotada? —Sí, ___ vindrem tota la colla."
+    hint: "pronom per a «a la calçotada»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A la calçotada» és on vindran: *hi vindrem tota la colla*."
+
+  - id: b1-13-049
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "El cotxe no arrenca i el mecànic diu que no ___ ha res a fer."
+    hint: "pronom de lloc"
+    answers: ["hi"]
+    grading: tolerant
+    explanation: "*No hi ha res a fer* vol dir que no té solució."
+
+  - id: b1-13-050
+    type: order
+    point: hi-formes
+    lesson: 4
+    cue: "Digues a la teva mare que vols anar a la piscina amb la teva germana."
+    chunks: ["hi", "vull", "anar", "amb la meva germana"]
+    extra: ["ho"]
+    answers:
+      - "Hi vull anar amb la meva germana."
+      - "Amb la meva germana hi vull anar."
+    explanation: "Davant del verb conjugat: *hi vull anar*. (Darrere l'infinitiu també seria correcte: *vull anar-hi*.)"
+
+  - id: b1-13-051
+    type: order
+    point: hi-locatiu
+    lesson: 4
+    cue: "Explica que l'any passat no eres al barri per la festa major."
+    chunks: ["l'any passat", "no", "hi", "era"]
+    extra: ["ho"]
+    answers:
+      - "L'any passat no hi era."
+      - "No hi era l'any passat."
+    explanation: "*No hi era*: *hi* també va amb el verb en passat."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-13-052
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "El barri de la Laia"
+    text: |
+      La Laia viu al barri de Sant Narcís de Girona des de fa cinc anys. Diu que hi viu més tranquil·la que al centre, on vivia abans: hi ha menys cotxes, les voreres són amples i el veïnat es coneix.
+
+      Cada matí va a la piscina municipal, que és a deu minuts de casa. Hi va a les set, abans de la feina, i hi nada mitja hora. Després esmorza al forn del carrer major, i sempre hi troba la mateixa colla.
+
+      Els dimarts i els dijous va al centre cívic: hi fa un curs de ceràmica i, quan surt, passa per la biblioteca a tornar llibres. «Hi vaig cada setmana —diu la Laia—. Hi ha una sala molt tranquil·la i un jardí petit, i sempre hi trobo el que busco.»
+
+      El cap de setmana queda amb els amics a la plaça del barri, al costat de la parada d'autobús. Dissabte passat hi van anar tots, fins i tot el Wei, que viu a Salt. Van sopar a la terrassa del casal i després van passejar pel passeig fins a la font.
+
+      «El meu barri m'encanta —diu la Laia—. Tot és a prop i hi visc molt bé.»
+    questions:
+      - prompt: "On viu la Laia?"
+        answer: "A Sant Narcís de Girona."
+        distractors:
+          - text: "Al centre de Girona."
+            why: "Al centre hi vivia abans; ara viu a Sant Narcís."
+          - text: "A Salt, amb el Wei."
+            why: "A Salt hi viu el Wei, no la Laia."
+      - prompt: "Què fa la Laia cada matí?"
+        answer: "Nada a la piscina abans de treballar."
+        distractors:
+          - text: "Esmorza amb la colla al forn."
+            why: "Esmorza després de nedar."
+          - text: "Va al curs de ceràmica."
+            why: "El curs és dimarts i dijous, no cada matí."
+      - prompt: "Què fa la Laia a la biblioteca?"
+        answer: "Torna llibres i busca el que necessita."
+        distractors:
+          - text: "Fa el curs de ceràmica."
+            why: "El curs és al centre cívic."
+          - text: "Treballa a la sala tranquil·la."
+            why: "El text no diu que hi treballi: hi torna llibres i hi busca el que necessita."
+      - prompt: "Qui va anar dissabte a la plaça?"
+        answer: "La Laia, els seus amics i el Wei."
+        distractors:
+          - text: "Només la Laia i el Wei."
+            why: "Hi van anar tots els amics."
+          - text: "Tot el veïnat del barri."
+            why: "El text parla dels amics, no de tot el veïnat."
+    explanation: "El text explica la vida de la Laia al seu barri: on viu, què hi fa cada dia i amb qui hi queda."
+
+  - id: b1-13-053
+    type: transform
+    point: hi-moviment
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Venim [[a Girona]] tres dies i deixarem el cotxe al pàrquing."
+    answers:
+      - "Hi venim tres dies i deixarem el cotxe al pàrquing."
+    wrong_answers:
+      - text: "Ho venim tres dies i deixarem el cotxe al pàrquing."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A Girona» és on venen: *hi venim tres dies*."
+
+  - id: b1-13-054
+    type: transform
+    point: hi-locatiu
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "La meva germana treballa [[a l'escola bressol]]."
+    answers:
+      - "La meva germana hi treballa."
+    wrong_answers:
+      - text: "La meva germana ho treballa."
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "«A l'escola bressol» és on treballa: *hi treballa*."
+
+  - id: b1-13-055
+    type: inline-choice
+    point: hi-moviment
+    lesson: 5
+    title: "Quedem dissabte"
+    text: "El Pau escriu a la Carla: «Dissabte vaig a Vic amb els pares. {Hi|Ho|La} vaig al matí i torno a la nit. Tu {hi|ho|la} vindràs? {Hi|Ho|La} serem dissabte, no faltis!»"
+    explanation: "Vic és on va, on vindrà la Carla i on seran: sempre *hi*."
+
+  - id: b1-13-056
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "—Aniràs al casament del Pau? —Sí, aniré amb la Laia."
+    error: "aniré amb la Laia"
+    fix: "hi aniré amb la Laia"
+    fix_distractors:
+      - text: "ho aniré amb la Laia"
+        why: "*Ho* no substitueix un lloc."
+      - text: "li aniré amb la Laia"
+        why: "*Li* és complement indirecte, per a una persona; «al casament» és un lloc."
+    explanation: "Sense *hi* és un calc del castellà «iré». Si no repetim el lloc: *hi aniré*."
+
+  - id: b1-13-057
+    type: find-error
+    point: hi-formes
+    lesson: 5
+    sentence: "Si voleu venir al concert, veniu-hi d'hora, que s'omple."
+    no_error: true
+    explanation: "La frase és correcta: amb l'imperatiu el pronom va darrere (*veniu-hi*)."
+
+  - id: b1-13-058
+    type: match
+    point: hi-formes
+    lesson: 5
+    instruction: "Relaciona cada forma amb el seu ús."
+    pairs:
+      - ["anar-hi", "infinitiu"]
+      - ["ves-hi", "imperatiu (tu)"]
+      - ["aneu-hi", "imperatiu (vosaltres)"]
+      - ["anant-hi", "gerundi"]
+    explanation: "Darrere de l'infinitiu, del gerundi i de l'imperatiu, *hi* va amb guionet."
+
+  - id: b1-13-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Proves d'arreglar l'ordinador tres vegades i no funciona. Què dius?"
+    answer: "No hi ha res a fer."
+    distractors:
+      - text: "Ja hi som tots."
+        why: "*Ja hi som* es diu en arribar a un lloc, no quan una cosa no té solució."
+      - text: "Tant hi fa."
+        why: "*Tant hi fa* vol dir que és igual, no que no té solució."
+    explanation: "*No hi ha res a fer* vol dir que una cosa no té solució."
+
+  - id: b1-13-060
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Et donen a triar entre el torn de matí i el de tarda, i tots dos et van bé. Què dius?"
+    answer: "Tant hi fa."
+    distractors:
+      - text: "No hi ha res a fer."
+        why: "Això vol dir que no té solució, no que és igual."
+      - text: "Ja hi som."
+        why: "*Ja hi som* es diu en arribar a un lloc."
+    explanation: "*Tant hi fa* vol dir que és igual, que les opcions et van bé."
+
+  - id: b1-13-061
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "La Núria explica per què no era a la reunió. Quina frase és correcta?"
+    answer: "No hi vaig ser a temps."
+    distractors:
+      - text: "No vaig ser a temps."
+        why: "Sense *hi* la frase queda incompleta: *no hi vaig ser*."
+      - text: "No ho vaig ser a temps."
+        why: "*Ho* no substitueix un lloc."
+    explanation: "*Ser-hi* també va en passat: *no hi vaig ser*. Sense *hi*, la frase queda incompleta."
+
+  - id: b1-13-062
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—No trobo el paraigua. —Busca bé, que ___ ha d'haver a l'entrada."
+    hint: "pronom de lloc"
+    answers: ["hi"]
+    grading: tolerant
+    explanation: "*Hi ha d'haver* vol dir que és segur que existeix: el paraigua és a l'entrada."
+
+  - id: b1-13-063
+    type: fill
+    point: hi-moviment
+    lesson: 5
+    prompt: "—Passeu per la papereria? —Sí, ___ passarem després de dinar."
+    hint: "pronom per a «per la papereria»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "*Ho* no substitueix un lloc."
+    grading: tolerant
+    explanation: "*Hi passarem*: passar per un lloc també porta *hi*."
+
+  - id: b1-13-064
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Sou un grup i acabeu d'arribar. Digueu que ja hi sou tots."
+    chunks: ["ja", "hi", "som", "tots"]
+    extra: ["ho"]
+    answers:
+      - "Ja hi som tots."
+    explanation: "*Ja hi som tots* es diu en arribar a un lloc."

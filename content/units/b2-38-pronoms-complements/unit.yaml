@@ -1,0 +1,1026 @@
+id: b2-38
+level: B2
+title: "Els pronoms febles en tots els complements"
+summary: "Substitució del complement de règim, del lloc, de la manera, de l'atribut i del predicatiu, i de frases senceres: el format de l'exercici 4 de l'examen, en el context de la justícia."
+vocabulary_theme: "Justícia i societat"
+points:
+  - id: hi-complements
+    title: "El pronom *hi*: règim, lloc i manera"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: en-complements
+    title: "El pronom *en*: el complement amb *de*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: atribut-predicatiu
+    title: "L'atribut, el predicatiu i les frases senceres"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-omissio
+    title: "Compte amb el castellà: el pronom que no es pot ometre"
+    refs:
+      - label: "Optimot: Pronoms febles"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions amb *hi* i *en*"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: hi i en"
+  - title: "Practicar hi i en"
+  - title: "Atribut, predicatiu i el pronom que no s'omet"
+  - title: "Produir: substitueix-ho tot"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el judici"
+    definition: "Procés en què el jutge escolta les parts i decideix qui té la raó."
+    example: "El judici començarà al gener."
+  - word: "la vista"
+    definition: "Sessió del judici en què les parts parlen davant del jutge."
+    example: "La vista de dimarts va durar dues hores."
+  - word: "el jutjat"
+    definition: "Oficina del jutge on es porten els casos."
+    example: "La denúncia ja ha arribat al jutjat."
+  - word: "el tribunal"
+    definition: "Conjunt de jutges que decideixen un cas."
+    example: "El tribunal es reunirà dilluns."
+  - word: "la sala"
+    definition: "Habitació on es fan les vistes."
+    example: "La sala era plena de periodistes."
+  - word: "el jutge, la jutgessa"
+    definition: "Persona que dirigeix el judici i dicta la sentència."
+    example: "La jutgessa va escoltar les dues parts."
+  - word: "l'acusat, l'acusada"
+    definition: "Persona a qui s'acusa d'un delicte en un judici."
+    example: "L'acusat va negar els fets."
+  - word: "l'advocat, l'advocada"
+    definition: "Persona que defensa una de les parts en un judici."
+    example: "La meva advocada em truca demà."
+  - word: "el fiscal, la fiscal"
+    definition: "Persona que acusa en nom de l'Estat."
+    example: "El fiscal va demanar tres anys de presó."
+  - word: "el testimoni, la testimoni"
+    definition: "Persona que explica al judici allò que ha vist."
+    example: "Dos testimonis van declarar a favor de l'acusat."
+  - word: "la sentència"
+    definition: "Decisió final del jutge."
+    example: "Encara no s'ha publicat la sentència."
+  - word: "el veredicte"
+    definition: "Decisió sobre la culpabilitat de l'acusat."
+    example: "El veredicte va ser d'innocència."
+  - word: "el jurat"
+    definition: "Grup de ciutadans que decideix el veredicte."
+    example: "El jurat es va reunir durant tres hores."
+  - word: "el delicte"
+    definition: "Acció contra la llei que es pot castigar."
+    example: "Conduir begut és un delicte."
+  - word: "la multa"
+    definition: "Diners que cal pagar com a càstig."
+    example: "Li van posar una multa per aparcar malament."
+  - word: "la presó"
+    definition: "Edifici on compleixen la condemna les persones condemnades."
+    example: "El van condemnar a dos anys de presó."
+  - word: "la condemna"
+    definition: "Pena que imposa la sentència."
+    example: "La condemna va ser de cinc anys de presó."
+  - word: "condemnar"
+    definition: "Declarar culpable i imposar una pena."
+    example: "El van condemnar a pagar una multa."
+  - word: "absoldre"
+    definition: "Declarar innocent."
+    example: "El jurat el va absoldre per falta de proves."
+  - word: "innocent"
+    definition: "Que no ha comès el delicte."
+    example: "Es va declarar innocent davant del jutge."
+  - word: "culpable"
+    definition: "Que ha comès el delicte."
+    example: "El jurat el va declarar culpable."
+  - word: "la denúncia"
+    definition: "Comunicació d'un delicte a la policia."
+    example: "Va posar una denúncia a la comissaria."
+  - word: "denunciar"
+    definition: "Comunicar un delicte a la policia o al jutjat."
+    example: "La veïna va denunciar el soroll."
+  - word: "el recurs"
+    definition: "Escrit per demanar que es revisi una sentència."
+    example: "L'advocat va presentar un recurs."
+  - word: "recórrer"
+    definition: "Presentar un recurs contra una sentència."
+    example: "Van recórrer contra la sentència al març."
+  - word: "la prova"
+    definition: "Fet o objecte que demostra la veritat."
+    example: "La gravació és la prova principal."
+  - word: "declarar"
+    definition: "Explicar els fets davant del jutge."
+    example: "El testimoni va declarar durant una hora."
+  - word: "jutjar"
+    definition: "Decidir en un judici qui té la raó."
+    example: "La jutjaran a Girona al gener."
+  - word: "la llei"
+    definition: "Norma general que tothom ha de respectar."
+    example: "La llei protegeix els llogaters."
+  - word: "just, justa"
+    definition: "Conforme a la justícia."
+    example: "Va ser una sentència justa."
+  - word: "injust, injusta"
+    definition: "Contrari a la justícia."
+    example: "Troba injusta la multa."
+  - word: "la igualtat"
+    definition: "Fet que totes les persones tinguin els mateixos drets."
+    example: "La igualtat davant la llei."
+  - word: "la convivència"
+    definition: "Fet de viure juntes, sense conflictes, persones diferents."
+    example: "El soroll trenca la convivència."
+  - word: "el conflicte"
+    definition: "Desacord greu entre persones."
+    example: "Hi ha un conflicte entre dos veïns."
+  - word: "la mediació"
+    definition: "Ajuda d'una tercera persona per resoldre un conflicte."
+    example: "Van resoldre el conflicte amb una mediació."
+  - word: "l'expedient"
+    definition: "Conjunt de papers d'un cas."
+    example: "L'expedient té tres-centes pàgines."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-38-001
+    type: choice
+    point: hi-complements
+    lesson: 1
+    prompt: "—Vas anar a la vista d'ahir? —Sí, ___ vaig anar amb la Carla."
+    answer: "hi"
+    distractors:
+      - text: "en"
+        why: "«A la vista» porta *a*, no *de*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un lloc."
+    explanation: "«A la vista» és un complement de lloc amb *a*: el pronom és *hi*."
+
+  - id: b2-38-002
+    type: choice
+    point: hi-complements
+    lesson: 1
+    prompt: "—L'advocada pensa en el recurs? —Sí, ___ pensa cada dia."
+    answer: "hi"
+    distractors:
+      - text: "en"
+        why: "«En el recurs» porta *en*, no *de*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *en*."
+    explanation: "«En el recurs» és un complement amb *en*: el pronom és *hi*."
+
+  - id: b2-38-003
+    type: choice
+    point: en-complements
+    lesson: 1
+    prompt: "—L'Ibrahim parla sovint de la sentència? —Sí, ___ parla cada dia."
+    answer: "en"
+    distractors:
+      - text: "hi"
+        why: "«De la sentència» porta *de*, no *a* ni *en*: el pronom és *en*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut; «de la sentència» és un complement amb *de*: *en*."
+    explanation: "«De la sentència» és un complement amb *de*: el pronom és *en*."
+
+  - id: b2-38-004
+    type: choice
+    point: en-complements
+    lesson: 1
+    prompt: "—La Montse es recorda de la vista? —Sí, ___ recorda perfectament."
+    answer: "se'n"
+    distractors:
+      - text: "s'hi"
+        why: "«De la vista» porta *de*: recordar-se'n, no recordar-s'hi."
+      - text: "es"
+        why: "Sense *en* la frase queda incompleta: recordar-se de la vista és recordar-se'n."
+    explanation: "«Recordar-se» regeix *de* («recordar-se de la vista»): el pronom és *en*, amb el reflexiu: *se'n recorda*."
+
+  - id: b2-38-005
+    type: choice
+    point: hi-complements
+    lesson: 1
+    prompt: "—Vas anar a Girona amb tren? —Sí, ___ vaig anar."
+    answer: "hi"
+    distractors:
+      - text: "en"
+        why: "«Amb tren» és un complement de manera amb *amb*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *amb*."
+    explanation: "«Amb tren» diu com hi va anar: els complements de manera amb *amb* se substitueixen per *hi*."
+
+  - id: b2-38-006
+    type: choice
+    point: en-complements
+    lesson: 1
+    prompt: "—Ja saps que han recorregut contra la sentència? —Sí, ___ vaig assabentar ahir."
+    answer: "me'n"
+    distractors:
+      - text: "m'hi"
+        why: "«Assabentar-se» regeix *de*, no *a* ni *en*: *me'n vaig assabentar*."
+      - text: "em"
+        why: "Sense *en* la frase queda incompleta: assabentar-se de la notícia és assabentar-se'n."
+    explanation: "«Assabentar-se» regeix *de* («assabentar-se de la notícia»): el pronom és *en*: *me'n vaig assabentar*."
+
+  - id: b2-38-007
+    type: match
+    point: en-complements
+    lesson: 1
+    instruction: "Relaciona cada frase amb el complement que substitueix el pronom."
+    pairs:
+      - ["Hi pensa cada dia", "pensa en el recurs"]
+      - ["En parla sovint", "parla de la sentència"]
+      - ["Se'n recorda bé", "es recorda de la vista"]
+      - ["No se'n refia gaire", "no es refia del fiscal"]
+      - ["Hi confia plenament", "confia en l'advocada"]
+    explanation: "«Hi» substitueix «en el recurs» i «en l'advocada»; «en» substitueix «de la sentència», «de la vista» i «del fiscal»."
+
+  - id: b2-38-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["no hi ha dret", "Et posen una multa injusta i protestes."]
+      - ["ja n'hi ha prou", "El soroll dels veïns no et deixa dormir."]
+      - ["no en vull saber res", "No vols participar en el conflicte dels veïns."]
+      - ["no tenir-hi res a veure", "T'acusen d'un error que no has comès."]
+      - ["què hi farem", "S'ha acabat el termini i ja no pots recórrer."]
+    explanation: "Totes cinc porten *hi* o *en*: serveixen per protestar, per dir prou, per no participar-hi, per negar qualsevol participació i per resignar-se."
+
+  - id: b2-38-009
+    type: inline-choice
+    point: hi-complements
+    lesson: 1
+    title: "Abans de la vista"
+    text: "L'advocada {hi|en|ho} pensa cada nit: demà hi ha la vista. {En|Hi|Ho} parla amb el fiscal, però no {se'n|s'hi|es} refia gaire. L'acusat diu que no {se'n|s'hi|es} recorda. L'advocada {hi|en|ho} confia, però té por del veredicte."
+    explanation: "«Hi» substitueix «en la vista» («hi pensa») i «en l'acusat» («hi confia»); «en» substitueix «de la vista» («en parla»), «del fiscal» («no se'n refia») i «dels fets» («no se'n recorda»)."
+
+  - id: b2-38-010
+    type: fill
+    point: hi-complements
+    lesson: 1
+    prompt: "—L'advocada compta amb el testimoni del porter? —Sí, ___ compta per al judici."
+    hint: "pronom per a «amb el testimoni»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "en"
+        why: "«Amb el testimoni» porta *amb*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *amb*."
+    grading: tolerant
+    explanation: "«Amb el testimoni» és un complement amb *amb*: el pronom és *hi*."
+
+  - id: b2-38-011
+    type: fill
+    point: en-complements
+    lesson: 1
+    prompt: "—La jutgessa parlarà del cas a la vista? —Sí, ___ parlarà demà."
+    hint: "pronom per a «del cas»"
+    answers: ["en"]
+    wrong_answers:
+      - text: "hi"
+        why: "«Del cas» porta *de*: el pronom és *en*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut; «del cas» és un complement amb *de*: *en*."
+    grading: tolerant
+    explanation: "«Del cas» és un complement amb *de*: el pronom és *en*."
+
+  - id: b2-38-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «no hi ha dret»?"
+    answer: "És una protesta davant d'una injustícia."
+    distractors:
+      - text: "És una manera de donar la raó a algú."
+        why: "Al contrari: qui diu «no hi ha dret» protesta, no dona la raó."
+      - text: "Vol dir que una cosa és il·legal."
+        why: "Ser injust no és el mateix que ser il·legal: «no hi ha dret» protesta per la injustícia."
+    explanation: "«No hi ha dret!» es diu quan passa una cosa injusta: és una protesta, no una opinió legal."
+
+  - id: b2-38-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Et posen una multa que trobes totalment injusta. Què dius?"
+    answer: "No hi ha dret!"
+    distractors:
+      - text: "Ja n'hi ha prou!"
+        why: "Això demana que s'acabi una situació; aquí protestes per la injustícia: «no hi ha dret»."
+      - text: "Què hi farem!"
+        why: "Això expressa resignació; aquí protestes, no et resignes: «no hi ha dret»."
+    explanation: "Davant d'una multa injusta protestes per la injustícia: «no hi ha dret»."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-38-014
+    type: fill
+    point: hi-complements
+    lesson: 2
+    prompt: "—En Pau participa en el debat? —Sí, ___ participa cada setmana."
+    hint: "pronom per a «en el debat»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "en"
+        why: "«En el debat» porta *en*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *en*."
+    grading: tolerant
+    explanation: "«En el debat» és un complement amb *en*: el pronom és *hi*."
+
+  - id: b2-38-015
+    type: fill
+    point: en-complements
+    lesson: 2
+    prompt: "—La Carla es queixa de la multa? —Sí, ___ queixa cada dia."
+    hint: "pronom per a «de la multa», amb el reflexiu"
+    answers: ["se'n"]
+    wrong_answers:
+      - text: "s'hi"
+        why: "«De la multa» porta *de*: queixar-se'n."
+      - text: "es"
+        why: "Sense *en* la frase queda incompleta: queixar-se de la multa és queixar-se'n."
+    grading: tolerant
+    explanation: "«Queixar-se» regeix *de* («queixar-se de la multa»): *se'n queixa*."
+
+  - id: b2-38-016
+    type: fill
+    point: hi-complements
+    lesson: 2
+    prompt: "—Confieu en el jurat? —Sí, ___ confiem plenament."
+    hint: "pronom per a «en el jurat»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "en"
+        why: "«En el jurat» porta *en*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *en*."
+    grading: tolerant
+    explanation: "«En el jurat» és un complement amb *en*: el pronom és *hi*."
+
+  - id: b2-38-017
+    type: fill
+    point: en-complements
+    lesson: 2
+    prompt: "—L'acusat es penedeix del delicte? —Sí, ___ penedeix de veritat."
+    hint: "pronom per a «del delicte», amb el reflexiu"
+    answers: ["se'n"]
+    wrong_answers:
+      - text: "s'hi"
+        why: "«Del delicte» porta *de*: penedir-se'n."
+      - text: "es"
+        why: "Sense *en* la frase queda incompleta: penedir-se del delicte és penedir-se'n."
+    grading: tolerant
+    explanation: "«Penedir-se» regeix *de* («penedir-se del delicte»): *se'n penedeix*."
+
+  - id: b2-38-018
+    type: fill
+    point: hi-complements
+    lesson: 2
+    prompt: "—Us dediqueu al cas? —Sí, ___ dediquem cada tarda."
+    hint: "pronom per a «al cas», amb el reflexiu"
+    answers: ["ens hi"]
+    wrong_answers:
+      - text: "ens en"
+        why: "«Al cas» porta *a*: dedicar-s'hi."
+      - text: "ens"
+        why: "Sense *hi* la frase queda incompleta: dedicar-se al cas és dedicar-s'hi."
+    grading: tolerant
+    explanation: "«Dedicar-se» regeix *a* («dedicar-se al cas»): *ens hi dediquem*."
+
+  - id: b2-38-019
+    type: order
+    point: en-complements
+    lesson: 2
+    cue: "La Laia diu que no es recorda de la sentència."
+    chunks: ["La Laia", "no", "se'n", "recorda"]
+    extra: ["s'hi"]
+    answers:
+      - "La Laia no se'n recorda."
+    explanation: "«Recordar-se» regeix *de* («recordar-se de la sentència»): el pronom és *en*: *no se'n recorda*."
+
+  - id: b2-38-020
+    type: order
+    point: hi-complements
+    lesson: 2
+    cue: "En Jordi explica que va anar a la vista amb la Carla."
+    chunks: ["En Jordi", "hi", "va anar", "amb la Carla"]
+    extra: ["en"]
+    answers:
+      - "En Jordi hi va anar amb la Carla."
+    explanation: "«A la vista» és un complement de lloc amb *a*: *hi va anar*."
+
+  - id: b2-38-021
+    type: order
+    point: hi-complements
+    lesson: 2
+    cue: "La Núria diu que va anar a Girona amb tren."
+    chunks: ["La Núria", "hi", "va anar"]
+    extra: ["en", "ho"]
+    answers:
+      - "La Núria hi va anar."
+    explanation: "«Hi» substitueix «a Girona» i també «amb tren»: el lloc i la manera se substitueixen per *hi*."
+
+  - id: b2-38-022
+    type: choice
+    point: hi-complements
+    lesson: 2
+    prompt: "—La Carla s'ha acostumat a la nova llei? —Sí, ___ ha acostumat."
+    answer: "s'hi"
+    distractors:
+      - text: "se'n"
+        why: "«A la nova llei» porta *a*: acostumar-s'hi."
+      - text: "es"
+        why: "Sense *hi* la frase queda incompleta: acostumar-se a la llei és acostumar-s'hi."
+    explanation: "«Acostumar-se» regeix *a* («acostumar-se a la llei»): *s'hi ha acostumat*."
+
+  - id: b2-38-023
+    type: fill
+    point: en-complements
+    lesson: 2
+    prompt: "—La jutgessa s'ha informat de les proves? —Sí, ___ aquest matí."
+    hint: "el verb sencer, amb pronoms"
+    answers: ["se n'ha informat"]
+    wrong_answers:
+      - text: "s'hi ha informat"
+        why: "«Informar-se» regeix *de*: *se n'ha informat*."
+      - text: "s'ha informat"
+        why: "Sense *en* la frase queda incompleta: informar-se de les proves és informar-se'n."
+    grading: tolerant
+    explanation: "«Informar-se» regeix *de* («informar-se de les proves»): *se n'ha informat*."
+
+  - id: b2-38-024
+    type: choice
+    point: hi-complements
+    lesson: 2
+    prompt: "—L'acusat s'oposa a la multa? —Sí, ___ oposa."
+    answer: "s'hi"
+    distractors:
+      - text: "se'n"
+        why: "«A la multa» porta *a*, no *de*: *s'hi oposa*."
+      - text: "es"
+        why: "Sense *hi* la frase queda incompleta: oposar-se a la multa és oposar-s'hi."
+    explanation: "«Oposar-se» regeix *a* («oposar-se a la multa»): *s'hi oposa*."
+
+  - id: b2-38-025
+    type: inline-choice
+    point: hi-complements
+    lesson: 2
+    title: "Dos veïns al jutjat"
+    text: "En Pau i la Montse van al jutjat. En Pau {hi|en|ho} va per una multa: diu que no {hi|en|ho} està d'acord. La Montse {hi|en|ho} va per acompanyar-lo: {en|hi|ho} sap poca cosa, del cas."
+    explanation: "«Hi» substitueix «al jutjat» («hi va») i «amb la multa» («no hi està d'acord»); «en» substitueix «del cas» («en sap poca cosa»)."
+
+  - id: b2-38-026
+    type: choice
+    point: en-complements
+    lesson: 2
+    prompt: "—El veredicte depèn del jurat? —Sí, ___ depèn totalment."
+    answer: "en"
+    distractors:
+      - text: "hi"
+        why: "«Del jurat» porta *de*: el pronom és *en*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut; «del jurat» és un complement amb *de*: *en*."
+    explanation: "«Dependre» regeix *de* («dependre del jurat»): el pronom és *en*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-38-027
+    type: choice
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—La sentència és justa? —Sí, ___ és."
+    answer: "ho"
+    distractors:
+      - text: "hi"
+        why: "«Justa» és l'atribut, no un complement amb *a* o *en*: *ho és*."
+      - text: "la"
+        why: "«Justa» és l'atribut, no un complement directe femení: *ho és*."
+    explanation: "«Justa» és l'atribut de «és»: els atributs se substitueixen per *ho*."
+
+  - id: b2-38-028
+    type: choice
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—L'acusada sembla tranquil·la? —Sí, ___ sembla."
+    answer: "ho"
+    distractors:
+      - text: "hi"
+        why: "«Tranquil·la» és l'atribut, no un complement amb *a* o *en*: *ho sembla*."
+      - text: "la"
+        why: "«Tranquil·la» és l'atribut, no un complement directe: *ho sembla*."
+    explanation: "«Tranquil·la» és l'atribut de «sembla»: els atributs se substitueixen per *ho*, en masculí i en femení."
+
+  - id: b2-38-029
+    type: choice
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—Els testimonis van arribar contents? —Sí, ___ van arribar."
+    answer: "hi"
+    distractors:
+      - text: "ho"
+        why: "«Contents» no és l'atribut: diu com van arribar i se substitueix per *hi*."
+      - text: "en"
+        why: "No hi ha cap complement amb *de*: «contents» és un predicatiu i se substitueix per *hi*."
+    explanation: "«Contents» diu com van arribar: és un predicatiu i se substitueix per *hi*."
+
+  - id: b2-38-030
+    type: choice
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—La jutgessa troba justa la multa? —Sí, ___ troba."
+    answer: "la hi"
+    distractors:
+      - text: "l'hi"
+        why: "«La multa» és femení: *la hi troba*."
+      - text: "li ho"
+        why: "«Trobar» no porta complement indirecte: el CD «la multa» és *la* i el predicatiu *hi*: *la hi troba*."
+    explanation: "«La multa» és el complement directe (*la*) i «justa» el predicatiu (*hi*): *la hi troba*."
+
+  - id: b2-38-031
+    type: fill
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—El judici serà llarg? —Sí, ___ serà."
+    hint: "pronom per a l'atribut «llarg»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "hi"
+        why: "«Llarg» és l'atribut, no un complement amb *a* o *en*: *ho serà*."
+      - text: "el"
+        why: "«Llarg» és l'atribut, no un complement directe masculí: *ho serà*."
+    grading: tolerant
+    explanation: "«Llarg» és l'atribut de «serà»: els atributs se substitueixen per *ho*."
+
+  - id: b2-38-032
+    type: fill
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—Van arribar cansats, els advocats? —Sí, ___ van arribar."
+    hint: "pronom per a «cansats»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "ho"
+        why: "«Cansats» no és l'atribut: diu com van arribar i se substitueix per *hi*."
+      - text: "en"
+        why: "No hi ha cap complement amb *de*: «cansats» és un predicatiu i se substitueix per *hi*."
+    grading: tolerant
+    explanation: "«Cansats» diu com van arribar: és un predicatiu i se substitueix per *hi*."
+
+  - id: b2-38-033
+    type: fill
+    point: atribut-predicatiu
+    lesson: 3
+    prompt: "—El jurat considera culpable l'acusat? —Sí, ___ considera."
+    hint: "pronom per a «l'acusat» i «culpable»"
+    answers: ["l'hi"]
+    wrong_answers:
+      - text: "li ho"
+        why: "«L'acusat» és el CD (*el*) i «culpable» el predicatiu (*hi*): *l'hi considera*."
+      - text: "ho"
+        why: "«Ho» no pot substituir «l'acusat», que és un complement directe definit: *l'hi considera*."
+    grading: tolerant
+    explanation: "«L'acusat» és el complement directe (*el*) i «culpable» el predicatiu (*hi*): *l'hi considera*."
+
+  - id: b2-38-034
+    type: find-error
+    point: compte-omissio
+    lesson: 3
+    sentence: "—Vas anar a la vista? —Sí, vaig anar amb el meu advocat."
+    error: "vaig anar"
+    fix: "hi vaig anar"
+    fix_distractors:
+      - text: "en vaig anar"
+        why: "«A la vista» porta *a*: *hi*. A més, «en vaig anar» no existeix sense *se*."
+      - text: "me'n vaig anar"
+        why: "«Me'n vaig anar» vol dir que vas marxar. Aquí vas a la vista: «hi vaig anar»."
+    explanation: "En castellà n'hi ha prou amb «sí, fui»; en català el lloc no es pot ometre: «sí, *hi* vaig anar»."
+
+  - id: b2-38-035
+    type: find-error
+    point: compte-omissio
+    lesson: 3
+    sentence: "—Parles amb el fiscal? —Sí, parlo cada setmana."
+    error: "parlo cada setmana"
+    fix: "hi parlo cada setmana"
+    fix_distractors:
+      - text: "en parlo cada setmana"
+        why: "«Amb el fiscal» porta *amb*: *hi*."
+      - text: "parlo-hi cada setmana"
+        why: "Amb un verb conjugat el pronom va davant: «hi parlo». Darrere només va amb infinitiu, gerundi o imperatiu."
+    explanation: "En castellà es pot dir «sí, hablo»; en català «amb el fiscal» no es pot ometre: *hi parlo*."
+
+  - id: b2-38-036
+    type: find-error
+    point: compte-omissio
+    lesson: 3
+    sentence: "—Us recordeu de la vista? —No, no recordem."
+    error: "no recordem"
+    fix: "no ens en recordem"
+    fix_distractors:
+      - text: "no ens hi recordem"
+        why: "«De la vista» porta *de*: *ens en recordem*."
+      - text: "no ens recordem"
+        why: "Falta el pronom *en*: recordar-se de la vista és recordar-se'n."
+    explanation: "En castellà n'hi ha prou amb «no nos acordamos»; en català cal el reflexiu i *en*: *no ens en recordem*."
+
+  - id: b2-38-037
+    type: find-error
+    point: compte-omissio
+    lesson: 3
+    sentence: "—Saps que han recorregut? —No, no m'he assabentat."
+    error: "m'he assabentat"
+    fix: "me n'he assabentat"
+    fix_distractors:
+      - text: "m'hi he assabentat"
+        why: "«Assabentar-se» regeix *de*: *me n'he assabentat*."
+      - text: "n'he assabentat"
+        why: "«Assabentar-se» és pronominal: cal el reflexiu i *en*: «me n'he assabentat»."
+    explanation: "En castellà n'hi ha prou amb «no me he enterado»; en català cal el reflexiu i *en*: *me n'he assabentat*."
+
+  - id: b2-38-038
+    type: find-error
+    point: hi-complements
+    lesson: 3
+    sentence: "—Penses en el recurs? —Sí, hi penso cada dia."
+    no_error: true
+    explanation: "La frase és correcta: «en el recurs» se substitueix per *hi*: «hi penso»."
+
+  - id: b2-38-039
+    type: find-error
+    point: atribut-predicatiu
+    lesson: 3
+    sentence: "—La sentència és justa? —Sí, ho és."
+    no_error: true
+    explanation: "La frase és correcta: «justa» és l'atribut i se substitueix per *ho*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-38-040
+    type: transform
+    point: en-complements
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "L'advocada parla [[del recurs]] amb el fiscal."
+    answers: ["L'advocada en parla amb el fiscal."]
+    wrong_answers:
+      - text: "L'advocada hi parla amb el fiscal."
+        why: "«Del recurs» porta *de*: *en*."
+      - text: "L'advocada ho parla amb el fiscal."
+        why: "*Ho* no substitueix un complement amb *de*: «del recurs» demana *en*."
+    grading: tolerant
+    explanation: "«Del recurs» és un complement amb *de*: el pronom és *en* i va davant del verb."
+
+  - id: b2-38-041
+    type: transform
+    point: hi-complements
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "El jutge ja pensa [[en les proves]]."
+    answers: ["El jutge ja hi pensa."]
+    wrong_answers:
+      - text: "El jutge ja en pensa."
+        why: "«En les proves» porta *en*: el pronom és *hi*."
+      - text: "El jutge ja ho pensa."
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *en*."
+    grading: tolerant
+    explanation: "«En les proves» és un complement amb *en*: el pronom és *hi*."
+
+  - id: b2-38-042
+    type: transform
+    point: hi-complements
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "L'acusat vol acostumar-se [[a la presó]]."
+    answers:
+      - "L'acusat vol acostumar-s'hi."
+      - "L'acusat s'hi vol acostumar."
+    wrong_answers:
+      - text: "L'acusat vol acostumar-se'n."
+        why: "«A la presó» porta *a*: acostumar-s'hi."
+      - text: "L'acusat vol acostumar-hi-se."
+        why: "L'ordre és primer el reflexiu i després *hi*: «acostumar-s'hi»."
+    grading: tolerant
+    explanation: "«A la presó» porta *a*: *hi*. El pronom va davant del verb conjugat («s'hi vol acostumar») o darrere de l'infinitiu («vol acostumar-s'hi»)."
+
+  - id: b2-38-043
+    type: transform
+    point: atribut-predicatiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "La Carla diu que la multa [[és injusta]]."
+    answers: ["La Carla diu que ho és."]
+    wrong_answers:
+      - text: "La Carla diu que hi és."
+        why: "«Injusta» és l'atribut: *ho*."
+    grading: tolerant
+    explanation: "«Injusta» és l'atribut: se substitueix per *ho*."
+
+  - id: b2-38-044
+    type: transform
+    point: atribut-predicatiu
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "El jurat va declarar [[l'acusat]] [[culpable]]."
+    answers: ["El jurat l'hi va declarar."]
+    wrong_answers:
+      - text: "El jurat li ho va declarar."
+        why: "«L'acusat» és el CD (*el*) i «culpable» el predicatiu (*hi*): *l'hi va declarar*."
+      - text: "El jurat ho va declarar."
+        why: "«Ho» no pot substituir «l'acusat», que és un complement directe definit: *l'hi va declarar*."
+    grading: tolerant
+    explanation: "«L'acusat» és el complement directe (*el*) i «culpable» el predicatiu (*hi*): el jurat *l'hi* va declarar."
+
+  - id: b2-38-045
+    type: transform
+    point: hi-complements
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "L'advocada va explicar [[la sentència]] [[a l'acusat]]."
+    answers: ["L'advocada la hi va explicar."]
+    wrong_answers:
+      - text: "L'advocada les hi va explicar."
+        why: "«La sentència» és singular: *la hi va explicar*."
+      - text: "L'advocada l'hi va explicar."
+        why: "«La sentència» és femení: *la hi va explicar*."
+    grading: tolerant
+    explanation: "«La sentència» és el CD (*la*) i «a l'acusat» el CI (*li*): *li* + *la* esdevé «la hi»."
+
+  - id: b2-38-046
+    type: transform
+    point: hi-complements
+    lesson: 4
+    instruction: "Substitueix les parts marcades per pronoms."
+    source: "El fiscal va demanar [[l'expedient]] [[al jutjat]]."
+    answers: ["El fiscal l'hi va demanar."]
+    wrong_answers:
+      - text: "El fiscal ho va demanar."
+        why: "«Ho» no substitueix un nom definit com «l'expedient»: *l'hi va demanar*."
+      - text: "El fiscal li ho va demanar."
+        why: "«Ho» no pot substituir «l'expedient», que és definit: *l'hi va demanar*."
+    grading: tolerant
+    explanation: "«Al jutjat» pot ser el destinatari (*li*) o el lloc (*hi*): en tots dos casos el resultat és «l'hi»."
+
+  - id: b2-38-047
+    type: transform
+    point: en-complements
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "La Montse s'encarrega [[de la denúncia]]."
+    answers: ["La Montse se n'encarrega."]
+    wrong_answers:
+      - text: "La Montse s'hi encarrega."
+        why: "«Encarregar-se» regeix *de*: encarregar-se'n."
+      - text: "La Montse s'encarrega."
+        why: "Sense el pronom la frase queda incompleta: cal «se n'encarrega»."
+    grading: tolerant
+    explanation: "«Encarregar-se» regeix *de* («encarregar-se de la denúncia»): *se n'encarrega*."
+
+  - id: b2-38-048
+    type: fill
+    point: atribut-predicatiu
+    lesson: 4
+    prompt: "—El tribunal considera justa la condemna? —Sí, ___ considera."
+    hint: "pronom per a «la condemna» i «justa»"
+    answers: ["la hi"]
+    wrong_answers:
+      - text: "l'hi"
+        why: "«La condemna» és femení: *la hi considera*."
+      - text: "ho"
+        why: "«Ho» no pot substituir «la condemna», que és un complement directe definit: *la hi considera*."
+    grading: tolerant
+    explanation: "«La condemna» és el complement directe (*la*) i «justa» el predicatiu (*hi*): *la hi considera*."
+
+  - id: b2-38-049
+    type: fill
+    point: compte-omissio
+    lesson: 4
+    prompt: "—Heu participat en la votació? —Sí, ___ hem participat."
+    hint: "pronom per a «en la votació»"
+    answers: ["hi"]
+    wrong_answers:
+      - text: "en"
+        why: "«En la votació» porta *en*: el pronom és *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un atribut, no un complement amb *en*."
+    grading: tolerant
+    explanation: "En castellà n'hi ha prou amb «sí, hemos participado»; en català «en la votació» no es pot ometre: *hi hem participat*."
+
+  - id: b2-38-050
+    type: order
+    point: en-complements
+    lesson: 4
+    cue: "Digues que la Carla no es refia del fiscal."
+    chunks: ["La Carla", "no", "se'n", "refia"]
+    extra: ["s'hi"]
+    answers:
+      - "La Carla no se'n refia."
+    explanation: "«Refiar-se» regeix *de* («refiar-se del fiscal»): *no se'n refia*."
+
+  - id: b2-38-051
+    type: order
+    point: compte-omissio
+    lesson: 4
+    cue: "L'Ibrahim diu que no està d'acord amb la sentència."
+    chunks: ["L'Ibrahim", "no", "hi", "està", "d'acord"]
+    extra: ["en"]
+    answers:
+      - "L'Ibrahim no hi està d'acord."
+    explanation: "En castellà n'hi ha prou amb «no estoy de acuerdo»; en català l'expressió és *estar-hi d'acord*."
+
+  - id: b2-38-052
+    type: transform
+    point: atribut-predicatiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "L'advocada creu [[que el judici serà llarg]]."
+    answers: ["L'advocada ho creu."]
+    wrong_answers:
+      - text: "L'advocada hi creu."
+        why: "Una frase sencera se substitueix per *ho*, no per *hi*."
+      - text: "L'advocada en creu."
+        why: "No hi ha cap complement amb *de*: una frase sencera se substitueix per *ho*."
+    grading: tolerant
+    explanation: "«Que el judici serà llarg» és una frase sencera: se substitueix per *ho*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-38-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una mediació al jutjat"
+    text: |
+      La Carla viu a Barberà del Vallès i fa un any va tenir un conflicte amb el veí del costat, que posava música molt alta cada nit. Al principi va intentar parlar-hi: hi va anar tres vegades i li va demanar que baixés el volum. Com que no hi va haver manera, va anar a la comissaria i va denunciar el soroll. La denúncia va arribar al jutjat i la jutgessa va fixar la vista per al mes de març.
+
+      La Carla estava nerviosa: era la primera vegada que veia jutjar una persona de prop. L'advocada d'ofici li va explicar que tot seria molt senzill: el fiscal només demanava que el soroll s'acabés i no demanava cap pena de presó. A la sala, la jutgessa va escoltar les dues parts i un altre veí, que hi declarava com a testimoni. El veí es declarava innocent i deia que ell no hi tenia res a veure, que la música era d'un altre pis. La Carla, en canvi, portava proves: tres gravacions fetes amb el mòbil on se sentia la música a les tres de la matinada.
+
+      Llavors la jutgessa va proposar una mediació. Els va recordar que tothom és igual davant la llei i que un acord era millor que una sentència per a la convivència de l'escala. El veí hi va estar d'acord de seguida i es va comprometre a no posar música a partir de les deu de la nit. La Carla també hi va estar d'acord, i la jutgessa va tancar el cas sense condemnar ningú: de fet, va absoldre el veí del delicte lleu.
+
+      En sortir del jutjat, la Carla estava contenta. «Què hi farem!», va pensar: havia perdut tres matins, però cap de les dues parts no va recórrer i l'escala va tornar a ser un lloc tranquil.
+    questions:
+      - prompt: "Per què va anar la Carla al jutjat?"
+        answer: "Perquè el veí no va fer cas de les queixes pel soroll."
+        distractors:
+          - text: "Perquè el veí la va denunciar a la comissaria."
+            why: "És al revés: la Carla va denunciar el veí."
+          - text: "Perquè volia demanar la presó per al veí."
+            why: "El fiscal no demanava cap pena de presó; només volia que s'acabés el soroll."
+      - prompt: "Què va passar a la vista?"
+        answer: "La jutgessa va escoltar tothom i va proposar una mediació."
+        distractors:
+          - text: "El veí va reconèixer que la música era seva."
+            why: "El veí es declarava innocent i deia que la música era d'un altre pis."
+          - text: "La Carla no va portar cap prova del soroll."
+            why: "La Carla portava tres gravacions fetes amb el mòbil."
+      - prompt: "Com es va resoldre el conflicte?"
+        answer: "Amb un acord: el veí no posaria música a partir de les deu."
+        distractors:
+          - text: "Amb una sentència que condemnava el veí."
+            why: "La jutgessa va tancar el cas sense condemnar ningú."
+          - text: "Amb un recurs que va presentar la Carla."
+            why: "Cap de les dues parts no va recórrer."
+      - prompt: "Què vol dir que la Carla pensa «Què hi farem!»?"
+        answer: "Que accepta amb resignació el temps perdut."
+        distractors:
+          - text: "Que protesta perquè la sentència és injusta."
+            why: "Això seria «no hi ha dret»; «què hi farem» expressa resignació."
+          - text: "Que no vol saber res més del veí."
+            why: "Això seria «no en vull saber res»; «què hi farem» expressa resignació."
+    explanation: "El text explica com un conflicte entre veïns es resol amb una mediació al jutjat."
+
+  - id: b2-38-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «ja n'hi ha prou»?"
+    answer: "Que una situació s'ha d'acabar."
+    distractors:
+      - text: "Que una cosa és injusta."
+        why: "Això és «no hi ha dret»; «ja n'hi ha prou» demana que s'acabi una situació."
+      - text: "Que t'hi resignes."
+        why: "Això és «què hi farem»; «ja n'hi ha prou» demana que s'acabi una situació."
+    explanation: "«Ja n'hi ha prou!» es diu per demanar que s'acabi una situació que ja dura massa."
+
+  - id: b2-38-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Un amic et demana que participis en un conflicte de veïns, però no hi vols participar. Què dius?"
+    answer: "No en vull saber res."
+    distractors:
+      - text: "No hi ha dret."
+        why: "Això protesta per la injustícia; aquí no vols participar-hi: «no en vull saber res»."
+      - text: "Què hi farem."
+        why: "Això expressa resignació; aquí et negues a participar-hi: «no en vull saber res»."
+    explanation: "«No en vull saber res» és la manera de negar-se a participar en un assumpte."
+
+  - id: b2-38-056
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Reescriu la frase amb l'expressió «no tenir-hi res a veure»."
+    source: "Jo no tinc [[res a veure amb aquest assumpte]]."
+    answers:
+      - "Jo no hi tinc res a veure."
+      - "No hi tinc res a veure."
+    wrong_answers:
+      - text: "Jo no en tinc res a veure."
+        why: "L'expressió és «no tenir-hi res a veure», amb *hi*."
+    grading: tolerant
+    explanation: "«No tenir-hi res a veure» vol dir no tenir cap relació amb un fet."
+
+  - id: b2-38-057
+    type: fill
+    point: en-complements
+    lesson: 5
+    prompt: "—La Fàtima es burla de la sentència? —No, no ___ burla."
+    hint: "pronom per a «de la sentència», amb el reflexiu"
+    answers: ["se'n"]
+    wrong_answers:
+      - text: "s'hi"
+        why: "«De la sentència» porta *de*: burlar-se'n."
+      - text: "es"
+        why: "Sense *en* la frase queda incompleta: burlar-se de la sentència és burlar-se'n."
+    grading: tolerant
+    explanation: "«Burlar-se» regeix *de* («burlar-se de la sentència»): *no se'n burla*."
+
+  - id: b2-38-058
+    type: fill
+    point: atribut-predicatiu
+    lesson: 5
+    prompt: "—El veredicte sembla just? —Sí, ___ sembla."
+    hint: "pronom per a l'atribut «just»"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "hi"
+        why: "«Just» és l'atribut, no un complement amb *a* o *en*: *ho sembla*."
+      - text: "el"
+        why: "«Just» és l'atribut, no un complement directe masculí: *ho sembla*."
+    grading: tolerant
+    explanation: "«Just» és l'atribut de «sembla»: els atributs se substitueixen per *ho*."
+
+  - id: b2-38-059
+    type: find-error
+    point: compte-omissio
+    lesson: 5
+    sentence: "—Confies en l'advocat? —Sí, confio plenament."
+    error: "confio plenament"
+    fix: "hi confio plenament"
+    fix_distractors:
+      - text: "en confio plenament"
+        why: "«En l'advocat» porta *en*: *hi*."
+      - text: "confio-hi plenament"
+        why: "Amb un verb conjugat el pronom va davant: «hi confio»."
+    explanation: "En castellà es pot dir «sí, confío»; en català «en l'advocat» no es pot ometre: *hi confio*."
+
+  - id: b2-38-060
+    type: find-error
+    point: hi-complements
+    lesson: 5
+    sentence: "—S'oposen a la condemna? —Sí, s'hi oposen."
+    no_error: true
+    explanation: "La frase és correcta: «a la condemna» se substitueix per *hi*: «s'hi oposen»."
+
+  - id: b2-38-061
+    type: order
+    point: en-complements
+    lesson: 5
+    cue: "La Montse diu que no es penedeix del recurs."
+    chunks: ["La Montse", "no", "se'n", "penedeix"]
+    extra: ["s'hi"]
+    answers:
+      - "La Montse no se'n penedeix."
+    explanation: "«Penedir-se» regeix *de* («penedir-se del recurs»): *no se'n penedeix*."
+
+  - id: b2-38-062
+    type: inline-choice
+    point: hi-complements
+    lesson: 5
+    title: "Després del judici"
+    text: "El judici s'ha acabat. El fiscal {hi|en|ho} està d'acord: han condemnat l'acusat. L'advocada {hi|en|ho} pensa cada dia: la sentència li sembla injusta. L'acusat diu que la condemna no {ho|hi|en} és, de justa. Els veïns {en|hi|ho} parlen cada dia, del judici."
+    explanation: "«Hi» substitueix «amb el veredicte» («hi està d'acord») i «en la sentència» («hi pensa»); «ho» substitueix l'atribut «justa»; «en» substitueix «del judici» («en parlen»)."
+
+  - id: b2-38-063
+    type: match
+    point: en-complements
+    lesson: 5
+    instruction: "Relaciona cada verb amb el complement que regeix."
+    pairs:
+      - ["parlar", "de la sentència"]
+      - ["queixar-se", "de la multa"]
+      - ["dependre", "del jurat"]
+      - ["penedir-se", "del delicte"]
+      - ["informar-se", "de les proves"]
+    explanation: "Aquests verbs regeixen *de*: el complement se substitueix per *en* («parlar-ne», «queixar-se'n», «dependre'n», «penedir-se'n», «informar-se'n»)."
+
+  - id: b2-38-064
+    type: choice
+    point: compte-omissio
+    lesson: 5
+    prompt: "—Estàs d'acord amb la sentència? —Sí, ___ estic d'acord."
+    answer: "hi"
+    distractors:
+      - text: "en"
+        why: "L'expressió és «estar-hi d'acord», amb *hi*."
+      - text: "ho"
+        why: "L'expressió és «estar-hi d'acord»: «ho» no hi fa res."
+    explanation: "En castellà n'hi ha prou amb «sí, estoy de acuerdo»; en català l'expressió porta *hi*: *hi estic d'acord*."

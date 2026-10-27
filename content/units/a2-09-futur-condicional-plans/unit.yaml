@@ -1,0 +1,1047 @@
+id: a2-09
+level: A2
+title: "Futur, condicional i plans"
+summary: "El futur simple, el condicional de cortesia (*voldria, podries*), els plans amb *pensar* + infinitiu i els futurs irregulars que no coincideixen amb el castellà."
+vocabulary_theme: "El temps i els plans de cap de setmana"
+points:
+  - id: futur-simple
+    title: "El futur: formes regulars i irregulars"
+    refs:
+      - label: "GEIEC: El futur"
+        url: "https://geiec.iec.cat"
+  - id: condicional-cortesia
+    title: "El condicional de cortesia"
+    refs:
+      - label: "GEIEC: El condicional"
+        url: "https://geiec.iec.cat"
+  - id: plans-pensar-anar
+    title: "Els plans: pensar i anar a + infinitiu"
+    refs:
+      - label: "GEIEC: Les perífrasis verbals"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: els futurs irregulars"
+  - id: expressions
+    title: "Expressions per parlar del futur"
+lessons:
+  - title: "El futur i els plans"
+  - title: "Practiquem el futur"
+  - title: "Cortesia i futurs difícils"
+  - title: "Tots junts: produïm"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el pronòstic"
+    definition: "Informació sobre el temps que farà."
+    example: "El pronòstic diu que diumenge plourà."
+  - word: "fer sol"
+    definition: "Lluir el sol, sense núvols."
+    example: "Demà farà sol a la costa."
+  - word: "la pluja"
+    definition: "Aigua que cau del cel."
+    example: "Aquesta tarda vindrà la pluja."
+  - word: "ploure"
+    definition: "Caure aigua del cel."
+    example: "Diu que plourà tot el cap de setmana."
+  - word: "la neu"
+    definition: "Aigua blanca que cau quan fa molt fred."
+    example: "Aquest hivern hi haurà neu al Pirineu."
+  - word: "nevar"
+    definition: "Caure neu del cel."
+    example: "Demà nevarà a la muntanya."
+  - word: "el vent"
+    definition: "Aire que es mou amb força."
+    example: "Diumenge farà molt vent a la costa."
+  - word: "el núvol"
+    definition: "Massa grisa o blanca que tapa el sol."
+    example: "Hi ha molts núvols, però no plourà."
+  - word: "tapat, tapada"
+    definition: "Dit del cel ple de núvols."
+    example: "Demà el cel estarà tapat tot el dia."
+  - word: "serè, serena"
+    definition: "Dit del cel sense núvols."
+    example: "Quin cel més serè farà dissabte!"
+  - word: "la boira"
+    definition: "Núvol baix que no deixa veure lluny."
+    example: "Al matí hi haurà boira a Vic."
+  - word: "la tempesta"
+    definition: "Pluja forta amb trons i llamps."
+    example: "Aquesta tarda vindrà una tempesta."
+  - word: "el tro"
+    definition: "Soroll fort d'una tempesta."
+    example: "Els trons no em deixen dormir."
+  - word: "el llamp"
+    definition: "Llum forta d'una tempesta."
+    example: "Els llamps fan por al gos."
+  - word: "el paraigua"
+    definition: "Objecte per no mullar-se quan plou."
+    example: "Agafa el paraigua: plourà."
+  - word: "la temperatura"
+    definition: "Mesura de la calor o el fred."
+    example: "La temperatura pujarà fins als vint graus."
+  - word: "el grau"
+    definition: "Unitat per mesurar la temperatura."
+    example: "Demà arribarem als trenta graus."
+  - word: "la calor"
+    definition: "Temperatura alta de l'aire."
+    example: "A l'agost fa molta calor a Lleida."
+  - word: "el fred"
+    definition: "Temperatura baixa de l'aire."
+    example: "Aquest cap de setmana farà fred."
+  - word: "mullar-se"
+    definition: "Quedar ple d'aigua de la pluja."
+    example: "Corre, que et mullaràs!"
+  - word: "el cap de setmana"
+    definition: "Dissabte i diumenge."
+    example: "Aquest cap de setmana anirem a la platja."
+  - word: "el pla"
+    definition: "Cosa que penses fer."
+    example: "Quins plans tens per a dissabte?"
+  - word: "quedar"
+    definition: "Trobar-se amb algú a una hora."
+    example: "Dissabte quedaré amb la Laia."
+  - word: "quedar-se"
+    definition: "No sortir de casa o d'un lloc."
+    example: "Si plou, ens quedarem a casa."
+  - word: "el pícnic"
+    definition: "Dinar a l'aire lliure."
+    example: "Diumenge farem un pícnic al parc."
+  - word: "l'excursió"
+    definition: "Sortida a la muntanya o al camp."
+    example: "Pensem anar d'excursió al Montseny."
+  - word: "la platja"
+    definition: "Vora del mar amb sorra."
+    example: "Si fa sol, anirem a la platja."
+  - word: "la muntanya"
+    definition: "Lloc alt amb boscos i camins."
+    example: "Diumenge pujarem a la muntanya."
+  - word: "el concert"
+    definition: "Música en directe davant del públic."
+    example: "Dissabte hi haurà un concert a la plaça."
+  - word: "el partit"
+    definition: "Encontre entre dos equips."
+    example: "Diumenge veurem el partit a casa."
+  - word: "el museu"
+    definition: "Lloc on es poden veure obres d'art."
+    example: "Si plou, visitarem el museu."
+  - word: "el passeig"
+    definition: "Sortida curta per caminar."
+    example: "A la tarda farem un passeig pel barri."
+  - word: "la bicicleta"
+    definition: "Vehicle de dues rodes."
+    example: "Dissabte anirem amb bicicleta fins al riu."
+  - word: "el bitllet"
+    definition: "Paper per pujar al tren o a l'avió."
+    example: "Compraré els bitllets per internet."
+  - word: "la reserva"
+    definition: "Plaça guardada en un restaurant o hotel."
+    example: "Trucaré per fer la reserva."
+  - word: "sopar"
+    definition: "Menjar de la nit."
+    example: "Diumenge soparem amb els avis."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-09-001
+    type: choice
+    point: futur-simple
+    lesson: 1
+    prompt: "Demà ___ sol tot el dia, diu el pronòstic."
+    answer: "farà"
+    distractors:
+      - text: "fa"
+        why: "«Fa» és present. Amb «demà», el verb va en futur: *farà*."
+      - text: "fan"
+        why: "«Fan» és plural. El temps és singular: *farà*."
+    explanation: "«Demà» demana futur. El futur de *fer* és irregular: *farà*."
+
+  - id: a2-09-002
+    type: choice
+    point: futur-simple
+    lesson: 1
+    prompt: "Diu que diumenge ___ a la muntanya."
+    answer: "nevarà"
+    distractors:
+      - text: "neva"
+        why: "«Neva» és present. Amb «diumenge», el verb va en futur: *nevarà*."
+      - text: "nevaran"
+        why: "*Nevar* aquí no té plural: *nevarà*."
+    explanation: "«Diumenge» demana futur. *Nevar* no té plural: *nevarà*."
+
+  - id: a2-09-003
+    type: choice
+    point: futur-simple
+    lesson: 1
+    prompt: "Aquest cap de setmana ___ els avis a dinar."
+    answer: "vindran"
+    distractors:
+      - text: "venen"
+        why: "«Venen» és present. «Aquest cap de setmana» demana futur: *vindran*."
+      - text: "vindrà"
+        why: "«Vindrà» és singular. «Els avis» és plural: *vindran*."
+    explanation: "«Aquest cap de setmana» demana futur. *Venir* fa *vindran* en plural."
+
+  - id: a2-09-004
+    type: choice
+    point: futur-simple
+    lesson: 1
+    prompt: "Demà la Montse i jo ___ de casa a les vuit."
+    answer: "sortirem"
+    distractors:
+      - text: "sortim"
+        why: "«Sortim» és present. Amb «demà», el verb va en futur: *sortirem*."
+      - text: "sortiran"
+        why: "«Sortiran» és «ells». El subjecte és «la Montse i jo»: *sortirem*."
+    explanation: "El subjecte és «nosaltres». El futur de *sortir* és *sortirem*."
+
+  - id: a2-09-005
+    type: choice
+    point: futur-simple
+    lesson: 1
+    prompt: "Si plou, jo ___ el paraigua gran."
+    answer: "agafaré"
+    distractors:
+      - text: "agafo"
+        why: "«Agafo» és present. És un pla: *agafaré*."
+      - text: "agafaràs"
+        why: "«Agafaràs» és «tu». El subjecte és «jo»: *agafaré*."
+    explanation: "El subjecte és «jo» i és un pla: el futur de *agafar* és *agafaré*."
+
+  - id: a2-09-006
+    type: choice
+    point: plans-pensar-anar
+    lesson: 1
+    prompt: "La Laia ___ anar a la platja dissabte."
+    answer: "pensa"
+    distractors:
+      - text: "pensen"
+        why: "«Pensen» és plural. «La Laia» és singular: *pensa*."
+      - text: "pensar"
+        why: "«Pensar» és infinitiu. El verb va conjugat: *pensa*."
+    explanation: "«La Laia» és singular: *pensa*. Darrere va l'infinitiu: *anar*."
+
+  - id: a2-09-007
+    type: choice
+    point: plans-pensar-anar
+    lesson: 1
+    prompt: "«Pensem quedar-nos a casa» vol dir que ___."
+    answer: "ens quedarem a casa"
+    distractors:
+      - text: "som a casa ara"
+        why: "Això és ara. «Pensem» parla d'un pla de futur."
+      - text: "ens vam quedar a casa"
+        why: "Això és passat. «Pensem» parla d'un pla de futur."
+    explanation: "«Pensem» + infinitiu és un pla de futur: *ens quedarem*."
+
+  - id: a2-09-008
+    type: choice
+    point: plans-pensar-anar
+    lesson: 1
+    prompt: "«Demà anem a dinar amb els avis» vol dir que ___."
+    answer: "demà dinarem amb els avis"
+    distractors:
+      - text: "avui dinem amb els avis"
+        why: "«Demà» és futur, no avui."
+      - text: "ahir vam dinar amb els avis"
+        why: "«Demà» és futur, no ahir."
+    explanation: "«Anem a dinar» parla de demà: és un pla, com *dinarem*."
+
+  - id: a2-09-009
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Què fareu si plou diumenge? —___. Ja ho decidirem dissabte."
+    answer: "Ja veurem"
+    distractors:
+      - text: "Si tot va bé"
+        why: "«Si tot va bé» vol dir «si no hi ha cap problema». Aquí encara no ho saben."
+      - text: "D'aquí a una estona"
+        why: "«D'aquí a una estona» diu quan. Aquí no diuen quan."
+    explanation: "«Ja veurem» vol dir que ho decidiran més tard: dissabte."
+
+  - id: a2-09-010
+    type: match
+    point: futur-simple
+    lesson: 1
+    instruction: "Relaciona cada forma de futur amb el seu infinitiu."
+    pairs:
+      - ["faré", "fer"]
+      - ["aniré", "anar"]
+      - ["tindré", "tenir"]
+      - ["vindré", "venir"]
+      - ["sabré", "saber"]
+    explanation: "Són futurs irregulars: canvien l'arrel (*far-*, *anir-*, *tindr-*, *vindr-*, *sabr-*)."
+
+  - id: a2-09-011
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["ja veurem", "ho decidirem més tard"]
+      - ["com més aviat millor", "tot seguit, sense esperar"]
+      - ["si tot va bé", "si no hi ha cap problema"]
+      - ["d'aquí a una estona", "d'aquí a poc temps"]
+    explanation: "Són quatre maneres de parlar del futur sense donar una hora exacta."
+
+  - id: a2-09-012
+    type: inline-choice
+    point: futur-simple
+    lesson: 1
+    title: "El pronòstic del cap de setmana"
+    text: "Dissabte {farà|fa|fan} sol al matí, amb el cel serè, i la temperatura {pujarà|puja|pujaran} fins als vint graus. A la tarda {hi haurà|hi habrà|hi ha} núvols a la muntanya. Diumenge {plourà|plou|plouran} a Girona i {farà|fa|ferà} vent a la costa."
+    explanation: "Amb «dissabte» i «diumenge», els verbs van en futur: *farà*, *pujarà*, *hi haurà*, *plourà*. *Hi habrà* i *ferà* no existeixen."
+
+  - id: a2-09-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «com més aviat millor»?"
+    answer: "Que ho vols tot seguit, sense esperar."
+    distractors:
+      - text: "Que ho decidiràs més tard."
+        why: "Això vol dir «ja veurem», no «com més aviat millor»."
+      - text: "Que no saps quan ho vols."
+        why: "Això és una indecisió. «Com més aviat millor» demana pressa."
+    explanation: "«Com més aviat millor» demana una cosa sense esperar."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-09-014
+    type: fill
+    point: futur-simple
+    lesson: 2
+    prompt: "Demà ___ sol a la costa, diu el pronòstic."
+    hint: "fer, futur"
+    answers: ["farà"]
+    wrong_answers:
+      - text: "fa"
+        why: "«Fa» és present. Amb «demà», el verb va en futur."
+      - text: "ferà"
+        why: "*Fer* és irregular: *farà*, no *ferà*."
+    grading: tolerant
+    explanation: "«Demà» demana futur. *Fer* és irregular: *farà*, no *ferà*."
+
+  - id: a2-09-015
+    type: fill
+    point: futur-simple
+    lesson: 2
+    prompt: "Diumenge ___ els cosins a dinar."
+    hint: "venir, futur"
+    answers: ["vindran"]
+    wrong_answers:
+      - text: "veniran"
+        why: "*Venir* és irregular: *vindran*, no *veniran*."
+      - text: "venen"
+        why: "«Venen» és present. Amb «diumenge», el verb va en futur."
+    grading: tolerant
+    explanation: "«Diumenge» demana futur. *Venir* fa *vindran* en plural."
+
+  - id: a2-09-016
+    type: fill
+    point: futur-simple
+    lesson: 2
+    prompt: "Aquest estiu jo ___ tres setmanes de vacances."
+    hint: "tenir, futur"
+    answers: ["tindré"]
+    wrong_answers:
+      - text: "teneré"
+        why: "*Teneré* és un calc de «tendré». En català: *tindré*."
+      - text: "tinc"
+        why: "«Tinc» és present. «Aquest estiu» demana futur."
+    grading: tolerant
+    explanation: "El subjecte és «jo». El futur de *tenir* és *tindré*."
+
+  - id: a2-09-017
+    type: fill
+    point: futur-simple
+    lesson: 2
+    prompt: "La Núria diu que demà no ___ venir a la feina: té metge."
+    hint: "poder, futur"
+    answers: ["podrà"]
+    wrong_answers:
+      - text: "poderà"
+        why: "*Poder* és irregular: *podrà*, no *poderà*."
+      - text: "pot"
+        why: "«Pot» és present. Amb «demà», el verb va en futur."
+    grading: tolerant
+    explanation: "«Demà» demana futur. El futur de *poder* és *podrà*."
+
+  - id: a2-09-018
+    type: fill
+    point: plans-pensar-anar
+    lesson: 2
+    prompt: "En Pau i jo ___ anar d'excursió al Montseny."
+    hint: "pensar, present"
+    answers: ["pensem"]
+    wrong_answers:
+      - text: "penseu"
+        why: "«Penseu» és «vosaltres». El subjecte és «en Pau i jo»: *pensem*."
+      - text: "pensar"
+        why: "«Pensar» és infinitiu. El verb va conjugat: *pensem*."
+    grading: tolerant
+    explanation: "«En Pau i jo» és «nosaltres»: *pensem*. Darrere va l'infinitiu."
+
+  - id: a2-09-019
+    type: fill
+    point: plans-pensar-anar
+    lesson: 2
+    prompt: "L'Ibrahim ___ quedar-se a casa tot el cap de setmana."
+    hint: "pensar, present"
+    answers: ["pensa"]
+    wrong_answers:
+      - text: "pensen"
+        why: "«Pensen» és plural. «L'Ibrahim» és singular: *pensa*."
+      - text: "penses"
+        why: "«Penses» és «tu». El subjecte és «l'Ibrahim»: *pensa*."
+    grading: tolerant
+    explanation: "«L'Ibrahim» és singular: *pensa* + infinitiu."
+
+  - id: a2-09-020
+    type: fill
+    point: condicional-cortesia
+    lesson: 2
+    prompt: "___ un cafè amb llet, si us plau."
+    hint: "voler, condicional"
+    answers: ["Voldria"]
+    wrong_answers:
+      - text: "Voleria"
+        why: "*Voler* és irregular: *voldria*, no *voleria*."
+      - text: "Vull"
+        why: "«Vull» és present. Per demanar, el condicional és més educat."
+    grading: tolerant
+    explanation: "Per demanar amb educació fem servir el condicional: *voldria*."
+
+  - id: a2-09-021
+    type: order
+    point: futur-simple
+    lesson: 2
+    cue: "Digues que demà aniràs a la platja amb en Pau."
+    chunks: ["demà", "aniré", "a la platja", "amb en Pau"]
+    extra: ["anaré"]
+    answers:
+      - "Demà aniré a la platja amb en Pau."
+      - "Aniré a la platja amb en Pau demà."
+      - "Demà aniré amb en Pau a la platja."
+      - "Amb en Pau aniré a la platja demà."
+    explanation: "El futur de *anar* és *aniré*, no *anaré*. «Demà» pot anar al principi o al final."
+
+  - id: a2-09-022
+    type: order
+    point: futur-simple
+    lesson: 2
+    cue: "Digues que diumenge farà fred i us quedareu a casa."
+    chunks: ["diumenge", "farà fred", "i", "ens quedarem", "a casa"]
+    extra: ["quedarem"]
+    answers:
+      - "Diumenge farà fred i ens quedarem a casa."
+      - "Farà fred diumenge i ens quedarem a casa."
+    explanation: "«Quedar-se» és pronominal: *ens quedarem*. «Diumenge» pot canviar de lloc."
+
+  - id: a2-09-023
+    type: choice
+    point: condicional-cortesia
+    lesson: 2
+    prompt: "Què dius per demanar el pa amb educació al restaurant?"
+    answer: "Em podries portar el pa, si us plau?"
+    distractors:
+      - text: "Porta'm el pa ara mateix."
+        why: "Això és una ordre, no una petició educada."
+      - text: "Vull el pa, de pressa."
+        why: "Això sona maleducat. El condicional és més educat."
+    explanation: "Per demanar amb educació fem servir el condicional: *podries*."
+
+  - id: a2-09-024
+    type: choice
+    point: condicional-cortesia
+    lesson: 2
+    prompt: "___ reservar taula per a quatre, si us plau."
+    answer: "M'agradaria"
+    distractors:
+      - text: "M'agrada"
+        why: "«M'agrada» és present. Per demanar, el condicional és més educat."
+      - text: "M'agraden"
+        why: "«M'agraden» és plural. «Reservar taula» és singular."
+    explanation: "Per demanar amb educació: *m'agradaria* + infinitiu. És singular."
+
+  - id: a2-09-025
+    type: choice
+    point: futur-simple
+    lesson: 2
+    prompt: "—Què farà demà a Olot? —Diu el pronòstic que ___ tot el dia."
+    answer: "plourà"
+    distractors:
+      - text: "plou"
+        why: "«Plou» és present. Amb «demà», el verb va en futur: *plourà*."
+      - text: "plouran"
+        why: "*Ploure* aquí no té plural: *plourà*."
+    explanation: "«Demà» demana futur. *Ploure* no té plural: *plourà*."
+
+  - id: a2-09-026
+    type: inline-choice
+    point: plans-pensar-anar
+    lesson: 2
+    title: "Missatge de la Carla"
+    text: "Hola! Dissabte {pensem|pensen|pensar} anar a Sitges: diuen que {farà|fa|fan} sol. Hem quedat a les nou a l'estació. {Vindràs|Vens|Vindran} amb nosaltres? Portarem el dinar i {tornarem|tornem|tornaran} a les vuit."
+    explanation: "*Pensem* és «nosaltres». Amb «dissabte», els verbs van en futur: *farà*, *vindràs*, *tornarem*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-09-027
+    type: choice
+    point: condicional-cortesia
+    lesson: 3
+    prompt: "___ dir on és l'estació, si us plau?"
+    answer: "Em podria"
+    distractors:
+      - text: "Em pot"
+        why: "«Em pot» és present. Amb un desconegut, el condicional és més educat."
+      - text: "Em poden"
+        why: "«Em poden» és plural. Parles amb una persona: *em podria*."
+    explanation: "Amb un desconegut, la petició educada és *em podria* + infinitiu."
+
+  - id: a2-09-028
+    type: choice
+    point: condicional-cortesia
+    lesson: 3
+    prompt: "—Vols aigua? —Sí, ___ un got, gràcies."
+    answer: "voldria"
+    distractors:
+      - text: "vull"
+        why: "«Vull» és present. Per acceptar, el condicional és més educat."
+      - text: "voldran"
+        why: "«Voldran» és «ells». El subjecte és «jo»: *voldria*."
+    explanation: "Per acceptar amb educació: *voldria*. És la forma de «jo»."
+
+  - id: a2-09-029
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Diu el pronòstic que demà ___ tempesta a la tarda."
+    answer: "hi haurà"
+    distractors:
+      - text: "hi habrà"
+        why: "*Hi habrà* és un calc de «habrá». En català: *hi haurà*."
+      - text: "hi ha"
+        why: "«Hi ha» és present. Amb «demà», el verb va en futur."
+    explanation: "«Demà» demana futur. *Haver-hi* fa *hi haurà*, no *hi habrà*."
+
+  - id: a2-09-030
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Si plou demà, ___ agafar el paraigua."
+    answer: "caldrà"
+    distractors:
+      - text: "calerà"
+        why: "*Caldre* és irregular: *caldrà*, no *calerà*."
+      - text: "cal"
+        why: "«Cal» és present. Amb «demà», el verb va en futur."
+    explanation: "«Demà» demana futur. *Caldre* és irregular: *caldrà*."
+
+  - id: a2-09-031
+    type: fill
+    point: condicional-cortesia
+    lesson: 3
+    prompt: "Perdoni, ___ dir-me a quina hora tanquen?"
+    hint: "poder, condicional"
+    answers: ["podria"]
+    wrong_answers:
+      - text: "poderia"
+        why: "*Poder* és irregular: *podria*, no *poderia*."
+      - text: "pot"
+        why: "«Pot» és present. Amb «perdoni», el condicional és més educat."
+    grading: tolerant
+    explanation: "Amb «perdoni», la petició educada és *podria* + infinitiu."
+
+  - id: a2-09-032
+    type: fill
+    point: condicional-cortesia
+    lesson: 3
+    prompt: "—Et ve de gust un cafè? —Sí, ___."
+    hint: "agradar, condicional, jo"
+    answers: ["m'agradaria"]
+    wrong_answers:
+      - text: "m'agrada"
+        why: "«M'agrada» és present. Per acceptar, el condicional és més educat."
+      - text: "me agradaria"
+        why: "*Me agradaria* és un calc de «me». El pronom és *m'*: *m'agradaria*."
+    grading: tolerant
+    explanation: "Per acceptar amb educació: *m'agradaria*. El pronom és *m'*."
+
+  - id: a2-09-033
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Demà ___ molta boira a la plana de Vic."
+    hint: "haver-hi, futur"
+    answers: ["hi haurà"]
+    wrong_answers:
+      - text: "hi habrà"
+        why: "*Hi habrà* és un calc de «habrá». En català: *hi haurà*."
+      - text: "hi ha"
+        why: "«Hi ha» és present. Amb «demà», el verb va en futur."
+    grading: tolerant
+    explanation: "«Demà» demana futur. *Haver-hi* fa *hi haurà*."
+
+  - id: a2-09-034
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "Demà farà fred i els nens ___ quedar-se a casa."
+    hint: "voler, futur"
+    answers: ["voldran"]
+    wrong_answers:
+      - text: "voleran"
+        why: "*Voler* és irregular: *voldran*, no *voleran*."
+      - text: "volen"
+        why: "«Volen» és present. Amb «demà», el verb va en futur."
+    grading: tolerant
+    explanation: "«Demà» demana futur. El futur de *voler* és *voldran*."
+
+  - id: a2-09-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Demà hi habrà una tempesta molt forta."
+    error: "hi habrà"
+    fix: "hi haurà"
+    fix_distractors:
+      - text: "hi ha"
+        why: "«Hi ha» és present. Amb «demà», el verb va en futur."
+      - text: "haurà"
+        why: "Sense *hi* falta una part. El verb és *haver-hi*: *hi haurà*."
+    explanation: "*Haver-hi* fa *hi haurà*. *Hi habrà* és un calc de «habrá»."
+
+  - id: a2-09-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "En Wei vindrà demà i es quedarà tres dies."
+    no_error: true
+    explanation: "La frase és correcta: *vindrà* és el futur de *venir*, i *es quedarà* és el futur de *quedar-se*."
+
+  - id: a2-09-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Diumenge l'Arnau i jo anarem a la muntanya."
+    error: "anarem"
+    fix: "anirem"
+    fix_distractors:
+      - text: "anem"
+        why: "«Anem» és present. Amb «diumenge», el verb va en futur."
+      - text: "anireu"
+        why: "«Anireu» és «vosaltres». El subjecte és «nosaltres»: *anirem*."
+    explanation: "El futur de *anar* és *anirem*. *Anarem* no és futur."
+
+  - id: a2-09-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si fa sol, dissabte faré un passeig amb bicicleta."
+    no_error: true
+    explanation: "La frase és correcta: *si fa sol* porta present, i el pla va en futur: *faré*."
+
+  - id: a2-09-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Diu que demà calerà portar jaqueta."
+    error: "calerà"
+    fix: "caldrà"
+    fix_distractors:
+      - text: "cal"
+        why: "«Cal» és present. Amb «demà», el verb va en futur."
+      - text: "caldria"
+        why: "«Caldria» és condicional. Amb «demà», cal el futur: *caldrà*."
+    explanation: "*Caldre* és irregular: *caldrà*, no *calerà*."
+
+  - id: a2-09-040
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "M'ha dit que demà saberà la nota."
+    error: "saberà"
+    fix: "sabrà"
+    fix_distractors:
+      - text: "sap"
+        why: "«Sap» és present. Amb «demà», el verb va en futur."
+      - text: "sabria"
+        why: "«Sabria» és condicional. Amb «demà», cal el futur: *sabrà*."
+    explanation: "El futur de *saber* és *sabrà*, no *saberà*."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-09-041
+    type: transform
+    point: futur-simple
+    lesson: 4
+    instruction: "Passa la frase a demà."
+    source: "[[Avui faig]] el dinar per a tota la família."
+    answers: ["Demà faré el dinar per a tota la família."]
+    wrong_answers:
+      - text: "Demà feré el dinar per a tota la família."
+        why: "*Fer* és irregular: *faré*, no *feré*."
+      - text: "Demà faig el dinar per a tota la família."
+        why: "«Faig» és present. Amb «demà», el verb va en futur."
+    grading: tolerant
+    explanation: "«Demà» demana futur. El futur de *fer* és *faré*."
+
+  - id: a2-09-042
+    type: transform
+    point: futur-simple
+    lesson: 4
+    instruction: "Passa la frase al futur."
+    source: "Aquest cap de setmana [[plou]] a Girona."
+    answers: ["Aquest cap de setmana plourà a Girona."]
+    wrong_answers:
+      - text: "Aquest cap de setmana plou a Girona."
+        why: "«Plou» és present. És un pla: *plourà*."
+      - text: "Aquest cap de setmana plouran a Girona."
+        why: "*Ploure* aquí no té plural: *plourà*."
+    grading: tolerant
+    explanation: "És un pla: *plou* passa a *plourà*. *Ploure* no té plural."
+
+  - id: a2-09-043
+    type: transform
+    point: condicional-cortesia
+    lesson: 4
+    instruction: "Fes la petició més educada."
+    source: "[[Vull]] un bitllet d'anada i tornada."
+    answers: ["Voldria un bitllet d'anada i tornada."]
+    wrong_answers:
+      - text: "Voleria un bitllet d'anada i tornada."
+        why: "*Voler* és irregular: *voldria*, no *voleria*."
+      - text: "Vull un bitllet d'anada i tornada."
+        why: "«Vull» és present. Per demanar, el condicional és més educat."
+    grading: tolerant
+    explanation: "Per demanar amb educació: *voldria*. És el condicional de *voler*."
+
+  - id: a2-09-044
+    type: transform
+    point: condicional-cortesia
+    lesson: 4
+    instruction: "Fes la pregunta més educada."
+    source: "[[Em pots]] dir a quina hora surt el tren?"
+    answers:
+      - "Em podries dir a quina hora surt el tren?"
+      - "Em podria dir a quina hora surt el tren?"
+    wrong_answers:
+      - text: "Em pots dir a quina hora surt el tren?"
+        why: "«Em pots» és present. El condicional és més educat."
+      - text: "Em poderies dir a quina hora surt el tren?"
+        why: "*Poder* és irregular: *podries*, no *poderies*."
+    grading: tolerant
+    explanation: "El condicional és més educat: *em podries* (tu) o *em podria* (vostè)."
+
+  - id: a2-09-045
+    type: transform
+    point: plans-pensar-anar
+    lesson: 4
+    instruction: "Digues el mateix amb el futur."
+    source: "[[Penso quedar-me]] a casa tot el diumenge."
+    answers: ["Em quedaré a casa tot el diumenge."]
+    wrong_answers:
+      - text: "Quedaré a casa tot el diumenge."
+        why: "Falta el pronom. *Quedar-se* és pronominal: *em quedaré*."
+      - text: "Em quedo a casa tot el diumenge."
+        why: "«Em quedo» és present. Cal el futur: *em quedaré*."
+    grading: tolerant
+    explanation: "El pla es pot dir amb el futur: *em quedaré*. El pronom no cau."
+
+  - id: a2-09-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Diumenge [[hi habrà]] molts núvols a la costa."
+    answers: ["Diumenge hi haurà molts núvols a la costa."]
+    wrong_answers:
+      - text: "Diumenge hi ha molts núvols a la costa."
+        why: "«Hi ha» és present. Amb «diumenge», el verb va en futur."
+      - text: "Diumenge haurà molts núvols a la costa."
+        why: "Sense *hi* falta una part. El verb és *haver-hi*: *hi haurà*."
+    grading: tolerant
+    explanation: "*Haver-hi* fa *hi haurà*. *Hi habrà* és un calc de «habrá»."
+
+  - id: a2-09-047
+    type: transform
+    point: futur-simple
+    lesson: 4
+    instruction: "Canvia el subjecte a «nosaltres»."
+    source: "Demà [[aniràs]] a buscar les entrades."
+    answers: ["Demà anirem a buscar les entrades."]
+    wrong_answers:
+      - text: "Demà anarem a buscar les entrades."
+        why: "«Anarem» no és futur. El futur és *anirem*."
+      - text: "Demà anireu a buscar les entrades."
+        why: "«Anireu» és «vosaltres». Cal «nosaltres»: *anirem*."
+    grading: tolerant
+    explanation: "El futur de *anar* és *anirem* en «nosaltres»."
+
+  - id: a2-09-048
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "—Quan surts? —___. Només em poso la jaqueta."
+    hint: "expressió amb «estona»"
+    answers: ["D'aquí a una estona"]
+    wrong_answers:
+      - text: "Ja veurem"
+        why: "«Ja veurem» no respon «quan». Vol dir decidir més tard."
+      - text: "Com més aviat millor"
+        why: "«Com més aviat millor» demana pressa. Aquí dius quan surts."
+    grading: tolerant
+    explanation: "«D'aquí a una estona» respon «quan»: d'aquí a poc."
+
+  - id: a2-09-049
+    type: fill
+    point: futur-simple
+    lesson: 4
+    prompt: "Si tot va bé, l'avió ___ a les nou."
+    hint: "arribar, futur"
+    answers: ["arribarà"]
+    wrong_answers:
+      - text: "arriba"
+        why: "«Arriba» és present. És un pla: *arribarà*."
+      - text: "arribaran"
+        why: "«Arribaran» és plural. «L'avió» és singular: *arribarà*."
+    grading: tolerant
+    explanation: "És un pla: el futur de *arribar* és *arribarà*."
+
+  - id: a2-09-050
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "—I demà, doctor? —Demà ja ___ aixecar-te del llit."
+    hint: "poder, futur"
+    answers: ["podràs"]
+    wrong_answers:
+      - text: "poderàs"
+        why: "*Poder* és irregular: *podràs*, no *poderàs*."
+      - text: "pots"
+        why: "«Pots» és present. Amb «demà», el verb va en futur."
+    grading: tolerant
+    explanation: "«Demà» demana futur. El futur de *poder* és *podràs*."
+
+  - id: a2-09-051
+    type: order
+    point: condicional-cortesia
+    lesson: 4
+    cue: "Demana a un desconegut que et faci una foto."
+    chunks: ["em", "podria", "fer", "una foto", "si us plau"]
+    extra: ["pot"]
+    answers:
+      - "Em podria fer una foto, si us plau."
+      - "Si us plau, em podria fer una foto."
+    explanation: "La petició educada és *em podria* + infinitiu. *Si us plau* pot canviar de lloc."
+
+  - id: a2-09-052
+    type: order
+    point: plans-pensar-anar
+    lesson: 4
+    cue: "Digues que penses anar a veure el partit amb el teu germà."
+    chunks: ["penso", "anar", "a veure", "el partit", "amb el teu germà"]
+    extra: ["pensar"]
+    answers:
+      - "Penso anar a veure el partit amb el teu germà."
+      - "Penso anar amb el teu germà a veure el partit."
+    explanation: "El verb va conjugat: *penso*. Darrere, l'infinitiu: *anar a veure*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-09-053
+    type: reading
+    point: futur-simple
+    lesson: 5
+    title: "Un cap de setmana a Cadaqués"
+    text: |
+      La Carla i en Pau passen el cap de setmana a Cadaqués. Dijous hi va haver una tempesta amb trons i llamps, però ja ha passat. El pronòstic diu que dissabte farà sol i calor, i que diumenge el cel estarà tapat, amb núvols i potser pluja.
+
+      Dissabte pensen anar a la platja al matí i fer un pícnic al migdia. A la tarda visitaran el poble i al vespre soparan en un restaurant de la plaça: ja han fet la reserva. A la nit hi haurà un concert a la plaça.
+
+      Diumenge, si plou, no es mullaran: visitaran el museu i dinaran a casa. Si fa sol, aniran d'excursió pel camí de ronda. A la muntanya, fins i tot hi haurà neu.
+
+      «Si tot va bé, tornarem diumenge a les vuit», diu la Carla. «Ja veurem què diu el cel demà al matí», respon en Pau.
+    questions:
+      - prompt: "Què faran dissabte al matí?"
+        answer: "Aniran a la platja."
+        distractors:
+          - text: "Visitaran el museu."
+            why: "El museu és el pla de diumenge, si plou."
+          - text: "Faran un pícnic a la platja."
+            why: "El pícnic és al migdia, no al matí."
+      - prompt: "Què faran diumenge si plou?"
+        answer: "Visitaran el museu i dinaran a casa."
+        distractors:
+          - text: "Aniran d'excursió pel camí de ronda."
+            why: "L'excursió és el pla de diumenge si fa sol."
+          - text: "Aniran al concert de la plaça."
+            why: "El concert és dissabte a la nit."
+      - prompt: "Quan pensen tornar?"
+        answer: "Diumenge a les vuit."
+        distractors:
+          - text: "Dissabte a la nit."
+            why: "Dissabte a la nit hi haurà el concert."
+          - text: "Dissabte al matí."
+            why: "Dissabte al matí aniran a la platja."
+      - prompt: "On soparan dissabte?"
+        answer: "En un restaurant de la plaça."
+        distractors:
+          - text: "A casa, amb els amics."
+            why: "A casa dinaran diumenge, si plou."
+          - text: "A la platja, amb el pícnic."
+            why: "El pícnic és al migdia, no al vespre."
+    explanation: "La Carla i en Pau passen el cap de setmana a Cadaqués, entre la platja i el museu."
+
+  - id: a2-09-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «si tot va bé»?"
+    answer: "Si no hi ha cap problema."
+    distractors:
+      - text: "Si anem de pressa."
+        why: "La pressa no hi té res a veure. Vol dir «si no hi ha cap problema»."
+      - text: "Si fa bon temps."
+        why: "El temps no hi té res a veure. Vol dir «si no hi ha cap problema»."
+    explanation: "«Si tot va bé» vol dir «si no hi ha cap problema»."
+
+  - id: a2-09-055
+    type: choice
+    point: futur-simple
+    lesson: 5
+    prompt: "—Vindràs demà? —Sí, hi ___ segur."
+    answer: "seré"
+    distractors:
+      - text: "soc"
+        why: "«Soc» és present. Amb «demà», el verb va en futur: *seré*."
+      - text: "seràs"
+        why: "«Seràs» és «tu». Qui respon és «jo»: *seré*."
+    explanation: "Respon «jo»: *hi seré*. «Demà» demana futur."
+
+  - id: a2-09-056
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "Demà ___ fred: porta la jaqueta."
+    answer: "farà"
+    distractors:
+      - text: "harà"
+        why: "*Harà* és un calc de «hará». En català: *farà*, amb *f*."
+      - text: "fa"
+        why: "«Fa» és present. Amb «demà», el verb va en futur."
+    explanation: "«Demà» demana futur. «Hará» en català és *farà*, amb *f*."
+
+  - id: a2-09-057
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «d'aquí a una estona»?"
+    answer: "D'aquí a poc temps."
+    distractors:
+      - text: "Demà o demà passat."
+        why: "Això és molt més tard. Una estona és poc temps."
+      - text: "Ara mateix."
+        why: "Això és ara. Una estona és d'aquí a poc."
+    explanation: "«D'aquí a una estona» vol dir «d'aquí a poc temps»."
+
+  - id: a2-09-058
+    type: fill
+    point: futur-simple
+    lesson: 5
+    prompt: "Dilluns jo ___ reunió amb el cap a les deu."
+    hint: "tenir, futur"
+    answers: ["tindré"]
+    wrong_answers:
+      - text: "teneré"
+        why: "*Teneré* és un calc de «tendré». En català: *tindré*."
+      - text: "tinc"
+        why: "«Tinc» és present. «Dilluns» demana futur."
+    grading: tolerant
+    explanation: "El subjecte és «jo». El futur de *tenir* és *tindré*."
+
+  - id: a2-09-059
+    type: fill
+    point: condicional-cortesia
+    lesson: 5
+    prompt: "Perdoneu, ___ dir-me on és la sortida?"
+    hint: "poder, condicional"
+    answers: ["podríeu"]
+    wrong_answers:
+      - text: "podeu"
+        why: "«Podeu» és present. Amb «perdoneu», el condicional és més educat."
+      - text: "poderíeu"
+        why: "*Poder* és irregular: *podríeu*, no *poderíeu*."
+    grading: tolerant
+    explanation: "Amb «perdoneu», la petició educada és *podríeu* + infinitiu."
+
+  - id: a2-09-060
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "—Quan sabrem la nota? —Demà a les deu ja ___."
+    hint: "saber, futur, amb el pronom"
+    answers: ["la sabrem"]
+    wrong_answers:
+      - text: "la saberem"
+        why: "*Saber* és irregular: *la sabrem*, no *la saberem*."
+      - text: "la sabem"
+        why: "«La sabem» és present. Amb «demà», el verb va en futur."
+      - text: "sabrem"
+        why: "Falta el pronom de «la nota»: *la sabrem*."
+    grading: tolerant
+    explanation: "Respon «nosaltres»: *la sabrem*. «Demà» demana futur."
+
+  - id: a2-09-061
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Demà poderé treballar des de casa."
+    error: "poderé"
+    fix: "podré"
+    fix_distractors:
+      - text: "puc"
+        why: "«Puc» és present. Amb «demà», el verb va en futur."
+      - text: "podria"
+        why: "«Podria» és condicional. Amb «demà», cal el futur: *podré*."
+    explanation: "El futur de *poder* és *podré*, no *poderé*."
+
+  - id: a2-09-062
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Si tot va bé, diumenge anirem a dinar a Sitges."
+    no_error: true
+    explanation: "La frase és correcta: *si tot va bé* porta present, i el pla va en futur: *anirem*."
+
+  - id: a2-09-063
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que si no hi ha cap problema vindràs dissabte a dinar."
+    chunks: ["si tot va bé", "dissabte", "vindré", "a dinar"]
+    extra: ["veniré"]
+    answers:
+      - "Si tot va bé, dissabte vindré a dinar."
+      - "Si tot va bé, vindré a dinar dissabte."
+      - "Dissabte, si tot va bé, vindré a dinar."
+      - "Si tot va bé, vindré dissabte a dinar."
+    explanation: "«Si tot va bé» vol dir «si no hi ha cap problema». El futur de *venir* és *vindré*."
+
+  - id: a2-09-064
+    type: match
+    point: futur-simple
+    lesson: 5
+    instruction: "Relaciona cada persona amb la forma de *fer*."
+    pairs:
+      - ["jo", "faré"]
+      - ["tu", "faràs"]
+      - ["ella", "farà"]
+      - ["nosaltres", "farem"]
+      - ["vosaltres", "fareu"]
+      - ["ells", "faran"]
+    explanation: "Són les sis persones del futur de *fer*, un verb irregular."
+
+  - id: a2-09-065
+    type: inline-choice
+    point: futur-simple
+    lesson: 5
+    title: "Plans de diumenge"
+    text: "Si {fa|farà|fan} bon temps, {anirem|anem|aniran} a la platja. La Fàtima {portarà|porta|portaran} el dinar i en Wei {vindrà|venirà|vindran} amb el gos."
+    explanation: "Amb *si* + present (*si fa*) posem una condició; els plans van en futur: *anirem*, *portarà*, *vindrà*."

@@ -1,0 +1,1017 @@
+id: b2-54
+level: B2
+title: "Registre formal: cartes, correus i sol·licituds"
+summary: "El tractament de vostè i vostès, les fórmules d'obertura i tancament i l'estructura de reclamacions i sol·licituds, en el context del consum i els subministraments."
+vocabulary_theme: "Consum, reclamacions, subministraments i banc"
+points:
+  - id: tractament-voste
+    title: "El tractament de vostè i vostès"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: formules-formals
+    title: "Fórmules d'obertura i tancament"
+  - id: reclamacions-sollicituds
+    title: "Reclamacions i sol·licituds"
+  - id: compte-formules-calcades
+    title: "Compte amb el castellà: fórmules calcades"
+    refs:
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions del consumidor"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Tractament de vostè i salutacions"
+  - title: "El cos de la carta"
+  - title: "Reclamacions i calcs del castellà"
+  - title: "Escriure en registre formal"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la reclamació"
+    definition: "Queixa formal i per escrit a una empresa o a l'administració."
+    example: "Va presentar una reclamació per un càrrec duplicat."
+  - word: "el consumidor, la consumidora"
+    definition: "Persona que compra un producte o fa servir un servei."
+    example: "Com a consumidora, tens dret a reclamar."
+  - word: "el proveïdor"
+    definition: "Empresa que subministra un producte o un servei."
+    example: "El nostre proveïdor de llum ha apujat la tarifa."
+  - word: "el subministrament"
+    definition: "Servei continu de llum, aigua o gas a una casa."
+    example: "Van tallar el subministrament per impagament."
+  - word: "la factura"
+    definition: "Document que detalla què has de pagar per un servei."
+    example: "La factura de setembre porta un càrrec de més."
+  - word: "el rebut"
+    definition: "Paper que demostra que has pagat una cosa."
+    example: "Guarda el rebut fins que arribi la devolució."
+  - word: "el càrrec"
+    definition: "Import que una empresa et cobra al compte del banc."
+    example: "M'han fet el mateix càrrec dues vegades."
+  - word: "el compte corrent"
+    definition: "Compte del banc on es cobren i es paguen els rebuts."
+    example: "El rebut es carrega al compte corrent el dia 5."
+  - word: "la domiciliació"
+    definition: "Ordre al banc de pagar els rebuts automàticament."
+    example: "Tinc la domiciliació de la llum i del gas."
+  - word: "el titular"
+    definition: "Persona a nom de qui està un contracte o un compte."
+    example: "La Núria és la titular del contracte."
+  - word: "la sol·licitud"
+    definition: "Petició formal i per escrit a una empresa o a l'administració."
+    example: "La vostra sol·licitud s'ha acceptat."
+  - word: "el formulari"
+    definition: "Full amb caselles per omplir amb les teves dades."
+    example: "Cal omplir el formulari de la pàgina web."
+  - word: "l'expedient"
+    definition: "Conjunt de papers d'un assumpte obert a l'administració."
+    example: "La reclamació té l'expedient 2026-04521."
+  - word: "el termini"
+    definition: "Temps màxim per fer una cosa."
+    example: "Us agrairia una resposta en el termini de deu dies."
+  - word: "el resguard"
+    definition: "Paper que demostra que has fet un pagament o un tràmit."
+    example: "Demana el resguard de la devolució."
+  - word: "la devolució"
+    definition: "Tornada d'uns diners cobrats de més o per error."
+    example: "Sol·licito la devolució de l'import duplicat."
+  - word: "el servei d'atenció al client"
+    definition: "Telèfon o oficina que resol dubtes i queixes dels clients."
+    example: "Vaig trucar al servei d'atenció al client."
+  - word: "el comptador"
+    definition: "Aparell que mesura el consum de llum, aigua o gas."
+    example: "La lectura del comptador no coincideix amb la factura."
+  - word: "la tarifa"
+    definition: "Preu fixat per un servei, com la llum o el telèfon."
+    example: "La tarifa que tinc contractada no ha canviat."
+  - word: "el consum"
+    definition: "Quantitat de llum, aigua o gas que gasta una casa."
+    example: "El meu consum habitual és d'uns 60 € al mes."
+  - word: "la companyia elèctrica"
+    definition: "Empresa que ven i subministra l'electricitat."
+    example: "Soc clienta de la vostra companyia elèctrica des del 2019."
+  - word: "el deute"
+    definition: "Diners que es deuen a algú."
+    example: "No tinc cap deute pendent amb la companyia."
+  - word: "el pagament"
+    definition: "Acció de pagar una cosa."
+    example: "Us envio el resguard del pagament."
+  - word: "l'extracte"
+    definition: "Document del banc amb els moviments del compte."
+    example: "A l'extracte es veuen els dos càrrecs."
+  - word: "la comissió"
+    definition: "Import que el banc cobra per un servei o un tràmit."
+    example: "El banc m'ha cobrat una comissió de 12 €."
+  - word: "el document adjunt"
+    definition: "Fitxer o paper que s'envia amb una carta o un correu."
+    example: "El rebut va com a document adjunt del correu."
+  - word: "el certificat"
+    definition: "Paper oficial que acredita una cosa."
+    example: "Us escric per demanar un certificat del compte."
+  - word: "l'assumpte"
+    definition: "Tema d'un correu, escrit a la capçalera."
+    example: "A l'assumpte hi posa: càrrec incorrecte."
+  - word: "el motiu"
+    definition: "Raó per la qual es fa una cosa."
+    example: "El motiu d'aquest correu és la factura de gener."
+  - word: "la baixa"
+    definition: "Fet de deixar un servei contractat. No és la baixa de la feina per malaltia."
+    example: "La baixa del gas triga uns deu dies."
+  - word: "l'alta"
+    definition: "Fet de contractar un servei o de fer-se'n client."
+    example: "Es va donar d'alta de la fibra per internet."
+  - word: "el banc"
+    definition: "Entitat on tens el compte i que cobra els rebuts."
+    example: "El banc m'ha cobrat una comissió."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-54-001
+    type: choice
+    point: tractament-voste
+    lesson: 1
+    prompt: "Benvolgut senyor Roca: si ___ cap dubte, truqui'ns."
+    answer: "té"
+    distractors:
+      - text: "tens"
+        why: "*Tens* és tractament de *tu*; amb *vostè* el verb va en tercera persona: *té*."
+      - text: "tenim"
+        why: "*Tenim* és de *nosaltres*; el subjecte aquí és *vostè*: *té*."
+    explanation: "Amb el tractament de *vostè* el verb va en tercera persona del singular: *té*. «Truqui'ns» ja marca el registre formal."
+
+  - id: b2-54-002
+    type: choice
+    point: tractament-voste
+    lesson: 1
+    prompt: "Benvolguts senyors: si ___ cap dubte, truquin-nos."
+    answer: "tenen"
+    distractors:
+      - text: "teniu"
+        why: "Amb *vostès* el verb no va en segona persona: va en tercera persona del plural, *tenen*."
+      - text: "tens"
+        why: "*Tens* és de *tu*: singular i informal. El destinatari és plural i formal: *tenen*."
+    explanation: "Amb el tractament de *vostès* el verb va en tercera persona del plural: *si tenen cap dubte*."
+
+  - id: b2-54-003
+    type: choice
+    point: formules-formals
+    lesson: 1
+    prompt: "Quina salutació és adequada per a una reclamació a una companyia que no coneixes?"
+    answer: "Benvolguts senyors,"
+    distractors:
+      - text: "Hola!"
+        why: "«Hola» és una salutació col·loquial; una reclamació demana registre formal."
+      - text: "Estimat amic,"
+        why: "«Estimat» és per a persones que coneixes; a una companyia desconeguda: *Benvolguts senyors*."
+    explanation: "A un destinatari desconegut s'escriu *Benvolgut/da* + *senyor/senyora/senyors*. «Estimat» implica proximitat."
+
+  - id: b2-54-004
+    type: choice
+    point: formules-formals
+    lesson: 1
+    prompt: "___ senyora Puig: em dic Núria Vidal i soc clienta de la vostra entitat."
+    answer: "Benvolguda"
+    distractors:
+      - text: "Benvolgut"
+        why: "«Senyora» és femení: la salutació hi concorda, *Benvolguda*."
+      - text: "Benvolgudes"
+        why: "El plural no concorda amb «senyora Puig», que és singular: *Benvolguda*."
+    explanation: "La salutació concorda amb el destinatari: *Benvolguda senyora Puig* (femení singular)."
+
+  - id: b2-54-005
+    type: choice
+    point: formules-formals
+    lesson: 1
+    prompt: "Com es tanca una carta formal en català?"
+    answer: "Atentament,"
+    distractors:
+      - text: "Atentamente,"
+        why: "«Atentamente» és castellà; en català, *Atentament*."
+      - text: "Saludos,"
+        why: "«Saludos» és castellà; en català, *Atentament* o *Salutacions cordials*."
+    explanation: "El comiat formal és *Atentament* (o *Salutacions cordials*)."
+
+  - id: b2-54-006
+    type: choice
+    point: tractament-voste
+    lesson: 1
+    prompt: "Vostè ___ dret a presentar una reclamació en qualsevol moment."
+    answer: "té"
+    distractors:
+      - text: "tens"
+        why: "*Tens* és de *tu*; el subjecte aquí és *vostè*: *té*."
+      - text: "tenen"
+        why: "*Tenen* és plural; el subjecte és *vostè* (singular): *té*."
+    explanation: "El subjecte és *vostè*: verb en tercera persona del singular, *té*."
+
+  - id: b2-54-007
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «donar-se de baixa» d'un servei?"
+    answer: "Deixar de ser client d'una companyia o d'un servei."
+    distractors:
+      - text: "Demanar la baixa per malaltia a la feina."
+        why: "Això és «demanar la baixa» o «agafar la baixa»; de baixa d'un servei és deixar de ser-ne client."
+      - text: "Contractar un servei nou amb una companyia."
+        why: "Això és *donar-se d'alta*, just el contrari."
+    explanation: "«Donar-se de baixa» és deixar un servei; no té res a veure amb la baixa per malaltia."
+
+  - id: b2-54-008
+    type: match
+    point: formules-formals
+    lesson: 1
+    instruction: "Relaciona cada part de la carta amb un exemple."
+    pairs:
+      - ["la salutació", "Benvolguda senyora,"]
+      - ["el motiu", "El motiu d'aquest correu és la factura de gener."]
+      - ["la petició", "Us demano que corregeixin l'error."]
+      - ["el document adjunt", "Us adjunto una còpia del rebut."]
+      - ["el comiat", "Atentament,"]
+    explanation: "Tota carta formal té salutació, motiu, petició i comiat; el document adjunt hi apareix quan s'envia un paper amb la carta."
+
+  - id: b2-54-009
+    type: match
+    point: tractament-voste
+    lesson: 1
+    instruction: "Relaciona cada infinitiu amb l'imperatiu formal (vostè)."
+    pairs:
+      - ["rebre", "rebi"]
+      - ["disculpar", "disculpi"]
+      - ["adreçar-se", "adreci's"]
+      - ["no dubtar", "no dubti"]
+      - ["posar-se en contacte", "posi's en contacte"]
+    explanation: "L'imperatiu formal de *vostè* és el present de subjuntiu: *rebi*, *disculpi*…; en afirmatiu, els pronoms van darrere: *adreci's*, *posi's*."
+
+  - id: b2-54-010
+    type: inline-choice
+    point: formules-formals
+    lesson: 1
+    title: "Un correu a la companyia"
+    text: "{Benvolgut|Benvolguda|Estimado} senyor Roca: {Us|T'|Em} escric per la factura de gener. {Us|T'|Ho} adjunto una còpia del rebut. {Atentament|Atentamente|Saludos}, Núria Puig"
+    explanation: "Salutació formal concordada (*Benvolgut senyor*), pronom formal (*Us escric*, *Us adjunto*) i comiat català (*Atentament*): *Benvolguda* no concorda, *t'* i *em* no són el pronom formal, i «Estimado», «Atentamente» i «Saludos» són en castellà."
+
+  - id: b2-54-011
+    type: fill
+    point: tractament-voste
+    lesson: 1
+    prompt: "Benvolgut senyor Roca: ___ una salutació cordial,"
+    hint: "REBRE, imperatiu formal (vostè)"
+    answers: ["Rebi"]
+    wrong_answers:
+      - text: "Rep"
+        why: "«Rep» és imperatiu de *tu*; amb *vostè*: *rebi*."
+      - text: "Reciba"
+        why: "«Reciba» és castellà; en català, *rebi*."
+    grading: tolerant
+    explanation: "Amb *vostè* el comiat fa servir l'imperatiu formal: *Rebi una salutació cordial*."
+
+  - id: b2-54-012
+    type: fill
+    point: formules-formals
+    lesson: 1
+    prompt: "___ senyor Roca: em dic Núria Puig i soc clienta de la vostra companyia."
+    hint: "salutació formal per a un desconegut (masculí)"
+    answers: ["Benvolgut"]
+    wrong_answers:
+      - text: "Benvolguda"
+        why: "«Senyor Roca» és masculí: *Benvolgut*."
+      - text: "Estimado"
+        why: "«Estimado» és castellà; en català, *Benvolgut*."
+    grading: tolerant
+    explanation: "A un desconegut, la salutació formal és *Benvolgut* (masculí) + *senyor* + cognom."
+
+  - id: b2-54-013
+    type: order
+    point: tractament-voste
+    lesson: 1
+    cue: "Tanca una carta formal: dius que restes a l'espera de la resposta."
+    chunks: ["Resto", "a l'espera", "de la vostra", "resposta"]
+    extra: ["teva"]
+    answers:
+      - "Resto a l'espera de la vostra resposta."
+    explanation: "El tancament formal és *Resto a l'espera de la vostra resposta*, amb el possessiu *vostra*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-54-014
+    type: fill
+    point: tractament-voste
+    lesson: 2
+    prompt: "Vostès ___ presentar la reclamació per internet o per telèfon."
+    hint: "PODER, present (vostès)"
+    answers: ["poden"]
+    wrong_answers:
+      - text: "podeu"
+        why: "El subjecte és *vostès*: tercera persona del plural, *poden*."
+      - text: "pot"
+        why: "«Pot» és singular; el subjecte és *vostès* (plural): *poden*."
+    grading: tolerant
+    explanation: "El subjecte és *vostès*: verb en tercera persona del plural, *poden*."
+
+  - id: b2-54-015
+    type: fill
+    point: tractament-voste
+    lesson: 2
+    prompt: "Si ___ cap pregunta, truqui'ns al 932 10 22 33."
+    hint: "TENIR, present (vostè)"
+    answers: ["té"]
+    wrong_answers:
+      - text: "tens"
+        why: "«Tens» és de *tu*; amb *vostè*: *té*."
+      - text: "tenen"
+        why: "«Tenen» és plural; amb *vostè* (singular): *té*."
+    grading: tolerant
+    explanation: "Amb *vostè* el verb va en tercera persona: *Si té cap pregunta*. «Truqui'ns» ja marca el registre."
+
+  - id: b2-54-016
+    type: fill
+    point: reclamacions-sollicituds
+    lesson: 2
+    prompt: "El ___ d'aquest correu és demanar la devolució d'un càrrec duplicat."
+    hint: "MOTIU o MOTIVO?"
+    answers: ["motiu"]
+    wrong_answers:
+      - text: "motivo"
+        why: "«Motivo» és castellà; en català, *motiu*."
+    grading: tolerant
+    explanation: "El cos de la carta s'obre amb el motiu: *El motiu d'aquest correu és…*."
+
+  - id: b2-54-017
+    type: fill
+    point: reclamacions-sollicituds
+    lesson: 2
+    prompt: "En ___ a l'expedient 2026-04521, us explico els fets."
+    hint: "nom que vol dir «menció»"
+    answers: ["referència"]
+    wrong_answers:
+      - text: "referencia"
+        why: "«Referencia» sense accent és castellà; en català, *referència*, amb accent obert."
+    grading: strict
+    explanation: "La fórmula és *En referència a…*, amb accent obert: *referència*. Sense accent és castellà."
+
+  - id: b2-54-018
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Em vull donar ___ del servei de gas."
+    hint: "expressió: deixar un servei"
+    answers: ["de baixa"]
+    wrong_answers:
+      - text: "la baixa"
+        why: "«La baixa» sola és la de la feina per malaltia; deixar un servei és *donar-se de baixa*."
+    grading: tolerant
+    explanation: "Deixar un servei és *donar-se de baixa de* + el servei."
+
+  - id: b2-54-019
+    type: order
+    point: reclamacions-sollicituds
+    lesson: 2
+    cue: "Demana educadament que corregeixin l'error de la factura."
+    chunks: ["Us", "demano", "que", "corregeixin", "l'error"]
+    extra: ["corregiu"]
+    answers:
+      - "Us demano que corregeixin l'error."
+    explanation: "La petició formal és *Us demano que* + subjuntiu; amb *vostès*, *corregeixin*."
+
+  - id: b2-54-020
+    type: order
+    point: tractament-voste
+    lesson: 2
+    cue: "Digues a un client (vostè) que es pot posar en contacte amb vosaltres."
+    chunks: ["Es", "pot", "posar", "en contacte", "amb nosaltres"]
+    extra: ["Et"]
+    answers:
+      - "Es pot posar en contacte amb nosaltres."
+    explanation: "Amb subjecte *vostè* el reflexiu és *es*: *Es pot posar en contacte*."
+
+  - id: b2-54-021
+    type: order
+    point: expressions
+    lesson: 2
+    cue: "Vols deixar de ser client del gimnàs. Demana la baixa del servei."
+    chunks: ["Em", "vull", "donar", "de baixa", "del servei"]
+    extra: ["la baixa"]
+    answers:
+      - "Em vull donar de baixa del servei."
+    explanation: "Deixar un servei és *donar-se de baixa de* + el servei. «La baixa» sola és la de la feina."
+
+  - id: b2-54-022
+    type: choice
+    point: reclamacions-sollicituds
+    lesson: 2
+    prompt: "___ el rebut d'aquest mes en aquest correu."
+    answer: "Us adjunto"
+    distractors:
+      - text: "T'adjunto"
+        why: "«T'adjunto» és de *tu*; en una carta formal, *Us adjunto*."
+      - text: "Us adjunte"
+        why: "«Adjunte» és castellà; en català, *jo adjunto*."
+    explanation: "Per enviar un document amb la carta: *Us adjunto* + el document. *Us* és el pronom del registre formal."
+
+  - id: b2-54-023
+    type: choice
+    point: reclamacions-sollicituds
+    lesson: 2
+    prompt: "Per demanar alguna cosa en una carta formal, quina fórmula és la més adequada?"
+    answer: "Us agrairia que m'enviessin una còpia."
+    distractors:
+      - text: "Envieu-me una còpia ara mateix."
+        why: "El to («ara mateix») és massa brusc per a una carta formal."
+      - text: "Vull una còpia. Envieu-me-la."
+        why: "El to és massa directe per a una carta formal."
+    explanation: "El condicional de cortesia (*agrairia*) + imperfet de subjuntiu (*enviessin*) és la petició formal."
+
+  - id: b2-54-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «quedar a l'espera» en una carta?"
+    answer: "Esperar la resposta d'una carta o d'una sol·licitud."
+    distractors:
+      - text: "Esperar el torn a la cua d'una oficina."
+        why: "Això és fer cua; «quedar a l'espera» és esperar una resposta escrita."
+      - text: "Deixar un assumpte pendent per a més endavant."
+        why: "«Quedar a l'espera» no és ajornar res: és esperar la resposta."
+    explanation: "«Resto/quedo a l'espera de la vostra resposta» tanca el cos de la carta: s'espera resposta."
+
+  - id: b2-54-025
+    type: choice
+    point: tractament-voste
+    lesson: 2
+    prompt: "Benvolguts senyors: ___ una salutació cordial,"
+    answer: "Rebin"
+    distractors:
+      - text: "Rebeu"
+        why: "Amb *vostès* l'imperatiu formal és *rebin*, no *rebeu*."
+      - text: "Reciban"
+        why: "«Reciban» és castellà; en català, *rebin*."
+    explanation: "El comiat amb *vostès* fa servir l'imperatiu formal plural: *rebin*."
+
+  - id: b2-54-026
+    type: match
+    point: expressions
+    lesson: 2
+    instruction: "Relaciona cada expressió amb la seva situació."
+    pairs:
+      - ["donar-se de baixa", "deixar de ser client d'una companyia"]
+      - ["donar-se d'alta", "contractar un servei nou"]
+      - ["quedar a l'espera", "esperar la resposta d'una sol·licitud"]
+      - ["fer una reclamació", "queixar-se formalment d'un servei"]
+    explanation: "Són les expressions bàsiques del consumidor: alta, baixa, espera i reclamació."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-54-027
+    type: find-error
+    point: compte-formules-calcades
+    lesson: 3
+    sentence: "Estimado senyor: m'adreço a vostè per la factura de gener."
+    error: "Estimado senyor"
+    fix: "Benvolgut senyor"
+    fix_distractors:
+      - text: "Benvolguda senyor"
+        why: "«Senyor» és masculí: *Benvolgut senyor*."
+      - text: "Apreciat senyor"
+        why: "«Apreciat senyor» és un calc de «apreciado»; la salutació és *Benvolgut senyor*."
+    explanation: "La salutació formal és *Benvolgut senyor*. «Estimado» és castellà."
+
+  - id: b2-54-028
+    type: find-error
+    point: compte-formules-calcades
+    lesson: 3
+    sentence: "Us adjunte el rebut del mes passat."
+    error: "adjunte"
+    fix: "adjunto"
+    fix_distractors:
+      - text: "adjuntat"
+        why: "El participi no funciona aquí: cal el present, *jo adjunto*."
+      - text: "adjunta"
+        why: "«Adjunta» és tercera persona; el subjecte és *jo*: *adjunto*."
+    explanation: "«Adjunte» és castellà; en català, *jo adjunto*. La fórmula és *Us adjunto* + el document."
+
+  - id: b2-54-029
+    type: find-error
+    point: compte-formules-calcades
+    lesson: 3
+    sentence: "Quedo a la espera de su respuesta."
+    error: "a la espera de su respuesta"
+    fix: "a l'espera de la vostra resposta"
+    fix_distractors:
+      - text: "a la espera de la vostra resposta"
+        why: "«Espera» comença per vocal: l'article s'apostrofa, *a l'espera*."
+      - text: "a l'espera de la teva resposta"
+        why: "«Teva» és de *tu*; en una carta formal, *vostra*."
+    explanation: "Tot el tram és castellà: *a l'espera* (amb elisió) i *la vostra resposta* (possessiu formal)."
+
+  - id: b2-54-030
+    type: find-error
+    point: compte-formules-calcades
+    lesson: 3
+    sentence: "Benvolguts senyors: us demano que anulen el càrrec de gener."
+    error: "anulen"
+    fix: "anul·lin"
+    fix_distractors:
+      - text: "anul·leu"
+        why: "Amb destinatari plural i formal (*vostès*) cal la tercera persona: *anul·lin*."
+      - text: "anul·li"
+        why: "El destinatari és plural (*vostès*): *anul·lin*."
+    explanation: "«Anulen» és castellà; amb *vostès* el subjuntiu és *anul·lin*."
+
+  - id: b2-54-031
+    type: find-error
+    point: formules-formals
+    lesson: 3
+    sentence: "Benvolguda senyora Puig: us escric per la factura del mes de gener."
+    no_error: true
+    explanation: "La frase és correcta: salutació concordada (*Benvolguda senyora*), pronom formal (*us*) i motiu clar."
+
+  - id: b2-54-032
+    type: find-error
+    point: reclamacions-sollicituds
+    lesson: 3
+    sentence: "Us adjunto una còpia del rebut i resto a l'espera de la vostra resposta."
+    no_error: true
+    explanation: "La frase és correcta: fórmula d'adjuntar (*Us adjunto*) i tancament (*resto a l'espera de la vostra resposta*)."
+
+  - id: b2-54-033
+    type: fill
+    point: compte-formules-calcades
+    lesson: 3
+    prompt: "Us prego que m'enviïn el rebut ___, si és possible."
+    hint: "expressió: abans de rebre una cosa"
+    answers: ["per endavant", "abans"]
+    wrong_answers:
+      - text: "de antemano"
+        why: "«De antemano» és castellà; en català, *per endavant*."
+      - text: "per endevant"
+        why: "S'escriu *per endavant*, amb *a*."
+    grading: tolerant
+    explanation: "*Per endavant* vol dir «abans de rebre una cosa»: *Us prego que m'enviïn el rebut per endavant*."
+
+  - id: b2-54-034
+    type: fill
+    point: reclamacions-sollicituds
+    lesson: 3
+    prompt: "Us ___ que m'enviïn el resguard del pagament."
+    hint: "DEMANAR, present (jo)"
+    answers: ["demano"]
+    wrong_answers:
+      - text: "demana"
+        why: "«Demana» és tercera persona; el subjecte és *jo*: *demano*."
+      - text: "demanen"
+        why: "«Demanen» és plural; el subjecte és *jo*: *demano*."
+    grading: tolerant
+    explanation: "La petició formal és *Us demano que* + subjuntiu."
+
+  - id: b2-54-035
+    type: transform
+    point: compte-formules-calcades
+    lesson: 3
+    instruction: "Substitueix la part marcada per una fórmula catalana."
+    source: "Us ho agrairia [[lo antes posible]]."
+    answers:
+      - "Us ho agrairia com més aviat millor."
+      - "Us ho agrairia tan aviat com sigui possible."
+    wrong_answers:
+      - text: "Us ho agrairia a la mayor brevedad."
+        why: "«A la mayor brevedad» és castellà; en català: *com més aviat millor* o *tan aviat com sigui possible*."
+    grading: tolerant
+    explanation: "«Lo antes posible» és castellà. En català: *com més aviat millor* o *tan aviat com sigui possible*."
+
+  - id: b2-54-036
+    type: choice
+    point: compte-formules-calcades
+    lesson: 3
+    prompt: "Quina fórmula és correcta per tancar una carta formal en català?"
+    answer: "Sense res més a afegir, rebi una salutació cordial."
+    distractors:
+      - text: "Sin otro particular, reciba un cordial saludo."
+        why: "Tota la frase és castellana."
+      - text: "Sense res més, rep una salutació."
+        why: "«Rep» és imperatiu de *tu*; amb *vostè*: *rebi*."
+    explanation: "Per tancar en català: *Sense res més a afegir* + *rebi una salutació cordial* (vostè)."
+
+  - id: b2-54-037
+    type: choice
+    point: compte-formules-calcades
+    lesson: 3
+    prompt: "«A la atención del director» en català formal és ___."
+    answer: "A l'atenció del director"
+    distractors:
+      - text: "A la atención del director"
+        why: "«Atención» és castellà; en català, *atenció*."
+      - text: "A la atenció del director"
+        why: "«Atenció» comença per vocal: l'article s'apostrofa, *a l'atenció*."
+    explanation: "«Atención» és castellà; en català, *atenció*. Davant de vocal, l'article s'apostrofa: *a l'atenció*."
+
+  - id: b2-54-038
+    type: choice
+    point: reclamacions-sollicituds
+    lesson: 3
+    prompt: "Quina frase obre millor el cos d'una reclamació?"
+    answer: "El motiu d'aquest correu és un error a la factura de gener."
+    distractors:
+      - text: "El motivo de la presente es la factura de gener."
+        why: "«Motivo» és castellà, i «la presente», també."
+      - text: "Bé, anem al gra: la factura està malament."
+        why: "«Anem al gra» és col·loquial; en una carta formal no hi té lloc."
+    explanation: "El cos s'obre amb el motiu: *El motiu d'aquest correu és…*. Ni castellà ni col·loquialismes."
+
+  - id: b2-54-039
+    type: inline-choice
+    point: compte-formules-calcades
+    lesson: 3
+    title: "Una reclamació"
+    text: "{Benvolguts|Benvolgudes|Estimados} senyors: {Us|T'|Em} escric per un càrrec incorrecte. Us demano que {anul·lin|anul·leu|anulen} el rebut de gener. {Us|T'|Ho} adjunto una còpia de l'extracte. Resto a l'espera {de la vostra|de la teva|de la meva} resposta."
+    explanation: "Tractament de *vostès*: *Benvolguts senyors*, *Us escric*, subjuntiu *anul·lin*, *Us adjunto* i possessiu *vostra*. «Anulen» i «Estimados» són formes castellanes; *anul·leu*, *teva* i *meva* no són de *vostès*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-54-040
+    type: transform
+    point: tractament-voste
+    lesson: 4
+    instruction: "Passa la frase a tractament de vostè."
+    source: "[[T'envio]] la factura demà al matí."
+    answers:
+      - "Us envio la factura demà al matí."
+      - "Us envio demà al matí la factura."
+    wrong_answers:
+      - text: "T'envio la factura demà al matí."
+        why: "Això és tractament de *tu*; amb *vostè* el pronom és *us*."
+    grading: tolerant
+    explanation: "Amb *vostè* el pronom de destinatari és *us*: *Us envio la factura*. «T'envio» és de *tu*."
+
+  - id: b2-54-041
+    type: transform
+    point: tractament-voste
+    lesson: 4
+    instruction: "Passa la frase a tractament de vostè."
+    source: "[[La teva]] sol·licitud s'ha acceptat."
+    answers: ["La vostra sol·licitud s'ha acceptat.", "La seva sol·licitud s'ha acceptat."]
+    wrong_answers:
+      - text: "La teva sol·licitud s'ha acceptat."
+        why: "Encara és tractament de *tu*; en una carta formal, *vostra*."
+    grading: tolerant
+    explanation: "En una carta formal, el possessiu és *vostra* (també *seva*): *La vostra sol·licitud*. «Teva» és de *tu*."
+
+  - id: b2-54-042
+    type: transform
+    point: reclamacions-sollicituds
+    lesson: 4
+    instruction: "Reescriu la petició en tractament de vostès."
+    source: "[[Envieu-me]] una còpia del contracte."
+    answers: ["Enviïn-me una còpia del contracte."]
+    wrong_answers:
+      - text: "Envieu-me una còpia del contracte."
+        why: "Encara és la forma de partida; amb *vostès* l'imperatiu és *enviïn-me*."
+    grading: tolerant
+    explanation: "Amb *vostès* l'imperatiu és la tercera persona del plural: *enviïn-me*. El pronom va darrere, amb guionet."
+
+  - id: b2-54-043
+    type: transform
+    point: compte-formules-calcades
+    lesson: 4
+    instruction: "Corregeix la frase: és una traducció literal del castellà."
+    source: "Quedo [[a la espera de su respuesta]]."
+    answers:
+      - "Resto a l'espera de la vostra resposta."
+      - "Quedo a l'espera de la vostra resposta."
+    wrong_answers:
+      - text: "Resto a la espera de la vostra resposta."
+        why: "«Espera» comença per vocal: l'article s'apostrofa, *a l'espera*."
+      - text: "Resto a l'espera de la teva resposta."
+        why: "«Teva» és de *tu*; en una carta formal, *vostra*."
+    grading: tolerant
+    explanation: "Tot el tram és castellà: *Resto* (o *Quedo*) *a l'espera* (amb elisió) *de la vostra resposta*."
+
+  - id: b2-54-044
+    type: transform
+    point: compte-formules-calcades
+    lesson: 4
+    instruction: "Corregeix la part marcada."
+    source: "[[Adjunto le envío]] l'extracte del compte."
+    answers: ["Us adjunto l'extracte del compte."]
+    wrong_answers:
+      - text: "T'adjunto l'extracte del compte."
+        why: "«T'adjunto» és de *tu*; en registre formal, *Us adjunto*."
+      - text: "Us adjunte l'extracte del compte."
+        why: "«Adjunte» és castellà; en català, *adjunto*."
+    grading: tolerant
+    explanation: "La fórmula catalana és *Us adjunto* + el document. «Adjunto le envío» és castellà."
+
+  - id: b2-54-045
+    type: transform
+    point: tractament-voste
+    lesson: 4
+    instruction: "Passa la frase a tractament de vostès."
+    source: "Si [[voleu]] [[donar-vos]] de baixa, [[truqueu-nos]]."
+    answers:
+      - "Si volen donar-se de baixa, truquin-nos."
+      - "Si es volen donar de baixa, truquin-nos."
+    wrong_answers:
+      - text: "Si voleu donar-vos de baixa, truqueu-nos."
+        why: "Encara no és tractament de *vostès*: cal *volen… donar-se… truquin-nos*."
+      - text: "Si volen donar-vos de baixa, truquin-nos."
+        why: "«Volen» és tercera persona i «donar-vos» és segona: no combinen; amb *vostès*, *donar-se*."
+    grading: tolerant
+    explanation: "Amb *vostès* tot va en tercera persona del plural: *volen*, *donar-se* i *truquin-nos*."
+
+  - id: b2-54-046
+    type: transform
+    point: reclamacions-sollicituds
+    lesson: 4
+    instruction: "Reescriu la frase amb «Us demano que» (vostès)."
+    source: "[[Vull que m'envieu]] el resguard del pagament."
+    answers: ["Us demano que m'enviïn el resguard del pagament."]
+    wrong_answers:
+      - text: "Us demano que m'envieu el resguard del pagament."
+        why: "Amb *vostès* el subjuntiu és *enviïn*, no *envieu*."
+      - text: "Us demano que m'envien el resguard del pagament."
+        why: "En català porta dièresi: *enviïn*. «Envíen» és la forma castellana."
+    grading: tolerant
+    explanation: "La petició formal és *Us demano que* + subjuntiu; amb *vostès*, *que m'enviïn*."
+
+  - id: b2-54-047
+    type: fill
+    point: tractament-voste
+    lesson: 4
+    prompt: "Benvolguts senyors: ___ en compte que el termini acaba divendres."
+    hint: "TENIR, imperatiu formal (vostès)"
+    answers: ["Tinguin"]
+    wrong_answers:
+      - text: "Tingueu"
+        why: "Amb *vostès* l'imperatiu formal és *tinguin*."
+      - text: "Tengan"
+        why: "«Tengan» és castellà; en català, *tinguin*."
+    grading: tolerant
+    explanation: "Amb *vostès* l'imperatiu formal és *tinguin*: *Tinguin en compte que…*."
+
+  - id: b2-54-048
+    type: fill
+    point: compte-formules-calcades
+    lesson: 4
+    prompt: "Disculpin les ___: us farem la devolució aquesta setmana."
+    hint: "MOLÈSTIA, en plural"
+    answers: ["molèsties"]
+    wrong_answers:
+      - text: "molestias"
+        why: "«Molestias» és castellà; en català, *molèsties*."
+    grading: tolerant
+    explanation: "«Molestias» és castellà; en català, *molèsties*. El comiat formal: *Disculpin les molèsties*."
+
+  - id: b2-54-049
+    type: fill
+    point: reclamacions-sollicituds
+    lesson: 4
+    prompt: "M'adreço a vostès per ___ una reclamació."
+    hint: "verb en infinitiu: fer el tràmit"
+    answers: ["presentar", "fer"]
+    wrong_answers:
+      - text: "donar"
+        why: "«Donar una reclamació» no es diu: la reclamació es *presenta* o es *fa*."
+      - text: "demanar"
+        why: "«Demanar una reclamació» no es diu: la reclamació es *presenta* o es *fa*."
+    grading: tolerant
+    explanation: "La reclamació es *presenta* o es *fa*: *M'adreço a vostès per presentar una reclamació*."
+
+  - id: b2-54-050
+    type: order
+    point: compte-formules-calcades
+    lesson: 4
+    cue: "Tanca la carta: sense res més a afegir, el client (vostè) ha de rebre una salutació cordial."
+    chunks: ["Sense", "res més a afegir,", "rebi", "una salutació cordial"]
+    extra: ["rep"]
+    answers:
+      - "Sense res més a afegir, rebi una salutació cordial."
+    explanation: "El comiat formal evita el calc castellà: *Sense res més a afegir* + imperatiu de *vostè*, *rebi*."
+
+  - id: b2-54-051
+    type: order
+    point: reclamacions-sollicituds
+    lesson: 4
+    cue: "Explica que vols la devolució d'un import que t'han cobrat dues vegades."
+    chunks: ["Sol·licito", "la devolució", "de l'import", "cobrat dos cops"]
+    extra: ["la devolución"]
+    answers:
+      - "Sol·licito la devolució de l'import cobrat dos cops."
+    explanation: "La petició formal amb nom: *Sol·licito la devolució de…*. «Devolución» és castellà."
+
+  - id: b2-54-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Vols deixar el contracte de la llum. Què escrius a la companyia?"
+    answer: "Vull donar-me de baixa del subministrament."
+    distractors:
+      - text: "Vull donar-me d'alta del subministrament."
+        why: "Això és el contrari: contractar el servei de nou."
+      - text: "Vull agafar la baixa del subministrament."
+        why: "«Agafar la baixa» és la de la feina per malaltia; deixar un servei és *donar-se de baixa*."
+    explanation: "Deixar un servei és *donar-se de baixa de* + el servei."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-54-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una reclamació a la companyia elèctrica"
+    text: |
+      Assumpte: càrrec incorrecte a la factura de setembre
+
+      Benvolguts senyors:
+
+      Em dic Núria Vidal i soc la titular del contracte 881402 de la vostra companyia elèctrica des del 2019. El motiu d'aquest correu és un càrrec incorrecte a la factura del mes de setembre.
+
+      En referència a l'expedient 2026-04521, que vaig obrir per telèfon fa set dies, us explico els fets. El dia 12 de setembre vaig rebre la factura de la llum amb un import de 184,60 €, quan el meu consum habitual és d'uns 60 € al mes. Vaig comprovar la lectura del comptador i no coincideix amb la que surt a la factura: el comptador marca 12.410 kWh i a la factura hi consta 14.205 kWh. La tarifa que tinc contractada no ha canviat aquest any, així que l'error només pot ser de la lectura. A més, el mateix import se m'ha carregat dues vegades al compte corrent, malgrat que tinc la domiciliació al dia i no tinc cap deute pendent. El banc també m'ha cobrat una comissió de 12 € per un rebut que va tornar per falta de saldo. Vaig trucar al servei d'atenció al client el dia 15 i em van dir que revisarien la factura, però encara no he rebut cap resposta.
+
+      Us adjunto una còpia de la factura, l'extracte del compte on es veuen els dos càrrecs i una fotografia del comptador amb la data d'avui. Com a consumidora, us demano que anul·lin el càrrec duplicat, que em facin la devolució de l'import cobrat de més i que corregeixin la lectura del comptador. També us demano que assumeixin la comissió que m'ha cobrat el banc. A més, us agrairia que m'enviessin el resguard de la devolució com més aviat millor.
+
+      No vull donar-me de baixa del subministrament ni canviar de proveïdor: només demano que es corregeixi l'error. Per a qualsevol aclariment, em poden trucar al 612 44 78 90. Us agrairia una resposta en el termini de deu dies. Resto a l'espera de la vostra resposta.
+
+      Atentament,
+      Núria Vidal
+      Barcelona, 3 d'octubre de 2026
+    questions:
+      - prompt: "Per què escriu la Núria a la companyia?"
+        answer: "Per un càrrec duplicat i una lectura del comptador que no quadra."
+        distractors:
+          - text: "Per donar-se de baixa del subministrament i canviar de proveïdor."
+            why: "Diu clarament que no vol donar-se de baixa ni canviar de proveïdor."
+          - text: "Perquè vol canviar la tarifa que té contractada."
+            why: "La tarifa no ha canviat; el problema és la lectura i el càrrec duplicat."
+      - prompt: "Quins documents adjunta al correu?"
+        answer: "La factura, l'extracte del compte i una foto del comptador."
+        distractors:
+          - text: "El contracte de la llum i l'extracte del compte."
+            why: "L'extracte sí que l'adjunta, però el contracte no."
+          - text: "El resguard d'una devolució anterior."
+            why: "Demana el resguard de la devolució, no l'adjunta."
+      - prompt: "Què demana la Núria a la companyia?"
+        answer: "Que anul·lin el càrrec, que li tornin els diners i que paguin la comissió."
+        distractors:
+          - text: "Que li enviïn una factura nova amb una tarifa més baixa."
+            why: "No demana cap canvi de tarifa, sinó corregir l'error."
+          - text: "Que li donin de baixa el subministrament a final de mes."
+            why: "No vol donar-se de baixa; vol que es corregeixi l'error."
+      - prompt: "Quin termini dona la Núria per rebre una resposta?"
+        answer: "Deu dies."
+        distractors:
+          - text: "Set dies."
+            why: "Fa set dies que va obrir l'expedient; no és el termini de resposta."
+          - text: "Un mes."
+            why: "El consum habitual és d'uns 60 € al mes; el termini són deu dies."
+    explanation: "La Núria reclama un càrrec duplicat i una lectura errònia, adjunta proves i demana la devolució."
+
+  - id: b2-54-054
+    type: choice
+    point: tractament-voste
+    lesson: 5
+    prompt: "Vostè ___ posar en contacte amb nosaltres per correu electrònic."
+    answer: "es pot"
+    distractors:
+      - text: "et pots"
+        why: "«Et pots» és de *tu*; amb *vostè*: *es pot*."
+      - text: "em puc"
+        why: "«Em puc» és de *jo*; el subjecte és *vostè*: *es pot*."
+    explanation: "El subjecte és *vostè*: pronom reflexiu *es* i verb en tercera persona, *es pot*."
+
+  - id: b2-54-055
+    type: choice
+    point: compte-formules-calcades
+    lesson: 5
+    prompt: "«Disculpen las molestias» en una carta a diversos clients (vostès) és ___."
+    answer: "Disculpin les molèsties"
+    distractors:
+      - text: "Disculpen les molestias"
+        why: "«Disculpen» i «molestias» són formes castellanes; en català, *disculpin les molèsties*."
+      - text: "Disculpeu les molèsties"
+        why: "Amb *vostès* l'imperatiu formal és *disculpin*."
+    explanation: "«Disculpen las molestias» és castellà; amb *vostès*, *Disculpin les molèsties*."
+
+  - id: b2-54-056
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "«Fer una reclamació» vol dir ___."
+    answer: "queixar-se per escrit a una empresa o a l'administració"
+    distractors:
+      - text: "demanar la baixa per malaltia al metge de capçalera"
+        why: "Això és la baixa laboral, no una reclamació."
+      - text: "donar-se d'alta d'un servei nou per internet"
+        why: "Això és *donar-se d'alta*, no una reclamació."
+    explanation: "Una reclamació és una queixa formal i per escrit."
+
+  - id: b2-54-057
+    type: fill
+    point: formules-formals
+    lesson: 5
+    prompt: "___ correspongui: us escric per demanar un certificat del compte."
+    hint: "obertura quan no se sap qui llegirà la carta"
+    answers: ["A qui"]
+    wrong_answers:
+      - text: "A que"
+        why: "Davant de persona el relatiu és *qui*: *a qui correspongui*."
+      - text: "Al qui"
+        why: "La fórmula fixa és *a qui correspongui*, sense article."
+    grading: tolerant
+    explanation: "Quan no se sap qui ho llegirà, la carta s'obre amb *A qui correspongui*."
+
+  - id: b2-54-058
+    type: fill
+    point: tractament-voste
+    lesson: 5
+    prompt: "Per a qualsevol aclariment, ___ a la vostra disposició."
+    hint: "RESTAR, present (jo)"
+    answers: ["resto", "quedo"]
+    wrong_answers:
+      - text: "resta"
+        why: "«Resta» és tercera persona; el subjecte és *jo*: *resto* (o *quedo*)."
+      - text: "resten"
+        why: "«Resten» és plural; el subjecte és *jo*: *resto* (o *quedo*)."
+    grading: tolerant
+    explanation: "El tancament és *Resto* (o *Quedo*) *a la vostra disposició*."
+
+  - id: b2-54-059
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Aquest matí ___ de la fibra: em canvio de companyia."
+    hint: "DONAR-SE DE BAIXA, perfet (jo)"
+    answers: ["m'he donat de baixa"]
+    wrong_answers:
+      - text: "he donat de baixa"
+        why: "«Donar-se de baixa» és pronominal: no et deixis el pronom, *m'he donat de baixa*."
+      - text: "m'he donat la baixa"
+        why: "«La baixa» és la de la feina per malaltia; d'un servei, *donar-se de baixa*."
+    grading: tolerant
+    explanation: "Deixar un servei és *donar-se de baixa*: *m'he donat de baixa de la fibra*."
+
+  - id: b2-54-060
+    type: find-error
+    point: compte-formules-calcades
+    lesson: 5
+    sentence: "En referencia al vostre correu de dilluns, us envio el resguard."
+    error: "referencia"
+    fix: "referència"
+    fix_distractors:
+      - text: "refferència"
+        why: "S'escriu amb una sola *f*: *referència*."
+      - text: "referènça"
+        why: "S'escriu amb *c*, no amb *ç*: *referència*."
+    explanation: "«Referencia» sense accent és castellà; en català, *referència*."
+
+  - id: b2-54-061
+    type: find-error
+    point: tractament-voste
+    lesson: 5
+    sentence: "Si volen donar-se d'alta, han d'omplir el formulari de la pàgina web."
+    no_error: true
+    explanation: "La frase és correcta: amb *vostès* els verbs van en tercera persona del plural (*volen*, *han*)."
+
+  - id: b2-54-062
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Reescriu la frase amb l'expressió «donar-se d'alta»."
+    source: "Vull [[contractar la fibra]] amb la vostra companyia."
+    answers:
+      - "Vull donar-me d'alta de la fibra amb la vostra companyia."
+      - "Em vull donar d'alta de la fibra amb la vostra companyia."
+    wrong_answers:
+      - text: "Vull donar-me d'alta la fibra amb la vostra companyia."
+        why: "«Donar-se d'alta» porta *de*: *donar-me d'alta de la fibra*."
+      - text: "Vull donar-me de baixa de la fibra amb la vostra companyia."
+        why: "Això és el contrari: deixar el servei."
+    grading: tolerant
+    explanation: "Contractar un servei és *donar-se d'alta de* + el servei: *donar-me d'alta de la fibra*."
+
+  - id: b2-54-063
+    type: order
+    point: formules-formals
+    lesson: 5
+    cue: "Comença una carta formal adreçada a la senyora Puig."
+    chunks: ["Benvolguda", "senyora Puig,", "us", "escric"]
+    extra: ["Hola"]
+    answers:
+      - "Benvolguda senyora Puig, us escric."
+    explanation: "Obertura formal: salutació concordada (*Benvolguda senyora Puig*) i pronom formal (*us*)."
+
+  - id: b2-54-064
+    type: inline-choice
+    point: reclamacions-sollicituds
+    lesson: 5
+    title: "Canvi de companyia"
+    text: "Benvolguts senyors: vull {donar-me|donar-vos|donar-se} de baixa de la fibra. {Us|T'|Em} demano que {donin|doneu|donen} de baixa el servei a final de mes. {Us|T'|Ho} agraeixo l'atenció. {Atentament|Atentamente|Saludos}."
+    explanation: "El subjecte és *jo* (*vull donar-me*); la petició va en tercera persona del plural (*Us demano que donin*). *Donen* és indicatiu i aquí cal subjuntiu. El comiat és *Atentament*."
+
+  - id: b2-54-065
+    type: match
+    point: reclamacions-sollicituds
+    lesson: 5
+    instruction: "Relaciona cada fórmula formal amb la frase col·loquial equivalent."
+    pairs:
+      - ["Us adjunto el rebut.", "T'envio el rebut amb aquest correu."]
+      - ["Resto a l'espera de la vostra resposta.", "Espero que em respongueu aviat."]
+      - ["Us agrairia que m'enviessin el resguard.", "Si em podeu enviar el resguard, us ho agraeixo."]
+      - ["No dubti a trucar-nos.", "Truca'ns quan vulguis."]
+    explanation: "El mateix contingut canvia de forma segons el registre: formal amb *vostè/vostès* o col·loquial amb *tu/vosaltres*."

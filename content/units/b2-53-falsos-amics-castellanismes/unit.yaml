@@ -1,0 +1,1003 @@
+id: b2-53
+level: B2
+title: "Falsos amics i castellanismes (II)"
+summary: "Els verbs que es confonen amb el castellà: assabentar-se, adonar-se, espatllar-se, acudir, ocórrer-se, assolir i aconseguir. I el registre formal dels tràmits de l'administració."
+vocabulary_theme: "Administració pública i tràmits"
+points:
+  - id: assabentar-adonar
+    title: "Assabentar-se i adonar-se"
+  - id: espatllar-acudir
+    title: "Espatllar-se, acudir i ocórrer-se"
+  - id: assolir-aconseguir
+    title: "Assolir i aconseguir"
+  - id: compte-formal
+    title: "Compte amb el castellà: el registre formal"
+    refs:
+      - label: "Optimot: dubtes del català"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions dels tràmits"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: assabentar-se, adonar-se i espatllar-se"
+  - title: "Practicar: acudir, ocórrer-se i assolir"
+  - title: "El registre formal i les locucions"
+  - title: "Produir: corregir tràmits"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la sol·licitud"
+    definition: "Document amb què es demana una cosa a l'administració."
+    example: "Vaig presentar la sol·licitud per internet."
+  - word: "el formulari"
+    definition: "Full amb caselles que cal omplir per fer un tràmit."
+    example: "El formulari té dues pàgines."
+  - word: "l'imprès"
+    definition: "Formulari oficial en paper."
+    example: "L'imprès es recull a la finestreta dos."
+  - word: "la instància"
+    definition: "Escrit formal amb què es demana o es comunica una cosa a l'administració."
+    example: "Va presentar una instància al registre."
+  - word: "el tràmit"
+    definition: "Gestió que cal fer davant de l'administració."
+    example: "Renovar el DNI és un tràmit senzill."
+  - word: "tramitar"
+    definition: "Fer les gestions d'un tràmit."
+    example: "La gestoria ens tramita les sol·licituds."
+  - word: "l'expedient"
+    definition: "Conjunt de papers d'un mateix assumpte."
+    example: "El seu expedient ja està resolt."
+  - word: "el termini"
+    definition: "Temps màxim per fer una cosa."
+    example: "El termini acaba divendres."
+  - word: "la taxa"
+    definition: "Diners que es paguen per un servei públic."
+    example: "Cal pagar la taxa abans de la prova."
+  - word: "el rebut"
+    definition: "Paper que demostra que has pagat una cosa."
+    example: "Guarda el rebut de la matrícula."
+  - word: "el justificant"
+    definition: "Paper que demostra que has fet un tràmit."
+    example: "Et donen un justificant de l'entrega."
+  - word: "el certificat"
+    definition: "Document oficial que acredita un fet."
+    example: "Necessito un certificat d'empadronament."
+  - word: "el volant"
+    definition: "Certificat curt que lliura l'ajuntament."
+    example: "M'han demanat el volant d'empadronament."
+  - word: "l'empadronament"
+    definition: "Registre de les persones que viuen en un municipi."
+    example: "L'empadronament es fa a l'ajuntament."
+  - word: "el padró"
+    definition: "Llista oficial dels veïns d'un municipi."
+    example: "Consta al padró des del 2019."
+  - word: "la cita"
+    definition: "Dia i hora reservats per ser atès."
+    example: "Tinc cita demà a les nou."
+  - word: "la finestreta"
+    definition: "Taulell on atenen el públic."
+    example: "Passi per la finestreta tres."
+  - word: "el funcionari, la funcionària"
+    definition: "Persona que treballa per a l'administració."
+    example: "El funcionari em va revisar els papers."
+  - word: "el registre"
+    definition: "Oficina on es presenten els documents oficials."
+    example: "Presenta la instància al registre."
+  - word: "segellar"
+    definition: "Posar el segell en un document."
+    example: "Li van segellar la sol·licitud."
+  - word: "el segell"
+    definition: "Marca oficial en un document."
+    example: "Al justificant hi falta el segell."
+  - word: "signar"
+    definition: "Escriure el nom en un document per acceptar-lo."
+    example: "Cal signar totes les pàgines."
+  - word: "la signatura"
+    definition: "Nom escrit a mà en un document."
+    example: "La signatura ha de ser l'original."
+  - word: "la fotocòpia"
+    definition: "Còpia en paper d'un document."
+    example: "Porta l'original i una fotocòpia."
+  - word: "compulsar"
+    definition: "Donar validesa oficial a una fotocòpia."
+    example: "A l'oficina et compulsen les còpies de franc."
+  - word: "adjuntar"
+    definition: "Afegir un document a una sol·licitud."
+    example: "Cal adjuntar el DNI a la sol·licitud."
+  - word: "sol·licitar"
+    definition: "Demanar formalment."
+    example: "Va sol·licitar un ajut de lloguer."
+  - word: "l'ajut"
+    definition: "Diners que l'administració dona per a una necessitat."
+    example: "Ha demanat un ajut per als llibres."
+  - word: "la convocatòria"
+    definition: "Anunci oficial que obre un termini."
+    example: "La convocatòria surt al butlletí."
+  - word: "el requisit"
+    definition: "Condició necessària per aconseguir una cosa."
+    example: "Un requisit és estar empadronat."
+  - word: "la plaça"
+    definition: "Lloc de treball o d'estudi que s'ofereix."
+    example: "Hi ha tres places d'administratiu."
+  - word: "el recurs"
+    definition: "Escrit per reclamar contra una decisió."
+    example: "Va presentar un recurs contra la multa."
+  - word: "l'al·legació"
+    definition: "Raó escrita que es presenta en un tràmit."
+    example: "Les al·legacions es fan en deu dies."
+  - word: "la resolució"
+    definition: "Decisió oficial sobre un assumpte."
+    example: "La resolució arriba per correu."
+  - word: "renovar"
+    definition: "Fer de nou un document que caduca."
+    example: "He de renovar el passaport."
+  - word: "caducar"
+    definition: "Deixar de tenir validesa un document."
+    example: "El DNI caduca al mes de maig."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-53-001
+    type: choice
+    point: assabentar-adonar
+    lesson: 1
+    prompt: "La Carla es va ___ de la convocatòria per una veïna de l'escala."
+    answer: "assabentar"
+    distractors:
+      - text: "enterar"
+        why: "*Enterar-se* és un castellanisme, calc de «enterarse». En català: *assabentar-se*."
+      - text: "assabentat"
+        why: "El passat perifràstic és *va* + infinitiu: *es va assabentar*, no *es va assabentat*."
+    explanation: "«Per una veïna» indica com ho va saber: *assabentar-se de* vol dir rebre una notícia. *Enterar-se* és un castellanisme."
+
+  - id: b2-53-002
+    type: choice
+    point: assabentar-adonar
+    lesson: 1
+    prompt: "En obrir el sobre, en Jordi es va ___ que hi faltava el segell."
+    answer: "adonar"
+    distractors:
+      - text: "donar compte"
+        why: "*Donar-se compte* és un calc de «darse cuenta». En català: *adonar-se*."
+      - text: "adonat"
+        why: "El passat perifràstic és *va* + infinitiu: *es va adonar*, no *es va adonat*."
+    explanation: "«En obrir el sobre» indica que ho nota en aquell moment: *adonar-se* vol dir notar una cosa que tens davant."
+
+  - id: b2-53-003
+    type: choice
+    point: espatllar-acudir
+    lesson: 1
+    prompt: "El caixer de l'oficina es va ___ i vam haver de tornar l'endemà."
+    answer: "espatllar"
+    distractors:
+      - text: "averiar"
+        why: "*Averiar-se* és un castellanisme. En català, una màquina *s'espatlla*."
+      - text: "espatllat"
+        why: "El passat perifràstic és *va* + infinitiu: *es va espatllar*, no *es va espatllat*."
+    explanation: "Una màquina que deixa de funcionar *s'espatlla*. *Averiar-se* és un castellanisme."
+
+  - id: b2-53-004
+    type: choice
+    point: espatllar-acudir
+    lesson: 1
+    prompt: "Els aspirants han d'___ a l'oficina el dia de la prova amb el DNI."
+    answer: "acudir"
+    distractors:
+      - text: "ocórrer"
+        why: "*Ocórrer* vol dir passar, i *ocórrer-se*, venir una idea al cap. Per anar a un lloc, el verb és *acudir*."
+      - text: "acudit"
+        why: "*Haver de* va amb infinitiu: *han d'acudir*, no *han d'acudit*."
+    explanation: "*Acudir* vol dir anar, presentar-se a un lloc: aquí, anar a l'oficina el dia de la prova."
+
+  - id: b2-53-005
+    type: choice
+    point: espatllar-acudir
+    lesson: 1
+    prompt: "—Com vas aconseguir cita tan de pressa? —Se'm va ___ demanar-la per internet a les vuit del matí."
+    answer: "ocórrer"
+    distractors:
+      - text: "ocurrir"
+        why: "En català s'escriu *ocórrer*, amb *o*. *Ocurrir* és la forma castellana."
+      - text: "acudir"
+        why: "*Acudir* vol dir anar a un lloc. Una idea que ve al cap *s'ocorre*."
+    explanation: "Una idea que ve al cap *s'ocorre*: *ocórrer-se*. *Acudir* vol dir anar, i *ocurrir* és la forma castellana."
+
+  - id: b2-53-006
+    type: match
+    point: assabentar-adonar
+    lesson: 1
+    instruction: "Relaciona cada frase amb la seva continuació."
+    pairs:
+      - ["M'he assabentat de la convocatòria:", "l'he llegida al tauler d'anuncis."]
+      - ["En Pau es va adonar de l'error:", "al justificant hi faltava el segell."]
+      - ["Ens hem assabentat del canvi d'horari:", "ens ho ha dit el funcionari."]
+      - ["La Laia es va adonar de la cua:", "arribava fins a la porta."]
+    explanation: "*Assabentar-se* és rebre una notícia; *adonar-se* és notar una cosa que tens davant."
+
+  - id: b2-53-007
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["fer cua", "esperar el torn en una fila"]
+      - ["omplir un formulari", "escriure les dades en un imprès"]
+      - ["demanar hora", "reservar dia i hora per ser atès"]
+      - ["fer un tràmit", "fer una gestió a l'administració"]
+      - ["presentar una sol·licitud", "entregar un document per demanar una cosa"]
+      - ["pagar una taxa", "pagar un servei públic"]
+    explanation: "Són les gestions més habituals davant de l'administració."
+
+  - id: b2-53-008
+    type: inline-choice
+    point: assabentar-adonar
+    lesson: 1
+    title: "Convocatòria urgent"
+    text: "La Núria {es va assabentar|es va enterar} de la convocatòria per un cartell. {Es va adonar|Es va donar compte} que el termini acabava divendres. A l'oficina, el funcionari {es va adonar|es va donar compte} que al formulari hi faltava la signatura. La Núria no {se n'havia assabentat|se n'havia enterat}."
+    explanation: "*Assabentar-se* és rebre una notícia; *adonar-se* és notar una cosa. *Enterar-se* i *donar-se compte* són castellanismes."
+
+  - id: b2-53-009
+    type: fill
+    point: assabentar-adonar
+    lesson: 1
+    prompt: "Ahir la Montse ___ de l'ajut per la carta de l'ajuntament."
+    hint: "ASSABENTAR-SE, passat perifràstic"
+    answers: ["es va assabentar"]
+    wrong_answers:
+      - text: "es va enterar"
+        why: "*Enterar-se* és un castellanisme, calc de «enterarse». En català: *assabentar-se*."
+      - text: "es va assabentat"
+        why: "El passat perifràstic és *va* + infinitiu: *es va assabentar*."
+    grading: tolerant
+    explanation: "«Per la carta» indica com ho va saber: *assabentar-se de* vol dir rebre una notícia."
+
+  - id: b2-53-010
+    type: fill
+    point: assabentar-adonar
+    lesson: 1
+    prompt: "En mirar el rebut, l'Ibrahim ___ que li havien cobrat dues vegades."
+    hint: "ADONAR-SE, passat perifràstic"
+    answers: ["es va adonar"]
+    wrong_answers:
+      - text: "es va donar compte"
+        why: "*Donar-se compte* és un calc de «darse cuenta». En català: *adonar-se*."
+      - text: "es va adonat"
+        why: "El passat perifràstic és *va* + infinitiu: *es va adonar*."
+    grading: tolerant
+    explanation: "«En mirar el rebut» indica que ho nota en aquell moment: *adonar-se* vol dir notar una cosa que tens davant."
+
+  - id: b2-53-011
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «omplir un formulari»?"
+    answer: "Escriure les dades que demana un imprès."
+    distractors:
+      - text: "Lliurar un document al registre."
+        why: "Això és *presentar* un document. *Omplir* és escriure-hi les dades."
+      - text: "Pagar la taxa d'un tràmit."
+        why: "La taxa es paga a part. *Omplir* és escriure les dades a l'imprès."
+    explanation: "*Omplir un formulari* és escriure les dades a les caselles de l'imprès."
+
+  - id: b2-53-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—I per renovar el passaport, què he de fer? —Primer cal ___, per internet o per telèfon."
+    answer: "demanar hora"
+    distractors:
+      - text: "fer cua"
+        why: "La cua es fa a l'oficina, sense cita. Aquí cal reservar dia i hora: *demanar hora*."
+      - text: "pagar una taxa"
+        why: "La taxa és un pagament; aquí cal reservar dia i hora: *demanar hora*."
+    explanation: "«Per internet o per telèfon» indica que cal reservar dia i hora abans d'anar-hi: *demanar hora*."
+
+  - id: b2-53-013
+    type: order
+    point: assabentar-adonar
+    lesson: 1
+    cue: "Explica que en Pau va saber la notícia per un amic."
+    chunks: ["en Pau", "es", "va", "assabentar", "de", "la", "notícia", "per", "un amic"]
+    extra: ["enterar"]
+    answers:
+      - "En Pau es va assabentar de la notícia per un amic."
+      - "Per un amic, en Pau es va assabentar de la notícia."
+    explanation: "*Assabentar-se* vol dir rebre una notícia. *Enterar-se* és un castellanisme."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-53-014
+    type: fill
+    point: espatllar-acudir
+    lesson: 2
+    prompt: "La impressora de l'oficina ___ cada dos per tres."
+    hint: "ESPATLLAR-SE, present"
+    answers: ["s'espatlla"]
+    wrong_answers:
+      - text: "s'averia"
+        why: "*Averiar-se* és un castellanisme. Una màquina *s'espatlla*."
+      - text: "espatlla"
+        why: "*Espatllar-se* és pronominal: la impressora *s'espatlla*."
+    grading: tolerant
+    explanation: "Una màquina que deixa de funcionar *s'espatlla*. El verb és pronominal: *s'espatlla*."
+
+  - id: b2-53-015
+    type: fill
+    point: espatllar-acudir
+    lesson: 2
+    prompt: "Al funcionari se li va ___ una solució molt senzilla."
+    hint: "OCÓRRER-SE, passat perifràstic"
+    answers: ["ocórrer"]
+    wrong_answers:
+      - text: "ocurrir"
+        why: "En català s'escriu *ocórrer*, amb *o*. *Ocurrir* és la forma castellana."
+      - text: "acudir"
+        why: "*Acudir* vol dir anar a un lloc. Una idea que ve al cap *s'ocorre*."
+    grading: tolerant
+    explanation: "Una idea que ve al cap *s'ocorre*: *ocórrer-se*. En català s'escriu amb *o*."
+
+  - id: b2-53-016
+    type: fill
+    point: assolir-aconseguir
+    lesson: 2
+    prompt: "El ple de l'ajuntament va ___ un acord per unanimitat."
+    hint: "ASSOLIR, passat perifràstic"
+    answers: ["assolir"]
+    wrong_answers:
+      - text: "lograr"
+        why: "*Lograr* és un castellanisme. Un acord és un objectiu: *assolir*."
+      - text: "assolit"
+        why: "El passat perifràstic és *va* + infinitiu: *va assolir*."
+    grading: tolerant
+    explanation: "«Un acord per unanimitat» és un objectiu: *assolir* vol dir arribar a un objectiu o a un acord."
+
+  - id: b2-53-017
+    type: fill
+    point: assolir-aconseguir
+    lesson: 2
+    prompt: "Després de dos anys d'espera, l'Arnau va ___ una plaça a l'escola bressol."
+    hint: "ACONSEGUIR, passat perifràstic"
+    answers: ["aconseguir"]
+    wrong_answers:
+      - text: "lograr"
+        why: "*Lograr* és un castellanisme. Una plaça és una cosa concreta: *aconseguir*."
+      - text: "aconseguit"
+        why: "El passat perifràstic és *va* + infinitiu: *va aconseguir*."
+    grading: tolerant
+    explanation: "«Una plaça a l'escola bressol» és una cosa concreta que s'obté amb esforç: *aconseguir*."
+
+  - id: b2-53-018
+    type: order
+    point: espatllar-acudir
+    lesson: 2
+    cue: "Digues que els aspirants han d'anar a l'oficina."
+    chunks: ["els", "aspirants", "han", "d'acudir", "a", "l'oficina"]
+    extra: ["ocórrer"]
+    answers:
+      - "Els aspirants han d'acudir a l'oficina."
+      - "A l'oficina han d'acudir els aspirants."
+    explanation: "*Acudir* vol dir anar, presentar-se a un lloc. *Ocórrer* és una altra cosa: passar o venir al cap."
+
+  - id: b2-53-019
+    type: order
+    point: assolir-aconseguir
+    lesson: 2
+    cue: "Digues que la Fàtima va obtenir l'ajut de lloguer."
+    chunks: ["la", "Fàtima", "va", "aconseguir", "l'ajut", "de", "lloguer"]
+    extra: ["lograr"]
+    answers:
+      - "La Fàtima va aconseguir l'ajut de lloguer."
+    explanation: "«L'ajut de lloguer» és una cosa concreta que s'obté amb esforç: *aconseguir*. *Lograr* és un castellanisme."
+
+  - id: b2-53-020
+    type: choice
+    point: assolir-aconseguir
+    lesson: 2
+    prompt: "«Assolir els objectius» vol dir ___."
+    answer: "arribar als objectius marcats"
+    distractors:
+      - text: "obtenir un document concret"
+        why: "Això és *aconseguir*. *Assolir* és arribar a un objectiu."
+      - text: "rebre una notícia"
+        why: "Això és *assabentar-se*. *Assolir* és arribar a un objectiu."
+    explanation: "*Assolir* vol dir arribar a un objectiu, a un nivell o a un acord."
+
+  - id: b2-53-021
+    type: match
+    point: assolir-aconseguir
+    lesson: 2
+    instruction: "Relaciona cada verb amb el seu complement."
+    pairs:
+      - ["assolir un acord", "arribar a un pacte"]
+      - ["aconseguir una plaça", "obtenir un lloc"]
+      - ["assolir el nivell B2", "arribar al nivell B2"]
+      - ["aconseguir un certificat", "obtenir un document"]
+    explanation: "*Assolir* és arribar a un objectiu o a un acord; *aconseguir* és obtenir una cosa concreta."
+
+  - id: b2-53-022
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "«Fer un tràmit» vol dir ___."
+    answer: "fer una gestió davant de l'administració"
+    distractors:
+      - text: "esperar el torn en una fila"
+        why: "Això és *fer cua*. Un tràmit és una gestió."
+      - text: "escriure les dades en un imprès"
+        why: "Això és *omplir un formulari*. Un tràmit és la gestió sencera."
+    explanation: "*Fer un tràmit* és fer una gestió davant de l'administració, com renovar el DNI."
+
+  - id: b2-53-023
+    type: inline-choice
+    point: assolir-aconseguir
+    lesson: 2
+    title: "Balanç del trimestre"
+    text: "Aquest trimestre hem {assolit|assolir|lograt} els objectius de recollida selectiva. La Montse ha {aconseguit|aconseguir|lograt} una plaça per al seu fill a l'escola bressol. El ple també ha {assolit|assolir|lograt} un acord sobre els horaris. En Pau encara no ha {aconseguit|aconseguir|lograt} el certificat digital."
+    explanation: "*Assolir* és arribar a un objectiu o a un acord; *aconseguir* és obtenir una cosa concreta. *Lograr* és un castellanisme."
+
+  - id: b2-53-024
+    type: choice
+    point: espatllar-acudir
+    lesson: 2
+    prompt: "Per recollir el certificat, cal ___ a la finestreta dos amb el justificant."
+    answer: "acudir"
+    distractors:
+      - text: "ocórrer"
+        why: "*Ocórrer* vol dir passar, i *ocórrer-se*, venir una idea al cap. Per anar a un lloc, el verb és *acudir*."
+      - text: "acudit"
+        why: "Darrere de *cal* va infinitiu: *cal acudir*, no *cal acudit*."
+    explanation: "«A la finestreta dos» és el lloc on cal anar: *acudir* vol dir anar, presentar-se."
+
+  - id: b2-53-025
+    type: choice
+    point: assolir-aconseguir
+    lesson: 2
+    prompt: "L'Ibrahim vol ___ el certificat digital abans de l'estiu."
+    answer: "aconseguir"
+    distractors:
+      - text: "lograr"
+        why: "*Lograr* és un castellanisme. En català: *aconseguir*."
+      - text: "aconseguit"
+        why: "Darrere de *voler* va infinitiu: *vol aconseguir*, no *vol aconseguit*."
+    explanation: "«El certificat digital» és una cosa concreta que s'obté amb esforç: *aconseguir*."
+
+  - id: b2-53-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—Hi ha molta gent, oi? —Sí, hauràs de ___ una bona estona."
+    answer: "fer cua"
+    distractors:
+      - text: "fer un tràmit"
+        why: "El tràmit és la gestió. Esperar-se a la fila és *fer cua*."
+      - text: "demanar hora"
+        why: "«Hi ha molta gent» vol dir que ja és allà: no pot reservar, ha de *fer cua*."
+    explanation: "«Hi ha molta gent» i «una bona estona» indiquen espera a la fila: *fer cua*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-53-027
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "A nivell dels terminis, no hi ha canvis aquest any."
+    error: "A nivell de"
+    fix: "Quant a"
+    fix_distractors:
+      - text: "En base a"
+        why: "*En base a* és un castellanisme. Aquí cal «quant a»: *quant a*."
+      - text: "A partir de"
+        why: "*A partir de* indica origen (*a partir de dilluns*). Per dir «quant a», cal *quant a*."
+    explanation: "«A nivell de» només indica un nivell real (*a nivell del mar*). Amb el sentit de «quant a», cal *quant a* o *pel que fa a*."
+
+  - id: b2-53-028
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "La taxa es calcula en base a criteris objectius."
+    error: "en base a"
+    fix: "a partir de"
+    fix_distractors:
+      - text: "a base de"
+        why: "*A base de* vol dir «a còpia de» (*a base de treballar*). Per indicar l'origen del càlcul, cal *a partir de*."
+      - text: "a partir"
+        why: "*A partir* sempre porta *de* darrere: *a partir de criteris*."
+    explanation: "*En base a* és un castellanisme. Per indicar l'origen d'un càlcul, cal *a partir de*."
+
+  - id: b2-53-029
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "D'acord a la normativa, cal complir tots els requisits."
+    error: "D'acord a"
+    fix: "D'acord amb"
+    fix_distractors:
+      - text: "D'acord de"
+        why: "*D'acord* regeix la preposició *amb*: *d'acord amb la normativa*."
+      - text: "En base a"
+        why: "*En base a* és un castellanisme. Aquí cal *d'acord amb la normativa*."
+    explanation: "*D'acord* regeix *amb*: *d'acord amb la normativa*. *D'acord a* és un calc del castellà."
+
+  - id: b2-53-030
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "Li escric en relació a la seva sol·licitud de plaça."
+    error: "en relació a"
+    fix: "en relació amb"
+    fix_distractors:
+      - text: "en relació de"
+        why: "*En relació* regeix *amb*: *en relació amb la sol·licitud*."
+      - text: "a nivell de"
+        why: "«A nivell de» només indica un nivell real. Aquí cal *en relació amb*."
+    explanation: "La locució és *en relació amb*. *En relació a* és un calc del castellà."
+
+  - id: b2-53-031
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "Us agrairem que ens envieu la documentació a la major brevetat."
+    error: "a la major brevetat"
+    fix: "al més aviat possible"
+    fix_distractors:
+      - text: "a la major rapidesa"
+        why: "*A la major rapidesa* també és un calc. La forma genuïna és *al més aviat possible*."
+      - text: "amb la major brevetat"
+        why: "Canviar la preposició no ho arregla: en aquest ús, *brevetat* és un calc. Cal *al més aviat possible*."
+    explanation: "«A la major brevetat» és un calc de «a la mayor brevedad». En català: *al més aviat possible*."
+
+  - id: b2-53-032
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "Pel que fa a la taxa, la podeu pagar amb targeta i us segellaran el justificant."
+    no_error: true
+    explanation: "La frase és correcta: *pel que fa a* introdueix el tema, i no hi ha cap calc."
+
+  - id: b2-53-033
+    type: find-error
+    point: compte-formal
+    lesson: 3
+    sentence: "L'informe s'ha redactat a partir de les dades del padró."
+    no_error: true
+    explanation: "La frase és correcta: *a partir de* indica l'origen de les dades."
+
+  - id: b2-53-034
+    type: fill
+    point: compte-formal
+    lesson: 3
+    prompt: "D'acord ___ la normativa, els menors han d'anar acompanyats."
+    hint: "preposició"
+    answers: ["amb"]
+    wrong_answers:
+      - text: "a"
+        why: "*D'acord a* és un calc del castellà. La locució és *d'acord amb*."
+      - text: "de"
+        why: "*D'acord* regeix *amb*, no *de*: *d'acord amb la normativa*."
+    grading: tolerant
+    explanation: "*D'acord* regeix *amb*: *d'acord amb la normativa*."
+
+  - id: b2-53-035
+    type: fill
+    point: compte-formal
+    lesson: 3
+    prompt: "En relació ___ la vostra sol·licitud, us convoquem dilluns a les deu."
+    hint: "preposició"
+    answers: ["amb"]
+    wrong_answers:
+      - text: "a"
+        why: "*En relació a* és un calc del castellà. La locució és *en relació amb*."
+      - text: "de"
+        why: "*En relació* regeix *amb*, no *de*: *en relació amb la sol·licitud*."
+    grading: tolerant
+    explanation: "La locució és *en relació amb*."
+
+  - id: b2-53-036
+    type: fill
+    point: compte-formal
+    lesson: 3
+    prompt: "___ l'horari d'estiu, truqueu al 012."
+    hint: "locució per introduir el tema"
+    answers: ["Quant a", "Pel que fa a"]
+    wrong_answers:
+      - text: "A nivell de"
+        why: "«A nivell de» només indica un nivell real. Per introduir el tema, cal *quant a* o *pel que fa a*."
+      - text: "En base a"
+        why: "*En base a* és un castellanisme. Per introduir el tema, cal *quant a* o *pel que fa a*."
+    grading: tolerant
+    explanation: "Per introduir el tema, cal *quant a* o *pel que fa a*. «A nivell de» només indica un nivell real."
+
+  - id: b2-53-037
+    type: choice
+    point: compte-formal
+    lesson: 3
+    prompt: "El termini acaba divendres; ___, presenta la instància avui mateix."
+    answer: "per tant"
+    distractors:
+      - text: "per lo tant"
+        why: "*Per lo tant* és un calc de «por lo tanto». En català: *per tant*."
+      - text: "per lo que"
+        why: "*Per lo que* no és correcte en aquest ús. La conseqüència s'expressa amb *per tant*."
+    explanation: "La segona frase és la conseqüència de la primera: *per tant*. *Per lo tant* és un castellanisme."
+
+  - id: b2-53-038
+    type: choice
+    point: compte-formal
+    lesson: 3
+    prompt: "Quina frase és adequada per a una instància?"
+    answer: "Sol·licito l'ajut de lloguer per a l'any 2026."
+    distractors:
+      - text: "Vull l'ajut de lloguer d'aquest any, si us plau."
+        why: "És massa col·loquial per a una instància: cal el registre formal, *sol·licito*."
+      - text: "A veure si em doneu l'ajut de lloguer."
+        why: "És llengua oral i col·loquial. En una instància cal escriure *sol·licito*."
+    explanation: "Una instància demana el registre formal: el verb és *sol·licitar*, no *voler* ni *donar*."
+
+  - id: b2-53-039
+    type: inline-choice
+    point: compte-formal
+    lesson: 3
+    title: "Avís de l'ajuntament"
+    text: "{Quant|A nivell de|En base a} als terminis, us recordem que la sol·licitud s'ha de presentar amb cita i que, {d'acord amb|d'acord a|d'acord de} la normativa, cal adjuntar el DNI. En relació {amb|a|de} aquest avís, truqueu al 012. Us atendrem {al més aviat possible|a la major brevetat|amb la major brevetat}."
+    explanation: "En un text formal: *quant a*, *d'acord amb*, *en relació amb* i *al més aviat possible*. Les altres formes són calcs del castellà."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-53-040
+    type: transform
+    point: assabentar-adonar
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Ahir la Carla [[es va enterar]] de la convocatòria per un cartell."
+    answers: ["Ahir la Carla es va assabentar de la convocatòria per un cartell."]
+    wrong_answers:
+      - text: "Ahir la Carla es va assabentat de la convocatòria per un cartell."
+        why: "El passat perifràstic és *va* + infinitiu: *es va assabentar*."
+    grading: tolerant
+    explanation: "*Enterar-se* és un castellanisme. En català, rebre una notícia és *assabentar-se de*."
+
+  - id: b2-53-041
+    type: transform
+    point: assabentar-adonar
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "En Pau [[es va donar compte]] de l'error en signar l'imprès."
+    answers: ["En Pau es va adonar de l'error en signar l'imprès."]
+    wrong_answers:
+      - text: "En Pau es va adonat de l'error en signar l'imprès."
+        why: "El passat perifràstic és *va* + infinitiu: *es va adonar*."
+    grading: tolerant
+    explanation: "*Donar-se compte* és un calc de «darse cuenta». Notar una cosa que tens davant és *adonar-se*."
+
+  - id: b2-53-042
+    type: transform
+    point: espatllar-acudir
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "El programa de cites [[s'ha averiat]] i no deixa demanar hora."
+    answers: ["El programa de cites s'ha espatllat i no deixa demanar hora."]
+    wrong_answers:
+      - text: "El programa de cites s'han espatllat i no deixa demanar hora."
+        why: "«El programa» és singular: *s'ha espatllat*."
+    grading: tolerant
+    explanation: "*Averiar-se* és un castellanisme. Una màquina o un programa que deixa de funcionar *s'espatlla*."
+
+  - id: b2-53-043
+    type: transform
+    point: espatllar-acudir
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Al final [[se'm va acudir]] demanar el volant per internet."
+    answers: ["Al final se'm va ocórrer demanar el volant per internet."]
+    wrong_answers:
+      - text: "Al final se'm va ocurrir demanar el volant per internet."
+        why: "En català s'escriu *ocórrer*, amb *o*."
+    grading: tolerant
+    explanation: "Una idea que ve al cap *s'ocorre*. *Acudir* vol dir anar a un lloc."
+
+  - id: b2-53-044
+    type: transform
+    point: assolir-aconseguir
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "La Laia [[va lograr]] una plaça a la llar d'infants."
+    answers: ["La Laia va aconseguir una plaça a la llar d'infants."]
+    wrong_answers:
+      - text: "La Laia va aconseguit una plaça a la llar d'infants."
+        why: "El passat perifràstic és *va* + infinitiu: *va aconseguir*."
+    grading: tolerant
+    explanation: "*Lograr* és un castellanisme. Una plaça és una cosa concreta que s'obté amb esforç: *aconseguir*."
+
+  - id: b2-53-045
+    type: transform
+    point: compte-formal
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[A nivell de]] l'empadronament, no cal cap document nou."
+    answers:
+      - "Quant a l'empadronament, no cal cap document nou."
+      - "Pel que fa a l'empadronament, no cal cap document nou."
+    wrong_answers:
+      - text: "En base a l'empadronament, no cal cap document nou."
+        why: "*En base a* també és un castellanisme. Aquí cal *quant a* o *pel que fa a*."
+    grading: tolerant
+    explanation: "«A nivell de» només indica un nivell real. Amb el sentit de «quant a», cal *quant a* o *pel que fa a*."
+
+  - id: b2-53-046
+    type: transform
+    point: compte-formal
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "L'informe s'ha redactat [[en base a]] les dades del padró."
+    answers:
+      - "L'informe s'ha redactat a partir de les dades del padró."
+      - "L'informe s'ha redactat d'acord amb les dades del padró."
+    wrong_answers:
+      - text: "L'informe s'ha redactat a base de les dades del padró."
+        why: "*A base de* vol dir «a còpia de». Per indicar l'origen, cal *a partir de* o *d'acord amb*."
+    grading: tolerant
+    explanation: "*En base a* és un castellanisme. Per indicar l'origen, cal *a partir de* (o *d'acord amb*)."
+
+  - id: b2-53-047
+    type: fill
+    point: compte-formal
+    lesson: 4
+    prompt: "Envieu la documentació ___, abans que acabi el termini."
+    hint: "locució de rapidesa formal"
+    answers: ["al més aviat possible", "tan aviat com sigui possible"]
+    wrong_answers:
+      - text: "a la major brevetat"
+        why: "«A la major brevetat» és un calc de «a la mayor brevedad». La forma genuïna és *al més aviat possible*."
+      - text: "al més aviat"
+        why: "La locució sencera és *al més aviat possible*."
+    grading: tolerant
+    explanation: "«A la major brevetat» és un calc. Les formes genuïnes són *al més aviat possible* i *tan aviat com sigui possible*."
+
+  - id: b2-53-048
+    type: fill
+    point: espatllar-acudir
+    lesson: 4
+    prompt: "Si us plau, ___ a la finestreta amb l'original i les fotocòpies per compulsar."
+    hint: "ACUDIR, imperatiu (vosaltres)"
+    answers: ["acudiu"]
+    wrong_answers:
+      - text: "ocorreu"
+        why: "*Ocórrer* vol dir passar o venir al cap. Per anar a un lloc, el verb és *acudir*: *acudiu*."
+      - text: "acudir"
+        why: "En català central, l'imperatiu de *vosaltres* és *acudiu*, no l'infinitiu."
+    grading: tolerant
+    explanation: "*Acudir* vol dir anar, presentar-se a un lloc. L'imperatiu de *vosaltres* és *acudiu*."
+
+  - id: b2-53-049
+    type: order
+    point: compte-formal
+    lesson: 4
+    cue: "Digues que, segons la normativa, cal demanar hora."
+    chunks: ["d'acord", "amb", "la", "normativa", "cal", "demanar", "hora"]
+    extra: ["a"]
+    answers:
+      - "D'acord amb la normativa, cal demanar hora."
+      - "Cal demanar hora d'acord amb la normativa."
+    explanation: "*D'acord* regeix *amb*. *D'acord a* és un calc del castellà."
+
+  - id: b2-53-050
+    type: order
+    point: assabentar-adonar
+    lesson: 4
+    cue: "Digues que l'Arnau va notar l'error en llegir la resolució."
+    chunks: ["l'Arnau", "es", "va", "adonar", "de", "l'error", "en", "llegir-la"]
+    extra: ["donar", "compte"]
+    answers:
+      - "L'Arnau es va adonar de l'error en llegir-la."
+      - "En llegir-la, l'Arnau es va adonar de l'error."
+    explanation: "Notar una cosa que tens davant és *adonar-se*. *Donar-se compte* és un castellanisme."
+
+  - id: b2-53-051
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "—Tens tots els papers? —Sí, vull ___ al registre."
+    answer: "presentar una sol·licitud"
+    distractors:
+      - text: "omplir un formulari"
+        why: "Si té tots els papers, el formulari ja és ple. Ara cal lliurar-los: *presentar una sol·licitud*."
+      - text: "fer cua"
+        why: "Fer cua és esperar el torn. Amb els papers a punt, cal lliurar-los al registre."
+    explanation: "«Tens tots els papers» i «al registre» indiquen que cal lliurar la documentació: *presentar una sol·licitud*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-53-052
+    type: choice
+    point: assabentar-adonar
+    lesson: 5
+    prompt: "—Saps que tanquen l'oficina? —Sí, me n'he ___ aquest matí."
+    answer: "assabentat"
+    distractors:
+      - text: "enterat"
+        why: "*Enterar-se* és un castellanisme, calc de «enterarse». En català: *assabentar-se*."
+      - text: "assabentar"
+        why: "El perfet és *he* + participi: *me n'he assabentat*, no *me n'he assabentar*."
+    explanation: "Rebre una notícia és *assabentar-se*. El perfet és *he* + participi: *me n'he assabentat*."
+
+  - id: b2-53-053
+    type: choice
+    point: espatllar-acudir
+    lesson: 5
+    prompt: "Se li va ___ que faltava un paper i va tornar a l'oficina."
+    answer: "ocórrer"
+    distractors:
+      - text: "ocurrir"
+        why: "En català s'escriu *ocórrer*, amb *o*. *Ocurrir* és la forma castellana."
+      - text: "acudir"
+        why: "*Acudir* vol dir anar a un lloc. Una idea que ve al cap *s'ocorre*."
+    explanation: "Una idea que ve al cap *s'ocorre*. En català s'escriu *ocórrer*, i *acudir* vol dir anar."
+
+  - id: b2-53-054
+    type: choice
+    point: assolir-aconseguir
+    lesson: 5
+    prompt: "Amb aquest curs vols ___ el nivell B2 de català?"
+    answer: "assolir"
+    distractors:
+      - text: "lograr"
+        why: "*Lograr* és un castellanisme. En català: *assolir*."
+      - text: "assolit"
+        why: "Darrere de *voler* va infinitiu: *vols assolir*, no *vols assolit*."
+    explanation: "«El nivell B2» és un objectiu: *assolir* vol dir arribar a un objectiu o a un nivell."
+
+  - id: b2-53-055
+    type: choice
+    point: compte-formal
+    lesson: 5
+    prompt: "Us preguem que, ___ la documentació rebuda, ens envieu les al·legacions."
+    answer: "a partir de"
+    distractors:
+      - text: "en base a"
+        why: "*En base a* és un castellanisme. Per indicar l'origen, cal *a partir de*."
+      - text: "a base de"
+        why: "*A base de* vol dir «a còpia de». Per indicar l'origen, cal *a partir de*."
+    explanation: "*En base a* és un castellanisme. Per indicar l'origen, cal *a partir de*."
+
+  - id: b2-53-056
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Per anar al metge de capçalera, cal ___ per telèfon."
+    hint: "expressió: reservar dia i hora"
+    answers: ["demanar hora"]
+    wrong_answers:
+      - text: "fer cua"
+        why: "La cua és presencial. Per telèfon es reserva dia i hora: *demanar hora*."
+      - text: "demanar l'hora"
+        why: "*Demanar l'hora* és preguntar quina hora és. Reservar dia i hora és *demanar hora*, sense article."
+    grading: tolerant
+    explanation: "Reservar dia i hora per al metge és *demanar hora*. *Demanar l'hora* és preguntar quina hora és."
+
+  - id: b2-53-057
+    type: fill
+    point: compte-formal
+    lesson: 5
+    prompt: "La reunió ha anat bé; ___, el projecte tira endavant."
+    hint: "connector de conseqüència"
+    answers: ["per tant"]
+    wrong_answers:
+      - text: "per lo tant"
+        why: "*Per lo tant* és un calc de «por lo tanto». En català: *per tant*."
+      - text: "per lo que"
+        why: "*Per lo que* no és correcte en aquest ús. La conseqüència s'expressa amb *per tant*."
+    grading: tolerant
+    explanation: "La segona frase és la conseqüència de la primera: *per tant*."
+
+  - id: b2-53-058
+    type: find-error
+    point: assabentar-adonar
+    lesson: 5
+    sentence: "Es va donar compte de la convocatòria per un amic."
+    error: "donar compte"
+    fix: "assabentar"
+    fix_distractors:
+      - text: "enterar"
+        why: "*Enterar-se* també és un castellanisme. En català: *assabentar-se*."
+      - text: "oblidar"
+        why: "«Per un amic» indica com ho va saber: no s'ho va oblidar, se'n va *assabentar*."
+    explanation: "«Per un amic» indica una notícia rebuda: *assabentar-se*. Tant *donar-se compte* com *enterar-se* són castellanismes."
+
+  - id: b2-53-059
+    type: find-error
+    point: compte-formal
+    lesson: 5
+    sentence: "D'acord amb l'avís, el teu expedient ja està resolt."
+    no_error: true
+    explanation: "La frase és correcta: *d'acord amb* és la locució genuïna, i no hi ha cap altre calc."
+
+  - id: b2-53-060
+    type: transform
+    point: compte-formal
+    lesson: 5
+    instruction: "Corregeix la frase."
+    source: "Us atendrem [[a la major brevetat]]."
+    answers:
+      - "Us atendrem al més aviat possible."
+      - "Us atendrem tan aviat com sigui possible."
+    wrong_answers:
+      - text: "Us atendrem al més aviat."
+        why: "La locució sencera és *al més aviat possible*."
+    grading: tolerant
+    explanation: "«A la major brevetat» és un calc. Les formes genuïnes són *al més aviat possible* i *tan aviat com sigui possible*."
+
+  - id: b2-53-061
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que han d'escriure les dades en un imprès per al tràmit."
+    chunks: ["heu", "d'omplir", "un", "formulari", "per", "al", "tràmit"]
+    extra: ["omplit"]
+    answers:
+      - "Heu d'omplir un formulari per al tràmit."
+      - "Per al tràmit, heu d'omplir un formulari."
+    explanation: "*Omplir un formulari* és escriure les dades a les caselles de l'imprès."
+
+  - id: b2-53-062
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["demanar hora", "Truques al CAP per reservar visita."]
+      - ["fer cua", "T'esperes a la fila de la finestreta."]
+      - ["presentar una sol·licitud", "Lliures els papers al registre."]
+      - ["pagar una taxa", "Pagues el servei amb targeta."]
+    explanation: "Cada expressió descriu una gestió habitual davant de l'administració."
+
+  - id: b2-53-063
+    type: choice
+    point: espatllar-acudir
+    lesson: 5
+    prompt: "Què vol dir «acudir a les urnes»?"
+    answer: "Anar a votar."
+    distractors:
+      - text: "Rebre una notícia electoral."
+        why: "Això és *assabentar-se*. *Acudir* vol dir anar."
+      - text: "Presentar un recurs electoral."
+        why: "Un recurs és una reclamació. *Acudir a les urnes* és anar a votar."
+    explanation: "*Acudir* vol dir anar. «Acudir a les urnes» és l'expressió formal per dir *anar a votar*."
+
+  - id: b2-53-064
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La Núria i el certificat digital"
+    text: |
+      La Núria es va assabentar per una companya que, a partir del gener, tots els tràmits de l'ajuntament s'han de fer per internet. En sentir la notícia, es va adonar que no tenia el certificat digital i que el seu DNI caducava al març. Volia solucionar-ho tan aviat com fos possible, perquè el termini d'una beca acabava aviat. Va demanar hora per internet i, l'endemà, va acudir a l'oficina amb el DNI i una fotocòpia.
+
+      A la finestreta, el funcionari li va demanar el justificant del pagament de la taxa. La Núria es va adonar que l'havia deixat a casa. Se li va ocórrer tornar-hi a la tarda: pel que fa als horaris, l'oficina obre fins a les set. A la tarda, el caixer automàtic s'havia espatllat i va haver de fer cua a la finestreta del costat, però finalment va aconseguir el certificat.
+
+      D'acord amb les instruccions, va instal·lar el programa a l'ordinador. Al principi es va espantar: el programa semblava complicat. Però, en relació amb el manual, tot era molt clar: calia omplir un formulari, adjuntar-hi el DNI i signar amb la contrasenya. En pocs minuts va assolir el seu objectiu: va presentar la primera sol·licitud sense sortir de casa.
+
+      Ara la Núria diu que no tornarà a fer cua si ho pot evitar. «He après que la majoria de tràmits es poden fer des del sofà», explica. I afegeix, rient: «El proper objectiu és que la meva mare també s'hi animi». La setmana que ve ajudarà la seva mare a tramitar la renovació del passaport.
+    questions:
+      - prompt: "Per què necessita la Núria el certificat digital?"
+        answer: "Perquè els tràmits de l'ajuntament seran només per internet."
+        distractors:
+          - text: "Perquè el seu DNI caduca al mes de març."
+            why: "El DNI caduca al març, però el certificat és per als tràmits per internet."
+          - text: "Perquè vol demanar una beca per internet."
+            why: "La beca explica la pressa, però el certificat és per a tots els tràmits."
+      - prompt: "Què li passa en la primera visita a la finestreta?"
+        answer: "No porta el justificant del pagament."
+        distractors:
+          - text: "El caixer automàtic no funciona."
+            why: "El caixer s'espatlla a la tarda, no en la primera visita."
+          - text: "No porta cap fotocòpia del DNI."
+            why: "La fotocòpia sí que la porta; el que deixa a casa és el justificant."
+      - prompt: "Com aconsegueix finalment el certificat?"
+        answer: "Tornant a l'oficina a la tarda i fent cua."
+        distractors:
+          - text: "Demanant hora per telèfon."
+            why: "Demana hora per internet, no per telèfon."
+          - text: "Presentant la sol·licitud des de casa."
+            why: "Això ho fa després, quan ja té el certificat."
+      - prompt: "Què opina la Núria al final?"
+        answer: "Que els tràmits per internet són més còmodes."
+        distractors:
+          - text: "Que el programa és massa complicat."
+            why: "Al principi li ho sembla, però després ho fa en pocs minuts."
+          - text: "Que no vol ajudar la seva mare."
+            why: "Al contrari: vol que la seva mare també s'hi animi."
+    explanation: "El text explica com la Núria aconsegueix el certificat digital i presenta la primera sol·licitud per internet."

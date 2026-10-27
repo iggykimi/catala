@@ -1,0 +1,1028 @@
+id: a2-06
+level: A2
+title: "Ser, estar i haver-hi"
+summary: "Els verbs *ser* i *estar* amb adjectius i llocs, *haver-hi* en tres temps i *ser-hi*, amb indicacions per orientar-se per la ciutat."
+vocabulary_theme: "La ciutat i les indicacions"
+points:
+  - id: ser-estar-adjectius
+    title: "Ser i estar amb adjectius"
+    refs:
+      - label: "GEIEC: Ser i estar"
+        url: "https://geiec.iec.cat"
+  - id: ser-localitzacio
+    title: "La localització amb ser"
+    refs:
+      - label: "GEIEC: Ser i estar"
+        url: "https://geiec.iec.cat"
+  - id: haver-hi
+    title: "Haver-hi: hi ha, hi havia, hi haurà"
+    refs:
+      - label: "GEIEC: Haver-hi"
+        url: "https://geiec.iec.cat"
+  - id: ser-hi
+    title: "Ser-hi i no ser-hi"
+    refs:
+      - label: "GEIEC: Ser-hi"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: estar i hi han"
+  - id: expressions
+    title: "Expressions per orientar-se"
+lessons:
+  - title: "Estats i llocs: ser i estar"
+  - title: "Practicar ser i estar"
+  - title: "Haver-hi i ser-hi"
+  - title: "Produir frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el carrer"
+    definition: "Via d'una ciutat amb cases a cada costat."
+    example: "El carrer Major és ple de botigues."
+  - word: "la plaça"
+    definition: "Espai obert d'una ciutat on es troba la gent."
+    example: "La festa és a la plaça del poble."
+  - word: "l'avinguda"
+    definition: "Carrer molt ample d'una ciutat."
+    example: "L'avinguda té tres rotondes noves."
+  - word: "el barri"
+    definition: "Part d'una ciutat que té un nom propi."
+    example: "Al meu barri hi ha tres escoles."
+  - word: "el centre"
+    definition: "Part principal d'una ciutat, amb botigues i oficines."
+    example: "L'estació és lluny del centre."
+  - word: "la farmàcia"
+    definition: "Botiga on es venen medicaments."
+    example: "La farmàcia és al carrer Major."
+  - word: "el banc"
+    definition: "Establiment on guardes els diners i demanes préstecs."
+    example: "Hi ha dos bancs a la plaça."
+  - word: "l'estació"
+    definition: "Lloc on surten i arriben els trens."
+    example: "L'estació és a tocar de la plaça."
+  - word: "la parada"
+    definition: "Lloc on s'atura el bus o el metro."
+    example: "La parada del metro és al final del carrer."
+  - word: "el semàfor"
+    definition: "Llum que diu si pots passar o t'has d'aturar."
+    example: "Vas a mà dreta al semàfor."
+  - word: "la cantonada"
+    definition: "Angle on es troben dos carrers."
+    example: "Hi ha una farmàcia a la cantonada."
+  - word: "el parc"
+    definition: "Espai verd amb arbres on passeja la gent."
+    example: "L'any que ve hi haurà un parc nou."
+  - word: "el museu"
+    definition: "Edifici on es veuen obres d'art o objectes antics."
+    example: "El museu és a tocar de l'estació."
+  - word: "el mercat"
+    definition: "Edifici o plaça on es venen fruita, verdura i peix."
+    example: "Al meu barri hi ha tres escoles i un mercat."
+  - word: "la biblioteca"
+    definition: "Lloc on pots llegir llibres i endur-te'ls a casa."
+    example: "La biblioteca és a tocar."
+  - word: "el cinema"
+    definition: "Sala fosca on es projecten pel·lícules."
+    example: "Abans hi havia un cinema a la plaça."
+  - word: "l'hospital"
+    definition: "Edifici gran on els metges curen els malalts."
+    example: "La Montse és a l'hospital."
+  - word: "el quiosc"
+    definition: "Botiga petita del carrer on es venen diaris."
+    example: "Ara hi ha un quiosc davant de l'escola."
+  - word: "la rotonda"
+    definition: "Plaça rodona on els cotxes giren per canviar de carrer."
+    example: "Hi ha tres rotondes noves a l'avinguda."
+  - word: "la fleca"
+    definition: "Botiga on fan i venen pa cada matí."
+    example: "Abans hi havia una fleca en aquest carrer."
+  - word: "la llibreria"
+    definition: "Botiga on es venen llibres."
+    example: "Al centre hi ha moltes llibreries antigues."
+  - word: "el bar"
+    definition: "Local on es prenen cafès i begudes."
+    example: "Al meu carrer hi ha tres bars nous."
+  - word: "els lavabos"
+    definition: "Habitació amb vàters en un lloc públic."
+    example: "Els lavabos són al final del passadís."
+  - word: "l'oficina"
+    definition: "Pis on treballa gent amb ordinadors i papers."
+    example: "L'oficina és a deu minuts de casa."
+  - word: "el metro"
+    definition: "Tren que va per sota de la ciutat."
+    example: "La parada del metro és a prop."
+  - word: "el bus"
+    definition: "Cotxe gran que porta passatgers per la ciutat."
+    example: "L'estació és lluny: has d'agafar el bus."
+  - word: "a peu"
+    definition: "Caminant, sense cap vehicle."
+    example: "Cada matí vaig a peu a la feina."
+  - word: "a prop"
+    definition: "A poca distància."
+    example: "Hi ha una farmàcia a prop."
+  - word: "lluny"
+    definition: "A molta distància."
+    example: "L'estació és lluny del centre."
+  - word: "al final"
+    definition: "A l'última part d'un lloc o d'un camí."
+    example: "Els lavabos són al final del carrer."
+  - word: "l'esquerra"
+    definition: "El costat del cor, contrari de la dreta."
+    example: "Vas a l'esquerra al semàfor."
+  - word: "girar"
+    definition: "Canviar de direcció en un camí."
+    example: "Va tot recte i gira a mà dreta."
+  - word: "seguir"
+    definition: "Continuar pel mateix camí."
+    example: "Seguiu tot recte i trobareu l'estació."
+  - word: "la fruiteria"
+    definition: "Botiga on es venen fruita i verdura."
+    example: "Al carrer hi ha dues fruiteries."
+  - word: "el passadís"
+    definition: "Corredor llarg dins d'un edifici."
+    example: "Els lavabos són al final del passadís."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: a2-06-001
+    type: choice
+    point: ser-estar-adjectius
+    lesson: 1
+    prompt: "—Com estàs? —___ molt cansat, avui."
+    answer: "Estic"
+    distractors:
+      - text: "Tinc"
+        why: "*Tenir* no va amb *cansat*: diem *estic cansat* o *soc cansat*."
+      - text: "Està"
+        why: "Parles de tu: la forma és *estic*, no *està*."
+    explanation: "Parles de tu mateix: *estic cansat*. *Soc cansat* també és correcte."
+
+  - id: a2-06-002
+    type: choice
+    point: ser-estar-adjectius
+    lesson: 1
+    prompt: "La Laia ___ molt contenta de la nota."
+    answer: "està"
+    distractors:
+      - text: "estan"
+        why: "«La Laia» és una sola persona: *està*, no *estan*."
+      - text: "té"
+        why: "Amb *content* no fem servir *tenir*: *està contenta*."
+    explanation: "«La Laia» és singular: *està contenta*. *És contenta* també és correcte."
+
+  - id: a2-06-003
+    type: choice
+    point: ser-estar-adjectius
+    lesson: 1
+    prompt: "L'Ibrahim ___ trist: el seu equip ha perdut."
+    answer: "està"
+    distractors:
+      - text: "són"
+        why: "«L'Ibrahim» és una sola persona: *està*, no *són*."
+      - text: "té"
+        why: "Amb *trist* no fem servir *tenir*: *està trist*."
+    explanation: "«L'Ibrahim» és singular: *està trist*. *És trist* també és correcte."
+
+  - id: a2-06-004
+    type: choice
+    point: ser-estar-adjectius
+    lesson: 1
+    prompt: "La Núria i la Carla ___ preocupades per l'examen."
+    answer: "estan"
+    distractors:
+      - text: "està"
+        why: "«La Núria i la Carla» són dues persones: *estan*."
+      - text: "tenen"
+        why: "Amb *preocupat* no fem servir *tenir*: *estan preocupades*."
+    explanation: "«La Núria i la Carla» és plural: *estan preocupades*. *Són preocupades* també és correcte."
+
+  - id: a2-06-005
+    type: choice
+    point: ser-localitzacio
+    lesson: 1
+    prompt: "—On és en Pau? —___ a la feina."
+    answer: "És"
+    distractors:
+      - text: "Són"
+        why: "«En Pau» és una sola persona: *és*, no *són*."
+      - text: "Hi ha"
+        why: "*Hi ha* presenta una cosa nova: per dir on és algú fem servir *ser*."
+    explanation: "La localització es fa amb *ser*: «en Pau» és singular, *és a la feina*."
+
+  - id: a2-06-006
+    type: choice
+    point: ser-localitzacio
+    lesson: 1
+    prompt: "Les claus ___ a l'entrada, al calaix."
+    answer: "són"
+    distractors:
+      - text: "és"
+        why: "«Les claus» és plural: *són*, no *és*."
+      - text: "hi ha"
+        why: "*Hi ha* no diu on és una cosa concreta: *són a l'entrada*."
+    explanation: "«Les claus» és plural: *són a l'entrada*."
+
+  - id: a2-06-007
+    type: choice
+    point: ser-localitzacio
+    lesson: 1
+    prompt: "La farmàcia ___ al carrer Major, a tocar de la plaça."
+    answer: "és"
+    distractors:
+      - text: "són"
+        why: "«La farmàcia» és singular: *és*, no *són*."
+      - text: "hi ha"
+        why: "*Hi ha* presenta una cosa nova: per dir on és un lloc fem servir *ser*."
+    explanation: "Per dir on és un lloc concret fem servir *ser*: *és al carrer Major*."
+
+  - id: a2-06-008
+    type: choice
+    point: ser-localitzacio
+    lesson: 1
+    prompt: "—On ___ els teus pares? —Són a Girona."
+    answer: "són"
+    distractors:
+      - text: "és"
+        why: "«Els teus pares» és plural: *són*, no *és*."
+      - text: "hi ha"
+        why: "Per preguntar on és algú concret diem *on són*."
+    explanation: "«Els teus pares» és plural: *on són*. La localització es fa amb *ser*."
+
+  - id: a2-06-009
+    type: choice
+    point: ser-localitzacio
+    lesson: 1
+    prompt: "La Marta ___ casa."
+    answer: "és a"
+    distractors:
+      - text: "és en"
+        why: "Diem *a casa*: fer servir *en* és un calc de «en casa»."
+      - text: "són a"
+        why: "«La Marta» és singular: *és a casa*."
+    explanation: "«La Marta» és singular i amb *casa* fem servir *a*: *és a casa*."
+
+  - id: a2-06-010
+    type: match
+    point: ser-estar-adjectius
+    lesson: 1
+    instruction: "Relaciona cada masculí amb el seu femení."
+    pairs:
+      - ["cansat", "cansada"]
+      - ["content", "contenta"]
+      - ["trist", "trista"]
+      - ["malalt", "malalta"]
+      - ["nerviós", "nerviosa"]
+    explanation: "Els adjectius concorden amb la persona: *cansat/cansada*, *nerviós/nerviosa*."
+
+  - id: a2-06-011
+    type: match
+    point: ser-localitzacio
+    lesson: 1
+    instruction: "Relaciona cada pregunta amb la seva resposta."
+    pairs:
+      - ["On és la farmàcia?", "És al carrer Major."]
+      - ["On és l'estació?", "És a tocar de la plaça."]
+      - ["On són els lavabos?", "Són al final del passadís."]
+      - ["On és la biblioteca?", "És davant per davant del parc."]
+    explanation: "Per dir on és un lloc concret fem servir *ser*: *és al carrer Major*, *són al final del passadís*."
+
+  - id: a2-06-012
+    type: inline-choice
+    point: ser-localitzacio
+    lesson: 1
+    title: "On és tot?"
+    text: "—Perdoni, {on|què} és el museu? —{És|Són|Hi ha} a tocar de l'estació. —I els lavabos? —{Són|És|Hi ha} al final del carrer. —I la parada del bus? —{És|Són|Hi ha} davant per davant del parc."
+    explanation: "Per preguntar on és un lloc concret: *on és*. Les respostes fan servir *ser*: *és a tocar*, *són al final*."
+
+  - id: a2-06-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Vas ___ pel carrer Major i trobaràs la farmàcia."
+    answer: "tot recte"
+    distractors:
+      - text: "a tocar"
+        why: "*A tocar* vol dir molt a prop, no en línia recta."
+      - text: "davant per davant"
+        why: "*Davant per davant* vol dir just al davant, no en línia recta."
+    explanation: "*Tot recte* vol dir sense girar: segueixes el carrer fins a la farmàcia."
+
+  # ---------- Lliçó 2 ----------
+  - id: a2-06-014
+    type: fill
+    point: ser-estar-adjectius
+    lesson: 2
+    prompt: "Avui ___ molt cansat: he treballat deu hores."
+    hint: "*ser* o *estar*, jo"
+    answers: ["Estic", "Soc"]
+    wrong_answers:
+      - text: "Tinc"
+        why: "Amb *cansat* no fem servir *tenir*: *estic cansat* o *soc cansat*."
+    grading: tolerant
+    explanation: "Amb *cansat* pots dir *estic* o *soc*: les dues formes són correctes."
+
+  - id: a2-06-015
+    type: fill
+    point: ser-estar-adjectius
+    lesson: 2
+    prompt: "La Fàtima ___ molt contenta amb el pis nou."
+    hint: "*ser* o *estar*, ella"
+    answers: ["està", "és"]
+    wrong_answers:
+      - text: "té"
+        why: "Amb *content* no fem servir *tenir*: *està contenta* o *és contenta*."
+    grading: tolerant
+    explanation: "Amb *content* pots dir *està* o *és*: les dues formes són correctes."
+
+  - id: a2-06-016
+    type: fill
+    point: ser-estar-adjectius
+    lesson: 2
+    prompt: "En Wei i l'Ibrahim ___ nerviosos per l'entrevista."
+    hint: "*estar*, ells"
+    answers: ["estan"]
+    wrong_answers:
+      - text: "està"
+        why: "«En Wei i l'Ibrahim» són dues persones: *estan*."
+      - text: "tenen"
+        why: "Amb *nerviós* no fem servir *tenir*."
+    grading: tolerant
+    explanation: "«En Wei i l'Ibrahim» és plural: *estan nerviosos*. *Són nerviosos* també és correcte."
+
+  - id: a2-06-017
+    type: fill
+    point: ser-localitzacio
+    lesson: 2
+    prompt: "—On és la Montse? —___ a l'hospital, amb el seu pare."
+    hint: "*ser*, ella"
+    answers: ["És"]
+    wrong_answers:
+      - text: "Són"
+        why: "«La Montse» és singular: *és*."
+      - text: "Hi ha"
+        why: "*Hi ha* no diu on és una persona: *és a l'hospital*."
+    grading: tolerant
+    explanation: "La localització es fa amb *ser*: «la Montse» és singular, *és a l'hospital*."
+
+  - id: a2-06-018
+    type: fill
+    point: ser-localitzacio
+    lesson: 2
+    prompt: "Els meus llibres ___ a l'habitació, sobre la taula."
+    hint: "*ser*, ells"
+    answers: ["són"]
+    wrong_answers:
+      - text: "és"
+        why: "«Els meus llibres» és plural: *són*."
+      - text: "hi ha"
+        why: "*Hi ha* no diu on és una cosa concreta: *són a l'habitació*."
+    grading: tolerant
+    explanation: "«Els meus llibres» és plural: *són a l'habitació*."
+
+  - id: a2-06-019
+    type: order
+    point: ser-estar-adjectius
+    lesson: 2
+    cue: "Digues que estàs una mica trist perquè plou."
+    chunks: ["estic", "una mica", "trist", "perquè plou"]
+    extra: ["tinc"]
+    answers:
+      - "Estic una mica trist perquè plou."
+    explanation: "Amb *trist* fem servir *ser* o *estar*: *estic trist*. *Tinc trist* no és correcte."
+
+  - id: a2-06-020
+    type: order
+    point: ser-localitzacio
+    lesson: 2
+    cue: "Explica que les teves claus són a l'entrada de casa."
+    chunks: ["les claus", "són", "a l'entrada", "de casa"]
+    extra: ["és"]
+    answers:
+      - "Les claus són a l'entrada de casa."
+      - "Les claus de casa són a l'entrada."
+    explanation: "«Les claus» és plural: *són a l'entrada*. *És* és singular."
+
+  - id: a2-06-021
+    type: order
+    point: ser-localitzacio
+    lesson: 2
+    cue: "Pregunta on és la parada del metro."
+    chunks: ["on", "és", "la parada", "del metro"]
+    extra: ["són"]
+    answers:
+      - "On és la parada del metro?"
+    explanation: "«La parada» és singular: *on és la parada*. La localització es fa amb *ser*."
+
+  - id: a2-06-022
+    type: choice
+    point: ser-estar-adjectius
+    lesson: 2
+    prompt: "—Com esteu? —___ una mica nerviosos, gràcies."
+    answer: "Estem"
+    distractors:
+      - text: "Tenim"
+        why: "Amb *nerviós* no fem servir *tenir*."
+      - text: "Esteu"
+        why: "Parles de tu i d'algú més: *estem*, no *esteu*."
+    explanation: "Parles de tu i d'algú més: *estem nerviosos*. *Som nerviosos* també és correcte."
+
+  - id: a2-06-023
+    type: choice
+    point: ser-localitzacio
+    lesson: 2
+    prompt: "L'estació ___ lluny del centre: has d'agafar el bus."
+    answer: "és"
+    distractors:
+      - text: "són"
+        why: "«L'estació» és singular: *és*."
+      - text: "hi ha"
+        why: "*Hi ha* no diu on és un lloc concret: *és lluny*."
+    explanation: "«L'estació» és singular: *és lluny del centre*."
+
+  - id: a2-06-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—La farmàcia és lluny? —No, és ___."
+    answer: "a tocar"
+    distractors:
+      - text: "tot recte"
+        why: "*Tot recte* diu com hi vas, no si és a prop."
+      - text: "davant per davant"
+        why: "*Davant per davant* vol dir just al davant d'un lloc concret."
+    explanation: "*A tocar* vol dir molt a prop: la farmàcia és a tocar."
+
+  - id: a2-06-025
+    type: inline-choice
+    point: ser-localitzacio
+    lesson: 2
+    title: "Un missatge de la Carla"
+    text: "Hola! Jo {soc|és} a casa de la meva mare. La festa {és|són} a Girona: els meus pares {són|és} allà tot el cap de setmana. I tu, {ets|són} a Barcelona? Fins aviat!"
+    explanation: "La localització es fa amb *ser*, i el verb concorda: *jo soc*, *la festa és*, *els pares són*, *tu ets*."
+
+  - id: a2-06-026
+    type: fill
+    point: ser-localitzacio
+    lesson: 2
+    prompt: "L'Anna no ___ a casa: és a la feina."
+    hint: "*ser*, ella"
+    answers: ["és"]
+    wrong_answers:
+      - text: "són"
+        why: "«L'Anna» és singular: *és*."
+      - text: "hi ha"
+        why: "La frase diu on no és una persona: *no és a casa*."
+    grading: tolerant
+    explanation: "«L'Anna» és singular: *no és a casa*."
+
+  # ---------- Lliçó 3 ----------
+  - id: a2-06-027
+    type: choice
+    point: haver-hi
+    lesson: 3
+    prompt: "Al meu barri ___ tres escoles i un mercat."
+    answer: "hi ha"
+    distractors:
+      - text: "és"
+        why: "Per dir que una cosa existeix fem servir *haver-hi*: *hi ha*."
+      - text: "són"
+        why: "*Ser* diu on és una cosa concreta, no que existeix: *hi ha tres escoles*."
+    explanation: "Per dir que una cosa existeix en un lloc fem servir *hi ha*: *hi ha tres escoles*."
+
+  - id: a2-06-028
+    type: choice
+    point: haver-hi
+    lesson: 3
+    prompt: "Abans ___ una fleca en aquest carrer, però ha tancat."
+    answer: "hi havia"
+    distractors:
+      - text: "hi ha"
+        why: "«Abans» parla del passat: *hi havia*."
+      - text: "hi haurà"
+        why: "*Hi haurà* és futur: «abans» demana el passat, *hi havia*."
+    explanation: "«Abans» situa la frase en el passat: *hi havia una fleca*."
+
+  - id: a2-06-029
+    type: choice
+    point: haver-hi
+    lesson: 3
+    prompt: "L'any que ve ___ un parc nou a tocar de l'escola."
+    answer: "hi haurà"
+    distractors:
+      - text: "hi ha"
+        why: "«L'any que ve» parla del futur: *hi haurà*."
+      - text: "hi havia"
+        why: "*Hi havia* és passat: «l'any que ve» demana el futur."
+    explanation: "«L'any que ve» situa la frase en el futur: *hi haurà un parc nou*."
+
+  - id: a2-06-030
+    type: choice
+    point: ser-hi
+    lesson: 3
+    prompt: "—La Marta hi és? —No, ___."
+    answer: "no hi és"
+    distractors:
+      - text: "no és"
+        why: "Per dir que algú no és en un lloc, *ser* porta *hi*: *no hi és*."
+      - text: "no hi ha"
+        why: "*Hi ha* no respon a *hi és?*: parlem d'una persona concreta."
+    explanation: "La resposta a *hi és?* porta *hi*: *no, no hi és*."
+
+  - id: a2-06-031
+    type: fill
+    point: haver-hi
+    lesson: 3
+    prompt: "En aquest carrer ___ moltes botigues de roba."
+    hint: "*haver-hi*, present"
+    answers: ["hi ha"]
+    wrong_answers:
+      - text: "han"
+        why: "*Haver-hi* porta sempre el pronom *hi*: *hi ha*."
+      - text: "són"
+        why: "Per dir que una cosa existeix fem servir *haver-hi*: *hi ha*."
+    grading: tolerant
+    explanation: "Per dir que una cosa existeix: *hi ha moltes botigues*. *Hi* no es pot ometre."
+
+  - id: a2-06-032
+    type: fill
+    point: haver-hi
+    lesson: 3
+    prompt: "Quan era petit, ___ un cinema a la plaça."
+    hint: "*haver-hi*, passat"
+    answers: ["hi havia"]
+    wrong_answers:
+      - text: "hi ha"
+        why: "«Quan era petit» parla del passat: *hi havia*."
+      - text: "hi haurà"
+        why: "*Hi haurà* és futur: aquí cal el passat, *hi havia*."
+    grading: tolerant
+    explanation: "«Quan era petit» situa la frase en el passat: *hi havia un cinema*."
+
+  - id: a2-06-033
+    type: fill
+    point: ser-hi
+    lesson: 3
+    prompt: "Truco a l'oficina, però en Marc no ___: deu estar dinant."
+    hint: "*ser-hi*, ell"
+    answers: ["hi és"]
+    wrong_answers:
+      - text: "és"
+        why: "*Ser-hi* porta el pronom *hi*: *no hi és*."
+      - text: "hi ha"
+        why: "Parlem d'una persona concreta, no d'una cosa nova: *no hi és*."
+    grading: tolerant
+    explanation: "Parlem d'una persona concreta: *no hi és*. El pronom *hi* no es pot ometre."
+
+  - id: a2-06-034
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "En registre formal: ___ dos hotels nous en aquesta zona."
+    hint: "*haver-hi*, present"
+    answers: ["Hi ha"]
+    wrong_answers:
+      - text: "Hi han"
+        why: "En registre formal, *haver-hi* no concorda mai: *hi ha dos hotels*."
+    grading: tolerant
+    explanation: "En registre formal, *haver-hi* és invariable: *hi ha dos hotels*."
+
+  - id: a2-06-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "En Pau és a casa dels avis fins diumenge."
+    no_error: true
+    explanation: "La frase és correcta: en català estàndard la localització es fa amb *ser*, *és a casa*."
+
+  - id: a2-06-036
+    type: find-error
+    point: haver-hi
+    lesson: 3
+    sentence: "Al centre ha moltes llibreries antigues."
+    error: "ha moltes"
+    fix: "hi ha moltes"
+    fix_distractors:
+      - text: "és moltes"
+        why: "*Ser* no diu que una cosa existeix: *hi ha moltes*."
+      - text: "són moltes"
+        why: "Per dir que una cosa existeix fem servir *haver-hi*: *hi ha moltes*."
+    explanation: "*Haver-hi* porta sempre el pronom *hi*: *hi ha moltes llibreries*. En castellà és «hay»."
+
+  - id: a2-06-037
+    type: find-error
+    point: haver-hi
+    lesson: 3
+    sentence: "Hi ha tres farmàcies a tocar de l'estació."
+    no_error: true
+    explanation: "La frase és correcta: *hi ha* presenta una cosa que existeix, i no canvia en plural."
+
+  - id: a2-06-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    instruction: "Corregeix la frase en registre formal."
+    sentence: "Hi han molts bars nous en aquest barri."
+    error: "Hi han"
+    fix: "Hi ha"
+    fix_distractors:
+      - text: "Hi havia"
+        why: "La frase parla d'ara, no del passat: *hi ha*."
+      - text: "Hi haurà"
+        why: "La frase parla d'ara, no del futur: *hi ha*."
+    explanation: "En registre formal, *haver-hi* no concorda: *hi ha molts bars*. *Hi han* només s'admet en la conversa."
+
+  - id: a2-06-039
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "En un text formal, quina frase és correcta?"
+    answer: "Hi ha dos bancs a la plaça."
+    distractors:
+      - text: "Hi han dos bancs a la plaça."
+        why: "En registre formal, *haver-hi* no concorda: *hi ha*."
+      - text: "Són dos bancs a la plaça."
+        why: "Per dir que una cosa existeix fem servir *haver-hi*, no *ser*."
+    explanation: "En registre formal, *haver-hi* és invariable: *hi ha dos bancs*."
+
+  # ---------- Lliçó 4 ----------
+  - id: a2-06-040
+    type: transform
+    point: ser-estar-adjectius
+    lesson: 4
+    instruction: "Canvia el subjecte a «la Laia»."
+    source: "[[En Pau]] [[està content]] amb el pis."
+    answers:
+      - "La Laia està contenta amb el pis."
+    wrong_answers:
+      - text: "La Laia està content amb el pis."
+        why: "«La Laia» és femení: *contenta*."
+      - text: "La Laia és content amb el pis."
+        why: "L'adjectiu concorda amb «la Laia»: *contenta*. *És contenta* és correcte."
+    grading: tolerant
+    explanation: "«La Laia» és femení singular: *està contenta*. *És contenta* també és correcte."
+
+  - id: a2-06-041
+    type: transform
+    point: ser-localitzacio
+    lesson: 4
+    instruction: "Canvia el subjecte a «les maletes»."
+    source: "[[La motxilla]] [[és]] a l'habitació."
+    answers:
+      - "Les maletes són a l'habitació."
+    wrong_answers:
+      - text: "Les maletes és a l'habitació."
+        why: "«Les maletes» és plural: *són*."
+      - text: "Les maletes hi ha a l'habitació."
+        why: "*Hi ha* no diu on és una cosa concreta: *són a l'habitació*."
+    grading: tolerant
+    explanation: "«Les maletes» és plural: *són a l'habitació*."
+
+  - id: a2-06-042
+    type: transform
+    point: haver-hi
+    lesson: 4
+    instruction: "Reescriu la frase en passat («abans»)."
+    source: "[[Ara]] [[hi ha]] un quiosc davant de l'escola."
+    answers:
+      - "Abans hi havia un quiosc davant de l'escola."
+    wrong_answers:
+      - text: "Abans hi ha un quiosc davant de l'escola."
+        why: "«Abans» demana el passat: *hi havia*."
+      - text: "Abans hi haurà un quiosc davant de l'escola."
+        why: "*Hi haurà* és futur: amb «abans» cal *hi havia*."
+    grading: tolerant
+    explanation: "«Abans» situa la frase en el passat: *hi havia un quiosc*."
+
+  - id: a2-06-043
+    type: transform
+    point: haver-hi
+    lesson: 4
+    instruction: "Reescriu la frase en futur («l'any que ve»)."
+    source: "[[Ara]] [[hi ha]] una piscina al poliesportiu."
+    answers:
+      - "L'any que ve hi haurà una piscina al poliesportiu."
+    wrong_answers:
+      - text: "L'any que ve hi ha una piscina al poliesportiu."
+        why: "«L'any que ve» demana el futur: *hi haurà*."
+      - text: "L'any que ve hi havia una piscina al poliesportiu."
+        why: "*Hi havia* és passat: amb «l'any que ve» cal *hi haurà*."
+    grading: tolerant
+    explanation: "«L'any que ve» situa la frase en el futur: *hi haurà una piscina*."
+
+  - id: a2-06-044
+    type: transform
+    point: ser-hi
+    lesson: 4
+    instruction: "Fes la frase negativa."
+    source: "La Carla [[hi és]]."
+    answers:
+      - "La Carla no hi és."
+    wrong_answers:
+      - text: "La Carla no és."
+        why: "*Ser-hi* porta el pronom *hi*: *no hi és*."
+      - text: "La Carla no hi ha."
+        why: "Parlem d'una persona concreta: *no hi és*."
+    grading: tolerant
+    explanation: "La negació de *hi és* és *no hi és*: el pronom *hi* no es pot ometre."
+
+  - id: a2-06-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase en registre formal."
+    source: "[[Hi han]] tres rotondes noves a l'avinguda."
+    answers:
+      - "Hi ha tres rotondes noves a l'avinguda."
+    wrong_answers:
+      - text: "Hi han tres rotondes noves a l'avinguda."
+        why: "En registre formal, *haver-hi* no concorda: *hi ha*."
+      - text: "Hi havia tres rotondes noves a l'avinguda."
+        why: "La frase parla d'ara: *hi ha*, no *hi havia*."
+    grading: tolerant
+    explanation: "En registre formal, *haver-hi* és invariable: *hi ha tres rotondes*."
+
+  - id: a2-06-046
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix la part marcada per *a mà dreta*."
+    source: "Vas [[a l'esquerra]] al semàfor."
+    answers:
+      - "Vas a mà dreta al semàfor."
+    wrong_answers:
+      - text: "Vas a la mà dreta al semàfor."
+        why: "L'expressió és *a mà dreta*, sense article."
+    grading: tolerant
+    explanation: "*A mà dreta* vol dir cap al costat dret: *vas a mà dreta*. L'expressió no porta article."
+
+  - id: a2-06-047
+    type: transform
+    point: ser-estar-adjectius
+    lesson: 4
+    instruction: "Passa la frase al plural («els nens»)."
+    source: "[[El nen]] [[està content]] amb el regal."
+    answers:
+      - "Els nens estan contents amb el regal."
+    wrong_answers:
+      - text: "Els nens estan content amb el regal."
+        why: "«Els nens» és plural: *contents*."
+      - text: "Els nens està contents amb el regal."
+        why: "«Els nens» és plural: *estan*."
+    grading: tolerant
+    explanation: "«Els nens» és plural: el verb fa *estan* i l'adjectiu *contents*."
+
+  - id: a2-06-048
+    type: transform
+    point: ser-localitzacio
+    lesson: 4
+    instruction: "Canvia el subjecte a «en Pau i la Laia»."
+    source: "[[En Pau]] [[és]] a Girona."
+    answers:
+      - "En Pau i la Laia són a Girona."
+    wrong_answers:
+      - text: "En Pau i la Laia és a Girona."
+        why: "Dues persones: *són a Girona*."
+      - text: "En Pau i la Laia hi ha a Girona."
+        why: "*Hi ha* no diu on és algú: *són a Girona*."
+    grading: tolerant
+    explanation: "Dues persones: *són a Girona*. La localització es fa amb *ser*."
+
+  - id: a2-06-049
+    type: fill
+    point: haver-hi
+    lesson: 4
+    prompt: "—Hi ha una farmàcia a prop? —Sí, ___ una farmàcia a la cantonada."
+    hint: "*haver-hi*, present"
+    answers: ["hi ha"]
+    wrong_answers:
+      - text: "ha"
+        why: "*Haver-hi* porta sempre el pronom *hi*: *hi ha*."
+      - text: "és"
+        why: "Per dir que una cosa existeix fem servir *haver-hi*: *hi ha*."
+    grading: tolerant
+    explanation: "Per dir que una cosa existeix: *hi ha una farmàcia a la cantonada*."
+
+  - id: a2-06-050
+    type: fill
+    point: ser-hi
+    lesson: 4
+    prompt: "—Hi ___ els teus pares? —Sí, són a la cuina."
+    hint: "*ser-hi*, ells"
+    answers: ["són"]
+    wrong_answers:
+      - text: "és"
+        why: "«Els teus pares» és plural: *hi són*."
+    grading: tolerant
+    explanation: "«Els teus pares» és plural: *hi són*. *Ser-hi* porta sempre el pronom *hi*."
+
+  - id: a2-06-051
+    type: order
+    point: haver-hi
+    lesson: 4
+    cue: "Digues que al teu carrer hi ha tres bars nous."
+    chunks: ["al meu carrer", "hi ha", "tres bars", "nous"]
+    extra: ["són"]
+    answers:
+      - "Al meu carrer hi ha tres bars nous."
+      - "Hi ha tres bars nous al meu carrer."
+    explanation: "Per dir que una cosa existeix: *hi ha tres bars*. *Hi* no es pot ometre."
+
+  - id: a2-06-052
+    type: order
+    point: ser-localitzacio
+    lesson: 4
+    cue: "Explica que la Núria és a l'hospital amb el seu pare."
+    chunks: ["la Núria", "és", "a l'hospital", "amb el seu pare"]
+    extra: ["són"]
+    answers:
+      - "La Núria és a l'hospital amb el seu pare."
+      - "La Núria és amb el seu pare a l'hospital."
+    explanation: "La localització es fa amb *ser*: *la Núria és a l'hospital*."
+
+  # ---------- Lliçó 5 ----------
+  - id: a2-06-053
+    type: reading
+    point: haver-hi
+    lesson: 5
+    title: "El barri de la Fàtima"
+    text: |
+      La Fàtima viu al barri de Gràcia des de fa tres anys. El seu pis és a tocar de la plaça, davant per davant d'una fleca molt antiga. Al carrer hi ha moltes botigues petites: una llibreria, dues fruiteries i un bar on sempre hi ha gent del barri.
+
+      Cada matí, la Fàtima va a peu a la feina. Va tot recte pel carrer Major i gira a mà dreta al semàfor. L'oficina és a deu minuts de casa seva.
+
+      «M'agrada Gràcia perquè hi ha de tot», diu. «Abans hi havia menys botigues, però el barri està molt viu.»
+    questions:
+      - prompt: "On és el pis de la Fàtima?"
+        answer: "A tocar de la plaça, davant d'una fleca."
+        distractors:
+          - text: "Al carrer Major, a deu minuts de l'oficina."
+            why: "El carrer Major és el camí a la feina. El pis és a tocar de la plaça."
+          - text: "Davant del bar, al costat de la llibreria."
+            why: "El bar i la llibreria són al carrer, però el pis és davant de la fleca."
+      - prompt: "Com va la Fàtima a la feina?"
+        answer: "A peu, tot recte i després a mà dreta."
+        distractors:
+          - text: "Amb bus, fins al semàfor."
+            why: "El text diu que hi va a peu."
+          - text: "A peu, per la plaça i el carrer Major."
+            why: "No passa per la plaça: va tot recte pel carrer Major."
+      - prompt: "Què hi ha al carrer de la Fàtima?"
+        answer: "Botigues de llibres i de fruita, i un bar."
+        distractors:
+          - text: "Una fleca antiga i res més."
+            why: "També hi ha una llibreria, fruiteries i un bar."
+          - text: "Un bar on no va mai ningú."
+            why: "Al bar sempre hi ha gent del barri."
+      - prompt: "Què diu la Fàtima del barri?"
+        answer: "Que hi ha de tot i que li agrada."
+        distractors:
+          - text: "Que abans hi havia més botigues."
+            why: "Diu que abans hi havia menys botigues."
+          - text: "Que la feina és lluny de casa."
+            why: "L'oficina és a deu minuts de casa seva."
+    explanation: "El text presenta el barri de la Fàtima: el pis, les botigues del carrer i el camí a la feina."
+
+  - id: a2-06-054
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Les maletes són a l'habitació dels nens."
+    no_error: true
+    explanation: "La frase és correcta: la localització es fa amb *ser*, *són a l'habitació*."
+
+  - id: a2-06-055
+    type: find-error
+    point: ser-estar-adjectius
+    lesson: 5
+    sentence: "Després del partit, en Marc té molt cansat."
+    error: "té molt cansat"
+    fix: "està molt cansat"
+    fix_distractors:
+      - text: "té molt cansada"
+        why: "Amb *cansat* fem servir *ser* o *estar*, no *tenir*: *està molt cansat*."
+      - text: "fa molt cansat"
+        why: "Amb *cansat* no fem servir *fer*: *està molt cansat*."
+    explanation: "Amb *cansat* fem servir *ser* o *estar*: *està molt cansat*. *Tinc cansat* no és correcte."
+
+  - id: a2-06-056
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["tot recte", "segueix el carrer sense girar"]
+      - ["a mà dreta", "gira cap al costat dret"]
+      - ["davant per davant", "just al davant d'un lloc"]
+      - ["a tocar", "molt a prop d'aquí"]
+    explanation: "Són expressions per orientar-se: *tot recte*, *a mà dreta*, *davant per davant*, *a tocar*."
+
+  - id: a2-06-057
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Perdoni, on és l'estació? —Seguiu ___ i la trobareu."
+    answer: "tot recte"
+    distractors:
+      - text: "a tocar"
+        why: "*A tocar* vol dir a prop, però aquí cal dir com hi van: *tot recte*."
+      - text: "davant per davant"
+        why: "*Davant per davant* necessita un lloc de referència: *davant per davant de l'escola*."
+    explanation: "*Tot recte* diu com hi van: sense girar."
+
+  - id: a2-06-058
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "El banc és ___: just al davant de la farmàcia."
+    answer: "davant per davant"
+    distractors:
+      - text: "a tocar"
+        why: "*A tocar* vol dir a prop, però no diu que és just al davant."
+      - text: "tot recte"
+        why: "*Tot recte* diu com hi vas, no on és."
+    explanation: "*Davant per davant* vol dir just al davant: *davant per davant de la farmàcia*."
+
+  - id: a2-06-059
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «a tocar»?"
+    answer: "Molt a prop."
+    distractors:
+      - text: "Just al davant."
+        why: "«Just al davant» és *davant per davant*."
+      - text: "Sense girar."
+        why: "«Sense girar» és *tot recte*."
+    explanation: "*A tocar* vol dir molt a prop: *la farmàcia és a tocar*."
+
+  - id: a2-06-060
+    type: choice
+    point: ser-estar-adjectius
+    lesson: 5
+    prompt: "Els nens ___ malalts: no van a l'escola."
+    answer: "estan"
+    distractors:
+      - text: "tenen"
+        why: "Amb *malalt* no fem servir *tenir*: *estan malalts*."
+      - text: "està"
+        why: "«Els nens» és plural: *estan*."
+    explanation: "«Els nens» és plural: *estan malalts*. *Són malalts* també és correcte."
+
+  - id: a2-06-061
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—L'hospital és lluny? —No, és ___. Pots anar-hi a peu."
+    hint: "expressió amb *tocar*"
+    answers: ["a tocar"]
+    grading: tolerant
+    explanation: "*A tocar* vol dir molt a prop: *és a tocar*."
+
+  - id: a2-06-062
+    type: fill
+    point: ser-localitzacio
+    lesson: 5
+    prompt: "—On ___ vosaltres? —Som a l'estació, arribem de seguida."
+    hint: "*ser*, vosaltres"
+    answers: ["sou"]
+    wrong_answers:
+      - text: "són"
+        why: "«Vosaltres» demana la segona persona del plural: *sou*."
+      - text: "som"
+        why: "Parles amb ells, no de tu: *on sou*."
+    grading: tolerant
+    explanation: "«Vosaltres» demana la segona persona: *on sou*. La localització es fa amb *ser*."
+
+  - id: a2-06-063
+    type: transform
+    point: ser-hi
+    lesson: 5
+    instruction: "Fes la frase afirmativa."
+    source: "En Pau [[no hi és]]."
+    answers:
+      - "En Pau hi és."
+    wrong_answers:
+      - text: "En Pau és."
+        why: "*Ser-hi* porta el pronom *hi*: *hi és*."
+      - text: "En Pau hi ha."
+        why: "Parlem d'una persona concreta: *hi és*."
+    grading: tolerant
+    explanation: "L'afirmació de *no hi és* és *hi és*: el pronom *hi* no es pot ometre."
+
+  - id: a2-06-064
+    type: inline-choice
+    point: haver-hi
+    lesson: 5
+    title: "El meu carrer"
+    text: "Al meu carrer {hi ha|és|són} una fleca molt bona. Abans {hi havia|hi ha|hi haurà} un cinema, però ha tancat. L'any que ve {hi haurà|hi ha|hi havia} una plaça nova: {hi haurà|hi ha} arbres i jocs per als nens."
+    explanation: "El temps el marca el context: *hi ha* (ara), *hi havia* (abans), *hi haurà* (l'any que ve)."
+
+  - id: a2-06-065
+    type: order
+    point: ser-hi
+    lesson: 5
+    cue: "Respon que la Núria encara no és a l'oficina."
+    chunks: ["encara", "no", "hi", "és"]
+    extra: ["ha"]
+    answers:
+      - "Encara no hi és."
+      - "No hi és encara."
+    explanation: "Per dir que algú no és en un lloc: *no hi és*. El pronom *hi* va davant del verb."

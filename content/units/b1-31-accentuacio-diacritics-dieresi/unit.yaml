@@ -1,0 +1,1026 @@
+id: b1-31
+level: B1
+title: "L'accent, els diacrítics i la dièresi"
+summary: "Aprens on cau l'accent (*títol*, *examen*, *pàgina*), l'accent obert i el tancat (*cafè*, *edició*), els 15 diacrítics (*què*, *és*, *més*) i la dièresi (*veïna*, *països*, *qüestió*)."
+vocabulary_theme: "Llibres, lectura i biblioteca"
+points:
+  - id: accentuacio
+    title: "Les agudes, les planes i les esdrúixoles"
+  - id: obert-tancat
+    title: "L'accent obert (*è*, *ò*) i el tancat (*é*, *ó*)"
+  - id: diacritics
+    title: "Els 15 diacrítics"
+  - id: dieresi
+    title: "La dièresi"
+  - id: compte-castella
+    title: "Compte amb el castellà: l'accent cau en un altre lloc"
+  - id: expressions
+    title: "Expressions de lectura"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: on cau l'accent"
+  - title: "Practiquem l'accent"
+  - title: "Diacrítics, dièresi i interferències"
+  - title: "Escrivim sense faltes"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la biblioteca"
+    definition: "Edifici amb llibres que pots llegir allà o a casa."
+    example: "Vaig a la biblioteca cada dimarts a tornar llibres."
+  - word: "la llibreria"
+    definition: "Botiga on es venen llibres."
+    example: "He comprat la novel·la a la llibreria del barri."
+  - word: "el llibre"
+    definition: "Conjunt de pàgines amb text, unides per un costat."
+    example: "Aquest llibre té tres-centes pàgines."
+  - word: "la novel·la"
+    definition: "Llibre llarg que explica una història inventada."
+    example: "Llegeixo una novel·la negra molt bona."
+  - word: "el conte"
+    definition: "Història curta, sovint per a infants."
+    example: "Cada nit explica un conte a la seva filla."
+  - word: "el poema"
+    definition: "Text curt escrit en versos."
+    example: "El mestre ens ha fet memoritzar un poema."
+  - word: "la poesia"
+    definition: "Art d'escriure poemes."
+    example: "La poesia catalana m'agrada molt."
+  - word: "la biografia"
+    definition: "Llibre que explica la vida d'una persona."
+    example: "Estic llegint la biografia d'una científica."
+  - word: "l'assaig"
+    definition: "Text que explica les idees de l'autor sobre un tema."
+    example: "Ha publicat un assaig sobre el canvi climàtic."
+  - word: "el diccionari"
+    definition: "Llibre que explica el significat de les paraules."
+    example: "Busca aquesta paraula al diccionari."
+  - word: "el catàleg"
+    definition: "Llista ordenada dels llibres d'una biblioteca."
+    example: "Consulta el catàleg abans de pujar."
+  - word: "el pròleg"
+    definition: "Text del començament d'un llibre que el presenta."
+    example: "El pròleg l'ha escrit una escriptora famosa."
+  - word: "l'epíleg"
+    definition: "Text del final d'un llibre que tanca la història."
+    example: "L'epíleg explica què passa deu anys després."
+  - word: "el capítol"
+    definition: "Cadascuna de les parts d'un llibre."
+    example: "Cada capítol comença amb una frase curta."
+  - word: "la pàgina"
+    definition: "Cadascun dels fulls numerats d'un llibre."
+    example: "Vaig perdre el fil a la pàgina vint."
+  - word: "el títol"
+    definition: "Nom d'un llibre o d'un text."
+    example: "El títol no m'agrada, però la història sí."
+  - word: "l'índex"
+    definition: "Llista de capítols o temes d'un llibre."
+    example: "Mira l'índex per trobar el tema."
+  - word: "el gènere"
+    definition: "Tipus de llibre segons el tema o la forma."
+    example: "El meu gènere preferit és la ciència-ficció."
+  - word: "la trama"
+    definition: "Història que explica una novel·la."
+    example: "La trama és complicada, però enganxa."
+  - word: "el personatge"
+    definition: "Persona d'una història inventada."
+    example: "El personatge principal és una bibliotecària."
+  - word: "el protagonista, la protagonista"
+    definition: "Personatge més important d'una història."
+    example: "La protagonista viu a Girona."
+  - word: "el final"
+    definition: "Com acaba una història."
+    example: "El final m'ha sorprès molt."
+  - word: "el lector, la lectora"
+    definition: "Persona que llegeix."
+    example: "Els lectors joves omplen la sala."
+  - word: "l'autor, l'autora"
+    definition: "Persona que escriu un llibre."
+    example: "L'autora signarà llibres dissabte."
+  - word: "l'editorial"
+    definition: "Empresa que publica llibres."
+    example: "Aquesta editorial fa llibres infantils."
+  - word: "el préstec"
+    definition: "Servei que et deixa emportar llibres a casa durant un temps."
+    example: "El préstec dura tres setmanes."
+  - word: "el carnet"
+    definition: "Targeta que identifica un soci de la biblioteca."
+    example: "Necessites el carnet per endur-te llibres."
+  - word: "el prestatge"
+    definition: "Moble amb baldes on es posen els llibres."
+    example: "Els còmics són al prestatge de baix."
+  - word: "el punt de llibre"
+    definition: "Paper o cartó per marcar on ets d'un llibre."
+    example: "Va perdre el punt de llibre entre les pàgines."
+  - word: "la coberta"
+    definition: "Part de fora que protegeix el llibre."
+    example: "La coberta és blava amb lletres blanques."
+  - word: "el còmic"
+    definition: "Història explicada amb dibuixos i text curt."
+    example: "Aquest còmic té dibuixos molt bons."
+  - word: "fullejar"
+    definition: "Mirar un llibre per sobre, passant pàgines."
+    example: "Va fullejar la revista mentre esperava."
+  - word: "rellegir"
+    definition: "Llegir una altra vegada."
+    example: "Rellegiré aquest capítol demà."
+  - word: "la ressenya"
+    definition: "Text curt que opina sobre un llibre."
+    example: "Vaig escriure una ressenya per al blog."
+  - word: "el club de lectura"
+    definition: "Grup que llegeix el mateix llibre i en parla."
+    example: "Al club de lectura som dotze persones."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-31-001
+    type: choice
+    point: accentuacio
+    lesson: 1
+    prompt: "En Pau llegeix una novel·la en ___."
+    answer: "francès"
+    distractors:
+      - text: "frances"
+        why: "*Francès* és aguda acabada en vocal + *s*: porta accent."
+      - text: "frànces"
+        why: "L'accent cau a l'última síl·laba («cès»), no a la primera."
+    explanation: "*Francès* és aguda acabada en vocal + *s*: porta accent."
+
+  - id: b1-31-002
+    type: choice
+    point: accentuacio
+    lesson: 1
+    prompt: "La bibliotecària busca el llibre al ___."
+    answer: "catàleg"
+    distractors:
+      - text: "cataleg"
+        why: "*Catàleg* és esdrúixola: les esdrúixoles porten accent sempre."
+      - text: "catalèg"
+        why: "L'accent cau a «ta», no a «lèg»: *catàleg*."
+    explanation: "*Catàleg* és esdrúixola: les esdrúixoles porten accent sempre."
+
+  - id: b1-31-003
+    type: choice
+    point: accentuacio
+    lesson: 1
+    prompt: "Cada ___ comença amb una cita."
+    answer: "capítol"
+    distractors:
+      - text: "capitol"
+        why: "*Capítol* és plana acabada en consonant: porta accent."
+      - text: "capitòl"
+        why: "L'accent cau a «pi», no a «tol»: *capítol*."
+    explanation: "*Capítol* és plana acabada en consonant: porta accent."
+
+  - id: b1-31-004
+    type: choice
+    point: accentuacio
+    lesson: 1
+    prompt: "Demà tenim l'___ de català."
+    answer: "examen"
+    distractors:
+      - text: "exàmen"
+        why: "*Examen* és plana acabada en *-en*: no porta accent."
+      - text: "éxamen"
+        why: "L'accent cau a «xa», però les planes acabades en *-en* no en porten."
+    explanation: "*Examen* és plana acabada en *-en*: no porta accent."
+
+  - id: b1-31-005
+    type: choice
+    point: obert-tancat
+    lesson: 1
+    prompt: "L'Ibrahim es pren un ___ a la cafeteria."
+    answer: "cafè"
+    distractors:
+      - text: "café"
+        why: "*Café* amb accent tancat és la forma castellana «café». En català la *e* és oberta."
+      - text: "cafe"
+        why: "*Cafè* és aguda acabada en vocal: necessita accent."
+    explanation: "*Cafè* és aguda acabada en vocal i la *e* és oberta."
+
+  - id: b1-31-006
+    type: choice
+    point: obert-tancat
+    lesson: 1
+    prompt: "Aquesta és la tercera ___ del diccionari."
+    answer: "edició"
+    distractors:
+      - text: "ediciò"
+        why: "Els noms acabats en *-ió* porten l'accent tancat: *edició*."
+      - text: "edicio"
+        why: "*Edició* és aguda acabada en vocal: necessita accent."
+    explanation: "Els noms acabats en *-ió* són aguts i porten l'accent tancat: *edició*."
+
+  - id: b1-31-007
+    type: choice
+    point: obert-tancat
+    lesson: 1
+    prompt: "En Jordi ___ el català amb novel·les curtes."
+    answer: "aprèn"
+    distractors:
+      - text: "aprén"
+        why: "La tercera persona de *aprendre* porta la *e* oberta: *aprèn*."
+      - text: "apren"
+        why: "*Aprèn* és aguda acabada en *-en*: porta accent."
+    explanation: "La tercera persona de *aprendre* porta accent obert a la *e*: *aprèn*."
+
+  - id: b1-31-008
+    type: choice
+    point: accentuacio
+    lesson: 1
+    prompt: "La Núria sempre ___ la veritat."
+    answer: "diu"
+    distractors:
+      - text: "díu"
+        why: "*Diu* és un monosíl·lab: no porta accent."
+      - text: "dius"
+        why: "*Dius* és la segona persona. Amb «la Núria» cal la tercera: *diu*."
+    explanation: "*Diu* és un monosíl·lab: els monosíl·labs no porten accent."
+
+  - id: b1-31-009
+    type: inline-choice
+    point: accentuacio
+    lesson: 1
+    title: "La sala nova"
+    text: "A la {pàgina|pagina} dotze hi ha un {índex|index} de noms. El {títol|titol} del llibre és curt i {fàcil|facil} de recordar."
+    explanation: "*Pàgina* és esdrúixola; *índex*, *títol* i *fàcil* són planes acabades en consonant: totes porten accent."
+
+  - id: b1-31-010
+    type: inline-choice
+    point: obert-tancat
+    lesson: 1
+    title: "Un cafè amb la Montse"
+    text: "La Montse em truca per {telèfon|teléfon} i quedem per fer un {cafè|café}. Després llegim la {història|história} d'un viatge per {Amèrica|América}."
+    explanation: "*Telèfon*, *cafè*, *història* i *Amèrica* porten l'accent obert: *è*, *ò*."
+
+  - id: b1-31-011
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["llegir entre línies", "En un correu amable, entendre que estan enfadats."]
+      - ["ser un rat de biblioteca", "Passar cada tarda entre els prestatges de la biblioteca."]
+      - ["devorar un llibre", "Acabar un llibre gruixut en només dos dies."]
+      - ["llegir d'una tirada", "Llegir tres-centes pàgines seguides, sense pauses."]
+      - ["tenir un llibre de capçalera", "Tenir un llibre preferit que es rellegeix sovint."]
+    explanation: "Totes parlen de llegir: fixa't sobretot en *llegir entre línies*, que és entendre allò que no es diu."
+
+  - id: b1-31-012
+    type: fill
+    point: obert-tancat
+    lesson: 1
+    prompt: "A la biblioteca hi ha novel·les en ___."
+    hint: "ANGLES, amb accent"
+    answers: ["anglès"]
+    wrong_answers:
+      - text: "angles"
+        why: "*Anglès* és aguda acabada en vocal + *s*: necessita accent."
+      - text: "anglés"
+        why: "La *e* és oberta: *anglès*."
+    grading: strict
+    explanation: "*Anglès* és aguda acabada en vocal + *s* i la *e* és oberta."
+
+  - id: b1-31-013
+    type: fill
+    point: accentuacio
+    lesson: 1
+    prompt: "Obriu el llibre per la ___ vint."
+    hint: "PAGINA, amb accent"
+    answers: ["pàgina"]
+    wrong_answers:
+      - text: "pagina"
+        why: "*Pàgina* és esdrúixola: les esdrúixoles porten accent sempre."
+    grading: strict
+    explanation: "*Pàgina* és esdrúixola: l'accent cau a «pà» i sempre s'escriu."
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-31-014
+    type: fill
+    point: accentuacio
+    lesson: 2
+    prompt: "El llibre té un ___ de noms al final."
+    hint: "INDEX, amb accent"
+    answers: ["índex"]
+    wrong_answers:
+      - text: "index"
+        why: "*Índex* és plana acabada en consonant: porta accent a la *i*."
+    grading: strict
+    explanation: "*Índex* és plana acabada en consonant: porta accent a la *i*."
+
+  - id: b1-31-015
+    type: fill
+    point: accentuacio
+    lesson: 2
+    prompt: "Aquest conte és molt ___ per als petits."
+    hint: "FACIL, amb accent"
+    answers: ["fàcil"]
+    wrong_answers:
+      - text: "facil"
+        why: "*Fàcil* és plana acabada en consonant: porta accent."
+    grading: strict
+    explanation: "*Fàcil* és plana acabada en consonant: l'accent cau a «fà»."
+
+  - id: b1-31-016
+    type: fill
+    point: obert-tancat
+    lesson: 2
+    prompt: "Demà ___ el tercer capítol."
+    hint: "LLEGIR, futur, jo"
+    answers: ["llegiré"]
+    wrong_answers:
+      - text: "llegire"
+        why: "El futur de *llegir* porta accent a la *e*: *llegiré*."
+      - text: "llegirè"
+        why: "La *e* del futur és tancada: *llegiré*."
+    grading: strict
+    explanation: "El futur de *llegir* (*jo*) és *llegiré*, amb la *e* tancada."
+
+  - id: b1-31-017
+    type: fill
+    point: obert-tancat
+    lesson: 2
+    prompt: "Primer fulleja el llibre; ___, el compra."
+    hint: "DESPRES, amb accent"
+    answers: ["després"]
+    wrong_answers:
+      - text: "despres"
+        why: "*Després* és aguda acabada en vocal + *s*: necessita accent."
+      - text: "desprès"
+        why: "*Després* porta la *e* tancada."
+    grading: strict
+    explanation: "*Després* és aguda acabada en vocal + *s* i la *e* és tancada."
+
+  - id: b1-31-018
+    type: fill
+    point: accentuacio
+    lesson: 2
+    prompt: "Resol els mots encreuats ___."
+    hint: "FACIL, adverbi"
+    answers: ["fàcilment"]
+    wrong_answers:
+      - text: "facilment"
+        why: "L'adverbi conserva l'accent de *fàcil*: *fàcilment*."
+    grading: strict
+    explanation: "Els adverbis en *-ment* conserven l'accent de l'adjectiu: *fàcil* → *fàcilment*."
+
+  - id: b1-31-019
+    type: order
+    point: accentuacio
+    lesson: 2
+    cue: "Digues que el títol del llibre és curt i fàcil."
+    chunks: ["el", "títol", "és", "curt", "i", "fàcil"]
+    extra: ["titol", "facil"]
+    answers:
+      - "El títol és curt i fàcil."
+    explanation: "*Títol* i *fàcil* són planes acabades en consonant: porten accent escrit."
+
+  - id: b1-31-020
+    type: order
+    point: obert-tancat
+    lesson: 2
+    cue: "Digues que després prendràs un cafè."
+    chunks: ["després", "prendré", "un", "cafè"]
+    extra: ["despres", "cafe"]
+    answers:
+      - "Després prendré un cafè."
+      - "Prendré un cafè després."
+    explanation: "*Després* i *prendré* porten la *e* tancada; *cafè* la porta oberta."
+
+  - id: b1-31-021
+    type: choice
+    point: accentuacio
+    lesson: 2
+    prompt: "És un ___ de la literatura catalana."
+    answer: "clàssic"
+    distractors:
+      - text: "classic"
+        why: "*Clàssic* és esdrúixola: les esdrúixoles porten accent sempre."
+      - text: "classíc"
+        why: "L'accent cau a «clà», no a «sic»: *clàssic*."
+    explanation: "*Clàssic* és esdrúixola: l'accent cau a «clà»."
+
+  - id: b1-31-022
+    type: choice
+    point: obert-tancat
+    lesson: 2
+    prompt: "M'agrada aquesta ___ d'aventures."
+    answer: "història"
+    distractors:
+      - text: "história"
+        why: "La *o* és oberta: *història*."
+      - text: "historia"
+        why: "*Història* és esdrúixola: necessita accent."
+    explanation: "*Història* és esdrúixola i la *o* és oberta."
+
+  - id: b1-31-023
+    type: choice
+    point: accentuacio
+    lesson: 2
+    prompt: "Han obert una ___ nova al barri."
+    answer: "biblioteca"
+    distractors:
+      - text: "bibliotéca"
+        why: "*Biblioteca* és plana acabada en vocal: no porta cap accent."
+      - text: "bibliotecà"
+        why: "L'accent no cau a l'última síl·laba: *biblioteca* és plana i no porta accent."
+    explanation: "*Biblioteca* és plana acabada en vocal: no porta accent."
+
+  - id: b1-31-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «llegir entre línies»?"
+    answer: "Entendre allò que no es diu obertament."
+    distractors:
+      - text: "Llegir molt de pressa, sense fixar-s'hi."
+        why: "Això és *llegir per sobre* o *devorar un llibre*, no *llegir entre línies*."
+      - text: "Llegir només els títols i les fotos."
+        why: "Això s'acosta a *fullejar*. *Llegir entre línies* és entendre allò que no es diu."
+    explanation: "*Llegir entre línies* és entendre el missatge amagat d'un text."
+
+  - id: b1-31-025
+    type: inline-choice
+    point: accentuacio
+    lesson: 2
+    title: "Al club de lectura"
+    text: "Al club de lectura llegim un {clàssic|classic} de la literatura {francesa|francèsa}. Ens trobem cada {dijous|dijòus} a la {biblioteca|bibliotéca}."
+    explanation: "*Clàssic* és esdrúixola. *Francesa*, *dijous* i *biblioteca* no porten accent."
+
+  - id: b1-31-026
+    type: match
+    point: accentuacio
+    lesson: 2
+    instruction: "Relaciona cada paraula amb la regla."
+    pairs:
+      - ["edició", "aguda acabada en vocal"]
+      - ["títol", "plana acabada en consonant"]
+      - ["pàgina", "esdrúixola: sempre amb accent"]
+      - ["examen", "plana acabada en -en: sense accent"]
+      - ["llegir", "aguda acabada en consonant: sense accent"]
+    explanation: "On cau l'accent i com acaba la paraula decideixen si hi ha accent escrit."
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-31-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La trama de la novel·la de policía és molt bona."
+    error: "policía"
+    fix: "policia"
+    fix_distractors:
+      - text: "policìa"
+        why: "La *i* només porta accent agut; a més, *policia* no en porta cap."
+      - text: "polícia"
+        why: "L'accent cau a «li», però les planes acabades en vocal no en porten."
+    explanation: "*Policia* és plana acabada en vocal: no porta accent. *Policía* és la forma castellana «policía»."
+
+  - id: b1-31-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El director truca per teléfono cada dilluns."
+    error: "teléfono"
+    fix: "telèfon"
+    fix_distractors:
+      - text: "telefono"
+        why: "*Telèfon* és esdrúixola: necessita accent."
+      - text: "teléfon"
+        why: "La *e* és oberta: *telèfon*."
+    explanation: "En català és esdrúixola i oberta: *telèfon*. *Teléfono* és la forma castellana «teléfono»."
+
+  - id: b1-31-029
+    type: find-error
+    point: diacritics
+    lesson: 3
+    sentence: "La Laia es bibliotecària."
+    error: "es"
+    fix: "és"
+    fix_distractors:
+      - text: "ès"
+        why: "El verb *ser* porta l'accent tancat: *és*."
+      - text: "són"
+        why: "*Són* és el plural (*elles són*); amb «la Laia» cal el singular *és*."
+    explanation: "El verb *ser* (*ella*) és *és*, amb accent. *Es* és el pronom: *es lleva aviat*."
+
+  - id: b1-31-030
+    type: find-error
+    point: dieresi
+    lesson: 3
+    sentence: "La veina del tercer llegeix molt."
+    error: "veina"
+    fix: "veïna"
+    fix_distractors:
+      - text: "veína"
+        why: "No cal accent: *veïna* és plana. La marca és la dièresi."
+      - text: "véina"
+        why: "No cal accent i dièresi alhora: només la dièresi: *veïna*."
+    explanation: "*Veïna* porta dièresi: la *i* no fa diftong amb la *e*."
+
+  - id: b1-31-031
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La policia tanca la biblioteca a les vuit."
+    no_error: true
+    explanation: "La frase és correcta: *policia* i *biblioteca* són planes acabades en vocal i no porten accent."
+
+  - id: b1-31-032
+    type: fill
+    point: diacritics
+    lesson: 3
+    prompt: "___ vols llegir aquest mes?"
+    hint: "interrogatiu"
+    answers: ["Què"]
+    wrong_answers:
+      - text: "Que"
+        why: "En les preguntes, l'interrogatiu porta accent: *què*."
+      - text: "Qué"
+        why: "*Qué* amb accent tancat no existeix: és *què*, amb accent obert."
+    grading: strict
+    explanation: "En una pregunta, l'interrogatiu és *què*, amb accent obert."
+
+  - id: b1-31-033
+    type: fill
+    point: diacritics
+    lesson: 3
+    prompt: "La Montse ___ una col·lecció de còmics antics."
+    hint: "verb TENIR, ella"
+    answers: ["té"]
+    wrong_answers:
+      - text: "te"
+        why: "*Te* és un pronom (*no te'n recordes*). El verb és *té*."
+      - text: "tè"
+        why: "El verb *tenir* porta l'accent tancat: *té*."
+    grading: strict
+    explanation: "El verb *tenir* (*ella*) és *té*: *la Montse té una col·lecció*."
+
+  - id: b1-31-034
+    type: fill
+    point: dieresi
+    lesson: 3
+    prompt: "La ___ del costat treballa en una editorial."
+    hint: "VEINA, amb dièresi"
+    answers: ["veïna"]
+    wrong_answers:
+      - text: "veina"
+        why: "La *i* no fa diftong amb la *e*: cal la dièresi: *veïna*."
+    grading: strict
+    explanation: "*Veïna* porta dièresi sobre la *i*."
+
+  - id: b1-31-035
+    type: fill
+    point: dieresi
+    lesson: 3
+    prompt: "Els ___ nòrdics tenen grans biblioteques."
+    hint: "PAISOS, amb dièresi"
+    answers: ["països"]
+    wrong_answers:
+      - text: "paisos"
+        why: "En plural, l'accent de *país* es converteix en dièresi: *països*."
+      - text: "paísos"
+        why: "*Països* és plana: no porta accent, només dièresi."
+    grading: strict
+    explanation: "El plural de *país* és *països*, amb dièresi."
+
+  - id: b1-31-036
+    type: choice
+    point: diacritics
+    lesson: 3
+    prompt: "—Vols venir al club? —___, si puc."
+    answer: "Sí"
+    distractors:
+      - text: "Si"
+        why: "*Si* sense accent és la condició (*si puc*). L'afirmació és *sí*."
+      - text: "Sé"
+        why: "*Sé* és el verb *saber* (*no sé*). L'afirmació és *sí*."
+    explanation: "L'afirmació és *sí*; la condició és *si*: *sí, si puc*."
+
+  - id: b1-31-037
+    type: choice
+    point: dieresi
+    lesson: 3
+    prompt: "La traductora ___ poemes quan era jove."
+    answer: "traduïa"
+    distractors:
+      - text: "traduia"
+        why: "La *i* no fa diftong: cal la dièresi: *traduïa*."
+      - text: "tradueïa"
+        why: "L'imperfet de *traduir* no té cap *e*: *traduïa*."
+    explanation: "L'imperfet de *traduir* (*ella*) és *traduïa*, amb dièresi."
+
+  - id: b1-31-038
+    type: choice
+    point: expressions
+    lesson: 3
+    prompt: "—Llegeixes molt, oi? —Sí, soc ___."
+    answer: "un rat de biblioteca"
+    distractors:
+      - text: "una rata de biblioteca"
+        why: "L'expressió és fixa i masculina: *un rat de biblioteca*."
+      - text: "un llibre de biblioteca"
+        why: "Això és un objecte; la persona que llegeix molt és *un rat de biblioteca*."
+    explanation: "*Ser un rat de biblioteca* vol dir que llegeixes moltíssim."
+
+  - id: b1-31-039
+    type: inline-choice
+    point: dieresi
+    lesson: 3
+    title: "Un missatge de la Laia"
+    text: "La meva {veïna|veina} és traductora: de jove {traduïa|traduia} contes de diversos {països|paisos}. Ara diu que traduir és una {qüestió|questió} de paciència, i que l'{egoisme|egoïsme} no ajuda gens."
+    explanation: "*Veïna*, *traduïa*, *països* i *qüestió* porten dièresi; *egoisme* no en porta perquè té prefix."
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-31-040
+    type: transform
+    point: accentuacio
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "El [[titol]] de la coberta és molt llarg."
+    answers: ["El títol de la coberta és molt llarg."]
+    wrong_answers:
+      - text: "El titol de la coberta és molt llarg."
+        why: "*Títol* és plana acabada en consonant: porta accent."
+    grading: strict
+    explanation: "*Títol* és plana acabada en consonant: porta accent a la *i*."
+
+  - id: b1-31-041
+    type: transform
+    point: diacritics
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "[[Que]] vols llegir per Sant Jordi?"
+    answers: ["Què vols llegir per Sant Jordi?"]
+    wrong_answers:
+      - text: "Que vols llegir per Sant Jordi?"
+        why: "En les preguntes, l'interrogatiu porta accent: *què*."
+      - text: "Qué vols llegir per Sant Jordi?"
+        why: "*Qué* amb accent tancat no existeix: és *què*."
+    grading: strict
+    explanation: "En una pregunta, l'interrogatiu és *què*, amb accent obert."
+
+  - id: b1-31-042
+    type: transform
+    point: dieresi
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "La meva [[veina]] escriu poemes."
+    answers: ["La meva veïna escriu poemes."]
+    wrong_answers:
+      - text: "La meva veina escriu poemes."
+        why: "La *i* no fa diftong amb la *e*: cal la dièresi: *veïna*."
+    grading: strict
+    explanation: "*Veïna* porta dièresi sobre la *i*."
+
+  - id: b1-31-043
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "La [[policía]] protegeix la biblioteca."
+    answers: ["La policia protegeix la biblioteca."]
+    wrong_answers:
+      - text: "La policía protegeix la biblioteca."
+        why: "*Policia* és plana acabada en vocal: no porta accent."
+      - text: "La policìa protegeix la biblioteca."
+        why: "La *i* només porta accent agut; a més, *policia* no en porta cap."
+    grading: strict
+    explanation: "*Policia* és plana: no porta accent. *Policía* és la forma castellana «policía»."
+
+  - id: b1-31-044
+    type: transform
+    point: dieresi
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[El país]] [[té]] grans biblioteques."
+    answers: ["Els països tenen grans biblioteques."]
+    wrong_answers:
+      - text: "Els paisos tenen grans biblioteques."
+        why: "En plural, l'accent de *país* es converteix en dièresi: *països*."
+      - text: "Els países tenen grans biblioteques."
+        why: "El plural de *país* és *països*: *países* és la forma castellana «países»."
+    grading: strict
+    explanation: "El plural de *país* és *països*: l'accent es converteix en dièresi."
+
+  - id: b1-31-045
+    type: transform
+    point: obert-tancat
+    lesson: 4
+    instruction: "Passa la frase a demà (futur)."
+    source: "[[Avui]] [[llegeixo]] el primer capítol."
+    answers: ["Demà llegiré el primer capítol.", "Llegiré el primer capítol demà."]
+    wrong_answers:
+      - text: "Demà llegire el primer capítol."
+        why: "El futur de *llegir* porta accent a la *e*: *llegiré*."
+      - text: "Demà llegirè el primer capítol."
+        why: "La *e* del futur és tancada: *llegiré*."
+    grading: strict
+    explanation: "El futur de *llegir* (*jo*) és *llegiré*, amb la *e* tancada."
+
+  - id: b1-31-046
+    type: transform
+    point: diacritics
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "La Laia [[es]] la protagonista."
+    answers: ["La Laia és la protagonista."]
+    wrong_answers:
+      - text: "La Laia es la protagonista."
+        why: "El verb *ser* és *és*, amb accent: *es* és el pronom."
+      - text: "La Laia ès la protagonista."
+        why: "El verb *ser* porta l'accent tancat: *és*."
+    grading: strict
+    explanation: "El verb *ser* (*ella*) és *és*. *Es* és el pronom: *es lleva*."
+
+  - id: b1-31-047
+    type: fill
+    point: diacritics
+    lesson: 4
+    prompt: "Aquest any he llegit ___ llibres que l'any passat."
+    hint: "quantitat"
+    answers: ["més"]
+    wrong_answers:
+      - text: "mes"
+        why: "*Mes* és una part de l'any. La quantitat és *més*."
+      - text: "mès"
+        why: "La quantitat és *més*, amb accent tancat."
+    grading: strict
+    explanation: "La quantitat és *més*. *Mes* és una part de l'any: *aquest mes*."
+
+  - id: b1-31-048
+    type: fill
+    point: dieresi
+    lesson: 4
+    prompt: "La ___ general és divendres a la biblioteca."
+    hint: "REUNIO"
+    answers: ["reunió"]
+    wrong_answers:
+      - text: "reünió"
+        why: "*Reunió* té prefix (*re-*) i l'accent a la *o*: no hi cal cap dièresi."
+    grading: strict
+    explanation: "Els mots amb prefix no porten dièresi: *reunió*."
+
+  - id: b1-31-049
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "L'Omar llegeix poemes de l'antiga ___."
+    hint: "GRECIA, amb accent"
+    answers: ["Grècia"]
+    wrong_answers:
+      - text: "Grecia"
+        why: "En català és esdrúixola: *Grècia*. *Grecia* és la forma castellana «Grecia»."
+    grading: strict
+    explanation: "En català l'accent cau a «Grè»: *Grècia*, amb la *e* oberta."
+
+  - id: b1-31-050
+    type: order
+    point: diacritics
+    lesson: 4
+    cue: "Pregunta què vol llegir la Núria."
+    chunks: ["què", "vol", "llegir", "la Núria"]
+    extra: ["que", "qué"]
+    answers:
+      - "Què vol llegir la Núria?"
+    explanation: "L'interrogatiu és *què*, amb accent obert."
+
+  - id: b1-31-051
+    type: order
+    point: dieresi
+    lesson: 4
+    cue: "Digues que la teva veïna traduïa contes de molts països."
+    chunks: ["la", "meva", "veïna", "traduïa", "contes", "de", "molts", "països"]
+    extra: ["veina", "paisos"]
+    answers:
+      - "La meva veïna traduïa contes de molts països."
+    explanation: "*Veïna*, *traduïa* i *països* porten dièresi."
+
+  - id: b1-31-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "La Montse té un llibre ___: l'ha rellegit tres vegades."
+    answer: "de capçalera"
+    distractors:
+      - text: "de capçal"
+        why: "L'expressió és *llibre de capçalera*, amb *-era*."
+      - text: "de butxaca"
+        why: "Un *llibre de butxaca* és petit i barat; el preferit és un *llibre de capçalera*."
+    explanation: "Un *llibre de capçalera* és un llibre preferit, que es rellegeix sovint."
+
+  - id: b1-31-053
+    type: match
+    point: diacritics
+    lesson: 4
+    instruction: "Relaciona cada paraula amb el seu significat."
+    pairs:
+      - ["més", "quantitat"]
+      - ["mes", "part de l'any"]
+      - ["són", "verb ser, ells"]
+      - ["son", "ganes de dormir"]
+      - ["té", "verb tenir, ell"]
+      - ["te", "pronom"]
+    explanation: "Cada parella es distingeix només per l'accent: *més/mes*, *són/son*, *té/te*."
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-31-054
+    type: choice
+    point: accentuacio
+    lesson: 5
+    prompt: "És l'___ capítol de l'assaig."
+    answer: "últim"
+    distractors:
+      - text: "ultim"
+        why: "*Últim* és plana acabada en consonant: porta accent."
+      - text: "últím"
+        why: "L'accent cau a «úl», no a «tim»: *últim*."
+    explanation: "*Últim* és plana acabada en consonant: l'accent cau a «úl»."
+
+  - id: b1-31-055
+    type: choice
+    point: obert-tancat
+    lesson: 5
+    prompt: "Quedem ___ de la feina per anar a la llibreria."
+    answer: "després"
+    distractors:
+      - text: "despres"
+        why: "*Després* és aguda acabada en vocal + *s*: necessita accent."
+      - text: "desprès"
+        why: "*Després* porta la *e* tancada."
+    explanation: "*Després* és aguda i porta la *e* tancada."
+
+  - id: b1-31-056
+    type: choice
+    point: diacritics
+    lesson: 5
+    prompt: "—Saps l'adreça? —No, no ___."
+    answer: "ho sé"
+    distractors:
+      - text: "ho se"
+        why: "*Se* sense accent és el pronom (*se'n va*). El verb és *sé*: *no ho sé*."
+      - text: "o sé"
+        why: "El pronom neutre és *ho*: *no ho sé*."
+    explanation: "El verb *saber* (*jo*) és *sé*: *no ho sé*."
+
+  - id: b1-31-057
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «tenir un llibre de capçalera»?"
+    answer: "Tenir un llibre preferit que es rellegeix sovint."
+    distractors:
+      - text: "Tenir un llibre sota el coixí."
+        why: "No és literal: és el llibre preferit, no un coixí."
+      - text: "Tenir molts llibres a l'habitació."
+        why: "La quantitat no hi té res a veure: és un sol llibre preferit."
+    explanation: "Un *llibre de capçalera* és un llibre preferit."
+
+  - id: b1-31-058
+    type: fill
+    point: accentuacio
+    lesson: 5
+    prompt: "Llegiu l'___ abans de tancar el llibre."
+    hint: "EPILEG, amb accent"
+    answers: ["epíleg"]
+    wrong_answers:
+      - text: "epileg"
+        why: "*Epíleg* és esdrúixola: necessita accent."
+      - text: "epílog"
+        why: "L'accent cau a la *i*, no a la *o*: *epíleg*."
+    grading: strict
+    explanation: "*Epíleg* és esdrúixola: l'accent cau a la *i*."
+
+  - id: b1-31-059
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "L'acció passa a ___."
+    hint: "OCEANIA"
+    answers: ["Oceania"]
+    wrong_answers:
+      - text: "Oceanía"
+        why: "En català és plana: *Oceania*. *Oceanía* és la forma castellana «Oceanía»."
+    grading: strict
+    explanation: "*Oceania* és plana acabada en vocal: no porta accent."
+
+  - id: b1-31-060
+    type: find-error
+    point: diacritics
+    lesson: 5
+    sentence: "El meu germà te deu anys."
+    error: "te"
+    fix: "té"
+    fix_distractors:
+      - text: "tè"
+        why: "El verb *tenir* porta l'accent tancat: *té*."
+      - text: "et"
+        why: "*Et* és un pronom (*et veig*). Aquí cal el verb *té*."
+    explanation: "El verb *tenir* (*ell*) és *té*. *Te* és un pronom: *no te'n recordes*."
+
+  - id: b1-31-061
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "La policia i el testimoni parlen de l'origen del quadre."
+    no_error: true
+    explanation: "La frase és correcta: *policia* i *origen* són planes i no porten accent."
+
+  - id: b1-31-062
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix la paraula marcada."
+    source: "Viatgen per [[America]] amb tren."
+    answers: ["Viatgen per Amèrica amb tren."]
+    wrong_answers:
+      - text: "Viatgen per America amb tren."
+        why: "En català és esdrúixola i oberta: *Amèrica*."
+      - text: "Viatgen per América amb tren."
+        why: "La *e* és oberta i la *a* només porta accent greu: *Amèrica*."
+    grading: strict
+    explanation: "En català és *Amèrica*. *América* és la forma castellana «América»."
+
+  - id: b1-31-063
+    type: transform
+    point: dieresi
+    lesson: 5
+    instruction: "Corregeix la paraula marcada."
+    source: "És una [[qüestio]] de temps."
+    answers: ["És una qüestió de temps."]
+    wrong_answers:
+      - text: "És una qüestio de temps."
+        why: "*Qüestió* és aguda acabada en vocal: necessita accent, a més de la dièresi."
+      - text: "És una questió de temps."
+        why: "Darrere de *q* la *u* porta dièresi davant de *e*: *qüestió*."
+    grading: strict
+    explanation: "La *u* porta dièresi i la *o* accent tancat: *qüestió*."
+
+  - id: b1-31-064
+    type: inline-choice
+    point: diacritics
+    lesson: 5
+    title: "Nota a la porta"
+    text: "La biblioteca {és|es} tancada. {Què|Que} fem? {Si|Sí} vols, anem a casa meva: tinc {més|mes} llibres per triar i {sé|se} on {són|son}."
+    explanation: "El verb és *és*, l'interrogatiu *què*, la condició *si*, la quantitat *més* i els verbs *sé* i *són*."
+
+  - id: b1-31-065
+    type: order
+    point: compte-castella
+    lesson: 5
+    cue: "Explica que la poesia parla de l'origen del poble."
+    chunks: ["la", "poesia", "parla", "de", "l'origen", "del", "poble"]
+    extra: ["poesía", "orígen"]
+    answers:
+      - "La poesia parla de l'origen del poble."
+      - "De l'origen del poble parla la poesia."
+    explanation: "*Poesia* i *origen* són planes: no porten accent."
+
+  - id: b1-31-066
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "El club de lectura"
+    text: |
+      La biblioteca del barri de Gràcia té un club de lectura que es troba cada dijous a la tarda. La bibliotecària, la Marta, tria cada mes una novel·la i penja la tria al catàleg de l'entrada. El préstec dura tres setmanes i ningú no paga res: només cal el carnet.
+
+      Aquest mes toca un gènere nou: la novel·la negra. La protagonista és una inspectora que torna al seu poble per resoldre un robatori antic. És un personatge tossut i valent. En Pau, que és un rat de biblioteca, ja l'ha acabat: diu que l'ha devorada en quatre dies. La Fàtima, en canvi, encara va pel pròleg: llegeix a poc a poc i rellegeix els paràgrafs difícils. Sempre perd el punt de llibre.
+
+      Dijous passat van parlar del final. A en Pau li va agradar; la Fàtima va dir que calia llegir entre línies per entendre què pensa de debò l'autora. La Marta va somriure: «Això és el millor del club», va dir. «El mateix llibre, tres lectures diferents.» El mes que ve llegiran una biografia i escriuran una ressenya per a la revista del barri.
+    questions:
+      - prompt: "Què fa la Marta cada mes?"
+        answer: "Tria la novel·la del club i anuncia la tria."
+        distractors:
+          - text: "Escriu una novel·la negra nova."
+            why: "La Marta tria la novel·la; no diu que n'escrigui cap."
+          - text: "Devora la novel·la en quatre dies."
+            why: "Qui l'ha devorada és en Pau, no la Marta."
+      - prompt: "Com llegeix la Fàtima?"
+        answer: "A poc a poc i rellegint els trossos difícils."
+        distractors:
+          - text: "De pressa, sense parar fins al final."
+            why: "Així llegeix en Pau, no la Fàtima."
+          - text: "Només el pròleg de cada llibre."
+            why: "Va pel pròleg perquè llegeix a poc a poc, no perquè només llegeixi pròlegs."
+      - prompt: "Què vol dir la Marta amb «tres lectures diferents»?"
+        answer: "Que cada lector entén el llibre a la seva manera."
+        distractors:
+          - text: "Que han llegit tres llibres diferents."
+            why: "Han llegit el mateix llibre: la novel·la negra."
+          - text: "Que el llibre té tres finals."
+            why: "El text parla d'un sol final."
+      - prompt: "Què cal per endur-se llibres?"
+        answer: "Tenir el carnet de la biblioteca."
+        distractors:
+          - text: "Pagar una quota per cada préstec."
+            why: "El préstec és gratuït: *ningú no paga res*."
+          - text: "Anar a la biblioteca cada dijous."
+            why: "El club és cada dijous, però això no és una condició del préstec."
+    explanation: "El text presenta el club de lectura d'una biblioteca: com funciona i què en pensen tres lectors."
+
+  - id: b1-31-067
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "La Carla és ___: cada tarda és a la sala de lectura."
+    hint: "expressió amb «biblioteca»"
+    answers: ["un rat de biblioteca"]
+    wrong_answers:
+      - text: "una rata de biblioteca"
+        why: "L'expressió és fixa: *un rat de biblioteca*."
+    grading: tolerant
+    explanation: "*Ser un rat de biblioteca* vol dir que llegeixes moltíssim."

@@ -1,0 +1,1026 @@
+id: b1-36
+level: B1
+title: "Castellanismes freqüents i lèxic genuí"
+summary: "Aprens a formar noms amb els sufixos *-ada, -esa, -ció, -ment, -isme* i *-ista*, i a substituir els barbarismes de cada dia per les formes genuïnes."
+vocabulary_theme: "Mitjans de comunicació i xarxes"
+points:
+  - id: derivacio-ada-esa
+    title: "Els sufixos *-ada* i *-esa*: *trucada*, *bellesa*"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: derivacio-cio-ment
+    title: "Els sufixos *-ció* i *-ment*: *presentació*, *naixement*"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: derivacio-isme-ista
+    title: "Els sufixos *-isme* i *-ista*: *periodisme*, *periodista*"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: barbarismes de cada dia"
+  - id: expressions
+    title: "Expressions de cada dia"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: noms en -ada, -esa, -ció i -ment"
+  - title: "Practicar la derivació"
+  - title: "-isme i -ista, i barbarismes"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el diari"
+    definition: "Fulls amb notícies que surten cada dia."
+    example: "Compro el diari cada matí al quiosc."
+  - word: "la revista"
+    definition: "Publicació setmanal o mensual amb reportatges i fotos."
+    example: "Aquesta revista de cuina surt cada mes."
+  - word: "la notícia"
+    definition: "Informació nova sobre un fet recent."
+    example: "La notícia va sortir a tots els diaris."
+  - word: "el titular"
+    definition: "Frase gran que resumeix una notícia."
+    example: "El titular de portada parla de la vaga."
+  - word: "la portada"
+    definition: "Primera pàgina d'un diari o una revista."
+    example: "La foto de la portada és preciosa."
+  - word: "el reportatge"
+    definition: "Article llarg que explica un tema amb detall."
+    example: "El reportatge mostra la riquesa del barri."
+  - word: "l'entrevista"
+    definition: "Conversa amb preguntes i respostes que es publica."
+    example: "L'entrevista al director dura deu minuts."
+  - word: "el periodista, la periodista"
+    definition: "Persona que escriu notícies o fa reportatges."
+    example: "La periodista va cobrir el ple de l'Ajuntament."
+  - word: "la redacció"
+    definition: "Lloc on els periodistes escriuen les notícies."
+    example: "La redacció del diari és al centre."
+  - word: "el programa"
+    definition: "Espai de ràdio o televisió amb un tema i un horari."
+    example: "El programa de cinema comença a les deu."
+  - word: "el presentador, la presentadora"
+    definition: "Persona que condueix un programa."
+    example: "La presentadora saluda els espectadors."
+  - word: "l'espectador, l'espectadora"
+    definition: "Persona que mira un programa o un espectacle."
+    example: "Els espectadors van aplaudir al final."
+  - word: "l'oient"
+    definition: "Persona que escolta la ràdio o un pòdcast."
+    example: "Els oients poden trucar al directe."
+  - word: "l'audiència"
+    definition: "Conjunt de persones que segueixen un programa."
+    example: "El concurs té molta audiència jove."
+  - word: "l'emissora"
+    definition: "Empresa que emet programes de ràdio o televisió."
+    example: "L'emissora local emet en català."
+  - word: "el directe"
+    definition: "Programa que s'emet en el mateix moment."
+    example: "El directe de demà començarà a les vuit."
+  - word: "el pòdcast"
+    definition: "Programa d'àudio que pots escoltar quan vols."
+    example: "Escolto un pòdcast d'història cada nit."
+  - word: "la sèrie"
+    definition: "Història explicada en molts capítols."
+    example: "La sèrie té tres temporades curtes."
+  - word: "el capítol"
+    definition: "Cadascuna de les parts d'una sèrie."
+    example: "Cada dijous pengen un capítol nou."
+  - word: "la pantalla"
+    definition: "Superfície on es veuen les imatges."
+    example: "La pantalla del mòbil és massa petita."
+  - word: "el teclat"
+    definition: "Conjunt de tecles per escriure a l'ordinador."
+    example: "El teclat nou va molt bé."
+  - word: "la contrasenya"
+    definition: "Paraula secreta per entrar en un compte."
+    example: "No recordo la contrasenya del correu."
+  - word: "l'enllaç"
+    definition: "Text que et porta a una altra pàgina d'internet."
+    example: "T'envio l'enllaç del vídeo per missatge."
+  - word: "el perfil"
+    definition: "Pàgina personal en una xarxa social."
+    example: "Va penjar el vídeo al seu perfil."
+  - word: "el compte"
+    definition: "Accés personal a una web o una aplicació."
+    example: "Vaig obrir un compte nou ahir."
+  - word: "el seguidor, la seguidora"
+    definition: "Persona que segueix un compte a les xarxes."
+    example: "Cada setmana guanya cent seguidors."
+  - word: "el comentari"
+    definition: "Text curt per opinar en una publicació."
+    example: "Vaig deixar un comentari al vídeo."
+  - word: "publicar"
+    definition: "Posar un text o una foto a internet."
+    example: "Va publicar l'entrevista al vespre."
+  - word: "compartir"
+    definition: "Enviar una publicació a altres persones."
+    example: "Comparteix el programa amb els amics."
+  - word: "penjar"
+    definition: "Posar un fitxer o una foto a internet."
+    example: "Pengen un capítol nou cada dijous."
+  - word: "la subscripció"
+    definition: "Pagament regular per rebre un servei."
+    example: "La subscripció inclou tots els capítols."
+  - word: "la privadesa"
+    definition: "Dret que les dades pròpies no es difonguin."
+    example: "Configura la privadesa del perfil."
+  - word: "el cercador"
+    definition: "Eina per trobar pàgines a internet."
+    example: "Ho vaig trobar amb el cercador."
+  - word: "el fil"
+    definition: "Conversa seguida de missatges a les xarxes."
+    example: "Va desar el fil de la tertúlia."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-36-001
+    type: choice
+    point: derivacio-ada-esa
+    lesson: 1
+    prompt: "La Laia truca a la redacció del diari cada tarda: hi fan una ___ de mitja hora."
+    answer: "trucada"
+    distractors:
+      - text: "trucament"
+        why: "De *trucar*, el nom habitual és *trucada*, no *trucament*."
+      - text: "trucació"
+        why: "De *trucar*, el nom habitual és *trucada*, no *trucació*."
+    explanation: "De *trucar* fem el nom *trucada* amb *-ada*. «Mitja hora» indica la durada de la conversa."
+
+  - id: b1-36-002
+    type: choice
+    point: derivacio-ada-esa
+    lesson: 1
+    prompt: "Aquesta foto de la portada és d'una ___ increïble."
+    answer: "bellesa"
+    distractors:
+      - text: "belleza"
+        why: "«Belleza», amb *z*, és la forma castellana. En català: *bellesa*, amb *ss*."
+      - text: "bellitat"
+        why: "El nom de *bell* és *bellesa*, no *bellitat*."
+    explanation: "De l'adjectiu *bell* fem *bellesa* amb *-esa*. S'escriu amb *ss*, no amb *z*."
+
+  - id: b1-36-003
+    type: choice
+    point: derivacio-ada-esa
+    lesson: 1
+    prompt: "L'___ del tren de Girona serà a les vuit del vespre."
+    answer: "arribada"
+    distractors:
+      - text: "arribament"
+        why: "De *arribar*, el nom habitual és *arribada*, no *arribament*."
+      - text: "arribació"
+        why: "De *arribar*, el nom habitual és *arribada*, no *arribació*."
+    explanation: "De *arribar* fem *arribada* amb *-ada*. «L'» indica que cal un nom femení."
+
+  - id: b1-36-004
+    type: choice
+    point: derivacio-ada-esa
+    lesson: 1
+    prompt: "El reportatge de la revista mostra la ___ cultural de la ciutat."
+    answer: "riquesa"
+    distractors:
+      - text: "riqueza"
+        why: "«Riqueza», amb *z*, és castellà. En català: *riquesa*, amb *qu* i *s*."
+      - text: "riquitat"
+        why: "El nom de *ric* és *riquesa*, no *riquitat*."
+    explanation: "De *ric* fem *riquesa* amb *-esa*. En català s'escriu amb *qu* i una sola *s*."
+
+  - id: b1-36-005
+    type: choice
+    point: derivacio-cio-ment
+    lesson: 1
+    prompt: "La notícia diu que la ___ del nou disc serà divendres."
+    answer: "presentació"
+    distractors:
+      - text: "presentament"
+        why: "De *presentar*, el nom habitual és *presentació*, no *presentament*."
+      - text: "presenta"
+        why: "*Presenta* és el verb (*ell presenta*). Després de *la* cal un nom: *presentació*."
+    explanation: "De *presentar* fem el nom femení *presentació* amb *-ció*. «La» demana un nom."
+
+  - id: b1-36-006
+    type: choice
+    point: derivacio-cio-ment
+    lesson: 1
+    prompt: "El seu ___ del català millora cada setmana."
+    answer: "coneixement"
+    distractors:
+      - text: "coneixeció"
+        why: "De *conèixer*, el nom habitual és *coneixement*, no *coneixeció*."
+      - text: "coneixença"
+        why: "*Coneixença* és femení (*la coneixença*) i és una persona que coneixes poc."
+    explanation: "De *conèixer* fem el masculí *coneixement* amb *-ment*. «El seu» demana un masculí."
+
+  - id: b1-36-007
+    type: choice
+    point: derivacio-cio-ment
+    lesson: 1
+    prompt: "___ del festival va molt bé, aquest any."
+    answer: "L'organització"
+    distractors:
+      - text: "El organització"
+        why: "*Organització* és femení. *El* és masculí: aquí cal *l'*."
+      - text: "La organització"
+        why: "Davant de vocal, *la* s'apostrofa: *l'organització*."
+    explanation: "Els noms en *-ció* són femenins. Davant de vocal, *la* s'apostrofa: *l'organització*."
+
+  - id: b1-36-008
+    type: match
+    point: derivacio-ada-esa
+    lesson: 1
+    instruction: "Relaciona cada verb o adjectiu amb el nom corresponent."
+    pairs:
+      - ["trucar", "la trucada"]
+      - ["abraçar", "l'abraçada"]
+      - ["pobre", "la pobresa"]
+      - ["vell", "la vellesa"]
+      - ["mirar", "la mirada"]
+    explanation: "Els verbs fan noms en *-ada* (*trucada*); els adjectius, noms en *-esa* (*pobresa*)."
+
+  - id: b1-36-009
+    type: match
+    point: derivacio-cio-ment
+    lesson: 1
+    instruction: "Relaciona cada verb amb el nom corresponent."
+    pairs:
+      - ["presentar", "la presentació"]
+      - ["organitzar", "l'organització"]
+      - ["néixer", "el naixement"]
+      - ["moure", "el moviment"]
+      - ["traduir", "la traducció"]
+    explanation: "Els noms en *-ció* són femenins; els noms en *-ment*, masculins."
+
+  - id: b1-36-010
+    type: inline-choice
+    point: derivacio-ada-esa
+    lesson: 1
+    title: "Una abraçada a l'estació"
+    text: "Hola! Ahir a l'estació ens vam fer una {abraçada|abraçament|abraçació} molt forta: feia mesos que no ens vèiem. L'{arribada|arribament|arribació} del tren portava retard, però l'espera va valer la pena: la {bellesa|belleza|bellitat} de retrobar-nos no es pot explicar. Vam fer una {passejada|passejament|passejació} pel barri antic i vam riure tota l'estona."
+    explanation: "Dels verbs fem noms en *-ada* (*abraçada, arribada, passejada*). De *bell* fem *bellesa*, amb *ss*."
+
+  - id: b1-36-011
+    type: inline-choice
+    point: derivacio-cio-ment
+    lesson: 1
+    title: "Nota de la redacció"
+    text: "La {presentació|presentament|presenta} del nou programa serà dilluns. L'{organització|organitzament|organitza} de l'acte va a càrrec de la redacció. Necessitem el teu {coneixement|coneixeció|coneixença} de les xarxes per fer-ne difusió. El {llançament|llançació|llança} del pòdcast serà al març."
+    explanation: "Els noms en *-ció* són femenins (*presentació, organització*); els noms en *-ment*, masculins (*coneixement, llançament*)."
+
+  - id: b1-36-012
+    type: fill
+    point: derivacio-ada-esa
+    lesson: 1
+    prompt: "Abans de marxar, l'Ibrahim em va fer una ___ molt forta."
+    hint: "ABRAÇAR, nom en *-ada*"
+    answers: ["abraçada"]
+    wrong_answers:
+      - text: "abraçament"
+        why: "De *abraçar*, el nom habitual és *abraçada*, no *abraçament*."
+      - text: "abraç"
+        why: "*Abraç* és masculí (*un abraç*). Aquí «una» demana el femení: *abraçada*."
+    grading: tolerant
+    explanation: "«Una» demana un nom femení. De *abraçar* fem *abraçada* amb *-ada*."
+
+  - id: b1-36-013
+    type: fill
+    point: derivacio-cio-ment
+    lesson: 1
+    prompt: "Celebrem el centenari del ___ del poeta a Vilafranca."
+    hint: "NÉIXER, nom en *-ment*"
+    answers: ["naixement"]
+    wrong_answers:
+      - text: "naixeció"
+        why: "De *néixer*, el nom habitual és *naixement*, no *naixeció*."
+      - text: "naixença"
+        why: "*Naixença* és femení (*la naixença*). Aquí «del» demana el masculí: *naixement*."
+    grading: tolerant
+    explanation: "«Del» demana un nom masculí. De *néixer* fem *naixement* amb *-ment*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-36-014
+    type: fill
+    point: derivacio-ada-esa
+    lesson: 2
+    prompt: "La ___ del museu atrau visitants de tot el món."
+    hint: "RIC, nom en *-esa*"
+    answers: ["riquesa"]
+    wrong_answers:
+      - text: "riqueza"
+        why: "«Riqueza», amb *z*, és castellà. En català: *riquesa*."
+      - text: "riquessa"
+        why: "*Riquesa* s'escriu amb una sola *s*, no amb dues."
+    grading: tolerant
+    explanation: "De *ric* fem *riquesa* amb *-esa*: amb *qu* i una sola *s*."
+
+  - id: b1-36-015
+    type: fill
+    point: derivacio-ada-esa
+    lesson: 2
+    prompt: "Vam fer una ___ pel passeig marítim al capvespre."
+    hint: "PASSEJAR, nom en *-ada*"
+    answers: ["passejada"]
+    wrong_answers:
+      - text: "passejament"
+        why: "De *passejar*, el nom habitual és *passejada*, no *passejament*."
+      - text: "passeig"
+        why: "*Passeig* és masculí (*un passeig*). Aquí «una» demana el femení: *passejada*."
+    grading: tolerant
+    explanation: "«Una» demana un nom femení. De *passejar* fem *passejada* amb *-ada*."
+
+  - id: b1-36-016
+    type: fill
+    point: derivacio-cio-ment
+    lesson: 2
+    prompt: "La ___ del llibre tindrà lloc a la biblioteca."
+    hint: "PRESENTAR, nom en *-ció*"
+    answers: ["presentació"]
+    wrong_answers:
+      - text: "presentament"
+        why: "De *presentar*, el nom habitual és *presentació*, no *presentament*."
+      - text: "presenta"
+        why: "*Presenta* és el verb (*ell presenta*). Aquí cal el nom: *presentació*."
+    grading: tolerant
+    explanation: "«La» demana un nom femení. De *presentar* fem *presentació* amb *-ció*."
+
+  - id: b1-36-017
+    type: fill
+    point: derivacio-cio-ment
+    lesson: 2
+    prompt: "El ___ de viatgers creix cada estiu a l'aeroport."
+    hint: "MOURE, nom en *-ment*"
+    answers: ["moviment"]
+    wrong_answers:
+      - text: "movició"
+        why: "De *moure*, el nom habitual és *moviment*, no *movició*."
+      - text: "mou"
+        why: "*Mou* és el verb (*ell mou*). Després de *el* cal un nom: *moviment*."
+    grading: tolerant
+    explanation: "«El» demana un nom masculí. De *moure* fem *moviment* amb *-ment*."
+
+  - id: b1-36-018
+    type: fill
+    point: derivacio-ada-esa
+    lesson: 2
+    prompt: "Amb la ___, l'àvia hi veu menys bé."
+    hint: "VELL, nom en *-esa*"
+    answers: ["vellesa"]
+    wrong_answers:
+      - text: "velleza"
+        why: "«Velleza», amb *z*, és castellà. En català: *vellesa*, amb *ll* i *ss*."
+      - text: "velleria"
+        why: "El nom de *vell* és *vellesa*, no *velleria*."
+    grading: tolerant
+    explanation: "De *vell* fem *vellesa* amb *-esa*: amb *ll* i *ss*."
+
+  - id: b1-36-019
+    type: fill
+    point: derivacio-cio-ment
+    lesson: 2
+    prompt: "El teu ___ d'internet ens anirà molt bé per al projecte."
+    hint: "CONÈIXER, nom en *-ment*"
+    answers: ["coneixement"]
+    wrong_answers:
+      - text: "coneixeció"
+        why: "De *conèixer*, el nom habitual és *coneixement*, no *coneixeció*."
+      - text: "coneixença"
+        why: "*Coneixença* és femení. Aquí «el teu» demana el masculí: *coneixement*."
+    grading: tolerant
+    explanation: "«El teu» demana un masculí. De *conèixer* fem *coneixement* amb *-ment*."
+
+  - id: b1-36-020
+    type: order
+    point: derivacio-ada-esa
+    lesson: 2
+    cue: "Digues que ahir vas fer una trucada llarga a la teva germana."
+    chunks: ["ahir", "vaig fer", "una trucada", "llarga", "a la meva germana"]
+    extra: ["trucament"]
+    answers:
+      - "Ahir vaig fer una trucada llarga a la meva germana."
+      - "Vaig fer una trucada llarga a la meva germana ahir."
+    explanation: "De *trucar* fem *trucada*. L'ordre és: temps, verb i complements."
+
+  - id: b1-36-021
+    type: order
+    point: derivacio-cio-ment
+    lesson: 2
+    cue: "Digues que la presentació del disc nou serà demà a la tarda."
+    chunks: ["la presentació", "del disc nou", "serà", "demà a la tarda"]
+    extra: ["presentament"]
+    answers:
+      - "La presentació del disc nou serà demà a la tarda."
+      - "Demà a la tarda serà la presentació del disc nou."
+    explanation: "De *presentar* fem *presentació*, femení: *la presentació*. El temps va al final."
+
+  - id: b1-36-022
+    type: order
+    point: derivacio-cio-ment
+    lesson: 2
+    cue: "Digues que el naixement del teu fill va ser a Girona."
+    chunks: ["el naixement", "del meu fill", "va ser", "a Girona"]
+    extra: ["naixença"]
+    answers:
+      - "El naixement del meu fill va ser a Girona."
+      - "A Girona va ser el naixement del meu fill."
+    explanation: "De *néixer* fem *naixement*, masculí: aquí cal *el*, no *la*."
+
+  - id: b1-36-023
+    type: choice
+    point: derivacio-ada-esa
+    lesson: 2
+    prompt: "En entrar a l'estudi, la presentadora va dedicar una ___ amable als espectadors."
+    answer: "mirada"
+    distractors:
+      - text: "mirament"
+        why: "De *mirar*, el nom habitual és *mirada*, no *mirament*."
+      - text: "miració"
+        why: "De *mirar*, el nom habitual és *mirada*, no *miració*."
+    explanation: "De *mirar* fem *mirada* amb *-ada*. «Una» demana un nom femení."
+
+  - id: b1-36-024
+    type: choice
+    point: derivacio-ada-esa
+    lesson: 2
+    prompt: "La ___ del titular de portada va commoure tot l'estudi."
+    answer: "tristesa"
+    distractors:
+      - text: "tristeza"
+        why: "«Tristeza», amb *z*, és castellà. En català: *tristesa*, amb *ss*."
+      - text: "tristetat"
+        why: "El nom de *trist* és *tristesa*, no *tristetat*."
+    explanation: "De *trist* fem *tristesa* amb *-esa*. S'escriu amb *ss*, no amb *z*."
+
+  - id: b1-36-025
+    type: choice
+    point: derivacio-cio-ment
+    lesson: 2
+    prompt: "La ___ catalana de la sèrie sortirà a la tardor."
+    answer: "traducció"
+    distractors:
+      - text: "traduïment"
+        why: "De *traduir*, el nom habitual és *traducció*, no *traduïment*."
+      - text: "tradueix"
+        why: "*Tradueix* és el verb (*ell tradueix*). Aquí cal el nom: *traducció*."
+    explanation: "De *traduir* fem el femení *traducció* amb *-ció*. «La» demana un nom."
+
+  - id: b1-36-026
+    type: choice
+    point: derivacio-cio-ment
+    lesson: 2
+    prompt: "L'emissora prepara el ___ d'un pòdcast nou per a l'audiència jove."
+    answer: "llançament"
+    distractors:
+      - text: "llançació"
+        why: "De *llançar*, el nom habitual és *llançament*, no *llançació*."
+      - text: "llança"
+        why: "*Llança* és el verb (*ell llança*) o un nom femení. Aquí cal el masculí: *llançament*."
+    explanation: "De *llançar* fem el masculí *llançament* amb *-ment*. «El» demana un masculí."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-36-027
+    type: choice
+    point: derivacio-isme-ista
+    lesson: 3
+    prompt: "La Carla escriu notícies per a un diari: és ___."
+    answer: "periodista"
+    distractors:
+      - text: "periodisme"
+        why: "*Periodisme* és la professió. La persona que escriu notícies és *periodista*."
+      - text: "periodistessa"
+        why: "La forma és *periodista* per a homes i dones: *periodistessa* no existeix."
+    explanation: "La persona és *periodista* (el o la). *Periodisme* és el nom de la professió."
+
+  - id: b1-36-028
+    type: choice
+    point: derivacio-isme-ista
+    lesson: 3
+    prompt: "L'Ibrahim veu el futur amb il·lusió: és un gran ___."
+    answer: "optimista"
+    distractors:
+      - text: "optimisme"
+        why: "*Optimisme* és l'actitud positiva. La persona és *optimista*."
+      - text: "optimist"
+        why: "En català la paraula acaba en *-a*: *optimista*."
+    explanation: "La persona és *optimista*. L'actitud de veure el futur amb il·lusió és *l'optimisme*."
+
+  - id: b1-36-029
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "___! Comencem el programa d'avui amb les notícies."
+    answer: "Bé"
+    distractors:
+      - text: "Bueno"
+        why: "«Bueno» és un castellanisme. Aquí, per començar: *bé*."
+      - text: "Vale"
+        why: "«Vale» és un castellanisme. Per començar amb energia: *bé*."
+    explanation: "«Bueno» és un castellanisme. Per començar, diem *bé*."
+
+  - id: b1-36-030
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Quina frase no té cap barbarisme?"
+    answer: "Llavors va caure el directe i vam tornar a començar."
+    distractors:
+      - text: "Entonces va caure el directe i vam tornar a començar."
+        why: "«Entonces» és un castellanisme. En català: *llavors* o *aleshores*."
+      - text: "Llavors va caure el directe i vam tornar a empezar."
+        why: "«Empezar» és un castellanisme. En català: *començar*."
+    explanation: "La frase bona fa servir *llavors* i *començar*. «Entonces» i «empezar» són castellanismes."
+
+  - id: b1-36-031
+    type: fill
+    point: derivacio-isme-ista
+    lesson: 3
+    prompt: "La Montse defensa la igualtat entre homes i dones: és ___."
+    hint: "FEMINISME, la persona"
+    answers: ["feminista"]
+    wrong_answers:
+      - text: "feminisme"
+        why: "*Feminisme* és el moviment. La persona és *feminista*."
+      - text: "feministessa"
+        why: "La forma és *feminista* per a homes i dones: *feministessa* no existeix."
+    grading: tolerant
+    explanation: "La persona és *feminista* (el o la). *Feminisme* és el nom del moviment."
+
+  - id: b1-36-032
+    type: fill
+    point: derivacio-isme-ista
+    lesson: 3
+    prompt: "En Pau arregla dents a la clínica del barri: és ___."
+    hint: "DENT, el metge en *-ista*"
+    answers: ["dentista"]
+    wrong_answers:
+      - text: "dentiste"
+        why: "En català la paraula acaba en *-a*: *dentista*."
+    grading: tolerant
+    explanation: "El metge de les dents és el *dentista* (o la *dentista*), amb *-ista*."
+
+  - id: b1-36-033
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "—Penjo el vídeo al perfil demà? —___, però avisa'm abans."
+    hint: "VALE, en català genuí"
+    answers: ["D'acord"]
+    wrong_answers:
+      - text: "Vale"
+        why: "«Vale» és un castellanisme. Per acceptar una proposta: *d'acord*."
+      - text: "Bueno"
+        why: "«Bueno» és un castellanisme. Per acceptar una proposta: *d'acord*."
+    grading: tolerant
+    explanation: "«Vale» és un castellanisme. Per acceptar una proposta, diem *d'acord*."
+
+  - id: b1-36-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Aquest pòdcast nou és molt bueno, l'has de provar."
+    error: "bueno"
+    fix: "bo"
+    fix_distractors:
+      - text: "bon"
+        why: "*Bon* només va davant d'un nom masculí (*un bon pòdcast*). Amb *molt*, cal *bo*."
+      - text: "bé"
+        why: "*Bé* és un adverbi. Aquí cal l'adjectiu *bo*: «és molt bo»."
+    explanation: "«Bueno» és un castellanisme. L'adjectiu català és *bo*: «és molt bo»."
+
+  - id: b1-36-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "No sé si vindré al directe, pues encara no tinc el guió."
+    error: "pues"
+    fix: "doncs"
+    fix_distractors:
+      - text: "bueno"
+        why: "«Bueno» també és un castellanisme. Aquí, per matisar, cal *doncs*."
+      - text: "vale"
+        why: "«Vale» és un castellanisme i aquí no té sentit. La forma genuïna és *doncs*."
+    explanation: "«Pues» és un castellanisme. Per matisar o dubtar, en català fem servir *doncs*."
+
+  - id: b1-36-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Bé, doncs llavors ens veiem demà al plató a les deu."
+    no_error: true
+    explanation: "La frase és correcta: *bé* obre el torn, *doncs* matisa i *llavors* ordena els fets."
+
+  - id: b1-36-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Per esmorzar faig servir un vaso gran de vidre."
+    error: "vaso"
+    fix: "got"
+    fix_distractors:
+      - text: "tassa"
+        why: "*Tassa* és femení: caldria «una tassa». Aquí «un» demana el masculí *got*."
+      - text: "copa"
+        why: "*Copa* és femení i és per al vi. Aquí cal el masculí *got*."
+    explanation: "«Vaso» és un castellanisme. El recipient per beure aigua és el *got*."
+
+  - id: b1-36-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Apreta el botó vermell per entrar al compte."
+    error: "Apreta"
+    fix: "Prem"
+    fix_distractors:
+      - text: "Apreti"
+        why: "*Apreti* és el mateix calc en tractament formal. Per a un botó: *prem*."
+      - text: "Estreny"
+        why: "*Estrènyer* és subjectar fort. Per a un botó o una tecla: *prémer*."
+    explanation: "«Apretar el botó» és un calc de «apretar el botón». Per a un botó, el verb és *prémer*: *prem*."
+
+  - id: b1-36-039
+    type: match
+    point: derivacio-isme-ista
+    lesson: 3
+    instruction: "Relaciona cada paraula amb el seu significat."
+    pairs:
+      - ["el periodisme", "la professió d'informar"]
+      - ["el turisme", "l'activitat de viatjar per plaer"]
+      - ["l'optimisme", "l'actitud de veure el futur amb il·lusió"]
+      - ["el feminisme", "el moviment per la igualtat entre homes i dones"]
+    explanation: "Els noms en *-isme* són masculins: diuen una activitat, una actitud o un moviment."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-36-040
+    type: transform
+    point: derivacio-ada-esa
+    lesson: 4
+    instruction: "Substitueix la part marcada pel nom corresponent en *-ada*."
+    source: "Ahir a la nit [[vaig trucar a]] la Fàtima dues vegades."
+    answers:
+      - "Ahir a la nit vaig fer dues trucades a la Fàtima."
+      - "Vaig fer dues trucades a la Fàtima ahir a la nit."
+    wrong_answers:
+      - text: "Ahir a la nit vaig fer dues trucaments a la Fàtima."
+        why: "El nom de *trucar* és *trucada*: «dues trucades», no *trucaments*."
+      - text: "Ahir a la nit vaig fer dues trucacions a la Fàtima."
+        why: "El nom de *trucar* és *trucada*: «dues trucades», no *trucacions*."
+    grading: tolerant
+    explanation: "El nom de *trucar* és *trucada*. «Dues vegades» es converteix en «dues trucades»."
+
+  - id: b1-36-041
+    type: transform
+    point: derivacio-cio-ment
+    lesson: 4
+    instruction: "Substitueix la part marcada pel nom corresponent en *-ció*."
+    source: "Dilluns [[presentarem]] el nou pòdcast a la premsa."
+    answers:
+      - "Dilluns farem la presentació del nou pòdcast a la premsa."
+      - "Dilluns farem la presentació del pòdcast nou a la premsa."
+      - "Farem la presentació del nou pòdcast a la premsa dilluns."
+      - "Farem la presentació del pòdcast nou a la premsa dilluns."
+    wrong_answers:
+      - text: "Dilluns farem el presentament del nou pòdcast a la premsa."
+        why: "El nom de *presentar* és *presentació* (femení), no *presentament*."
+    grading: tolerant
+    explanation: "El nom de *presentar* és *presentació*, femení: «farem la presentació»."
+
+  - id: b1-36-042
+    type: transform
+    point: derivacio-isme-ista
+    lesson: 4
+    instruction: "Reescriu la frase amb la paraula en *-ista*."
+    source: "En Jordi [[es dedica al periodisme]] des de fa deu anys."
+    answers:
+      - "En Jordi és periodista des de fa deu anys."
+      - "Des de fa deu anys, en Jordi és periodista."
+    wrong_answers:
+      - text: "En Jordi és periodisme des de fa deu anys."
+        why: "*Periodisme* és la professió. La persona és *periodista*."
+    grading: tolerant
+    explanation: "L'activitat és el *periodisme*; la persona és *periodista*, per a homes i dones."
+
+  - id: b1-36-043
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix el barbarisme."
+    source: "[[Entonces]] vaig compartir l'enllaç al grup."
+    answers:
+      - "Llavors vaig compartir l'enllaç al grup."
+      - "Aleshores vaig compartir l'enllaç al grup."
+    wrong_answers:
+      - text: "Entonces vaig compartir l'enllaç al grup."
+        why: "«Entonces» és un castellanisme. En català: *llavors* o *aleshores*."
+    grading: tolerant
+    explanation: "«Entonces» és un castellanisme. En català: *llavors* o *aleshores*."
+
+  - id: b1-36-044
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix el barbarisme."
+    source: "El noi em va dir: «[[Vale]], demà contesto el teu comentari.»"
+    answers: ["El noi em va dir: «D'acord, demà contesto el teu comentari.»"]
+    wrong_answers:
+      - text: "El noi em va dir: «Vale, demà contesto el teu comentari.»"
+        why: "«Vale» és un castellanisme. Per acceptar: *d'acord*."
+    grading: tolerant
+    explanation: "«Vale» és un castellanisme. Per acceptar una petició, diem *d'acord*."
+
+  - id: b1-36-045
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix la part marcada per l'expressió corresponent."
+    source: "El programa no funciona: [[és millor que ho abandonem]]."
+    answers:
+      - "El programa no funciona: és millor que ho deixem córrer."
+      - "El programa no funciona: és millor deixar-ho córrer."
+    wrong_answers:
+      - text: "El programa no funciona: és millor que deixem-ho córrer."
+        why: "Amb *que* + subjuntiu, el pronom va davant del verb: «que ho deixem»."
+    grading: tolerant
+    explanation: "*Deixar-ho córrer* vol dir abandonar una cosa: aquí, «que ho deixem córrer»."
+
+  - id: b1-36-046
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix la part marcada per l'expressió corresponent."
+    source: "Ahir [[vaig riure moltíssim]] amb el programa especial."
+    answers:
+      - "Ahir em vaig fer un fart de riure amb el programa especial."
+      - "Em vaig fer un fart de riure ahir amb el programa especial."
+      - "Em vaig fer un fart de riure amb el programa especial ahir."
+    wrong_answers:
+      - text: "Ahir vaig fer un fart de riure amb el programa especial."
+        why: "*Fer-se un fart de* és pronominal: cal el pronom (*em vaig fer*)."
+    grading: tolerant
+    explanation: "*Fer-se un fart de* vol dir atipar-se d'una cosa: aquí, «un fart de riure»."
+
+  - id: b1-36-047
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Digues a en Pau que abandoni el projecte: no val la pena."
+    chunks: ["Pau", "deixa-ho", "córrer", "això no val la pena"]
+    extra: ["deixa'l"]
+    answers:
+      - "Pau, deixa-ho córrer, això no val la pena."
+      - "Deixa-ho córrer, Pau, això no val la pena."
+      - "Deixa-ho córrer, això no val la pena, Pau."
+    explanation: "L'expressió és *deixar-ho córrer*. Com que reprèn «això», el pronom és *ho*, no *el*."
+
+  - id: b1-36-048
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Accepta la proposta i digues que demà compartiràs el vídeo amb els seguidors."
+    chunks: ["d'acord", "demà", "compartiré", "el vídeo", "amb els seguidors"]
+    extra: ["vale"]
+    answers:
+      - "D'acord, demà compartiré el vídeo amb els seguidors."
+      - "D'acord, compartiré el vídeo amb els seguidors demà."
+    explanation: "«Vale» és un castellanisme. Per acceptar una proposta: *d'acord*."
+
+  - id: b1-36-049
+    type: order
+    point: derivacio-isme-ista
+    lesson: 4
+    cue: "Digues que la teva germana és periodista a Girona."
+    chunks: ["la meva germana", "és", "periodista", "a Girona"]
+    extra: ["periodisme"]
+    answers:
+      - "La meva germana és periodista a Girona."
+    explanation: "La persona és *periodista*, per a homes i dones. *Periodisme* és la professió."
+
+  - id: b1-36-050
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "En directe em vaig posar nerviós i vaig ___: tothom va riure."
+    hint: "FER EL PRÉSSEC"
+    answers: ["fer el préssec"]
+    wrong_answers:
+      - text: "fet el préssec"
+        why: "El passat perifràstic és *vaig* + infinitiu: «vaig fer el préssec»."
+    grading: tolerant
+    explanation: "*Fer el préssec* vol dir fer el ridícul. Amb el passat perifràstic: «vaig fer el préssec»."
+
+  - id: b1-36-051
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "Aquesta setmana vaig ___: tinc tres directes i dos lliuraments."
+    hint: "ANAR DE BÒLIT"
+    answers: ["de bòlit"]
+    wrong_answers:
+      - text: "de bolits"
+        why: "L'expressió és *anar de bòlit*, en singular i amb accent."
+    grading: tolerant
+    explanation: "*Anar de bòlit* vol dir tenir molta feina i poc temps. És una expressió fixa."
+
+  - id: b1-36-052
+    type: find-error
+    point: compte-castella
+    lesson: 4
+    sentence: "Prem el botó verd i el vídeo es penjarà tot sol."
+    no_error: true
+    explanation: "La frase és correcta: *prem* és l'imperatiu de *prémer*, el verb genuí per a un botó."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-36-053
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «fer el préssec»?"
+    answer: "Fer el ridícul davant dels altres."
+    distractors:
+      - text: "Menjar préssecs de postres."
+        why: "L'expressió no parla de fruita: *fer el préssec* és fer el ridícul."
+      - text: "Córrer molt de pressa."
+        why: "La pressa és *anar de bòlit*. *Fer el préssec* és fer el ridícul."
+    explanation: "*Fer el préssec* vol dir fer el ridícul: fer una cosa malament i que tothom rigui."
+
+  - id: b1-36-054
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "Què vol dir «ximpleria»?"
+    answer: "Una cosa sense trellat."
+    distractors:
+      - text: "Un comentari molt intel·ligent."
+        why: "És el contrari: una *ximpleria* és una cosa sense trellat."
+      - text: "Una notícia de darrera hora."
+        why: "Una notícia informa; una *ximpleria* no té trellat."
+    explanation: "*Ximpleria* és el mot genuí per a una cosa sense trellat. Ve de *ximple*."
+
+  - id: b1-36-055
+    type: choice
+    point: derivacio-isme-ista
+    lesson: 5
+    prompt: "Viatjar per plaer és fer ___."
+    answer: "turisme"
+    distractors:
+      - text: "turista"
+        why: "*Turista* és la persona. L'activitat de viatjar per plaer és *turisme*."
+      - text: "turistisme"
+        why: "L'activitat és *turisme*, sense cap sufix afegit: *turistisme* no existeix."
+    explanation: "L'activitat de viatjar per plaer és el *turisme*. La persona és el *turista*."
+
+  - id: b1-36-056
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "El teclat del meu ___ nou va molt bé per escriure guions."
+    hint: "ORDENADOR, en català genuí"
+    answers: ["ordinador"]
+    wrong_answers:
+      - text: "ordenador"
+        why: "«Ordenador» és un castellanisme. En català: *ordinador*."
+      - text: "ordenata"
+        why: "«Ordenata» és un castellanisme col·loquial. En català: *ordinador*."
+    grading: tolerant
+    explanation: "«Ordenador» és un castellanisme. L'aparell, en català, és *l'ordinador*."
+
+  - id: b1-36-057
+    type: fill
+    point: derivacio-cio-ment
+    lesson: 5
+    prompt: "Sense la contrasenya no vaig poder mirar l'___ especial."
+    hint: "EMETRE, nom en *-sió*"
+    answers: ["emissió"]
+    wrong_answers:
+      - text: "emetre"
+        why: "*Emetre* és el verb. Aquí, després de *l'*, cal el nom: *emissió*."
+    grading: tolerant
+    explanation: "De *emetre* fem el femení *emissió*. «L'» indica que cal un nom femení."
+
+  - id: b1-36-058
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix el barbarisme."
+    source: "El vídeo sobre el cercador nou [[va empezar]] amb retard."
+    answers: ["El vídeo sobre el cercador nou va començar amb retard."]
+    wrong_answers:
+      - text: "El vídeo sobre el cercador nou va empezar amb retard."
+        why: "«Empezar» és un castellanisme. En català: *començar*."
+    grading: tolerant
+    explanation: "«Empezar» és un castellanisme. En català: *començar*."
+
+  - id: b1-36-059
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix el barbarisme."
+    source: "Vaig publicar l'entrevista i [[entonces]] vaig tancar el portàtil."
+    answers:
+      - "Vaig publicar l'entrevista i aleshores vaig tancar el portàtil."
+      - "Vaig publicar l'entrevista i llavors vaig tancar el portàtil."
+    wrong_answers:
+      - text: "Vaig publicar l'entrevista i entonces vaig tancar el portàtil."
+        why: "«Entonces» és un castellanisme. En català: *aleshores* o *llavors*."
+    grading: tolerant
+    explanation: "«Entonces» és un castellanisme. En català: *aleshores* o *llavors*."
+
+  - id: b1-36-060
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que ahir et vas fer un fart de riure amb el concurs."
+    chunks: ["ahir", "em vaig fer", "un fart", "de riure", "amb el concurs"]
+    extra: ["fer el préssec"]
+    answers:
+      - "Ahir em vaig fer un fart de riure amb el concurs."
+      - "Em vaig fer un fart de riure amb el concurs ahir."
+    explanation: "*Fer-se un fart de* vol dir atipar-se d'una cosa. És pronominal: *em vaig fer*."
+
+  - id: b1-36-061
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Un àudio de l'Arnau"
+    text: "{Bé|Bueno}, ja està decidit: demà {començarem|empezarem} el rodatge a les vuit. Porta un {got|vaso} de casa, que al plató no en queda cap. I recorda: no {premis|apretis} el botó vermell fins que jo t'ho digui, per privadesa. {D'acord|Vale}?"
+    explanation: "Les formes genuïnes són *bé, començarem, got, premis* i *d'acord*. Les altres són castellanismes."
+
+  - id: b1-36-062
+    type: inline-choice
+    point: derivacio-cio-ment
+    lesson: 5
+    title: "Butlletí del casal"
+    text: "El butlletí sortirà divendres: la {publicació|publicament|publica} serà en paper i en línia. La {presentació|presentament|presenta} pública serà al casal i l'{organització|organitzament|organitza} anirà a càrrec dels socis. Necessitem el vostre {coneixement|coneixeció|coneixença} del barri per al mapa."
+    explanation: "Els noms en *-ció* són femenins (*publicació, presentació, organització*); els noms en *-ment*, masculins (*coneixement*)."
+
+  - id: b1-36-063
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "—M'envies el guió? —Vale, aquesta tarda el tens."
+    error: "Vale"
+    fix: "D'acord"
+    fix_distractors:
+      - text: "Bueno"
+        why: "«Bueno» també és un castellanisme. Per acceptar una petició: *d'acord*."
+      - text: "Pues"
+        why: "«Pues» és un castellanisme. Per acceptar una petició: *d'acord*."
+    explanation: "«Vale» és un castellanisme. Per acceptar una petició: *d'acord*."
+
+  - id: b1-36-064
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Entonces vaig desar el fil de la tertúlia als preferits."
+    error: "Entonces"
+    fix: "Llavors"
+    fix_distractors:
+      - text: "Llavor"
+        why: "*Llavor*, sense *-s*, és la part de la planta. L'adverbi és *llavors*, amb *-s*."
+      - text: "Bueno"
+        why: "«Bueno» és un castellanisme i aquí no ordena els fets. L'adverbi és *llavors*."
+    explanation: "«Entonces» és un castellanisme. L'adverbi genuí és *llavors* (o *aleshores*)."
+
+  - id: b1-36-065
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un pòdcast de barri"
+    text: |
+      La Carla és periodista i en Pau és tècnic de so. Fa un any van crear «Gràcia en veu alta», un pòdcast setmanal sobre el barri. Cada dijous pengen un capítol nou de vint minuts: una entrevista a un veí, les notícies del casal i la recomanació del presentador.
+
+      Al principi només els escoltaven els amics. Però la Carla va compartir el programa a les xarxes, va demanar als oients que deixessin comentaris i va contestar cada missatge. Ara tenen més de dos mil seguidors, una subscripció per als oients més fidels i una petita emissora local que emet el capítol cada divendres al vespre.
+
+      El secret, diuen, és la constància: graven cada dimarts al vespre, tant si plou com si fa calor, i preparen el guió amb una setmana d'antelació. També fan un directe al mes, on els oients truquen per telèfon i fan preguntes als convidats.
+
+      El mes que ve volen organitzar una festa al carrer per celebrar el primer aniversari, amb música i una tertúlia oberta. «Volem que el pòdcast surti de la pantalla», diu la Carla.
+    questions:
+      - prompt: "Què és «Gràcia en veu alta»?"
+        answer: "Un pòdcast setmanal sobre el barri de Gràcia."
+        distractors:
+          - text: "Una emissora local que emet cada divendres."
+            why: "L'emissora només emet el capítol; el programa és un pòdcast."
+          - text: "Un directe mensual amb trucades dels oients."
+            why: "El directe és una activitat al mes; el programa és setmanal."
+      - prompt: "Com van aconseguir els primers seguidors?"
+        answer: "La Carla el va compartir a les xarxes i contestava els missatges."
+        distractors:
+          - text: "Els amics van compartir el programa a les xarxes."
+            why: "Els amics només l'escoltaven. Qui el va compartir va ser la Carla."
+          - text: "Van fer un directe perquè els escoltessin els amics."
+            why: "Els amics els escoltaven al principi; el directe és un cop al mes."
+      - prompt: "Què fan cada dimarts al vespre?"
+        answer: "Graven el capítol de la setmana."
+        distractors:
+          - text: "Pengen el capítol nou."
+            why: "El capítol nou es penja cada dijous."
+          - text: "Fan el directe amb els oients."
+            why: "El directe és un cop al mes."
+      - prompt: "Què volen fer el mes que ve?"
+        answer: "Celebrar l'aniversari amb una festa al carrer."
+        distractors:
+          - text: "Deixar el directe mensual per gravar més capítols."
+            why: "Volen continuar: faran una festa d'aniversari."
+          - text: "Canviar el dia del directe mensual."
+            why: "El text no diu que vulguin canviar el directe."
+    explanation: "El text explica com dos veïns han creat un pòdcast de barri amb constància i contacte amb els oients."

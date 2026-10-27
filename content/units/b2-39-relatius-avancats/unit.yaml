@@ -1,0 +1,1005 @@
+id: b2-39
+level: B2
+title: "Relatius avançats"
+summary: "Els relatius formals (el qual, cosa que, on i en què), el relatiu amb infinitiu i el calc «lo que», en textos de ciència i tecnologia."
+vocabulary_theme: "Ciència i tecnologia"
+points:
+  - id: relatiu-qual
+    title: "El qual, la qual i qui"
+    refs:
+      - label: "GEIEC: Les oracions de relatiu"
+        url: "https://geiec.iec.cat"
+  - id: cosa-que
+    title: "Cosa que i la qual cosa"
+    refs:
+      - label: "GEIEC: Les oracions de relatiu"
+        url: "https://geiec.iec.cat"
+  - id: relatiu-infinitiu
+    title: "El relatiu amb infinitiu"
+    refs:
+      - label: "GEIEC: Les oracions de relatiu"
+        url: "https://geiec.iec.cat"
+  - id: on-en-que
+    title: "On i en què"
+    refs:
+      - label: "GEIEC: Les oracions de relatiu"
+        url: "https://geiec.iec.cat"
+  - id: compte-lo-que
+    title: "Compte amb el castellà: *lo que*"
+    refs:
+      - label: "Optimot: El que"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Refranys amb relatius"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: el qual i cosa que"
+  - title: "Practicar el qual i cosa que"
+  - title: "L'infinitiu, on / en què i lo que"
+  - title: "Produir: unir frases amb relatius"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la recerca"
+    definition: "Estudi sistemàtic per descobrir coses noves."
+    example: "La Laia fa recerca sobre el canvi climàtic."
+  - word: "l'experiment"
+    definition: "Prova que es fa per comprovar una hipòtesi."
+    example: "L'experiment va durar tres setmanes."
+  - word: "la hipòtesi"
+    definition: "Idea que encara cal demostrar amb proves."
+    example: "La hipòtesi inicial era equivocada."
+  - word: "la mostra"
+    definition: "Petita part d'una cosa que serveix per analitzar-la."
+    example: "Van prendre mostres d'aigua del riu."
+  - word: "el laboratori"
+    definition: "Lloc amb aparells on es fan experiments."
+    example: "El laboratori obre a les vuit del matí."
+  - word: "el resultat"
+    definition: "Allò que s'obté al final d'un experiment."
+    example: "Els resultats confirmen la teoria."
+  - word: "les dades"
+    definition: "Informacions o xifres que es recullen per analitzar."
+    example: "Les dades mostren un augment clar."
+  - word: "el científic, la científica"
+    definition: "Persona que fa recerca."
+    example: "La científica va presentar l'estudi al congrés."
+  - word: "l'article científic"
+    definition: "Text on es publiquen els resultats d'una recerca."
+    example: "Ha publicat un article en una revista anglesa."
+  - word: "la conferència"
+    definition: "Xerrada pública sobre un tema."
+    example: "La conferència sobre l'espai va omplir la sala."
+  - word: "el microscopi"
+    definition: "Aparell per veure coses molt petites."
+    example: "Amb el microscopi es veuen les cèl·lules."
+  - word: "el telescopi"
+    definition: "Aparell per observar els astres."
+    example: "Amb el telescopi vam veure els anells de Saturn."
+  - word: "el satèl·lit"
+    definition: "Aparell que gira al voltant de la Terra i envia informació."
+    example: "El satèl·lit passa per sobre nostre cada dia."
+  - word: "la gravetat"
+    definition: "Força que atrau els cossos cap a terra."
+    example: "A la Lluna la gravetat és més petita."
+  - word: "l'energia"
+    definition: "Força que fa moure o funcionar les coses."
+    example: "Aquesta casa funciona amb energia solar."
+  - word: "la molècula"
+    definition: "Part més petita d'una substància."
+    example: "Una molècula d'aigua té dos àtoms d'hidrogen."
+  - word: "la cèl·lula"
+    definition: "Unitat més petita d'un ésser viu."
+    example: "El cos humà té milions de cèl·lules."
+  - word: "el gen"
+    definition: "Part de l'ADN que determina un caràcter hereditari."
+    example: "Aquest gen causa els ulls blaus."
+  - word: "el fòssil"
+    definition: "Resta d'un animal o una planta de fa milions d'anys."
+    example: "Van trobar un fòssil de dinosaure."
+  - word: "el clima"
+    definition: "Conjunt de condicions del temps en un lloc."
+    example: "El clima del país és cada cop més sec."
+  - word: "el programari"
+    definition: "Conjunt de programes d'un ordinador o un mòbil."
+    example: "Cal actualitzar el programari cada mes."
+  - word: "l'aplicació"
+    definition: "Programa petit, sovint per al mòbil."
+    example: "Hi ha una aplicació per regar les plantes."
+  - word: "la intel·ligència artificial"
+    definition: "Sistemes informàtics que fan tasques que semblen humanes."
+    example: "La intel·ligència artificial ja tradueix llibres sencers."
+  - word: "el robot"
+    definition: "Màquina que fa una feina automàticament."
+    example: "Un robot neteja el magatzem cada nit."
+  - word: "la base de dades"
+    definition: "Conjunt d'informació organitzada en un ordinador."
+    example: "La biblioteca té una base de dades enorme."
+  - word: "la xarxa"
+    definition: "Sistema d'ordinadors connectats; també, internet."
+    example: "La xarxa de la feina va molt lenta."
+  - word: "la contrasenya"
+    definition: "Paraula secreta per accedir a un compte."
+    example: "Canvia la contrasenya cada tres mesos."
+  - word: "l'enllaç"
+    definition: "Text o imatge que duu a una altra pàgina d'internet."
+    example: "T'envio l'enllaç de l'article."
+  - word: "el fitxer"
+    definition: "Document guardat en un ordinador."
+    example: "Desa el fitxer abans de tancar el programa."
+  - word: "desar"
+    definition: "Guardar un fitxer en un ordinador."
+    example: "Deso el document cada deu minuts."
+  - word: "el senyal"
+    definition: "Ona o llum que porta informació."
+    example: "Aquí el senyal del mòbil és molt fluix."
+  - word: "l'assaig"
+    definition: "Prova per comprovar un aparell o un producte."
+    example: "L'assaig de la vacuna va durar un any."
+  - word: "l'invent"
+    definition: "Aparell o mètode nou que crea algú."
+    example: "L'invent de la Núria estalvia molta aigua."
+  - word: "la vacuna"
+    definition: "Medicament que protegeix d'una malaltia."
+    example: "La nova vacuna es conserva a la nevera."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-39-001
+    type: choice
+    point: relatiu-qual
+    lesson: 1
+    prompt: "L'informe ___ parlem descriu un experiment amb cèl·lules mare."
+    answer: "del qual"
+    distractors:
+      - text: "de que"
+        why: "Darrere de preposició, *que* tot sol és incorrecte: *del qual* (o *de què*)."
+      - text: "del que"
+        why: "Amb antecedent, *del que* és incorrecte: darrere de *de*, el relatiu és *del qual* o *de què*."
+    explanation: "«L'informe» és una cosa i el verb és *parlar de*: darrere de la preposició, el relatiu és *del qual* (també *de què*)."
+
+  - id: b2-39-002
+    type: choice
+    point: relatiu-qual
+    lesson: 1
+    prompt: "La investigadora ___ treballo ha guanyat una beca europea."
+    answer: "amb qui"
+    distractors:
+      - text: "amb que"
+        why: "*Que* no pot anar darrere de preposició: amb una persona, *amb qui*."
+      - text: "amb què"
+        why: "*Què* és per a coses. «La investigadora» és una persona: *amb qui*."
+    explanation: "«La investigadora» és una persona: darrere de preposició, el relatiu de persona és *qui*."
+
+  - id: b2-39-003
+    type: choice
+    point: cosa-que
+    lesson: 1
+    prompt: "L'assaig del coet va ser un èxit, ___ no esperava ningú."
+    answer: "cosa que"
+    distractors:
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». En català: *cosa que* (o *la qual cosa*)."
+      - text: "la cosa que"
+        why: "La forma fixa no porta article: *cosa que* (o *la qual cosa*)."
+    explanation: "*Cosa que* reprèn tota la frase anterior: l'èxit de l'assaig no l'esperava ningú."
+
+  - id: b2-39-004
+    type: choice
+    point: cosa-que
+    lesson: 1
+    prompt: "Què vol dir «cosa que» a «Va nevar a l'abril, cosa que va sorprendre tothom»?"
+    answer: "Que la nevada va sorprendre tothom."
+    distractors:
+      - text: "Que tothom esperava la nevada."
+        why: "Al contrari: la frase diu que va sorprendre tothom, és a dir, que no s'esperava."
+      - text: "Que la nevada va durar tot l'abril."
+        why: "La frase no diu quant va durar la nevada."
+    explanation: "*Cosa que* reprèn tota la frase anterior: la nevada va sorprendre tothom."
+
+  - id: b2-39-005
+    type: choice
+    point: relatiu-qual
+    lesson: 1
+    prompt: "Les dades ___ partim són de l'any passat."
+    answer: "de les quals"
+    distractors:
+      - text: "dels quals"
+        why: "«Les dades» és femení plural, no masculí: *de les quals*."
+      - text: "de que"
+        why: "Darrere de preposició, *que* tot sol és incorrecte: *de les quals*."
+    explanation: "*El qual* concorda amb l'antecedent: «les dades» és femení plural, *de les quals*."
+
+  - id: b2-39-006
+    type: match
+    point: relatiu-qual
+    lesson: 1
+    instruction: "Relaciona cada nom amb el relatiu que hi concorda."
+    pairs:
+      - ["l'article científic", "sobre el qual"]
+      - ["la hipòtesi", "de la qual"]
+      - ["els resultats", "amb els quals"]
+      - ["les mostres", "entre les quals"]
+      - ["l'investigador", "amb qui"]
+    explanation: "*El qual* concorda en gènere i nombre amb l'antecedent; per a persones, el relatiu és *qui*."
+
+  - id: b2-39-007
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada refrany amb el seu significat."
+    pairs:
+      - ["a qui matina, Déu l'ajuda", "qui comença d'hora té més èxit"]
+      - ["qui calla, atorga", "qui no protesta sembla que hi està d'acord"]
+      - ["qui sembra vents, recull tempestats", "les males accions tenen conseqüències pitjors"]
+      - ["el saber no ocupa lloc", "aprendre coses noves mai no fa nosa"]
+    explanation: "Són refranys per donar consells; gairebé tots porten el relatiu *qui*."
+
+  - id: b2-39-008
+    type: inline-choice
+    point: relatiu-qual
+    lesson: 1
+    title: "Resum d'un article"
+    text: "Aquest és l'estudi {del qual|de que|del que} us parlava ahir. La tècnica {amb la qual|amb que|amb el que} analitzem les mostres és nova. Els investigadors {amb qui|amb que|amb què} col·laborem són de la UAB. Les dades {de les quals|de que|dels quals} partim són públiques. Us passo l'enllaç de l'estudi."
+    explanation: "Darrere de preposició fem servir *el qual* (que concorda), *què* per a coses i *qui* per a persones."
+
+  - id: b2-39-009
+    type: inline-choice
+    point: cosa-que
+    lesson: 1
+    title: "La sonda va fallar"
+    text: "La sonda va perdre el senyal a mitjanit, {cosa que|lo qual|la cosa que} va alarmar tot l'equip. Van provar de recuperar el fitxer durant tres hores, {cosa que|lo que|la cosa que} no va servir de res. Finalment, van descobrir un error al programari, {la qual cosa|lo qual|el qual cosa} explica la fallada."
+    explanation: "Per reprendre tota una frase: *cosa que* o *la qual cosa* (formal). *Lo qual* i *lo que* són calcs."
+
+  - id: b2-39-010
+    type: fill
+    point: relatiu-qual
+    lesson: 1
+    prompt: "El principi ___ es basa aquest invent és de fa dos segles."
+    hint: "relatiu amb antecedent «el principi», verb *basar-se en*"
+    answers: ["en el qual", "en què"]
+    wrong_answers:
+      - text: "en que"
+        why: "El relatiu s'escriu amb accent: *en què* (o *en el qual*)."
+      - text: "que"
+        why: "El verb és *basar-se en*: cal mantenir la preposició."
+    grading: strict
+    explanation: "El verb és *basar-se en* i «el principi» és masculí: *en el qual* (o *en què*)."
+
+  - id: b2-39-011
+    type: fill
+    point: cosa-que
+    lesson: 1
+    prompt: "Han tancat el laboratori una setmana, ___ ha endarrerit tots els experiments."
+    hint: "relatiu que reprèn tota la frase anterior"
+    answers: ["cosa que", "la qual cosa"]
+    wrong_answers:
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». En català: *cosa que*."
+    grading: tolerant
+    explanation: "La segona part comenta tota la frase anterior: *cosa que* (formalment *la qual cosa*)."
+
+  - id: b2-39-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «El saber no ocupa lloc»?"
+    answer: "Que aprendre coses noves mai no és un destorb."
+    distractors:
+      - text: "Que els llibres ocupen molt poc espai."
+        why: "Aquest és el sentit literal; el refrany parla del coneixement, no de l'espai."
+      - text: "Que cal oblidar el que no serveix."
+        why: "És el contrari: el refrany diu que aprendre sempre és útil."
+    explanation: "És un refrany: el coneixement no fa nosa, sempre hi cap."
+
+  - id: b2-39-013
+    type: order
+    point: relatiu-qual
+    lesson: 1
+    cue: "Digues que l'article de què parleu estudia la intel·ligència artificial."
+    chunks: ["L'article", "del qual", "parleu", "estudia", "la intel·ligència artificial"]
+    extra: ["de que"]
+    answers:
+      - "L'article del qual parleu estudia la intel·ligència artificial."
+    explanation: "El verb és *parlar de*: l'article *del qual* parleu. *De que* és incorrecte."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-39-014
+    type: fill
+    point: relatiu-qual
+    lesson: 2
+    prompt: "La llei ___ parlen tots els diaris protegeix les dades personals."
+    hint: "relatiu: «la llei», *parlar de*"
+    answers: ["de la qual", "de què"]
+    wrong_answers:
+      - text: "de que"
+        why: "El relatiu s'escriu amb accent: *de què* (o *de la qual*)."
+      - text: "que"
+        why: "El verb és *parlar de*: cal mantenir la preposició."
+    grading: strict
+    explanation: "El verb és *parlar de* i «la llei» és femení: *de la qual* (o *de què*)."
+
+  - id: b2-39-015
+    type: fill
+    point: relatiu-qual
+    lesson: 2
+    prompt: "Els enginyers ___ vaig dissenyar el gestor de contrasenyes treballen a Terrassa."
+    hint: "relatiu de persona, *dissenyar amb*"
+    answers: ["amb qui", "amb els quals"]
+    wrong_answers:
+      - text: "amb que"
+        why: "Darrere de preposició, *que* tot sol és incorrecte."
+      - text: "amb què"
+        why: "*Què* és per a coses. Amb persones: *amb qui* o *amb els quals*."
+    grading: tolerant
+    explanation: "«Els enginyers» són persones: *amb qui* (o *amb els quals* en registre formal)."
+
+  - id: b2-39-016
+    type: order
+    point: cosa-que
+    lesson: 2
+    cue: "L'ordinador es va espatllar i això va fer perdre totes les dades."
+    chunks: ["L'ordinador", "es va espatllar", "cosa que", "va fer perdre", "totes les dades"]
+    extra: ["lo qual"]
+    answers:
+      - "L'ordinador es va espatllar, cosa que va fer perdre totes les dades."
+    explanation: "*Cosa que* reprèn tota la frase anterior: l'avaria va fer perdre les dades."
+
+  - id: b2-39-017
+    type: choice
+    point: relatiu-qual
+    lesson: 2
+    prompt: "El programa ___ analitza les dades s'ha bloquejat."
+    answer: "que"
+    distractors:
+      - text: "el qual"
+        why: "Sense preposició ni comes, *el qual* és incorrecte: el subjecte és *que*."
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». El subjecte és *que*."
+    explanation: "El relatiu de subjecte sense preposició és *que*. *El qual* necessita una preposició (o comes, en registre formal)."
+
+  - id: b2-39-018
+    type: choice
+    point: cosa-que
+    lesson: 2
+    prompt: "El termòmetre marcava quaranta graus, ___ va confirmar la sospita."
+    answer: "la qual cosa"
+    distractors:
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». En català: *la qual cosa*."
+      - text: "el qual cosa"
+        why: "El mot *cosa* és femení: la forma fixa és *la qual cosa*."
+    explanation: "*La qual cosa* reprèn tota la frase anterior i és invariable."
+
+  - id: b2-39-019
+    type: fill
+    point: cosa-que
+    lesson: 2
+    prompt: "El satèl·lit envia fotos cada hora, ___ permet seguir la tempesta."
+    hint: "relatiu que reprèn tota la frase anterior"
+    answers: ["cosa que", "la qual cosa"]
+    wrong_answers:
+      - text: "lo que"
+        why: "*Lo que* és un calc de «lo que». En català: *cosa que*."
+    grading: tolerant
+    explanation: "La segona part comenta tota la frase anterior: *cosa que* (o *la qual cosa*)."
+
+  - id: b2-39-020
+    type: order
+    point: relatiu-qual
+    lesson: 2
+    cue: "Explica que analitzeu les molècules amb una tècnica nova."
+    chunks: ["La tècnica", "amb la qual", "analitzem", "les molècules", "és nova"]
+    extra: ["amb que"]
+    answers:
+      - "La tècnica amb la qual analitzem les molècules és nova."
+    explanation: "«La tècnica» és femení: *amb la qual*. *Amb que* és incorrecte."
+
+  - id: b2-39-021
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—El nen s'ha llevat a les sis per estudiar. —___"
+    answer: "A qui matina, Déu l'ajuda."
+    distractors:
+      - text: "Qui calla, atorga."
+        why: "Aquí ningú no calla: el nen s'ha llevat d'hora."
+      - text: "El saber no ocupa lloc."
+        why: "El refrany adient parla de matinar, no d'aprendre."
+    explanation: "Llevar-se d'hora per estudiar és matinar: *a qui matina, Déu l'ajuda*."
+
+  - id: b2-39-022
+    type: fill
+    point: relatiu-qual
+    lesson: 2
+    prompt: "L'edifici ___ treballo és del segle passat."
+    hint: "relatiu de lloc: «l'edifici»"
+    answers: ["on", "en què", "en el qual"]
+    wrong_answers:
+      - text: "que"
+        why: "El relatiu de lloc no pot ser *que* tot sol: *on* o *en què*."
+    grading: strict
+    explanation: "«L'edifici» és un lloc: *on* (formalment *en què* o *en el qual*)."
+
+  - id: b2-39-023
+    type: choice
+    point: relatiu-qual
+    lesson: 2
+    prompt: "La conferència ___ vaig assistir era sobre el clima."
+    answer: "a la qual"
+    distractors:
+      - text: "a que"
+        why: "Darrere de preposició, *que* tot sol és incorrecte: *a la qual*."
+      - text: "a la que"
+        why: "Amb antecedent, *el que* darrere de preposició és incorrecte: *a la qual*."
+    explanation: "*Assistir* regeix la preposició *a*: la conferència *a la qual* vaig assistir."
+
+  - id: b2-39-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Quin refrany diries a algú que aprofita els trajectes per escoltar pòdcasts de ciència?"
+    answer: "El saber no ocupa lloc."
+    distractors:
+      - text: "Qui calla, atorga."
+        why: "Aquí ningú no calla: algú aprèn als trajectes."
+      - text: "Qui sembra vents, recull tempestats."
+        why: "Aquí no hi ha cap mala acció: algú aprofita el temps."
+    explanation: "Aprofitar el temps per aprendre: *el saber no ocupa lloc*."
+
+  - id: b2-39-025
+    type: order
+    point: relatiu-qual
+    lesson: 2
+    cue: "Van aprovar una llei i, a causa d'aquesta llei, el projecte es va aturar."
+    chunks: ["Van aprovar", "una llei", "a causa de la qual", "el projecte", "es va aturar"]
+    extra: ["a causa de que"]
+    answers:
+      - "Van aprovar una llei a causa de la qual el projecte es va aturar."
+    explanation: "Darrere d'una locució prepositiva (*a causa de*), el relatiu és *la qual*, que concorda amb «una llei»."
+
+  - id: b2-39-026
+    type: choice
+    point: relatiu-qual
+    lesson: 2
+    prompt: "El professor ___ vaig aprendre la llei de la gravetat es jubila enguany."
+    answer: "de qui"
+    distractors:
+      - text: "de que"
+        why: "Darrere de preposició, *que* tot sol és incorrecte: *de qui*."
+      - text: "de què"
+        why: "*Què* és per a coses. «El professor» és una persona: *de qui*."
+    explanation: "El verb és *aprendre de* i «el professor» és una persona: *de qui*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-39-027
+    type: choice
+    point: relatiu-infinitiu
+    lesson: 3
+    prompt: "Busco un despatx ___ treballar tranquil."
+    answer: "on"
+    distractors:
+      - text: "que"
+        why: "El relatiu de lloc no pot ser *que* tot sol: *on*."
+      - text: "en què"
+        why: "*En què* demana un verb conjugat. Amb infinitiu: *on*."
+    explanation: "Amb infinitiu, el relatiu de lloc és *on*: un despatx *on* treballar."
+
+  - id: b2-39-028
+    type: choice
+    point: relatiu-infinitiu
+    lesson: 3
+    prompt: "No sé ___ fer amb aquesta base de dades."
+    answer: "què"
+    distractors:
+      - text: "que"
+        why: "En pregunta indirecta, el pronom s'accentua: *què*."
+      - text: "el que"
+        why: "*El que fer* és incorrecte: amb infinitiu, *què fer*."
+    explanation: "En les preguntes indirectes amb infinitiu: no sé *què* fer."
+
+  - id: b2-39-029
+    type: choice
+    point: on-en-que
+    lesson: 3
+    prompt: "El poble ___ vaig néixer té un observatori amb un telescopi gegant."
+    answer: "on"
+    distractors:
+      - text: "que"
+        why: "El verb indica lloc (*néixer*): el relatiu és *on*, no *que*."
+      - text: "en que"
+        why: "S'escriu amb accent: *en què*. Amb un poble, el més habitual és *on*."
+    explanation: "«El poble» és un lloc: *on* (formalment *en què*)."
+
+  - id: b2-39-030
+    type: choice
+    point: on-en-que
+    lesson: 3
+    prompt: "Va ser una època ___ la ciència avançava molt de pressa."
+    answer: "en què"
+    distractors:
+      - text: "on"
+        why: "*On* és per a llocs. «Una època» és temps: *en què*."
+      - text: "en que"
+        why: "El relatiu s'escriu amb accent: *en què*."
+      - text: "a què"
+        why: "La preposició és *en*, no *a*: *en què*."
+    explanation: "Amb antecedents de temps o de situació: *en què*."
+
+  - id: b2-39-031
+    type: find-error
+    point: compte-lo-que
+    lesson: 3
+    sentence: "Lo que diu aquest article és molt greu."
+    error: "Lo que"
+    fix: "El que"
+    fix_distractors:
+      - text: "Que"
+        why: "Sense antecedent, el relatiu neutre és *el que*, no *que* sol."
+      - text: "El qual"
+        why: "*El qual* necessita un antecedent i una preposició. El neutre és *el que*."
+    explanation: "*Lo que* és un calc de «lo que». El relatiu neutre en català és *el que*."
+
+  - id: b2-39-032
+    type: find-error
+    point: compte-lo-que
+    lesson: 3
+    sentence: "El coet es va enlairar amb retard, lo que va obligar a canviar el pla de vol."
+    error: "lo que"
+    fix: "cosa que"
+    fix_distractors:
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». En català: *cosa que*."
+      - text: "la cosa que"
+        why: "La forma fixa no porta article: *cosa que* (o *la qual cosa*)."
+    explanation: "La segona part comenta tota la frase anterior: *cosa que*. *Lo que* és un calc de «lo que»."
+
+  - id: b2-39-033
+    type: find-error
+    point: relatiu-infinitiu
+    lesson: 3
+    sentence: "No tinc res que dir sobre aquest informe."
+    error: "res que dir"
+    fix: "res a dir"
+    fix_distractors:
+      - text: "res de dir"
+        why: "Darrere de *res*, la preposició és *a*: *res a dir*."
+      - text: "res què dir"
+        why: "Amb *res* no cal cap pronom: la forma és *res a dir*."
+    explanation: "Darrere de *res* (i de *molt*, *poc*), l'infinitiu va amb *a*: *res a dir*. *Res que dir* és un calc de «nada que decir»."
+
+  - id: b2-39-034
+    type: find-error
+    point: on-en-que
+    lesson: 3
+    sentence: "El dia on vam llançar el satèl·lit feia molt vent."
+    error: "El dia on"
+    fix: "El dia en què"
+    fix_distractors:
+      - text: "El dia en que"
+        why: "El relatiu s'escriu amb accent: *en què*."
+      - text: "El dia en el que"
+        why: "Amb antecedent, *el que* darrere de preposició és incorrecte: *en què*."
+    explanation: "*On* és per a llocs. Amb un antecedent de temps: *el dia en què* (també *el dia que*)."
+
+  - id: b2-39-035
+    type: find-error
+    point: compte-lo-que
+    lesson: 3
+    sentence: "El que proposa la Núria és provar-ho amb una altra mostra."
+    no_error: true
+    explanation: "La frase és correcta: *el que* és el relatiu neutre («allò que proposa»)."
+
+  - id: b2-39-036
+    type: find-error
+    point: on-en-que
+    lesson: 3
+    sentence: "El laboratori on treballo té un microscopi nou."
+    no_error: true
+    explanation: "La frase és correcta: «el laboratori» és un lloc i el relatiu és *on*."
+
+  - id: b2-39-037
+    type: fill
+    point: relatiu-infinitiu
+    lesson: 3
+    prompt: "Encara no sé ___ connectar el sensor a la xarxa."
+    hint: "relatiu + infinitiu: la manera"
+    answers: ["com"]
+    wrong_answers:
+      - text: "que"
+        why: "La manera s'expressa amb *com*: *com connectar*."
+    grading: tolerant
+    explanation: "Per la manera, amb infinitiu: *com connectar*."
+
+  - id: b2-39-038
+    type: fill
+    point: on-en-que
+    lesson: 3
+    prompt: "La situació ___ es troba l'equip és delicada."
+    hint: "relatiu: «la situació», *trobar-se en*"
+    answers: ["en què", "en la qual"]
+    wrong_answers:
+      - text: "en que"
+        why: "El relatiu s'escriu amb accent: *en què*."
+    grading: strict
+    explanation: "El verb és *trobar-se en* i «la situació» no és un lloc: *en què* (formalment *en la qual*)."
+
+  - id: b2-39-039
+    type: choice
+    point: compte-lo-que
+    lesson: 3
+    prompt: "Això és ___ et volia ensenyar: el gràfic de temperatures."
+    answer: "el que"
+    distractors:
+      - text: "lo que"
+        why: "*Lo que* és un calc de «lo que». En català: *el que*."
+      - text: "cosa que"
+        why: "Aquí no es comenta cap frase anterior: el neutre és *el que*."
+    explanation: "*El que* és el relatiu neutre («allò que et volia ensenyar»). *Lo que* és un calc."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-39-040
+    type: transform
+    point: cosa-que
+    lesson: 4
+    instruction: "Uneix les dues frases amb «cosa que»."
+    source: "El microscopi es va trencar. [[Això]] va aturar l'experiment."
+    answers: ["El microscopi es va trencar, cosa que va aturar l'experiment."]
+    wrong_answers:
+      - text: "El microscopi es va trencar, lo qual va aturar l'experiment."
+        why: "*Lo qual* és un calc de «lo cual». En català: *cosa que*."
+    grading: tolerant
+    explanation: "*Cosa que* reprèn tota la primera frase i evita repetir *això*."
+
+  - id: b2-39-041
+    type: transform
+    point: compte-lo-que
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[Lo que]] necessitem és més temps per analitzar les dades."
+    answers: ["El que necessitem és més temps per analitzar les dades.", "Allò que necessitem és més temps per analitzar les dades."]
+    wrong_answers:
+      - text: "Cosa que necessitem és més temps per analitzar les dades."
+        why: "Aquí no es comenta cap frase anterior: el relatiu neutre és *el que*."
+    grading: tolerant
+    explanation: "El relatiu neutre és *el que*. *Lo que* és un calc de «lo que»."
+
+  - id: b2-39-042
+    type: transform
+    point: relatiu-infinitiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un relatiu amb infinitiu."
+    source: "No sé [[quina cosa he de triar]]."
+    answers: ["No sé què triar."]
+    wrong_answers:
+      - text: "No sé que triar."
+        why: "En pregunta indirecta, el pronom s'accentua: *què*."
+    grading: strict
+    explanation: "En pregunta indirecta amb infinitiu: *què triar*. *Què* porta accent."
+
+  - id: b2-39-043
+    type: transform
+    point: relatiu-infinitiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per «res a» + infinitiu."
+    source: "No tinc [[cap cosa a dir]] sobre la nova vacuna."
+    answers: ["No tinc res a dir sobre la nova vacuna."]
+    wrong_answers:
+      - text: "No tinc res que dir sobre la nova vacuna."
+        why: "*Res que* + infinitiu és un calc de «nada que decir». En català: *res a dir*."
+    grading: tolerant
+    explanation: "«No tinc cap cosa a dir» s'expressa amb *res*: no tinc *res a dir*."
+
+  - id: b2-39-044
+    type: transform
+    point: on-en-que
+    lesson: 4
+    instruction: "Uneix les dues frases amb «on»."
+    source: "Treballo en un centre de recerca. [[En aquest centre]] hi ha un accelerador de partícules."
+    answers: ["Treballo en un centre de recerca on hi ha un accelerador de partícules."]
+    wrong_answers:
+      - text: "Treballo en un centre de recerca que hi ha un accelerador de partícules."
+        why: "El relatiu de lloc és *on*, no *que*."
+    grading: tolerant
+    explanation: "«Un centre» és un lloc: el relatiu és *on*."
+
+  - id: b2-39-045
+    type: fill
+    point: relatiu-infinitiu
+    lesson: 4
+    prompt: "Busquem un local ___ muntar el nou laboratori d'energies renovables."
+    hint: "relatiu de lloc + infinitiu"
+    answers: ["on"]
+    wrong_answers:
+      - text: "que"
+        why: "El relatiu de lloc no pot ser *que* tot sol: *on*."
+      - text: "en què"
+        why: "*En què* demana un verb conjugat. Amb infinitiu: *on*."
+    grading: tolerant
+    explanation: "Amb infinitiu, el lloc és *on*: un local *on* muntar el laboratori."
+
+  - id: b2-39-046
+    type: fill
+    point: on-en-que
+    lesson: 4
+    prompt: "El moment ___ et vaig conèixer no el recordaré mai."
+    hint: "relatiu: «el moment»"
+    answers: ["en què", "en el qual", "que"]
+    wrong_answers:
+      - text: "on"
+        why: "*On* és per a llocs; «el moment» és temps: *en què*."
+      - text: "en que"
+        why: "El relatiu s'escriu amb accent: *en què*."
+    grading: strict
+    explanation: "Amb antecedents de temps: *el moment en què* (o simplement *que*)."
+
+  - id: b2-39-047
+    type: order
+    point: compte-lo-que
+    lesson: 4
+    cue: "Digues que allò que explica el documental és fals."
+    chunks: ["El que", "explica", "el documental", "és fals"]
+    extra: ["Lo que"]
+    answers:
+      - "El que explica el documental és fals."
+      - "El que el documental explica és fals."
+    explanation: "El relatiu neutre és *el que*. *Lo que* és un calc de «lo que»."
+
+  - id: b2-39-048
+    type: transform
+    point: relatiu-infinitiu
+    lesson: 4
+    instruction: "Substitueix la part marcada per un relatiu amb infinitiu."
+    source: "La Laia no sap [[en quin lloc ha de desar]] el fitxer."
+    answers: ["La Laia no sap on desar el fitxer."]
+    wrong_answers:
+      - text: "La Laia no sap en què desar el fitxer."
+        why: "Amb infinitiu, el lloc és *on*; *en què* demana un verb conjugat."
+    grading: tolerant
+    explanation: "Amb infinitiu, el relatiu de lloc és *on*: no sap *on desar* el fitxer."
+
+  - id: b2-39-049
+    type: fill
+    point: cosa-que
+    lesson: 4
+    prompt: "S'ha espatllat la nevera, ___ ha fet malbé totes les mostres."
+    hint: "relatiu que reprèn tota la frase anterior"
+    answers: ["cosa que", "la qual cosa"]
+    wrong_answers:
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». En català: *cosa que*."
+    grading: tolerant
+    explanation: "La segona part comenta la primera: *cosa que* (formalment *la qual cosa*)."
+
+  - id: b2-39-050
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "La Carla no té fills, però cada cap de setmana cuida tres nebots. Quin refrany hi escau?"
+    answer: "A qui Déu no dona fills, el diable li dona nebots."
+    distractors:
+      - text: "Qui calla, atorga."
+        why: "Aquí ningú no calla: la Carla cuida els nebots."
+      - text: "Qui sembra vents, recull tempestats."
+        why: "Aquí no hi ha cap mala acció: la Carla cuida els nebots."
+    explanation: "La Carla no té fills, però ha de cuidar nebots: *a qui Déu no dona fills, el diable li dona nebots*."
+
+  - id: b2-39-051
+    type: order
+    point: on-en-que
+    lesson: 4
+    cue: "Digues que la sala de presentació de l'invent era plena."
+    chunks: ["La sala", "en què", "van presentar", "l'invent", "era plena"]
+    extra: ["en la que"]
+    answers:
+      - "La sala en què van presentar l'invent era plena."
+    explanation: "«La sala» és un lloc: *en què* (o *on*). *En què* porta accent."
+
+  - id: b2-39-052
+    type: transform
+    point: relatiu-qual
+    lesson: 4
+    instruction: "Uneix les dues frases amb «qui»."
+    source: "Ahir vaig conèixer [[una enginyera]]. Treballo amb ella en el projecte del dron."
+    answers: ["Ahir vaig conèixer una enginyera amb qui treballo en el projecte del dron.", "Ahir vaig conèixer una enginyera amb la qual treballo en el projecte del dron."]
+    wrong_answers:
+      - text: "Ahir vaig conèixer una enginyera amb que treballo en el projecte del dron."
+        why: "Darrere de preposició, *que* tot sol és incorrecte: amb una persona, *amb qui*."
+    grading: tolerant
+    explanation: "«Una enginyera» és una persona i el verb és *treballar amb*: *amb qui* (formalment *amb la qual*)."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-39-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una biòloga al Pirineu"
+    text: |
+      La Núria és biòloga i treballa en un centre de recerca del Pirineu on s'estudia el canvi climàtic. El centre, en el qual treballen vint persones, recull dades de les glaceres des de fa trenta anys. Cada mes, la Núria puja a prendre mostres de gel, cosa que a l'hivern fa amb raquetes de neu. L'aire atrapat en el gel des de fa segles, del qual s'analitza la composició, revela com era l'atmosfera del passat.
+
+      L'any en què va arribar al centre, la Núria no sabia què esperar: venia d'un laboratori de Barcelona on tot era automatitzat. Aquí, en canvi, no hi ha res a donar per fet, perquè un dia de tempesta pot espatllar setmanes de feina. L'hivern passat, una allau va tallar la pista d'accés, cosa que va deixar l'equip aïllat durant cinc dies. Van haver de fondre neu per beure, tot i que tenien menjar de sobra.
+
+      El que més li agrada de la feina és la calma del laboratori a primera hora, quan analitza les dades que ha recollit la setmana abans. Diu que cada bombolla d'aire és una carta del passat per a qui la sap llegir. El seu cap, amb qui comparteix el despatx, estudia els fòssils que apareixen quan el gel es retira.
+
+      Aquest estiu presentaran els resultats en un congrés a Tromsø, una ciutat on a l'estiu no es fa mai de nit. La Núria hi presentarà un pòster amb què explicarà com el gel perd bombolles cada any, cosa que preocupa tot l'equip. Encara no sap com resumir-ho en cinc minuts, però recorda el refrany que li deia el seu avi: el saber no ocupa lloc.
+    questions:
+      - prompt: "On treballa la Núria?"
+        answer: "En un centre de recerca del Pirineu que estudia el clima."
+        distractors:
+          - text: "En un laboratori automatitzat de Barcelona."
+            why: "Allà treballava abans d'arribar al Pirineu."
+          - text: "En una universitat de Tromsø, a Noruega."
+            why: "A Tromsø hi anirà a un congrés, però no hi treballa."
+      - prompt: "Què permet saber l'aire atrapat en el gel?"
+        answer: "Com era l'atmosfera fa segles."
+        distractors:
+          - text: "Quan caurà la pròxima allau."
+            why: "L'allau va tallar la pista, però el gel no prediu allaus."
+          - text: "On hi ha fòssils per estudiar."
+            why: "Els fòssils els estudia el seu cap quan el gel es retira."
+      - prompt: "Què va passar l'hivern passat al centre?"
+        answer: "Una allau va aïllar l'equip durant cinc dies."
+        distractors:
+          - text: "Es va espatllar el laboratori per la tempesta."
+            why: "El text diu que una tempesta pot espatllar feina, però no que s'espatllés el laboratori."
+          - text: "Es van perdre totes les mostres de gel."
+            why: "No van perdre les mostres: van haver de fondre neu per beure."
+      - prompt: "Què farà la Núria al congrés de Tromsø?"
+        answer: "Presentarà un pòster sobre les bombolles que perd el gel."
+        distractors:
+          - text: "Recollirà mostres de gel amb raquetes de neu."
+            why: "Les mostres les recull al Pirineu, no al congrés."
+          - text: "Escoltarà la ponència del seu cap sobre fòssils."
+            why: "El text no diu que el seu cap hi faci cap ponència."
+    explanation: "El text explica la feina de la Núria en un centre de recerca del Pirineu i la comunicació que prepara per a un congrés."
+
+  - id: b2-39-054
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada refrany amb el seu significat."
+    pairs:
+      - ["a qui matina, Déu l'ajuda", "qui comença d'hora té avantatge"]
+      - ["a qui Déu no dona fills, el diable li dona nebots", "qui no té un maldecap, en té un altre"]
+      - ["qui sembra vents, recull tempestats", "una mala acció provoca un mal més gros"]
+      - ["qui calla, atorga", "no protestar sembla acceptar"]
+      - ["qui té boca, s'equivoca", "tothom pot dir alguna cosa malament"]
+      - ["el saber no ocupa lloc", "aprendre sempre és útil"]
+    explanation: "Són refranys per donar consells; gairebé tots porten el relatiu *qui*."
+
+  - id: b2-39-055
+    type: inline-choice
+    point: relatiu-qual
+    lesson: 5
+    title: "Correu a una companya"
+    text: "He llegit l'article {del qual|de que|del que} em parlaves, i tens raó: {el que|lo que|el qual} diu sobre el clima és preocupant. L'autor, {amb qui|amb que|amb què} vaig coincidir en un congrés, proposa una zona {on|en què|que} instal·lar el nou observatori, {cosa que|lo qual|la cosa que} em sembla una bona idea."
+    explanation: "Darrere de *de*: *del qual*. El neutre: *el que*. Persona: *amb qui*. Lloc + infinitiu: *on*. Comentari de tota la frase: *cosa que*."
+
+  - id: b2-39-056
+    type: choice
+    point: relatiu-qual
+    lesson: 5
+    prompt: "El projecte, ___ han parlat a les notícies, és de la UAB."
+    answer: "del qual"
+    distractors:
+      - text: "que"
+        why: "El verb és *parlar de*: sense preposició, *que* és incorrecte."
+      - text: "del que"
+        why: "Amb antecedent, *del que* és incorrecte: *del qual*."
+    explanation: "El verb és *parlar de*: *del qual*. Les comes marquen una explicació, però la preposició no cau."
+
+  - id: b2-39-057
+    type: fill
+    point: compte-lo-que
+    lesson: 5
+    prompt: "___ has programat no funciona: l'aplicació no s'obre."
+    hint: "relatiu neutre: «allò que»"
+    answers: ["El que", "Allò que"]
+    wrong_answers:
+      - text: "Lo que"
+        why: "*Lo que* és un calc de «lo que». En català: *el que*."
+    grading: tolerant
+    explanation: "El subjecte és «allò que has programat»: *el que*. *Lo que* és un calc."
+
+  - id: b2-39-058
+    type: fill
+    point: relatiu-infinitiu
+    lesson: 5
+    prompt: "No tinc res ___: l'estudi del gen és impecable."
+    hint: "preposició + *objectar*"
+    answers: ["a objectar"]
+    wrong_answers:
+      - text: "que objectar"
+        why: "*Res que* + infinitiu és un calc de «nada que decir». En català: *res a* + infinitiu."
+    grading: tolerant
+    explanation: "Darrere de *res*, l'infinitiu va amb *a*: no tinc *res* a objectar."
+
+  - id: b2-39-059
+    type: order
+    point: cosa-que
+    lesson: 5
+    cue: "Ha plogut molt i això ha inundat el soterrani."
+    chunks: ["Ha plogut", "molt", "cosa que", "ha inundat", "el soterrani"]
+    extra: ["lo qual"]
+    answers:
+      - "Ha plogut molt, cosa que ha inundat el soterrani."
+    explanation: "*Cosa que* reprèn tota la frase: la pluja ha inundat el soterrani."
+
+  - id: b2-39-060
+    type: choice
+    point: on-en-que
+    lesson: 5
+    prompt: "La fàbrica ___ treballava el meu avi ara és un museu."
+    answer: "on"
+    distractors:
+      - text: "que"
+        why: "El relatiu de lloc no pot ser *que* tot sol: *on*."
+      - text: "en que"
+        why: "S'escriu amb accent: *en què*. Amb una fàbrica, el més habitual és *on*."
+    explanation: "«La fàbrica» és un lloc: *on* (formalment *en què*)."
+
+  - id: b2-39-061
+    type: find-error
+    point: compte-lo-que
+    lesson: 5
+    sentence: "M'agrada lo que proposes, però caldrà demanar permís."
+    error: "lo que"
+    fix: "el que"
+    fix_distractors:
+      - text: "que"
+        why: "Sense antecedent, el relatiu neutre és *el que*, no *que* sol."
+      - text: "cosa que"
+        why: "Aquí no es comenta cap frase anterior: el neutre és *el que*."
+    explanation: "*Lo que* és un calc de «lo que». El relatiu neutre és *el que*."
+
+  - id: b2-39-062
+    type: find-error
+    point: relatiu-infinitiu
+    lesson: 5
+    sentence: "Busco una escola en què estudiar català."
+    error: "en què estudiar"
+    fix: "on estudiar"
+    fix_distractors:
+      - text: "que estudiar"
+        why: "Amb infinitiu, el lloc és *on*: *on estudiar*."
+      - text: "a estudiar"
+        why: "La preposició *a* no fa de relatiu de lloc: *on estudiar*."
+    explanation: "*En què* demana un verb conjugat. Amb infinitiu, el relatiu de lloc és *on*."
+
+  - id: b2-39-063
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—He dit una bestiesa a la reunió. —No pateixis, ___"
+    answer: "qui té boca, s'equivoca."
+    distractors:
+      - text: "qui calla, atorga."
+        why: "Aquí algú ha parlat (malament), no ha callat."
+      - text: "a qui matina, Déu l'ajuda."
+        why: "Aquí no es parla de llevar-se d'hora."
+    explanation: "Dir alguna cosa malament li pot passar a tothom: *qui té boca, s'equivoca*."
+
+  - id: b2-39-064
+    type: fill
+    point: on-en-que
+    lesson: 5
+    prompt: "L'any ___ vaig acabar la carrera vaig entrar al laboratori."
+    hint: "relatiu: «l'any»"
+    answers: ["en què", "que", "en el qual"]
+    wrong_answers:
+      - text: "on"
+        why: "*On* és per a llocs; «l'any» és temps: *en què*."
+    grading: strict
+    explanation: "Amb antecedents de temps: *en què* (o simplement *que*). *On* és només per a llocs."
+
+  - id: b2-39-065
+    type: choice
+    point: cosa-que
+    lesson: 5
+    prompt: "Van perdre totes les dades, ___ va ser un desastre."
+    answer: "cosa que"
+    distractors:
+      - text: "lo qual"
+        why: "*Lo qual* és un calc de «lo cual». En català: *cosa que*."
+      - text: "la cosa que"
+        why: "La forma fixa no porta article: *cosa que*."
+    explanation: "La segona part comenta tota la frase anterior: *cosa que*."

@@ -1,0 +1,1025 @@
+id: b2-48
+level: B2
+title: "Morfologia del nom i de l'adjectiu"
+summary: "Femenins i plurals irregulars, noms que canvien de sentit segons el gènere i professions en femení, amb història, patrimoni i arqueologia."
+vocabulary_theme: "Història, patrimoni i arqueologia"
+points:
+  - id: femenins-irregulars
+    title: "Femenins irregulars: actriu, metgessa, arqueòloga"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: plurals-irregulars
+    title: "Plurals irregulars: gossos, braços, llapis"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: genere-i-significat
+    title: "El gènere canvia el significat: el fi / la fi"
+    refs:
+      - label: "GEIEC"
+        url: "https://geiec.iec.cat"
+  - id: compte-metgessa
+    title: "Compte amb el castellà: la metgessa"
+    refs:
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions amb història"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: femenins i plurals"
+  - title: "Practicar femenins i plurals"
+  - title: "El gènere i el significat"
+  - title: "Produir: canviar gènere i nombre"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el jaciment"
+    definition: "Terreny on hi ha restes antigues i on treballen els arqueòlegs."
+    example: "El jaciment d'Empúries rep milers de visitants cada any."
+  - word: "l'excavació"
+    definition: "Feina de treure terra per trobar i estudiar restes antigues."
+    example: "L'excavació d'aquest estiu ha tret a la llum un temple."
+  - word: "excavar"
+    definition: "Treure terra amb cura per trobar restes antigues."
+    example: "Cada juliol excaven una zona nova del poblat iber."
+  - word: "les restes"
+    definition: "Allò que queda d'una construcció o d'una època passada."
+    example: "Les restes de la muralla es veuen des de la carretera."
+  - word: "el fòssil"
+    definition: "Resta d'un animal o d'una planta de fa milers d'anys, conservada en la pedra."
+    example: "Al museu hi ha un fòssil de dinosaure de dos metres."
+  - word: "la ceràmica"
+    definition: "Objectes fets de fang cuit, com plats, vasos i gerres."
+    example: "Han datat la ceràmica trobada a la tomba."
+  - word: "el mosaic"
+    definition: "Dibuix fet amb pedretes de colors enganxades a terra o a la paret."
+    example: "El mosaic de l'entrada mostra dos gossos."
+  - word: "la muralla"
+    definition: "Paret alta de pedra que protegia una ciutat antiga."
+    example: "La muralla restaurada es pot visitar a peu."
+  - word: "el castell"
+    definition: "Edifici fort de pedra on vivien els senyors medievals."
+    example: "Des del castell es veu tot el poble."
+  - word: "el monestir"
+    definition: "Edifici on viu una comunitat de monjos."
+    example: "El comte i la comtessa van fundar el monestir l'any 1150."
+  - word: "la catedral"
+    definition: "Església principal d'una ciutat, normalment molt gran."
+    example: "La creu de la catedral de Girona és d'argent."
+  - word: "el museu"
+    definition: "Edifici on es guarden i s'exposen peces d'art o d'història."
+    example: "El museu tanca els dilluns al matí."
+  - word: "la vitrina"
+    definition: "Armari de vidre on s'exposen objectes delicats."
+    example: "Els pesos de teler són a la vitrina petita."
+  - word: "la peça"
+    definition: "Cada objecte d'una col·lecció o d'una exposició."
+    example: "La restauració d'una peça pot durar mesos."
+  - word: "la col·lecció"
+    definition: "Conjunt d'objectes de valor que es guarden i s'exposen junts."
+    example: "El tresor iber és la peça més famosa de la col·lecció."
+  - word: "el patrimoni"
+    definition: "Conjunt de béns històrics i culturals que cal protegir."
+    example: "Aquesta llei vol protegir el patrimoni del poble."
+  - word: "la restauració"
+    definition: "Feina de reparar una obra antiga perquè torni al seu estat original."
+    example: "La restauració del retaule ha durat sis mesos."
+  - word: "conservar"
+    definition: "Mantenir una cosa en bon estat perquè no es faci malbé."
+    example: "Cal conservar els colors originals del quadre."
+  - word: "el segle"
+    definition: "Període de cent anys."
+    example: "Les monedes són del segle III."
+  - word: "l'edat mitjana"
+    definition: "Època de la història entre els segles V i XV."
+    example: "La sala de l'edat mitjana té una maqueta d'un castell."
+  - word: "medieval"
+    definition: "De l'edat mitjana o que hi té relació."
+    example: "Han publicat unes cartes medievals inèdites."
+  - word: "antic, antiga"
+    definition: "De fa molt de temps."
+    example: "Guarden les eines antigues en un magatzem."
+  - word: "l'imperi"
+    definition: "Conjunt de terres governades per un emperador."
+    example: "La fi de l'imperi va ser un temps de grans canvis."
+  - word: "el regne"
+    definition: "Territori governat per un rei."
+    example: "Una carta del rei explica com era la vida al seu regne."
+  - word: "la corona"
+    definition: "Joia d'or que porten els reis al cap."
+    example: "La corona i el tron són del segle XII."
+  - word: "el tron"
+    definition: "Cadira de luxe on seu el rei en els actes importants."
+    example: "El tron del rei presideix la sala."
+  - word: "el manuscrit"
+    definition: "Text antic escrit a mà."
+    example: "Els manuscrits en pergamí es conserven a la sala fosca."
+  - word: "el pergamí"
+    definition: "Pell d'animal preparada per escriure-hi, que es feia servir abans del paper."
+    example: "Aquest pergamí té més de vuit-cents anys."
+  - word: "la inscripció"
+    definition: "Text gravat en pedra o en metall."
+    example: "La inscripció de la porta parla d'un temple."
+  - word: "l'arqueòleg, l'arqueòloga"
+    definition: "Persona que excava i estudia les restes del passat."
+    example: "L'arqueòloga Laia dirigeix la visita guiada."
+  - word: "la tomba"
+    definition: "Lloc on s'enterra una persona morta."
+    example: "A la tomba hi havia dos cranis i diversos ossos."
+  - word: "el temple"
+    definition: "Edifici on es fan cerimònies religioses."
+    example: "L'excavació ha tret a la llum un temple romà."
+  - word: "l'amfiteatre"
+    definition: "Edifici romà ovalat amb grades per als espectacles."
+    example: "A la sala hi ha una maqueta de l'amfiteatre de Tarragona."
+  - word: "l'aqüeducte"
+    definition: "Construcció que portava l'aigua a les ciutats romanes."
+    example: "L'aqüeducte de Tarragona també es diu el Pont del Diable."
+  - word: "la moneda"
+    definition: "Peça de metall que es fa servir com a diners."
+    example: "Cada moneda antiga explica una història."
+  - word: "el tresor"
+    definition: "Conjunt de joies o monedes de gran valor, sovint amagat."
+    example: "Un pagès va trobar el tresor l'any 1932."
+  - word: "la llegenda"
+    definition: "Història antiga que barreja fets reals i fantasia."
+    example: "En Pau ha comprat un llibre de llegendes per als alumnes."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-48-001
+    type: choice
+    point: femenins-irregulars
+    lesson: 1
+    prompt: "La Laia és la millor ___ de l'equip del jaciment."
+    answer: "arqueòloga"
+    distractors:
+      - text: "arqueòleg"
+        why: "És masculí. «La millor» i «la Laia» demanen el femení: *arqueòloga*."
+      - text: "arqueòlega"
+        why: "Els noms en *-eg* fan el femení en *-oga*: *arqueòloga*, no *arqueòlega*."
+    explanation: "«La millor» i «la Laia» demanen el femení: *arqueòleg* fa *arqueòloga*."
+
+  - id: b2-48-002
+    type: choice
+    point: femenins-irregulars
+    lesson: 1
+    prompt: "Teodora va ser ___ de Bizanci."
+    answer: "emperadriu"
+    distractors:
+      - text: "emperadora"
+        why: "*Emperador* fa el femení irregular *emperadriu*."
+      - text: "emperatriz"
+        why: "«Emperatriz» és castellà. En català: *emperadriu*."
+    explanation: "Teodora va governar l'imperi: *emperador* fa *emperadriu*."
+
+  - id: b2-48-003
+    type: choice
+    point: femenins-irregulars
+    lesson: 1
+    prompt: "A l'obra del festival romà, la protagonista és una ___ molt coneguda."
+    answer: "actriu"
+    distractors:
+      - text: "actora"
+        why: "*Actor* fa el femení irregular *actriu*."
+      - text: "actor"
+        why: "És masculí. «Una» i «protagonista» demanen el femení: *actriu*."
+    explanation: "La protagonista és una dona: *actor* fa *actriu*."
+
+  - id: b2-48-004
+    type: choice
+    point: plurals-irregulars
+    lesson: 1
+    prompt: "Al mosaic de l'entrada de la vil·la hi ha dos ___."
+    answer: "gossos"
+    distractors:
+      - text: "gosos"
+        why: "*Gos* fa el plural amb doble essa: *gossos*."
+      - text: "gos"
+        why: "«Dos» demana el plural: *gossos*."
+    explanation: "Els noms com *gos* fan el plural en *-ssos*: un gos, dos *gossos*."
+
+  - id: b2-48-005
+    type: choice
+    point: plurals-irregulars
+    lesson: 1
+    prompt: "L'estàtua va aparèixer sense ___."
+    answer: "braços"
+    distractors:
+      - text: "braçs"
+        why: "Davant de la *o* del plural, la *ç* esdevé *c*: *braços*."
+      - text: "braçsos"
+        why: "La *ç* no es manté davant de *o*: el plural de *braç* és *braços*."
+    explanation: "Els noms en *-ç* fan el plural en *-ços*: un braç, dos *braços*."
+
+  - id: b2-48-006
+    type: choice
+    point: plurals-irregulars
+    lesson: 1
+    prompt: "L'arqueòleg sempre porta dos ___ a la butxaca per dibuixar."
+    answer: "llapis"
+    distractors:
+      - text: "llapisos"
+        why: "Els noms acabats en *-s* àtona no canvien: un llapis, dos *llapis*."
+      - text: "llapissos"
+        why: "*Llapis* és invariable en plural: un llapis, dos *llapis*."
+    explanation: "*Llapis* acaba en *-s* àtona i no canvia: un llapis, dos *llapis*."
+
+  - id: b2-48-007
+    type: match
+    point: femenins-irregulars
+    lesson: 1
+    instruction: "Relaciona cada masculí amb el seu femení."
+    pairs:
+      - ["actor", "actriu"]
+      - ["poeta", "poetessa"]
+      - ["jutge", "jutgessa"]
+      - ["metge", "metgessa"]
+      - ["arqueòleg", "arqueòloga"]
+    explanation: "Són femenins irregulars: *actriu*, *poetessa*, *jutgessa*, *metgessa* i *arqueòloga*. Cal memoritzar-los."
+
+  - id: b2-48-008
+    type: match
+    point: plurals-irregulars
+    lesson: 1
+    instruction: "Relaciona cada singular amb el seu plural."
+    pairs:
+      - ["el gos", "els gossos"]
+      - ["el mes", "els mesos"]
+      - ["el braç", "els braços"]
+      - ["el llapis", "els llapis"]
+      - ["el tros", "els trossos"]
+      - ["el nas", "els nassos"]
+    explanation: "Cada nom té el seu plural: *gossos*, *mesos*, *braços*, *llapis*, *trossos* i *nassos*."
+
+  - id: b2-48-009
+    type: inline-choice
+    point: plurals-irregulars
+    lesson: 1
+    title: "La nova sala"
+    text: "A la nova sala hi trobareu {braços|braçs|braçsos} d'estàtues romanes, un mosaic amb dos {gossos|gosos|gos}, tres {vasos|vassos|vas} de ceràmica i diversos {trossos|trosos|tros} de motllures antigues."
+    explanation: "Els plurals són *braços* (la *ç* esdevé *c*), *gossos* i *trossos* (amb doble essa) i *vasos* (amb una essa)."
+
+  - id: b2-48-010
+    type: fill
+    point: femenins-irregulars
+    lesson: 1
+    prompt: "La ___ va ordenar protegir el jaciment."
+    hint: "JUTGE, en femení"
+    answers: ["jutgessa"]
+    wrong_answers:
+      - text: "jutge"
+        why: "«La» demana el femení: *jutgessa*."
+      - text: "jutja"
+        why: "El femení de *jutge* és irregular: *jutgessa*."
+    grading: tolerant
+    explanation: "Qui ordena és una dona: el femení de *jutge* és *jutgessa*."
+
+  - id: b2-48-011
+    type: fill
+    point: femenins-irregulars
+    lesson: 1
+    prompt: "Safo va ser una ___ grega molt famosa."
+    hint: "POETA, en femení"
+    answers: ["poetessa"]
+    wrong_answers:
+      - text: "poeta"
+        why: "«Una» i «grega» demanen el femení: *poetessa*."
+      - text: "poetisa"
+        why: "«Poetisa» és castellà. En català: *poetessa*."
+    grading: tolerant
+    explanation: "Safo era una dona: el femení de *poeta* és *poetessa*."
+
+  - id: b2-48-012
+    type: fill
+    point: plurals-irregulars
+    lesson: 1
+    prompt: "Els treballs duraran dos ___."
+    hint: "MES, en plural"
+    answers: ["mesos"]
+    wrong_answers:
+      - text: "messos"
+        why: "*Mes* fa el plural amb una sola essa: *mesos*."
+    grading: strict
+    explanation: "El plural de *mes* és *mesos*, amb una sola essa."
+
+  - id: b2-48-013
+    type: order
+    point: plurals-irregulars
+    lesson: 1
+    cue: "Digues que al calaix hi ha tres objectes per dibuixar."
+    chunks: ["Al calaix", "hi ha", "tres", "llapis"]
+    extra: ["llapisos"]
+    answers:
+      - "Al calaix hi ha tres llapis."
+      - "Hi ha tres llapis al calaix."
+    explanation: "*Llapis* no canvia en plural: cal dir *tres llapis*, no *llapisos*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-48-014
+    type: fill
+    point: femenins-irregulars
+    lesson: 2
+    prompt: "L'___ de Tarragona ha inaugurat l'exposició."
+    hint: "ALCALDE, en femení"
+    answers: ["alcaldessa"]
+    wrong_answers:
+      - text: "alcaldesa"
+        why: "«Alcaldesa» és castellà. En català, amb doble essa: *alcaldessa*."
+      - text: "alcalde"
+        why: "Qui inaugura és una dona: *alcalde* fa *alcaldessa*."
+    grading: tolerant
+    explanation: "L'alcalde és una dona: *alcalde* fa *alcaldessa*, amb doble essa."
+
+  - id: b2-48-015
+    type: fill
+    point: femenins-irregulars
+    lesson: 2
+    prompt: "La ___ del conte té poders màgics."
+    hint: "PRÍNCEP, en femení"
+    answers: ["princesa"]
+    wrong_answers:
+      - text: "princepa"
+        why: "El femení de *príncep* és irregular: *princesa*."
+      - text: "príncep"
+        why: "És masculí. «La» demana el femení: *princesa*."
+    grading: tolerant
+    explanation: "La protagonista és una dona: el femení de *príncep* és *princesa*."
+
+  - id: b2-48-016
+    type: choice
+    point: femenins-irregulars
+    lesson: 2
+    prompt: "A la llegenda, qui salva el poble del drac és l'___."
+    answer: "heroïna"
+    distractors:
+      - text: "heroina"
+        why: "S'escriu amb dièresi: *heroïna*."
+      - text: "heroa"
+        why: "*Heroi* fa *heroïna*."
+    explanation: "Qui salva el poble és una dona: *heroi* fa *heroïna*, amb dièresi."
+
+  - id: b2-48-017
+    type: choice
+    point: femenins-irregulars
+    lesson: 2
+    prompt: "El comte Berenguer i la ___ van fundar el monestir l'any 1150."
+    answer: "comtessa"
+    distractors:
+      - text: "comta"
+        why: "El femení de *comte* és irregular: *comtessa*."
+      - text: "condesa"
+        why: "«Condesa» és castellà. En català: *comtessa*."
+    explanation: "L'esposa del comte és la *comtessa*: el femení de *comte* és irregular."
+
+  - id: b2-48-018
+    type: fill
+    point: plurals-irregulars
+    lesson: 2
+    prompt: "De la porta a l'altar hi ha vint ___."
+    hint: "PAS, en plural"
+    answers: ["passos"]
+    wrong_answers:
+      - text: "pasos"
+        why: "«Pasos» és la forma castellana. En català, amb doble essa: *passos*."
+    grading: strict
+    explanation: "El plural de *pas* és *passos*, amb doble essa."
+
+  - id: b2-48-019
+    type: fill
+    point: plurals-irregulars
+    lesson: 2
+    prompt: "Han trobat dos ___ de ceràmica pintada."
+    hint: "TROS, en plural"
+    answers: ["trossos"]
+    wrong_answers:
+      - text: "trosos"
+        why: "*Tros* fa el plural amb doble essa: *trossos*."
+    grading: strict
+    explanation: "El plural de *tros* és *trossos*, amb doble essa."
+
+  - id: b2-48-020
+    type: choice
+    point: plurals-irregulars
+    lesson: 2
+    prompt: "Els arqueòlegs han datat els ___ trobats a la tomba."
+    answer: "ossos"
+    distractors:
+      - text: "osos"
+        why: "*Os* fa el plural amb doble essa: *ossos*."
+      - text: "òssos"
+        why: "*Os* s'escriu sense accent: *ossos*."
+    explanation: "*Os* fa el plural *ossos*, amb doble essa i sense accent."
+
+  - id: b2-48-021
+    type: order
+    point: femenins-irregulars
+    lesson: 2
+    cue: "Presenta la Núria: és la doctora nova del poble."
+    chunks: ["La Núria", "és", "la metgessa", "nova", "del poble"]
+    extra: ["metge"]
+    answers:
+      - "La Núria és la metgessa nova del poble."
+      - "La metgessa nova del poble és la Núria."
+    explanation: "La Núria és una dona: el femení de *metge* és *metgessa*, no *metge*."
+
+  - id: b2-48-022
+    type: order
+    point: plurals-irregulars
+    lesson: 2
+    cue: "Digues que els objectes de fang del teler són a la vitrina petita."
+    chunks: ["Els pesos de teler", "són", "a la vitrina", "petita"]
+    extra: ["pessos"]
+    answers:
+      - "Els pesos de teler són a la vitrina petita."
+      - "A la vitrina petita són els pesos de teler."
+    explanation: "El plural de *pes* és *pesos*, amb una sola essa."
+
+  - id: b2-48-023
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «fer història»?"
+    answer: "Aconseguir una fita que tothom recordarà."
+    distractors:
+      - text: "Estudiar història a la universitat."
+        why: "Aquest és el sentit literal de la paraula; l'expressió és figurada."
+      - text: "Explicar una història molt llarga."
+        why: "Explicar no és fer: l'expressió parla d'una fita memorable."
+    explanation: "«Fer història» és aconseguir una fita tan gran que tothom la recordarà."
+
+  - id: b2-48-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—La Laia ha descobert un mosaic intacte. —Sí, ___."
+    answer: "ha fet història"
+    distractors:
+      - text: "ha fet tard"
+        why: "Vol dir arribar tard; no té res a veure amb el descobriment."
+      - text: "ha tret foc pels queixals"
+        why: "Vol dir enfadar-se molt; aquí cal celebrar el descobriment."
+    explanation: "Un descobriment excepcional és una fita memorable: la Laia *ha fet història*."
+
+  - id: b2-48-025
+    type: inline-choice
+    point: femenins-irregulars
+    lesson: 2
+    title: "Notícies del patrimoni"
+    text: "La {jutgessa|jutge|jutja} ha ordenat aturar les obres del pàrquing i l'{alcaldessa|alcalde|alcaldesa} ha promès més diners per al museu. La {poetessa|poeta|poetisa} local llegirà versos a la inauguració i l'{arqueòloga|arqueòleg|arqueòlega} Laia dirigirà la visita guiada."
+    explanation: "Els femenins són *jutgessa*, *alcaldessa*, *poetessa* i *arqueòloga*: tots són irregulars."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-48-026
+    type: choice
+    point: genere-i-significat
+    lesson: 3
+    prompt: "___ dels nadons és molt lleuger."
+    answer: "El son"
+    distractors:
+      - text: "La son"
+        why: "*La son* és la gana de dormir. El dormir, com a període, és *el son*."
+      - text: "Els sons"
+        why: "El verb («és») i l'adjectiu («lleuger») són en singular: *el son*."
+    explanation: "El dormir dels nadons és *el son*, en masculí. *La son* és la gana de dormir."
+
+  - id: b2-48-027
+    type: choice
+    point: genere-i-significat
+    lesson: 3
+    prompt: "Quina frase parla de la claredat, no de l'aparell?"
+    answer: "La llum del matí entra per la finestra."
+    distractors:
+      - text: "El llum del sostre no funciona."
+        why: "Parla de l'aparell, que és masculí: *el llum*."
+      - text: "Els llums del carrer són nous."
+        why: "Parla dels aparells del carrer, en masculí."
+    explanation: "La claredat és *la llum*, en femení. L'aparell és *el llum*, en masculí."
+
+  - id: b2-48-028
+    type: choice
+    point: genere-i-significat
+    lesson: 3
+    prompt: "«Els llums de la sala» són ___."
+    answer: "els aparells que il·luminen la sala"
+    distractors:
+      - text: "la claredat que entra per les finestres"
+        why: "La claredat és *la llum*, en femení i en singular."
+      - text: "els quadres penjats a la paret"
+        why: "Els quadres no són llums."
+    explanation: "En plural i en masculí, *els llums* són els aparells que fan llum."
+
+  - id: b2-48-029
+    type: choice
+    point: genere-i-significat
+    lesson: 3
+    prompt: "___ d'aquesta llei és protegir el patrimoni."
+    answer: "El fi"
+    distractors:
+      - text: "La fi"
+        why: "*La fi* és l'acabament. L'objectiu és *el fi*."
+      - text: "La fin"
+        why: "«Fin» és castellà. En català: *el fi* o *la fi*, segons el sentit."
+    explanation: "L'objectiu de la llei és *el fi*, en masculí. *La fi* és l'acabament."
+
+  - id: b2-48-030
+    type: choice
+    point: genere-i-significat
+    lesson: 3
+    prompt: "___ de l'exposició serà un concert al claustre."
+    answer: "La fi"
+    distractors:
+      - text: "El fi"
+        why: "*El fi* és l'objectiu. L'acabament és *la fi*."
+      - text: "Els fins"
+        why: "El verb és en singular («serà»): *la fi*."
+    explanation: "L'acabament de l'exposició és *la fi*, en femení. *El fi* és l'objectiu."
+
+  - id: b2-48-031
+    type: fill
+    point: genere-i-significat
+    lesson: 3
+    prompt: "A mitja tarda em ve ___ i no puc estudiar."
+    hint: "SON, amb l'article"
+    answers: ["la son"]
+    wrong_answers:
+      - text: "el son"
+        why: "La gana de dormir és *la son*. *El son* és el dormir."
+    grading: tolerant
+    explanation: "La gana de dormir és *la son*, en femení."
+
+  - id: b2-48-032
+    type: choice
+    point: genere-i-significat
+    lesson: 3
+    prompt: "«El terra de la masia» és ___."
+    answer: "el paviment de la casa"
+    distractors:
+      - text: "la terra dels camps"
+        why: "*La terra*, en femení, és el sòl o el terreny."
+      - text: "el sostre de l'entrada"
+        why: "El sostre és a dalt; *el terra* és a baix."
+    explanation: "*El terra*, en masculí, és el paviment. *La terra*, en femení, és el sòl."
+
+  - id: b2-48-033
+    type: fill
+    point: genere-i-significat
+    lesson: 3
+    prompt: "Han regat ___ del jardí després de plantar les roses."
+    hint: "TERRA, amb l'article"
+    answers: ["la terra"]
+    wrong_answers:
+      - text: "el terra"
+        why: "*El terra* és el paviment. La terra del jardí és femenina."
+    grading: tolerant
+    explanation: "La terra del jardí és *la terra*, en femení. *El terra* és el paviment."
+
+  - id: b2-48-034
+    type: find-error
+    point: compte-metgessa
+    lesson: 3
+    sentence: "La metge de guàrdia li ha receptat un xarop."
+    error: "La metge"
+    fix: "La metgessa"
+    fix_distractors:
+      - text: "La metga"
+        why: "El femení de *metge* és irregular: *metgessa*."
+      - text: "El metgessa"
+        why: "*Metgessa* és femení: l'article és *la*."
+    explanation: "El femení de *metge* és *metgessa*. «La metge» és un calc del castellà «la médico»."
+
+  - id: b2-48-035
+    type: find-error
+    point: compte-metgessa
+    lesson: 3
+    sentence: "La jutge ha ordenat protegir el jaciment."
+    error: "La jutge"
+    fix: "La jutgessa"
+    fix_distractors:
+      - text: "La jutja"
+        why: "El femení de *jutge* és irregular: *jutgessa*."
+      - text: "El jutgessa"
+        why: "*Jutgessa* és femení: l'article és *la*."
+    explanation: "El femení de *jutge* és *jutgessa*. «La jutge» és un calc del castellà «la juez»."
+
+  - id: b2-48-036
+    type: find-error
+    point: compte-metgessa
+    lesson: 3
+    sentence: "La poeta Safo va néixer a l'illa de Lesbos."
+    error: "La poeta"
+    fix: "La poetessa"
+    fix_distractors:
+      - text: "La poetisa"
+        why: "«Poetisa» és castellà. En català: *poetessa*."
+      - text: "El poetessa"
+        why: "*Poetessa* és femení: l'article és *la*."
+    explanation: "El femení de *poeta* és *poetessa*. «La poeta» segueix el model castellà."
+
+  - id: b2-48-037
+    type: find-error
+    point: compte-metgessa
+    lesson: 3
+    sentence: "La nova alcalde de Vic ha inaugurat la muralla restaurada."
+    error: "alcalde"
+    fix: "alcaldessa"
+    fix_distractors:
+      - text: "alcaldesa"
+        why: "«Alcaldesa» és castellà. En català, amb doble essa: *alcaldessa*."
+      - text: "alcalda"
+        why: "*Alcalde* fa *alcaldessa*."
+    explanation: "*Alcalde* fa *alcaldessa*, amb doble essa."
+
+  - id: b2-48-038
+    type: find-error
+    point: compte-metgessa
+    lesson: 3
+    sentence: "La metgessa de capçalera m'ha demanat una analítica."
+    no_error: true
+    explanation: "La frase és correcta: el femení de *metge* és *metgessa*, i l'article és *la*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-48-039
+    type: transform
+    point: femenins-irregulars
+    lesson: 4
+    instruction: "Canvia la frase al femení."
+    source: "L'[[actor]] principal és de Girona."
+    answers: ["L'actriu principal és de Girona."]
+    wrong_answers:
+      - text: "L'actora principal és de Girona."
+        why: "*Actor* fa el femení irregular *actriu*."
+      - text: "La actriu principal és de Girona."
+        why: "Davant de vocal, *la* s'apostrofa: *l'actriu*."
+    grading: tolerant
+    explanation: "*Actor* fa *actriu*, i l'article s'apostrofa: *l'actriu*."
+
+  - id: b2-48-040
+    type: transform
+    point: femenins-irregulars
+    lesson: 4
+    instruction: "Canvia la frase al femení."
+    source: "El [[poeta]] convidat llegirà els seus versos."
+    answers: ["La poetessa convidada llegirà els seus versos."]
+    wrong_answers:
+      - text: "La poeta convidada llegirà els seus versos."
+        why: "El femení de *poeta* és *poetessa*."
+      - text: "La poetisa convidada llegirà els seus versos."
+        why: "«Poetisa» és castellà. En català: *poetessa*."
+    grading: tolerant
+    explanation: "El femení de *poeta* és *poetessa*, i l'adjectiu concorda: *convidada*."
+
+  - id: b2-48-041
+    type: transform
+    point: plurals-irregulars
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "El [[gos]] de mosaic és negre."
+    answers: ["Els gossos de mosaic són negres."]
+    wrong_answers:
+      - text: "Els gosos de mosaic són negres."
+        why: "*Gos* fa el plural amb doble essa: *gossos*."
+      - text: "Els gossos de mosaic son negres."
+        why: "Del verb ser, amb accent: *són*. *Son* sense accent és el dormir."
+    grading: strict
+    explanation: "El plural de *gos* és *gossos*, i el verb concorda: *són negres*."
+
+  - id: b2-48-042
+    type: transform
+    point: plurals-irregulars
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "El [[braç]] de l'estàtua fa dos metres."
+    answers: ["Els braços de l'estàtua fan dos metres."]
+    wrong_answers:
+      - text: "Els braçs de l'estàtua fan dos metres."
+        why: "La *ç* esdevé *c* davant de *o*: *braços*."
+      - text: "Els braços de l'estàtua fa dos metres."
+        why: "El subjecte és plural: el verb és *fan*."
+    grading: strict
+    explanation: "El plural de *braç* és *braços*, i el verb concorda: *fan*."
+
+  - id: b2-48-043
+    type: transform
+    point: genere-i-significat
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[La fi]] d'aquesta norma és protegir els artesans."
+    answers: ["El fi d'aquesta norma és protegir els artesans."]
+    wrong_answers:
+      - text: "La fin d'aquesta norma és protegir els artesans."
+        why: "«Fin» és castellà. L'objectiu és *el fi*."
+    grading: tolerant
+    explanation: "L'objectiu d'una norma és *el fi*, en masculí. *La fi* és l'acabament."
+
+  - id: b2-48-044
+    type: transform
+    point: compte-metgessa
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[La metge]] de guàrdia triga una hora."
+    answers: ["La metgessa de guàrdia triga una hora."]
+    wrong_answers:
+      - text: "La metga de guàrdia triga una hora."
+        why: "El femení de *metge* és *metgessa*."
+    grading: tolerant
+    explanation: "El femení de *metge* és *metgessa*: «la metge» és un calc del castellà."
+
+  - id: b2-48-045
+    type: fill
+    point: genere-i-significat
+    lesson: 4
+    prompt: "El programa anuncia ___ de l'exposició amb un concert al claustre diumenge."
+    hint: "FI, amb l'article"
+    answers: ["la fi"]
+    wrong_answers:
+      - text: "el fi"
+        why: "L'acabament és *la fi*. *El fi* és l'objectiu."
+    grading: tolerant
+    explanation: "L'acabament de l'exposició és *la fi*, en femení."
+
+  - id: b2-48-046
+    type: fill
+    point: genere-i-significat
+    lesson: 4
+    prompt: "De nit es veu ___ Halley amb prismàtics."
+    hint: "COMETA, amb l'article"
+    answers: ["el cometa"]
+    wrong_answers:
+      - text: "la cometa"
+        why: "L'astre és masculí: *el cometa*. *La cometa* és la joguina."
+    grading: tolerant
+    explanation: "El cometa Halley és un astre: *el cometa*, en masculí."
+
+  - id: b2-48-047
+    type: fill
+    point: plurals-irregulars
+    lesson: 4
+    prompt: "A la vitrina hi ha dos ___ romans de vidre."
+    hint: "VAS, en plural"
+    answers: ["vasos"]
+    wrong_answers:
+      - text: "vassos"
+        why: "*Vas* fa el plural amb una sola essa: *vasos*."
+    grading: strict
+    explanation: "El plural de *vas* és *vasos*, amb una sola essa."
+
+  - id: b2-48-048
+    type: order
+    point: genere-i-significat
+    lesson: 4
+    cue: "Digues que per la finestra entra la claredat del matí."
+    chunks: ["La llum", "del matí", "entra", "per la finestra"]
+    extra: ["El llum"]
+    answers:
+      - "La llum del matí entra per la finestra."
+      - "Per la finestra entra la llum del matí."
+    explanation: "La claredat és *la llum*, en femení: *el llum* és l'aparell."
+
+  - id: b2-48-049
+    type: order
+    point: femenins-irregulars
+    lesson: 4
+    cue: "Digues que la primera autoritat de la ciutat ha visitat el monestir aquest matí."
+    chunks: ["L'alcaldessa", "ha visitat", "el monestir", "aquest matí"]
+    extra: ["alcaldesa"]
+    answers:
+      - "L'alcaldessa ha visitat el monestir aquest matí."
+      - "Aquest matí l'alcaldessa ha visitat el monestir."
+      - "L'alcaldessa ha visitat aquest matí el monestir."
+    explanation: "*Alcalde* fa *alcaldessa*, amb doble essa: «alcaldesa» és castellà."
+
+  - id: b2-48-050
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "—On sopem? —Al bar ___: hi anàvem amb els avis."
+    answer: "de tota la vida"
+    distractors:
+      - text: "de cap per avall"
+        why: "Vol dir capgirat; no té sentit aquí."
+      - text: "de gom a gom"
+        why: "Vol dir ple de gent; aquí parlem d'un bar de sempre."
+    explanation: "Un lloc *de tota la vida* és el de sempre, on has anat tota la vida."
+
+  - id: b2-48-051
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Què vol dir «treure a la llum» unes restes?"
+    answer: "Descobrir-les i fer que tothom les conegui."
+    distractors:
+      - text: "Amagar-les en un magatzem."
+        why: "És el contrari: *treure a la llum* és mostrar."
+      - text: "Trencar-les durant l'excavació."
+        why: "Trencar no té res a veure amb descobrir."
+    explanation: "«Treure a la llum» és descobrir una cosa i donar-la a conèixer."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-48-052
+    type: choice
+    point: femenins-irregulars
+    lesson: 5
+    prompt: "La ___ ha absolt els acusats."
+    answer: "jutgessa"
+    distractors:
+      - text: "jutge"
+        why: "És masculí. «La» demana el femení: *jutgessa*."
+      - text: "justícia"
+        why: "La justícia és la institució, no la persona que jutja."
+    explanation: "Qui jutja és una dona: el femení de *jutge* és *jutgessa*."
+
+  - id: b2-48-053
+    type: choice
+    point: plurals-irregulars
+    lesson: 5
+    prompt: "Han calgut sis ___ per restaurar el retaule."
+    answer: "mesos"
+    distractors:
+      - text: "messos"
+        why: "*Mes* fa el plural amb una sola essa: *mesos*."
+      - text: "messes"
+        why: "El plural de *mes* és *mesos*."
+    explanation: "El plural de *mes* és *mesos*, amb una sola essa."
+
+  - id: b2-48-054
+    type: choice
+    point: genere-i-significat
+    lesson: 5
+    prompt: "El nadó té ___ molt profund."
+    answer: "el son"
+    distractors:
+      - text: "la son"
+        why: "*La son* és la gana de dormir. El dormir profund és *el son*."
+      - text: "la dormida"
+        why: "Una *dormida* és dormir una estona; «profund» demana *el son*."
+    explanation: "El dormir del nadó és *el son*, en masculí: *el son* profund."
+
+  - id: b2-48-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "L'hotel era ___: habitacions petites i esmorzar dolent."
+    answer: "de pa sucat amb oli"
+    distractors:
+      - text: "de cap a peus"
+        why: "Vol dir del tot, completament; aquí cal una expressió de poca qualitat."
+      - text: "de gom a gom"
+        why: "Vol dir ple de gent; aquí parlem d'un hotel dolent."
+    explanation: "Un hotel *de pa sucat amb oli* és mediocre, de poca qualitat."
+
+  - id: b2-48-056
+    type: fill
+    point: femenins-irregulars
+    lesson: 5
+    prompt: "El duc i la ___ van viure en aquest palau."
+    hint: "DUC, en femení"
+    answers: ["duquessa"]
+    wrong_answers:
+      - text: "duquesa"
+        why: "S'escriu amb doble essa: *duquessa*. «Duquesa» és castellà."
+      - text: "duc"
+        why: "És masculí. «La» demana el femení: *duquessa*."
+    grading: tolerant
+    explanation: "L'esposa del duc és la *duquessa*: el femení de *duc* és irregular."
+
+  - id: b2-48-057
+    type: fill
+    point: plurals-irregulars
+    lesson: 5
+    prompt: "A la tomba hi havia dos cranis i diversos ___."
+    hint: "OS, en plural"
+    answers: ["ossos"]
+    wrong_answers:
+      - text: "osos"
+        why: "*Os* fa el plural amb doble essa i sense accent: *ossos*."
+    grading: strict
+    explanation: "*Os* fa el plural *ossos*, amb doble essa i sense accent."
+
+  - id: b2-48-058
+    type: find-error
+    point: compte-metgessa
+    lesson: 5
+    sentence: "La jutgessa de guàrdia dictarà sentència demà."
+    no_error: true
+    explanation: "La frase és correcta: *jutgessa* és el femení de *jutge*."
+
+  - id: b2-48-059
+    type: find-error
+    point: genere-i-significat
+    lesson: 5
+    sentence: "El pols de segles cobreix el mosaic de l'atri."
+    error: "El pols"
+    fix: "La pols"
+    fix_distractors:
+      - text: "Els polsos"
+        why: "Els polsos són batecs del cor; la brutícia és *la pols*."
+      - text: "Les pols"
+        why: "*La pols*, la brutícia fina, no té plural habitual."
+    explanation: "La brutícia fina és *la pols*, en femení i en singular. *El pols* és el batec del cor."
+
+  - id: b2-48-060
+    type: find-error
+    point: femenins-irregulars
+    lesson: 5
+    sentence: "L'actora principal ha guanyat el premi del festival."
+    error: "L'actora"
+    fix: "L'actriu"
+    fix_distractors:
+      - text: "La actriu"
+        why: "Davant de vocal, *la* s'apostrofa: *l'actriu*."
+      - text: "L'actor"
+        why: "*Actor* és masculí; la protagonista és una dona: *actriu*."
+    explanation: "La protagonista és una dona: *actor* fa *actriu*."
+
+  - id: b2-48-061
+    type: inline-choice
+    point: genere-i-significat
+    lesson: 5
+    title: "Postal de Tarragona"
+    text: "Hem començat el dia traient {la|el} pols de les botes. Hem trepitjat {el|la} terra del fòrum. A la tarda els petits han volat {la|el} cometa a la platja i a la nit tothom tenia {el|la} son profund."
+    explanation: "La brutícia és *la pols*, el paviment és *el terra*, la joguina és *la cometa* i el dormir és *el son*."
+
+  - id: b2-48-062
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["fer història", "Guanyar el primer premi internacional del museu."]
+      - ["treure a la llum", "Publicar unes cartes medievals inèdites."]
+      - ["de tota la vida", "Anar al mateix forn des de petit."]
+      - ["de pa sucat amb oli", "Un hotel car amb un servei pèssim."]
+    explanation: "Cada expressió té el seu sentit: *fer història* és una fita, *treure a la llum* és descobrir, *de tota la vida* és de sempre i *de pa sucat amb oli* és de poca qualitat."
+
+  - id: b2-48-063
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Aquest descobriment ___: en parlaran els llibres."
+    answer: "passarà a la història"
+    distractors:
+      - text: "farà tard"
+        why: "Vol dir arribar tard; no té res a veure amb el descobriment."
+      - text: "treurà foc pels queixals"
+        why: "Vol dir enfadar-se molt; aquí cal celebrar el descobriment."
+    explanation: "*Passar a la història* és quedar en el record de tothom."
+
+  - id: b2-48-064
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una visita al Museu d'Arqueologia"
+    text: |
+      La Núria i en Pau passen un dissabte al Museu d'Arqueologia de Barcelona. La Núria és metgessa, però l'apassiona la història; en Pau és mestre i prepara una visita amb els alumnes de la seva escola.
+
+      Comencen per la sala de la prehistòria. En una vitrina hi ha un fòssil de dinosaure, eines de pedra i els ossos d'un animal gegant. «Aquests ossos tenen més de deu mil anys», explica el guia. La Núria ho apunta amb un llapis a la seva llibreta. La llum de la sala és tènue perquè la claredat forta fa malbé les peces antigues.
+
+      La segona sala és la de l'imperi romà: un terra de mosaic protegit per un vidre, vasos de ceràmica, monedes, la tapa d'una tomba i una inscripció que parla d'un temple. També hi ha una foto de l'aqüeducte de Tarragona i una maqueta de l'amfiteatre. En Pau s'atura davant d'una estàtua sense braços. «La fi de l'imperi va ser un temps de grans canvis», llegeix en un plafó.
+
+      La sala de l'edat mitjana mostra una pedra de la muralla romana, la maqueta d'un castell, una creu de la catedral de Girona, manuscrits en pergamí i la corona i el tron d'un rei del segle XII. Una carta del rei explica com era la vida al seu regne. La guia explica que la restauració d'una peça pot durar mesos: cal treure la pols, conservar els colors i datar cada resta amb cura. L'equip de l'arqueòloga Laia excava cada estiu a Empúries i porta les troballes al museu.
+
+      Abans de sortir, visiten l'exposició del tresor iber, la peça més famosa de la col·lecció: un conjunt de joies que va passar a la història quan un pagès el va treure a la llum l'any 1932. «Aquest museu és de tota la vida», diu la Núria, «i cada visita hi descobreixo una peça nova». En Pau compra un llibre de llegendes per als alumnes i surten al jardí, on uns nens volen la cometa.
+    questions:
+      - prompt: "Per què visiten el museu, la Núria i en Pau?"
+        answer: "Ella hi va per afició i ell prepara una visita escolar."
+        distractors:
+          - text: "Tots dos hi treballen com a guies."
+            why: "La Núria és metgessa i en Pau és mestre; els guies són altres persones."
+          - text: "Volen excavar amb l'equip de la Laia."
+            why: "L'equip de la Laia excava a Empúries; ells només visiten el museu."
+      - prompt: "Què hi ha a la sala de la prehistòria?"
+        answer: "Un fòssil, eines de pedra i ossos antics."
+        distractors:
+          - text: "Mosaics, monedes i una inscripció."
+            why: "Això és a la sala de l'imperi romà."
+          - text: "La maqueta d'un castell i manuscrits."
+            why: "Això és a la sala de l'edat mitjana."
+      - prompt: "Què explica la guia sobre la restauració?"
+        answer: "Que pot durar mesos i cal tractar cada peça amb cura."
+        distractors:
+          - text: "Que es fa en un sol dia amb màquines noves."
+            why: "El text diu que pot durar mesos."
+          - text: "Que només cal per a les peces romanes."
+            why: "La guia parla de la restauració en general, no només de Roma."
+      - prompt: "Com es va descobrir el tresor iber?"
+        answer: "El va trobar un pagès l'any 1932."
+        distractors:
+          - text: "El va portar l'equip de la Laia des d'Empúries."
+            why: "L'equip porta les troballes d'Empúries, però el tresor el va trobar un pagès."
+          - text: "El van trobar uns nens al jardí."
+            why: "Els nens del jardí volen la cometa; el tresor el va trobar un pagès."
+    explanation: "La Núria i en Pau visiten el museu: hi veuen la prehistòria, Roma, l'edat mitjana i el tresor iber."
+
+  - id: b2-48-065
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que amb aquest descobriment l'equip ha aconseguit una fita memorable."
+    chunks: ["L'equip", "ha fet", "història", "amb aquest descobriment"]
+    extra: ["la història"]
+    answers:
+      - "L'equip ha fet història amb aquest descobriment."
+      - "Amb aquest descobriment l'equip ha fet història."
+    explanation: "L'expressió és *fer història*, sense article."

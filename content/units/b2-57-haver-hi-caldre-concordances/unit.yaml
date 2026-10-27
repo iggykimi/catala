@@ -1,0 +1,1069 @@
+id: b2-57
+level: B2
+title: "Haver-hi, caldre i les concordances"
+summary: "Haver-hi invariable en registre formal, la concordança de caldre, els impersonals del temps, la concordança del participi i expressions amb caldre, en el context de la sanitat."
+vocabulary_theme: "Salut pública i sanitat"
+points:
+  - id: haver-hi-formal
+    title: "Haver-hi invariable en registre formal"
+    refs:
+      - label: "GEIEC: haver-hi"
+        url: "https://geiec.iec.cat"
+  - id: caldre
+    title: "El verb caldre: cal, calen"
+    refs:
+      - label: "GEIEC: caldre"
+        url: "https://geiec.iec.cat"
+  - id: impersonals-meteo
+    title: "Els impersonals meteorològics"
+    refs:
+      - label: "GEIEC: els verbs impersonals"
+        url: "https://geiec.iec.cat"
+  - id: participi-concordanca
+    title: "La concordança del participi"
+    refs:
+      - label: "GEIEC: la concordança del participi"
+        url: "https://geiec.iec.cat"
+  - id: compte-cal
+    title: "Compte amb el castellà: cal sense concordar"
+    refs:
+      - label: "Optimot: caldre"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions amb caldre"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: haver-hi i caldre"
+  - title: "Practicar haver-hi i caldre"
+  - title: "El temps, el participi i el calc de cal"
+  - title: "Produir: tot junt"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el metge de família, la metgessa de família"
+    definition: "Metge que atén els problemes de salut habituals de cada persona."
+    example: "Demana hora amb la metgessa de família per la tos."
+  - word: "el metge de guàrdia, la metgessa de guàrdia"
+    definition: "Metge que atén les urgències fora de l'horari normal."
+    example: "De nit, et rep el metge de guàrdia."
+  - word: "urgències"
+    definition: "Servei de l'hospital que atén els casos greus i immediats."
+    example: "El van portar a urgències en ambulància."
+  - word: "l'ambulància"
+    definition: "Vehicle que porta els malalts i els ferits a l'hospital."
+    example: "L'ambulància va arribar en deu minuts."
+  - word: "l'infermer, la infermera"
+    definition: "Persona que cuida els malalts i ajuda el metge."
+    example: "La infermera em va prendre la tensió."
+  - word: "el pacient, la pacient"
+    definition: "Persona que rep atenció mèdica."
+    example: "El pacient de l'habitació tres ja pot sortir."
+  - word: "la recepta"
+    definition: "Paper on el metge escriu els medicaments que cal prendre."
+    example: "El metge m'ha fet la recepta per a un mes."
+  - word: "el medicament"
+    definition: "Producte que serveix per curar o alleujar una malaltia."
+    example: "Aquest medicament es pren amb el menjar."
+  - word: "la farmàcia de guàrdia"
+    definition: "Farmàcia que obre de nit o en festiu, per torns."
+    example: "Diumenge només obre la farmàcia de guàrdia del carrer Major."
+  - word: "la vacuna"
+    definition: "Producte que es posa per prevenir una malaltia."
+    example: "La vacuna de la grip es posa cada tardor."
+  - word: "la campanya de vacunació"
+    definition: "Acció organitzada per vacunar molta gent en poc temps."
+    example: "La campanya de vacunació comença dilluns als CAP."
+  - word: "la dosi"
+    definition: "Quantitat de medicament o de vacuna que es pren cada cop."
+    example: "Amb una sola dosi ja queda protegit."
+  - word: "la targeta sanitària"
+    definition: "Targeta que identifica cada usuari de la sanitat pública."
+    example: "Porta la targeta sanitària a la primera visita."
+  - word: "el centre de salut"
+    definition: "Edifici del barri on hi ha els metges de família."
+    example: "El centre de salut obre a les vuit del matí."
+  - word: "la sala d'espera"
+    definition: "Sala on els pacients esperen el torn de visita."
+    example: "La sala d'espera era plena de gent."
+  - word: "la llista d'espera"
+    definition: "Llista de pacients que esperen una operació o una prova."
+    example: "Fa tres mesos que és a la llista d'espera."
+  - word: "l'ingrés"
+    definition: "Entrada d'un malalt a l'hospital per quedar-s'hi uns dies."
+    example: "L'ingrés va ser dilluns i dijous ja era a casa."
+  - word: "ingressar"
+    definition: "Entrar en un hospital com a pacient per quedar-s'hi."
+    example: "L'han ingressat per una pneumònia."
+  - word: "el tractament"
+    definition: "Conjunt de cures i medicaments per a una malaltia."
+    example: "El tractament dura tres setmanes."
+  - word: "l'analítica"
+    definition: "Prova de sang o d'orina que es fa al laboratori."
+    example: "M'han demanat una analítica completa."
+  - word: "el diagnòstic"
+    definition: "Nom de la malaltia que el metge identifica en un pacient."
+    example: "El diagnòstic va ser una grip forta."
+  - word: "el símptoma"
+    definition: "Senyal d'una malaltia, com la febre o la tos."
+    example: "El primer símptoma va ser el mal de cap."
+  - word: "la grip"
+    definition: "Malaltia d'hivern amb febre, tos i dolor al cos."
+    example: "Aquest hivern hi ha molta grip."
+  - word: "el contagi"
+    definition: "Transmissió d'una malaltia d'una persona a una altra."
+    example: "El contagi es frena amb la higiene de mans."
+  - word: "el brot"
+    definition: "Aparició de diversos casos d'una malaltia en un lloc."
+    example: "Hi ha hagut un brot de grip a l'escola."
+  - word: "la prevenció"
+    definition: "Conjunt de mesures per evitar les malalties."
+    example: "La prevenció comença amb l'esport i el menjar sa."
+  - word: "donar sang"
+    definition: "Deixar que et treguin sang per ajudar altres malalts."
+    example: "Cada any dono sang dues vegades."
+  - word: "el quiròfan"
+    definition: "Sala de l'hospital on es fan les operacions."
+    example: "L'han portat al quiròfan a les nou."
+  - word: "operar"
+    definition: "Intervenir un pacient en un quiròfan per curar-lo."
+    example: "L'operen dimarts del genoll."
+  - word: "el cirurgià, la cirurgiana"
+    definition: "Metge que fa operacions al quiròfan."
+    example: "El cirurgià diu que tot ha anat bé."
+  - word: "atendre"
+    definition: "Rebre un pacient i ocupar-se'n mèdicament."
+    example: "El metge m'ha atès sense cita."
+  - word: "la UCI"
+    definition: "Unitat de Cures Intensives, per als malalts més greus."
+    example: "Després de l'operació va passar dos dies a l'UCI."
+  - word: "el protocol"
+    definition: "Normes que cal seguir en cada situació mèdica."
+    example: "El protocol diu que cal aïllar el pacient."
+  - word: "la mostra"
+    definition: "Petita quantitat de sang o d'orina que s'analitza."
+    example: "Han enviat la mostra al laboratori."
+  - word: "el laboratori"
+    definition: "Lloc on s'analitzen les mostres mèdiques."
+    example: "El laboratori triga dos dies a donar el resultat."
+  - word: "el voluntari, la voluntària"
+    definition: "Persona que ajuda en una tasca sense cobrar."
+    example: "Els voluntaris reparteixen mascaretes a l'entrada."
+  - word: "la llitera"
+    definition: "Llit estret per portar malalts i ferits."
+    example: "El van treure en llitera."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-57-001
+    type: choice
+    point: haver-hi-formal
+    lesson: 1
+    prompt: "A la tercera planta ___ una farmàcia i dues consultes."
+    answer: "hi ha"
+    distractors:
+      - text: "han"
+        why: "Sense *hi* no hi ha existència: *han* tot sol no té sentit aquí."
+      - text: "és"
+        why: "Per dir que una cosa existeix en un lloc no es fa servir *ser*: cal *haver-hi*."
+      - text: "n'hi ha"
+        why: "*En* necessita un referent («quantes?»); aquí no n'hi ha cap: *hi ha*."
+    explanation: "«Una farmàcia i dues consultes» existeixen: l'existència s'expressa amb *hi ha*, que no varia."
+
+  - id: b2-57-002
+    type: choice
+    point: haver-hi-formal
+    lesson: 1
+    prompt: "En un text formal: ahir ___ tres pacients a urgències."
+    answer: "hi havia"
+    distractors:
+      - text: "hi havien"
+        why: "En registre formal, *haver-hi* no concorda. *Hi havien* només s'admet en la parla col·loquial."
+      - text: "hi ha"
+        why: "«Ahir» demana passat: *hi havia*."
+    explanation: "«Ahir» demana imperfet, i en un text formal *haver-hi* no concorda: *hi havia*."
+
+  - id: b2-57-003
+    type: choice
+    point: haver-hi-formal
+    lesson: 1
+    prompt: "L'hivern que ve ___ més casos de grip, segons els experts."
+    answer: "hi haurà"
+    distractors:
+      - text: "hi ha"
+        why: "«L'hivern que ve» és futur, no present: *hi haurà*."
+      - text: "haurà"
+        why: "L'existència s'expressa amb *haver-hi*: sense *hi* la frase no és correcta."
+    explanation: "«L'hivern que ve» és futur: *hi haurà*. L'error típic és oblidar el pronom *hi*."
+
+  - id: b2-57-004
+    type: choice
+    point: caldre
+    lesson: 1
+    prompt: "Per a la campanya ___ més voluntaris."
+    answer: "calen"
+    distractors:
+      - text: "cal"
+        why: "*Cal* és singular; amb «voluntaris» cal el plural *calen*."
+      - text: "necessiten"
+        why: "*Necessitar* necessita un subjecte (qui necessita?). Per a la necessitat impersonal: *calen*."
+    explanation: "«Més voluntaris» és plural: *caldre* concorda amb el subjecte: *calen*."
+
+  - id: b2-57-005
+    type: choice
+    point: caldre
+    lesson: 1
+    prompt: "Per donar sang ___ tenir més de divuit anys."
+    answer: "cal"
+    distractors:
+      - text: "calen"
+        why: "*Calen* demana un subjecte plural; amb un infinitiu, sempre *cal*."
+      - text: "han"
+        why: "*Han* + infinitiu no existeix: l'obligació impersonal és *cal* + infinitiu."
+      - text: "s'ha"
+        why: "*S'ha* demana un participi (*s'ha fet*), no un infinitiu."
+    explanation: "«Tenir» és un infinitiu: amb infinitiu, *caldre* va sempre en singular: *cal*."
+
+  - id: b2-57-006
+    type: choice
+    point: caldre
+    lesson: 1
+    prompt: "L'any que ve ___ més infermeres a l'hospital nou."
+    answer: "caldran"
+    distractors:
+      - text: "caldrà"
+        why: "*Caldrà* és singular; amb «infermeres» cal el plural *caldran*."
+      - text: "calen"
+        why: "«L'any que ve» és futur, no present: *caldran*."
+    explanation: "«Més infermeres» és plural i «l'any que ve» és futur: *caldran*."
+
+  - id: b2-57-007
+    type: match
+    point: haver-hi-formal
+    lesson: 1
+    instruction: "Relaciona cada forma amb el seu temps verbal."
+    pairs:
+      - ["hi ha", "present"]
+      - ["hi havia", "passat (imperfet)"]
+      - ["hi ha hagut", "passat (perfet)"]
+      - ["hi haurà", "futur"]
+      - ["hi hauria", "condicional"]
+    explanation: "*Haver-hi* no concorda mai: *hi ha* (present), *hi havia* i *hi ha hagut* (passat), *hi haurà* (futur), *hi hauria* (condicional)."
+
+  - id: b2-57-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["no cal dir", "és evident"]
+      - ["tant com calgui", "tot el temps que faci falta"]
+      - ["si cal", "si és necessari"]
+      - ["no cal", "no fa falta"]
+    explanation: "Són expressions amb *caldre*: *no cal dir*, *tant com calgui*, *si cal* i *no cal*."
+
+  - id: b2-57-009
+    type: inline-choice
+    point: haver-hi-formal
+    lesson: 1
+    title: "Informe del CAP (text formal)"
+    text: "El mes passat {hi va haver|hi van haver} un brot de grip al barri. A urgències {hi havia|hi havien} cada dia més de vint pacients, i també {hi ha hagut|hi han hagut} moltes consultes per telèfon. Aquest mes {hi ha|hi han} menys casos nous."
+    explanation: "En registre formal, *haver-hi* no concorda mai: *hi va haver*, *hi havia*, *hi ha hagut*, *hi ha*. Les formes en plural només s'admeten en la parla col·loquial."
+
+  - id: b2-57-010
+    type: fill
+    point: haver-hi-formal
+    lesson: 1
+    prompt: "En registre formal: abans ___ un hospital petit a cada poble."
+    hint: "*haver-hi*, imperfet"
+    answers: ["hi havia"]
+    wrong_answers:
+      - text: "hi havien"
+        why: "En registre formal, *haver-hi* és invariable: *hi havia*."
+      - text: "hi ha"
+        why: "«Abans» demana passat: *hi havia*."
+    grading: tolerant
+    explanation: "«Abans» demana imperfet: *hi havia*. En registre formal, *haver-hi* no concorda mai."
+
+  - id: b2-57-011
+    type: fill
+    point: caldre
+    lesson: 1
+    prompt: "Per a l'operació ___ dos cirurgians i una anestesista."
+    hint: "*caldre*, present"
+    answers: ["calen"]
+    wrong_answers:
+      - text: "cal"
+        why: "*Cal* és singular; amb un subjecte plural cal *calen*."
+      - text: "necessiten"
+        why: "Sense subjecte, *necessiten* no té sentit. La necessitat impersonal és *calen*."
+    grading: tolerant
+    explanation: "«Dos cirurgians i una anestesista» és un subjecte plural: *calen*."
+
+  - id: b2-57-012
+    type: order
+    point: haver-hi-formal
+    lesson: 1
+    cue: "En registre formal: el poble té un hospital nou."
+    chunks: ["Hi", "ha", "un", "hospital", "nou", "al", "poble"]
+    extra: ["han"]
+    answers:
+      - "Hi ha un hospital nou al poble."
+      - "Al poble hi ha un hospital nou."
+    explanation: "En registre formal, *haver-hi* no concorda: *hi ha*."
+
+  - id: b2-57-013
+    type: choice
+    point: caldre
+    lesson: 1
+    prompt: "Quan hi ha febre, ___ beure molta aigua."
+    answer: "cal"
+    distractors:
+      - text: "calen"
+        why: "*Calen* demana un subjecte plural; amb un infinitiu, sempre *cal*."
+      - text: "té que"
+        why: "*Tenir que* és un calc de «tener que»; la necessitat impersonal és *cal*."
+    explanation: "«Beure» és un infinitiu: amb infinitiu, *caldre* va sempre en singular: *cal*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-57-014
+    type: fill
+    point: haver-hi-formal
+    lesson: 2
+    prompt: "En registre formal: aquest hivern ___ molts ingressos per la grip."
+    hint: "*haver-hi*, perfet"
+    answers: ["hi ha hagut"]
+    wrong_answers:
+      - text: "hi han hagut"
+        why: "En registre formal, *haver-hi* no concorda: *hi ha hagut*."
+      - text: "hi havia hagut"
+        why: "El plusquamperfet és per a un passat anterior a un altre passat; aquí cal el perfet."
+    grading: tolerant
+    explanation: "«Aquest hivern» és un període no acabat: perfet, *hi ha hagut*. En registre formal, invariable."
+
+  - id: b2-57-015
+    type: fill
+    point: haver-hi-formal
+    lesson: 2
+    prompt: "De llits lliures, avui ___ quatre a la tercera planta."
+    hint: "*haver-hi* amb el pronom *en*"
+    answers: ["n'hi ha"]
+    wrong_answers:
+      - text: "hi ha"
+        why: "Amb «de llits lliures» cal reprendre el complement amb *en*: *n'hi ha*."
+      - text: "en hi ha"
+        why: "L'ordre és *n'hi ha*: *en hi ha* no existeix."
+    grading: tolerant
+    explanation: "«De llits lliures» es reprèn amb el pronom *en*: *n'hi ha*."
+
+  - id: b2-57-016
+    type: fill
+    point: caldre
+    lesson: 2
+    prompt: "Abans ___ demanar hora per telèfon; ara es fa per internet."
+    hint: "*caldre*, imperfet"
+    answers: ["calia"]
+    wrong_answers:
+      - text: "calien"
+        why: "*Calien* demana un subjecte plural; amb un infinitiu, sempre singular: *calia*."
+      - text: "cal"
+        why: "«Abans» demana passat: *calia*."
+    grading: tolerant
+    explanation: "«Abans» demana imperfet, i «demanar» és un infinitiu: *calia*."
+
+  - id: b2-57-017
+    type: fill
+    point: caldre
+    lesson: 2
+    prompt: "Si el barri fos més gran, ___ més metges de família."
+    hint: "*caldre*, condicional"
+    answers: ["caldrien"]
+    wrong_answers:
+      - text: "caldria"
+        why: "*Caldria* és singular; amb «metges» cal el plural *caldrien*."
+      - text: "calen"
+        why: "Darrere de «si fos» cal el condicional, no el present: *caldrien*."
+    grading: tolerant
+    explanation: "«Si fos» planteja una hipòtesi: condicional. I «més metges» és plural: *caldrien*."
+
+  - id: b2-57-018
+    type: order
+    point: haver-hi-formal
+    lesson: 2
+    cue: "En registre formal: ahir a la tarda, tres pacients a urgències."
+    chunks: ["Ahir", "hi", "havia", "tres", "pacients", "a", "urgències"]
+    extra: ["havien"]
+    answers:
+      - "Ahir hi havia tres pacients a urgències."
+      - "Hi havia tres pacients a urgències ahir."
+    explanation: "En registre formal, *haver-hi* no concorda: *hi havia*, encara que hi hagi tres pacients."
+
+  - id: b2-57-019
+    type: order
+    point: caldre
+    lesson: 2
+    cue: "Digues que per a aquest tractament fan falta dues receptes."
+    chunks: ["Calen", "dues", "receptes", "per", "a", "aquest", "tractament"]
+    extra: ["Cal"]
+    answers:
+      - "Calen dues receptes per a aquest tractament."
+      - "Per a aquest tractament calen dues receptes."
+    explanation: "«Dues receptes» és plural: *calen*. L'ordre pot canviar, però la concordança no."
+
+  - id: b2-57-020
+    type: choice
+    point: haver-hi-formal
+    lesson: 2
+    prompt: "Sense l'ambulància, ___ un problema greu."
+    answer: "hi hauria"
+    distractors:
+      - text: "hi haurà"
+        why: "No és un futur segur, sinó una hipòtesi: *hi hauria*."
+      - text: "hi ha"
+        why: "El present no expressa la hipòtesi de «sense l'ambulància»: *hi hauria*."
+      - text: "hi hagués"
+        why: "*Hi hagués* és subjuntiu; en l'oració principal cal el condicional *hi hauria*."
+    explanation: "«Sense l'ambulància» planteja una hipòtesi: condicional, *hi hauria*."
+
+  - id: b2-57-021
+    type: choice
+    point: caldre
+    lesson: 2
+    prompt: "___ dues persones per portar la llitera."
+    answer: "Calen"
+    distractors:
+      - text: "Cal"
+        why: "*Cal* és singular; amb «dues persones» cal *calen*."
+      - text: "Necessiten"
+        why: "Sense subjecte, *necessiten* no té sentit: la necessitat impersonal és *calen*."
+    explanation: "«Dues persones» és plural: *caldre* concorda amb el subjecte: *calen*."
+
+  - id: b2-57-022
+    type: choice
+    point: caldre
+    lesson: 2
+    prompt: "Per visitar un pacient ingressat ___ demanar permís a recepció."
+    answer: "cal"
+    distractors:
+      - text: "calen"
+        why: "*Calen* demana un subjecte plural; amb un infinitiu, sempre *cal*."
+      - text: "han"
+        why: "*Han* + infinitiu no existeix: l'obligació impersonal és *cal* + infinitiu."
+      - text: "té que"
+        why: "*Tenir que* és un calc de «tener que»; aquí cal l'impersonal *cal*."
+    explanation: "«Demanar» és un infinitiu: amb infinitiu, *caldre* va sempre en singular: *cal*."
+
+  - id: b2-57-023
+    type: inline-choice
+    point: caldre
+    lesson: 2
+    title: "Avís del centre de salut"
+    text: "Atenció, usuaris: per demanar hora {cal|calen} trucar abans de les vuit. Per a les analítiques {calen|cal} dues mostres de sang. Si teniu febre, {cal|calen} que aviseu per telèfon. L'any que ve {caldran|caldrà} més infermeres al torn de nit."
+    explanation: "«Trucar» és un infinitiu: *cal*. «Dues mostres» és plural: *calen*. «Que aviseu» demana *cal que*. «Més infermeres» en futur: *caldran*."
+
+  - id: b2-57-024
+    type: fill
+    point: haver-hi-formal
+    lesson: 2
+    prompt: "En registre formal: cal que ___ un metge de guàrdia a l'hospital."
+    hint: "*haver-hi*, present de subjuntiu"
+    answers: ["hi hagi"]
+    wrong_answers:
+      - text: "hi ha"
+        why: "«Cal que» demana subjuntiu, no indicatiu: *hi hagi*."
+      - text: "hi hagin"
+        why: "En registre formal, *haver-hi* no concorda ni en subjuntiu: *hi hagi*."
+    grading: tolerant
+    explanation: "«Cal que» demana subjuntiu: *hi hagi*. En registre formal, invariable."
+
+  - id: b2-57-025
+    type: choice
+    point: haver-hi-formal
+    lesson: 2
+    prompt: "En un text formal, quina frase és correcta?"
+    answer: "Ahir hi havia tres casos nous al barri."
+    distractors:
+      - text: "Ahir hi havien tres casos nous al barri."
+        why: "En registre formal, *haver-hi* no concorda: *hi havia*."
+      - text: "Ahir hi ha tres casos nous al barri."
+        why: "«Ahir» demana passat: *hi havia*."
+    explanation: "«Ahir» demana imperfet, i en un text formal *haver-hi* no concorda: *hi havia*."
+
+  - id: b2-57-026
+    type: fill
+    point: caldre
+    lesson: 2
+    prompt: "L'any que ve ___ més llits a l'UCI nova."
+    hint: "*caldre*, futur"
+    answers: ["caldran"]
+    wrong_answers:
+      - text: "caldrà"
+        why: "*Caldrà* és singular; amb «llits» cal el plural *caldran*."
+      - text: "calen"
+        why: "«L'any que ve» és futur, no present: *caldran*."
+    grading: tolerant
+    explanation: "«Més llits» és plural i «l'any que ve» és futur: *caldran*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-57-027
+    type: choice
+    point: impersonals-meteo
+    lesson: 3
+    prompt: "Aquest matí ___ i les carreteres són cobertes de neu."
+    answer: "ha nevat"
+    distractors:
+      - text: "ha plogut"
+        why: "La pluja no cobreix de neu: amb «neu», *ha nevat*."
+      - text: "ha pedregat"
+        why: "La pedra no és neu: *ha nevat*."
+      - text: "ha glaçat"
+        why: "El gel no cobreix de «neu»: *ha nevat*."
+    explanation: "«Cobertes de neu» indica neu, no pluja, pedra ni gel: *ha nevat*."
+
+  - id: b2-57-028
+    type: fill
+    point: impersonals-meteo
+    lesson: 3
+    prompt: "A l'estiu, a Lleida ___ molta calor."
+    hint: "*fer*, present"
+    answers: ["fa"]
+    wrong_answers:
+      - text: "està"
+        why: "*Està molta calor* no és correcte: la calor s'expressa amb *fer*."
+      - text: "té"
+        why: "«Lleida» no pot tenir calor: el temps s'expressa amb *fer*."
+    grading: tolerant
+    explanation: "La calor s'expressa amb *fer*: *fa molta calor*."
+
+  - id: b2-57-029
+    type: fill
+    point: impersonals-meteo
+    lesson: 3
+    prompt: "Ahir a la nit ___ molt i avui els carrers són blancs."
+    hint: "*nevar*, passat perifràstic"
+    answers: ["va nevar"]
+    wrong_answers:
+      - text: "va ploure"
+        why: "Els carrers blancs són de neu, no de pluja: *va nevar*."
+      - text: "ha nevat"
+        why: "Amb «ahir» no es fa servir el perfet: *va nevar*."
+    grading: tolerant
+    explanation: "«Ahir a la nit» és un passat acabat: perifràstic, *va nevar*. I els carrers blancs són de neu."
+
+  - id: b2-57-030
+    type: fill
+    point: participi-concordanca
+    lesson: 3
+    prompt: "Les pacients han estat ___ de seguida."
+    hint: "ATENDRE, participi"
+    answers: ["ateses"]
+    wrong_answers:
+      - text: "atesos"
+        why: "«Les pacients» és femení: *ateses*."
+      - text: "atès"
+        why: "«Les pacients» és plural: *ateses*."
+    grading: tolerant
+    explanation: "Amb *ser* (*han estat*), el participi concorda amb el subjecte: «les pacients» → *ateses*."
+
+  - id: b2-57-031
+    type: choice
+    point: participi-concordanca
+    lesson: 3
+    prompt: "Hem ___ els pacients per ordre d'arribada."
+    answer: "vacunat"
+    distractors:
+      - text: "vacunats"
+        why: "Amb *haver*, el participi no concorda amb l'objecte que va darrere: *vacunat*."
+      - text: "vacunades"
+        why: "Amb *haver*, el participi és invariable quan l'objecte va darrere: *vacunat*."
+    explanation: "Amb *haver* i l'objecte darrere («els pacients»), el participi no concorda: *vacunat*."
+
+  - id: b2-57-032
+    type: choice
+    point: participi-concordanca
+    lesson: 3
+    prompt: "Les cirurgianes han ___ tot el matí al quiròfan."
+    answer: "operat"
+    distractors:
+      - text: "operades"
+        why: "Amb *haver*, el participi no concorda amb el subjecte: *operat*."
+      - text: "operats"
+        why: "Amb *haver*, el participi és invariable: *operat*."
+    explanation: "Amb *haver*, el participi no concorda mai amb el subjecte: *operat*."
+
+  - id: b2-57-033
+    type: find-error
+    point: compte-cal
+    lesson: 3
+    sentence: "A urgències cal més infermeres de guàrdia."
+    error: "cal més infermeres"
+    fix: "calen més infermeres"
+    fix_distractors:
+      - text: "cal més infermera"
+        why: "«Infermera» és comptable: cal el plural *infermeres* i el verb *calen*."
+      - text: "calen més infermera"
+        why: "*Calen* demana un subjecte plural: *infermeres*."
+    explanation: "*Caldre* concorda: amb «infermeres» cal el plural *calen*. Fer servir *cal* per a tot és un calc de «hay que»."
+
+  - id: b2-57-034
+    type: find-error
+    point: compte-cal
+    lesson: 3
+    sentence: "Per entrar calen portar la targeta sanitària."
+    error: "calen portar"
+    fix: "cal portar"
+    fix_distractors:
+      - text: "calen dur"
+        why: "*Calen* no concorda amb un infinitiu: *cal portar*."
+      - text: "cal portar-la"
+        why: "«La targeta» ja hi és: no es pot repetir amb *la*."
+    explanation: "Amb un infinitiu («portar»), *caldre* va sempre en singular: *cal portar*."
+
+  - id: b2-57-035
+    type: find-error
+    point: compte-cal
+    lesson: 3
+    sentence: "Per a aquest tractament calen dues visites al mes."
+    no_error: true
+    explanation: "La frase és correcta: «dues visites» és plural i *calen* hi concorda."
+
+  - id: b2-57-036
+    type: choice
+    point: compte-cal
+    lesson: 3
+    prompt: "___ voluntaris per a la campanya de vacunació."
+    answer: "Calen"
+    distractors:
+      - text: "Cal"
+        why: "*Cal* és singular; amb «voluntaris» cal *calen*."
+      - text: "Caldria"
+        why: "Amb «voluntaris» (plural), el singular *caldria* no concorda."
+      - text: "Necessita"
+        why: "Sense subjecte, *necessita* no té sentit: *calen*."
+    explanation: "«Voluntaris» és plural: *calen*. Fer servir *cal* per a tot és un calc de «hay que»."
+
+  - id: b2-57-037
+    type: choice
+    point: participi-concordanca
+    lesson: 3
+    prompt: "Les mostres han estat ___ al laboratori aquest matí."
+    answer: "analitzades"
+    distractors:
+      - text: "analitzat"
+        why: "Amb *ser* (*han estat*), el participi concorda: *analitzades*."
+      - text: "analitzats"
+        why: "«Les mostres» és femení: *analitzades*."
+    explanation: "Amb *ser* (*han estat*), el participi concorda amb el subjecte: «les mostres» → *analitzades*."
+
+  - id: b2-57-038
+    type: inline-choice
+    point: impersonals-meteo
+    lesson: 3
+    title: "Previsió del cap de setmana"
+    text: "Dissabte {farà|fa} sol a tot el país, amb temperatures suaus. Diumenge al matí {plourà|plorarà} a la costa i {nevarà|neva} al Pirineu. Demà de matinada {glaçarà|glaça} a l'interior."
+    explanation: "Tot passa el cap de setmana que ve: futur. *Ploure* fa *plourà*, amb *u*: *plorarà* és de *plorar*."
+
+  - id: b2-57-039
+    type: order
+    point: participi-concordanca
+    lesson: 3
+    cue: "Digues que han atès les pacients de seguida."
+    chunks: ["Les", "pacients", "han", "estat", "ateses", "de", "seguida"]
+    extra: ["atesos"]
+    answers:
+      - "Les pacients han estat ateses de seguida."
+      - "De seguida les pacients han estat ateses."
+    explanation: "Amb *ser* (*han estat*), el participi concorda amb el subjecte: «les pacients» → *ateses*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-57-040
+    type: transform
+    point: haver-hi-formal
+    lesson: 4
+    instruction: "Passa la frase al futur (registre formal)."
+    source: "Aquest hivern [[hi ha]] molts casos de grip."
+    answers: ["Aquest hivern hi haurà molts casos de grip.", "Hi haurà molts casos de grip aquest hivern."]
+    wrong_answers:
+      - text: "Aquest hivern haurà molts casos de grip."
+        why: "Sense *hi* no hi ha existència: *hi haurà*."
+      - text: "Aquest hivern hi hauria molts casos de grip."
+        why: "No hi ha cap hipòtesi: amb futur, *hi haurà*."
+    grading: tolerant
+    explanation: "«Aquest hivern» indica el futur: *hi haurà*. En registre formal, invariable."
+
+  - id: b2-57-041
+    type: transform
+    point: caldre
+    lesson: 4
+    instruction: "Reescriu la frase en plural: tres coordinadors."
+    source: "Per a la campanya [[cal]] un coordinador."
+    answers: ["Per a la campanya calen tres coordinadors.", "Calen tres coordinadors per a la campanya."]
+    wrong_answers:
+      - text: "Per a la campanya cal tres coordinadors."
+        why: "*Cal* és singular; amb «tres coordinadors» cal *calen*."
+      - text: "Per a la campanya calen un coordinador."
+        why: "*Calen* demana un subjecte plural: *tres coordinadors*."
+    grading: tolerant
+    explanation: "«Tres coordinadors» és plural: *caldre* concorda amb el subjecte: *calen*."
+
+  - id: b2-57-042
+    type: transform
+    point: participi-concordanca
+    lesson: 4
+    instruction: "Passa la frase al femení plural: les pacients."
+    source: "Els pacients han estat [[atesos]] de seguida."
+    answers: ["Les pacients han estat ateses de seguida.", "De seguida les pacients han estat ateses."]
+    wrong_answers:
+      - text: "Les pacients han estat atesos de seguida."
+        why: "«Les pacients» és femení: *ateses*."
+      - text: "Les pacients han estat atesa de seguida."
+        why: "«Les pacients» és plural: *ateses*."
+    grading: tolerant
+    explanation: "«Les pacients» és femení plural i amb *ser* el participi concorda: *ateses*."
+
+  - id: b2-57-043
+    type: transform
+    point: impersonals-meteo
+    lesson: 4
+    instruction: "Passa la frase a demà (futur)."
+    source: "[[Ahir va ploure]] tot el dia."
+    answers: ["Demà plourà tot el dia."]
+    wrong_answers:
+      - text: "Demà plouerà tot el dia."
+        why: "*Ploure* fa el futur *plourà*, sense *e*."
+      - text: "Demà plorarà tot el dia."
+        why: "*Plorarà* és de *plorar*; la pluja és *ploure*: *plourà*."
+    grading: tolerant
+    explanation: "«Demà» és futur: *ploure* fa *plourà*."
+
+  - id: b2-57-044
+    type: transform
+    point: compte-cal
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Per obrir el centre nou [[cal]] dues recepcionistes."
+    answers: ["Per obrir el centre nou calen dues recepcionistes.", "Calen dues recepcionistes per obrir el centre nou."]
+    wrong_answers:
+      - text: "Per obrir el centre nou cal dues recepcionistes."
+        why: "*Cal* és singular; amb «dues recepcionistes» cal *calen*."
+      - text: "Per obrir el centre nou calen una recepcionista."
+        why: "*Calen* demana un subjecte plural: *dues recepcionistes*."
+    grading: tolerant
+    explanation: "«Dues recepcionistes» és plural: *calen*. Fer servir *cal* per a tot és un calc de «hay que»."
+
+  - id: b2-57-045
+    type: fill
+    point: participi-concordanca
+    lesson: 4
+    prompt: "Hem ___ les receptes al sistema aquest matí."
+    hint: "ENTRAR, participi"
+    answers: ["entrat"]
+    wrong_answers:
+      - text: "entrades"
+        why: "Amb *haver*, el participi no concorda amb l'objecte que va darrere: *entrat*."
+      - text: "entrats"
+        why: "Amb *haver*, el participi és invariable quan l'objecte va darrere: *entrat*."
+    grading: tolerant
+    explanation: "Amb *haver* i l'objecte darrere («les receptes»), el participi no concorda: *entrat*."
+
+  - id: b2-57-046
+    type: fill
+    point: caldre
+    lesson: 4
+    prompt: "Si no plou, no ___ regar el jardí de l'hospital."
+    hint: "*caldre*, present"
+    answers: ["cal"]
+    wrong_answers:
+      - text: "calen"
+        why: "*Calen* demana un subjecte plural; amb un infinitiu, sempre *cal*."
+      - text: "s'ha"
+        why: "*S'ha* demana un participi (*s'ha fet*); amb infinitiu, *cal*."
+    grading: tolerant
+    explanation: "«Regar» és un infinitiu: amb infinitiu, *caldre* va sempre en singular: *cal*."
+
+  - id: b2-57-047
+    type: fill
+    point: haver-hi-formal
+    lesson: 4
+    prompt: "En registre formal: segons l'informe, l'any passat ___ menys llistes d'espera."
+    hint: "*haver-hi*, imperfet"
+    answers: ["hi havia"]
+    wrong_answers:
+      - text: "hi havien"
+        why: "En registre formal, *haver-hi* no concorda: *hi havia*."
+      - text: "hi ha"
+        why: "«L'any passat» demana passat: *hi havia*."
+    grading: tolerant
+    explanation: "«L'any passat» demana imperfet, i l'informe és formal: *hi havia*, invariable."
+
+  - id: b2-57-048
+    type: order
+    point: haver-hi-formal
+    lesson: 4
+    cue: "En registre formal: una dosi és suficient."
+    chunks: ["N'hi", "ha", "prou", "amb", "una", "dosi"]
+    extra: ["han"]
+    answers:
+      - "N'hi ha prou amb una dosi."
+      - "Amb una dosi n'hi ha prou."
+    explanation: "«Una dosi» es reprèn amb *en*: *n'hi ha prou*. En registre formal, *haver-hi* no concorda."
+
+  - id: b2-57-049
+    type: order
+    point: impersonals-meteo
+    lesson: 4
+    cue: "Digues que demà hi haurà pluja a tot el país."
+    chunks: ["Demà", "plourà", "a", "tot", "el", "país"]
+    extra: ["plorarà"]
+    answers:
+      - "Demà plourà a tot el país."
+      - "A tot el país plourà demà."
+    explanation: "«Demà» és futur: *ploure* fa *plourà*. *Plorarà* és de *plorar*."
+
+  - id: b2-57-050
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "—Quant de temps m'esperes? —___, no tinc pressa."
+    answer: "Tant com calgui"
+    distractors:
+      - text: "Si cal"
+        why: "*Si cal* és una condició, no una durada."
+      - text: "No cal dir"
+        why: "*No cal dir* vol dir que és evident; aquí cal una durada."
+      - text: "Tant com calguin"
+        why: "Sense un subjecte plural, la forma és *calgui*."
+    explanation: "«Quant de temps» demana una durada: *tant com calgui*, tot el temps necessari."
+
+  - id: b2-57-051
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Què vol dir «No cal dir que la Montse vindrà»?"
+    answer: "És evident que la Montse vindrà."
+    distractors:
+      - text: "No és permès dir que la Montse vindrà."
+        why: "L'expressió no prohibeix res: diu que és evident."
+      - text: "La Montse no ha de dir res."
+        why: "L'expressió no parla de callar, sinó d'una cosa evident."
+      - text: "La Montse vindrà sense dir-ho a ningú."
+        why: "L'expressió no parla d'un secret, sinó d'una cosa evident."
+    explanation: "«No cal dir» vol dir que una cosa és evident, que no fa falta dir-la."
+
+  - id: b2-57-052
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "—He de venir demà? —___, ja t'avisarem."
+    hint: "digues «si és necessari» amb *caldre*"
+    answers: ["Si cal"]
+    wrong_answers:
+      - text: "si calen"
+        why: "Sense un subjecte plural, la forma és *si cal*."
+      - text: "si ha"
+        why: "*Si ha* queda incomplet: l'expressió és *si cal*."
+    grading: tolerant
+    explanation: "«Si és necessari» es diu *si cal*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-57-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una setmana de grip al CAP"
+    text: |
+      La setmana passada hi va haver un brot de grip a Vic i el centre de salut va haver de reforçar el servei. Dilluns al matí hi havia més de quaranta pacients a la sala d'espera, i dimarts calien dues metgesses més per atendre tothom. No cal dir que el personal va treballar de valent tota la setmana.
+
+      Segons la doctora Miralles, metgessa de família, calen tres coses per frenar el contagi: rentar-se les mans, ventilar les sales i quedar-se a casa si hi ha febre. La prevenció comença a casa, diu. «Si cal, truqueu al centre abans de venir», afegeix. Les analítiques dels primers pacients ja han estat enviades al laboratori i els resultats confirmen el diagnòstic.
+
+      A la farmàcia de guàrdia també hi ha hagut molta feina: han venut el doble de medicaments per a la tos i la febre. La infermera recorda que per demanar hora cal trucar abans de les vuit, i que amb la targeta sanitària n'hi ha prou per a la primera visita.
+
+      El temps no ha ajudat gens: ha plogut cada dia i a les nits ha glaçat, i els carrers mullats han provocat diverses caigudes. «Diumenge farà sol», anuncia la previsió, «i si tot va bé la setmana que ve caldran menys llits a urgències».
+
+      El brot també ha afectat l'hospital: han ingressat tres pacients grans amb símptomes greus i han hagut d'obrir dues sales noves. També hi ha un pacient greu a l'UCI. Els protocols ja estaven preparats des de la tardor, i el quiròfan funciona amb normalitat perquè les operacions programades no s'han suspès.
+
+      De moment, el centre demana voluntaris per a la campanya de vacunació: tant com calgui, diuen, fins que el brot estigui controlat.
+    questions:
+      - prompt: "Què va passar dilluns al centre de salut?"
+        answer: "La sala d'espera era plena: més de quaranta pacients."
+        distractors:
+          - text: "Van obrir dues sales noves a l'hospital."
+            why: "Això va passar a l'hospital, més tard."
+          - text: "Van vendre el doble de medicaments."
+            why: "Això va passar a la farmàcia de guàrdia."
+      - prompt: "Què cal fer per frenar el contagi, segons la doctora Miralles?"
+        answer: "Higiene de mans, ventilació i quedar-se a casa amb febre."
+        distractors:
+          - text: "Trucar al centre abans de les vuit."
+            why: "Això és per demanar hora, no per frenar el contagi."
+          - text: "Anar a urgències amb la targeta sanitària."
+            why: "Amb febre cal quedar-se a casa, no anar a urgències."
+      - prompt: "Per què el temps no ha ajudat?"
+        answer: "La pluja de cada dia i el gel de nit."
+        distractors:
+          - text: "Ha nevat i els carrers són blancs."
+            why: "El text parla de pluja i gel, no de neu."
+          - text: "Ha fet molta calor tota la setmana."
+            why: "Al contrari: ha plogut i ha glaçat."
+      - prompt: "Què diu el text de la setmana que ve?"
+        answer: "Es preveu menys feina a urgències i bon temps diumenge."
+        distractors:
+          - text: "Caldran dues metgesses més al centre."
+            why: "Això va ser dimarts passat."
+          - text: "Se suspendran les operacions programades."
+            why: "El text diu que no s'han suspès."
+    explanation: "El text explica com un brot de grip ha omplert el CAP de Vic i què cal fer per frenar-lo."
+
+  - id: b2-57-054
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la conversa on es podria fer servir."
+    pairs:
+      - ["si cal", "—Cal que vingui demà? —Només si ve l'inspector."]
+      - ["tant com calgui", "—Quant de temps t'espero? —Fins que surti el metge."]
+      - ["no cal dir", "—Vindràs a veure'm? —És clar que sí."]
+      - ["no cal", "—He de portar alguna cosa? —No, ja ho tenim tot."]
+    explanation: "Cada expressió té el seu ús: *si cal* (condició), *tant com calgui* (durada), *no cal dir* (evidència), *no cal* (no fa falta)."
+
+  - id: b2-57-055
+    type: inline-choice
+    point: participi-concordanca
+    lesson: 5
+    title: "Informe d'urgències"
+    text: "Ahir van arribar dues pacients que han estat {ateses|atesos|atesa} de seguida. Hem {passat|passades|passats} avís al metge de guàrdia i hem {preparat|preparades|preparats} dues sales noves. Les analítiques han estat {enviades|enviat|enviats} al laboratori."
+    explanation: "Amb *ser* (*han estat*), el participi concorda: *ateses*, *enviades*. Amb *haver* i l'objecte darrere, no: *passat*, *preparat*."
+
+  - id: b2-57-056
+    type: find-error
+    point: haver-hi-formal
+    lesson: 5
+    instruction: "Corregeix la frase en registre formal."
+    sentence: "L'informe conclou que hi han hagut pocs contagis."
+    error: "hi han hagut"
+    fix: "hi ha hagut"
+    fix_distractors:
+      - text: "ha hagut"
+        why: "Sense *hi* no hi ha existència: *hi ha hagut*."
+      - text: "hi hagi hagut"
+        why: "*Hi hagi* és subjuntiu; aquí cal l'indicatiu *hi ha hagut*."
+    explanation: "L'informe és formal: *haver-hi* no concorda, ni en perfet: *hi ha hagut*."
+
+  - id: b2-57-057
+    type: find-error
+    point: participi-concordanca
+    lesson: 5
+    sentence: "Els informes han estat signats pel metge de guàrdia."
+    no_error: true
+    explanation: "La frase és correcta: amb *ser* (*han estat*), el participi concorda amb «els informes»: *signats*."
+
+  - id: b2-57-058
+    type: find-error
+    point: compte-cal
+    lesson: 5
+    sentence: "Si calen, truqueu al metge de guàrdia."
+    error: "Si calen"
+    fix: "Si cal"
+    fix_distractors:
+      - text: "Si caldrien"
+        why: "Darrere de *si* no hi va mai el condicional."
+      - text: "Quan calen"
+        why: "*Calen* necessita un subjecte plural; aquí no n'hi ha cap."
+    explanation: "Sense un subjecte plural, la forma és *si cal*."
+
+  - id: b2-57-059
+    type: choice
+    point: haver-hi-formal
+    lesson: 5
+    prompt: "—Quantes farmàcies de guàrdia hi ha? —___ dues al centre."
+    answer: "N'hi ha"
+    distractors:
+      - text: "Hi ha"
+        why: "Amb «quantes farmàcies» cal reprendre el complement amb *en*: *n'hi ha*."
+      - text: "En hi ha"
+        why: "L'ordre és *n'hi ha*: *en hi ha* no existeix."
+    explanation: "«Quantes farmàcies» es reprèn amb el pronom *en*: *n'hi ha*."
+
+  - id: b2-57-060
+    type: choice
+    point: participi-concordanca
+    lesson: 5
+    prompt: "Aquest matí hem ___ tres pacients nous a la tercera planta."
+    answer: "ingressat"
+    distractors:
+      - text: "ingressats"
+        why: "Amb *haver*, el participi no concorda amb l'objecte que va darrere: *ingressat*."
+      - text: "ingressades"
+        why: "Amb *haver*, el participi és invariable quan l'objecte va darrere: *ingressat*."
+    explanation: "Amb *haver* i l'objecte darrere («tres pacients»), el participi no concorda: *ingressat*."
+
+  - id: b2-57-061
+    type: choice
+    point: impersonals-meteo
+    lesson: 5
+    prompt: "Aquest matí ___ i les fulles dels arbres es mouen."
+    answer: "fa vent"
+    distractors:
+      - text: "està vent"
+        why: "*Està vent* no és correcte: el vent s'expressa amb *fer*: *fa vent*."
+      - text: "té vent"
+        why: "La frase no té subjecte: *té* necessita algú que té alguna cosa."
+    explanation: "El vent s'expressa amb *fer*: *fa vent*. «Les fulles es mouen» ho confirma."
+
+  - id: b2-57-062
+    type: fill
+    point: impersonals-meteo
+    lesson: 5
+    prompt: "Aquesta nit ___ i demà hi haurà glaç a les carreteres."
+    hint: "*glaçar*, futur"
+    answers: ["glaçarà"]
+    wrong_answers:
+      - text: "glaça"
+        why: "«Demà» és futur, no present: *glaçarà*."
+      - text: "nevarà"
+        why: "La neu no és el «glaç»: *glaçarà*."
+    grading: tolerant
+    explanation: "«Demà» i «glaç» demanen el futur de *glaçar*: *glaçarà*."
+
+  - id: b2-57-063
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Reescriu la frase amb l'expressió «no cal dir»."
+    source: "[[És evident que]] vindran molts pacients."
+    answers: ["No cal dir que vindran molts pacients."]
+    wrong_answers:
+      - text: "No cal dir-ne que vindran molts pacients."
+        why: "Aquí no hi ha res a reprendre amb *en*: *no cal dir que*."
+      - text: "No cal a dir que vindran molts pacients."
+        why: "L'expressió és *no cal dir*, sense *a*."
+    grading: tolerant
+    explanation: "«És evident que» es diu *no cal dir que*."
+
+  - id: b2-57-064
+    type: choice
+    point: caldre
+    lesson: 5
+    prompt: "___ que portis la targeta sanitària."
+    answer: "Cal"
+    distractors:
+      - text: "Calen"
+        why: "*Calen que* no existeix: *cal que*."
+      - text: "Hi ha"
+        why: "*Hi ha que* és un calc de «hay que». En català: *cal que* + subjuntiu."
+      - text: "Té que"
+        why: "*Tenir que* és un calc de «tener que»: *cal que*."
+    explanation: "«Que portis» demana *cal que* + subjuntiu."
+
+  - id: b2-57-065
+    type: fill
+    point: participi-concordanca
+    lesson: 5
+    prompt: "Els nous protocols han estat ___ per tot el personal."
+    hint: "ACCEPTAR, participi"
+    answers: ["acceptats"]
+    wrong_answers:
+      - text: "acceptat"
+        why: "Amb *ser* (*han estat*), el participi concorda: *acceptats*."
+      - text: "acceptades"
+        why: "«Els protocols» és masculí: *acceptats*."
+    grading: tolerant
+    explanation: "Amb *ser* (*han estat*), el participi concorda amb «els protocols»: *acceptats*."

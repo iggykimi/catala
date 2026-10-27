@@ -1,0 +1,997 @@
+id: b1-23
+level: B1
+title: "Imperfet de subjuntiu i condicionals"
+summary: "Aprens les formes de l'imperfet de subjuntiu (*tingués*, *fos*, *anés*) i les frases condicionals (*Si tingués temps, hi aniria*)."
+vocabulary_theme: "Somnis, hipòtesis i diners"
+points:
+  - id: formes-subjuntiu
+    title: "L'imperfet de subjuntiu: *tingués*, *fos*, *anés*"
+    refs:
+      - label: "GEIEC: El subjuntiu"
+        url: "https://geiec.iec.cat"
+  - id: condicionals-si
+    title: "*Si* + imperfet de subjuntiu + condicional"
+    refs:
+      - label: "GEIEC: Les oracions condicionals"
+        url: "https://geiec.iec.cat"
+  - id: desitjos-consells
+    title: "Desitjos i consells irreals"
+    refs:
+      - label: "GEIEC: El subjuntiu"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *si tindria*"
+  - id: expressions
+    title: "Expressions per parlar de somnis"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: formes i hipòtesis"
+  - title: "Practicar: formes i condicionals"
+  - title: "Desitjos, consells i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el somni"
+    definition: "Cosa que imaginem mentre dormim o que volem aconseguir."
+    example: "El meu somni és viure un any a l'estranger."
+  - word: "el desig"
+    definition: "Ganes de tenir una cosa."
+    example: "El seu desig és tenir una casa amb jardí."
+  - word: "la hipòtesi"
+    definition: "Idea que imaginem per pensar què passaria."
+    example: "Fem una hipòtesi: i si guanyem la loteria?"
+  - word: "el supòsit"
+    definition: "Situació imaginada, que potser no és real."
+    example: "En aquest supòsit, caldrien dos cotxes."
+  - word: "el premi"
+    definition: "Diners o regal que guanya algú."
+    example: "El primer premi és un viatge al Carib."
+  - word: "la loteria"
+    definition: "Joc on es guanyen diners per sort."
+    example: "Cada Nadal comprem loteria amb la família."
+  - word: "el dècim"
+    definition: "Bitllet de loteria que és la desena part d'un número."
+    example: "Hem comprat un dècim del número del barri."
+  - word: "l'herència"
+    definition: "Diners o béns que rebem d'un familiar que s'ha mort."
+    example: "Amb l'herència de l'àvia van pagar l'entrada del pis."
+  - word: "l'estalvi"
+    definition: "Diners que guardem per al futur."
+    example: "Cada mes posem cent euros a l'estalvi."
+  - word: "el deute"
+    definition: "Diners que devem a algú."
+    example: "Encara té un deute amb el banc."
+  - word: "la hipoteca"
+    definition: "Préstec gran per comprar una casa, que es torna a poc a poc."
+    example: "Paguen mil euros d'hipoteca cada mes."
+  - word: "el lloguer"
+    definition: "Diners que paguem cada mes per viure en un pis que no és nostre."
+    example: "El lloguer a Barcelona és caríssim."
+  - word: "el sou"
+    definition: "Diners que guanyem cada mes amb la feina."
+    example: "Amb aquest sou no pot estalviar gens."
+  - word: "la beca"
+    definition: "Diners que rep un estudiant per estudiar."
+    example: "Va aconseguir una beca per estudiar a Lió."
+  - word: "el préstec"
+    definition: "Diners que el banc ens deixa i que hem de tornar."
+    example: "Van demanar un préstec per obrir la botiga."
+  - word: "el bitllet"
+    definition: "Paper que serveix per viatjar o per entrar en un lloc."
+    example: "Hem comprat dos bitllets per a Roma."
+  - word: "el viatge"
+    definition: "Desplaçament llarg per plaer o per feina."
+    example: "Somien fer un viatge al Japó."
+  - word: "l'illa"
+    definition: "Terra petita envoltada d'aigua."
+    example: "Somia viure en una illa del Mediterrani."
+  - word: "la masia"
+    definition: "Casa gran de pagès, típica del camp català."
+    example: "Si fossin rics, comprarien una masia al Penedès."
+  - word: "el negoci"
+    definition: "Activitat per guanyar diners, com una botiga o un taller."
+    example: "Vol obrir un negoci de bicicletes."
+  - word: "la jubilació"
+    definition: "Etapa de la vida quan ja no es treballa."
+    example: "Pensa en la jubilació: vol viure a prop del mar."
+  - word: "jubilar-se"
+    definition: "Deixar de treballar per l'edat."
+    example: "Es jubilarà l'any que ve."
+  - word: "estalviar"
+    definition: "Guardar diners per al futur."
+    example: "Si estalviés una mica, podria viatjar."
+  - word: "gastar"
+    definition: "Fer servir diners per comprar coses."
+    example: "Gasta molt en restaurants."
+  - word: "tocar"
+    definition: "Aconseguir un premi de la loteria per sort."
+    example: "Diuen que li va tocar la loteria."
+  - word: "guanyar"
+    definition: "Aconseguir diners o un premi."
+    example: "Si guanyés el premi, deixaria la feina."
+  - word: "apostar"
+    definition: "Jugar diners a un resultat incert."
+    example: "No aposta mai: diu que és llençar els diners."
+  - word: "imaginar-se"
+    definition: "Pensar una cosa que no és real."
+    example: "Imagina't que tens un milió d'euros!"
+  - word: "somiar"
+    definition: "Veure imatges mentre dormim, o desitjar molt una cosa."
+    example: "Somia que té una casa al mar."
+  - word: "desitjar"
+    definition: "Voler molt una cosa."
+    example: "Desitja tenir més temps lliure."
+  - word: "la sort"
+    definition: "Fet que passin coses bones sense buscar-les."
+    example: "Va tenir sort: li va tocar un viatge."
+  - word: "la fortuna"
+    definition: "Molts diners."
+    example: "Diuen que té una fortuna, però viu en un pis petit."
+  - word: "el compte"
+    definition: "Diners que tenim al banc."
+    example: "Mira el compte cada setmana."
+  - word: "la volta al món"
+    definition: "Viatge que passa per molts països."
+    example: "El seu somni és fer la volta al món."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-23-001
+    type: choice
+    point: formes-subjuntiu
+    lesson: 1
+    prompt: "Si ___ prou diners, faria la volta al món."
+    answer: "tingués"
+    distractors:
+      - text: "tindria"
+        why: "En una condició, darrere de *si* no va el condicional: va l'imperfet de subjuntiu, *tingués*."
+      - text: "tingui"
+        why: "*Tingui* és present de subjuntiu. En una hipòtesi amb *si* va l'imperfet: *tingués*."
+    explanation: "En una hipòtesi amb *si*, *tenir* (jo) fa *tingués*."
+
+  - id: b1-23-002
+    type: choice
+    point: formes-subjuntiu
+    lesson: 1
+    prompt: "Si ___ ric, no treballaria més."
+    answer: "fos"
+    distractors:
+      - text: "seria"
+        why: "*Seria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *fos*."
+      - text: "sigui"
+        why: "*Sigui* és present de subjuntiu. En una condició amb *si* va l'imperfet: *fos*."
+    explanation: "*Ser* és irregular: en imperfet de subjuntiu (jo) fa *fos*."
+
+  - id: b1-23-003
+    type: choice
+    point: formes-subjuntiu
+    lesson: 1
+    prompt: "Si ___ a la festa, vindria amb tu."
+    answer: "anés"
+    distractors:
+      - text: "aniria"
+        why: "*Aniria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *anés*."
+      - text: "vagi"
+        why: "*Vagi* és present de subjuntiu. En una condició amb *si* va l'imperfet: *anés*."
+    explanation: "*Anar* (jo) en imperfet de subjuntiu fa *anés*."
+
+  - id: b1-23-004
+    type: choice
+    point: formes-subjuntiu
+    lesson: 1
+    prompt: "Si ___ la resposta, la diria."
+    answer: "sabés"
+    distractors:
+      - text: "sabria"
+        why: "*Sabria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *sabés*."
+      - text: "sàpiga"
+        why: "*Sàpiga* és present de subjuntiu. En una condició amb *si* va l'imperfet: *sabés*."
+    explanation: "*Saber* (jo) en imperfet de subjuntiu fa *sabés*."
+
+  - id: b1-23-005
+    type: choice
+    point: condicionals-si
+    lesson: 1
+    prompt: "Si guanyés la loteria, ___ una masia al Penedès."
+    answer: "compraria"
+    distractors:
+      - text: "comprés"
+        why: "La condició ja és a la primera part («si guanyés»); el resultat va en condicional: *compraria*."
+      - text: "compro"
+        why: "*Compro* és present. Amb una hipòtesi irreal («si guanyés»), el resultat va en condicional: *compraria*."
+    explanation: "La condició («si guanyés») ja porta l'imperfet de subjuntiu; el resultat va en condicional: *compraria*."
+
+  - id: b1-23-006
+    type: choice
+    point: condicionals-si
+    lesson: 1
+    prompt: "Si plogués, ___ a casa."
+    answer: "ens quedaríem"
+    distractors:
+      - text: "ens quedéssim"
+        why: "El resultat va en condicional, no en subjuntiu: *ens quedaríem*."
+      - text: "ens quedem"
+        why: "*Ens quedem* és present. Amb una hipòtesi («si plogués»), el resultat va en condicional: *ens quedaríem*."
+    explanation: "Amb «si plogués» (hipòtesi), el resultat va en condicional: *ens quedaríem*."
+
+  - id: b1-23-007
+    type: choice
+    point: condicionals-si
+    lesson: 1
+    prompt: "Fem una hipòtesi: si fossis ric, què ___?"
+    answer: "faries"
+    distractors:
+      - text: "fessis"
+        why: "*Fessis* és imperfet de subjuntiu. La condició ja hi és («si fossis»); la pregunta demana el resultat: *faries*."
+      - text: "fas"
+        why: "*Fas* és present. Amb una hipòtesi («si fossis») cal el condicional: *faries*."
+    explanation: "La condició ja hi és («si fossis»); la pregunta demana el resultat, en condicional: *faries*."
+
+  - id: b1-23-008
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «Tant de bo!»?"
+    answer: "Expressa un desig."
+    distractors:
+      - text: "Expressa una ordre."
+        why: "No és una ordre: no mana res a ningú."
+      - text: "Expressa un dubte."
+        why: "No parla de dubtes: parla de ganes que passi una cosa."
+    explanation: "*Tant de bo* serveix per expressar un desig: *Tant de bo plogui!*."
+
+  - id: b1-23-009
+    type: match
+    point: formes-subjuntiu
+    lesson: 1
+    instruction: "Relaciona cada infinitiu amb la forma de *jo* en imperfet de subjuntiu."
+    pairs:
+      - ["tenir", "tingués"]
+      - ["ser", "fos"]
+      - ["anar", "anés"]
+      - ["fer", "fes"]
+      - ["poder", "pogués"]
+    explanation: "Són formes irregulars: *tingués*, *fos*, *anés*, *fes* i *pogués*."
+
+  - id: b1-23-010
+    type: inline-choice
+    point: condicionals-si
+    lesson: 1
+    title: "Un somni"
+    text: "Si {tingués|tindria|tingui} molts diners, {compraria|comprés|compro} una casa a prop del mar. Si {fos|seria|sigui} allà, {convidaria|convidés|convido} els meus amics cada estiu. Si em {toqués|tocaria|toca} la loteria, no {apostaria|apostés|aposto} més."
+    explanation: "Les hipòtesis porten *si* + imperfet (*tingués*, *fos*, *toqués*) i el resultat va en condicional (*compraria*, *convidaria*, *apostaria*)."
+
+  - id: b1-23-011
+    type: fill
+    point: formes-subjuntiu
+    lesson: 1
+    prompt: "Si ___ (*poder*, jo) triar, viatjaria al Japó."
+    hint: "*poder*, imperfet de subjuntiu (jo)"
+    answers: ["pogués"]
+    wrong_answers:
+      - text: "podria"
+        why: "*Podria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *pogués*."
+      - text: "pugui"
+        why: "*Pugui* és present de subjuntiu. En una condició amb *si* va l'imperfet: *pogués*."
+    grading: tolerant
+    explanation: "*Poder* (jo) en imperfet de subjuntiu fa *pogués*."
+
+  - id: b1-23-012
+    type: fill
+    point: formes-subjuntiu
+    lesson: 1
+    prompt: "Si ___ (*fer*, vosaltres) vacances al juliol, vindríeu amb nosaltres?"
+    hint: "*fer*, imperfet de subjuntiu (vosaltres)"
+    answers: ["féssiu"]
+    wrong_answers:
+      - text: "faríeu"
+        why: "*Faríeu* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *féssiu*."
+      - text: "feu"
+        why: "*Feu* no és imperfet de subjuntiu. En una condició amb *si* va *féssiu*."
+    grading: tolerant
+    explanation: "*Fer* (vosaltres) en imperfet de subjuntiu fa *féssiu*."
+
+  - id: b1-23-013
+    type: order
+    point: condicionals-si
+    lesson: 1
+    cue: "Digues que, si tinguessis temps, ajudaries la Laia."
+    chunks: ["si", "tinguessis", "temps", "ajudaries", "la Laia"]
+    extra: ["tindries"]
+    answers:
+      - "Si tinguessis temps, ajudaries la Laia."
+      - "Ajudaries la Laia si tinguessis temps."
+    explanation: "La condició («si tinguessis») va en imperfet de subjuntiu i el resultat (*ajudaries*) en condicional."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-23-014
+    type: fill
+    point: formes-subjuntiu
+    lesson: 2
+    prompt: "Si ___ (*estar*, jo) jubilat, viatjaria tot l'any."
+    hint: "*estar*, imperfet de subjuntiu (jo)"
+    answers: ["estigués"]
+    wrong_answers:
+      - text: "estaria"
+        why: "*Estaria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *estigués*."
+      - text: "estigui"
+        why: "*Estigui* és present de subjuntiu. En una condició amb *si* va l'imperfet: *estigués*."
+    grading: tolerant
+    explanation: "*Estar* (jo) en imperfet de subjuntiu fa *estigués*."
+
+  - id: b1-23-015
+    type: fill
+    point: formes-subjuntiu
+    lesson: 2
+    prompt: "Si ___ (*venir*, tu) amb nosaltres, gaudiries molt."
+    hint: "*venir*, imperfet de subjuntiu (tu)"
+    answers: ["vinguessis"]
+    wrong_answers:
+      - text: "vindries"
+        why: "*Vindries* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *vinguessis*."
+      - text: "vinguis"
+        why: "*Vinguis* és present de subjuntiu. En una condició amb *si* va l'imperfet: *vinguessis*."
+    grading: tolerant
+    explanation: "*Venir* (tu) en imperfet de subjuntiu fa *vinguessis*."
+
+  - id: b1-23-016
+    type: fill
+    point: formes-subjuntiu
+    lesson: 2
+    prompt: "Si ___ (*dir*, ell) la veritat, l'ajudaríem."
+    hint: "*dir*, imperfet de subjuntiu (ell)"
+    answers: ["digués"]
+    wrong_answers:
+      - text: "diria"
+        why: "*Diria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *digués*."
+    grading: tolerant
+    explanation: "*Dir* (ell) en imperfet de subjuntiu fa *digués*."
+
+  - id: b1-23-017
+    type: fill
+    point: condicionals-si
+    lesson: 2
+    prompt: "Si tingués molts diners al compte, ___ (*deixar*) la feina."
+    hint: "*deixar*, condicional (jo)"
+    answers: ["deixaria"]
+    wrong_answers:
+      - text: "deixés"
+        why: "La condició ja hi és («si tingués»); el resultat va en condicional: *deixaria*."
+      - text: "deixo"
+        why: "*Deixo* és present. El resultat d'una hipòtesi va en condicional: *deixaria*."
+    grading: tolerant
+    explanation: "El resultat d'una hipòtesi va en condicional: *deixaria*."
+
+  - id: b1-23-018
+    type: fill
+    point: condicionals-si
+    lesson: 2
+    prompt: "Si visquéssim a prop del mar, ___ cada dia."
+    hint: "*banyar-se*, condicional (nosaltres)"
+    answers: ["ens banyaríem"]
+    wrong_answers:
+      - text: "ens banyéssim"
+        why: "El resultat va en condicional, no en subjuntiu: *ens banyaríem*."
+    grading: tolerant
+    explanation: "El resultat va en condicional: *ens banyaríem*."
+
+  - id: b1-23-019
+    type: fill
+    point: condicionals-si
+    lesson: 2
+    prompt: "Si no ___ (*ploure*) tant, sortiríem a passejar."
+    hint: "*ploure*, imperfet de subjuntiu"
+    answers: ["plogués"]
+    wrong_answers:
+      - text: "plouria"
+        why: "*Plouria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *plogués*."
+    grading: tolerant
+    explanation: "*Ploure* en imperfet de subjuntiu fa *plogués*."
+
+  - id: b1-23-020
+    type: order
+    point: formes-subjuntiu
+    lesson: 2
+    cue: "Digues que, si poguessis, et quedaries a casa."
+    chunks: ["si", "poguessis", "et", "quedaries", "a casa"]
+    extra: ["podries"]
+    answers:
+      - "Si poguessis, et quedaries a casa."
+      - "Et quedaries a casa si poguessis."
+    explanation: "«Si poguessis»: la condició va en imperfet de subjuntiu; el resultat, en condicional."
+
+  - id: b1-23-021
+    type: order
+    point: condicionals-si
+    lesson: 2
+    cue: "Explica que compraries un cotxe nou si tinguessis diners."
+    chunks: ["compraria", "un cotxe nou", "si", "tinguessis", "diners"]
+    extra: ["tindries"]
+    answers:
+      - "Compraria un cotxe nou si tinguessis diners."
+      - "Si tinguessis diners, compraria un cotxe nou."
+    explanation: "El resultat (*compraria*) va en condicional i la condició («si tinguessis») en imperfet de subjuntiu."
+
+  - id: b1-23-022
+    type: order
+    point: condicionals-si
+    lesson: 2
+    cue: "Digues que la Núria vindria si pogués."
+    chunks: ["la Núria", "vindria", "si", "pogués"]
+    extra: ["podria"]
+    answers:
+      - "La Núria vindria si pogués."
+      - "Si pogués, la Núria vindria."
+    explanation: "El resultat (*vindria*) va en condicional i la condició («si pogués») en imperfet de subjuntiu."
+
+  - id: b1-23-023
+    type: choice
+    point: formes-subjuntiu
+    lesson: 2
+    prompt: "Imagina't que ___ més trens: aniries a treballar en tren?"
+    answer: "hi hagués"
+    distractors:
+      - text: "hi hauria"
+        why: "*Hi hauria* és condicional. En una hipòtesi va l'imperfet de subjuntiu: *hi hagués*."
+      - text: "hi hagi"
+        why: "*Hi hagi* és present de subjuntiu. En una hipòtesi va l'imperfet: *hi hagués*."
+    explanation: "«Aniries» (condicional) marca una hipòtesi: *haver-hi* en imperfet de subjuntiu fa *hi hagués*."
+
+  - id: b1-23-024
+    type: choice
+    point: condicionals-si
+    lesson: 2
+    prompt: "Si estalviessis una mica cada mes, ___ anar al Japó."
+    answer: "podries"
+    distractors:
+      - text: "poguessis"
+        why: "La condició ja hi és («si estalviessis»); el resultat va en condicional: *podries*."
+      - text: "pots"
+        why: "*Pots* és present. Amb una hipòtesi («si estalviessis»), el resultat va en condicional: *podries*."
+    explanation: "El resultat d'una hipòtesi irreal va en condicional: *podries*."
+
+  - id: b1-23-025
+    type: choice
+    point: condicionals-si
+    lesson: 2
+    prompt: "Si guanyés el premi, ___ la hipoteca."
+    answer: "pagaria"
+    distractors:
+      - text: "pagués"
+        why: "La condició ja hi és («si guanyés»); el resultat va en condicional: *pagaria*."
+      - text: "pago"
+        why: "*Pago* és present. El resultat d'una hipòtesi va en condicional: *pagaria*."
+    explanation: "El resultat va en condicional: *pagaria*."
+
+  - id: b1-23-026
+    type: inline-choice
+    point: condicionals-si
+    lesson: 2
+    title: "Plans per al futur"
+    text: "Si {pogués|podria|puc} triar, {estudiaria|estudiés|estudio} medicina. En aquest supòsit, {necessitaria|necessités|necessitin} una beca."
+    explanation: "Les hipòtesis porten *si* + imperfet (*pogués*) i el resultat va en condicional (*estudiaria*, *necessitaria*)."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-23-027
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si tindria temps, aprendria anglès."
+    error: "tindria"
+    fix: "tingués"
+    fix_distractors:
+      - text: "tindré"
+        why: "*Tindré* és futur. En una condició, darrere de *si* va l'imperfet de subjuntiu: *tingués*."
+      - text: "tenia"
+        why: "*Tenia* és imperfet d'indicatiu. En una hipòtesi amb el resultat en condicional («aprendria»), darrere de *si* va l'imperfet de subjuntiu: *tingués*."
+    explanation: "En una condició, darrere de *si* no va mai el condicional. «Si tindria» és un error: cal *si tingués*. Aquest error també surt en castellà col·loquial («si tendría»)."
+
+  - id: b1-23-028
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si podria triar, viatjaria sola."
+    error: "podria"
+    fix: "pogués"
+    fix_distractors:
+      - text: "puc"
+        why: "*Puc* és present. En una condició, darrere de *si* va l'imperfet de subjuntiu: *pogués*."
+      - text: "podré"
+        why: "*Podré* és futur. En una condició, darrere de *si* va l'imperfet de subjuntiu: *pogués*."
+    explanation: "En una condició, darrere de *si* no va mai el condicional: «si podria» és un error. La forma correcta és *si pogués*. També és un error típic en castellà («si podría»)."
+
+  - id: b1-23-029
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si sabria el número guanyador, compraria el dècim."
+    error: "sabria"
+    fix: "sabés"
+    fix_distractors:
+      - text: "sé"
+        why: "*Sé* és present. En una condició, darrere de *si* va l'imperfet de subjuntiu: *sabés*."
+      - text: "sabré"
+        why: "*Sabré* és futur. En una condició, darrere de *si* va l'imperfet de subjuntiu: *sabés*."
+    explanation: "«Si sabria» és un error: en una condició, darrere de *si* va l'imperfet de subjuntiu, *si sabés*. També és un error típic en castellà («si sabría»)."
+
+  - id: b1-23-030
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si tinguéssim més estalvis, faríem un viatge llarg."
+    no_error: true
+    explanation: "La frase és correcta: «si tinguéssim» és imperfet de subjuntiu i *faríem* és condicional."
+
+  - id: b1-23-031
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si farien festa demà, aniríem a la platja."
+    error: "farien"
+    fix: "fessin"
+    fix_distractors:
+      - text: "fan"
+        why: "*Fan* és present. En una condició, darrere de *si* va l'imperfet de subjuntiu: *fessin*."
+      - text: "faran"
+        why: "*Faran* és futur. En una condició, darrere de *si* va l'imperfet de subjuntiu: *fessin*."
+    explanation: "«Si farien» és un error: en una condició, darrere de *si* va l'imperfet de subjuntiu, *si fessin*. També és un error típic en castellà («si harían»)."
+
+  - id: b1-23-032
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Si fos director, escoltaria tothom."
+    no_error: true
+    explanation: "La frase és correcta: «si fos» és imperfet de subjuntiu i *escoltaria* és condicional."
+
+  - id: b1-23-033
+    type: fill
+    point: desitjos-consells
+    lesson: 3
+    prompt: "Tant de bo ___ la loteria aquest Nadal!"
+    hint: "*tocar*, imperfet de subjuntiu (a mi)"
+    answers: ["em toqués"]
+    wrong_answers:
+      - text: "em toca"
+        why: "Darrere de *tant de bo* no va mai l'indicatiu. Per a un desig difícil, l'imperfet de subjuntiu: *em toqués*."
+      - text: "em tocaria"
+        why: "*Tocaria* és condicional. Darrere de *tant de bo* va el subjuntiu: *em toqués*."
+    grading: tolerant
+    explanation: "*Tant de bo* + imperfet de subjuntiu expressa un desig difícil: *em toqués*."
+
+  - id: b1-23-034
+    type: fill
+    point: desitjos-consells
+    lesson: 3
+    prompt: "Vols un consell? ___ amb el banc: et donaran un préstec millor."
+    hint: "*haver de* + *parlar*, condicional (tu)"
+    answers: ["Hauries de parlar"]
+    wrong_answers:
+      - text: "Haguessis de parlar"
+        why: "*Haguessis* és subjuntiu. Un consell amb *haver de* va en condicional: *hauries de parlar*."
+      - text: "Hauria de parlar"
+        why: "*Hauria* és per a «ell». El consell és per a «tu»: *hauries de parlar*."
+    grading: tolerant
+    explanation: "Un consell suau porta *haver de* en condicional: *hauries de parlar*."
+
+  - id: b1-23-035
+    type: fill
+    point: desitjos-consells
+    lesson: 3
+    prompt: "Em parla com si ___ el meu cap."
+    hint: "*ser*, imperfet de subjuntiu (ell)"
+    answers: ["fos"]
+    wrong_answers:
+      - text: "era"
+        why: "En una comparació irreal amb «com si» va l'imperfet de subjuntiu: *fos*."
+      - text: "seria"
+        why: "*Seria* és condicional. Amb «com si» va l'imperfet de subjuntiu: *fos*."
+    grading: tolerant
+    explanation: "«Com si» + imperfet de subjuntiu fa una comparació irreal: *com si fos*."
+
+  - id: b1-23-036
+    type: choice
+    point: desitjos-consells
+    lesson: 3
+    prompt: "La Laia cobra un sou petit i vol un cotxe nou. Quin consell li dones?"
+    answer: "Hauria d'esperar un any."
+    distractors:
+      - text: "Hagués d'esperar un any."
+        why: "*Hagués* és subjuntiu. Un consell amb *haver de* va en condicional: *hauria d'esperar*."
+      - text: "Haurien d'esperar un any."
+        why: "*Haurien* és plural. El consell és per a la Laia: *hauria d'esperar*."
+    explanation: "Un consell suau porta *haver de* en condicional: *hauria d'esperar*."
+
+  - id: b1-23-037
+    type: choice
+    point: desitjos-consells
+    lesson: 3
+    prompt: "Desitges tenir més temps, però és difícil. Què dius?"
+    answer: "Tant de bo tingués més temps!"
+    distractors:
+      - text: "Tant de bo tindria més temps!"
+        why: "Darrere de *tant de bo* no va mai el condicional: va el subjuntiu, *tingués*."
+      - text: "Tant de bo tinc més temps!"
+        why: "Darrere de *tant de bo* no va mai l'indicatiu: va el subjuntiu, *tingués*."
+    explanation: "*Tant de bo* + imperfet de subjuntiu expressa un desig difícil: *tingués*."
+
+  - id: b1-23-038
+    type: choice
+    point: expressions
+    lesson: 3
+    prompt: "Què vol dir «somiar truites»?"
+    answer: "Tenir esperances impossibles."
+    distractors:
+      - text: "Tenir malsons cada nit."
+        why: "No parla de dormir malament, sinó d'esperar coses impossibles."
+      - text: "Cuinar sempre el mateix."
+        why: "No és literal: no té res a veure amb la cuina."
+    explanation: "*Somiar truites* vol dir tenir esperances impossibles."
+
+  - id: b1-23-039
+    type: match
+    point: expressions
+    lesson: 3
+    instruction: "Relaciona cada expressió amb la frase que la fa servir."
+    pairs:
+      - ["tant de bo", "Tant de bo aprovi l'examen!"]
+      - ["si de cas", "Si de cas, t'escriuré demà."]
+      - ["posar-se a la pell d'algú", "Posa't a la meva pell: tu què faries?"]
+      - ["fer-se il·lusions", "No et facis il·lusions: és caríssim."]
+    explanation: "Cada expressió té el seu ús: *tant de bo* per a un desig, *si de cas* per a una reserva, *posar-se a la pell* per a l'empatia i *fer-se il·lusions* per a una esperança incerta."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-23-040
+    type: transform
+    point: formes-subjuntiu
+    lesson: 4
+    instruction: "Canvia la persona a «tu»."
+    source: "Si [[pogués]] triar, viatjaria."
+    answers: ["Si poguessis triar, viatjaria."]
+    wrong_answers:
+      - text: "Si podries triar, viatjaria."
+        why: "En una condició, darrere de *si* no va mai el condicional: *si poguessis*."
+    grading: tolerant
+    explanation: "Amb «tu», *poder* en imperfet de subjuntiu fa *poguessis*."
+
+  - id: b1-23-041
+    type: transform
+    point: formes-subjuntiu
+    lesson: 4
+    instruction: "Canvia la persona a «nosaltres»."
+    source: "Si [[tingués]] una herència, [[ajudaria]] la meva germana."
+    answers: ["Si tinguéssim una herència, ajudaríem la meva germana."]
+    wrong_answers:
+      - text: "Si tinguéssim una herència, ajudéssim la meva germana."
+        why: "El resultat va en condicional, no en subjuntiu: *ajudaríem*."
+    grading: tolerant
+    explanation: "Amb «nosaltres», *tenir* fa *tinguéssim* i el resultat va en condicional: *ajudaríem*."
+
+  - id: b1-23-042
+    type: transform
+    point: condicionals-si
+    lesson: 4
+    instruction: "Canvia l'ordre: comença per la condició."
+    source: "[[Viatjaria per tot el món]] si [[tingués vacances]]."
+    answers: ["Si tingués vacances, viatjaria per tot el món."]
+    wrong_answers:
+      - text: "Si tindria vacances, viatjaria per tot el món."
+        why: "En una condició, darrere de *si* no va mai el condicional: *si tingués*."
+    grading: tolerant
+    explanation: "Les dues parts poden canviar d'ordre: «si tingués» és la condició i *viatjaria* el resultat."
+
+  - id: b1-23-043
+    type: transform
+    point: condicionals-si
+    lesson: 4
+    instruction: "Fes el resultat negatiu."
+    source: "Si guanyés el premi, [[deixaria]] la feina."
+    answers: ["Si guanyés el premi, no deixaria la feina."]
+    wrong_answers:
+      - text: "Si guanyés el premi, no deixés la feina."
+        why: "El resultat va en condicional: *no deixaria*."
+    grading: tolerant
+    explanation: "El resultat negatiu porta *no* davant del verb en condicional: *no deixaria*."
+
+  - id: b1-23-044
+    type: transform
+    point: desitjos-consells
+    lesson: 4
+    instruction: "Expressa la mateixa idea amb «com si»."
+    source: "Em parla [[com el meu cap]]."
+    answers: ["Em parla com si fos el meu cap."]
+    wrong_answers:
+      - text: "Em parla com si era el meu cap."
+        why: "Amb «com si» va l'imperfet de subjuntiu, no l'indicatiu: *fos*."
+    grading: tolerant
+    explanation: "«Com si» + imperfet de subjuntiu fa una comparació irreal: *com si fos*."
+
+  - id: b1-23-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Si [[tindríem]] prou diners, compraríem el pis."
+    answers: ["Si tinguéssim prou diners, compraríem el pis."]
+    wrong_answers:
+      - text: "Si teníem prou diners, compraríem el pis."
+        why: "*Teníem* és imperfet d'indicatiu. En una hipòtesi amb el resultat en condicional («compraríem»), darrere de *si* va l'imperfet de subjuntiu: *tinguéssim*."
+    grading: tolerant
+    explanation: "«Si tindríem» és un error: en una condició, darrere de *si* va l'imperfet de subjuntiu, *si tinguéssim*. També és un error típic en castellà («si tendríamos»)."
+
+  - id: b1-23-046
+    type: transform
+    point: desitjos-consells
+    lesson: 4
+    instruction: "Suavitza l'ordre: fes-ne un consell amb el condicional."
+    source: "[[Has de parlar]] amb el banc."
+    answers: ["Hauries de parlar amb el banc."]
+    wrong_answers:
+      - text: "Haguessis de parlar amb el banc."
+        why: "*Haguessis* és subjuntiu. Un consell amb *haver de* va en condicional: *hauries de parlar*."
+    grading: tolerant
+    explanation: "L'obligació (*has de*) es torna consell suau amb el condicional: *hauries de parlar*."
+
+  - id: b1-23-047
+    type: fill
+    point: condicionals-si
+    lesson: 4
+    prompt: "Si fóssim rics, ___ en una illa."
+    hint: "*viure*, condicional (nosaltres)"
+    answers: ["viuríem"]
+    wrong_answers:
+      - text: "visquéssim"
+        why: "El resultat va en condicional, no en subjuntiu: *viuríem*."
+      - text: "vivim"
+        why: "*Vivim* és present. El resultat d'una hipòtesi va en condicional: *viuríem*."
+    grading: tolerant
+    explanation: "El resultat d'una hipòtesi va en condicional: *viuríem*."
+
+  - id: b1-23-048
+    type: fill
+    point: formes-subjuntiu
+    lesson: 4
+    prompt: "Si ___ (*veure*, jo) el director, li diria la veritat."
+    hint: "*veure*, imperfet de subjuntiu (jo)"
+    answers: ["veiés"]
+    wrong_answers:
+      - text: "veuria"
+        why: "*Veuria* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *veiés*."
+      - text: "vegi"
+        why: "*Vegi* és present de subjuntiu. En una condició amb *si* va l'imperfet: *veiés*."
+    grading: tolerant
+    explanation: "*Veure* (jo) en imperfet de subjuntiu fa *veiés*."
+
+  - id: b1-23-049
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "Si ___ (*tenir*, nosaltres) més temps, vindríem cada setmana."
+    hint: "*tenir*, imperfet de subjuntiu (nosaltres)"
+    answers: ["tinguéssim"]
+    wrong_answers:
+      - text: "tindríem"
+        why: "En una condició, darrere de *si* no va mai el condicional. És l'error típic: cal *tinguéssim*."
+    grading: tolerant
+    explanation: "«Si tindríem» és un error: en una condició, darrere de *si* va l'imperfet de subjuntiu, *tinguéssim*. També és un error típic en castellà («si tendríamos»)."
+
+  - id: b1-23-050
+    type: order
+    point: desitjos-consells
+    lesson: 4
+    cue: "En Pau no sap què fer amb els deutes. Aconsella-li que parli amb el banc."
+    chunks: ["en Pau", "hauria", "de parlar", "amb el banc"]
+    extra: ["hagués"]
+    answers:
+      - "En Pau hauria de parlar amb el banc."
+    explanation: "Un consell suau porta *haver de* en condicional: *hauria de parlar*."
+
+  - id: b1-23-051
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Digues que, si tinguessis diners, avançaries la jubilació."
+    chunks: ["si", "tinguessis", "diners", "avançaries", "la jubilació"]
+    extra: ["tindries"]
+    answers:
+      - "Si tinguessis diners, avançaries la jubilació."
+      - "Avançaries la jubilació si tinguessis diners."
+    explanation: "La condició («si tinguessis») va en imperfet de subjuntiu; el resultat (*avançaries*), en condicional."
+
+  - id: b1-23-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Has de triar entre dues feines i demanes consell a un amic. Què li dius?"
+    answer: "Posa't a la meva pell: tu què faries?"
+    distractors:
+      - text: "Fes-te il·lusions: tu què faries?"
+        why: "*Fer-se il·lusions* vol dir esperar una cosa incerta, no imaginar com se sent algú."
+      - text: "Somia truites: tu què faries?"
+        why: "*Somiar truites* vol dir tenir esperances impossibles, no imaginar com se sent algú."
+    explanation: "*Posar-se a la pell d'algú* vol dir imaginar com se sent: *posa't a la meva pell*."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-23-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Si em toqués la loteria"
+    text: |
+      En Jordi té trenta-vuit anys i treballa en un taller de bicicletes a Sabadell. Cada divendres compra un dècim de la loteria amb els companys de la feina. De moment no els ha tocat mai res, però a l'hora de dinar sempre fan la mateixa broma: què farien si els toqués el primer premi?
+
+      En Jordi ho té clar. Si guanyés el premi, deixaria el lloguer i compraria una masia petita a prop del mar. Pagaria els deutes del seu germà i estalviaria la resta. «I després?» li pregunta la Laia, una companya. «Doncs faria la volta al món amb bicicleta», respon ell. La Laia riu: ella, si fos rica, no deixaria la feina. Obriria un negoci propi, una botiga de llibres al barri.
+
+      També fan hipòtesis més petites. Si no gastessin tant en cafès, estalviarien prou per a un bitllet d'avió. I la Laia diu que el seu desig no és car: una setmana de vacances sense mòbil.
+
+      El somni dura fins a les tres, quan tornen al taller. En Jordi sap que és difícil: la probabilitat de guanyar és mínima. Però somia truites una estona cada setmana i li agrada. «Tant de bo ens toqui una mica de sort!», diu abans de tornar a la feina.
+    questions:
+      - prompt: "Què fan cada divendres en Jordi i els companys?"
+        answer: "Compren un dècim i parlen de què farien."
+        distractors:
+          - text: "Es reparteixen el primer premi entre tots."
+            why: "No els ha tocat mai res, no es reparteixen res."
+          - text: "Dinen en un restaurant a prop del taller."
+            why: "Dinen a la feina, a l'hora de dinar."
+      - prompt: "Què faria en Jordi si guanyés el premi?"
+        answer: "Compraria una casa al camp i faria un gran viatge."
+        distractors:
+          - text: "Obriria una botiga de llibres al barri."
+            why: "Això és el que faria la Laia."
+          - text: "Continuaria vivint de lloguer."
+            why: "Ell deixaria el lloguer i compraria una masia."
+      - prompt: "I la Laia, què faria si fos rica?"
+        answer: "Obriria el seu propi negoci."
+        distractors:
+          - text: "Deixaria la feina per viure del premi."
+            why: "Ella diu que no deixaria la feina."
+          - text: "Compraria una masia a prop del mar."
+            why: "La masia és el somni d'en Jordi."
+      - prompt: "Com acaba el somni cada divendres?"
+        answer: "Tornen al taller a les tres."
+        distractors:
+          - text: "Guanyen el primer premi."
+            why: "No els ha tocat mai res."
+          - text: "Van a comprar el dècim."
+            why: "El dècim ja l'han comprat abans."
+    explanation: "En Jordi i la Laia somien cada divendres amb allò que farien si guanyessin la loteria."
+
+  - id: b1-23-054
+    type: transform
+    point: condicionals-si
+    lesson: 5
+    instruction: "Comença la frase pel resultat."
+    source: "Si [[plogués]], [[ens quedaríem]] a casa."
+    answers: ["Ens quedaríem a casa si plogués."]
+    wrong_answers:
+      - text: "Ens quedaríem a casa si plouria."
+        why: "En una condició, darrere de *si* no va mai el condicional: *si plogués*."
+    grading: tolerant
+    explanation: "El resultat (*ens quedaríem*) va en condicional i la condició («si plogués») en imperfet de subjuntiu."
+
+  - id: b1-23-055
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Els plans de la Núria"
+    text: "La Núria diu: «Si {tingués|tindria|tinc} temps, {aprendria|aprengués|aprenc} a cuinar. Si {pogués|podria|puc}, {faria|fes|faig} un curs de cuina.»"
+    explanation: "En una condició, darrere de *si* va l'imperfet (*tingués*, *pogués*), no el condicional ni el present. El resultat va en condicional (*aprendria*, *faria*). Aquest error també surt en castellà col·loquial («si tendría»)."
+
+  - id: b1-23-056
+    type: inline-choice
+    point: desitjos-consells
+    lesson: 5
+    title: "Un consell"
+    text: "En Pau vol comprar un cotxe, però no té estalvis. {Hauria|Hagués|Haurien} d'esperar un any: {estalviaria|estalviés|estalvio} cada mes i, si de cas, {demanaria|demanés|demanen} un préstec al banc."
+    explanation: "Per donar consells: *haver de* en condicional (*hauria d'esperar*) o el condicional sol (*estalviaria*, *demanaria*). *Si de cas* vol dir «si cal»."
+
+  - id: b1-23-057
+    type: choice
+    point: formes-subjuntiu
+    lesson: 5
+    prompt: "Si ___ el número guanyador, seríem rics."
+    answer: "sabéssim"
+    distractors:
+      - text: "sabríem"
+        why: "*Sabríem* és condicional. En una condició, darrere de *si* va l'imperfet de subjuntiu: *sabéssim*."
+      - text: "sapiguem"
+        why: "*Sapiguem* és present de subjuntiu. En una condició amb *si* va l'imperfet: *sabéssim*."
+    explanation: "*Saber* (nosaltres) en imperfet de subjuntiu fa *sabéssim*."
+
+  - id: b1-23-058
+    type: choice
+    point: condicionals-si
+    lesson: 5
+    prompt: "Si tingués una fortuna, ___ als cinquanta anys."
+    answer: "em jubilaria"
+    distractors:
+      - text: "em jubilés"
+        why: "La condició ja hi és («si tingués»); el resultat va en condicional: *em jubilaria*."
+      - text: "em jubilo"
+        why: "*Em jubilo* és present. El resultat d'una hipòtesi va en condicional: *em jubilaria*."
+    explanation: "La condició («si tingués») ja porta l'imperfet; el resultat va en condicional: *em jubilaria*."
+
+  - id: b1-23-059
+    type: choice
+    point: desitjos-consells
+    lesson: 5
+    prompt: "La Núria somia viure a Itàlia, però és difícil. Què diu?"
+    answer: "Tant de bo hi visqués!"
+    distractors:
+      - text: "Tant de bo hi viuria!"
+        why: "Darrere de *tant de bo* no va mai el condicional: va el subjuntiu, *hi visqués*."
+      - text: "Tant de bo hi viu!"
+        why: "Darrere de *tant de bo* no va mai l'indicatiu: va el subjuntiu, *hi visqués*."
+    explanation: "*Tant de bo* + imperfet de subjuntiu expressa un desig difícil: *hi visqués*."
+
+  - id: b1-23-060
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Vols que compri entrades? —___, espera't: potser no cal."
+    hint: "expressió: si cal"
+    answers: ["Si de cas"]
+    wrong_answers:
+      - text: "En cas"
+        why: "L'expressió és *si de cas*. *En cas* tot sol no funciona aquí."
+    grading: tolerant
+    explanation: "*Si de cas* vol dir «si cal, si fa falta»."
+
+  - id: b1-23-061
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "No ___ facis il·lusions: el pis és caríssim."
+    hint: "pronom per a «tu»"
+    answers: ["et"]
+    wrong_answers:
+      - text: "es"
+        why: "Amb «tu» el pronom és *et*: *no et facis il·lusions*."
+    grading: tolerant
+    explanation: "*Fer-se il·lusions* es conjuga: amb «tu», *no et facis il·lusions*."
+
+  - id: b1-23-062
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues a un amic que s'imagini com et sents: fes servir «posar-se a la pell»."
+    chunks: ["posa't", "a", "la meva", "pell"]
+    extra: ["posa"]
+    answers:
+      - "Posa't a la meva pell."
+    explanation: "*Posar-se a la pell d'algú* vol dir imaginar com se sent: *posa't a la meva pell*."
+
+  - id: b1-23-063
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["tant de bo", "expressa un desig"]
+      - ["si de cas", "si cal, si fa falta"]
+      - ["posar-se a la pell d'algú", "imaginar com se sent una altra persona"]
+      - ["fer-se il·lusions", "esperar una cosa que potser no passarà"]
+      - ["somiar truites", "tenir esperances impossibles"]
+    explanation: "Són cinc maneres de parlar de desitjos i hipòtesis."
+
+  - id: b1-23-064
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Si tindries diners, ajudaries tothom."
+    error: "tindries"
+    fix: "tinguessis"
+    fix_distractors:
+      - text: "tens"
+        why: "*Tens* és present. En una condició, darrere de *si* va l'imperfet de subjuntiu: *tinguessis*."
+      - text: "tindràs"
+        why: "*Tindràs* és futur. En una condició, darrere de *si* va l'imperfet de subjuntiu: *tinguessis*."
+    explanation: "«Si tindries» és un error: en una condició, darrere de *si* va l'imperfet de subjuntiu, *si tinguessis*. Aquest error també surt en castellà col·loquial («si tendrías»)."
+
+  - id: b1-23-065
+    type: find-error
+    point: desitjos-consells
+    lesson: 5
+    sentence: "Hauries d'acceptar la beca sense dubtar."
+    no_error: true
+    explanation: "La frase és correcta: *hauries de* + infinitiu és un consell suau."

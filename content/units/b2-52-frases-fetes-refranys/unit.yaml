@@ -1,0 +1,966 @@
+id: b2-52
+level: B2
+title: "Frases fetes (II) i refranys"
+summary: "Sis frases fetes noves, tres refranys, el registre on queden bé i els equivalents que no es tradueixen literalment, en el món de les festes i les tradicions."
+vocabulary_theme: "Tradicions, cultura popular i festes"
+points:
+  - id: expressions
+    title: "Les frases fetes de la unitat"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+  - id: refranys
+    title: "Els tres refranys"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+  - id: refranys-registre
+    title: "Refranys fixos i registre"
+  - id: compte-traduccio-literal
+    title: "Compte amb el castellà: equivalents no literals"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Les expressions: què volen dir"
+  - title: "Practicar les expressions i els refranys"
+  - title: "El refrany sencer, el registre i les traduccions"
+  - title: "Produir: dir-ho amb les paraules justes"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la festa major"
+    definition: "La festa més important d'un poble, d'una ciutat o d'un barri."
+    example: "Per la festa major de Gràcia guarneixen els carrers."
+  - word: "el pregó"
+    definition: "Discurs que obre una festa major."
+    example: "L'alcaldessa va llegir el pregó des del balcó."
+  - word: "la cercavila"
+    definition: "Desfilada de festa que recorre els carrers d'un poble."
+    example: "Els gegants obren la cercavila de dissabte."
+  - word: "el gegant, la geganta"
+    definition: "Figura molt gran de cartó que unes persones porten en una cercavila."
+    example: "Els gegants ballen a la plaça Major."
+  - word: "el capgròs"
+    definition: "Figura de cap gros que corre darrere la mainada en una festa."
+    example: "Els capgrossos fan riure els nens."
+  - word: "el correfoc"
+    definition: "Festa en què els diables corren amb foc pels carrers."
+    example: "Al correfoc cal dur roba vella i un mocador al coll."
+  - word: "la traca"
+    definition: "Sèrie de petards units que peten seguits."
+    example: "La traca final es va sentir de tot el poble."
+  - word: "el petard"
+    definition: "Paper amb pólvora que peta quan s'encén."
+    example: "Els nens tiren petards per la revetlla de Sant Joan."
+  - word: "la revetlla"
+    definition: "Festa la nit abans d'un dia assenyalat, sobretot la de Sant Joan."
+    example: "Per la revetlla sopem a la platja amb els cosins."
+  - word: "el castell"
+    definition: "Torre humana que aixeca una colla en una plaça."
+    example: "Van descarregar un castell de vuit pisos."
+  - word: "la colla"
+    definition: "Grup de persones que fan castells o una activitat de festa."
+    example: "La colla assaja cada dimarts i dijous."
+  - word: "la faixa"
+    definition: "Tros de roba llarg que els castellers es lliguen a la cintura."
+    example: "Es va estrènyer la faixa abans de pujar al castell."
+  - word: "el pilar"
+    definition: "Castell d'una sola persona per pis."
+    example: "Van tancar l'actuació amb un pilar de cinc."
+  - word: "la sardana"
+    definition: "Dansa catalana que es balla en rotllana."
+    example: "Diumenge ballen sardanes davant la catedral."
+  - word: "la gralla"
+    definition: "Instrument de vent molt estrident típic de les festes."
+    example: "Les gralles acompanyen els castells."
+  - word: "el tabal"
+    definition: "Tambor gran que marca el ritme en una cercavila."
+    example: "El tabal obria la comitiva de la festa."
+  - word: "el ball de bastons"
+    definition: "Dansa en què els balladors piquen els bastons els uns contra els altres."
+    example: "El ball de bastons va actuar després dels gegants."
+  - word: "el trabucaire"
+    definition: "Persona que en una festa dispara un trabuc, una arma antiga."
+    example: "Els trabucaires van despertar el poble a les vuit."
+  - word: "la cavalcada"
+    definition: "Desfilada de carrosses pels carrers, sobretot la dels Reis."
+    example: "La cavalcada dels Reis passa pel centre."
+  - word: "els Reis"
+    definition: "Els tres mags que porten regals la nit del cinc de gener."
+    example: "Els Reis van deixar els regals al balcó."
+  - word: "la rua"
+    definition: "Desfilada de disfresses per carnestoltes."
+    example: "La rua de Vilanova omple els carrers."
+  - word: "el carnestoltes"
+    definition: "Festa de disfresses de l'hivern, abans de la Quaresma."
+    example: "Per carnestoltes em disfresso de diable."
+  - word: "la mona de Pasqua"
+    definition: "Pastís de xocolata que els padrins regalen per Pasqua."
+    example: "La padrina li va regalar una mona amb un ou gran."
+  - word: "la rosa de Sant Jordi"
+    definition: "Flor que es regala el vint-i-tres d'abril, diada de Sant Jordi."
+    example: "Per Sant Jordi va comprar una rosa i dos llibres."
+  - word: "la fira"
+    definition: "Mercat gran a l'aire lliure que dura uns quants dies."
+    example: "A la fira de Vic venen formatges i embotits."
+  - word: "l'aplec"
+    definition: "Trobada popular en un lloc concret, sovint amb sardanes."
+    example: "Cada any van a l'aplec del Remei."
+  - word: "la diada"
+    definition: "Dia de festa assenyalada o de celebració."
+    example: "La diada de Sant Joan cau en dimarts."
+  - word: "l'ofrena"
+    definition: "Acte d'oferir flors o un regal en una celebració."
+    example: "L'ofrena floral obre els actes de l'Onze de Setembre."
+  - word: "el pessebre"
+    definition: "Representació del naixement que es munta per Nadal."
+    example: "Els avis munten el pessebre al menjador."
+  - word: "els pastorets"
+    definition: "Obra de teatre nadalenca que fan els nens i els joves."
+    example: "Aquest Nadal fem els pastorets a l'escola."
+  - word: "la castanyada"
+    definition: "Festa de la tardor en què es mengen castanyes."
+    example: "Per la castanyada torrem castanyes al pati."
+  - word: "el tió"
+    definition: "Tronc de Nadal que els nens piquen perquè cagui regals."
+    example: "Els nens piquen el tió cantant."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-52-001
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «estirar més el braç que la màniga»?"
+    answer: "Gastar més diners dels que es tenen."
+    distractors:
+      - text: "Treballar amb les mànigues arremangades."
+        why: "*Arremangar-se* és apujar-se les mànigues per treballar. L'expressió parla de gastar massa, no de treballar."
+      - text: "Estirar el braç per arribar a una cosa alta."
+        why: "L'expressió no parla de cap gest: *estirar més el braç que la màniga* vol dir viure per sobre de les possibilitats."
+    explanation: "*Estirar més el braç que la màniga* vol dir gastar més del que es té: la màniga (els diners) no arriba on arriba el braç (la despesa)."
+
+  - id: b2-52-002
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «ploure sobre mullat»?"
+    answer: "Que un mal nou s'afegeix a un que ja hi era."
+    distractors:
+      - text: "Que plou molt durant molts dies seguits."
+        why: "L'expressió no parla del temps: *ploure sobre mullat* vol dir que els mals s'acumulen."
+      - text: "Que el terra és moll i cal anar amb compte."
+        why: "No és un avís sobre el terra: vol dir que a un mal se n'hi afegeix un altre."
+    explanation: "*Ploure sobre mullat* es diu quan a una desgràcia se n'hi suma una altra: la situació empitjora."
+
+  - id: b2-52-003
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «estar pengim-penjam»?"
+    answer: "No decidir-se entre dues opcions."
+    distractors:
+      - text: "Estar penjat d'una corda o d'un fil."
+        why: "No és un sentit literal: *estar pengim-penjam* vol dir dubtar, no decidir-se."
+      - text: "Canviar d'opinió cada dos per tres."
+        why: "Això és decidir i desdir-se. *Estar pengim-penjam* és no haver decidit encara."
+    explanation: "*Estar pengim-penjam* vol dir estar indecís, sense triar entre dues possibilitats."
+
+  - id: b2-52-004
+    type: choice
+    point: refranys
+    lesson: 1
+    prompt: "Què vol dir «de mica en mica s'omple la pica»?"
+    answer: "Que amb constància els petits esforços donen fruit."
+    distractors:
+      - text: "Que cal estalviar aigua a casa."
+        why: "La pica del refrany no és l'aigüera: el refrany anima a ser constant."
+      - text: "Que les coses arriben soles, sense fer res."
+        why: "És al contrari: cal posar-hi *mica en mica*, és a dir, esforç constant."
+    explanation: "El refrany anima a la constància: cada petit esforç compta i al final dona un gran resultat."
+
+  - id: b2-52-005
+    type: choice
+    point: refranys
+    lesson: 1
+    prompt: "Què vol dir «qui no vulgui pols, que no vagi a l'era»?"
+    answer: "Qui no vulgui conseqüències, que eviti les situacions de risc."
+    distractors:
+      - text: "Que a l'era sempre hi ha molta pols."
+        why: "No és una descripció del camp: és un avís per als qui busquen problemes."
+      - text: "Que cal dur mascareta per treballar al camp."
+        why: "El refrany no parla de salut: parla de no ficar-se on hi ha risc."
+    explanation: "A l'era (on es batia el blat) hi havia pols: el refrany avisa que qui busca el risc en patirà les conseqüències."
+
+  - id: b2-52-006
+    type: choice
+    point: refranys
+    lesson: 1
+    prompt: "Què vol dir «més val tard que mai»?"
+    answer: "Que val més arribar tard que no arribar."
+    distractors:
+      - text: "Que la puntualitat és el més important."
+        why: "És al contrari: el refrany consola qui arriba tard."
+      - text: "Que tard o d'hora tothom arriba on vol."
+        why: "Això parla del destí. El refrany diu que arribar tard encara té valor."
+    explanation: "El refrany consola o anima: fer una cosa tard encara val més que no fer-la."
+
+  - id: b2-52-007
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["estirar més el braç que la màniga", "gastar més del que es té"]
+      - ["ploure sobre mullat", "afegir un mal a un altre mal"]
+      - ["a correcuita", "anar de pressa"]
+      - ["a la babalà", "sense pensar-s'hi gens"]
+      - ["estar pengim-penjam", "no decidir-se entre dues opcions"]
+      - ["fer el cor fort", "acceptar una cosa desagradable amb resignació"]
+    explanation: "Són les sis frases fetes de la unitat: fixa't en el significat de cadascuna, perquè les practicaràs en context."
+
+  - id: b2-52-008
+    type: match
+    point: refranys
+    lesson: 1
+    instruction: "Relaciona cada refrany amb la situació en què queda bé."
+    pairs:
+      - ["de mica en mica s'omple la pica", "guardar cada mes una mica de sou per a l'entrada del pis"]
+      - ["qui no vulgui pols, que no vagi a l'era", "no ficar-se en una baralla de veïns"]
+      - ["més val tard que mai", "presentar la sol·licitud l'últim dia de termini"]
+      - ["qui dia passa, any empeny", "deixar passar els dies sense pressa"]
+    explanation: "Cada refrany té la seva situació: la constància, el risc evitat, l'arribada tardana i el temps que passa."
+
+  - id: b2-52-009
+    type: inline-choice
+    point: expressions
+    lesson: 1
+    title: "Una setmana dolenta"
+    text: "La Laia ho ha passat malament aquesta setmana: dilluns li van robar la bici i dimarts se li va espatllar la caldera; ha {plogut sobre mullat|fet el cor fort|anat a la babalà}. Dijous li van canviar el torn sense avisar i ho va acceptar: va {fer el cor fort|ploure sobre mullat|estar pengim-penjam}. Divendres ho va fer tot {a correcuita|a la babalà|de mica en mica} perquè arribava tard a tot arreu. Ara dubta cada dia si plegar o quedar-se: {està pengim-penjam|fa el cor fort|va a la babalà}."
+    explanation: "*Ploure sobre mullat* acumula mals; *fer el cor fort* és resignar-se; *a correcuita* és anar de pressa; *pengim-penjam* és no decidir-se."
+
+  - id: b2-52-010
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Com ha anat la mudança? —Doncs ___, amb caixes per tot arreu, però ja som al pis nou."
+    answer: "a correcuita"
+    distractors:
+      - text: "a la babalà"
+        why: "*A la babalà* és sense pensar-s'hi. Aquí tot va de pressa: *a correcuita*."
+      - text: "pengim-penjam"
+        why: "*Pengim-penjam* és no decidir-se. La mudança ja està feta: es va fer anant de pressa, *a correcuita*."
+    explanation: "«Amb caixes per tot arreu» indica molta feina i poc temps: la mudança es va fer *a correcuita*."
+
+  - id: b2-52-011
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Per què no tries un màster? —Perquè ___: tots em fan gràcia i no sé quin triar."
+    answer: "estic pengim-penjam"
+    distractors:
+      - text: "faig el cor fort"
+        why: "*Fer el cor fort* és resignar-se. Aquí no hi ha resignació, sinó dubte: *estic pengim-penjam*."
+      - text: "vaig a la babalà"
+        why: "*A la babalà* és decidir sense pensar-s'hi. Aquí el problema és no decidir: *pengim-penjam*."
+    explanation: "«No sé quin triar» és no decidir-se: *estar pengim-penjam*."
+
+  - id: b2-52-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Primer la Núria va perdre la feina i després se li va inundar el pis: un mal darrere l'altre, ___."
+    answer: "plovia sobre mullat"
+    distractors:
+      - text: "s'estirava més el braç que la màniga"
+        why: "Això és gastar massa. Aquí no es parla de diners, sinó de dos mals seguits."
+      - text: "feia el cor fort"
+        why: "*Fer el cor fort* és resignar-se. «Un mal darrere l'altre» parla d'acumulació: *plovia sobre mullat*."
+    explanation: "«Un mal darrere l'altre» és l'acumulació de desgràcies: *ploure sobre mullat*, aquí en imperfet perquè descriu aquells dies."
+
+  - id: b2-52-013
+    type: fill
+    point: expressions
+    lesson: 1
+    prompt: "En Pau no sap si acceptar la feina de Vic o quedar-se a Reus: està ___."
+    hint: "expressió: sense decidir-se entre dues opcions"
+    answers: ["pengim-penjam"]
+    wrong_answers:
+      - text: "entre Pinto i Valdemoro"
+        why: "Aquesta és l'expressió castellana. En català: *estar pengim-penjam*."
+    grading: tolerant
+    explanation: "Dubtar entre dues feines és *estar pengim-penjam*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-52-014
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Van preparar la festa major ___ i tot va sortir bé de miracle."
+    hint: "expressió: sense pensar-s'hi, a l'atzar"
+    answers: ["a la babalà"]
+    wrong_answers:
+      - text: "a lo loco"
+        why: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+    grading: tolerant
+    explanation: "Preparar-ho tot sense pensar-s'hi és fer-ho *a la babalà*."
+
+  - id: b2-52-015
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "No li agrada el torn de nit, però ___ el cor fort i ja fa tres mesos que l'aguanta."
+    hint: "fer, present perfet (ella)"
+    answers: ["ha fet"]
+    grading: tolerant
+    explanation: "L'expressió és *fer el cor fort*: acceptar amb resignació. Aquí va en present perfet: *ha fet*."
+
+  - id: b2-52-016
+    type: fill
+    point: refranys
+    lesson: 2
+    prompt: "De mica en mica ___."
+    hint: "acaba el refrany: què s'omple?"
+    answers: ["s'omple la pica"]
+    wrong_answers:
+      - text: "s'omple la piscina"
+        why: "El refrany és fix: *de mica en mica s'omple la pica*."
+    grading: tolerant
+    explanation: "El refrany sencer és *de mica en mica s'omple la pica*: la constància dona fruit."
+
+  - id: b2-52-017
+    type: fill
+    point: refranys
+    lesson: 2
+    prompt: "Qui no vulgui pols, ___."
+    hint: "acaba el refrany: anar, present de subjuntiu (ell)"
+    answers: ["que no vagi a l'era"]
+    wrong_answers:
+      - text: "que no va a l'era"
+        why: "El refrany demana subjuntiu: *que no vagi a l'era*."
+    grading: tolerant
+    explanation: "El refrany sencer és *qui no vulgui pols, que no vagi a l'era*: qui busca el risc en patirà les conseqüències."
+
+  - id: b2-52-018
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Cada mes ___ més el braç que la màniga: compreu sense mirar el compte."
+    hint: "estirar, present (vosaltres)"
+    answers: ["estireu"]
+    wrong_answers:
+      - text: "estiren"
+        why: "El subjecte és «vosaltres» («compreu»): *estireu*."
+    grading: tolerant
+    explanation: "«Compreu» indica la segona persona del plural: *estireu més el braç que la màniga*."
+
+  - id: b2-52-019
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "L'ofrena començava a les vuit i vam sopar ___."
+    hint: "expressió: amb el temps just"
+    answers: ["a correcuita"]
+    wrong_answers:
+      - text: "ràpid"
+        why: "Com a adverbi, *ràpid* és un calc de «rápido». En català: *de pressa* o, amb el temps just, *a correcuita*."
+    grading: tolerant
+    explanation: "Sopar amb el temps just perquè l'ofrena començava és sopar *a correcuita*."
+
+  - id: b2-52-020
+    type: choice
+    point: refranys
+    lesson: 2
+    prompt: "L'Arnau s'ha tret el carnet de conduir a quaranta anys. Què li diries?"
+    answer: "Més val tard que mai!"
+    distractors:
+      - text: "Qui no vulgui pols, que no vagi a l'era!"
+        why: "Aquest refrany avisa els qui busquen problemes. Aquí cal celebrar una arribada tardana."
+      - text: "De mica en mica s'omple la pica!"
+        why: "Aquest refrany parla de constància. Aquí la clau és l'edat tardana: *més val tard que mai*."
+    explanation: "Treure's el carnet a quaranta anys és arribar tard, però arribar: *més val tard que mai*."
+
+  - id: b2-52-021
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "El Wei ven roses per Sant Jordi, treballa de nits i estudia de dia, però no es queixa mai: ___."
+    answer: "ha fet el cor fort"
+    distractors:
+      - text: "està pengim-penjam"
+        why: "*Pengim-penjam* és no decidir-se. El Wei no dubta: accepta una vida dura sense queixar-se."
+      - text: "va a la babalà"
+        why: "*A la babalà* és fer les coses sense pensar-s'hi. El Wei treballa i estudia amb constància."
+    explanation: "Acceptar sense queixar-se una vida dura és *fer el cor fort*."
+
+  - id: b2-52-022
+    type: choice
+    point: refranys
+    lesson: 2
+    prompt: "—El veí de dalt posa música cada nit i no em deixa dormir. —Planta-t'hi a les tres de la matinada i truca-li! —Ni parlar-ne: ___."
+    answer: "qui no vulgui pols, que no vagi a l'era"
+    distractors:
+      - text: "més val tard que mai"
+        why: "Aquest refrany celebra arribar tard. Aquí es rebutja una baralla: *qui no vulgui pols, que no vagi a l'era*."
+      - text: "de mica en mica s'omple la pica"
+        why: "Aquest refrany parla de constància. Aquí es tracta d'evitar un conflicte."
+    explanation: "«Ni parlar-ne» rebutja la baralla: qui no vol problemes no els busca."
+
+  - id: b2-52-023
+    type: order
+    point: expressions
+    lesson: 2
+    cue: "Digues que la Núria no es decideix entre el pis de Gràcia i el de Sants."
+    chunks: ["La Núria", "està", "pengim-penjam", "entre dos pisos"]
+    extra: ["a la babalà"]
+    answers:
+      - "La Núria està pengim-penjam entre dos pisos."
+    explanation: "*Estar pengim-penjam* vol dir no decidir-se: la Núria dubta entre dos pisos."
+
+  - id: b2-52-024
+    type: order
+    point: refranys
+    lesson: 2
+    cue: "Anima la Carla a estalviar: digues el refrany de la constància i la pica."
+    chunks: ["De mica en mica", "s'omple", "la pica"]
+    extra: ["la piscina"]
+    answers:
+      - "De mica en mica s'omple la pica."
+    explanation: "El refrany és fix: *de mica en mica s'omple la pica*."
+
+  - id: b2-52-025
+    type: inline-choice
+    point: refranys
+    lesson: 2
+    title: "Consells de l'àvia"
+    text: "La meva àvia sempre deia que {de mica en mica|de poc a poc|poc a poc} s'omple la pica, i que {qui no vulgui pols|qui no vol pols|el que no vulgui pols}, que no vagi a l'era. Quan el meu pare va trobar feina a cinquanta anys, li va dir: {més val tard que mai|més val tard que nunca|més val tard que sempre}."
+    explanation: "Els refranys són fixos: *de mica en mica s'omple la pica*, *qui no vulgui pols, que no vagi a l'era* i *més val tard que mai*."
+
+  - id: b2-52-026
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Van organitzar la cercavila ___: van triar el recorregut a l'atzar i es van oblidar de demanar el permís."
+    hint: "expressió: sense pensar-s'hi, a l'atzar"
+    answers: ["a la babalà"]
+    wrong_answers:
+      - text: "a correcuita"
+        why: "Aquí la clau no és anar de pressa, sinó fer-ho a l'atzar: *a la babalà*."
+    grading: tolerant
+    explanation: "Triar a l'atzar i oblidar el permís és organitzar-ho sense pensar-s'hi: *a la babalà*."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-52-027
+    type: find-error
+    point: compte-traduccio-literal
+    lesson: 3
+    sentence: "Després de la riuada, la pedregada va ploure sobre mojat."
+    error: "sobre mojat"
+    fix: "sobre mullat"
+    fix_distractors:
+      - text: "sobre moll"
+        why: "*Moll* és l'adjectiu («pa moll»). L'expressió fixa diu *mullat*."
+      - text: "damunt mullat"
+        why: "La preposició de l'expressió és *sobre*: *ploure sobre mullat*."
+    explanation: "*Mojat* és un calc de «mojado». L'expressió fixa és *ploure sobre mullat*."
+
+  - id: b2-52-028
+    type: find-error
+    point: compte-traduccio-literal
+    lesson: 3
+    sentence: "Més val tard que nunca, diu el meu pare quan arriba tard a encendre els petards."
+    error: "que nunca"
+    fix: "que mai"
+    fix_distractors:
+      - text: "que sempre"
+        why: "*Sempre* és el contrari de *mai*. El refrany acaba en *mai*."
+      - text: "que jamás"
+        why: "*Jamás* és castellà. En català, el refrany acaba en *mai*."
+    explanation: "*Nunca* és castellà («nunca»). El refrany català és *més val tard que mai*."
+
+  - id: b2-52-029
+    type: find-error
+    point: compte-traduccio-literal
+    lesson: 3
+    sentence: "Va fer de tripes cor i va acceptar la feina de nits."
+    error: "de tripes cor"
+    fix: "el cor fort"
+    fix_distractors:
+      - text: "el cor valent"
+        why: "L'expressió fixa és *fer el cor fort*, no *fer el cor valent*."
+      - text: "de cor fort"
+        why: "L'expressió porta article: *fer el cor fort*."
+    explanation: "*Fer de tripes cor* és un calc de «hacer de tripas corazón». En català: *fer el cor fort*."
+
+  - id: b2-52-030
+    type: find-error
+    point: refranys-registre
+    lesson: 3
+    sentence: "De mica en mica s'omple la piscina, deia sempre el meu avi mentre muntava el pessebre."
+    error: "la piscina"
+    fix: "la pica"
+    fix_distractors:
+      - text: "la bassa"
+        why: "El refrany és fix i diu *la pica*, no *la bassa*."
+      - text: "el safareig"
+        why: "El refrany és fix i diu *la pica*, no *el safareig*."
+    explanation: "Els refranys no es canvien: el refrany diu *de mica en mica s'omple la pica*."
+
+  - id: b2-52-031
+    type: find-error
+    point: refranys-registre
+    lesson: 3
+    sentence: "Qui no vulgui pols, que no vagi a l'era: jo no em fico en baralles de veïns."
+    no_error: true
+    explanation: "La frase és correcta: el refrany és sencer (*qui no vulgui pols, que no vagi a l'era*) i el context (evitar una baralla) hi encaixa."
+
+  - id: b2-52-032
+    type: choice
+    point: refranys-registre
+    lesson: 3
+    prompt: "En quin text queda bé tancar amb «de mica en mica s'omple la pica»?"
+    answer: "En un article d'opinió sobre l'estalvi."
+    distractors:
+      - text: "En una reclamació formal a l'Ajuntament."
+        why: "En un text formal els refranys s'eviten: cal un llenguatge neutre i precís."
+      - text: "En una instància per demanar un ajut."
+        why: "Una instància és un text administratiu: els refranys no hi són adequats."
+    explanation: "Els refranys són propis dels textos propers (conversa, opinió). En textos formals s'eviten."
+
+  - id: b2-52-033
+    type: choice
+    point: refranys-registre
+    lesson: 3
+    prompt: "En quin text evitaries «qui no vulgui pols, que no vagi a l'era»?"
+    answer: "En un correu formal per demanar feina."
+    distractors:
+      - text: "En una conversa amb un amic."
+        why: "La conversa és el lloc natural dels refranys: hi queden bé."
+      - text: "En un pregó de festa major."
+        why: "El pregó és oral i popular: un refrany hi pot donar proximitat."
+    explanation: "Els refranys viuen en l'oralitat i en els textos propers. En un correu formal cal evitar-los."
+
+  - id: b2-52-034
+    type: choice
+    point: compte-traduccio-literal
+    lesson: 3
+    prompt: "Quina expressió diu que algú no es decideix entre dues opcions?"
+    answer: "Estar pengim-penjam."
+    distractors:
+      - text: "Estar entre Pinto i Valdemoro."
+        why: "Aquesta és l'expressió castellana literal («estar entre Pinto y Valdemoro»). En català: *estar pengim-penjam*."
+      - text: "Estar a la babalà."
+        why: "*A la babalà* vol dir sense pensar-s'hi, no indecís. La indecisió és *estar pengim-penjam*."
+    explanation: "L'equivalent català no és literal: la indecisió entre dues opcions és *estar pengim-penjam*."
+
+  - id: b2-52-035
+    type: choice
+    point: compte-traduccio-literal
+    lesson: 3
+    prompt: "La Carla tria les disfresses de carnestoltes sense pensar-s'hi gens. Com ho diries?"
+    answer: "Ho tria tot a la babalà."
+    distractors:
+      - text: "Ho tria tot a lo loco."
+        why: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+      - text: "Ho tria tot a correcuita."
+        why: "*A correcuita* és anar de pressa. «Sense pensar-s'hi» és *a la babalà*."
+    explanation: "Triar sense pensar-s'hi gens és triar *a la babalà*."
+
+  - id: b2-52-036
+    type: fill
+    point: compte-traduccio-literal
+    lesson: 3
+    prompt: "Amb la fira, la rua i les disfresses, van gastar més del que tenien: van estirar més el braç que la ___."
+    hint: "la part del vestit que tapa el braç"
+    answers: ["màniga"]
+    wrong_answers:
+      - text: "manga"
+        why: "*Manga* és un calc de «manga». En català: *màniga*."
+    grading: tolerant
+    explanation: "L'expressió fixa és *estirar més el braç que la màniga*. *Manga* és castellà."
+
+  - id: b2-52-037
+    type: fill
+    point: refranys-registre
+    lesson: 3
+    prompt: "«De mica en mica s'omple la pica» és un refrany: en una instància formal, ___ fer-lo servir."
+    hint: "cal + infinitiu"
+    answers: ["cal evitar", "s'ha d'evitar"]
+    grading: tolerant
+    explanation: "Els refranys no són propis dels textos formals: en una instància *cal evitar* fer-los servir."
+
+  - id: b2-52-038
+    type: fill
+    point: compte-traduccio-literal
+    lesson: 3
+    prompt: "Qui no vulgui ___, que no vagi a l'era."
+    hint: "allò que s'aixeca quan es bat a l'era"
+    answers: ["pols"]
+    wrong_answers:
+      - text: "polvo"
+        why: "*Polvo* és castellà («polvo»). En català: *pols*."
+    grading: tolerant
+    explanation: "El refrany diu *qui no vulgui pols, que no vagi a l'era*."
+
+  - id: b2-52-039
+    type: inline-choice
+    point: refranys-registre
+    lesson: 3
+    title: "Dos correus"
+    text: "Correu a un amic: {Més val tard que mai|Atentament i cordialment}, encara ets a temps d'apuntar-te a la colla castellera! Instància a l'Ajuntament: {Us adjunto|De mica en mica s'omple la pica: us adjunto} el justificant de pagament de la traca. {Atentament|Qui no vulgui pols, que no vagi a l'era}, Laia Vidal."
+    explanation: "Amb un amic, el refrany hi queda bé; en una instància, calen les fórmules formals: *us adjunto* i *atentament*."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-52-040
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix la part marcada per l'expressió corresponent."
+    source: "La Núria [[no es decideix entre el pis de Gràcia i el de Sants]]."
+    answers:
+      - "La Núria està pengim-penjam entre el pis de Gràcia i el de Sants."
+      - "Entre el pis de Gràcia i el de Sants, la Núria està pengim-penjam."
+    wrong_answers:
+      - text: "La Núria està a la babalà entre el pis de Gràcia i el de Sants."
+        why: "*A la babalà* vol dir sense pensar-s'hi. No decidir-se és *estar pengim-penjam*."
+    grading: tolerant
+    explanation: "No decidir-se entre dues opcions és *estar pengim-penjam*."
+
+  - id: b2-52-041
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix la part marcada per l'expressió corresponent."
+    source: "Van organitzar la revetlla [[sense pensar en res i a l'atzar]]."
+    answers:
+      - "Van organitzar la revetlla a la babalà."
+      - "A la babalà, van organitzar la revetlla."
+    wrong_answers:
+      - text: "Van organitzar la revetlla a lo loco."
+        why: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+    grading: tolerant
+    explanation: "Fer una cosa sense pensar-s'hi gens és fer-la *a la babalà*."
+
+  - id: b2-52-042
+    type: transform
+    point: refranys
+    lesson: 4
+    instruction: "Substitueix la part marcada pel refrany corresponent."
+    source: "[[Val més arribar tard que no arribar]]: apunta't a la colla encara que el curs ja ha començat."
+    answers:
+      - "Més val tard que mai: apunta't a la colla encara que el curs ja ha començat."
+      - "Apunta't a la colla encara que el curs ja ha començat: més val tard que mai."
+    wrong_answers:
+      - text: "Més val tard que nunca: apunta't a la colla encara que el curs ja ha començat."
+        why: "*Nunca* és castellà. El refrany és *més val tard que mai*."
+    grading: tolerant
+    explanation: "El refrany que anima a arribar tard és *més val tard que mai*."
+
+  - id: b2-52-043
+    type: transform
+    point: compte-traduccio-literal
+    lesson: 4
+    instruction: "Substitueix el calc per l'expressió catalana."
+    source: "Estic [[entre Pinto i Valdemoro]]: no sé si acceptar el torn de dia o el de nit."
+    answers:
+      - "Estic pengim-penjam: no sé si acceptar el torn de dia o el de nit."
+      - "No sé si acceptar el torn de dia o el de nit: estic pengim-penjam."
+    grading: tolerant
+    explanation: "*Entre Pinto i Valdemoro* és l'expressió castellana. En català, la indecisió és *estar pengim-penjam*."
+
+  - id: b2-52-044
+    type: transform
+    point: compte-traduccio-literal
+    lesson: 4
+    instruction: "Corregeix el calc amb l'expressió catalana."
+    source: "Ho va decidir [[a lo loco]], sense pensar-s'hi gens."
+    answers:
+      - "Ho va decidir a la babalà, sense pensar-s'hi gens."
+      - "Ho va decidir, sense pensar-s'hi gens, a la babalà."
+    grading: tolerant
+    explanation: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+
+  - id: b2-52-045
+    type: transform
+    point: refranys-registre
+    lesson: 4
+    instruction: "Reescriu la frase traient el refrany, en registre formal."
+    source: "Us comunico que [[de mica en mica s'omple la pica]] i que el pagament es farà efectiu dimarts."
+    answers: ["Us comunico que el pagament es farà efectiu dimarts."]
+    wrong_answers:
+      - text: "Us comunico que de mica en mica s'omple la pica."
+        why: "En un text formal el refrany s'evita: cal treure'l, no repetir-lo."
+    grading: tolerant
+    explanation: "En registre formal els refranys s'eviten: la informació es dona sense el refrany."
+
+  - id: b2-52-046
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "Cada any el mateix: la cavalcada surt tard i els Reis arriben quan els nens ja dormen; ___ sobre mullat."
+    hint: "ploure, present"
+    answers: ["plou"]
+    wrong_answers:
+      - text: "plouen"
+        why: "*Ploure* és impersonal: *plou sobre mullat*."
+    grading: tolerant
+    explanation: "«Cada any» marca un fet habitual: *plou sobre mullat*, els mals s'acumulen."
+
+  - id: b2-52-047
+    type: fill
+    point: refranys
+    lesson: 4
+    prompt: "He trigat deu anys a escriure la novel·la, però l'he acabada: més val ___ que mai."
+    hint: "el contrari de «d'hora»"
+    answers: ["tard"]
+    wrong_answers:
+      - text: "d'hora"
+        why: "El refrany diu *tard*, no *d'hora*: *més val tard que mai*."
+    grading: tolerant
+    explanation: "Acabar la novel·la deu anys després és arribar tard: *més val tard que mai*."
+
+  - id: b2-52-048
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "No els agrada assajar el pilar cada nit, però ___ el cor fort."
+    hint: "fer, present perfet (ells)"
+    answers: ["han fet"]
+    grading: tolerant
+    explanation: "L'expressió és *fer el cor fort*. Amb «ells» i en present perfet: *han fet el cor fort*."
+
+  - id: b2-52-049
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Digues que van gastar més del que tenien amb el casament."
+    chunks: ["Van estirar", "més el braç", "que la màniga", "amb el casament"]
+    extra: ["la manga"]
+    answers:
+      - "Van estirar més el braç que la màniga amb el casament."
+    explanation: "Gastar més del que es té és *estirar més el braç que la màniga*."
+
+  - id: b2-52-050
+    type: order
+    point: refranys
+    lesson: 4
+    cue: "Digues el refrany que avisa els qui busquen problemes."
+    chunks: ["Qui no vulgui pols", "que no vagi", "a l'era"]
+    extra: ["que no hi vagi"]
+    answers:
+      - "Qui no vulgui pols, que no vagi a l'era."
+    explanation: "El refrany és fix: *qui no vulgui pols, que no vagi a l'era*."
+
+  - id: b2-52-051
+    type: choice
+    point: refranys-registre
+    lesson: 4
+    prompt: "Vols tancar un article d'opinió sobre la diada de Sant Jordi. Què hi queda bé?"
+    answer: "De mica en mica s'omple la pica."
+    distractors:
+      - text: "Us adjunto el justificant de pagament."
+        why: "És una fórmula administrativa: no tanca un article d'opinió."
+      - text: "Atentament, Laia Vidal."
+        why: "És el comiat d'una carta formal, no el final d'un article."
+    explanation: "Un article d'opinió és un text proper: un refrany com aquest hi queda bé."
+
+  - id: b2-52-052
+    type: choice
+    point: compte-traduccio-literal
+    lesson: 4
+    prompt: "Quina expressió diu que a un mal se n'hi afegeix un altre?"
+    answer: "Ploure sobre mullat."
+    distractors:
+      - text: "Ploure sobre mojat."
+        why: "*Mojat* és un calc de «mojado». En català: *mullat*."
+      - text: "Ploure sobre moll."
+        why: "*Moll* és l'adjectiu («pa moll»). L'expressió fixa diu *mullat*."
+    explanation: "L'equivalent català no és literal: *ploure sobre mullat*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-52-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La festa major de Vilafranca"
+    text: |
+      Feia mesos que la colla castellera de Vilafranca preparava la festa major. L'any passat la pluja havia suspès l'actuació de la vigília i, a més, s'havia trencat el local d'assaig: havia plogut sobre mullat. Enguany, però, tot anava bé: els assajos eren plens i els nous castellers aprenien a posar-se la faixa de mica en mica.
+
+      La Laia, que feia dos anys que era a la colla, estava pengim-penjam: no sabia si pujar al castell de vuit o quedar-se a la pinya. La cap de colla li va dir que no patís, que més val tard que mai, i que si no pujava enguany ja pujaria l'any vinent. Al final la Laia va fer el cor fort i va acceptar el repte.
+
+      Dissabte al matí la cercavila va omplir els carrers: gegants, capgrossos, ball de bastons i trabucaires. A la tarda, a la plaça, la colla va descarregar el tres de vuit i el quatre de vuit. Entre un castell i l'altre, les gralles no paraven i el tabal marcava el ritme.
+
+      A la nit, el correfoc va tancar la festa. La Montse, que havia organitzat la traca a correcuita perquè el proveïdor havia fallat, respirava tranquil·la: tot havia sortit bé. L'alcaldessa va llegir el pregó de cloenda i va recordar que la festa la fan els veïns, any rere any, amb calma i constància.
+
+      Diumenge, la colla va dinar junta a la plaça. Van brindar pels castells descarregats i pels que vindran. Algú va dir que l'any passat havien estirat més el braç que la màniga amb el sopar, i tothom va riure: enguany cadascú havia portat un plat. A la tarda van ballar sardanes a la plaça.
+    questions:
+      - prompt: "Què va passar l'any passat?"
+        answer: "La pluja va suspendre l'actuació i es va trencar el local."
+        distractors:
+          - text: "La colla no va fer castells perquè no tenia prou gent."
+            why: "El text no diu això: parla de la pluja i del local trencat."
+          - text: "La festa es va suspendre perquè no hi havia traca."
+            why: "La traca és d'enguany: la Montse la va organitzar a correcuita."
+      - prompt: "Per què dubtava la Laia?"
+        answer: "Dubtava entre pujar al castell de vuit i quedar-se a la pinya."
+        distractors:
+          - text: "No sabia si anar a la cercavila o al correfoc."
+            why: "La cercavila i el correfoc hi surten, però el dubte és pujar o quedar-se a la pinya."
+          - text: "No sabia si pujar al tres de vuit o al quatre de vuit."
+            why: "La colla va descarregar aquests dos castells, però el dubte de la Laia és pujar o quedar-se a la pinya."
+      - prompt: "Què va fer la colla dissabte a la tarda?"
+        answer: "Va descarregar dos castells de vuit a la plaça."
+        distractors:
+          - text: "Va fer la cercavila amb gegants i capgrossos."
+            why: "La cercavila va ser dissabte al matí."
+          - text: "Va organitzar el correfoc i la traca."
+            why: "El correfoc va ser a la nit."
+      - prompt: "Com va acabar la festa major?"
+        answer: "Amb un dinar de la colla i brindis pels castells."
+        distractors:
+          - text: "Amb una discussió pel preu del sopar."
+            why: "Del sopar car només en riuen: és una broma."
+          - text: "Amb el pregó de l'alcaldessa a la plaça."
+            why: "El pregó va ser dissabte a la nit, abans del dinar de diumenge."
+    explanation: "El text explica com la colla de Vilafranca prepara i viu la festa major, de la cercavila al dinar de diumenge."
+
+  - id: b2-52-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—La castanyada es va suspendre per la pluja i a sobre ens van robar la motxilla. —Sí, ___."
+    answer: "va ploure sobre mullat"
+    distractors:
+      - text: "vau fer el cor fort"
+        why: "*Fer el cor fort* és resignar-se. Aquí es parla de dos mals seguits: *va ploure sobre mullat*."
+      - text: "vau anar a la babalà"
+        why: "*A la babalà* és sense pensar-s'hi. Suspendre una festa i robar no són decisions: *va ploure sobre mullat*."
+    explanation: "Festa suspesa i motxilla robada: dos mals seguits, *va ploure sobre mullat*."
+
+  - id: b2-52-055
+    type: choice
+    point: refranys
+    lesson: 5
+    prompt: "Un amic de seixanta anys comença a estudiar anglès. Què li dius per animar-lo?"
+    answer: "Més val tard que mai!"
+    distractors:
+      - text: "Qui no vulgui pols, que no vagi a l'era!"
+        why: "Aquest refrany avisa els qui busquen problemes. Estudiar no és cap risc."
+      - text: "Estira més el braç que la màniga!"
+        why: "Això és gastar massa. Per animar algú que comença tard: *més val tard que mai*."
+    explanation: "Començar a seixanta anys és arribar tard, però encara té valor: *més val tard que mai*."
+
+  - id: b2-52-056
+    type: choice
+    point: compte-traduccio-literal
+    lesson: 5
+    prompt: "Com sona en català el refrany que anima a ser constant, a fer les coses a poc a poc?"
+    answer: "De mica en mica s'omple la pica."
+    distractors:
+      - text: "De poc a poc s'omple la pica."
+        why: "*Poc a poc* és correcte en general, però el refrany diu *de mica en mica*."
+      - text: "A poc a poc s'omple la pica."
+        why: "El refrany comença amb *de*: *de mica en mica s'omple la pica*."
+    explanation: "L'equivalent català no és literal: el refrany diu *de mica en mica s'omple la pica*."
+
+  - id: b2-52-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Aquest any, amb el local nou i els vestits de la colla, nosaltres ___ més el braç que la màniga."
+    hint: "estirar (nosaltres)"
+    answers: ["hem estirat", "estirem", "vam estirar", "estiràvem"]
+    grading: tolerant
+    explanation: "«Nosaltres» demana la primera persona del plural: *hem estirat*, *estirem*, *vam estirar* o *estiràvem més el braç que la màniga*."
+
+  - id: b2-52-058
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Substitueix la part marcada per l'expressió corresponent."
+    source: "No volien marxar del barri, però [[van acceptar el trasllat amb resignació]]."
+    answers: ["No volien marxar del barri, però van fer el cor fort."]
+    grading: tolerant
+    explanation: "Acceptar amb resignació és *fer el cor fort*."
+
+  - id: b2-52-059
+    type: transform
+    point: refranys-registre
+    lesson: 5
+    instruction: "Reescriu la frase en registre formal, sense el refrany."
+    source: "Benvolgut senyor: li comunico que [[qui no vulgui pols, que no vagi a l'era]] i que no tornarem a enviar avisos."
+    answers: ["Benvolgut senyor: li comunico que no tornarem a enviar avisos."]
+    wrong_answers:
+      - text: "Benvolgut senyor: li comunico que qui no vulgui pols, que no vagi a l'era."
+        why: "El refrany no és propi d'una carta formal: cal treure'l."
+    grading: tolerant
+    explanation: "En una carta formal el refrany s'evita: només hi queda la informació."
+
+  - id: b2-52-060
+    type: find-error
+    point: compte-traduccio-literal
+    lesson: 5
+    sentence: "Estires més el braç que la manga i acabaràs sense regals per al tió."
+    error: "la manga"
+    fix: "la màniga"
+    fix_distractors:
+      - text: "la maniga"
+        why: "*Màniga* porta accent obert a la primera síl·laba: *màniga*."
+      - text: "les mànigues"
+        why: "L'expressió és en singular: *la màniga*."
+    explanation: "*Manga* és un calc de «manga». En català: *estirar més el braç que la màniga*."
+
+  - id: b2-52-061
+    type: find-error
+    point: refranys-registre
+    lesson: 5
+    sentence: "Més val d'hora que mai, deia la meva àvia quan arribava tard amb la mona."
+    error: "d'hora"
+    fix: "tard"
+    fix_distractors:
+      - text: "tarda"
+        why: "*Tarda* és el nom («a la tarda»). El refrany diu *tard*."
+      - text: "aviat"
+        why: "El refrany és fix: *més val tard que mai*."
+    explanation: "Els refranys no es canvien: el refrany és *més val tard que mai*."
+
+  - id: b2-52-062
+    type: find-error
+    point: compte-traduccio-literal
+    lesson: 5
+    sentence: "L'Ibrahim està pengim-penjam: no sap si anar a l'aplec o quedar-se a Vic."
+    no_error: true
+    explanation: "La frase és correcta: *estar pengim-penjam* és l'expressió catalana per a la indecisió, i el context (dubtar entre dues opcions) hi encaixa."
+
+  - id: b2-52-063
+    type: inline-choice
+    point: expressions
+    lesson: 5
+    title: "La festa del carrer"
+    text: "Els veïns, {a la babalà|a correcuita|a lo loco}, van decidir guarnir el carrer sencer: no s'ho van pensar gens, i ho van fer {a correcuita|a la babalà|de mica en mica} perquè faltaven dos dies. Van gastar més del previst: van {estirar més el braç que la màniga|estirar més el braç que la manga|estirar més la màniga que el braç}. La pluja va espatllar la meitat dels guarniments, però els veïns {van fer el cor fort|van estar pengim-penjam|ho van deixar córrer} i ho van refer."
+    explanation: "*A la babalà* és sense pensar-s'hi; *a correcuita* és anar de pressa; gastar massa és *estirar més el braç que la màniga*; refer-ho amb resignació és *fer el cor fort*."
+
+  - id: b2-52-064
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació en què queda bé."
+    pairs:
+      - ["ploure sobre mullat", "perdre la feina i espatllar-se el cotxe la mateixa setmana"]
+      - ["fer el cor fort", "acceptar un horari que no agrada sense protestar"]
+      - ["a correcuita", "acabar l'informe en una hora perquè hi ha una reunió"]
+      - ["estirar més el braç que la màniga", "comprar un cotxe que no es pot pagar"]
+      - ["a la babalà", "triar el paper dels pastorets sense llegir l'obra"]
+      - ["estar pengim-penjam", "dubtar entre dues ofertes de feina igual de bones"]
+    explanation: "Cada expressió té la seva situació: fixa't en el matís de cadascuna."
+
+  - id: b2-52-065
+    type: choice
+    point: refranys-registre
+    lesson: 5
+    prompt: "Quina frase és adequada per tancar una reclamació formal?"
+    answer: "Resto a l'espera de la vostra resposta."
+    distractors:
+      - text: "De mica en mica s'omple la pica, ja ho veurem."
+        why: "Un refrany no és propi d'una reclamació formal."
+      - text: "Qui no vulgui pols, que no vagi a l'era."
+        why: "Un refrany no és propi d'una reclamació formal: sona amenaçador i col·loquial."
+    explanation: "Una reclamació formal es tanca amb una fórmula de cortesia, mai amb un refrany."

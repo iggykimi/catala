@@ -1,0 +1,1023 @@
+id: a2-11
+level: A2
+title: "Pronoms febles (I): complement directe i indirecte"
+summary: "Els pronoms *el, la, els, les, ho* per al complement directe, *li* i *els* per a l'indirecte, les formes davant i darrere del verb i les dues posicions amb infinitiu."
+vocabulary_theme: "Regals, celebracions i aniversaris"
+points:
+  - id: pronoms-cd
+    title: "El complement directe: *el, la, els, les, ho*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: pronom-ci
+    title: "El complement indirecte: *li, els*"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: formes-posicio
+    title: "Les formes i la posició del pronom"
+    refs:
+      - label: "GEIEC: Els pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *els* i *el*"
+  - id: expressions
+    title: "Expressions per felicitar i quedar"
+lessons:
+  - title: "El regal i la Núria: *el, la, li*"
+  - title: "Practiquem *els, les, ho* i *els*"
+  - title: "Davant o darrere? Les formes del pronom"
+  - title: "Tot junt: substituïm i produïm"
+  - title: "Repàs i una festa d'aniversari"
+vocabulary:
+  - word: "el regal"
+    definition: "Cosa que dones a algú en una festa o un aniversari."
+    example: "He comprat un regal per a la Núria."
+  - word: "embolicar"
+    definition: "Posar paper al voltant d'un regal per tapar-lo."
+    example: "Embolico el regal amb paper blau."
+  - word: "el paper de regal"
+    definition: "Paper de colors per embolicar els regals."
+    example: "El paper de regal és a l'armari."
+  - word: "la cinta"
+    definition: "Tira llarga i prima per tancar un paquet."
+    example: "Poso una cinta vermella al paquet."
+  - word: "la sorpresa"
+    definition: "Cosa bona que algú no s'espera."
+    example: "Li preparem una festa sorpresa."
+  - word: "l'aniversari"
+    definition: "El dia que algú fa anys."
+    example: "Dissabte és l'aniversari d'en Pau."
+  - word: "el pastís"
+    definition: "Dolç gran, sovint rodó, per a una festa."
+    example: "Comprem un pastís de xocolata."
+  - word: "l'espelma"
+    definition: "Barra petita de cera que fa llum i es bufa."
+    example: "La nena bufa les espelmes del pastís."
+  - word: "bufar"
+    definition: "Treure aire fort per la boca."
+    example: "Bufa les espelmes i demana un desig."
+  - word: "el desig"
+    definition: "Cosa bona que vols que passi."
+    example: "Demana un desig abans de bufar."
+  - word: "brindar"
+    definition: "Beure amb altres per celebrar una cosa bona."
+    example: "Brindem per la Núria amb vi."
+  - word: "la copa"
+    definition: "Got alt i prim per beure vi o cava."
+    example: "Rento les copes abans de la festa."
+  - word: "el convidat, la convidada"
+    definition: "Persona que ve a una festa perquè l'han convidat."
+    example: "Els convidats arriben a les vuit."
+  - word: "convidar"
+    definition: "Demanar a algú que vingui a una festa."
+    example: "En Pau convida vint amics dissabte."
+  - word: "la festa"
+    definition: "Trobada de gent per celebrar una cosa."
+    example: "La festa és dissabte a casa meva."
+  - word: "celebrar"
+    definition: "Fer una festa per una cosa bona."
+    example: "Celebrem l'aniversari amb un dinar."
+  - word: "felicitar"
+    definition: "Dir a algú que estàs content per ell."
+    example: "Felicito la Carla per la feina nova."
+  - word: "el ram"
+    definition: "Conjunt de flors que es donen juntes."
+    example: "Li dono un ram de flors blanques."
+  - word: "la flor"
+    definition: "Part bonica d'una planta, de colors."
+    example: "Cada flor del ram és diferent."
+  - word: "la targeta"
+    definition: "Paper petit on escrius un missatge."
+    example: "Escric una targeta per a l'Ibrahim."
+  - word: "donar"
+    definition: "Posar una cosa a les mans d'algú."
+    example: "Dono el regal a la Montse."
+  - word: "rebre"
+    definition: "Agafar una cosa que algú et dona."
+    example: "Rep molts regals pel seu aniversari."
+  - word: "obrir"
+    definition: "Treure el paper d'un regal o una porta tancada."
+    example: "Obro els regals amb els nens."
+  - word: "preparar"
+    definition: "Deixar una cosa a punt abans d'una festa."
+    example: "Preparem la sala abans de les vuit."
+  - word: "decorar"
+    definition: "Posar coses boniques en un lloc de festa."
+    example: "Decora la sala amb globus grocs."
+  - word: "el globus"
+    definition: "Bossa de colors plena d'aire per a festes."
+    example: "Els nens pengen els globus al sostre."
+  - word: "ballar"
+    definition: "Moure el cos amb la música."
+    example: "Després de sopar ballen fins tard."
+  - word: "cantar"
+    definition: "Fer música amb la veu."
+    example: "Tothom canta quan entra la Núria."
+  - word: "la cançó"
+    definition: "Música amb lletra per cantar."
+    example: "La cançó de la festa és molt llarga."
+  - word: "quedar"
+    definition: "Acordar un dia i una hora per trobar-se."
+    example: "Quedem dissabte a les vuit."
+  - word: "portar"
+    definition: "Dur una cosa d'un lloc a un altre."
+    example: "L'Ibrahim porta les begudes en cotxe."
+  - word: "la foto"
+    definition: "Imatge que fas amb el mòbil o la càmera."
+    example: "Faig les fotos amb el mòbil nou."
+  - word: "el missatge"
+    definition: "Text curt que envies a algú."
+    example: "Li escric un missatge cada diumenge."
+items:
+  - id: a2-11-001
+    type: choice
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—On és el regal? —___ tinc a la motxilla."
+    answer: "El"
+    distractors:
+      - text: "Li"
+        why: "*Li* és complement indirecte. «El regal» és complement directe."
+      - text: "Ho"
+        why: "*Ho* substitueix una idea, no un nom com «el regal»."
+    explanation: "«El regal» és complement directe masculí singular: el pronom és *el*."
+
+  - id: a2-11-002
+    type: choice
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—On és la targeta? —___ tinc aquí, a la taula."
+    answer: "La"
+    distractors:
+      - text: "Li"
+        why: "*Li* és complement indirecte. «La targeta» és complement directe."
+      - text: "Ho"
+        why: "*Ho* substitueix una idea, no un nom com «la targeta»."
+    explanation: "«La targeta» és complement directe femení singular: *la*."
+
+  - id: a2-11-003
+    type: choice
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—On són els globus? —___ tinc al cotxe."
+    answer: "Els"
+    distractors:
+      - text: "Les"
+        why: "*Les* és femení. «Els globus» és masculí plural: *els*."
+      - text: "Li"
+        why: "*Li* és singular i indirecte. «Els globus» és directe plural."
+    explanation: "«Els globus» és complement directe masculí plural: *els*."
+
+  - id: a2-11-004
+    type: choice
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—On són les fotos? —___ tinc al mòbil."
+    answer: "Les"
+    distractors:
+      - text: "Els"
+        why: "*Els* és masculí. «Les fotos» és femení plural: *les*."
+      - text: "Li"
+        why: "*Li* és singular i indirecte. «Les fotos» és directe plural."
+    explanation: "«Les fotos» és complement directe femení plural: *les*."
+
+  - id: a2-11-005
+    type: choice
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—Saps que la festa és dissabte? —Sí, ___ sé des d'ahir."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* substitueix un nom masculí. Aquí substituïm una idea."
+      - text: "la"
+        why: "*La* substitueix un nom femení. Aquí substituïm una idea."
+    explanation: "Substituïm una idea («que la festa és dissabte»): el pronom és *ho*."
+
+  - id: a2-11-006
+    type: choice
+    point: pronom-ci
+    lesson: 1
+    prompt: "—Què dones a la Núria? —___ dono un llibre."
+    answer: "Li"
+    distractors:
+      - text: "La"
+        why: "*La* és complement directe. «A la Núria» és indirecte."
+      - text: "Ho"
+        why: "*Ho* és per a una idea. «A la Núria» és una persona."
+    explanation: "«A la Núria» és complement indirecte singular: *li*."
+
+  - id: a2-11-007
+    type: choice
+    point: pronom-ci
+    lesson: 1
+    prompt: "—Què dius als convidats? —___ dic l'hora de la festa."
+    answer: "Els"
+    distractors:
+      - text: "Les"
+        why: "*Les* és directe femení. El CI plural és *els*, també per a dones."
+      - text: "Li"
+        why: "*Li* és singular. «Als convidats» és plural: *els*."
+    explanation: "«Als convidats» és complement indirecte plural: *els*."
+
+  - id: a2-11-008
+    type: choice
+    point: pronom-ci
+    lesson: 1
+    prompt: "Escric un missatge a la Montse: ___ escric cada diumenge."
+    answer: "Li"
+    distractors:
+      - text: "La"
+        why: "*La* és complement directe. «A la Montse» és indirecte."
+      - text: "Ho"
+        why: "*Ho* és per a una idea. «A la Montse» és una persona."
+    explanation: "«A la Montse» és complement indirecte singular: *li*."
+
+  - id: a2-11-009
+    type: match
+    point: pronoms-cd
+    lesson: 1
+    instruction: "Relaciona cada nom amb el pronom que el substitueix."
+    pairs:
+      - ["el pastís", "el"]
+      - ["la cançó", "la"]
+      - ["els regals", "els"]
+      - ["les espelmes", "les"]
+    explanation: "El pronom concorda en gènere i nombre amb el nom."
+
+  - id: a2-11-010
+    type: match
+    point: pronom-ci
+    lesson: 1
+    instruction: "Relaciona cada frase amb la mateixa frase amb pronom."
+    pairs:
+      - ["Dono el llibre a en Pau.", "Li dono el llibre."]
+      - ["Dic l'adreça als veïns.", "Els dic l'adreça."]
+      - ["Porto les flors a la Carla.", "Li porto les flors."]
+      - ["Escric la data a les amigues.", "Els escric la data."]
+    explanation: "*Li* substitueix una persona; *els*, més d'una."
+
+  - id: a2-11-011
+    type: inline-choice
+    point: pronoms-cd
+    lesson: 1
+    title: "Un missatge per a l'Arnau"
+    text: "Hola, Arnau! El regal per a la Laia ja {el|li|ho} tinc. La targeta també {la|li|les} tinc. Els globus {els|les|li} porto demà. Les fotos {les|els|ho} faig amb el mòbil."
+    explanation: "*El regal → el*, *la targeta → la*, *els globus → els*, *les fotos → les*."
+
+  - id: a2-11-012
+    type: inline-choice
+    point: pronom-ci
+    lesson: 1
+    title: "La festa de dissabte"
+    text: "A en Jordi {li|el|la} dic l'hora. A la Fàtima també {li|la|ho} escric un missatge. Als convidats {els|les|li} dono l'adreça. A les veïnes {els|les|li} porto el pastís."
+    explanation: "Una persona rep *li*; més d'una, *els*, també per a dones."
+
+  - id: a2-11-013
+    type: fill
+    point: pronoms-cd
+    lesson: 1
+    prompt: "—On és el pastís? —___ compro demà al matí."
+    hint: "pronom per a «el pastís»"
+    answers: ["El"]
+    wrong_answers:
+      - text: "Li"
+        why: "*Li* és complement indirecte. «El pastís» és directe."
+      - text: "Ho"
+        why: "*Ho* és per a una idea, no per a un nom."
+    grading: tolerant
+    explanation: "«El pastís» és complement directe masculí singular: *el*."
+
+  - id: a2-11-014
+    type: fill
+    point: pronoms-cd
+    lesson: 2
+    prompt: "—On és la cinta? —___ compro aquesta tarda."
+    hint: "pronom per a «la cinta»"
+    answers: ["La"]
+    wrong_answers:
+      - text: "Li"
+        why: "*Li* és complement indirecte. «La cinta» és directe."
+      - text: "Ho"
+        why: "*Ho* és per a una idea, no per a un nom."
+    grading: tolerant
+    explanation: "«La cinta» és complement directe femení singular: *la*."
+
+  - id: a2-11-015
+    type: fill
+    point: pronoms-cd
+    lesson: 2
+    prompt: "—Reps els regals avui? —Sí, ___ obro aquesta tarda."
+    hint: "pronom per a «els regals»"
+    answers: ["els"]
+    wrong_answers:
+      - text: "les"
+        why: "*Les* és femení. «Els regals» és masculí: *els*."
+      - text: "li"
+        why: "*Li* és singular i indirecte. Aquí cal directe plural."
+    grading: tolerant
+    explanation: "«Els regals» és complement directe masculí plural: *els*."
+
+  - id: a2-11-016
+    type: fill
+    point: pronoms-cd
+    lesson: 2
+    prompt: "—On són les copes? —___ rento ara mateix."
+    hint: "pronom per a «les copes»"
+    answers: ["Les"]
+    wrong_answers:
+      - text: "Els"
+        why: "*Els* és masculí. «Les copes» és femení: *les*."
+      - text: "Li"
+        why: "*Li* és singular i indirecte. Aquí cal directe plural."
+    grading: tolerant
+    explanation: "«Les copes» és complement directe femení plural: *les*."
+
+  - id: a2-11-017
+    type: fill
+    point: pronoms-cd
+    lesson: 2
+    prompt: "—Saps que la festa és a les vuit? —Sí, ___ sé."
+    hint: "pronom per a una idea"
+    answers: ["ho"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* substitueix un nom masculí. Aquí hi ha una idea."
+      - text: "la"
+        why: "*La* substitueix un nom femení. Aquí hi ha una idea."
+    grading: tolerant
+    explanation: "Substituïm una idea («que la festa és a les vuit»): *ho*."
+
+  - id: a2-11-018
+    type: fill
+    point: pronom-ci
+    lesson: 2
+    prompt: "—Què portes a en Wei? —___ porto el vi."
+    hint: "pronom per a «a en Wei»"
+    answers: ["Li"]
+    wrong_answers:
+      - text: "El"
+        why: "*El* és complement directe. «A en Wei» és indirecte."
+      - text: "La"
+        why: "*La* és complement directe. «A en Wei» és indirecte."
+    grading: tolerant
+    explanation: "«A en Wei» és complement indirecte singular: *li*."
+
+  - id: a2-11-019
+    type: fill
+    point: pronom-ci
+    lesson: 2
+    prompt: "—Què dieu a les convidades? —___ diem l'hora."
+    hint: "pronom per a «a les convidades»"
+    answers: ["Els"]
+    wrong_answers:
+      - text: "Les"
+        why: "*Les* és directe femení. El CI plural és *els*, també per a dones."
+      - text: "Li"
+        why: "*Li* és singular. «A les convidades» és plural."
+    grading: tolerant
+    explanation: "«A les convidades» és complement indirecte plural: *els*."
+
+  - id: a2-11-020
+    type: fill
+    point: pronom-ci
+    lesson: 2
+    prompt: "—Escrius a l'Ibrahim? —Sí, ___ escric cada setmana."
+    hint: "pronom per a «a l'Ibrahim»"
+    answers: ["li"]
+    wrong_answers:
+      - text: "el"
+        why: "*El* és complement directe. «A l'Ibrahim» és indirecte."
+      - text: "ho"
+        why: "*Ho* és per a una idea. «A l'Ibrahim» és una persona."
+    grading: tolerant
+    explanation: "«A l'Ibrahim» és complement indirecte singular: *li*."
+
+  - id: a2-11-021
+    type: order
+    point: pronoms-cd
+    lesson: 2
+    cue: "Digues on tens el paper de regal: a l'armari."
+    chunks: ["El", "tinc", "a", "l'armari"]
+    extra: ["Li", "ho"]
+    answers:
+      - "El tinc a l'armari."
+      - "A l'armari el tinc."
+    explanation: "«El paper de regal» és directe masculí: *el*. Va davant del verb."
+
+  - id: a2-11-022
+    type: order
+    point: pronoms-cd
+    lesson: 2
+    cue: "Parles de les targetes de la festa. Digues que les obres el mateix dia."
+    chunks: ["Les", "obro", "el", "mateix", "dia"]
+    extra: ["Els", "li"]
+    answers:
+      - "Les obro el mateix dia."
+      - "El mateix dia les obro."
+    explanation: "«Les targetes» és directe femení plural: *les*."
+
+  - id: a2-11-023
+    type: order
+    point: pronom-ci
+    lesson: 2
+    cue: "Digues que dones l'adreça a la Carla demà."
+    chunks: ["Li", "dono", "l'adreça", "demà"]
+    extra: ["La", "ho"]
+    answers:
+      - "Li dono l'adreça demà."
+      - "Demà li dono l'adreça."
+    explanation: "«A la Carla» és complement indirecte: *li*. Va davant del verb."
+
+  - id: a2-11-024
+    type: choice
+    point: pronoms-cd
+    lesson: 2
+    prompt: "—Ja dius a tothom que vens? —Sí, ___ dic a tothom avui."
+    answer: "ho"
+    distractors:
+      - text: "el"
+        why: "*El* substitueix un nom masculí. Aquí hi ha una idea."
+      - text: "li"
+        why: "*Li* és per a una persona. Aquí hi ha una idea."
+    explanation: "Substituïm una idea («que vinc»): el pronom és *ho*."
+
+  - id: a2-11-025
+    type: choice
+    point: pronom-ci
+    lesson: 2
+    prompt: "—Quan escrius als avis? —___ escric demà al matí."
+    answer: "Els"
+    distractors:
+      - text: "Les"
+        why: "*Les* és directe femení. El CI plural és *els*."
+      - text: "Li"
+        why: "*Li* és singular. «Als avis» és plural: *els*."
+    explanation: "«Als avis» és complement indirecte plural: *els*."
+
+  - id: a2-11-026
+    type: inline-choice
+    point: pronoms-cd
+    lesson: 2
+    title: "Preparant la festa"
+    text: "El pastís {el|li|ho} compro jo. Les begudes {les|els|li} porta en Pau. La música {la|li|ho} tria la Núria. Els jocs {els|les|li} prepara l'Arnau. Que vindré tard, {ho|el|li} dic ara."
+    explanation: "Quatre noms amb el seu pronom, i una idea amb *ho*."
+
+  - id: a2-11-027
+    type: choice
+    point: formes-posicio
+    lesson: 3
+    prompt: "El regal és aquí. Vull ___ aquesta tarda."
+    answer: "embolicar-lo"
+    distractors:
+      - text: "embolicar-el"
+        why: "Darrere de l'infinitiu, *el* fa *-lo*: *embolicar-lo*."
+      - text: "el embolicar"
+        why: "El pronom no va entre *vull* i l'infinitiu."
+    explanation: "Darrere de l'infinitiu, el pronom masculí és *-lo*: *embolicar-lo*."
+
+  - id: a2-11-028
+    type: choice
+    point: formes-posicio
+    lesson: 3
+    prompt: "El pastís ___ demà al matí."
+    answer: "el vull tastar"
+    distractors:
+      - text: "vull el tastar"
+        why: "El pronom no va entre *vull* i l'infinitiu."
+      - text: "vull lo tastar"
+        why: "*Lo* no va davant, i el pronom no va entre els verbs."
+    explanation: "El pronom va davant de *vull*: *el vull tastar*. També: *vull tastar-lo*."
+
+  - id: a2-11-029
+    type: choice
+    point: formes-posicio
+    lesson: 3
+    prompt: "La targeta ___ aquest vespre."
+    answer: "he d'escriure-la"
+    distractors:
+      - text: "he de escriure-la"
+        why: "*De* s'apostrofa davant de vocal: *he d'escriure-la*."
+      - text: "he d'escriure-el"
+        why: "*Targeta* és femení: el pronom és *-la*, no *-el*."
+    explanation: "Darrere de l'infinitiu, el femení és *-la*: *he d'escriure-la*."
+
+  - id: a2-11-030
+    type: choice
+    point: formes-posicio
+    lesson: 3
+    prompt: "La targeta és aquí. ___ ara, que és per a tu."
+    answer: "Obre-la"
+    distractors:
+      - text: "Obre-el"
+        why: "*Targeta* és femení: l'ordre és *obre-la*."
+      - text: "L'obre"
+        why: "*L'obre* és present (*ell l'obre*), no una ordre."
+    explanation: "L'ordre porta el pronom darrere: *obre-la*."
+
+  - id: a2-11-031
+    type: fill
+    point: formes-posicio
+    lesson: 3
+    prompt: "—On és l'espelma grossa? —___ de la caixa."
+    hint: "agafar, present, amb pronom"
+    answers: ["L'agafo"]
+    wrong_answers:
+      - text: "La agafo"
+        why: "Davant de vocal, *la* s'apostrofa: *l'agafo*."
+      - text: "Li agafo"
+        why: "*Li* és indirecte. «L'espelma» és directe femení."
+    grading: strict
+    explanation: "«L'espelma» és femení. Davant de vocal: *l'agafo*."
+
+  - id: a2-11-032
+    type: fill
+    point: formes-posicio
+    lesson: 3
+    prompt: "Vull ___ avui mateix, la targeta."
+    hint: "escriure, amb pronom per a «la targeta»"
+    answers: ["escriure-la"]
+    wrong_answers:
+      - text: "escriure-el"
+        why: "*Targeta* és femení: *escriure-la*."
+      - text: "l'escriure"
+        why: "El pronom no va davant de l'infinitiu: *escriure-la*."
+    grading: strict
+    explanation: "Darrere de l'infinitiu, amb guionet: *escriure-la*."
+
+  - id: a2-11-033
+    type: fill
+    point: formes-posicio
+    lesson: 3
+    prompt: "—Tastes el pastís? —Sí, ___ tastar ara."
+    hint: "voler, present, amb pronom per a «el pastís»"
+    answers: ["el vull"]
+    wrong_answers:
+      - text: "lo vull"
+        why: "Davant del verb la forma és *el*: *el vull*."
+      - text: "li vull"
+        why: "*Li* és indirecte. «El pastís» és directe: *el*."
+    grading: tolerant
+    explanation: "«El pastís» és directe: *el vull tastar*. També: *vull tastar-lo*."
+
+  - id: a2-11-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Les dono l'adreça a les cosines demà."
+    error: "Les dono"
+    fix: "Els dono"
+    fix_distractors:
+      - text: "Li dono"
+        why: "*Li* és singular. «A les cosines» és plural."
+      - text: "La dono"
+        why: "*La* és directe. Aquí cal indirecte plural: *els*."
+    explanation: "«A les cosines» és CI plural: *els*. En castellà és «les»."
+
+  - id: a2-11-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Lo compro demà, el ram de flors."
+    error: "Lo compro"
+    fix: "El compro"
+    fix_distractors:
+      - text: "Li compro"
+        why: "*Li* és indirecte. «El ram» és directe."
+      - text: "Ho compro"
+        why: "*Ho* és per a una idea, no per a un nom."
+    explanation: "Davant del verb, el directe masculí és *el*. *Lo* aquí és un calc de «lo compro»."
+
+  - id: a2-11-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La dic la data a la Núria per telèfon."
+    error: "La dic"
+    fix: "Li dic"
+    fix_distractors:
+      - text: "Els dic"
+        why: "*Els* és plural. «A la Núria» és singular."
+      - text: "Ho dic"
+        why: "*Ho* és per a una idea. Aquí hi ha una persona."
+    explanation: "«A la Núria» és CI singular: *li*. *La* per al CI és un calc de «la digo»."
+
+  - id: a2-11-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Els dono el regal a les nenes dissabte."
+    no_error: true
+    explanation: "La frase és correcta: el CI plural és *els*, també per a dones."
+
+  - id: a2-11-038
+    type: find-error
+    point: formes-posicio
+    lesson: 3
+    sentence: "Vull el comprar demà, el pastís."
+    error: "el comprar"
+    fix: "comprar-lo"
+    fix_distractors:
+      - text: "lo comprar"
+        why: "El pronom no va entre *vull* i l'infinitiu, i no és *lo*."
+      - text: "el comprant"
+        why: "Després de *vull* va l'infinitiu, no el gerundi."
+    explanation: "El pronom no va entre els verbs: *vull comprar-lo*."
+
+  - id: a2-11-039
+    type: order
+    point: formes-posicio
+    lesson: 3
+    cue: "Digues que no vols obrir el regal ara."
+    chunks: ["No", "el", "vull", "obrir", "ara"]
+    extra: ["lo", "li"]
+    answers:
+      - "No el vull obrir ara."
+      - "Ara no el vull obrir."
+    explanation: "El pronom va davant del primer verb: *no el vull obrir*."
+
+  - id: a2-11-040
+    type: transform
+    point: pronoms-cd
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Compro [[el pastís]] demà al matí."
+    answers: ["El compro demà al matí."]
+    wrong_answers:
+      - text: "Lo compro demà al matí."
+        why: "Davant del verb la forma és *el*: *el compro*."
+      - text: "Li compro demà al matí."
+        why: "*Li* és indirecte. «El pastís» és directe."
+    grading: tolerant
+    explanation: "«El pastís» és directe masculí singular: *el compro*."
+
+  - id: a2-11-041
+    type: transform
+    point: pronoms-cd
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Obro [[les targetes]] a la festa."
+    answers: ["Les obro a la festa."]
+    wrong_answers:
+      - text: "Els obro a la festa."
+        why: "*Els* és masculí. «Les targetes» és femení: *les*."
+      - text: "Li obro a la festa."
+        why: "*Li* és singular i indirecte. Aquí cal directe plural."
+    grading: tolerant
+    explanation: "«Les targetes» és directe femení plural: *les obro*."
+
+  - id: a2-11-042
+    type: transform
+    point: pronoms-cd
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "La Núria sap [[que la festa és dissabte]] des d'ahir."
+    answers: ["La Núria ho sap des d'ahir."]
+    wrong_answers:
+      - text: "La Núria el sap des d'ahir."
+        why: "*El* és per a un nom masculí. Una idea demana *ho*."
+      - text: "La Núria la sap des d'ahir."
+        why: "*La* és per a un nom femení. Una idea demana *ho*."
+    grading: tolerant
+    explanation: "Una idea se substitueix per *ho*: *la Núria ho sap*."
+
+  - id: a2-11-043
+    type: transform
+    point: pronom-ci
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Dono el llibre [[a en Pau]] demà."
+    answers: ["Li dono el llibre demà."]
+    wrong_answers:
+      - text: "La dono el llibre demà."
+        why: "*La* és directe. «A en Pau» és indirecte: *li*."
+      - text: "Els dono el llibre demà."
+        why: "*Els* és plural. «A en Pau» és singular: *li*."
+    grading: tolerant
+    explanation: "«A en Pau» és CI singular: *li dono el llibre*."
+
+  - id: a2-11-044
+    type: transform
+    point: pronom-ci
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "Escric la data [[als convidats]] avui."
+    answers: ["Els escric la data avui."]
+    wrong_answers:
+      - text: "Les escric la data avui."
+        why: "*Les* és directe. El CI plural és *els*."
+      - text: "Li escric la data avui."
+        why: "*Li* és singular. «Als convidats» és plural."
+    grading: tolerant
+    explanation: "«Als convidats» és CI plural: *els escric*."
+
+  - id: a2-11-045
+    type: transform
+    point: formes-posicio
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Vull comprar [[el ram]] demà."
+    answers: ["El vull comprar demà.", "Vull comprar-lo demà."]
+    wrong_answers:
+      - text: "Vull el comprar demà."
+        why: "El pronom no va entre *vull* i l'infinitiu."
+      - text: "Lo vull comprar demà."
+        why: "Davant del verb la forma és *el*: *el vull*."
+    grading: tolerant
+    explanation: "«El ram» és directe: *el vull comprar* o *vull comprar-lo*."
+
+  - id: a2-11-046
+    type: transform
+    point: formes-posicio
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "He de portar [[les copes]] a la festa."
+    answers: ["Les he de portar a la festa.", "He de portar-les a la festa."]
+    wrong_answers:
+      - text: "He de les portar a la festa."
+        why: "El pronom no va entre *de* i l'infinitiu."
+      - text: "Els he de portar a la festa."
+        why: "*Els* és masculí. «Les copes» és femení: *les*."
+    grading: tolerant
+    explanation: "«Les copes» és directe plural: *les he de portar* o *he de portar-les*."
+
+  - id: a2-11-047
+    type: transform
+    point: formes-posicio
+    lesson: 4
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Vull escriure [[als avis]] aquesta tarda."
+    answers: ["Els vull escriure aquesta tarda.", "Vull escriure'ls aquesta tarda."]
+    wrong_answers:
+      - text: "Vull els escriure aquesta tarda."
+        why: "El pronom no va entre *vull* i l'infinitiu."
+      - text: "Vull escriure-els aquesta tarda."
+        why: "Darrere d'*escriure*, *els* fa *'ls*: *escriure'ls*."
+    grading: tolerant
+    explanation: "«Als avis» és CI plural: *els vull escriure* o *vull escriure'ls*."
+
+  - id: a2-11-048
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[Les]] dic l'hora a les amigues."
+    answers: ["Els dic l'hora a les amigues."]
+    wrong_answers:
+      - text: "Li dic l'hora a les amigues."
+        why: "*Li* és singular. «A les amigues» és plural."
+      - text: "La dic l'hora a les amigues."
+        why: "*La* és directe. Aquí cal indirecte plural: *els*."
+    grading: tolerant
+    explanation: "«A les amigues» és CI plural: *els*. En castellà és «les»."
+
+  - id: a2-11-049
+    type: fill
+    point: pronom-ci
+    lesson: 4
+    prompt: "—Què regales als mestres? —___ regalo una planta."
+    hint: "pronom per a «als mestres»"
+    answers: ["Els"]
+    wrong_answers:
+      - text: "Les"
+        why: "*Les* és directe femení. El CI plural és *els*."
+      - text: "Li"
+        why: "*Li* és singular. «Als mestres» és plural."
+    grading: tolerant
+    explanation: "«Als mestres» és complement indirecte plural: *els*."
+
+  - id: a2-11-050
+    type: fill
+    point: formes-posicio
+    lesson: 4
+    prompt: "El regal és per a tu. ___ amb cura."
+    hint: "obrir, imperatiu, amb pronom"
+    answers: ["Obre'l"]
+    wrong_answers:
+      - text: "Obre el"
+        why: "Darrere de l'ordre, *el* fa *'l*: *obre'l*."
+      - text: "Li obre"
+        why: "*Li* és indirecte. «El regal» és directe masculí."
+    grading: strict
+    explanation: "«El regal» és directe. Darrere de l'ordre: *obre'l*."
+
+  - id: a2-11-051
+    type: order
+    point: formes-posicio
+    lesson: 4
+    cue: "Digues que vas comprar el ram ahir."
+    chunks: ["El", "vaig", "comprar", "ahir"]
+    extra: ["Lo", "li"]
+    answers:
+      - "El vaig comprar ahir."
+      - "Ahir el vaig comprar."
+    explanation: "«El ram» és directe masculí: *el*. Va davant del verb."
+
+  - id: a2-11-052
+    type: order
+    point: pronom-ci
+    lesson: 4
+    cue: "Digues que escrius als teus avis cada diumenge."
+    chunks: ["Els", "escric", "cada", "diumenge"]
+    extra: ["Les", "li"]
+    answers:
+      - "Els escric cada diumenge."
+      - "Cada diumenge els escric."
+    explanation: "«Als avis» és complement indirecte plural: *els*."
+
+  - id: a2-11-053
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «em sap greu»?"
+    answer: "Ho sento; demano perdó."
+    distractors:
+      - text: "Estic content; ho celebro."
+        why: "Això és el contrari: *em sap greu* és per demanar perdó."
+      - text: "No ho sé; no ho entenc."
+        why: "*Em sap greu* no vol dir això: és per demanar perdó."
+    explanation: "*Em sap greu* és una manera de demanar perdó."
+
+  - id: a2-11-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—Quedem dissabte a les vuit? —___, treballo tot el dia."
+    answer: "No em va bé"
+    distractors:
+      - text: "Moltes felicitats"
+        why: "*Moltes felicitats* és per felicitar, no per dir que no pots."
+      - text: "Per molts anys"
+        why: "*Per molts anys* és per a qui fa anys, no per quedar."
+    explanation: "*No em va bé* vol dir que un dia no et va bé."
+
+  - id: a2-11-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "—M'han donat la feina! —___, Núria!"
+    answer: "Moltes felicitats"
+    distractors:
+      - text: "Em sap molt greu"
+        why: "*Em sap greu* és per demanar perdó, no per felicitar."
+      - text: "No em va bé avui"
+        why: "*No em va bé* és per quedar, no per felicitar."
+    explanation: "Per felicitar algú, diem *moltes felicitats*."
+
+  - id: a2-11-056
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "—Avui és el meu aniversari: faig cinquanta anys! —___, Jordi!"
+    hint: "expressió per felicitar qui fa anys"
+    answers: ["Per molts anys"]
+    wrong_answers:
+      - text: "Per molts any"
+        why: "*Anys* va en plural: *per molts anys*."
+      - text: "Per molt anys"
+        why: "Amb un nom plural, *molts*: *per molts anys*."
+    grading: tolerant
+    explanation: "Quan algú fa anys, diem *per molts anys*."
+
+  - id: a2-11-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Arribo tard. ___, l'autobús no venia."
+    hint: "expressió per demanar perdó"
+    answers: ["Em sap greu"]
+    wrong_answers:
+      - text: "Me sap greu"
+        why: "El pronom és *em*, no *me*: *em sap greu*."
+      - text: "No em va bé"
+        why: "*No em va bé* és per quedar, no per demanar perdó."
+    grading: tolerant
+    explanation: "Per demanar perdó, diem *em sap greu*."
+
+  - id: a2-11-058
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb la situació."
+    pairs:
+      - ["em sap greu", "demanar perdó per un retard"]
+      - ["no em va bé", "dir que dissabte no pots venir"]
+      - ["moltes felicitats", "felicitar per una feina nova"]
+      - ["per molts anys", "felicitar qui fa anys"]
+    explanation: "Són expressions per felicitar, quedar i demanar perdó."
+
+  - id: a2-11-059
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "—Compreu el pa per a la festa? —Sí, ___ comprem ara."
+    answer: "el"
+    distractors:
+      - text: "lo"
+        why: "*Lo* davant del verb és un calc de «lo compramos»: *el*."
+      - text: "li"
+        why: "*Li* és indirecte. «El pa» és directe."
+    explanation: "«El pa» és directe masculí: *el comprem*. Davant no hi ha *lo*."
+
+  - id: a2-11-060
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "El vull regalar demà, el llibre nou."
+    no_error: true
+    explanation: "La frase és correcta: el pronom va davant de *vull*."
+
+  - id: a2-11-061
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "Li dono les gràcies a tots els convidats."
+    error: "Li dono"
+    fix: "Els dono"
+    fix_distractors:
+      - text: "Les dono"
+        why: "*Les* és directe. El CI plural és *els*."
+      - text: "Ho dono"
+        why: "*Ho* és per a una idea. Aquí hi ha persones."
+    explanation: "«A tots els convidats» és CI plural: *els dono*."
+
+  - id: a2-11-062
+    type: transform
+    point: formes-posicio
+    lesson: 5
+    instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
+    source: "Puc portar [[els globus]] en cotxe."
+    answers: ["Els puc portar en cotxe.", "Puc portar-los en cotxe."]
+    wrong_answers:
+      - text: "Puc els portar en cotxe."
+        why: "El pronom no va entre *puc* i l'infinitiu."
+      - text: "Les puc portar en cotxe."
+        why: "*Les* és femení. «Els globus» és masculí."
+    grading: tolerant
+    explanation: "«Els globus» és directe plural: *els puc portar* o *puc portar-los*."
+
+  - id: a2-11-063
+    type: fill
+    point: pronoms-cd
+    lesson: 5
+    prompt: "—On tens les espelmes? —___ tinc al calaix."
+    hint: "pronom per a «les espelmes»"
+    answers: ["Les"]
+    wrong_answers:
+      - text: "Els"
+        why: "*Els* és masculí. «Les espelmes» és femení."
+      - text: "Li"
+        why: "*Li* és singular i indirecte. Aquí cal directe plural."
+    grading: tolerant
+    explanation: "«Les espelmes» és directe femení plural: *les*."
+
+  - id: a2-11-064
+    type: inline-choice
+    point: compte-castella
+    lesson: 5
+    title: "Missatges abans de la festa"
+    text: "El vi {el|lo|li} porto jo. A les cosines {els|les|li} dic l'hora. El pastís {el|lo|ho} comprem demà. Als músics {els|les|li} donem l'adreça."
+    explanation: "Davant del verb, *el* (mai *lo*). El CI plural és *els*."
+
+  - id: a2-11-065
+    type: reading
+    point: pronoms-cd
+    lesson: 5
+    title: "Una festa sorpresa"
+    text: |
+      La Núria fa quaranta anys dissabte i els seus amics li preparen una festa sorpresa per celebrar-ho. En Pau convida vint amics i busca una sala al barri. La Carla compra el pastís i decora la sala. L'Ibrahim porta les begudes i la Montse prepara la música.
+
+      La Núria no sap res. En Pau li diu que dissabte sopa amb ella en un restaurant, però és mentida: a les vuit la porta a la sala. Quan obre la porta, tots criden «Per molts anys!» i ella plora una mica.
+
+      Després demana un desig i bufa les espelmes, i tothom canta. Brinden per la Núria amb les copes. Rep tres regals: un llibre, un ram de flors i una targeta llarga. Els obre i llegeix la targeta en veu alta. Tothom riu i després mengen pastís i ballen fins tard. «Em sap greu plorar —diu—, però no m'esperava res.»
+    questions:
+      - prompt: "Per què és una festa sorpresa?"
+        answer: "La Núria no sap que els amics li preparen una festa."
+        distractors:
+          - text: "En Pau no sap que la Núria fa anys."
+            why: "En Pau prepara la festa; qui no sap res és la Núria."
+          - text: "Els amics no saben on és la sala."
+            why: "En Pau busca la sala; sí que saben on és."
+      - prompt: "Què fa en Pau dissabte a les vuit?"
+        answer: "Porta la Núria a la sala de la festa."
+        distractors:
+          - text: "Sopa amb la Núria en un restaurant."
+            why: "És el que li diu, però és mentida."
+          - text: "Compra el pastís amb la Carla."
+            why: "El pastís el compra la Carla tota sola."
+      - prompt: "Què fa la Núria amb la targeta?"
+        answer: "La llegeix en veu alta davant de tothom."
+        distractors:
+          - text: "L'escriu per als seus amics."
+            why: "La targeta és un regal per a ella; ella la llegeix."
+          - text: "L'obre abans dels altres regals."
+            why: "Obre els tres regals i després llegeix la targeta."
+      - prompt: "Per què plora la Núria?"
+        answer: "Perquè no s'esperava la festa sorpresa."
+        distractors:
+          - text: "Perquè en Pau li diu una mentida."
+            why: "La mentida és per portar-la a la festa; plora d'emoció."
+          - text: "Perquè no li agraden els regals."
+            why: "Plora perquè no s'esperava res, no pels regals."
+    explanation: "Els amics preparen una festa sorpresa i la Núria s'emociona."

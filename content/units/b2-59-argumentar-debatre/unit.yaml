@@ -1,0 +1,988 @@
+id: b2-59
+level: B2
+title: "Argumentar i debatre"
+summary: "Opinar i matisar, contraargumentar i mostrar acord o desacord en debats d'actualitat."
+vocabulary_theme: "Societat i debats d'actualitat"
+points:
+  - id: opinar-matisar
+    title: "L'opinió i el matís"
+    refs:
+      - label: "Optimot: opinió i matís"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: acord-desacord
+    title: "Acord i desacord"
+    refs:
+      - label: "Optimot: acord i desacord"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: contraargumentar
+    title: "Contraargumentar"
+    refs:
+      - label: "Optimot: connectors contraargumentatius"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: compte-preposicio-que
+    title: "Compte amb el castellà: cap preposició davant de *que*"
+    refs:
+      - label: "Optimot: preposició davant de que"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions per debatre"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Opinar i mostrar acord"
+  - title: "Practicar l'opinió i l'acord"
+  - title: "Contraargumentar i la preposició davant de *que*"
+  - title: "Produir: defensar una opinió"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el debat"
+    definition: "Discussió ordenada d'un tema entre persones que opinen diferent."
+    example: "El debat sobre el carril bici va durar tres hores."
+  - word: "l'argument"
+    definition: "Raó que es dona per defensar una opinió."
+    example: "El seu argument principal és el preu."
+  - word: "el contraargument"
+    definition: "Raó que es dona contra l'opinió d'una altra persona."
+    example: "La Montse va presentar un contraargument molt sòlid."
+  - word: "l'opinió"
+    definition: "Allò que una persona pensa d'un tema."
+    example: "Tothom té dret a dir la seva opinió."
+  - word: "el punt de vista"
+    definition: "Manera de veure un tema."
+    example: "Des del meu punt de vista, cal actuar aviat."
+  - word: "el consens"
+    definition: "Acord de totes les parts d'un debat."
+    example: "No hi va haver consens sobre el calendari."
+  - word: "el desacord"
+    definition: "Falta d'acord entre dues parts o més."
+    example: "El desacord va créixer durant la reunió."
+  - word: "la tertúlia"
+    definition: "Conversa informal sobre temes d'actualitat."
+    example: "Cada dijous escolto la tertúlia de la ràdio."
+  - word: "el moderador, la moderadora"
+    definition: "Persona que dirigeix un debat."
+    example: "La moderadora dona la paraula a cadascú."
+  - word: "el torn de paraula"
+    definition: "Moment en què toca parlar a cadascú."
+    example: "Demano el torn de paraula, si us plau."
+  - word: "la proposta"
+    definition: "Idea que es presenta perquè s'accepti."
+    example: "La proposta es votarà dilluns."
+  - word: "la votació"
+    definition: "Acte de votar per prendre una decisió."
+    example: "La votació serà secreta."
+  - word: "el sondeig"
+    definition: "Enquesta per saber què pensa la gent."
+    example: "Segons l'últim sondeig, la taxa és impopular."
+  - word: "la manifestació"
+    definition: "Marxa de gent pel carrer per protestar o reclamar."
+    example: "La manifestació de dissabte va ser un èxit."
+  - word: "la vaga"
+    definition: "Aturada de la feina per protestar."
+    example: "La vaga de transports dura tres dies."
+  - word: "el dret"
+    definition: "Allò que la llei permet fer o tenir."
+    example: "Tothom té dret a un pis digne."
+  - word: "el deure"
+    definition: "Allò que una persona ha de fer."
+    example: "Tenim el deure d'escoltar tothom."
+  - word: "la llibertat"
+    definition: "Possibilitat de fer o dir sense pressió."
+    example: "La llibertat d'expressió també té límits."
+  - word: "la igualtat"
+    definition: "Fet que tothom tingui els mateixos drets."
+    example: "La proposta afavoreix la igualtat d'oportunitats."
+  - word: "la justícia"
+    definition: "Tracte just per a tothom; organització que aplica les lleis."
+    example: "La justícia ha de ser igual per a tothom."
+  - word: "la ciutadania"
+    definition: "Conjunt de ciutadans d'un lloc."
+    example: "La ciutadania podrà dir-hi la seva."
+  - word: "l'habitatge"
+    definition: "El tema del pis: on viu la gent i quant costa."
+    example: "L'habitatge és el debat del moment."
+  - word: "el lloguer"
+    definition: "Diners que es paguen per viure en un pis d'un altre."
+    example: "El lloguer és massa car."
+  - word: "el transport públic"
+    definition: "Autobusos, metro i trens de tothom."
+    example: "El transport públic ha millorat molt."
+  - word: "la sanitat"
+    definition: "Serveis mèdics d'un país."
+    example: "La sanitat necessita més diners."
+  - word: "el pressupost"
+    definition: "Diners previstos per a una despesa."
+    example: "El pressupost no quadra."
+  - word: "l'impost"
+    definition: "Diners que es paguen a l'administració."
+    example: "L'impost nou no em convenç."
+  - word: "la taxa"
+    definition: "Pagament per un servei concret."
+    example: "La taxa és impopular."
+  - word: "la subvenció"
+    definition: "Diners que l'administració dona per ajudar."
+    example: "L'oposició rebutja la subvenció."
+  - word: "votar"
+    definition: "Donar el vot en una votació."
+    example: "Cal votar la proposta avui."
+  - word: "matisar"
+    definition: "Explicar una idea amb precisió, sense exagerar."
+    example: "Va matisar que no vol eliminar els cotxes."
+  - word: "defensar"
+    definition: "Donar raons a favor d'una idea."
+    example: "Va defensar la proposta amb tres arguments."
+  - word: "proposar"
+    definition: "Presentar una idea perquè s'accepti."
+    example: "El regidor proposa una votació oberta."
+  - word: "rebutjar"
+    definition: "No acceptar una idea o una proposta."
+    example: "L'oposició rebutja la subvenció."
+  - word: "convèncer"
+    definition: "Fer que algú canviï d'opinió amb raons."
+    example: "Els arguments no van convèncer ningú."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-59-001
+    type: choice
+    point: opinar-matisar
+    lesson: 1
+    prompt: "—Què et sembla la proposta del nou parc? —___. De fet, només canviaria el pressupost."
+    answer: "En part m'agrada"
+    distractors:
+      - text: "M'agrada del tot"
+        why: "*Del tot* no deixa res a canviar i contradiu «només canviaria el pressupost»."
+      - text: "No m'agrada gens"
+        why: "Un rebuig total no quadra amb canviar només el pressupost."
+    explanation: "«Només canviaria el pressupost» mostra un acord parcial: *en part* matisa l'opinió."
+
+  - id: b2-59-002
+    type: choice
+    point: opinar-matisar
+    lesson: 1
+    prompt: "—Jo penso que cal actuar ara. —Crec que ___ raó."
+    answer: "tens"
+    distractors:
+      - text: "tinguis"
+        why: "*Crec que* en afirmatiu va amb indicatiu; el subjuntiu va amb *no crec que*."
+      - text: "tenir"
+        why: "*Que* demana un verb conjugat, no un infinitiu."
+    explanation: "«Crec que» en afirmatiu porta indicatiu: *tens*."
+
+  - id: b2-59-003
+    type: choice
+    point: opinar-matisar
+    lesson: 1
+    prompt: "No crec que ___ bona idea tancar la plaça al trànsit."
+    answer: "sigui"
+    distractors:
+      - text: "és"
+        why: "*No crec que* expressa un dubte i demana subjuntiu."
+      - text: "serà"
+        why: "El futur d'indicatiu no serveix: amb el dubte de «no crec que» cal el subjuntiu."
+    explanation: "«No crec que» expressa un dubte i demana subjuntiu: *sigui*."
+
+  - id: b2-59-004
+    type: choice
+    point: acord-desacord
+    lesson: 1
+    prompt: "—Penso que cal més verd al barri. —I tant! ___"
+    answer: "Hi estic totalment d'acord."
+    distractors:
+      - text: "No hi estic gens d'acord."
+        why: "Contradiu «i tant», que mostra acord."
+      - text: "No ho sé encara."
+        why: "«I tant» ja mostra acord; «no ho sé» el contradiu."
+    explanation: "«I tant» + *hi estic totalment d'acord* mostren un acord entusiasta."
+
+  - id: b2-59-005
+    type: choice
+    point: acord-desacord
+    lesson: 1
+    prompt: "Quina resposta mostra desacord amb educació?"
+    answer: "Ho veig diferent: la justícia ha de ser igual per a tothom."
+    distractors:
+      - text: "I tant, tens tota la raó del món."
+        why: "Això mostra acord, no desacord."
+      - text: "Doncs no en tinc ni idea: encara no m'ho he pensat."
+        why: "Això és no tenir opinió, no discrepar."
+    explanation: "«Ho veig diferent» discrepa sense atacar: és la fórmula educada per no estar-hi d'acord."
+
+  - id: b2-59-006
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["donar la raó", "reconèixer que algú té raó"]
+      - ["tenir la paella pel mànec", "tenir el control d'un assumpte"]
+      - ["no donar el braç a tòrcer", "no cedir en la pròpia opinió"]
+      - ["tenir l'última paraula", "decidir en última instància"]
+      - ["arribar a un acord", "posar-se d'acord després de negociar"]
+    explanation: "Són expressions molt habituals quan es parla de debats i decisions."
+
+  - id: b2-59-007
+    type: match
+    point: opinar-matisar
+    lesson: 1
+    instruction: "Relaciona cada marcador amb el seu ús."
+    pairs:
+      - ["al meu parer", "introduir la pròpia opinió"]
+      - ["en part", "acceptar una opinió a mitges"]
+      - ["més aviat", "corregir una idea amb una altra de més exacta"]
+      - ["francament", "donar una opinió sincera i directa"]
+      - ["en general", "parlar d'allò que és habitual, sense detalls"]
+    explanation: "Són marcadors per opinar i matisar: cada un fa una feina diferent."
+
+  - id: b2-59-008
+    type: inline-choice
+    point: opinar-matisar
+    lesson: 1
+    title: "Abans del debat"
+    text: "Demà hi ha un debat sobre l'habitatge al centre cívic. {Al meu parer|Al meu favor|De la meva opinió}, el lloguer és massa car i cal defensar el dret a un pis digne. {En part|Del tot|De cap manera} estic d'acord amb la proposta del govern, però cal millorar-la. {Francament|Falsament|Final}, no entenc els qui s'hi oposen. {Més aviat|Més tard|Més alt}, crec que el problema és la manca de pisos."
+    explanation: "*Al meu parer* introdueix una opinió; *en part* l'accepta a mitges; *francament* la dona amb sinceritat; *més aviat* corregeix la idea anterior."
+
+  - id: b2-59-009
+    type: fill
+    point: opinar-matisar
+    lesson: 1
+    prompt: "No crec que la proposta ___ a tothom."
+    hint: "agradar, present de subjuntiu"
+    answers: ["agradi"]
+    wrong_answers:
+      - text: "agrada"
+        why: "*No crec que* expressa un dubte i demana subjuntiu: *agradi*."
+    grading: tolerant
+    explanation: "«No crec que» expressa un dubte i demana subjuntiu: *agradi*."
+
+  - id: b2-59-010
+    type: fill
+    point: acord-desacord
+    lesson: 1
+    prompt: "Hi estic ___ d'acord: la proposta em sembla perfecta."
+    hint: "adverbi d'acord total"
+    answers: ["totalment", "plenament", "molt"]
+    wrong_answers:
+      - text: "gens"
+        why: "*Gens* nega del tot i contradiu «em sembla perfecta»."
+    grading: tolerant
+    explanation: "«Em sembla perfecta» mostra un acord total: *totalment* (o *plenament*, *molt*)."
+
+  - id: b2-59-011
+    type: order
+    point: acord-desacord
+    lesson: 1
+    cue: "Digues que hi estàs totalment d'acord amb la Laia."
+    chunks: ["Hi", "estic", "totalment", "d'acord", "amb la Laia"]
+    extra: ["molt"]
+    answers:
+      - "Hi estic totalment d'acord amb la Laia."
+    explanation: "«Hi estic totalment d'acord» mostra un acord total; *amb* introdueix la persona."
+
+  - id: b2-59-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «tenir la paella pel mànec»?"
+    answer: "Tenir el control d'un assumpte i decidir què es fa."
+    distractors:
+      - text: "Cuinar molt bé l'arròs."
+        why: "Aquest és el sentit literal; l'expressió és figurada."
+      - text: "No voler participar en cap decisió."
+        why: "És el contrari: qui la té pel mànec és qui mana."
+    explanation: "«Tenir la paella pel mànec» vol dir manar en un assumpte: qui té el mànec és qui decideix."
+
+  - id: b2-59-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "El regidor no va cedir en cap moment: ___."
+    answer: "no va donar el braç a tòrcer"
+    distractors:
+      - text: "va donar la raó a tothom"
+        why: "*Donar la raó* és reconèixer que l'altre encerta: és cedir, el contrari del que diu la frase."
+      - text: "va arribar a un acord de seguida"
+        why: "Un acord ràpid demana cedir; aquí no va cedir en cap moment."
+    explanation: "«No donar el braç a tòrcer» vol dir no cedir: el regidor va mantenir la seva opinió fins al final."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-59-014
+    type: fill
+    point: opinar-matisar
+    lesson: 2
+    prompt: "Em ___ que la votació serà molt ajustada."
+    hint: "semblar, present d'indicatiu"
+    answers: ["sembla"]
+    wrong_answers:
+      - text: "sembles"
+        why: "*Em sembles* vol dir que t'assembles a mi; per donar una opinió cal *em sembla que*."
+    grading: tolerant
+    explanation: "«Em sembla que» + indicatiu serveix per donar una opinió amb prudència."
+
+  - id: b2-59-015
+    type: fill
+    point: opinar-matisar
+    lesson: 2
+    prompt: "___ meu punt de vista, el debat va ser massa curt."
+    hint: "des de + el: la contracció"
+    answers: ["Des del"]
+    wrong_answers:
+      - text: "Des de el"
+        why: "*De* + *el* es contreuen sempre: *del*."
+    grading: tolerant
+    explanation: "La fórmula és *des del meu punt de vista*: *de* + *el* es contreu en *del*."
+
+  - id: b2-59-016
+    type: fill
+    point: opinar-matisar
+    lesson: 2
+    prompt: "No és veritat que tothom ___ en contra de la taxa."
+    hint: "estar, present de subjuntiu"
+    answers: ["estigui"]
+    wrong_answers:
+      - text: "està"
+        why: "La negació («no és veritat que») demana subjuntiu: *estigui*."
+    grading: tolerant
+    explanation: "«No és veritat que» nega i demana subjuntiu: *estigui*."
+
+  - id: b2-59-017
+    type: fill
+    point: acord-desacord
+    lesson: 2
+    prompt: "No hi estic ___ d'acord: és una decisió absurda."
+    hint: "adverbi de negació total"
+    answers: ["gens"]
+    wrong_answers:
+      - text: "totalment"
+        why: "*No hi estic totalment d'acord* vol dir que hi estàs d'acord a mitges; aquí el rebuig és total: *gens*."
+      - text: "gaire"
+        why: "*No hi estic gaire d'acord* és un desacord suau; «és una decisió absurda» demana el rebuig total: *gens*."
+    grading: tolerant
+    explanation: "«És una decisió absurda» mostra un rebuig total: *gens*."
+
+  - id: b2-59-018
+    type: fill
+    point: acord-desacord
+    lesson: 2
+    prompt: "Tens tota la ___: el debat va ser un desastre."
+    hint: "el nom de l'expressió «tenir ___»"
+    answers: ["raó"]
+    wrong_answers:
+      - text: "culpa"
+        why: "«Tenir la culpa» vol dir ser responsable d'una cosa dolenta; aquí reconeixem que algú encerta: *raó*."
+    grading: tolerant
+    explanation: "«Tenir tota la raó» vol dir encertar del tot."
+
+  - id: b2-59-019
+    type: order
+    point: opinar-matisar
+    lesson: 2
+    cue: "Digues que, al teu parer, el transport públic ha millorat molt."
+    chunks: ["Al meu parer", "el transport públic", "ha millorat", "molt"]
+    extra: ["en"]
+    answers:
+      - "Al meu parer, el transport públic ha millorat molt."
+      - "El transport públic ha millorat molt, al meu parer."
+      - "El transport públic, al meu parer, ha millorat molt."
+    explanation: "«Al meu parer» pot anar al principi, al final o al mig de la frase."
+
+  - id: b2-59-020
+    type: order
+    point: acord-desacord
+    lesson: 2
+    cue: "Discrepa amb educació: respecta l'opinió de l'altre, però no la comparteixes."
+    chunks: ["Respecto", "la teva opinió", "però", "no hi estic", "d'acord"]
+    extra: ["en"]
+    answers:
+      - "Respecto la teva opinió, però no hi estic d'acord."
+    explanation: "«Respecto la teva opinió, però…» és la fórmula educada per discrepar."
+
+  - id: b2-59-021
+    type: choice
+    point: opinar-matisar
+    lesson: 2
+    prompt: "___, crec que la manifestació de dissabte va ser un èxit, t'agradi o no."
+    answer: "Francament"
+    distractors:
+      - text: "En general"
+        why: "*En general* és massa suau per a «t'agradi o no»: cal una opinió directa."
+      - text: "Per exemple"
+        why: "*Per exemple* introdueix un exemple, no una opinió."
+    explanation: "*Francament* introdueix una opinió sincera i directa: «t'agradi o no»."
+
+  - id: b2-59-022
+    type: choice
+    point: acord-desacord
+    lesson: 2
+    prompt: "—Crec que cal escoltar els veïns abans de decidir. —I tant! ___"
+    answer: "Tens tota la raó."
+    distractors:
+      - text: "Tens tota la culpa."
+        why: "«Tenir la culpa» és ser responsable d'una cosa dolenta: és el contrari."
+      - text: "No tens ni idea."
+        why: "Això desqualifica l'altre; no mostra acord."
+    explanation: "«I tant» + *tens tota la raó* mostren un acord total."
+
+  - id: b2-59-023
+    type: choice
+    point: opinar-matisar
+    lesson: 2
+    prompt: "No és tant un problema de diners; ___, és un problema d'organització."
+    answer: "més aviat"
+    distractors:
+      - text: "a més"
+        why: "*A més* afegeix un argument a favor; aquí es corregeix una idea amb una altra de més exacta."
+      - text: "per sort"
+        why: "*Per sort* parla de sort; aquí es corregeix la idea anterior."
+    explanation: "«No és tant X; més aviat, Y» corregeix una idea amb una altra de més exacta."
+
+  - id: b2-59-024
+    type: inline-choice
+    point: opinar-matisar
+    lesson: 2
+    title: "Tertúlia al bar"
+    text: "A la tertúlia del barri tothom opina sobre la vaga de transports. La Montse diu: «Crec que la taxa nova {és|sigui} injusta». En Pau respon: «No crec que {sigui|és} tan greu». Jo crec que {tenen|tinguin} bons arguments tots dos, però no crec que {arribin|arriben} a un acord avui."
+    explanation: "*Crec que* en afirmatiu va amb indicatiu (*és*, *tenen*); *no crec que* demana subjuntiu (*sigui*, *arribin*)."
+
+  - id: b2-59-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "En el debat, l'alcaldessa sempre mana: ___"
+    answer: "té l'última paraula"
+    distractors:
+      - text: "dona el braç a tòrcer"
+        why: "*Donar el braç a tòrcer* vol dir cedir; l'alcaldessa mana, no cedeix."
+      - text: "es queda sense paraules"
+        why: "*Quedar-se sense paraules* vol dir no saber què dir; aquí sempre decideix ella."
+    explanation: "«Tenir l'última paraula» vol dir decidir en última instància: l'alcaldessa mana en el debat."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-59-026
+    type: choice
+    point: contraargumentar
+    lesson: 3
+    prompt: "La proposta és cara. ___, crec que val la pena."
+    answer: "Tot i així"
+    distractors:
+      - text: "A més"
+        why: "*A més* afegeix un argument a favor; aquí es reconeix un problema i es defensa igualment."
+      - text: "Per això"
+        why: "*Per això* introdueix una conseqüència; aquí cal un connector de concessió."
+    explanation: "Es reconeix que és cara i es defensa igualment: *tot i així*."
+
+  - id: b2-59-027
+    type: choice
+    point: contraargumentar
+    lesson: 3
+    prompt: "No és que ___ en contra del parc, sinó que preferiria una piscina."
+    answer: "hi estigui"
+    distractors:
+      - text: "hi estic"
+        why: "*No és que* demana subjuntiu, no indicatiu."
+      - text: "hi estaré"
+        why: "El futur no serveix: *no és que* demana sempre subjuntiu."
+    explanation: "«No és que» + subjuntiu (*hi estigui*); la segona part, amb *sinó que*, admet el condicional (*preferiria*)."
+
+  - id: b2-59-028
+    type: choice
+    point: contraargumentar
+    lesson: 3
+    prompt: "La idea m'agrada. ___, la llibertat d'expressió també té límits."
+    answer: "Ara bé"
+    distractors:
+      - text: "A més"
+        why: "*A més* afegeix un acord; aquí ve una objecció."
+      - text: "Per tant"
+        why: "*Per tant* introdueix una conclusió; aquí es posa una objecció."
+    explanation: "*Ara bé* introdueix una objecció després d'acceptar una idea."
+
+  - id: b2-59-029
+    type: match
+    point: contraargumentar
+    lesson: 3
+    instruction: "Relaciona cada connector amb el seu ús."
+    pairs:
+      - ["ara bé", "introduir una objecció després d'acceptar una idea"]
+      - ["tot i així", "defensar una idea malgrat un problema"]
+      - ["a més", "afegir un argument a favor"]
+      - ["per tant", "introduir la conclusió d'un argument"]
+      - ["en canvi", "oposar dues situacions diferents"]
+    explanation: "Cada connector fa una feina diferent en l'argumentació."
+
+  - id: b2-59-030
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 3
+    sentence: "Estic d'acord en que cal escoltar els veïns."
+    error: "en que"
+    fix: "que"
+    fix_distractors:
+      - text: "de que"
+        why: "Tampoc hi va *de*: davant de *que* cau tota preposició."
+      - text: "en què"
+        why: "*En què* amb accent és un relatiu («la casa en què visc»); aquí cal la conjunció *que*."
+    explanation: "En castellà és «estoy de acuerdo en que»; en català la preposició cau: *estic d'acord que*."
+
+  - id: b2-59-031
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 3
+    sentence: "Tinc por de que el debat s'allargui massa."
+    error: "de que"
+    fix: "que"
+    fix_distractors:
+      - text: "en que"
+        why: "*En que* és un altre calc: davant de *que* no hi va cap preposició."
+      - text: "perquè"
+        why: "*Perquè* introdueix una causa («no vinc perquè plou»); aquí cal la conjunció *que*."
+    explanation: "*Tinc por* + *que*, sense preposició: *de que* és un calc del castellà."
+
+  - id: b2-59-032
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 3
+    sentence: "No estic segur de que tothom hagi entès la proposta."
+    error: "de que"
+    fix: "que"
+    fix_distractors:
+      - text: "en que"
+        why: "Tampoc hi va *en*: davant de *que* cau tota preposició."
+      - text: "perquè"
+        why: "*Perquè* introdueix una causa («no vinc perquè plou»); aquí cal la conjunció *que*."
+    explanation: "«No estic segur» + *que*: la preposició cau davant de *que*."
+
+  - id: b2-59-033
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 3
+    sentence: "M'alegro de que hagis vingut al debat."
+    error: "de que"
+    fix: "que"
+    fix_distractors:
+      - text: "en que"
+        why: "Tampoc hi va *en*: davant de *que* cau tota preposició."
+      - text: "de què"
+        why: "*De què* amb accent és interrogatiu o relatiu («de què parles?»); aquí cal la conjunció *que*."
+    explanation: "«M'alegro» + *que*: *de que* és un calc del castellà."
+
+  - id: b2-59-034
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 3
+    sentence: "Estem d'acord que cal votar la proposta avui."
+    no_error: true
+    explanation: "La frase és correcta: davant de *que* no hi ha cap preposició."
+
+  - id: b2-59-035
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 3
+    sentence: "M'alegro de veure't al debat d'avui."
+    no_error: true
+    explanation: "La frase és correcta: la preposició es manté davant d'infinitiu (*de veure't*); només cau davant de *que*."
+
+  - id: b2-59-036
+    type: fill
+    point: contraargumentar
+    lesson: 3
+    prompt: "No és que no ___ participar, sinó que no tinc temps."
+    hint: "voler, present de subjuntiu"
+    answers: ["vulgui"]
+    wrong_answers:
+      - text: "vull"
+        why: "*No és que* demana sempre subjuntiu: *vulgui*."
+    grading: tolerant
+    explanation: "«No és que» + subjuntiu corregeix una idea: *no és que no vulgui participar, sinó que no tinc temps*."
+
+  - id: b2-59-037
+    type: fill
+    point: contraargumentar
+    lesson: 3
+    prompt: "La taxa és impopular; ___, la sanitat la necessita."
+    hint: "connector que accepta un problema i defensa igualment"
+    answers: ["tot i així", "tanmateix", "ara bé", "no obstant això"]
+    wrong_answers:
+      - text: "a més"
+        why: "*A més* afegeix un argument a favor; aquí es reconeix un problema i es defensa igualment."
+      - text: "per això"
+        why: "*Per això* introdueix una conseqüència; aquí cal un connector de concessió."
+    grading: tolerant
+    explanation: "Es reconeix que la taxa és impopular i es defensa igualment: *tot i així* (o *tanmateix*, *ara bé*, *no obstant això*)."
+
+  - id: b2-59-038
+    type: choice
+    point: compte-preposicio-que
+    lesson: 3
+    prompt: "Estic content ___ hagis pogut venir al debat."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "*De que* és un calc; davant de *que* la preposició cau."
+      - text: "en que"
+        why: "*En que* és un calc; davant de *que* no hi va cap preposició."
+    explanation: "«Estic content» + *que*, sense preposició."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-59-039
+    type: transform
+    point: opinar-matisar
+    lesson: 4
+    instruction: "Reescriu la frase matisant l'opinió."
+    source: "[[Tens raó]], però el pressupost no quadra."
+    answers:
+      - "En part tens raó, però el pressupost no quadra."
+      - "Fins a cert punt tens raó, però el pressupost no quadra."
+      - "Tens raó en part, però el pressupost no quadra."
+      - "Tens raó fins a cert punt, però el pressupost no quadra."
+    wrong_answers:
+      - text: "De cap manera tens raó, però el pressupost no quadra."
+        why: "*De cap manera* nega del tot i contradiu el *però* següent."
+    grading: tolerant
+    explanation: "*En part* (o *fins a cert punt*) matisa l'opinió: no li dona tota la raó."
+
+  - id: b2-59-040
+    type: transform
+    point: opinar-matisar
+    lesson: 4
+    instruction: "Reescriu la frase amb «no creure»."
+    source: "Crec que la proposta [[és]] justa."
+    answers: ["No crec que la proposta sigui justa."]
+    wrong_answers:
+      - text: "No crec que la proposta és justa."
+        why: "*No crec que* expressa un dubte i demana subjuntiu: *sigui*."
+    grading: tolerant
+    explanation: "«No crec que» expressa un dubte i demana subjuntiu: *no crec que la proposta sigui justa*."
+
+  - id: b2-59-041
+    type: transform
+    point: contraargumentar
+    lesson: 4
+    instruction: "Uneix les dues idees amb «tot i així»."
+    source: "La proposta és cara. [[Crec que val la pena]]."
+    answers:
+      - "La proposta és cara; tot i així, crec que val la pena."
+      - "La proposta és cara. Tot i així, crec que val la pena."
+    wrong_answers:
+      - text: "La proposta és cara; a més, crec que val la pena."
+        why: "*A més* afegeix un argument; aquí es reconeix un problema i es defensa igualment."
+    grading: tolerant
+    explanation: "Es reconeix el problema (és cara) i es defensa igualment: *tot i així*."
+
+  - id: b2-59-042
+    type: transform
+    point: contraargumentar
+    lesson: 4
+    instruction: "Reescriu la frase amb «no és que… sinó que»."
+    source: "[[Vull participar]], però no tinc temps."
+    answers: ["No és que no vulgui participar, sinó que no tinc temps."]
+    wrong_answers:
+      - text: "No és que no vull participar, sinó que no tinc temps."
+        why: "*No és que* demana sempre subjuntiu: *vulgui*."
+    grading: tolerant
+    explanation: "«No és que» + subjuntiu corregeix la idea; *sinó que* dona la idea bona."
+
+  - id: b2-59-043
+    type: transform
+    point: acord-desacord
+    lesson: 4
+    instruction: "Digues el contrari amb «gens»."
+    source: "[[Estic d'acord amb tu]]."
+    answers: ["No hi estic gens d'acord."]
+    wrong_answers:
+      - text: "No hi estic gens d'acord amb tu."
+        why: "*Hi* ja substitueix «amb tu»: no es pot repetir."
+    grading: tolerant
+    explanation: "El contrari amb rebuig total: *no hi estic gens d'acord*. *Hi* ja vol dir «amb tu»."
+
+  - id: b2-59-044
+    type: transform
+    point: compte-preposicio-que
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Estem d'acord [[en que]] cal repetir la votació."
+    answers: ["Estem d'acord que cal repetir la votació."]
+    wrong_answers:
+      - text: "Estem d'acord de que cal repetir la votació."
+        why: "Tampoc hi va *de*: davant de *que* cau tota preposició."
+    grading: tolerant
+    explanation: "En català la preposició cau davant de *que*: *estem d'acord que*."
+
+  - id: b2-59-045
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Fes servir l'expressió «donar la raó»."
+    source: "[[Tens raó]]: el debat va ser massa curt."
+    answers:
+      - "Et dono la raó: el debat va ser massa curt."
+      - "Et dono la raó. El debat va ser massa curt."
+    wrong_answers:
+      - text: "Et dono la culpa: el debat va ser massa curt."
+        why: "«Tenir la culpa» és ser responsable d'una cosa dolenta; aquí reconeixem que encerta: *donar la raó*."
+    grading: tolerant
+    explanation: "«Donar la raó» vol dir reconèixer que l'altre encerta."
+
+  - id: b2-59-046
+    type: transform
+    point: contraargumentar
+    lesson: 4
+    instruction: "Reescriu la frase amb «ara bé»."
+    source: "Tens raó en el fons. [[L'impost nou no em convenç]]."
+    answers:
+      - "Tens raó en el fons; ara bé, l'impost nou no em convenç."
+      - "Tens raó en el fons. Ara bé, l'impost nou no em convenç."
+    grading: tolerant
+    explanation: "*Ara bé* introdueix l'objecció després d'acceptar la idea."
+
+  - id: b2-59-047
+    type: fill
+    point: contraargumentar
+    lesson: 4
+    prompt: "No és que la idea ___ dolenta, sinó que arriba tard."
+    hint: "ser, present de subjuntiu"
+    answers: ["sigui"]
+    wrong_answers:
+      - text: "és"
+        why: "*No és que* demana sempre subjuntiu: *sigui*."
+    grading: tolerant
+    explanation: "«No és que» + subjuntiu (*sigui*); *sinó que* dona la idea bona."
+
+  - id: b2-59-048
+    type: fill
+    point: compte-preposicio-que
+    lesson: 4
+    prompt: "Estic segur ___ la votació serà secreta."
+    hint: "la conjunció, sense preposició"
+    answers: ["que"]
+    wrong_answers:
+      - text: "de que"
+        why: "*De que* és un calc del castellà: davant de *que* la preposició cau."
+    grading: tolerant
+    explanation: "«Estic segur» + *que*, sense preposició."
+
+  - id: b2-59-049
+    type: order
+    point: contraargumentar
+    lesson: 4
+    cue: "La Laia et vol convèncer, però tu prefereixes esperar: digues que no és que hi estiguis en contra."
+    chunks: ["No és que", "hi estigui", "en contra", "sinó que", "prefereixo", "esperar"]
+    extra: ["estic"]
+    answers:
+      - "No és que hi estigui en contra, sinó que prefereixo esperar."
+    explanation: "«No és que» + subjuntiu (*hi estigui*) corregeix una idea; *sinó que* dona la idea bona."
+
+  - id: b2-59-050
+    type: order
+    point: opinar-matisar
+    lesson: 4
+    cue: "Matisa: dius que en part hi estàs d'acord, però que cal parlar del cost."
+    chunks: ["En part", "hi estic", "d'acord", "però", "cal parlar", "del cost"]
+    extra: ["totalment"]
+    answers:
+      - "En part hi estic d'acord, però cal parlar del cost."
+      - "Hi estic en part d'acord, però cal parlar del cost."
+      - "Hi estic d'acord en part, però cal parlar del cost."
+    explanation: "*En part* matisa l'acord: hi estàs d'acord a mitges."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-59-051
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un debat al centre cívic"
+    text: |
+      Dissabte passat el centre cívic del barri va acollir un debat sobre el nou carril bici del carrer Major. L'Ajuntament proposa eliminar un carril de circulació per fer-hi passar el carril bici. La sala era plena: hi havia unes cent cinquanta persones i l'acte va durar gairebé tres hores. La Laia, la moderadora, va obrir el torn de paraula recordant les normes: intervencions de dos minuts i respecte per totes les opinions.
+
+      El primer a parlar va ser en Pere, en nom de l'associació de veïns. Va defensar la proposta amb tres arguments: menys cotxes, menys soroll i més seguretat per als infants. «No és que vulguem eliminar els cotxes —va matisar—, sinó que volem un carrer on tothom hi càpiga.»
+
+      La Montse, que té una botiga al carrer, va presentar el contraargument principal: amb les obres perdrà clients durant mesos. «Estic d'acord que cal pacificar el trànsit —va dir—. Ara bé, qui pagarà les pèrdues dels comerciants?» El desacord va créixer quan en Jordi va dir que els comerciants sempre «tenen la paella pel mànec». La moderadora el va interrompre i li va recordar que calia respectar les opinions de tothom.
+
+      Al final, tot i que no hi va haver consens, la majoria va acceptar una solució intermèdia: fer el carril bici per fases i obrir una votació en línia sobre el calendari. En Pere va dir que hi estava en part d'acord, però que calia concretar les dates. «Tenim el deure d'escoltar tothom —va concloure la Laia—, però també de decidir.» La votació serà el mes vinent.
+    questions:
+      - prompt: "Què proposa l'Ajuntament?"
+        answer: "Convertir un carril de circulació en carril bici."
+        distractors:
+          - text: "Eliminar tots els cotxes del carrer Major."
+            why: "En Pere ho nega: «No és que vulguem eliminar els cotxes»."
+          - text: "Tancar totes les botigues del carrer durant les obres."
+            why: "La Montse parla de perdre clients, no de tancar botigues."
+      - prompt: "Quin és el contraargument de la Montse?"
+        answer: "Les obres faran perdre clients als comerciants."
+        distractors:
+          - text: "El carril bici és perillós per als infants."
+            why: "Al contrari: en Pere diu que donarà més seguretat als infants."
+          - text: "Els veïns no podran votar el calendari."
+            why: "La votació en línia es va acceptar al final del debat."
+      - prompt: "Per què la moderadora interromp en Jordi?"
+        answer: "Perquè va faltar al respecte als comerciants."
+        distractors:
+          - text: "Perquè va parlar més de dos minuts."
+            why: "El text no diu quants minuts va parlar."
+          - text: "Perquè no estava d'acord amb la proposta."
+            why: "El desacord no és cap motiu: el problema és la falta de respecte."
+      - prompt: "Com acaba el debat?"
+        answer: "Amb una solució per fases i una votació sobre el calendari."
+        distractors:
+          - text: "Amb un consens total a favor del carril bici."
+            why: "El text diu que no hi va haver consens."
+          - text: "Amb la retirada de la proposta de l'Ajuntament."
+            why: "La proposta continua: es farà per fases."
+    explanation: "El text explica el debat sobre el carril bici del carrer Major: els arguments, el desacord i l'acord final."
+
+  - id: b2-59-052
+    type: choice
+    point: opinar-matisar
+    lesson: 5
+    prompt: "___, la proposta afavoreix la igualtat d'oportunitats."
+    answer: "Al meu parer"
+    distractors:
+      - text: "Per exemple"
+        why: "*Per exemple* introdueix un exemple; aquí comença una opinió."
+      - text: "Per contra"
+        why: "*Per contra* oposa dues idees; aquí no hi ha cap oposició."
+    explanation: "*Al meu parer* introdueix una opinió personal."
+
+  - id: b2-59-053
+    type: choice
+    point: contraargumentar
+    lesson: 5
+    prompt: "Segons l'últim sondeig, no és que la taxa ___ injusta, sinó que arriba en un mal moment."
+    answer: "sigui"
+    distractors:
+      - text: "és"
+        why: "*No és que* demana sempre subjuntiu."
+      - text: "serà"
+        why: "El futur no serveix: *no és que* demana sempre subjuntiu."
+    explanation: "«No és que» + subjuntiu (*sigui*); *sinó que* dona la idea bona."
+
+  - id: b2-59-054
+    type: choice
+    point: acord-desacord
+    lesson: 5
+    prompt: "—Cal escoltar més els joves. —I tant, ___."
+    answer: "hi estic d'acord"
+    distractors:
+      - text: "no hi estic gens d'acord"
+        why: "Contradiu «i tant», que mostra acord."
+      - text: "no ho sé encara"
+        why: "«I tant» ja mostra acord; dubtar el contradiu."
+    explanation: "«I tant» + *hi estic d'acord* mostren acord."
+
+  - id: b2-59-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "La discussió va acabar bé: ___."
+    answer: "van arribar a un acord"
+    distractors:
+      - text: "ningú no va donar el braç a tòrcer"
+        why: "Si ningú no cedeix, no hi ha acord: contradiu «va acabar bé»."
+      - text: "tothom es va quedar sense paraules"
+        why: "*Quedar-se sense paraules* vol dir no saber què dir; no indica un final feliç."
+    explanation: "«Arribar a un acord» vol dir posar-se d'acord: la discussió va acabar bé."
+
+  - id: b2-59-056
+    type: fill
+    point: contraargumentar
+    lesson: 5
+    prompt: "La idea és bona. ___, no tenim diners per fer-la."
+    hint: "connector per introduir una objecció"
+    answers: ["Tanmateix", "Tot i així", "Ara bé", "No obstant això"]
+    wrong_answers:
+      - text: "A més"
+        why: "*A més* afegeix un argument a favor; aquí ve una objecció."
+    grading: tolerant
+    explanation: "S'accepta la idea i es posa una objecció: *tanmateix* (o *tot i així*, *ara bé*, *no obstant això*)."
+
+  - id: b2-59-057
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Fes servir l'expressió «no donar el braç a tòrcer»."
+    source: "El debat va durar tres hores perquè ningú no va [[cedir]]."
+    answers: ["El debat va durar tres hores perquè ningú no va donar el braç a tòrcer."]
+    wrong_answers:
+      - text: "El debat va durar tres hores perquè ningú no va donar la raó."
+        why: "*Donar la raó* vol dir reconèixer que l'altre encerta; aquí ningú no cedeix: *donar el braç a tòrcer*."
+    grading: tolerant
+    explanation: "«No donar el braç a tòrcer» vol dir no cedir: per això el debat es va allargar."
+
+  - id: b2-59-058
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 5
+    sentence: "Penso en que cal canviar el dia de la reunió."
+    error: "en que"
+    fix: "que"
+    fix_distractors:
+      - text: "de que"
+        why: "Davant de *que* no hi va cap preposició: *penso que*."
+      - text: "en què"
+        why: "*En què* amb accent és un relatiu («la casa en què visc»); aquí cal la conjunció *que*."
+    explanation: "«Penso en» va amb un nom («penso en tu»); davant de *que* la preposició cau: *penso que*."
+
+  - id: b2-59-059
+    type: find-error
+    point: compte-preposicio-que
+    lesson: 5
+    sentence: "Tinc por que el debat s'allargui massa."
+    no_error: true
+    explanation: "La frase és correcta: «tinc por» + *que*, sense preposició."
+
+  - id: b2-59-060
+    type: inline-choice
+    point: contraargumentar
+    lesson: 5
+    title: "Crònica del ple"
+    text: "Tothom sap que el transport públic necessita ajuda. {Tanmateix|Per tant|Per exemple}, l'oposició rebutja la subvenció. El regidor proposa una votació oberta. {Ara bé|Per tant|Per exemple}, la ciutadania encara no sap quan serà. La consulta serà al març; {tot i així|per això|per exemple}, alguns grups ja han dit que no hi participaran. El govern diu que escoltarà tothom; {no obstant això|per tant|per exemple}, manté el calendari."
+    explanation: "*Tanmateix*, *ara bé*, *tot i així* i *no obstant això* introdueixen una objecció o una idea contrària a l'anterior."
+
+  - id: b2-59-061
+    type: order
+    point: acord-desacord
+    lesson: 5
+    cue: "Digues que et sembla bé la idea, però que cal pensar en el cost."
+    chunks: ["Em sembla", "bé", "la idea", "però", "cal pensar", "en el cost"]
+    extra: ["que"]
+    answers:
+      - "Em sembla bé la idea, però cal pensar en el cost."
+      - "La idea em sembla bé, però cal pensar en el cost."
+    explanation: "«Em sembla bé…, però…» accepta una idea i hi posa una condició."
+
+  - id: b2-59-062
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada situació amb l'expressió que hi encaixa."
+    pairs:
+      - ["La Marta mana en totes les decisions del grup.", "té la paella pel mànec"]
+      - ["En Pere no ha cedit gens en tres hores.", "no ha donat el braç a tòrcer"]
+      - ["Finalment tots han acceptat la proposta.", "han arribat a un acord"]
+      - ["La Laia decideix sempre l'última.", "té l'última paraula"]
+      - ["La Carla ha reconegut que jo tenia raó.", "m'ha donat la raó"]
+    explanation: "Cada expressió descriu una situació típica d'un debat."
+
+  - id: b2-59-063
+    type: transform
+    point: acord-desacord
+    lesson: 5
+    instruction: "Digues-ho amb educació, respectant l'opinió de l'altre."
+    source: "[[No hi estic gens d'acord]]."
+    answers:
+      - "Respecto la teva opinió, però no hi estic d'acord."
+      - "Respecto la teva opinió, però no hi estic gens d'acord."
+    grading: tolerant
+    explanation: "«Respecto la teva opinió, però…» discrepa amb educació."
+
+  - id: b2-59-064
+    type: choice
+    point: compte-preposicio-que
+    lesson: 5
+    prompt: "Penso ___ cal repetir la votació."
+    answer: "que"
+    distractors:
+      - text: "en que"
+        why: "«Penso en» va amb un nom («penso en tu»); davant de *que* la preposició cau."
+      - text: "de que"
+        why: "Davant de *que* no hi va cap preposició: *penso que*."
+    explanation: "«Penso» + *que*, sense preposició."

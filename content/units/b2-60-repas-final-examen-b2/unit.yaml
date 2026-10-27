@@ -1,0 +1,1076 @@
+id: b2-60
+level: B2
+title: "Repàs final: simulació de l'examen B2"
+summary: "Els sis exercicis de gramàtica i vocabulari del model d'examen B2, amb contingut nou, i dues lectures de comprensió."
+vocabulary_theme: "La vida quotidiana: barri, botigues i feina"
+points:
+  - id: lletres-que-falten
+    title: "Exercici 1: lletres que falten"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: morfologia-nom-adjectiu
+    title: "Exercici 2: morfologia del nom i de l'adjectiu"
+    refs:
+      - label: "GEIEC: El nom i l'adjectiu"
+        url: "https://geiec.iec.cat"
+  - id: paraula-adient
+    title: "Exercici 3: la paraula adient"
+    refs:
+      - label: "GEIEC: Sintaxi i pronoms febles"
+        url: "https://geiec.iec.cat"
+  - id: transformacions
+    title: "Exercici 4: transformacions"
+    refs:
+      - label: "GEIEC: L'estil indirecte"
+        url: "https://geiec.iec.cat"
+  - id: significat
+    title: "Exercici 5: significat"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+  - id: derivacio
+    title: "Exercici 6: derivació"
+    refs:
+      - label: "GEIEC: La formació de mots"
+        url: "https://geiec.iec.cat"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Lletres que falten i morfologia"
+  - title: "La paraula adient"
+  - title: "Transformacions"
+  - title: "Significat, derivació i lectura"
+  - title: "Repàs final i lectura"
+vocabulary:
+  - word: "la fleca"
+    definition: "Botiga on es fa i es ven el pa."
+    example: "Compro el pa a la fleca del carrer Major."
+  - word: "el taulell"
+    definition: "Taula llarga d'una botiga on s'atenen els clients."
+    example: "El flequer posa les barres al taulell."
+  - word: "la llesca"
+    definition: "Tall pla de pa, de formatge o d'embotit."
+    example: "Esmorzo una llesca amb tomàquet i oli."
+  - word: "el veí, la veïna"
+    definition: "Persona que viu a prop teu, a la mateixa escala o barri."
+    example: "Els veïns fan cua a la fleca cada matí."
+  - word: "l'esmorzar"
+    definition: "Primer àpat del dia, al matí."
+    example: "L'esmorzar: una llesca amb tomàquet."
+  - word: "l'autobús"
+    definition: "Vehicle públic que fa un recorregut fix per la ciutat."
+    example: "Agafo l'autobús de les vuit per anar a la feina."
+  - word: "la parada"
+    definition: "Lloc on l'autobús s'atura a recollir passatgers."
+    example: "La parada nova està ben senyalitzada."
+  - word: "el conductor, la conductora"
+    definition: "Persona que mena un vehicle."
+    example: "El conductor de l'autobús saluda tothom."
+  - word: "el revisor, la revisora"
+    definition: "Persona que comprova els bitllets al transport públic."
+    example: "El revisor passa amb molta atenció."
+  - word: "la biblioteca"
+    definition: "Edifici on es deixen llibres i es pot estudiar."
+    example: "Vaig a la biblioteca cada setmana."
+  - word: "la bibliotecària, el bibliotecari"
+    definition: "Persona que treballa en una biblioteca."
+    example: "La bibliotecària sempre és molt amable."
+  - word: "el carnet"
+    definition: "Targeta que acredita que ets membre d'una cosa."
+    example: "Si tens el carnet, pots entrar lliurement."
+  - word: "la cantonada"
+    definition: "Angle on es troben dos carrers."
+    example: "Han obert un parc nou a la cantonada."
+  - word: "el lloguer"
+    definition: "Diners que es paguen cada mes per viure en un pis."
+    example: "El lloguer d'aquest barri no és barat."
+  - word: "la calçotada"
+    definition: "Àpat popular on es mengen calçots fets a la brasa."
+    example: "Dissabte fem una calçotada amb els veïns."
+  - word: "el regal"
+    definition: "Cosa que es dona a algú per celebrar alguna cosa."
+    example: "Encara no li he donat el regal."
+  - word: "l'enllaç"
+    definition: "Combinació entre dos trens o autobusos per arribar enlloc."
+    example: "Vam perdre l'enllaç i vam arribar tard."
+  - word: "el jurat"
+    definition: "Grup de persones que decideix qui guanya un concurs."
+    example: "El jurat va tastar cada plat abans de votar."
+  - word: "el concurs"
+    definition: "Competició per triar el millor en alguna cosa."
+    example: "El jurat del concurs va votar per unanimitat."
+  - word: "el musclo"
+    definition: "Marisc de closca fosca que viu agafat a les roques."
+    example: "Per a la paella calen musclos de roca."
+  - word: "la paella"
+    definition: "Arròs cuinat amb peix, carn o verdures."
+    example: "Fem paella els diumenges."
+  - word: "el cometa"
+    definition: "Astre amb cua que passa pel cel cada molts anys."
+    example: "El cometa de Halley passa cada 76 anys."
+  - word: "la samarreta"
+    definition: "Peça de roba lleugera, sovint de màniga curta."
+    example: "He comprat quatre samarretes vermelles."
+  - word: "el mal de panxa"
+    definition: "Dolor a la panxa, sovint per haver menjat massa."
+    example: "Si menges tant, tindràs mal de panxa."
+  - word: "el rebut"
+    definition: "Paper que demostra que has pagat una cosa."
+    example: "Fes-me el rebut del lloguer, si us plau."
+  - word: "la contrasenya"
+    definition: "Clau secreta per entrar a un ordinador o un compte."
+    example: "Fes servir la meva contrasenya per entrar-hi."
+  - word: "l'ordinador"
+    definition: "Màquina per treballar, estudiar i comunicar-se."
+    example: "Treballo amb aquest ordinador cada dia."
+  - word: "el metge, la metgessa de guàrdia"
+    definition: "Metge que atén les urgències fora de l'horari normal."
+    example: "Si tens febre, truca al metge de guàrdia."
+  - word: "les dades"
+    definition: "Informacions concretes sobre un tema."
+    example: "A partir de les dades, el preu baixarà."
+  - word: "l'accident"
+    definition: "Fet imprevist que causa danys."
+    example: "Es va assabentar de l'accident per la ràdio."
+items:
+  - id: b2-60-001
+    type: inline-choice
+    point: lletres-que-falten
+    lesson: 1
+    title: "El pa de cada dia"
+    text: "El pa és un aliment {b|v}àsic. Cada matí, al taulell de la fleca {h|∅}i ha barres acabades de fer i els {v|b}eïns fan cua. La Maria sempre tria el mateix: una llesca grui{x|ix}uda amb tomàquet, oli i sal. Diu que és el millor {e|a}smorzar del món."
+    explanation: "*Bàsic* s'escriu amb *b*. *Hi ha* porta *h*. *Veí* s'escriu amb *v*. *Gruixut* porta *x*. *Esmorzar* comença amb *e*, com *escola*."
+
+  - id: b2-60-002
+    type: inline-choice
+    point: lletres-que-falten
+    lesson: 1
+    title: "A l'autobús"
+    text: "Ahir al matí vaig {a|e}gafar l'autobús de les vuit. La parada nova està ben {s|ss}enyalitzada i el condu{c|ç}tor saluda tothom. Els pa{ss|s}atgers pugen amb calma. Cal portar l'entrada a la mà: el revisor passa amb molta atenci{ó|o}."
+    explanation: "*Agafar* comença amb *a*. *Senyalitzat* porta *s* inicial. *Conductor* s'escriu amb *c*. *Passatger* porta *ss*. *Atenció* porta accent, com les paraules en *-ció*."
+
+  - id: b2-60-003
+    type: inline-choice
+    point: lletres-que-falten
+    lesson: 1
+    title: "Un cafè amb la veïna"
+    text: "Aquesta tarda he pres un caf{è|é} amb la ve{ï|i}na. M'ha explicat que el seu fill estudia als Pa{ï|i}sos Baixos i que truca cada diumenge per tel{è|é}fon. Jo no sé {què|que} li diria, si fos ella: marxar tan lluny costa molt."
+    explanation: "*Cafè* i *telèfon* porten accent obert. *Veïna* i *països* porten dièresi. *Què* amb accent és interrogatiu: *no sé què diria*."
+
+  - id: b2-60-004
+    type: inline-choice
+    point: lletres-que-falten
+    lesson: 1
+    title: "Llibres i biblioteca"
+    text: "La Laia llegeix una nove{l·l|ll}a cada setmana. La treu de la biblioteca del co{l·l|ll}egi on treballa. Diu que un bon llibre és i{m|mm}illorable per desconnectar. Quan acaba, e{n|m}via un missatge a la seva amiga per recomanar-li."
+    explanation: "*Novel·la* i *col·legi* porten ela geminada. *Immillorable* s'escriu amb *mm*. Davant de *v*, la nasal és *n*: *envia*."
+
+  - id: b2-60-005
+    type: fill
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "Aquesta és una de les zones més ___ de la ciutat."
+    hint: "TRANQUIL, adjectiu"
+    answers: ["tranquil·les"]
+    wrong_answers:
+      - text: "tranquiles"
+        why: "*Tranquil* fa el femení plural amb ela geminada: *tranquil·les*."
+    grading: strict
+    explanation: "«Zones» és femení plural: *tranquil·les*, amb ela geminada."
+
+  - id: b2-60-006
+    type: fill
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "Les ___ que treballen al jaciment són molt bones."
+    hint: "ARQUEÒLEG, nom femení plural"
+    answers: ["arqueòlogues"]
+    wrong_answers:
+      - text: "arqueòlegs"
+        why: "«Les que treballen» és femení: cal el femení plural *arqueòlogues*."
+      - text: "arqueòloges"
+        why: "El femení de *-leg* és *-loga*: *arqueòloga*, plural *arqueòlogues*."
+    grading: tolerant
+    explanation: "És un nom femení plural: el femení de *arqueòleg* és *arqueòloga*, i el plural, *arqueòlogues*."
+
+  - id: b2-60-007
+    type: fill
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "Els ___ del barri tancaven cada diumenge."
+    hint: "COMERÇ, nom masculí plural"
+    answers: ["comerços"]
+    wrong_answers:
+      - text: "comerçs"
+        why: "La *ç* passa a *c* davant de *o*: el plural de *comerç* és *comerços*."
+    grading: strict
+    explanation: "El plural de *comerç* és *comerços*: la *ç* es converteix en *c* davant de *o*."
+
+  - id: b2-60-008
+    type: fill
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "Van inaugurar una exposició de fotos ___ de la ciutat."
+    hint: "ANTIC, adjectiu femení plural"
+    answers: ["antigues"]
+    wrong_answers:
+      - text: "antiques"
+        why: "*Antic* fa el femení amb *g*: *antiga*, plural *antigues*."
+    grading: tolerant
+    explanation: "«Fotos» és femení plural. *Antic* canvia la *c* per *g* en femení: *antigues*."
+
+  - id: b2-60-009
+    type: fill
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "L'actor principal va haver d'anar a tots els ___ de l'obra."
+    hint: "ASSAIG, nom masculí plural"
+    answers: ["assajos"]
+    wrong_answers:
+      - text: "assaigs"
+        why: "Els noms en *-aig* fan el plural en *-ajos*: *assajos*."
+    grading: tolerant
+    explanation: "El plural de *assaig* és *assajos*: el grup *-aig* passa a *-aj-* davant de *o*."
+
+  - id: b2-60-010
+    type: fill
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "La teva mare em sembla una dona molt ___."
+    hint: "ELEGANT, adjectiu femení singular"
+    answers: ["elegant"]
+    wrong_answers:
+      - text: "eleganta"
+        why: "*Elegant* és invariable: no canvia en femení."
+      - text: "elegants"
+        why: "«Una dona» és singular: *elegant*, sense *-s*."
+    grading: tolerant
+    explanation: "Els adjectius en *-ant* no canvien en femení: *elegant* serveix per a masculí i femení."
+
+  - id: b2-60-011
+    type: choice
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "___ de Halley passa a prop de la Terra cada 76 anys."
+    answer: "El cometa"
+    distractors:
+      - text: "La cometa"
+        why: "*La cometa* és l'estel de paper que vola amb el vent. L'astre és masculí: *el cometa*."
+      - text: "Els cometes"
+        why: "El cometa de Halley és un de sol: el subjecte és singular."
+    explanation: "*Cometa* canvia de significat segons el gènere: *el cometa* és l'astre, *la cometa* és la joguina que vola."
+
+  - id: b2-60-012
+    type: choice
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    prompt: "El projecte va arribar a ___ sense cap problema."
+    answer: "la fi"
+    distractors:
+      - text: "el fi"
+        why: "*El fi* és l'objectiu, el propòsit («amb el fi de»). El final d'una cosa és *la fi*."
+      - text: "les fins"
+        why: "«El projecte» és singular: cal el singular *la fi*."
+    explanation: "*La fi* és el final; *el fi* és l'objectiu. Aquí parlem del final del projecte: *la fi*."
+
+  - id: b2-60-013
+    type: match
+    point: morfologia-nom-adjectiu
+    lesson: 1
+    instruction: "Relaciona cada masculí amb el seu femení."
+    pairs:
+      - ["actor", "actriu"]
+      - ["poeta", "poetessa"]
+      - ["metge", "metgessa"]
+      - ["jutge", "jutgessa"]
+      - ["arqueòleg", "arqueòloga"]
+    explanation: "Són femenins irregulars que cal memoritzar: *actriu*, *poetessa*, *metgessa*, *jutgessa*, *arqueòloga*."
+
+  - id: b2-60-014
+    type: inline-choice
+    point: paraula-adient
+    lesson: 2
+    title: "Un barri tranquil"
+    text: "Han obert un parc nou a la cantonada. La Núria {hi|en|ho} porta els nens cada tarda. Al barri {hi|en|∅} ha molts comerços nous, i els veïns {en|hi|ho} parlen molt bé. El lloguer no és barat, {però|doncs|per tant} la zona és molt tranquil·la. {Per|Per a|En} cert, dissabte fem una calçotada: esteu convidats!"
+    explanation: "*Hi* substitueix «al parc». *Hi ha* presenta una cosa nova. *En* substitueix «dels comerços» (*parlar-ne*). *Però* contrasta dues idees. *Per cert* introdueix un tema nou."
+
+  - id: b2-60-015
+    type: inline-choice
+    point: paraula-adient
+    lesson: 2
+    title: "A la biblioteca"
+    text: "La biblioteca {on|en què|que} vaig cada setmana és a deu minuts de casa. La bibliotecària {amb qui|amb què|amb la que} parlo sempre és molt amable. Quan {arribis|arribaràs|arribaries}, truca'm i hi anem junts. Si {tens|tinguis|tindries} el carnet, pots entrar lliurement. El llibre {que|què|el qual} busques és a la segona planta."
+    explanation: "*On* indica el lloc on vas. Amb persones, *amb qui*. *Quan* amb futur demana subjuntiu: *arribis*. *Si* amb valor real demana indicatiu: *tens*. El complement directe de cosa és *que*."
+
+  - id: b2-60-016
+    type: inline-choice
+    point: paraula-adient
+    lesson: 2
+    title: "Feina i plans"
+    text: "Aquest regal és {per|per a|en} la Laia. Passarem {per|per a|en} Girona per anar a França. Vam suspendre l'excursió, {perquè|doncs|per tant} plovia molt. El tren va arribar tard; {per tant|perquè|ja que}, vam perdre l'enllaç. La Montse està malalta; {per això|perquè|ja que} no vindrà demà."
+    explanation: "El destinatari és *per a la Laia*. El lloc de pas és *per Girona*. La causa és *perquè*; *doncs* no introdueix causes. La conseqüència és *per tant*. *Per això* reprèn la causa anterior."
+
+  - id: b2-60-017
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "—Vas a la platja demà? —Sí, ___ vaig amb la Núria."
+    answer: "hi"
+    distractors:
+      - text: "en"
+        why: "*En* indica origen o part («en vinc», «en vull dos»). Anar a un lloc demana *hi*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea, no un lloc. El lloc on vas és *hi*."
+    explanation: "«A la platja» és el lloc on vas: el pronom és *hi*."
+
+  - id: b2-60-018
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "—Tens germans? —Sí, ___ tinc dos."
+    answer: "en"
+    distractors:
+      - text: "els"
+        why: "Amb una quantitat («dos»), el pronom és *en*: *en tinc dos*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea. Amb una quantitat, el pronom partitiu és *en*."
+    explanation: "Amb una quantitat darrere, el pronom és *en*: *en tinc dos*."
+
+  - id: b2-60-019
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "___ pocs dies, obriran la piscina nova del barri."
+    answer: "D'aquí a"
+    distractors:
+      - text: "Des de fa"
+        why: "*Des de fa* mira al passat («des de fa dos anys»). Aquí parlem del futur: *d'aquí a*."
+      - text: "De mica en mica"
+        why: "*De mica en mica* vol dir «a poc a poc». Per situar un fet en el futur: *d'aquí a*."
+    explanation: "«Obriran» és futur: per dir quan passarà, *d'aquí a pocs dies*."
+
+  - id: b2-60-020
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "La Laia no vindrà demà ___ està refredada."
+    answer: "perquè"
+    distractors:
+      - text: "doncs"
+        why: "*Doncs* no introdueix una causa. La causa és *perquè* o *ja que*."
+      - text: "per tant"
+        why: "*Per tant* introdueix una conseqüència, no una causa. Aquí la causa és que està refredada."
+    explanation: "«Està refredada» és la causa: *perquè*."
+
+  - id: b2-60-021
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "El metge li va dir que no ___ tant i que descansés."
+    answer: "treballés"
+    distractors:
+      - text: "treballi"
+        why: "Amb el verb principal en passat («va dir»), el subjuntiu va en imperfet: *treballés*."
+      - text: "treballaria"
+        why: "Després de «dir que» cal el subjuntiu, no el condicional: *treballés*."
+    explanation: "Estil indirecte amb verb en passat: «dir que» + imperfet de subjuntiu, *treballés*."
+
+  - id: b2-60-022
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "Si ___ més temps, hi aniria cada setmana."
+    answer: "tingués"
+    distractors:
+      - text: "tindria"
+        why: "Després de *si* no pot anar el condicional: *si tingués*."
+      - text: "tinc"
+        why: "Amb el condicional («aniria»), la condició és irreal: *si tingués*."
+    explanation: "Condició irreal: *si* + imperfet de subjuntiu (*tingués*) + condicional (*aniria*)."
+
+  - id: b2-60-023
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "És la persona ___ confio més de l'equip."
+    answer: "en qui"
+    distractors:
+      - text: "en què"
+        why: "*En què* és per a coses. Per a persones, darrere de preposició: *en qui*."
+      - text: "que"
+        why: "El verb és *confiar en*: cal mantenir la preposició, *en qui*."
+    explanation: "*Confiar* regeix *en*, i «la persona» és una persona: *en qui*."
+
+  - id: b2-60-024
+    type: choice
+    point: paraula-adient
+    lesson: 2
+    prompt: "M'alegro ___ hagis aprovat l'examen."
+    answer: "que"
+    distractors:
+      - text: "de que"
+        why: "La preposició cau davant de *que*: *m'alegro que*, sense *de*."
+      - text: "perquè"
+        why: "*Perquè* indica causa i demana indicatiu. *Alegrar-se* demana *que* + subjuntiu."
+    explanation: "Davant de *que*, la preposició cau: *m'alegro que hagis aprovat*."
+
+  - id: b2-60-025
+    type: fill
+    point: paraula-adient
+    lesson: 2
+    prompt: "Quan ___ a casa, truca'm i sopem junts."
+    hint: "arribar, tu (futur)"
+    answers: ["arribis"]
+    wrong_answers:
+      - text: "arribaràs"
+        why: "*Quan* amb valor de futur demana subjuntiu: *arribis*."
+      - text: "arribes"
+        why: "El present (*arribes*) és per a hàbits. Per a un fet futur: *arribis*."
+    grading: tolerant
+    explanation: "*Quan* + futur demana el present de subjuntiu: *quan arribis*."
+
+  - id: b2-60-026
+    type: fill
+    point: paraula-adient
+    lesson: 2
+    prompt: "No crec que la Laia ___ la resposta."
+    hint: "saber, ella (subjuntiu)"
+    answers: ["sàpiga"]
+    wrong_answers:
+      - text: "sàpigui"
+        why: "El subjuntiu de *saber* és *sàpiga*, sense *-gui*."
+      - text: "sap"
+        why: "Després de «no crec que» cal el subjuntiu, no l'indicatiu."
+      - text: "sabeixi"
+        why: "*Saber* no és incoatiu: el subjuntiu és *sàpiga*."
+    grading: tolerant
+    explanation: "«No crec que» demana subjuntiu. El subjuntiu de *saber* és *sàpiga*."
+
+  - id: b2-60-027
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Passa a estil indirecte."
+    source: "«[[Vindràs]] demà a la reunió?», em va preguntar en Jordi."
+    start: "En Jordi em va preguntar si"
+    answers: ["En Jordi em va preguntar si vindria l'endemà a la reunió."]
+    wrong_answers:
+      - text: "En Jordi em va preguntar si vindrà demà a la reunió."
+        why: "En estil indirecte, el futur passa a condicional (*vindria*) i *demà* passa a *l'endemà*."
+      - text: "En Jordi em va preguntar si vingués l'endemà a la reunió."
+        why: "Després de «preguntar si» va l'indicatiu (*vindria*), no el subjuntiu."
+    grading: tolerant
+    explanation: "Pregunta indirecta en passat: el futur es converteix en condicional (*vindria*) i *demà* en *l'endemà*."
+
+  - id: b2-60-028
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "He comprat [[quatre samarretes vermelles]] i tres de grogues."
+    answers: ["N'he comprat quatre de vermelles i tres de grogues.", "Jo n'he comprat quatre de vermelles i tres de grogues."]
+    wrong_answers:
+      - text: "Les he comprat quatre de vermelles i tres de grogues."
+        why: "Amb una quantitat («quatre»), el pronom és *en*: *n'he comprat quatre*."
+      - text: "Ho he comprat quatre de vermelles i tres de grogues."
+        why: "*Ho* substitueix una idea. Amb una quantitat, el pronom és *en*."
+    grading: tolerant
+    explanation: "Amb una quantitat, el pronom partitiu és *en*. L'adjectiu es manté amb *de*: *quatre de vermelles*."
+
+  - id: b2-60-029
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Passa a estil indirecte."
+    source: "El metge li va dir: «[[No treballis tant]] i pren-te tots els medicaments.»"
+    answers: ["El metge li va dir que no treballés tant i que es prengués tots els medicaments."]
+    wrong_answers:
+      - text: "El metge li va dir que no treballi tant i que es prengui tots els medicaments."
+        why: "Amb «va dir» en passat, el subjuntiu va en imperfet: *treballés*, *es prengués*."
+      - text: "El metge li va dir que no treballaria tant i que es prendria tots els medicaments."
+        why: "Després de «dir que» cal el subjuntiu, no el condicional."
+    grading: tolerant
+    explanation: "L'imperatiu passa a «que» + imperfet de subjuntiu: *que no treballés*, *que es prengués*."
+
+  - id: b2-60-030
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Fes la frase negativa."
+    source: "[[Veneu-vos]] el cotxe vell."
+    answers: ["No us vengueu el cotxe vell."]
+    wrong_answers:
+      - text: "No veneu-vos el cotxe vell."
+        why: "En negatiu, el pronom va davant i el verb va en subjuntiu: *no us vengueu*."
+      - text: "No us veneu el cotxe vell."
+        why: "El subjuntiu de *vendre* (vosaltres) és *vengueu*, no *veneu*."
+    grading: tolerant
+    explanation: "L'imperatiu negatiu es fa amb el subjuntiu i el pronom davant: *no us vengueu*."
+
+  - id: b2-60-031
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Reescriu la frase amb «És millor que»."
+    source: "Si vols treballar amb aquest ordinador, [[fes servir]] la meva contrasenya."
+    start: "És millor que"
+    answers:
+      - "És millor que facis servir la meva contrasenya quan vulguis treballar amb aquest ordinador."
+      - "És millor que facis servir la meva contrasenya si vols treballar amb aquest ordinador."
+    wrong_answers:
+      - text: "És millor que fas servir la meva contrasenya quan vulguis treballar amb aquest ordinador."
+        why: "Després de «és millor que» cal el subjuntiu: *facis*."
+    grading: tolerant
+    explanation: "«És millor que» demana subjuntiu: *facis servir*. La condició es manté amb *quan* + subjuntiu o *si* + indicatiu."
+
+  - id: b2-60-032
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Reescriu la frase amb «Deu»."
+    source: "Segurament [[ha arribat]] aquest matí, abans de les vuit."
+    start: "Deu"
+    answers: ["Deu haver arribat aquest matí, abans de les vuit."]
+    wrong_answers:
+      - text: "Deu arribar aquest matí, abans de les vuit."
+        why: "La probabilitat en passat es fa amb *deure* + *haver* + participi: *deu haver arribat*."
+      - text: "Ha deu arribat aquest matí, abans de les vuit."
+        why: "L'ordre és *deure* conjugat + *haver* + participi: *deu haver arribat*."
+    grading: tolerant
+    explanation: "Per expressar probabilitat en passat: *deu haver* + participi."
+
+  - id: b2-60-033
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Reescriu la frase com a condicional irreal."
+    source: "Com que [[heu menjat]] tant, ara teniu mal de panxa."
+    start: "Si"
+    answers: ["Si no haguéssiu menjat tant, ara no tindríeu mal de panxa."]
+    wrong_answers:
+      - text: "Si no hauríeu menjat tant, ara no tindríeu mal de panxa."
+        why: "Després de *si* va el subjuntiu (*haguéssiu*), mai el condicional."
+      - text: "Si no haguéssiu menjat tant, ara no teniu mal de panxa."
+        why: "En la condició irreal, la conseqüència va en condicional: *no tindríeu*."
+    grading: tolerant
+    explanation: "Condició irreal en passat: *si* + plusquamperfet de subjuntiu (*haguéssiu menjat*) + condicional (*tindríeu*)."
+
+  - id: b2-60-034
+    type: transform
+    point: transformacions
+    lesson: 3
+    instruction: "Substitueix la part marcada per un pronom."
+    source: "No [[estic d'acord amb la proposta del cap]]."
+    answers: ["No hi estic d'acord.", "Jo no hi estic d'acord."]
+    wrong_answers:
+      - text: "No en estic d'acord."
+        why: "*Estar d'acord* regeix *amb*, no *de*: el pronom és *hi*."
+      - text: "No ho estic d'acord."
+        why: "El complement «amb la proposta» se substitueix per *hi*, no per *ho*."
+    grading: tolerant
+    explanation: "*Estar d'acord amb* + complement: el pronom de *amb* + cosa és *hi*."
+
+  - id: b2-60-035
+    type: order
+    point: transformacions
+    lesson: 3
+    cue: "Digues a la Núria que encara no li has donat el regal."
+    chunks: ["encara", "no", "l'hi", "he", "donat"]
+    extra: ["li", "el"]
+    answers:
+      - "Encara no l'hi he donat."
+      - "No l'hi he donat encara."
+    explanation: "El regal (CD) + a la Núria (CI): *l'hi*. L'adverbi *encara* pot anar al principi o al final."
+
+  - id: b2-60-036
+    type: order
+    point: transformacions
+    lesson: 3
+    cue: "Respon que ja has parlat d'aquest tema amb el teu cap."
+    chunks: ["ja", "n'he", "parlat", "amb", "ell"]
+    extra: ["hi", "ho"]
+    answers:
+      - "Ja n'he parlat amb ell."
+    explanation: "*Parlar de* un tema: *en*. La persona es manté: *amb ell*."
+
+  - id: b2-60-037
+    type: fill
+    point: transformacions
+    lesson: 3
+    prompt: "Em va dir que no ___ tant i que dormís més."
+    hint: "treballar, ell (passat)"
+    answers: ["treballés"]
+    wrong_answers:
+      - text: "treballi"
+        why: "Amb «va dir» en passat, cal l'imperfet de subjuntiu: *treballés*."
+      - text: "treballaria"
+        why: "Després de «dir que» va el subjuntiu, no el condicional."
+    grading: tolerant
+    explanation: "«Dir que» en passat + imperfet de subjuntiu, com *dormís*: *treballés*."
+
+  - id: b2-60-038
+    type: fill
+    point: transformacions
+    lesson: 3
+    prompt: "—On vas? —___ a comprar pa, torno de seguida."
+    hint: "anar-se'n, jo (present)"
+    answers: ["Me'n vaig", "Jo me'n vaig"]
+    wrong_answers:
+      - text: "M'en vaig"
+        why: "El pronom és *me* + *en*, amb apòstrof a *en*: *me'n vaig*."
+      - text: "En vaig"
+        why: "*Anar-se'n* és pronominal: cal *me* (*me'n vaig*), no només *en*."
+    grading: tolerant
+    explanation: "*Anar-se'n* porta dos pronoms: *me'n*. En present (jo): *me'n vaig*."
+
+  - id: b2-60-039
+    type: choice
+    point: transformacions
+    lesson: 3
+    prompt: "Tant si plou ___ no plou, hi anirem igualment."
+    answer: "com si"
+    distractors:
+      - text: "que si"
+        why: "La parella és *tant si… com si*: *que si* no hi va."
+      - text: "o"
+        why: "No és una alternativa (*o*), sinó una concessiva: *tant si… com si*."
+    explanation: "La construcció concessiva és *tant si… com si…*."
+
+  - id: b2-60-040
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Quan diem que algú ens pren el pèl, volem dir que..."
+    answer: "se'n riu de nosaltres"
+    distractors:
+      - text: "ens ajuda amb paciència"
+        why: "Ajudar no té res a veure amb *prendre el pèl*: l'expressió parla de riure's d'algú."
+      - text: "ens ignora del tot"
+        why: "Ignorar és no fer cas. *Prendre el pèl* és riure's d'algú, sovint amb gràcia."
+      - text: "ens renya sense motiu"
+        why: "Renyar és reprendre. *Prendre el pèl* vol dir riure's d'algú."
+    explanation: "*Prendre el pèl* vol dir riure's d'algú o enganyar-lo una mica."
+
+  - id: b2-60-041
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Quan diem que una cosa ens treu de polleguera, volem dir que..."
+    answer: "ens fa enfadar molt"
+    distractors:
+      - text: "ens fa riure sense voler"
+        why: "No parla de riure, sinó d'enfadar: de fer perdre la paciència."
+      - text: "ens ajuda a sortir d'un lloc"
+        why: "És un sentit figurat: no parla de portes ni de llocs, sinó d'enfadar."
+      - text: "ens convida a sopar"
+        why: "No té res a veure amb convidar: parla de fer enfadar."
+    explanation: "*Treure de polleguera* vol dir fer perdre la paciència, fer enfadar molt."
+
+  - id: b2-60-042
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Quan diem que una desgràcia plou sobre mullat, volem dir que..."
+    answer: "empitjora una situació ja dolenta"
+    distractors:
+      - text: "plou molt durant molts dies"
+        why: "No parla del temps: és figurat, parla d'una situació que empitjora."
+      - text: "arregla un problema amb calma"
+        why: "Al contrari: la situació empitjora, no s'arregla."
+      - text: "arriba en el millor moment"
+        why: "Al contrari: arriba quan les coses ja van malament."
+    explanation: "*Ploure sobre mullat*: un mal nou cau sobre un mal que ja hi era."
+
+  - id: b2-60-043
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Quan diem que algú fa el cor fort, volem dir que..."
+    answer: "aguanta una situació difícil amb valor"
+    distractors:
+      - text: "fa esport per estar en forma"
+        why: "No parla del cor com a múscul: és el valor per aguantar."
+      - text: "s'enamora de sobte"
+        why: "No parla d'amor, sinó d'aguantar amb valor."
+      - text: "es cansa d'esperar"
+        why: "Al contrari: és no rendir-se, aguantar."
+    explanation: "*Fer el cor fort* és aguantar el dolor o la dificultat sense rendir-se."
+
+  - id: b2-60-044
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "El jurat del concurs va ___ cada plat abans de votar."
+    answer: "tastar"
+    distractors:
+      - text: "digerir"
+        why: "*Digerir* és el que fa l'estómac. El jurat en jutja el gust: *tasta*."
+      - text: "mossegar"
+        why: "El jurat no mossega: en tasta una cullerada per jutjar."
+      - text: "empassar"
+        why: "*Empassar* és fer baixar el menjar. Per jutjar el gust: *tastar*."
+    explanation: "Per jutjar el gust d'un menjar, se'n *tasta* una mica."
+
+  - id: b2-60-045
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Abans d'acceptar la feina, m'ho vull ___ una mica més."
+    answer: "rumiar"
+    distractors:
+      - text: "rondinar"
+        why: "*Rondinar* és queixar-se. Pensar-s'ho amb calma és *rumiar*."
+      - text: "remugar"
+        why: "*Remugar* és el que fan les vaques. Les persones *rumien* les decisions."
+      - text: "remenar"
+        why: "*Remenar* és moure una cosa (el cafè). Una decisió es *rumia*."
+    explanation: "*Rumiar* una decisió és pensar-s'hi amb calma abans de decidir."
+
+  - id: b2-60-046
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Per fer una bona paella, calen uns bons ___ de roca."
+    answer: "musclos"
+    distractors:
+      - text: "músculs"
+        why: "*Múscul* és la part del cos. El marisc s'escriu *musclo*."
+      - text: "muscles"
+        why: "La grafia correcta del marisc és *musclo*, amb *o*."
+      - text: "mussols"
+        why: "*Mussol* és un ocell de nit. El marisc és el *musclo*."
+    explanation: "El marisc és el *musclo* (plural *musclos*): no és el *múscul* del cos ni el *mussol* ocell."
+
+  - id: b2-60-047
+    type: choice
+    point: significat
+    lesson: 4
+    prompt: "Quan diem que algú va amb peus de plom, volem dir que és..."
+    answer: "previngut"
+    distractors:
+      - text: "lent"
+        why: "Pot anar a poc a poc, però la idea és la prudència: *previngut*."
+      - text: "coix"
+        why: "No parla de caminar malament, sinó d'anar amb prudència."
+      - text: "descuidat"
+        why: "Al contrari: és algú que va amb molta cura."
+    explanation: "*Anar amb peus de plom* és actuar amb prudència, sense córrer riscos."
+
+  - id: b2-60-048
+    type: match
+    point: significat
+    lesson: 4
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["estar fins al capdamunt", "no poder més, estar fart"]
+      - ["estirar més el braç que la màniga", "gastar més del que es pot"]
+      - ["costar un ull de la cara", "ser molt car"]
+      - ["fer-se el suec", "fer veure que no se sent"]
+      - ["anar de bòlit", "tenir molta feina i poc temps"]
+    explanation: "Són expressions de la conversa de cada dia: cal saber què volen dir, no traduir-les literalment."
+
+  - id: b2-60-049
+    type: fill
+    point: derivacio
+    lesson: 4
+    prompt: "La segona reunió va ser ___; no calia fer-la."
+    hint: "NECESSARI, en negatiu, femení singular"
+    answers: ["innecessària"]
+    wrong_answers:
+      - text: "innecessaria"
+        why: "Els adjectius en *-ari* fan el femení amb accent: *innecessària*."
+      - text: "no necessària"
+        why: "Amb el prefix negatiu: *innecessària*, en una sola paraula."
+    grading: strict
+    explanation: "El prefix *in-* nega l'adjectiu: *innecessari*. En femení, amb accent: *innecessària*."
+
+  - id: b2-60-050
+    type: fill
+    point: derivacio
+    lesson: 4
+    prompt: "L'empresa ___ el nou vi per tot Europa."
+    hint: "COMERÇ, verb, passat perifràstic"
+    answers: ["va comercialitzar"]
+    wrong_answers:
+      - text: "va comerciar"
+        why: "*Comerciar* és intransitiu. El verb transitiu format de *comerç* és *comercialitzar*."
+      - text: "va comercitzar"
+        why: "La forma correcta és *comercialitzar*, amb *-al-*."
+    grading: tolerant
+    explanation: "De *comerç* es forma el verb *comercialitzar*: *va comercialitzar*."
+
+  - id: b2-60-051
+    type: fill
+    point: derivacio
+    lesson: 4
+    prompt: "L'empresa demana una ___ de cada despesa de viatge."
+    hint: "JUSTIFICAR, nom femení singular"
+    answers: ["justificació"]
+    wrong_answers:
+      - text: "justificancia"
+        why: "El nom format de *justificar* és *justificació*, no *justificancia*."
+      - text: "justificament"
+        why: "El sufix aquí és *-ció*: *justificació*, en femení."
+    grading: tolerant
+    explanation: "De *justificar* es forma el nom en *-ció*: la *justificació*."
+
+  - id: b2-60-052
+    type: fill
+    point: derivacio
+    lesson: 4
+    prompt: "Són uns veïns molt ___; sempre fan obres."
+    hint: "SOROLL, adjectiu masculí plural"
+    answers: ["sorollosos"]
+    wrong_answers:
+      - text: "sorolls"
+        why: "Cal l'adjectiu, no el nom: *sorollosos*."
+      - text: "sorollants"
+        why: "L'adjectiu format de *soroll* és *sorollós*: plural *sorollosos*."
+    grading: tolerant
+    explanation: "De *soroll* es forma l'adjectiu en *-ós*: *sorollosos*."
+
+  - id: b2-60-053
+    type: reading
+    point: comprensio
+    lesson: 4
+    title: "L'hort del barri"
+    text: |
+      Fa tres anys, un grup de veïns del barri de Gràcia va decidir recuperar un solar buit del carrer de la Riera. L'Ajuntament els va cedir el terreny per cinc anys i, amb l'ajuda d'una associació de Sant Andreu, hi van plantar l'hort comunitari que avui coneix tothom.
+
+      Al principi, només eren vuit persones i no sabien gairebé res de pagesia. La Fàtima, que havia viscut en un poble de Lleida, els va ensenyar a preparar la terra i a fer els cavallons. En Pere, jubilat de seixanta-set anys, va muntar el sistema de reg amb materials reciclats. Cada dissabte al matí, de deu a una, obren la porta a tothom qui vulgui ajudar.
+
+      Avui, l'hort té més de quaranta parcel·les i una llista d'espera de vint famílies. Cada família conrea la seva parcel·la i, un cop al mes, fan un dinar popular amb les verdures que han collit. També tenen un galliner amb sis gallines i un porxo on guarden les eines. El mes passat van collir vuitanta quilos de tomàquets i cinquanta de carabassons.
+
+      La Montse, coordinadora del projecte, explica que l'èxit no són només les verdures. «Abans no coneixia els veïns de l'escala. Ara, cada setmana dinem plegats i ens ajudem amb els nens», diu. Les escoles del barri hi porten els alumnes un cop per trimestre. L'Ajuntament vol repetir l'experiència en dos solars més, al Clot i a Sants, i el grup de Gràcia assessorarà els nous horts. El pròxim dissabte faran una jornada de portes obertes per ensenyar l'hort.
+    questions:
+      - prompt: "Qui va ensenyar als veïns a preparar la terra?"
+        answer: "Una veïna que sabia de pagesia perquè havia viscut a Lleida."
+        distractors:
+          - text: "En Pere, el jubilat que va muntar el sistema de reg."
+            why: "En Pere va muntar el sistema de reg, no va ensenyar a preparar la terra."
+          - text: "La Montse, la coordinadora del projecte."
+            why: "La Montse coordina el projecte; qui ensenya a preparar la terra és la Fàtima."
+      - prompt: "Quantes parcel·les té avui l'hort?"
+        answer: "Més de quaranta, amb vint famílies en espera."
+        distractors:
+          - text: "Vuit parcel·les per a vuit persones."
+            why: "Vuit eren les persones del principi, no les parcel·les d'avui."
+          - text: "Quaranta parcel·les sense llista d'espera."
+            why: "El text diu que hi ha una llista d'espera de vint famílies."
+      - prompt: "Què fan amb les verdures que cullen?"
+        answer: "Fan un dinar popular un cop al mes."
+        distractors:
+          - text: "Les venen al mercat del barri."
+            why: "El text no diu que venguin res: fan un dinar popular."
+          - text: "Les reparteixen entre les escoles."
+            why: "Les escoles hi porten alumnes, però les verdures són per al dinar."
+      - prompt: "Què vol fer l'Ajuntament?"
+        answer: "Repetir l'experiència en dos solars més."
+        distractors:
+          - text: "Recuperar el solar del carrer de la Riera."
+            why: "Aquest solar ja funciona com a hort; volen obrir-ne dos més."
+          - text: "Tancar l'hort per manca de participants."
+            why: "Al contrari: hi ha llista d'espera i l'experiència és un èxit."
+    explanation: "El text explica com un hort comunitari de Gràcia ha passat de vuit veïns a més de quaranta parcel·les."
+
+  - id: b2-60-054
+    type: inline-choice
+    point: lletres-que-falten
+    lesson: 5
+    title: "Un correu important"
+    text: "T'he enviat un co{r|rr}eu amb l'adre{c|ç}a nova de la feina. Revisa també la {s|ss}afata d'entrada: hi ha el rebut del lloguer. Si no el {v|b}eus, truca'm i t'ho passo pel mòbil."
+    explanation: "*Correu* s'escriu amb *rr*. *Adreça* porta *ç*. *Safata* s'escriu amb una sola *s*. *Veure* s'escriu amb *v*: *veus*."
+
+  - id: b2-60-055
+    type: inline-choice
+    point: lletres-que-falten
+    lesson: 5
+    title: "A la consulta"
+    text: "La Maria {és|es} metgessa i {té|te} la consulta al centre. Fa un {mes|més} que no la veig: la consulta sempre {és|es} plena de pacients. Diu que {se|sé} sap organitzar, però jo no {sé|se} com ho fa."
+    explanation: "*És* (de *ser*) porta accent; *es* és el pronom. *Té* (de *tenir*) porta accent; *te* és el pronom. El mes de l'any és *mes*, sense accent. *Sé* (de *saber*) porta accent; *se* és el pronom."
+
+  - id: b2-60-056
+    type: fill
+    point: derivacio
+    lesson: 5
+    prompt: "El text és ple de ___; cal revisar-lo."
+    hint: "REPETIR, nom femení plural"
+    answers: ["repeticions"]
+    wrong_answers:
+      - text: "repetides"
+        why: "Cal el nom en *-ció*: *repeticions*, no el participi."
+      - text: "repetiments"
+        why: "El sufix és *-ció*: *repeticions*."
+    grading: tolerant
+    explanation: "De *repetir* es forma el nom en *-ció*: les *repeticions*."
+
+  - id: b2-60-057
+    type: fill
+    point: derivacio
+    lesson: 5
+    prompt: "El jutge ___ la demanda de l'empresa."
+    hint: "ESTIMAR, amb un prefix negatiu, passat perifràstic"
+    answers: ["va desestimar"]
+    wrong_answers:
+      - text: "va inestimar"
+        why: "El prefix aquí és *des-*: *desestimar*."
+      - text: "va disestimar"
+        why: "El prefix és *des-*, no *dis-*: *desestimar*."
+    grading: tolerant
+    explanation: "Amb el prefix *des-*: *desestimar* una demanda és no acceptar-la."
+
+  - id: b2-60-058
+    type: transform
+    point: transformacions
+    lesson: 5
+    instruction: "Canvia els pronoms a «nosaltres»."
+    source: "Fes-me el rebut i [[dona-me'l]] demà al matí."
+    answers: ["Fes-nos el rebut i dona'ns-el demà al matí."]
+    wrong_answers:
+      - text: "Fes-nos el rebut i dona'ns-la demà al matí."
+        why: "«El rebut» és masculí: el complement directe és *el*, *dona'ns-el*."
+      - text: "Fes-nos el rebut i dona'ns-hi demà al matí."
+        why: "«El rebut» és complement directe, no lloc: *dona'ns-el*."
+    grading: tolerant
+    explanation: "Els pronoms passen a primera persona del plural: *fes-nos* i *dona'ns-el*."
+
+  - id: b2-60-059
+    type: transform
+    point: transformacions
+    lesson: 5
+    instruction: "Reescriu amb «Caldria que»."
+    source: "M'hauries de respondre [[al més aviat possible]]."
+    start: "Caldria que"
+    answers: ["Caldria que em responguessis com més aviat millor."]
+    wrong_answers:
+      - text: "Caldria que em respons com més aviat millor."
+        why: "Després de «caldria que» cal l'imperfet de subjuntiu: *responguessis*."
+      - text: "Caldria que em respondries com més aviat millor."
+        why: "Després de «caldria que» va el subjuntiu, no el condicional."
+    grading: tolerant
+    explanation: "«Caldria que» demana l'imperfet de subjuntiu: *responguessis*. *Al més aviat possible* es diu *com més aviat millor*."
+
+  - id: b2-60-060
+    type: choice
+    point: significat
+    lesson: 5
+    prompt: "L'avió s'ha dirigit a la pista i ha començat a ___ a l'hora prevista."
+    answer: "enlairar-se"
+    distractors:
+      - text: "apujar-se"
+        why: "*Apujar* és fer més alt (un preu, un mur). Un avió *s'enlaira*."
+      - text: "airejar-se"
+        why: "*Airejar* és ventilar. Un avió *s'enlaira*."
+      - text: "desterrar-se"
+        why: "*Desterrar* és expulsar d'un país. Un avió *s'enlaira*."
+    explanation: "Un avió que comença a volar *s'enlaira*."
+
+  - id: b2-60-061
+    type: choice
+    point: paraula-adient
+    lesson: 5
+    prompt: "___ això, hi topo cada dia quan vaig a la feina."
+    answer: "Amb tot"
+    distractors:
+      - text: "En tot"
+        why: "La locució és *amb tot* (vol dir «tanmateix»)."
+      - text: "De tot"
+        why: "La locució concessiva és *amb tot*: *de tot això* no hi va."
+    explanation: "*Amb tot això* (o *amb tot*) vol dir «tanmateix»: malgrat el que s'ha dit."
+
+  - id: b2-60-062
+    type: find-error
+    point: significat
+    lesson: 5
+    sentence: "Ahir en Pau es va enterar de l'accident per la ràdio."
+    error: "es va enterar"
+    fix: "es va assabentar"
+    fix_distractors:
+      - text: "es va donar compte"
+        why: "*Donar-se compte* també és un calc de «darse cuenta». Per saber una notícia: *assabentar-se*."
+      - text: "s'ha assabentat"
+        why: "Amb *ahir* cal el passat perifràstic (*es va assabentar*), no el perfet."
+    explanation: "*Enterar-se* és un castellanisme. En català, per saber una notícia: *assabentar-se*."
+
+  - id: b2-60-063
+    type: find-error
+    point: significat
+    lesson: 5
+    sentence: "Si tens febre, truca el metge de guàrdia."
+    error: "truca el metge"
+    fix: "truca al metge"
+    fix_distractors:
+      - text: "truca del metge"
+        why: "*Trucar* regeix la preposició *a*, no *de*: *truca al metge*."
+      - text: "truca amb el metge"
+        why: "*Amb* indica companyia. El destinatari de la trucada és *al metge*."
+    explanation: "*Trucar* (telefonar) regeix la preposició *a*: *truca al metge*."
+
+  - id: b2-60-064
+    type: find-error
+    point: significat
+    lesson: 5
+    sentence: "En base a les dades, el preu baixarà aviat."
+    error: "En base a"
+    fix: "A partir de"
+    fix_distractors:
+      - text: "En quant a"
+        why: "*Quant a* vol dir «pel que fa a», no «segons». Aquí cal *a partir de*."
+      - text: "A base de"
+        why: "*A base de* vol dir «a còpia de». Per dir «segons»: *a partir de*."
+    explanation: "*En base a* és un calc. Per dir «segons les dades»: *a partir de les dades*."
+
+  - id: b2-60-065
+    type: find-error
+    point: significat
+    lesson: 5
+    sentence: "La Núria es va assabentar de l'oferta per la ràdio i trucarà al responsable."
+    no_error: true
+    explanation: "La frase és correcta: *assabentar-se* (no *enterar-se*) i *trucar a* (no *trucar* + complement directe)."
+
+  - id: b2-60-066
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una parella lingüística"
+    text: |
+      En Marc té trenta-quatre anys, és informàtic i fa dos anys que viu a Vic. Quan hi va arribar, entenia el català, però li feia vergonya parlar-lo: a la feina tothom li responia en castellà i, a poc a poc, va deixar d'intentar-ho.
+
+      L'any passat, una companya li va parlar del programa de parelles lingüístiques del centre cultural. S'hi va apuntar sense gaire convicció i li van assignar la Teresa, una mestra jubilada de seixanta-vuit anys que volia practicar l'anglès. Van acordar de trobar-se cada dijous en un bar de la plaça i de parlar mitja hora en cada llengua.
+
+      Al principi, en Marc només parlava del temps i de la feina, i la Teresa l'interrompia cada dos per tres per corregir-lo. Al cap de dos mesos, però, ja explicava pel·lícules senceres i discutia de futbol i de cinema sense por d'equivocar-se.
+
+      «La Teresa no m'ensenya gramàtica: m'escolta i em fa repetir les frases fins que sonen bé», explica en Marc. Aquest curs s'ha apuntat a una acadèmia per preparar l'examen del nivell B2. La prova escrita no li fa por, però vol perdre la vergonya de l'expressió oral. La Teresa l'acompanyarà el dia de l'examen i, si aprova, ho celebraran amb un dinar a la costa.
+
+      El programa té més de cent parelles a la ciutat i sempre busca voluntaris. Només cal tenir una hora lliure a la setmana i ganes de conversar. En Marc diu que, gràcies a la Teresa, ara parla català cada dia: amb els veïns, al mercat i, fins i tot, amb els companys de feina.
+    questions:
+      - prompt: "Per què en Marc va deixar de parlar català a la feina?"
+        answer: "Perquè tothom li responia en castellà."
+        distractors:
+          - text: "Perquè no entenia el català."
+            why: "El text diu que l'entenia, però li feia vergonya parlar-lo."
+          - text: "Perquè els companys es reien d'ell."
+            why: "El text no diu això: li responien en castellà."
+      - prompt: "Com funcionen les trobades d'en Marc i la Teresa?"
+        answer: "Cada dijous parlen mitja hora de cada llengua."
+        distractors:
+          - text: "Es troben cada dia al centre cultural."
+            why: "Es troben cada dijous en un bar de la plaça."
+          - text: "La Teresa li fa classes de gramàtica."
+            why: "La Teresa no li ensenya gramàtica: el fa repetir les frases."
+      - prompt: "Què vol aconseguir en Marc aquest curs?"
+        answer: "Aprovar l'examen del nivell B2."
+        distractors:
+          - text: "Trobar una feina nova a Vic."
+            why: "En Marc ja té feina: és informàtic."
+          - text: "Ensenyar anglès a la Teresa."
+            why: "La Teresa vol practicar l'anglès, però l'objectiu d'en Marc és el B2."
+      - prompt: "Què necessita el programa de parelles lingüístiques?"
+        answer: "Voluntaris amb una hora lliure a la setmana."
+        distractors:
+          - text: "Diners per pagar els professors."
+            why: "El programa és de voluntaris, no de professors pagats."
+          - text: "Un bar nou a la plaça."
+            why: "Ja es troben en un bar; el que calen són voluntaris."
+    explanation: "El text explica com una parella lingüística ha ajudat en Marc a perdre la vergonya de parlar català."

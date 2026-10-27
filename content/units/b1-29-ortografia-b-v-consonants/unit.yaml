@@ -1,0 +1,1062 @@
+id: b1-29
+level: B1
+title: "Ortografia: *b/v* i consonants finals"
+summary: "Aprens a escriure la *b* i la *v* (*haver, rebre, provar, govern*), les consonants finals (*verd/verda, groc/groga, sap/saben*) i els sons *ix/x/tx/ig* (*cuixa, xarop, dutxa, faig*)."
+vocabulary_theme: "El cos humà"
+points:
+  - id: be-i-v
+    title: "L'ortografia de *b* i *v*: *haver, rebre, provar*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: consonants-finals
+    title: "Consonants finals: *verd/verda*, *groc/groga*, *sap/saben*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: ix-x-tx-ig
+    title: "*ix*, *x*, *tx* i *ig*: *cuixa*, *xarop*, *dutxa*, *faig*"
+    refs:
+      - label: "GEIEC: L'ortografia"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: la *b/v* contrària"
+  - id: expressions
+    title: "Expressions del cos"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: la *b/v* i les consonants finals"
+  - title: "Practicar la *b/v* i les consonants finals"
+  - title: "*ix/x/tx/ig* i la interferència del castellà"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "el cap"
+    definition: "Part de dalt del cos, on hi ha els ulls i la boca."
+    example: "Li fa mal el cap des de fa tres dies."
+  - word: "el cervell"
+    definition: "Òrgan del cap que controla el pensament i el cos."
+    example: "Després del cop, li van mirar el cervell amb un escàner."
+  - word: "el front"
+    definition: "Part del cap entre les celles i els cabells."
+    example: "La infermera li toca el front per veure si té febre."
+  - word: "l'ull"
+    definition: "Òrgan de la cara amb què veiem."
+    example: "Té els ulls verds com la seva mare."
+  - word: "la cella"
+    definition: "Línia de pèls a sobre de cada ull."
+    example: "Es va fer un tall a la cella jugant a futbol."
+  - word: "l'orella"
+    definition: "Òrgan del cap amb què sentim."
+    example: "El metge li mira les orelles amb una llum petita."
+  - word: "el nas"
+    definition: "Part de la cara amb què respirem i olorem."
+    example: "Amb el refredat, li raja el nas tot el dia."
+  - word: "la galta"
+    definition: "Cada costat tou de la cara, entre l'ull i la boca."
+    example: "Té les galtes vermelles de la febre."
+  - word: "la boca"
+    definition: "Obertura de la cara per menjar, parlar i respirar."
+    example: "El metge li demana que obri la boca."
+  - word: "el llavi"
+    definition: "Cadascuna de les dues vores de la boca."
+    example: "Amb el fred, té els llavis secs."
+  - word: "la dent"
+    definition: "Peça dura de la boca que serveix per mastegar."
+    example: "El dentista diu que té les dents sanes."
+  - word: "el queixal"
+    definition: "Dent grossa del fons de la boca."
+    example: "Li han tret un queixal del seny."
+  - word: "la barba"
+    definition: "Pèl de la cara dels homes, a les galtes i la barbeta."
+    example: "El meu pare porta barba des de fa anys."
+  - word: "el coll"
+    definition: "Part del cos entre el cap i les espatlles."
+    example: "Li fa mal el coll de dormir en mala postura."
+  - word: "l'espatlla"
+    definition: "Part de dalt del braç, on s'uneix amb el cos."
+    example: "El pacient té un dolor fort a l'espatlla."
+  - word: "el braç"
+    definition: "Membre del cos entre l'espatlla i la mà."
+    example: "Li prenen la tensió al braç dret."
+  - word: "el colze"
+    definition: "Articulació del mig del braç."
+    example: "Va caure i té un blau al colze."
+  - word: "la mà"
+    definition: "Part del final del braç, amb cinc dits."
+    example: "Té les mans fredes del fred del carrer."
+  - word: "el dit"
+    definition: "Cadascuna de les cinc parts de la mà o del peu."
+    example: "Té una berruga al dit petit de la mà."
+  - word: "l'ungla"
+    definition: "Làmina dura que cobreix la punta dels dits."
+    example: "Es va trencar una ungla obrint la porta."
+  - word: "el pit"
+    definition: "Part de davant del cos, entre el coll i el ventre."
+    example: "El metge li ausculta el pit amb el fonendoscopi."
+  - word: "l'aixella"
+    definition: "Buit entre el braç i el cos, sota l'espatlla."
+    example: "Es posa el termòmetre a l'aixella."
+  - word: "l'esquena"
+    definition: "Part de darrere del cos, del coll a la cintura."
+    example: "Treballar assegut tot el dia li fa mal d'esquena."
+  - word: "el cor"
+    definition: "Òrgan del pit que fa circular la sang."
+    example: "Abans de l'operació, el cor li batega de pressa."
+  - word: "el ventre"
+    definition: "Part de davant del cos entre el pit i les cames."
+    example: "Es queixa d'un dolor fort al ventre."
+  - word: "el melic"
+    definition: "Marca rodona al mig del ventre."
+    example: "Al nadó li cau la crosta del melic."
+  - word: "la cama"
+    definition: "Membre del cos entre el maluc i el peu."
+    example: "Té un hematoma a la cama de la caiguda."
+  - word: "la cuixa"
+    definition: "Part de dalt de la cama, entre el maluc i el genoll."
+    example: "Li fa mal la cuixa dreta quan puja escales."
+  - word: "el genoll"
+    definition: "Articulació del mig de la cama."
+    example: "Porta un embenat al genoll esquerre."
+  - word: "el turmell"
+    definition: "Articulació entre la cama i el peu."
+    example: "Es va torçar el turmell jugant a bàsquet."
+  - word: "el peu"
+    definition: "Part del final de la cama, que toca a terra."
+    example: "Després de la dutxa, eixuga't bé els peus."
+  - word: "l'os"
+    definition: "Peça dura que forma l'esquelet."
+    example: "El metge mira si l'os està trencat."
+  - word: "el múscul"
+    definition: "Teixit del cos que es mou i fa força."
+    example: "Té el múscul de la cama inflamat."
+  - word: "la pell"
+    definition: "Capa que cobreix tot el cos per fora."
+    example: "Té la pell molt blanca i delicada."
+  - word: "el cabell"
+    definition: "Pèl llarg que cobreix el cap."
+    example: "Li cauen els cabells i es queda calb."
+  - word: "la sang"
+    definition: "Líquid vermell que circula pel cos."
+    example: "Li fan una anàlisi de sang cada any."
+  - word: "la berruga"
+    definition: "Bony petit i dur que surt a la pell."
+    example: "El dermatòleg li ha tret una berruga de la mà."
+  - word: "el pèl"
+    definition: "Fil prim que surt de la pell."
+    example: "Amb la por, se li posen els pèls de punta."
+  - word: "la ferida"
+    definition: "Tall o obertura a la pell per un accident."
+    example: "Es renta la ferida del genoll amb aigua."
+  - word: "el dolor"
+    definition: "Sensació de mal en una part del cos."
+    example: "Prenc una pastilla per al dolor de cap."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-29-001
+    type: choice
+    point: be-i-v
+    lesson: 1
+    prompt: "—Tu quan ___ els resultats de l'anàlisi? —Demà al matí."
+    answer: "rebràs"
+    distractors:
+      - text: "revràs"
+        why: "*Rebre* i tota la família s'escriuen amb *b*: *rebràs*."
+      - text: "rebrà"
+        why: "La pregunta és per a «tu»: *rebràs*. *Rebrà* seria per a «ell»."
+    explanation: "«Demà» demana futur, i la pregunta és per a «tu»: *rebràs*. *Rebre* s'escriu amb *b*."
+
+  - id: b1-29-002
+    type: choice
+    point: be-i-v
+    lesson: 1
+    prompt: "—Doctor, quan torno? —___ de tornar demà."
+    answer: "Has"
+    distractors:
+      - text: "As"
+        why: "*Haver* s'escriu amb *h* i *v*: *has*."
+      - text: "Ha"
+        why: "El metge parla amb «tu»: *has*. *Ha* seria per a «ell»."
+    explanation: "El metge parla amb el pacient («tu»): *has de tornar*. *Haver* porta *h* i *v*."
+
+  - id: b1-29-003
+    type: choice
+    point: be-i-v
+    lesson: 1
+    prompt: "Abans de comprar les ulleres, te les pots ___ a la botiga."
+    answer: "provar"
+    distractors:
+      - text: "probar"
+        why: "*Provar* s'escriu amb *v*, encara que *trobar* porti *b*."
+      - text: "trobar"
+        why: "*Trobar* («encontrar») no funciona amb «te les». Aquí volem dir «intentar»: *provar*."
+    explanation: "Amb «te les», el verb és *provar* (intentar): *trobar* no hi funciona. I *provar* s'escriu amb *v*."
+
+  - id: b1-29-004
+    type: choice
+    point: be-i-v
+    lesson: 1
+    prompt: "Tinc una ___ al dit i em fa mal."
+    answer: "berruga"
+    distractors:
+      - text: "verruga"
+        why: "En català és *berruga*, amb *b*: «verruga» és castellà."
+      - text: "beruga"
+        why: "*Berruga* s'escriu amb *rr*."
+    explanation: "És *berruga*, amb *b* i *rr*: en castellà és «verruga», amb *v*."
+
+  - id: b1-29-005
+    type: choice
+    point: consonants-finals
+    lesson: 1
+    prompt: "Amb la icterícia, els ulls es tornen ___."
+    answer: "grocs"
+    distractors:
+      - text: "grogs"
+        why: "El masculí plural conserva la *c*: *grocs*. La *g* només surt en femení: *groga*."
+      - text: "groc"
+        why: "«Els ulls» és plural: *grocs*."
+    explanation: "«Els ulls» és masculí plural. El masculí de *groc* fa *grocs*: la *g* només apareix en femení (*groga*)."
+
+  - id: b1-29-006
+    type: inline-choice
+    point: be-i-v
+    lesson: 1
+    title: "Una visita al metge"
+    text: "Ahir {v|b}aig anar al metge: em {v|b}a receptar un xarop i em {v|b}a dir que {b|v}egués molta aigua. Com que tre{b|v}allo de nits, també em va receptar unes vitamines."
+    explanation: "*Anar* s'escriu amb *v* (*vaig*, *va*); *beure* i *treballar*, amb *b* (*begués*, *treballo*)."
+
+  - id: b1-29-007
+    type: inline-choice
+    point: consonants-finals
+    lesson: 1
+    title: "A urgències"
+    text: "La pacient ha arribat amb les mans fre{d|t}es i els ulls gro{c|g}s. També té un bla{u|v} al colze i li fa mal el melic. El metge encara no sa{p|b} què té."
+    explanation: "El femení i el plural mantenen la consonant del masculí: *fredes*, *grocs*, *blau*. I *saber* fa *sap*."
+
+  - id: b1-29-008
+    type: match
+    point: be-i-v
+    lesson: 1
+    instruction: "Relaciona cada infinitiu amb una forma del seu verb."
+    pairs:
+      - ["rebre", "reben"]
+      - ["provar", "provem"]
+      - ["beure", "beuen"]
+      - ["trobar", "troben"]
+      - ["haver", "havien"]
+    explanation: "Totes aquestes formes mantenen la *b* o la *v* de l'infinitiu."
+
+  - id: b1-29-009
+    type: match
+    point: consonants-finals
+    lesson: 1
+    instruction: "Relaciona cada masculí amb el seu femení."
+    pairs:
+      - ["verd", "verda"]
+      - ["groc", "groga"]
+      - ["blanc", "blanca"]
+      - ["fred", "freda"]
+      - ["calb", "calba"]
+    explanation: "El femení ens diu quina és la consonant final del masculí."
+
+  - id: b1-29-010
+    type: fill
+    point: be-i-v
+    lesson: 1
+    prompt: "Els pacients ___ de portar la targeta sanitària."
+    hint: "HAVER, en present"
+    answers: ["han"]
+    wrong_answers:
+      - text: "an"
+        why: "*Haver* s'escriu amb *h* i *v*: *han*."
+      - text: "hem"
+        why: "«Els pacients» és tercera persona plural: *han*."
+    grading: strict
+    explanation: "És *haver de* + infinitiu, tercera persona plural: *han*. *Haver* porta *h* inicial i *v*."
+
+  - id: b1-29-011
+    type: fill
+    point: be-i-v
+    lesson: 1
+    prompt: "El metge ___ cada dia més de trenta pacients."
+    hint: "REBRE, en present"
+    answers: ["rep"]
+    wrong_answers:
+      - text: "rev"
+        why: "*Rebre* i les seves formes s'escriuen amb *b*: *rep*."
+      - text: "reben"
+        why: "«El metge» és singular: *rep*. *Reben* és plural."
+    grading: strict
+    explanation: "Present de *rebre*, tercera persona: *rep*. Tota la família de *rebre* porta *b*."
+
+  - id: b1-29-012
+    type: fill
+    point: consonants-finals
+    lesson: 1
+    prompt: "L'Ibrahim té els cabells molt ___."
+    hint: "LLARG, en masculí plural"
+    answers: ["llargs"]
+    wrong_answers:
+      - text: "llarcs"
+        why: "La consonant de *llarg* és *g*, com es veu en *llarga*: *llargs*."
+      - text: "llargues"
+        why: "«Els cabells» és masculí plural: *llargs*."
+    grading: strict
+    explanation: "El masculí singular és *llarg*. El plural hi afegeix *-s*: *llargs*."
+
+  - id: b1-29-013
+    type: fill
+    point: consonants-finals
+    lesson: 1
+    prompt: "La Núria té les dents molt ___."
+    hint: "BLANC, en femení plural"
+    answers: ["blanques"]
+    wrong_answers:
+      - text: "blances"
+        why: "Davant de *e* i *i*, el so de *c* s'escriu *qu*: *blanques*."
+      - text: "blancs"
+        why: "«Les dents» és femení plural: *blanques*."
+    grading: strict
+    explanation: "El masculí és *blanc*. En femení, la *c* final sona davant de *a*: *blanca*, *blanques*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-29-014
+    type: fill
+    point: be-i-v
+    lesson: 2
+    prompt: "—On vas? —___ a la farmàcia a buscar el xarop."
+    hint: "ANAR, en present"
+    answers: ["Vaig", "Jo vaig", "Me'n vaig", "Jo me'n vaig"]
+    wrong_answers:
+      - text: "Baig"
+        why: "*Anar* s'escriu amb *v*: *vaig*."
+      - text: "Vas"
+        why: "Respons tu mateix: *vaig*. *Vas* és la segona persona."
+    grading: strict
+    explanation: "Respons tu mateix («jo»): *vaig*. *Anar* s'escriu amb *v*."
+
+  - id: b1-29-015
+    type: fill
+    point: be-i-v
+    lesson: 2
+    prompt: "Demà la Montse i jo ___ les ulleres noves."
+    hint: "PROVAR, en futur"
+    answers: ["provarem"]
+    wrong_answers:
+      - text: "probarem"
+        why: "*Provar* s'escriu amb *v*: *provarem*."
+      - text: "provaran"
+        why: "«La Montse i jo» és primera persona plural: *provarem*."
+    grading: strict
+    explanation: "«Demà» demana futur, i «la Montse i jo» demana la primera persona plural: *provarem*."
+
+  - id: b1-29-016
+    type: fill
+    point: consonants-finals
+    lesson: 2
+    prompt: "El nadó té els ulls ___."
+    hint: "VERD, en plural"
+    answers: ["verds"]
+    wrong_answers:
+      - text: "verts"
+        why: "La consonant final de *verd* és *d*, com es veu en *verda*: *verds*."
+      - text: "verda"
+        why: "«Els ulls» és masculí plural: *verds*."
+    grading: strict
+    explanation: "El femení *verda* ens diu que la consonant és *d*: *verds*."
+
+  - id: b1-29-017
+    type: fill
+    point: consonants-finals
+    lesson: 2
+    prompt: "En Pau no ___ per què li raja el nas."
+    hint: "SABER, en present"
+    answers: ["sap"]
+    wrong_answers:
+      - text: "sab"
+        why: "La tercera persona de *saber* s'escriu *sap*, amb *p*."
+      - text: "saben"
+        why: "«En Pau» és singular: *sap*."
+    grading: strict
+    explanation: "Present de *saber*, tercera persona: *sap*. La *b* només sona entre vocals: *saben*."
+
+  - id: b1-29-018
+    type: fill
+    point: consonants-finals
+    lesson: 2
+    prompt: "Amb aquesta pel·lícula de por, tinc les mans ___ i els pèls de punta."
+    hint: "FRED, en femení plural"
+    answers: ["fredes"]
+    wrong_answers:
+      - text: "fretes"
+        why: "El femení de *fred* manté la *d*: *fredes*."
+      - text: "freds"
+        why: "«Les mans» és femení plural: *fredes*."
+    grading: strict
+    explanation: "El masculí és *fred*. En femení plural: *fredes*, amb *d*."
+
+  - id: b1-29-019
+    type: order
+    point: be-i-v
+    lesson: 2
+    cue: "El metge et pregunta pels resultats. Respon que els tindràs demà."
+    chunks: ["Demà", "rebràs", "els resultats", "de l'anàlisi"]
+    extra: ["revràs"]
+    answers:
+      - "Demà rebràs els resultats de l'anàlisi."
+      - "Rebràs els resultats de l'anàlisi demà."
+    explanation: "*Rebre* fa el futur *rebràs*, amb *b*. L'adverbi *demà* pot anar al principi o al final."
+
+  - id: b1-29-020
+    type: order
+    point: consonants-finals
+    lesson: 2
+    cue: "La infermera et pregunta com tens les mans. Respon que les tens molt fredes."
+    chunks: ["Les", "tinc", "molt", "fredes"]
+    extra: ["fretes"]
+    answers:
+      - "Les tinc molt fredes."
+    explanation: "El femení de *fred* manté la *d*: *fredes*."
+
+  - id: b1-29-021
+    type: order
+    point: consonants-finals
+    lesson: 2
+    cue: "Digues que els metges saben què tens."
+    chunks: ["Els metges", "saben", "què", "tens"]
+    extra: ["saven"]
+    answers:
+      - "Els metges saben què tens."
+    explanation: "Amb subjecte plural, *saber* fa *saben*: la *b* sona entre vocals."
+
+  - id: b1-29-022
+    type: choice
+    point: be-i-v
+    lesson: 2
+    prompt: "Davant d'un error mèdic, pots consultar un ___."
+    answer: "advocat"
+    distractors:
+      - text: "adbocat"
+        why: "*Advocat* s'escriu amb *v*: és un dels mots que canvien la *b* castellana («abogado») per *v*."
+      - text: "advocats"
+        why: "«Un» és singular: *advocat*."
+    explanation: "És *advocat*, amb *v* i *t* final: en castellà és «abogado»."
+
+  - id: b1-29-023
+    type: choice
+    point: be-i-v
+    lesson: 2
+    prompt: "Cada matí, la Fàtima ___ la sala d'espera de la consulta."
+    answer: "escombra"
+    distractors:
+      - text: "escomvera"
+        why: "*Escombrar* s'escriu amb *b*. En castellà és «barrer»."
+      - text: "escombren"
+        why: "«La Fàtima» és singular: *escombra*."
+    explanation: "«La Fàtima» és tercera persona: *escombra*. *Escombrar* s'escriu amb *b*."
+
+  - id: b1-29-024
+    type: choice
+    point: consonants-finals
+    lesson: 2
+    prompt: "La infermera diu que té la pell una mica ___ i el turmell inflat."
+    answer: "groga"
+    distractors:
+      - text: "groca"
+        why: "El femení de *groc* s'escriu amb *g*: *groga*."
+      - text: "grocs"
+        why: "«La pell» és femení singular: *groga*."
+    explanation: "El masculí *groc* fa el femení *groga*: la *c* es torna *g* davant de *a*."
+
+  - id: b1-29-025
+    type: choice
+    point: consonants-finals
+    lesson: 2
+    prompt: "—Els metges ___ què tinc? —Sí, ja m'ho han explicat."
+    answer: "saben"
+    distractors:
+      - text: "saven"
+        why: "*Saber* s'escriu amb *b*: *saben*."
+      - text: "sap"
+        why: "«Els metges» és plural: *saben*."
+    explanation: "Present de *saber*, tercera persona plural: *saben*. Entre vocals sona la *b*."
+
+  - id: b1-29-026
+    type: inline-choice
+    point: consonants-finals
+    lesson: 2
+    title: "A la consulta del pediatre"
+    text: "El pediatre diu que el nen té els ulls ver{d|t}s i les dents molt blan{qu|c}es. El seu pare porta barba i té els cabells cur{t|d}s i un blau a la cella, i el nen encara no sa{p|b} llegir."
+    explanation: "La consonant final es manté: *verds*, *blanques*, *curts*. I la tercera persona de *saber* és *sap*."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-29-027
+    type: choice
+    point: ix-x-tx-ig
+    lesson: 3
+    prompt: "El nen té tos i el metge li recepta un ___."
+    answer: "xarop"
+    distractors:
+      - text: "ixarop"
+        why: "A principi de mot, el so s'escriu *x*, sense *i*: *xarop*."
+      - text: "xarob"
+        why: "*Xarop* acaba en *p*, com *cop*."
+    explanation: "És *xarop*: *x* inicial i *p* final."
+
+  - id: b1-29-028
+    type: choice
+    point: ix-x-tx-ig
+    lesson: 3
+    prompt: "La infermera em posa la injecció amb una ___ nova."
+    answer: "xeringa"
+    distractors:
+      - text: "txeringa"
+        why: "A principi de mot s'escriu *x*: *xeringa*."
+      - text: "xeringues"
+        why: "«Una» és singular: *xeringa*."
+    explanation: "És *xeringa*: *x* inicial. I «una» demana singular."
+
+  - id: b1-29-029
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "Després del cop al cap, li van mirar el ___."
+    answer: "cervell"
+    distractors:
+      - text: "cerbell"
+        why: "En català és *cervell*, amb *v*: és un dels mots que canvien la *b* castellana per *v*."
+      - text: "cerebro"
+        why: "«Cerebro» és castellà. En català: *cervell*."
+    explanation: "En català és *cervell*, amb *v* i final *-ell*: en castellà és «cerebro»."
+
+  - id: b1-29-030
+    type: fill
+    point: ix-x-tx-ig
+    lesson: 3
+    prompt: "La Carla té una ferida a l'___."
+    hint: "AIXELLA"
+    answers: ["aixella"]
+    wrong_answers:
+      - text: "aixela"
+        why: "*Aixella* porta *ll*, com *orella*."
+      - text: "axella"
+        why: "Darrere del diftong *ai* s'escriu *ix*: *aixella*."
+    grading: strict
+    explanation: "S'escriu *aixella*: *ix* darrere del diftong *ai*, i *-ella* com *orella*."
+
+  - id: b1-29-031
+    type: fill
+    point: ix-x-tx-ig
+    lesson: 3
+    prompt: "L'Ibrahim té un hematoma a la ___ i un altre de més petit a la cama."
+    hint: "CUIXA"
+    answers: ["cuixa"]
+    wrong_answers:
+      - text: "cuxa"
+        why: "Darrere del diftong *ui* s'escriu *ix*: *cuixa*."
+      - text: "cuixes"
+        why: "«La» és singular: *cuixa*."
+    grading: strict
+    explanation: "Darrere del diftong *ui* s'escriu *ix*: *cuixa*."
+
+  - id: b1-29-032
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "El metge em truca al ___ per donar-me els resultats."
+    hint: "MÒBIL"
+    answers: ["mòbil"]
+    wrong_answers:
+      - text: "móvil"
+        why: "En català és *mòbil*, amb *b*: «móvil» amb *v* és castellà."
+      - text: "movil"
+        why: "*Mòbil* porta accent obert i *b*: *mòbil*."
+    grading: strict
+    explanation: "En català és *mòbil*, amb *b*: en castellà és «móvil», amb *v*."
+
+  - id: b1-29-033
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El gobierno ha aprovat un nou pla de salut."
+    error: "gobierno"
+    fix: "govern"
+    fix_distractors:
+      - text: "gobern"
+        why: "La forma catalana és *govern*: *gobern* barreja les dues llengües."
+      - text: "govierno"
+        why: "*Govierno* també és castellà. En català: *govern*."
+    explanation: "En castellà és «gobierno», amb *b*. En català és *govern*, amb *v*."
+
+  - id: b1-29-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "L'abogado de l'assegurança m'ha trucat aquest matí."
+    error: "abogado"
+    fix: "advocat"
+    fix_distractors:
+      - text: "abogat"
+        why: "*Advocat* s'escriu amb *v*, no amb *b*."
+      - text: "advocats"
+        why: "«L'» és singular: *advocat*."
+    explanation: "«Abogado» és castellà. En català és *advocat*, amb *v* i *t* final."
+
+  - id: b1-29-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La veïna té una verruga a la mà."
+    error: "verruga"
+    fix: "berruga"
+    fix_distractors:
+      - text: "beruga"
+        why: "*Berruga* s'escriu amb *rr*."
+      - text: "berrugues"
+        why: "«Una» és singular: *berruga*."
+    explanation: "En castellà és «verruga», amb *v*. En català és *berruga*, amb *b*."
+
+  - id: b1-29-036
+    type: find-error
+    point: ix-x-tx-ig
+    lesson: 3
+    sentence: "Té un dolor fort a la cuxa dreta."
+    error: "cuxa"
+    fix: "cuixa"
+    fix_distractors:
+      - text: "cutxa"
+        why: "Darrere del diftong *ui* s'escriu *ix*, no *tx*: *cuixa*."
+      - text: "cuixes"
+        why: "«La» és singular: *cuixa*."
+    explanation: "Darrere del diftong *ui* s'escriu *ix*: *cuixa*."
+
+  - id: b1-29-037
+    type: find-error
+    point: ix-x-tx-ig
+    lesson: 3
+    sentence: "Després de la dutxa, eixuga't bé els peus."
+    no_error: true
+    explanation: "La frase és correcta: *dutxa* s'escriu amb *tx*, i *eixuga't* és l'imperatiu amb el pronom."
+
+  - id: b1-29-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El govern ha obert un nou hospital a Reus."
+    no_error: true
+    explanation: "La frase és correcta: *govern* s'escriu amb *v*, i *obert* és el participi del verb *obrir*."
+
+  - id: b1-29-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Es queixa d'un dolor fort al vientre."
+    error: "vientre"
+    fix: "ventre"
+    fix_distractors:
+      - text: "bentre"
+        why: "*Ventre* s'escriu amb *v*: només canvia el diftong del castellà «vientre»."
+      - text: "ventres"
+        why: "«Un dolor» i «al» són singulars: *ventre*."
+    explanation: "En català és *ventre*, sense el diftong *ie* del castellà «vientre»."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-29-040
+    type: transform
+    point: be-i-v
+    lesson: 4
+    instruction: "Canvia el subjecte a «ells»."
+    source: "Ell [[rep]] els resultats per correu."
+    answers: ["Ells reben els resultats per correu.", "Reben els resultats per correu."]
+    wrong_answers:
+      - text: "Ells reven els resultats per correu."
+        why: "*Rebre* s'escriu amb *b*: *reben*."
+      - text: "Ells rep els resultats per correu."
+        why: "«Ells» és plural: *reben*."
+    grading: strict
+    explanation: "Amb «ells», *rebre* fa *reben*, amb *b*."
+
+  - id: b1-29-041
+    type: transform
+    point: be-i-v
+    lesson: 4
+    instruction: "Passa la frase al futur."
+    source: "El metge et [[veu]] el múscul inflamat demà a les nou."
+    answers: ["El metge et veurà el múscul inflamat demà a les nou."]
+    wrong_answers:
+      - text: "El metge et veura el múscul inflamat demà a les nou."
+        why: "La tercera persona del futur porta accent: *veurà*."
+      - text: "El metge et beurà el múscul inflamat demà a les nou."
+        why: "*Veure* s'escriu amb *v*: *veurà*. *Beurà* és de *beure*."
+    grading: strict
+    explanation: "El futur de *veure*, tercera persona, és *veurà*, amb *v* i accent."
+
+  - id: b1-29-042
+    type: transform
+    point: consonants-finals
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "El pacient té l'ull [[verd]]."
+    answers: ["Els pacients tenen els ulls verds."]
+    wrong_answers:
+      - text: "Els pacients tenen els ulls verts."
+        why: "La consonant de *verd* és *d*: *verds*."
+      - text: "El pacient té els ulls verds."
+        why: "Tot ha de passar al plural: *els pacients tenen els ulls verds*."
+    grading: strict
+    explanation: "En plural, tot concorda: *tenen*, *els ulls*, *verds*. La *d* de *verd* es manté."
+
+  - id: b1-29-043
+    type: transform
+    point: consonants-finals
+    lesson: 4
+    instruction: "Canvia «l'ull» per «la pell»."
+    source: "Té [[l'ull]] groc."
+    answers: ["Té la pell groga."]
+    wrong_answers:
+      - text: "Té la pell groca."
+        why: "El femení de *groc* és *groga*, amb *g*."
+      - text: "Té la pell groc."
+        why: "«La pell» és femení: *groga*."
+    grading: strict
+    explanation: "«La pell» és femení, i el femení de *groc* és *groga*."
+
+  - id: b1-29-044
+    type: transform
+    point: consonants-finals
+    lesson: 4
+    instruction: "Canvia el subjecte a «jo»."
+    source: "Ell [[sap]] si l'os està trencat."
+    answers: ["Jo sé si l'os està trencat.", "Sé si l'os està trencat."]
+    wrong_answers:
+      - text: "Jo se si l'os està trencat."
+        why: "La primera persona de *saber* porta accent diacrític: *sé*."
+      - text: "Jo sap si l'os està trencat."
+        why: "Amb «jo», *saber* fa *sé*: *sap* és de tercera persona."
+    grading: strict
+    explanation: "Amb «jo», *saber* fa *sé*, amb accent diacrític: *jo sé*, *tu saps*, *ell sap*."
+
+  - id: b1-29-045
+    type: transform
+    point: ix-x-tx-ig
+    lesson: 4
+    instruction: "Canvia el subjecte a «ells»."
+    source: "El pacient [[pateix]] un dolor fort a l'espatlla."
+    answers: ["Els pacients pateixen un dolor fort a l'espatlla.", "Ells pateixen un dolor fort a l'espatlla.", "Pateixen un dolor fort a l'espatlla."]
+    wrong_answers:
+      - text: "Els pacients patixen un dolor fort a l'espatlla."
+        why: "*Patir* és incoatiu: afegeix *-eix-*: *pateixen*."
+      - text: "Els pacients pateix un dolor fort a l'espatlla."
+        why: "«Els pacients» és plural: *pateixen*."
+    grading: strict
+    explanation: "*Patir* és incoatiu: *pateixo, pateixes, pateix, pateixen*. La tercera persona plural és *pateixen*."
+
+  - id: b1-29-046
+    type: transform
+    point: ix-x-tx-ig
+    lesson: 4
+    instruction: "Canvia el subjecte a «nosaltres»."
+    source: "Jo [[faig]] esport cada dia."
+    answers: ["Nosaltres fem esport cada dia.", "Fem esport cada dia."]
+    wrong_answers:
+      - text: "Nosaltres faigem esport cada dia."
+        why: "*Fer* fa *fem* en primera persona plural, no *faigem*."
+      - text: "Nosaltres fan esport cada dia."
+        why: "«Nosaltres» demana *fem*: *fan* és de tercera persona."
+    grading: strict
+    explanation: "*Fer* és irregular: *jo faig*, *nosaltres fem*."
+
+  - id: b1-29-047
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "El [[gobierno]] obrirà un hospital nou."
+    answers: ["El govern obrirà un hospital nou."]
+    wrong_answers:
+      - text: "El gobern obrirà un hospital nou."
+        why: "La forma catalana és *govern*: *gobern* barreja les dues llengües."
+      - text: "El govern obriran un hospital nou."
+        why: "«El govern» és singular: *obrirà*."
+    grading: strict
+    explanation: "En català és *govern*, amb *v*: «gobierno» és castellà."
+
+  - id: b1-29-048
+    type: transform
+    point: consonants-finals
+    lesson: 4
+    instruction: "Canvia «els llavis» per «les galtes»."
+    source: "Té [[els llavis]] secs i mal d'esquena."
+    answers: ["Té les galtes seques i mal d'esquena."]
+    wrong_answers:
+      - text: "Té les galtes seces i mal d'esquena."
+        why: "Davant de *e*, el so de *c* s'escriu *qu*: *seques*."
+      - text: "Té les galtes secs i mal d'esquena."
+        why: "«Les galtes» és femení plural: *seques*."
+    grading: strict
+    explanation: "El masculí *sec* fa el femení *seca*: la *c* es manté amb *qu* davant de *e*."
+
+  - id: b1-29-049
+    type: fill
+    point: ix-x-tx-ig
+    lesson: 4
+    prompt: "Després de dinar jo sempre ___ una migdiada de vint minuts."
+    hint: "FER, en present"
+    answers: ["faig"]
+    wrong_answers:
+      - text: "faix"
+        why: "La primera persona de *fer* és *faig*, amb *ig*."
+      - text: "fas"
+        why: "«Jo» demana *faig*: *fas* és de segona persona."
+    grading: strict
+    explanation: "*Fer* és irregular: *jo faig*, *tu fas*, *ell fa*. La primera persona acaba en *-ig*."
+
+  - id: b1-29-050
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "L'___ de l'hospital vindrà demà."
+    hint: "ADVOCAT"
+    answers: ["advocat"]
+    wrong_answers:
+      - text: "abogado"
+        why: "«Abogado» és castellà. En català: *advocat*."
+      - text: "adbocat"
+        why: "*Advocat* s'escriu amb *v*, no amb *b*."
+    grading: strict
+    explanation: "En català és *advocat*, amb *v*: en castellà és «abogado», amb *b*."
+
+  - id: b1-29-051
+    type: order
+    point: ix-x-tx-ig
+    lesson: 4
+    cue: "Digues que et fa mal la cuixa dreta."
+    chunks: ["Em", "fa mal", "la cuixa", "dreta"]
+    extra: ["cuxa"]
+    answers:
+      - "Em fa mal la cuixa dreta."
+    explanation: "*Cuixa* s'escriu amb *ix*, darrere del diftong *ui*."
+
+  - id: b1-29-052
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "La Laia està molt nerviosa per l'operació. Digues-li que no s'amoïni."
+    chunks: ["No", "et", "facis", "mala sang"]
+    extra: ["fas"]
+    answers:
+      - "No et facis mala sang."
+    explanation: "*Fer-se mala sang* vol dir amoïnar-se. En negatiu: *no et facis mala sang*."
+
+  - id: b1-29-053
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "La Carla està molt tranquil·la abans de l'operació: té ___."
+    answer: "sang freda"
+    distractors:
+      - text: "mala sang"
+        why: "*Fer-se mala sang* és amoïnar-se, el contrari d'estar tranquil·la."
+      - text: "sang calenta"
+        why: "L'expressió per a la calma és *tenir sang freda*, no *sang calenta*."
+    explanation: "*Tenir sang freda* vol dir mantenir la calma en una situació difícil."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-29-054
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Una revisió mèdica"
+    text: |
+      La Montse té cinquanta anys i treballa en una escola de Sabadell. Com que fa temps que no es troba bé del tot, demana hora al metge de capçalera per fer-se una revisió.
+
+      A la consulta, el metge li pregunta com es troba i li mira el coll, les orelles i la boca. Després li ausculta el cor i li diu que respiri fondo: el pit puja i baixa sense cap soroll estrany. També li toca el front i li mira un dit que té inflamat des de fa dies.
+
+      Li pren la tensió al braç i li fa una anàlisi de sang. Quan arriben els resultats, tot està bé excepte el colesterol, que està una mica alt. El metge li diu que no pateixi, però que ha de caminar cada dia i menjar amb menys sal.
+
+      La Montse surt de la consulta més tranquil·la. Ha de tornar d'aquí a tres mesos per repetir l'anàlisi.
+    questions:
+      - prompt: "Per què va la Montse al metge?"
+        answer: "Perquè fa temps que no es troba gaire bé."
+        distractors:
+          - text: "Perquè té un dit trencat des de fa dies."
+            why: "El dit està inflamat, no trencat."
+          - text: "Perquè li costa respirar pel soroll del pit."
+            why: "El pit puja i baixa sense cap soroll estrany: respira bé."
+      - prompt: "Què descobreix el metge amb l'anàlisi?"
+        answer: "Que el colesterol està una mica alt."
+        distractors:
+          - text: "Que la tensió està massa alta."
+            why: "La tensió li la pren al braç, però el text no diu que estigui alta."
+          - text: "Que té una infecció a la sang."
+            why: "El text diu que tot està bé excepte el colesterol."
+      - prompt: "Què ha de fer la Montse a partir d'ara?"
+        answer: "Caminar cada dia i menjar amb menys sal."
+        distractors:
+          - text: "Prendre un xarop cada vuit hores."
+            why: "El metge no li recepta cap xarop."
+          - text: "Tornar cada setmana a la consulta."
+            why: "Ha de tornar d'aquí a tres mesos, no cada setmana."
+      - prompt: "Com surt la Montse de la consulta?"
+        answer: "Més tranquil·la que quan hi ha entrat."
+        distractors:
+          - text: "Preocupada pel colesterol."
+            why: "El metge li diu que no pateixi, i surt més tranquil·la."
+          - text: "Amb una recepta de pastilles."
+            why: "El metge no li recepta res: només consells."
+    explanation: "La revisió de la Montse va bé: només ha de caminar més i menjar amb menys sal."
+
+  - id: b1-29-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "El diagnòstic del primer metge no ___: deia coses contradictòries."
+    answer: "tenia cap ni peus"
+    distractors:
+      - text: "tenia bona mà"
+        why: "*Tenir bona mà* és tenir traça o habilitat, no «tenir sentit»."
+      - text: "es feia mala sang"
+        why: "Un diagnòstic no pot amoïnar-se: *fer-se mala sang* és per a persones."
+    explanation: "*No tenir cap ni peus* vol dir no tenir sentit ni lògica: el diagnòstic es contradiu."
+
+  - id: b1-29-056
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "La meva àvia té ___ amb les plantes: tot li creix."
+    answer: "bona mà"
+    distractors:
+      - text: "mala sang"
+        why: "*Fer-se mala sang* és amoïnar-se: aquí parlem d'habilitat, no d'angoixa."
+      - text: "cap ni peus"
+        why: "*No tenir cap ni peus* és no tenir sentit: aquí parlem d'habilitat."
+    explanation: "*Tenir bona mà* vol dir tenir traça o habilitat: a l'àvia, tot li creix."
+
+  - id: b1-29-057
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Què vol dir «fer-se mala sang»?"
+    answer: "Amoïnar-se per alguna cosa."
+    distractors:
+      - text: "Tenir un problema de salut a la sang."
+        why: "No és un problema mèdic: és una expressió per a l'angoixa o la preocupació."
+      - text: "Mantenir la calma en una situació difícil."
+        why: "Això és *tenir sang freda*, el contrari de *fer-se mala sang*."
+    explanation: "*Fer-se mala sang* vol dir patir o amoïnar-se per alguna cosa."
+
+  - id: b1-29-058
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "L'Ibrahim ___ a l'hospital de nit."
+    answer: "treballa"
+    distractors:
+      - text: "traballa"
+        why: "En català és *treballar*, amb *b* i *ll*: «trabajar» és castellà."
+      - text: "treballe"
+        why: "Amb «l'Ibrahim», el present fa *treballa*: *treballe* seria subjuntiu."
+    explanation: "Present de *treballar*, tercera persona: *treballa*. En castellà és «trabajar»."
+
+  - id: b1-29-059
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "El nou cuiner de l'hospital ___ bona mà: tothom vol repetir."
+    hint: "TENIR, en present"
+    answers: ["té"]
+    wrong_answers:
+      - text: "te"
+        why: "El verb *tenir*, tercera persona, porta accent: *té*."
+      - text: "tenen"
+        why: "«El nou cuiner» és singular: *té*."
+    grading: strict
+    explanation: "*Tenir bona mà* vol dir tenir traça. El verb concorda amb «el nou cuiner»: *té*."
+
+  - id: b1-29-060
+    type: fill
+    point: consonants-finals
+    lesson: 5
+    prompt: "Té una ungla trencada i la ferida del genoll està ___."
+    hint: "NET, en femení singular"
+    answers: ["neta"]
+    wrong_answers:
+      - text: "néta"
+        why: "*Net* no porta accent: la norma del 2017 va treure el diacrític de *dona, net, soc*."
+      - text: "nets"
+        why: "«La ferida» és femení singular: *neta*."
+    grading: strict
+    explanation: "El masculí *net* fa el femení *neta*. *Net* no porta accent diacrític."
+
+  - id: b1-29-061
+    type: fill
+    point: be-i-v
+    lesson: 5
+    prompt: "Si et trobes malament, ___ una farmàcia de guàrdia al carrer Major."
+    hint: "HAVER-HI, en present"
+    answers: ["hi ha"]
+    wrong_answers:
+      - text: "i ha"
+        why: "El verb *haver-hi* s'escriu amb *h*: *hi ha*."
+      - text: "hi a"
+        why: "El present del verb *haver-hi* és *hi ha*: *ha* porta *h*."
+    grading: strict
+    explanation: "*Haver-hi* en present és *hi ha*: les dues formes porten *h*."
+
+  - id: b1-29-062
+    type: fill
+    point: ix-x-tx-ig
+    lesson: 5
+    prompt: "El cambrer ___ el dinar a taula."
+    hint: "SERVIR, en present"
+    answers: ["serveix"]
+    wrong_answers:
+      - text: "servix"
+        why: "*Servir* és incoatiu: afegeix *-eix-*: *serveix*."
+      - text: "serveixen"
+        why: "«El cambrer» és singular: *serveix*."
+    grading: strict
+    explanation: "*Servir* és incoatiu, com *patir*: *serveixo, serveixes, serveix*."
+
+  - id: b1-29-063
+    type: match
+    point: expressions
+    lesson: 5
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["fer-se mala sang", "amoïnar-se per alguna cosa"]
+      - ["tenir bona mà", "tenir traça per fer alguna cosa"]
+      - ["no tenir cap ni peus", "no tenir sentit ni lògica"]
+      - ["tenir sang freda", "mantenir la calma en una situació difícil"]
+    explanation: "Són quatre expressions fetes amb paraules del cos."
+
+  - id: b1-29-064
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que la reunió de metges no tenia sentit."
+    chunks: ["La reunió", "no", "tenia", "cap ni peus"]
+    extra: ["bona mà"]
+    answers:
+      - "La reunió no tenia cap ni peus."
+    explanation: "*No tenir cap ni peus* vol dir no tenir sentit."
+
+  - id: b1-29-065
+    type: inline-choice
+    point: ix-x-tx-ig
+    lesson: 5
+    title: "Consells per a l'hivern"
+    text: "Per passar l'hivern: preneu-vos el {x|tx}arop cada vuit hores, du{tx|x}eu-vos amb aigua tèbia, dormiu amb un bon coi{x|ss}í i, si us fa mal un quei{x|tx}al, aneu al dentista."
+    explanation: "*Xarop* porta *x* inicial; *dutxeu* porta *tx*; *coixí* i *queixal* porten *ix* darrere del diftong."
+
+  - id: b1-29-066
+    type: find-error
+    point: consonants-finals
+    lesson: 5
+    sentence: "El nen té els ulls verds i les dents blanques."
+    no_error: true
+    explanation: "La frase és correcta: *verds* manté la *d* de *verda*, i *blanques* escriu el so de *c* amb *qu*."
+
+

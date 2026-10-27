@@ -1,0 +1,1031 @@
+id: b1-28
+level: B1
+title: "Ortografia: les vocals àtones"
+summary: "Aprens a escriure les vocals àtones a/e i o/u amb el truc de la família, les terminacions verbals i els mots que cal memoritzar."
+vocabulary_theme: "Roba i botigues de roba"
+points:
+  - id: vocals-a-e
+    title: "Les vocals àtones a/e: el truc de la família"
+  - id: vocals-o-u
+    title: "Les vocals àtones o/u: el truc de la família"
+  - id: terminacions-memoria
+    title: "Terminacions verbals i mots sense família"
+  - id: compte-castella
+    title: "Compte amb el castellà: vocals diferents"
+  - id: expressions
+    title: "Expressions de vestir"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Les vocals àtones: a/e i o/u"
+  - title: "Practiquem el truc de la família"
+  - title: "Verbs, interferències i memòria"
+  - title: "Escrivim bé: tot junt"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la samarreta"
+    definition: "Peça de roba de màniga curta que es porta a l'estiu."
+    example: "M'he comprat una samarreta blanca per anar a la platja."
+  - word: "els texans"
+    definition: "Pantalons de tela forta de color blau, per a cada dia."
+    example: "Els texans nous encara fan olor de botiga."
+  - word: "la jaqueta"
+    definition: "Peça de roba que es porta damunt de la camisa quan refresca."
+    example: "Posa't la jaqueta: a la nit refresca."
+  - word: "la faldilla"
+    definition: "Peça de roba que va de la cintura cap avall."
+    example: "La Carla porta una faldilla plisada grisa."
+  - word: "la sabata"
+    definition: "Calçat que tapa el peu fins al turmell."
+    example: "Aquestes sabates fan mal als peus."
+  - word: "l'emprovador"
+    definition: "Cabina d'una botiga on et proves la roba."
+    example: "L'emprovador del fons està lliure."
+  - word: "la dependenta, el dependent"
+    definition: "Persona que atén els clients en una botiga."
+    example: "La dependenta m'ha portat una talla més gran."
+  - word: "la rebaixa"
+    definition: "Baixada del preu en un període de descomptes."
+    example: "A les rebaixes de gener tot és més barat."
+  - word: "el descompte"
+    definition: "Rebaixa d'una part del preu."
+    example: "Amb la targeta tens un deu per cent de descompte."
+  - word: "el mocador"
+    definition: "Peça de tela per mocar-se o per portar al coll."
+    example: "L'àvia sempre porta un mocador a la butxaca."
+  - word: "el cotonet"
+    definition: "Tela fina de cotó per a camises d'estiu."
+    example: "Aquesta camisa de cotonet és molt fresca."
+  - word: "el cotó"
+    definition: "Fibra blanca i suau amb què es fan moltes peces de roba."
+    example: "Prefereixo els llençols de cotó."
+  - word: "el polo"
+    definition: "Samarreta amb coll i dos o tres botons."
+    example: "En Jordi porta un polo blau marí."
+  - word: "la bufanda"
+    definition: "Peça llarga de roba per abrigar el coll."
+    example: "A l'hivern no surto sense bufanda."
+  - word: "l'abric"
+    definition: "Peça llarga i gruixuda per protegir-se del fred."
+    example: "Aquest abric pesa massa per viatjar."
+  - word: "la botiga"
+    definition: "Local on es venen productes."
+    example: "La botiga del barri tanca a les vuit."
+  - word: "la talla"
+    definition: "Mida d'una peça de roba."
+    example: "Quina talla fas de sabates?"
+  - word: "el preu"
+    definition: "Quantitat de diners que costa una cosa."
+    example: "El preu de la jaqueta em sembla alt."
+  - word: "la caixa"
+    definition: "Lloc de la botiga on es paga."
+    example: "Hi havia cua a la caixa."
+  - word: "la llana"
+    definition: "Fibra del pèl de les ovelles per a roba d'hivern."
+    example: "Aquests mitjons de llana abriguen molt."
+  - word: "la seda"
+    definition: "Teixit fi i brillant, d'aspecte elegant."
+    example: "El mocador de seda era de la meva àvia."
+  - word: "la camisa"
+    definition: "Peça de roba amb coll, botons i mànigues llargues."
+    example: "Planxa la camisa abans de la reunió."
+  - word: "la marca"
+    definition: "Nom comercial d'un producte."
+    example: "Aquesta marca catalana fa texans bons."
+  - word: "el mirall"
+    definition: "Vidre on et pots veure reflectit."
+    example: "Mira't al mirall de l'emprovador."
+  - word: "els pantalons"
+    definition: "Peça de roba que cobreix les cames per separat."
+    example: "Els pantalons negres combinen amb tot."
+  - word: "el vestit"
+    definition: "Peça d'una sola part, o conjunt de jaqueta i pantalons."
+    example: "Es va comprar el vestit per al casament."
+  - word: "els guants"
+    definition: "Peça que cobreix cada dit de la mà per al fred."
+    example: "M'he deixat els guants al calaix."
+  - word: "el jersei"
+    definition: "Peça de punt per abrigar el cos."
+    example: "Aquest jersei verd és de la meva germana."
+  - word: "el barret"
+    definition: "Peça per cobrir el cap."
+    example: "A l'estiu porto barret quan fa sol."
+  - word: "la cremallera"
+    definition: "Tanca de dues tires amb dents que s'uneixen."
+    example: "La cremallera de la bossa no tanca."
+  - word: "el cinturó"
+    definition: "Tira que subjecta els pantalons a la cintura."
+    example: "Et cal un cinturó amb aquests pantalons."
+  - word: "la màniga"
+    definition: "Part de la roba que cobreix el braç."
+    example: "Aquesta camisa té les mànigues massa llargues."
+  - word: "la butxaca"
+    definition: "Bossa petita cosida a la roba per guardar-hi coses."
+    example: "Porto les claus a la butxaca."
+  - word: "els mitjons"
+    definition: "Peça de punt que cobreix el peu."
+    example: "Cada matí em poso mitjons nets."
+  - word: "l'armilla"
+    definition: "Peça sense mànigues que es porta damunt de la camisa."
+    example: "Amb el fred, porta l'armilla de llana."
+  - word: "la dessuadora"
+    definition: "Jersei gruixut de cotó per fer esport."
+    example: "Es posa la dessuadora per anar a córrer."
+  - word: "les sabatilles"
+    definition: "Calçat lleuger i còmode per caminar o fer esport."
+    example: "Aquestes sabatilles van bé per caminar."
+  - word: "el teixit"
+    definition: "Tela feta entrellaçant fils."
+    example: "M'agrada el teixit d'aquesta cortina."
+  - word: "l'escot"
+    definition: "Obertura de la roba a la part del coll."
+    example: "Aquesta brusa té un escot discret."
+  - word: "el vestidor"
+    definition: "Sala on et canvies per fer esport."
+    example: "Deixa la motxilla al vestidor del gimnàs."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-28-001
+    type: choice
+    point: vocals-a-e
+    lesson: 1
+    prompt: "Ahir vam ___ la càpsula al jardí de l'escola."
+    answer: "enterrar"
+    distractors:
+      - text: "anterrar"
+        why: "«Enterrar» és de la família de «terra»: la primera vocal és e."
+      - text: "entarrar"
+        why: "La segona vocal també és e: és de la família de «terra»."
+      - text: "enterrer"
+        why: "L'infinitiu d'aquest verb acaba en -ar, no en -er."
+    explanation: "«Enterrar» és de la família de «terra» (amb e) i l'infinitiu acaba en -ar."
+
+  - id: b1-28-002
+    type: choice
+    point: vocals-a-e
+    lesson: 1
+    prompt: "Els veïns ___ la castanyada amb castanyes torrades."
+    answer: "festegen"
+    distractors:
+      - text: "festajen"
+        why: "«Festejar» és de la família de «festa»: la primera vocal és e."
+      - text: "festegan"
+        why: "Amb «ells», la 3a del plural acaba en -en."
+    explanation: "«Festejar» és de la família de «festa» (amb e) i «ells» acaba en -en."
+
+  - id: b1-28-003
+    type: choice
+    point: vocals-o-u
+    lesson: 1
+    prompt: "Al magatzem hi ha molta ___."
+    answer: "foscor"
+    distractors:
+      - text: "fuscor"
+        why: "«Foscor» és de la família de «fosc»: la vocal àtona és o."
+      - text: "foscur"
+        why: "El sufix és -or, amb o: «foscor»."
+    explanation: "«Foscor» és de la família de «fosc»: la vocal àtona és o."
+
+  - id: b1-28-004
+    type: choice
+    point: vocals-o-u
+    lesson: 1
+    prompt: "Aquesta camisa és de ___, un teixit molt fresc."
+    answer: "cotonet"
+    distractors:
+      - text: "cutonet"
+        why: "«Cotonet» és de la família de «cotó»: la primera vocal és o."
+      - text: "cotonut"
+        why: "«Cotonet» és de la família de «cotó»: la segona vocal és o."
+      - text: "cutunut"
+        why: "«Cotonet» és de la família de «cotó»: les dues vocals són o."
+    explanation: "«Cotonet» és de la família de «cotó»: les dues vocals àtones són o."
+
+  - id: b1-28-005
+    type: choice
+    point: vocals-a-e
+    lesson: 1
+    prompt: "La porta no tanca: falta la ___."
+    answer: "maneta"
+    distractors:
+      - text: "meneta"
+        why: "«Maneta» és de la família de «mà»: la primera vocal és a."
+      - text: "manete"
+        why: "La majoria dels noms femenins acaben en -a: «maneta»."
+      - text: "menete"
+        why: "«Maneta» és de la família de «mà» (amb a) i és femenina (acaba en -a)."
+    explanation: "«Maneta» és de la família de «mà» (amb a) i és femenina (acaba en -a)."
+
+  - id: b1-28-006
+    type: match
+    point: vocals-a-e
+    lesson: 1
+    instruction: "Relaciona cada mot amb el mot de la família on la vocal és tònica."
+    pairs:
+      - ["enterrar", "terra"]
+      - ["festejar", "festa"]
+      - ["blanquejar", "blanc"]
+      - ["panet", "pa"]
+    explanation: "Si la vocal és tònica, se sent si és a o e: terra, festa, blanc i pa."
+
+  - id: b1-28-007
+    type: inline-choice
+    point: vocals-a-e
+    lesson: 1
+    title: "Una nota de la botiga"
+    text: "Hola, Laia: han arribat les s{a|e}marretes noves, les j{a|e}quetes de primavera i un b{a|e}rret de palla. També tenim els t{e|a}xans rebaixats, les s{a|e}bates de taló i les f{a|e}ldilles de la nova col·lecció."
+    explanation: "Samarretes, jaquetes, barret, sabates i faldilles s'escriuen amb a; texans (de Texas) amb e."
+
+  - id: b1-28-008
+    type: inline-choice
+    point: vocals-o-u
+    lesson: 1
+    title: "Al magatzem"
+    text: "Al magatzem hi ha molta f{o|u}scor. Hem desat el c{o|u}tonet blanc, els m{o|u}cadors de seda, les caixes de c{o|u}tó i els pol{o|u}s negres."
+    explanation: "Foscor (de fosc), cotonet i cotó (de cotó), mocador (de moc) i polo s'escriuen amb o."
+
+  - id: b1-28-009
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «anar de punt en blanc»?"
+    answer: "Anar molt ben vestit."
+    distractors:
+      - text: "Anar vestit de blanc."
+        why: "No té a veure amb el color blanc: vol dir anar elegant."
+      - text: "Anar amb pressa."
+        why: "La pressa no hi té res a veure: parla de com vas vestit."
+    explanation: "«Anar de punt en blanc» vol dir anar molt elegant, amb la millor roba."
+
+  - id: b1-28-010
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «vestir-se de diumenge»?"
+    answer: "Posar-se la millor roba."
+    distractors:
+      - text: "Posar-se roba vella."
+        why: "És al revés: vol dir posar-se la millor roba."
+      - text: "Vestir-se només els diumenges."
+        why: "No parla del dia: vol dir posar-se la millor roba."
+    explanation: "«Vestir-se de diumenge» vol dir posar-se la millor roba."
+
+  - id: b1-28-011
+    type: fill
+    point: vocals-a-e
+    lesson: 1
+    prompt: "Hem decidit ___ el pati per la festa."
+    hint: "verb en -ejar de la família de «blanc»"
+    answers: ["blanquejar"]
+    wrong_answers:
+      - text: "blanquajar"
+        why: "El sufix és -ejar, amb e: «blanquejar»."
+      - text: "blenquejar"
+        why: "«Blanquejar» és de la família de «blanc», amb a."
+    grading: strict
+    explanation: "«Blanquejar» és de la família de «blanc» (amb a) i porta el sufix -ejar (amb e)."
+
+  - id: b1-28-012
+    type: fill
+    point: vocals-o-u
+    lesson: 1
+    prompt: "Per fer la calçotada, l'avi va encendre la ___."
+    hint: "mot en -guera de la família de «foc»"
+    answers: ["foguera"]
+    wrong_answers:
+      - text: "fuguera"
+        why: "«Foguera» és de la família de «foc», amb o."
+    grading: strict
+    explanation: "«Foguera» és de la família de «foc»: la vocal àtona és o."
+
+  - id: b1-28-013
+    type: order
+    point: vocals-a-e
+    lesson: 1
+    cue: "Digues que la Núria es va comprar una samarreta blanca."
+    chunks: ["la", "núria", "es", "va", "comprar", "una", "samarreta", "blanca"]
+    extra: ["semarreta"]
+    answers:
+      - "La Núria es va comprar una samarreta blanca."
+    explanation: "«Samarreta» s'escriu amb a a les síl·labes àtones: es memoritza."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-28-014
+    type: choice
+    point: vocals-a-e
+    lesson: 2
+    prompt: "Vam comprar un ___ per fer-hi l'hort."
+    answer: "terreny"
+    distractors:
+      - text: "tarrany"
+        why: "«Terreny» és de la família de «terra»: les dues vocals són e."
+      - text: "tarreny"
+        why: "«Terreny» és de la família de «terra»: la primera vocal és e."
+      - text: "terrany"
+        why: "«Terreny» és de la família de «terra»: la segona vocal és e."
+    explanation: "«Terreny» és de la família de «terra»: les dues vocals àtones són e."
+
+  - id: b1-28-015
+    type: choice
+    point: vocals-o-u
+    lesson: 2
+    prompt: "Vam recollir ___ a la platja."
+    answer: "rodolins"
+    distractors:
+      - text: "rudolins"
+        why: "«Rodolí» és de la família de «roda»: la primera vocal és o."
+      - text: "rodulins"
+        why: "«Rodolí» és de la família de «roda»: la segona vocal és o."
+      - text: "rudulins"
+        why: "«Rodolí» és de la família de «roda»: les dues vocals són o."
+    explanation: "«Rodolí» és de la família de «roda»: les vocals àtones són o."
+
+  - id: b1-28-016
+    type: choice
+    point: vocals-a-e
+    lesson: 2
+    prompt: "La Carla es va comprar una ___ plisada."
+    answer: "faldilla"
+    distractors:
+      - text: "feldilla"
+        why: "«Faldilla» és de la família de «falda»: la primera vocal és a."
+      - text: "faldille"
+        why: "La majoria dels noms femenins acaben en -a: «faldilla»."
+      - text: "feldille"
+        why: "«Faldilla» és de la família de «falda» (amb a) i és femenina (acaba en -a)."
+    explanation: "«Faldilla» és de la família de «falda» (amb a) i és femenina (acaba en -a)."
+
+  - id: b1-28-017
+    type: fill
+    point: vocals-a-e
+    lesson: 2
+    prompt: "Cada estiu ___ la festa major amb els veïns."
+    hint: "FESTEJAR, nosaltres"
+    answers: ["festegem"]
+    wrong_answers:
+      - text: "festajam"
+        why: "«Festejar» és de la família de «festa», amb e."
+      - text: "festegam"
+        why: "Amb «nosaltres», el verb acaba en -em: «festegem»."
+    grading: strict
+    explanation: "«Festejar» és de la família de «festa» (amb e) i «nosaltres» acaba en -em."
+
+  - id: b1-28-018
+    type: fill
+    point: vocals-a-e
+    lesson: 2
+    prompt: "Per berenar, menja't un ___ amb formatge."
+    hint: "mot de la família de «pa»"
+    answers: ["panet"]
+    wrong_answers:
+      - text: "penet"
+        why: "«Panet» és de la família de «pa»: la vocal àtona és a."
+    grading: strict
+    explanation: "«Panet» és de la família de «pa»: la vocal àtona és a."
+
+  - id: b1-28-019
+    type: fill
+    point: vocals-o-u
+    lesson: 2
+    prompt: "Després de la reforma, el vestidor del gimnàs era ple de ___."
+    hint: "nom en -or de la família de «brut»"
+    answers: ["brutor"]
+    wrong_answers:
+      - text: "brotor"
+        why: "«Brutor» és de la família de «brut»: la vocal àtona és u."
+    grading: strict
+    explanation: "«Brutor» és de la família de «brut»: la vocal àtona és u."
+
+  - id: b1-28-020
+    type: fill
+    point: vocals-o-u
+    lesson: 2
+    prompt: "Per cosir el botó, cal un ___ de fil negre."
+    hint: "mot de la família de «roda»"
+    answers: ["rodet"]
+    wrong_answers:
+      - text: "rudet"
+        why: "«Rodet» és de la família de «roda»: la vocal àtona és o."
+    grading: strict
+    explanation: "«Rodet» és de la família de «roda»: la vocal àtona és o."
+
+  - id: b1-28-021
+    type: fill
+    point: vocals-a-e
+    lesson: 2
+    prompt: "No s'imaginava la ___ del problema."
+    hint: "nom en -ària de la família de «gran»"
+    answers: ["grandària"]
+    wrong_answers:
+      - text: "grendària"
+        why: "«Grandària» és de la família de «gran»: la primera vocal és a."
+    grading: strict
+    explanation: "«Grandària» és de la família de «gran»: la primera vocal és a."
+
+  - id: b1-28-022
+    type: order
+    point: vocals-o-u
+    lesson: 2
+    cue: "Digues que al carrer hi ha molta foscor."
+    chunks: ["al", "carrer", "hi", "ha", "molta", "foscor"]
+    extra: ["fuscor"]
+    answers:
+      - "Al carrer hi ha molta foscor."
+      - "Hi ha molta foscor al carrer."
+    explanation: "«Foscor» és de la família de «fosc»: la vocal àtona és o."
+
+  - id: b1-28-023
+    type: order
+    point: vocals-a-e
+    lesson: 2
+    cue: "Digues que van enterrar el gos al jardí."
+    chunks: ["van", "enterrar", "el", "gos", "al", "jardí"]
+    extra: ["anterrar"]
+    answers:
+      - "Van enterrar el gos al jardí."
+      - "Al jardí van enterrar el gos."
+    explanation: "«Enterrar» és de la família de «terra»: les vocals àtones són e."
+
+  - id: b1-28-024
+    type: choice
+    point: vocals-o-u
+    lesson: 2
+    prompt: "L'empresa té el ___ del mercat."
+    answer: "monopoli"
+    distractors:
+      - text: "munopoli"
+        why: "«Monopoli» s'escriu amb o a les síl·labes àtones."
+      - text: "monupoli"
+        why: "«Monopoli» s'escriu amb o a les síl·labes àtones."
+      - text: "munupoli"
+        why: "«Monopoli» s'escriu amb o a les síl·labes àtones."
+    explanation: "«Monopoli» s'escriu amb o a les síl·labes àtones: es memoritza."
+
+  - id: b1-28-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—Què et posaràs diumenge? —___."
+    answer: "Em vestiré de diumenge."
+    distractors:
+      - text: "Em vestiré de diumenga."
+        why: "«Diumenge» no canvia: acaba en -e."
+      - text: "Vestiré de diumenge."
+        why: "Cal el pronom «em»: l'expressió és «vestir-se»."
+    explanation: "L'expressió és «vestir-se de diumenge» (pronominal): vol dir posar-se la millor roba."
+
+  - id: b1-28-026
+    type: find-error
+    point: vocals-a-e
+    lesson: 2
+    sentence: "Vam anterrar la caixa al jardí."
+    error: "anterrar"
+    fix: "enterrar"
+    fix_distractors:
+      - text: "entarrar"
+        why: "La segona vocal també és e: és de la família de «terra»."
+      - text: "enterrer"
+        why: "L'infinitiu d'aquest verb acaba en -ar, no en -er."
+    explanation: "«Enterrar» és de la família de «terra»: les dues vocals àtones són e."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-28-027
+    type: choice
+    point: terminacions-memoria
+    lesson: 3
+    prompt: "La Marta ___ la roba al mercat cada dissabte."
+    answer: "compra"
+    distractors:
+      - text: "compre"
+        why: "Amb «la Marta» (3a singular), el verb acaba en -a."
+      - text: "comprar"
+        why: "Amb «la Marta» cal el verb conjugat, no l'infinitiu."
+      - text: "compren"
+        why: "«La Marta» és singular: el verb acaba en -a, no en -en."
+    explanation: "Amb «la Marta» (3a singular), el verb acaba en -a: compra."
+
+  - id: b1-28-028
+    type: choice
+    point: terminacions-memoria
+    lesson: 3
+    prompt: "En Pere i la Laia ___ de futbol cada dia."
+    answer: "parlen"
+    distractors:
+      - text: "parlan"
+        why: "La 3a del plural acaba en -en, no en -an."
+      - text: "parla"
+        why: "El subjecte és plural: el verb acaba en -en."
+      - text: "parlar"
+        why: "Amb «en Pere i la Laia» cal el verb conjugat, no l'infinitiu."
+    explanation: "Amb un subjecte plural, la 3a persona acaba en -en: parlen."
+
+  - id: b1-28-029
+    type: choice
+    point: terminacions-memoria
+    lesson: 3
+    prompt: "Demà em vull ___ els pantalons i les sabatilles."
+    answer: "emprovar"
+    distractors:
+      - text: "emprover"
+        why: "«Emprovar» és de la 1a conjugació: l'infinitiu acaba en -ar."
+      - text: "emprovir"
+        why: "«Emprovar» és de la 1a conjugació: l'infinitiu acaba en -ar."
+    explanation: "«Emprovar» és de la 1a conjugació: l'infinitiu acaba en -ar."
+
+  - id: b1-28-030
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "L'Arnau ___ en una botiga del centre."
+    answer: "treballa"
+    distractors:
+      - text: "traballa"
+        why: "«Traballa» és un calc de «trabaja»: en català, «treballar» amb e."
+      - text: "treballe"
+        why: "Amb «l'Arnau» (3a singular), el verb acaba en -a."
+    explanation: "*Traballa* és un calc de «trabaja». En català, «treballar» amb e, i la 3a singular acaba en -a."
+
+  - id: b1-28-031
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "La Montse es va comprar un cinturó i una ___ blava."
+    answer: "samarreta"
+    distractors:
+      - text: "camiseta"
+        why: "«Camiseta» és un calc de «camiseta»: en català, «samarreta»."
+      - text: "semarreta"
+        why: "«Samarreta» s'escriu amb a a les síl·labes àtones."
+    explanation: "*Camiseta* és un calc de «camiseta». En català: «samarreta», amb a."
+
+  - id: b1-28-032
+    type: fill
+    point: terminacions-memoria
+    lesson: 3
+    prompt: "Nosaltres ___ la roba d'hivern al mercat."
+    hint: "COMPRAR, nosaltres"
+    answers: ["comprem"]
+    wrong_answers:
+      - text: "compran"
+        why: "Amb «nosaltres», el verb acaba en -em: «comprem»."
+    grading: strict
+    explanation: "Amb «nosaltres», el verb acaba en -em: comprem."
+
+  - id: b1-28-033
+    type: fill
+    point: terminacions-memoria
+    lesson: 3
+    prompt: "Quan vaig arribar, elles ja ___ de la botiga amb mitjons per a tota la família."
+    hint: "SORTIR, imperfet, elles"
+    answers: ["sortien"]
+    wrong_answers:
+      - text: "surtien"
+        why: "Amb l'arrel àtona, el verb porta o: «sortien»."
+    grading: strict
+    explanation: "A l'imperfet, l'arrel de «sortir» és àtona i porta o: sortien."
+
+  - id: b1-28-034
+    type: fill
+    point: compte-castella
+    lesson: 3
+    prompt: "La meva àvia sap ___ molt bé."
+    hint: "verb: unir amb fil i agulla"
+    answers: ["cosir"]
+    wrong_answers:
+      - text: "coser"
+        why: "«Coser» és un calc de «coser»: en català, l'infinitiu és «cosir»."
+      - text: "cusir"
+        why: "L'infinitiu té l'arrel àtona i porta o: «cosir»."
+    grading: strict
+    explanation: "*Coser* és un calc de «coser». En català: «cosir», amb o i infinitiu en -ir."
+
+  - id: b1-28-035
+    type: match
+    point: terminacions-memoria
+    lesson: 3
+    instruction: "Relaciona cada infinitiu amb el seu gerundi."
+    pairs:
+      - ["parlar", "parlant"]
+      - ["vendre", "venent"]
+      - ["sortir", "sortint"]
+      - ["cosir", "cosint"]
+    explanation: "El gerundi acaba en -ant, -ent o -int segons la conjugació."
+
+  - id: b1-28-036
+    type: inline-choice
+    point: terminacions-memoria
+    lesson: 3
+    title: "Un missatge d'en Jordi"
+    text: "Hola! Demà compr{a|e}rem la roba de l'estiu. La Marta {busca|busque} uns texans, vosaltres {parleu|parlen} amb la dependenta i ells {parlen|parlan} dels preus. Sortirem de la botiga {parlant|parlent} de tot el que hem vist!"
+    explanation: "Les terminacions: comprarem (futur, amb a), busca (-a), parleu (-eu), parlen (-en) i parlant (-ant)."
+
+  - id: b1-28-037
+    type: find-error
+    point: terminacions-memoria
+    lesson: 3
+    sentence: "La meva mare compre el pa a la fleca."
+    error: "compre"
+    fix: "compra"
+    fix_distractors:
+      - text: "comprar"
+        why: "Amb «la meva mare» cal el verb conjugat, no l'infinitiu."
+      - text: "compren"
+        why: "«La meva mare» és singular: el verb acaba en -a."
+    explanation: "Amb «la meva mare», el verb acaba en -a: compra."
+
+  - id: b1-28-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La Fàtima traballa en una botiga del barri."
+    error: "traballa"
+    fix: "treballa"
+    fix_distractors:
+      - text: "treballar"
+        why: "Amb «la Fàtima» cal el verb conjugat, no l'infinitiu."
+      - text: "treballen"
+        why: "«La Fàtima» és singular: el verb acaba en -a."
+    explanation: "*Traballa* és un calc de «trabaja»: en català, «treballar» amb e."
+
+  - id: b1-28-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La dependenta ens va ensenyar les rebaixes."
+    no_error: true
+    explanation: "La frase és correcta: «dependenta» i «rebaixes» s'escriuen així, i «va ensenyar» és passat."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-28-040
+    type: transform
+    point: vocals-a-e
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "M'he comprat una [[semarreta]] amb butxaques."
+    answers: ["M'he comprat una samarreta amb butxaques."]
+    wrong_answers:
+      - text: "M'he comprat una semarreta amb butxaques."
+        why: "«Samarreta» s'escriu amb a a les síl·labes àtones."
+    grading: strict
+    explanation: "«Samarreta» s'escriu amb a a les síl·labes àtones: es memoritza."
+
+  - id: b1-28-041
+    type: transform
+    point: vocals-o-u
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "A la [[fuscor]] del celler no hi veiem res."
+    answers: ["A la foscor del celler no hi veiem res."]
+    wrong_answers:
+      - text: "A la fuscor del celler no hi veiem res."
+        why: "«Foscor» és de la família de «fosc», amb o."
+    grading: strict
+    explanation: "«Foscor» és de la família de «fosc»: la vocal àtona és o."
+
+  - id: b1-28-042
+    type: transform
+    point: terminacions-memoria
+    lesson: 4
+    instruction: "Corregeix la forma verbal."
+    source: "Ella [[compre]] sempre la roba al mercat."
+    answers: ["Ella compra sempre la roba al mercat."]
+    wrong_answers:
+      - text: "Ella compre sempre la roba al mercat."
+        why: "Amb «ella», la 3a singular acaba en -a: «compra»."
+      - text: "Ella compren sempre la roba al mercat."
+        why: "«Ella» és singular: el verb acaba en -a, no en -en."
+    grading: strict
+    explanation: "Amb «ella», la 3a singular acaba en -a: compra."
+
+  - id: b1-28-043
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "M'agrada [[cuser]] dessuadores amb la màquina nova."
+    answers: ["M'agrada cosir dessuadores amb la màquina nova."]
+    wrong_answers:
+      - text: "M'agrada coser dessuadores amb la màquina nova."
+        why: "«Coser» és un calc de «coser»: en català, «cosir»."
+    grading: strict
+    explanation: "*Cuser* no existeix. El verb és «cosir» (en castellà «coser», però en català amb o i -ir)."
+
+  - id: b1-28-044
+    type: transform
+    point: terminacions-memoria
+    lesson: 4
+    instruction: "Canvia el subjecte a «nosaltres»."
+    source: "[[Compro]] la roba d'estiu al mercat."
+    answers: ["Comprem la roba d'estiu al mercat.", "Nosaltres comprem la roba d'estiu al mercat."]
+    wrong_answers:
+      - text: "Compran la roba d'estiu al mercat."
+        why: "Amb «nosaltres», el verb acaba en -em: «comprem»."
+    grading: strict
+    explanation: "Amb «nosaltres», el verb acaba en -em: comprem."
+
+  - id: b1-28-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la paraula marcada."
+    source: "Aquest noi porta una camisa sense mànigues: és molt [[joven]]."
+    answers: ["Aquest noi porta una camisa sense mànigues: és molt jove."]
+    wrong_answers:
+      - text: "Aquest noi porta una camisa sense mànigues: és molt joven."
+        why: "*Joven* és un calc de «joven»: en català, «jove», sense n final."
+    grading: strict
+    explanation: "*Joven* és un calc de «joven»: en català, «jove», sense n final."
+
+  - id: b1-28-046
+    type: fill
+    point: terminacions-memoria
+    lesson: 4
+    prompt: "Cada dissabte ___ al mercat amb l'àvia i ens comprava armilles."
+    hint: "VENIR, imperfet, nosaltres"
+    answers: ["veníem"]
+    wrong_answers:
+      - text: "viníem"
+        why: "A l'imperfet, «venir» porta e àtona: «veníem»."
+    grading: strict
+    explanation: "A l'imperfet, «venir» porta e àtona: veníem."
+
+  - id: b1-28-047
+    type: fill
+    point: compte-castella
+    lesson: 4
+    prompt: "A la segona planta hi ha els ___ de dona."
+    hint: "lloc on et proves la roba"
+    answers: ["emprovadors"]
+    wrong_answers:
+      - text: "amprovadors"
+        why: "El prefix és em-, amb e: «emprovadors»."
+      - text: "empruvadors"
+        why: "«Emprovador» és de la família de «prova», amb o."
+    grading: strict
+    explanation: "«Emprovador» porta el prefix em- (amb e) i és de la família de «prova» (amb o)."
+
+  - id: b1-28-048
+    type: fill
+    point: vocals-o-u
+    lesson: 4
+    prompt: "L'àvia li va regalar un ___ de seda."
+    hint: "mot de la família de «moc»"
+    answers: ["mocador"]
+    wrong_answers:
+      - text: "mucador"
+        why: "«Mocador» és de la família de «moc»: la primera vocal és o."
+    grading: strict
+    explanation: "«Mocador» és de la família de «moc»: la primera vocal és o."
+
+  - id: b1-28-049
+    type: fill
+    point: vocals-a-e
+    lesson: 4
+    prompt: "L'oficina ha comprat una ___ nova per a cada taula."
+    hint: "calaix per tirar-hi els papers"
+    answers: ["paperera"]
+    wrong_answers:
+      - text: "peperera"
+        why: "«Paperera» comença amb pa-, amb a."
+      - text: "paparera"
+        why: "«Paperera» és de la família de «paper», amb e."
+    grading: strict
+    explanation: "«Paperera» comença amb pa- (amb a) i és de la família de «paper» (amb e)."
+
+  - id: b1-28-050
+    type: order
+    point: compte-castella
+    lesson: 4
+    cue: "Digues que treballeu en una botiga del centre."
+    chunks: ["treballeu", "en", "una", "botiga", "del", "centre"]
+    extra: ["traballeu"]
+    answers:
+      - "Treballeu en una botiga del centre."
+      - "En una botiga del centre treballeu."
+    explanation: "*Traballeu* és un calc: en català, «treballar» amb e."
+
+  - id: b1-28-051
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Digues que demà aniràs de punt en blanc al casament."
+    chunks: ["demà", "aniré", "de", "punt", "en", "blanc", "al", "casament"]
+    extra: ["blanca"]
+    answers:
+      - "Demà aniré de punt en blanc al casament."
+      - "Aniré de punt en blanc al casament demà."
+    explanation: "L'expressió és «anar de punt en blanc»: «blanc» concorda amb «punt» (masculí)."
+
+  - id: b1-28-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "—Com vas al casament? —___."
+    answer: "De punt en blanc."
+    distractors:
+      - text: "De punt en blanca."
+        why: "«Blanc» concorda amb «punt», que és masculí."
+      - text: "Amb punt en blanc."
+        why: "L'expressió fixa és «de punt en blanc», amb «de»."
+      - text: "De punta en blanc."
+        why: "L'expressió diu «punt», no «punta»."
+    explanation: "L'expressió fixa «anar de punt en blanc» vol dir anar molt elegant."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-28-053
+    type: choice
+    point: vocals-a-e
+    lesson: 5
+    prompt: "Abans de l'examen ___ els apunts amb la Laia."
+    answer: "repassem"
+    distractors:
+      - text: "rapassem"
+        why: "El prefix és re-, amb e: «repassem»."
+      - text: "repassan"
+        why: "Amb «nosaltres», el verb acaba en -em."
+      - text: "rapassan"
+        why: "El prefix és re- (amb e) i «nosaltres» acaba en -em."
+    explanation: "El prefix re- s'escriu amb e, «-pa-» és de «pas» (amb a) i «nosaltres» acaba en -em."
+
+  - id: b1-28-054
+    type: choice
+    point: vocals-o-u
+    lesson: 5
+    prompt: "La fàbrica és al ___ de la ciutat."
+    answer: "polígon"
+    distractors:
+      - text: "pulígon"
+        why: "«Polígon» s'escriu amb o a les síl·labes àtones."
+      - text: "polígun"
+        why: "«Polígon» s'escriu amb o a les síl·labes àtones."
+      - text: "pulígun"
+        why: "«Polígon» s'escriu amb o a les síl·labes àtones."
+    explanation: "«Polígon» s'escriu amb o a les síl·labes àtones: es memoritza."
+
+  - id: b1-28-055
+    type: choice
+    point: terminacions-memoria
+    lesson: 5
+    prompt: "Si tens fred, ___ l'abric."
+    answer: "posa't"
+    distractors:
+      - text: "pose't"
+        why: "L'imperatiu de «tu» acaba en -a: «posa't»."
+      - text: "posis"
+        why: "«Posis» és subjuntiu: l'ordre directa és l'imperatiu «posa't»."
+      - text: "posem"
+        why: "«Posem» és «nosaltres»: amb «tu», «posa't»."
+    explanation: "Amb «posar», l'imperatiu per a «tu» acaba en -a i el pronom va darrere: posa't."
+
+  - id: b1-28-056
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "Al gener comencen les ___ d'hivern."
+    answer: "rebaixes"
+    distractors:
+      - text: "rebajas"
+        why: "«Rebajas» és un calc de «rebajas»: en català, amb ai i x."
+      - text: "rebeixes"
+        why: "«Rebaixa» s'escriu amb el diftong ai."
+    explanation: "*Rebajas* és un calc de «rebajas». En català: «rebaixa», amb ai."
+
+  - id: b1-28-057
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Demà hi ha el casament de la Carla: jo ___."
+    answer: "aniré de punt en blanc"
+    distractors:
+      - text: "aniré de punt en blanca"
+        why: "«Blanc» concorda amb «punt», que és masculí."
+      - text: "aniré amb punt en blanc"
+        why: "L'expressió fixa és «de punt en blanc», amb «de»."
+      - text: "aniré de punta en blanc"
+        why: "L'expressió diu «punt», no «punta»."
+    explanation: "L'expressió fixa és «anar de punt en blanc»: vol dir anar molt elegant."
+
+  - id: b1-28-058
+    type: fill
+    point: terminacions-memoria
+    lesson: 5
+    prompt: "L'any passat ___ cada dia en català."
+    hint: "PARLAR, imperfet, nosaltres"
+    answers: ["parlàvem"]
+    wrong_answers:
+      - text: "parlàvam"
+        why: "A l'imperfet, «nosaltres» acaba en -em: «parlàvem»."
+    grading: strict
+    explanation: "A l'imperfet, «nosaltres» acaba en -em: parlàvem."
+
+  - id: b1-28-059
+    type: fill
+    point: compte-castella
+    lesson: 5
+    prompt: "Aquesta brusa amb escot té un ___ del vint per cent."
+    hint: "rebaixa del preu"
+    answers: ["descompte"]
+    wrong_answers:
+      - text: "dascompte"
+        why: "El prefix és des-, amb e: «descompte»."
+      - text: "descompta"
+        why: "«Descompta» és del verb: el nom acaba en -e, «descompte»."
+    grading: strict
+    explanation: "El nom és «descompte»: porta el prefix des- (amb e) i acaba en -e."
+
+  - id: b1-28-060
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix la paraula marcada."
+    source: "Els [[guantes]] són a la prestatgeria."
+    answers: ["Els guants són a la prestatgeria."]
+    wrong_answers:
+      - text: "Els guantes són a la prestatgeria."
+        why: "*Guantes* és un calc de «guantes»: en català, «guants»."
+    grading: strict
+    explanation: "*Guantes* és un calc de «guantes»: en català, «guants», sense e final."
+
+  - id: b1-28-061
+    type: transform
+    point: compte-castella
+    lesson: 5
+    instruction: "Corregeix la paraula marcada."
+    source: "El projecte [[evença]] a bon ritme."
+    answers: ["El projecte avança a bon ritme."]
+    wrong_answers:
+      - text: "El projecte evença a bon ritme."
+        why: "«Avançar» porta el prefix a-, no e-: «avança»."
+    grading: strict
+    explanation: "«Avançar» porta el prefix a- (amb a), no e-: avança."
+
+  - id: b1-28-062
+    type: order
+    point: terminacions-memoria
+    lesson: 5
+    cue: "Digues que elles parlen del vestit nou."
+    chunks: ["elles", "parlen", "del", "vestit", "nou"]
+    extra: ["parlan"]
+    answers:
+      - "Elles parlen del vestit nou."
+    explanation: "Amb un subjecte plural, la 3a persona acaba en -en: parlen."
+
+  - id: b1-28-063
+    type: order
+    point: vocals-o-u
+    lesson: 5
+    cue: "Digues que l'Ibrahim t'espera a l'emprovador."
+    chunks: ["l'ibrahim", "t'espera", "a", "l'emprovador"]
+    extra: ["l'empruvador"]
+    answers:
+      - "L'Ibrahim t'espera a l'emprovador."
+      - "A l'emprovador t'espera l'Ibrahim."
+    explanation: "«Emprovador» és de la família de «prova»: la vocal àtona és o."
+
+  - id: b1-28-064
+    type: inline-choice
+    point: vocals-o-u
+    lesson: 5
+    title: "A la merceria"
+    text: "Bon dia! Tenim r{o|u}dets de fil de colors, c{o|u}rdons de c{o|u}tó i madeixes de llana. Al fons hi ha la prestatgeria del c{o|u}tonet."
+    explanation: "Rodet (de roda), cordó (de corda), cotó i cotonet (de cotó) s'escriuen amb o."
+
+  - id: b1-28-065
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Rebaixes al centre"
+    text: |
+      La Marta vol aprofitar les rebaixes d'hivern i dissabte al matí va al centre amb en Jordi, el seu germà. Primer entren en una botiga de roba jove, on la Marta es vol comprar uns texans i una samarreta de cotó. També es mira una camisa blanca de marca italiana al mirall de l'entrada. Es prova tres talles diferents a l'emprovador, però cap no li va bé: unes li són massa llargues i les altres, massa estretes. La dependenta, molt amable, li porta un altre model amb un vint per cent de descompte.
+
+      Mentrestant, en Jordi mira les sabates de la segona planta. En troba unes de pell que li agraden, però valen noranta euros i decideix esperar fins a final de mes. La cremallera de la jaqueta vella ja no tanca, però la Marta no en compra cap de nova. Al final, la Marta es compra la samarreta, una bufanda de llana i un jersei verd, paga a la caixa i surt contenta de la botiga. En Jordi no compra res, però convida la seva germana a esmorzar en un bar de la plaça. Abans de marxar, acorden tornar-hi el mes que ve.
+    questions:
+      - prompt: "Què es vol comprar la Marta al principi?"
+        answer: "Uns pantalons i una samarreta de cotó."
+        distractors:
+          - text: "Una bufanda de llana i un jersei verd."
+            why: "Això és el que compra al final, no al principi."
+          - text: "Unes sabates de pell de noranta euros."
+            why: "Les sabates les mira en Jordi, no la Marta."
+      - prompt: "Per què no li va bé cap talla dels texans?"
+        answer: "Perquè li són llargs o estrets."
+        distractors:
+          - text: "Perquè no hi ha la seva talla."
+            why: "Es prova tres talles: el problema és com li cauen."
+          - text: "Perquè valen noranta euros."
+            why: "Els noranta euros són de les sabates d'en Jordi."
+      - prompt: "Què fa en Jordi a la botiga?"
+        answer: "Mira el calçat de la segona planta, però no s'emporta res."
+        distractors:
+          - text: "Es compra unes sabates de pell de noranta euros."
+            why: "Li agraden, però decideix esperar fins a final de mes."
+          - text: "Es prova tres talles diferents a l'emprovador."
+            why: "Qui es prova talles és la Marta, no en Jordi."
+      - prompt: "Què compra la Marta al final?"
+        answer: "La samarreta, la bufanda i el jersei."
+        distractors:
+          - text: "Els texans amb un vint per cent de descompte."
+            why: "Els texans no li van bé: no els compra."
+          - text: "Una jaqueta nova amb cremallera."
+            why: "La cremallera és de la jaqueta vella, i no en compra cap de nova."
+    explanation: "La Marta aprofita les rebaixes per comprar roba, i en Jordi no compra res, però la convida a esmorzar."

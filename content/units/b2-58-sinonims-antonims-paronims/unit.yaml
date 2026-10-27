@@ -1,0 +1,1016 @@
+id: b2-58
+level: B2
+title: "Sinònims, antònims i parònims"
+summary: "Paraules que s'assemblen (parònims), paraules que diuen el mateix (sinònims) i contraris amb prefixos, en el context de la tecnologia."
+vocabulary_theme: "Tecnologia i món digital"
+points:
+  - id: paronims-propers
+    title: "Parònims propers"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: sinonims
+    title: "Sinònims per variar el text"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: antonims-prefixos
+    title: "Antònims amb prefixos"
+    refs:
+      - label: "DIEC2"
+        url: "https://dlc.iec.cat"
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: compte-paronims
+    title: "Compte amb el castellà: parònims que no coincideixen"
+    refs:
+      - label: "Optimot"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions per parlar clar"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Parònims propers (I)"
+  - title: "Parònims i sinònims en context"
+  - title: "Antònims i parònims del castellà"
+  - title: "Produir: reescriure frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "l'ordinador"
+    definition: "Aparell electrònic per treballar, estudiar i comunicar-se."
+    example: "He de portar l'ordinador a reparar."
+  - word: "el portàtil"
+    definition: "Ordinador petit que es pot transportar fàcilment."
+    example: "Treballo amb el portàtil des de casa."
+  - word: "la tauleta"
+    definition: "Aparell pla i tàctil, més gran que un mòbil."
+    example: "La Laia llegeix els diaris a la tauleta."
+  - word: "el mòbil"
+    definition: "Telèfon petit que es porta a sobre."
+    example: "M'he deixat el mòbil a l'oficina."
+  - word: "la pantalla"
+    definition: "Superfície on es veuen les imatges d'un aparell."
+    example: "Aquesta pantalla és massa petita per treballar."
+  - word: "la contrasenya"
+    definition: "Paraula secreta per entrar en un compte."
+    example: "Canvia la contrasenya cada tres mesos."
+  - word: "el compte"
+    definition: "Espai personal en un servei d'internet."
+    example: "M'he creat un compte nou per a la feina."
+  - word: "la sessió"
+    definition: "Temps que passes dins d'un compte obert."
+    example: "Tanca la sessió quan acabis."
+  - word: "el navegador"
+    definition: "Programa per visitar pàgines web."
+    example: "Aquest navegador va molt de pressa."
+  - word: "l'enllaç"
+    definition: "Text o imatge que et porta a una altra pàgina."
+    example: "T'he enviat l'enllaç de la reunió."
+  - word: "el correu electrònic"
+    definition: "Sistema per enviar missatges per internet."
+    example: "T'he escrit un correu electrònic amb els detalls."
+  - word: "l'adjunt"
+    definition: "Fitxer que acompanya un missatge."
+    example: "No puc obrir l'adjunt del teu missatge."
+  - word: "la safata d'entrada"
+    definition: "Lloc on arriben els missatges nous."
+    example: "Tens deu missatges a la safata d'entrada."
+  - word: "el correu brossa"
+    definition: "Missatges de publicitat que no has demanat."
+    example: "Esborra el correu brossa cada setmana."
+  - word: "el fitxer"
+    definition: "Conjunt de dades desades amb un nom."
+    example: "Aquest fitxer és massa gran per enviar-lo."
+  - word: "la carpeta"
+    definition: "Espai on es guarden fitxers ordenats."
+    example: "Desa el document a la carpeta del projecte."
+  - word: "desar"
+    definition: "Conservar un document perquè no es perdi."
+    example: "Desa els canvis abans de tancar el programa."
+  - word: "descarregar"
+    definition: "Baixar un fitxer d'internet a l'aparell."
+    example: "He descarregat l'aplicació nova."
+  - word: "carregar"
+    definition: "Transmetre dades a internet o donar energia a un aparell."
+    example: "Aquesta pàgina triga molt a carregar."
+  - word: "la còpia de seguretat"
+    definition: "Còpia de les dades per si es perden."
+    example: "Fes una còpia de seguretat cada setmana."
+  - word: "el núvol"
+    definition: "Espai d'internet on es desen dades."
+    example: "Tinc les fotos al núvol."
+  - word: "les dades"
+    definition: "Informació que rep o guarda un aparell."
+    example: "Aquesta aplicació demana massa dades personals."
+  - word: "la data"
+    definition: "Dia del calendari."
+    example: "Quina és la data de la reunió?"
+  - word: "la privadesa"
+    definition: "Dret que la informació personal no es difongui."
+    example: "La privadesa a internet és molt important."
+  - word: "l'antivirus"
+    definition: "Programa que elimina els virus."
+    example: "Actualitza l'antivirus cada mes."
+  - word: "la xarxa"
+    definition: "Sistema d'aparells connectats entre ells."
+    example: "La xarxa de l'hotel no funciona."
+  - word: "el wifi"
+    definition: "Xarxa sense fils per connectar-se a internet."
+    example: "El wifi de casa va molt lent."
+  - word: "la bateria"
+    definition: "Peça que dona energia a un aparell."
+    example: "La bateria del mòbil dura poc."
+  - word: "actualitzar"
+    definition: "Posar la versió més nova d'un programa."
+    example: "Has d'actualitzar l'aplicació."
+  - word: "instal·lar"
+    definition: "Posar un programa en un aparell."
+    example: "M'han instal·lat un programa nou a la feina."
+  - word: "l'aplicació"
+    definition: "Programa petit, sovint per al mòbil."
+    example: "Aquesta aplicació va molt bé per aprendre idiomes."
+  - word: "el sistema operatiu"
+    definition: "Programa principal que fa funcionar l'aparell."
+    example: "Aquest sistema operatiu és molt vell."
+  - word: "reiniciar"
+    definition: "Tancar i tornar a engegar un aparell."
+    example: "Prova de reiniciar l'ordinador."
+  - word: "la videotrucada"
+    definition: "Trucada en què també es veu la imatge."
+    example: "Tenim una videotrucada a les nou."
+  - word: "la notificació"
+    definition: "Avís que envia una aplicació."
+    example: "M'ha arribat una notificació del banc."
+  - word: "trametre"
+    definition: "Enviar (formal)."
+    example: "Us trameto el contracte per correu."
+  - word: "compartir"
+    definition: "Deixar que altres vegin o facin servir una cosa."
+    example: "No comparteixis la contrasenya amb ningú."
+  - word: "l'usuari, la usuària"
+    definition: "Persona que fa servir un servei."
+    example: "Cada usuari té la seva contrasenya."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-58-001
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "Aquest antivirus és molt ___: detecta tots els virus."
+    answer: "eficaç"
+    distractors:
+      - text: "eficient"
+        why: "*Eficient* vol dir que gasta pocs recursos. Aquí el que importa és que aconsegueix l'efecte: és *eficaç*."
+      - text: "deficient"
+        why: "*Deficient* vol dir que té defectes. Aquest antivirus funciona bé: és *eficaç*."
+    explanation: "«Detecta tots els virus» vol dir que aconsegueix l'efecte desitjat: és *eficaç*."
+
+  - id: b2-58-002
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "Aquest programa és molt ___: fa la feina amb molt poca memòria."
+    answer: "eficient"
+    distractors:
+      - text: "eficaç"
+        why: "*Eficaç* vol dir que aconsegueix l'efecte. Aquí es destaca que gasta pocs recursos: és *eficient*."
+      - text: "exigent"
+        why: "*Exigent* vol dir que demana molt. Aquest programa demana poca memòria: és *eficient*."
+    explanation: "«Amb molt poca memòria» parla dels recursos que gasta: és *eficient*."
+
+  - id: b2-58-003
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "Què vol dir «una persona eficaç»?"
+    answer: "Una persona que aconsegueix el que es proposa."
+    distractors:
+      - text: "Una persona que treballa amb pocs recursos."
+        why: "Això és una persona *eficient*, no *eficaç*."
+      - text: "Una persona que fa moltes coses alhora."
+        why: "Fer moltes coses alhora no és el sentit del mot *eficaç*."
+    explanation: "*Eficaç* vol dir que aconsegueix l'efecte desitjat."
+
+  - id: b2-58-004
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "Per atendre el públic cal una bona ___."
+    answer: "actitud"
+    distractors:
+      - text: "aptitud"
+        why: "*Aptitud* és una capacitat (per als idiomes, per a la música). Aquí es parla de la manera de tractar la gent."
+      - text: "altitud"
+        why: "*Altitud* és l'altura sobre el mar. No hi té cap sentit."
+    explanation: "«Atendre el públic» demana una manera de comportar-se: *actitud*."
+
+  - id: b2-58-005
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "La Fàtima té una gran ___ per als idiomes."
+    answer: "aptitud"
+    distractors:
+      - text: "actitud"
+        why: "*Actitud* és la manera de comportar-se. Aquí es parla d'una capacitat: *aptitud*."
+      - text: "longitud"
+        why: "*Longitud* és la mida d'una cosa llarga. No hi té cap sentit."
+    explanation: "«Per als idiomes» parla d'una capacitat: *aptitud*."
+
+  - id: b2-58-006
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "___ les normes del fòrum té conseqüències greus."
+    answer: "Infringir"
+    distractors:
+      - text: "Infligir"
+        why: "*Infligir* és causar (un càstig, un dolor). Les normes no es causen: s'incompleixen."
+      - text: "Influir"
+        why: "*Influir* vol dir tenir efecte sobre algú, i demana la preposició *en*."
+    explanation: "Les normes s'incompleixen: *infringir*. *Infligir* és causar un càstig."
+
+  - id: b2-58-007
+    type: choice
+    point: paronims-propers
+    lesson: 1
+    prompt: "El jutge li va ___ una multa molt alta."
+    answer: "infligir"
+    distractors:
+      - text: "infringir"
+        why: "El verb *infringir* porta una norma darrere. Una multa es causa: el verb és *infligir*."
+      - text: "infringit"
+        why: "Després de *va* cal l'infinitiu, no el participi."
+    explanation: "Una multa es causa o s'imposa: *infligir*."
+
+  - id: b2-58-008
+    type: match
+    point: sinonims
+    lesson: 1
+    instruction: "Relaciona cada verb amb un sinònim."
+    pairs:
+      - ["triar", "escollir"]
+      - ["començar", "iniciar"]
+      - ["utilitzar", "fer servir"]
+      - ["esborrar", "eliminar"]
+      - ["enviar", "trametre"]
+    explanation: "Són parells de sinònims: en el context adequat es poden intercanviar."
+
+  - id: b2-58-009
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["dir les coses pel seu nom", "dir la veritat sense eufemismes"]
+      - ["no és el mateix", "dues coses semblants que cal no confondre"]
+      - ["amb pèls i senyals", "amb tots els detalls"]
+      - ["posar blanc sobre negre", "escriure un acord perquè quedi clar"]
+    explanation: "Són expressions per parlar amb precisió."
+
+  - id: b2-58-010
+    type: inline-choice
+    point: sinonims
+    lesson: 1
+    title: "Missatge al suport tècnic"
+    text: "Hola: m'he comprat un portàtil nou. He comparat deu models i he {triat|tret|traït} el més lleuger. El dependent em va {assegurar|assegurat|asseguren} que la bateria dura deu hores. A casa no puc {obrir|obrint|obert} els adjunts del correu electrònic i el programa em recomana {esborrar|esborrany|recuperar} els fitxers temporals. A la safata d'entrada tinc deu missatges sense llegir. Em podeu ajudar?"
+    explanation: "He *triat* (= *escollit*) un model; el dependent em va *assegurar* (= *dir, afirmar*) que la bateria dura; no puc *obrir* els adjunts; em recomana *esborrar* (= *eliminar*) els temporals."
+
+  - id: b2-58-011
+    type: fill
+    point: paronims-propers
+    lesson: 1
+    prompt: "Els meteoròlegs ___ pluja per al cap de setmana."
+    hint: "PREVEURE, present"
+    answers: ["preveuen"]
+    wrong_answers:
+      - text: "prevenen"
+        why: "*Prevenen* és de *prevenir*: prendre mesures contra una amenaça. La pluja no es pot impedir: es preveu."
+    grading: tolerant
+    explanation: "Els meteoròlegs anuncien el que vindrà: *preveure*. *Prevenir* seria impedir-ho."
+
+  - id: b2-58-012
+    type: fill
+    point: sinonims
+    lesson: 1
+    prompt: "Aquest programa ___ molta memòria."
+    hint: "FER SERVIR, present"
+    answers: ["fa servir"]
+    wrong_answers:
+      - text: "fan servir"
+        why: "El subjecte («aquest programa») és singular: *fa servir*."
+    grading: tolerant
+    explanation: "«Aquest programa» és singular: *fa servir*, sinònim de *utilitza*."
+
+  - id: b2-58-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «dir-ho amb totes les lletres»?"
+    answer: "Dir una cosa delicada obertament, sense amagar res."
+    distractors:
+      - text: "Escriure un text amb lletra molt gran."
+        why: "Aquest és el sentit literal; l'expressió és figurada."
+      - text: "Lletrejar una paraula perquè s'entengui."
+        why: "L'expressió no parla de lletrejar, sinó de parlar obertament."
+    explanation: "«Amb totes les lletres» vol dir explícitament: sense eufemismes ni mitges paraules."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-58-014
+    type: fill
+    point: paronims-propers
+    lesson: 2
+    prompt: "Per ___ els incendis, cal no fer foc al bosc."
+    hint: "PREVENIR"
+    answers: ["prevenir"]
+    wrong_answers:
+      - text: "preveure"
+        why: "*Preveure* és veure per endavant. Aquí cal impedir: *prevenir*."
+    grading: tolerant
+    explanation: "No fer foc impedeix els incendis: *prevenir*."
+
+  - id: b2-58-015
+    type: fill
+    point: paronims-propers
+    lesson: 2
+    prompt: "Aquestes pastilles ___ el mal de cap si les prens a temps."
+    hint: "PREVENIR, present"
+    answers: ["prevenen"]
+    wrong_answers:
+      - text: "preveuen"
+        why: "*Preveure* és anunciar el futur. Les pastilles impedeixen el mal: *prevenen*."
+    grading: tolerant
+    explanation: "Les pastilles impedeixen el mal: *prevenir*. *Preveure* seria anunciar-lo."
+
+  - id: b2-58-016
+    type: fill
+    point: paronims-propers
+    lesson: 2
+    prompt: "La llei ___ sancions molt dures per a aquest delicte."
+    hint: "PREVEURE, present"
+    answers: ["preveu"]
+    wrong_answers:
+      - text: "preveure"
+        why: "El subjecte («la llei») demana un verb conjugat: *preveu*."
+    grading: tolerant
+    explanation: "La llei anuncia les sancions: *preveure*."
+
+  - id: b2-58-017
+    type: fill
+    point: sinonims
+    lesson: 2
+    prompt: "Vam ___ el projecte al juny."
+    hint: "CONCLOURE, passat perifràstic"
+    answers: ["concloure"]
+    wrong_answers:
+      - text: "concluir"
+        why: "L'infinitiu és *concloure*, no *concluir*."
+    grading: tolerant
+    explanation: "*Concloure* és el sinònim formal de *acabar*."
+
+  - id: b2-58-018
+    type: fill
+    point: sinonims
+    lesson: 2
+    prompt: "El tècnic ha ___ el model més segur."
+    hint: "ESCOLLIR, participi"
+    answers: ["escollit"]
+    wrong_answers:
+      - text: "escogit"
+        why: "*Escogit* és un calc de «escogido». En català: *escollit*."
+    grading: tolerant
+    explanation: "*Escollir* (= *triar*) fa el participi *escollit*."
+
+  - id: b2-58-019
+    type: order
+    point: paronims-propers
+    lesson: 2
+    cue: "Digues que cal prevenir els riscos abans de començar l'obra."
+    chunks: ["Cal", "prevenir", "els riscos", "abans de", "començar l'obra"]
+    extra: ["preveure"]
+    answers:
+      - "Cal prevenir els riscos abans de començar l'obra."
+      - "Abans de començar l'obra, cal prevenir els riscos."
+    explanation: "Els riscos s'impedeixen: *prevenir*. El bloc «abans de començar l'obra» pot anar al final o al principi."
+
+  - id: b2-58-020
+    type: order
+    point: sinonims
+    lesson: 2
+    cue: "Digues que vas efectuar la reserva per internet."
+    chunks: ["Vaig", "efectuar", "la reserva", "per internet"]
+    extra: ["fer"]
+    answers:
+      - "Vaig efectuar la reserva per internet."
+      - "Per internet vaig efectuar la reserva."
+    explanation: "*Efectuar* és el sinònim formal de *fer* (una reserva, un pagament)."
+
+  - id: b2-58-021
+    type: choice
+    point: sinonims
+    lesson: 2
+    prompt: "«Vam haver de triar un model nou.» Quin mot pot substituir «triar»?"
+    answer: "escollir"
+    distractors:
+      - text: "treure"
+        why: "*Treure* és treure una cosa d'un lloc, no decidir-se per una opció."
+      - text: "trair"
+        why: "*Trair* és enganyar la confiança d'algú."
+    explanation: "*Triar* i *escollir* són sinònims: decidir-se per una opció."
+
+  - id: b2-58-022
+    type: choice
+    point: sinonims
+    lesson: 2
+    prompt: "«El programa utilitza molta bateria.» Quin mot pot substituir «utilitza»?"
+    answer: "fa servir"
+    distractors:
+      - text: "utilitat"
+        why: "*Utilitat* és un nom (la qualitat de ser útil), no un verb."
+      - text: "usat"
+        why: "*Usat* és un participi que aquí no hi fa res: cal el verb *fa servir*."
+    explanation: "*Utilitzar* i *fer servir* són sinònims."
+
+  - id: b2-58-023
+    type: choice
+    point: sinonims
+    lesson: 2
+    prompt: "«Vaig haver d'esborrar tres fotos.» Quin mot pot substituir «esborrar»?"
+    answer: "eliminar"
+    distractors:
+      - text: "esborrany"
+        why: "Un *esborrany* és un primer text provisional, no l'acció d'esborrar."
+      - text: "recuperar"
+        why: "És l'antònim: tornar a tenir una cosa."
+    explanation: "*Esborrar* i *eliminar* (un fitxer, una foto) són sinònims."
+
+  - id: b2-58-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—Un virus i un error del sistema són el mateix? —No, ___."
+    answer: "no és el mateix"
+    distractors:
+      - text: "no fa el mateix"
+        why: "*Fer* el mateix parla d'una acció, no de dues coses diferents."
+      - text: "no vol dir el mateix"
+        why: "*Voler dir* parla del significat de les paraules, no de si dues coses són diferents."
+    explanation: "Un virus i un error són coses semblants, però diferents: *no és el mateix*."
+
+  - id: b2-58-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «explicar fil per randa»?"
+    answer: "Explicar una cosa pas a pas, amb ordre."
+    distractors:
+      - text: "Explicar una cosa molt de pressa, sense detalls."
+        why: "És el contrari: sense ordre ni detalls."
+      - text: "Explicar una cosa saltant de tema en tema."
+        why: "És el contrari: sense ordre."
+    explanation: "«Fil per randa» vol dir amb ordre, punt per punt."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-58-026
+    type: choice
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "Aquest fitxer és ___: ningú no el pot llegir sense la clau."
+    answer: "il·legible"
+    distractors:
+      - text: "deslegible"
+        why: "No existeix: l'antònim de *llegible* és *il·legible*."
+      - text: "inlegible"
+        why: "Davant de *l* el prefix *in-* es converteix en *il-*."
+    explanation: "«Ningú no el pot llegir» vol dir que no es pot llegir: *il·legible*."
+
+  - id: b2-58-027
+    type: choice
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "És ___ obrir aquest programa amb un sistema operatiu tan vell."
+    answer: "impossible"
+    distractors:
+      - text: "despossible"
+        why: "No existeix: l'antònim de *possible* és *impossible*."
+      - text: "inpossible"
+        why: "Davant de *p* el prefix *in-* es converteix en *im-*."
+    explanation: "Amb un sistema tan vell no es pot obrir: és *impossible*."
+
+  - id: b2-58-028
+    type: choice
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "El nou company és molt ___: sempre arriba tard i no avisa mai."
+    answer: "irresponsable"
+    distractors:
+      - text: "desresponsable"
+        why: "No existeix: l'antònim de *responsable* és *irresponsable*."
+      - text: "inresponsable"
+        why: "Davant de *r* el prefix *in-* es converteix en *ir-*."
+    explanation: "Arribar tard i no avisar és no ser responsable: *irresponsable*."
+
+  - id: b2-58-029
+    type: fill
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "Aquesta contrasenya és massa curta: és totalment ___."
+    hint: "SEGUR, antònim amb prefix"
+    answers: ["insegura"]
+    wrong_answers:
+      - text: "desegura"
+        why: "No existeix: l'antònim de *segur* és *insegur*."
+      - text: "insegur"
+        why: "«Contrasenya» és femení: *insegura*."
+    grading: tolerant
+    explanation: "Una contrasenya curta no és segura: és *insegura*."
+
+  - id: b2-58-030
+    type: fill
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "La Montse no va respondre: el número era ___ i no el coneixia."
+    hint: "CONEGUT, antònim amb prefix"
+    answers: ["desconegut"]
+    wrong_answers:
+      - text: "inconegut"
+        why: "No existeix: l'antònim de *conegut* és *desconegut*."
+    grading: tolerant
+    explanation: "Un número que no coneixes és *desconegut*."
+
+  - id: b2-58-031
+    type: fill
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "—Pau, no trobo el fitxer: ha ___ del servidor."
+    hint: "APARÈIXER, antònim amb prefix, participi"
+    answers: ["desaparegut"]
+    wrong_answers:
+      - text: "inaparegut"
+        why: "No existeix: l'antònim de *aparèixer* és *desaparèixer*."
+    grading: tolerant
+    explanation: "Si no el trobes, és que ha desaparegut: *desaparèixer*."
+
+  - id: b2-58-032
+    type: choice
+    point: antonims-prefixos
+    lesson: 3
+    prompt: "Quan acabis la classe, ___ el mòbil de la xarxa."
+    answer: "desconnecta"
+    distractors:
+      - text: "inconnecta"
+        why: "No existeix: l'antònim de *connectar* és *desconnectar*."
+      - text: "desconecta"
+        why: "En català és *connectar*, amb dues *enes*: *desconnecta*."
+    explanation: "Deixar la xarxa és *desconnectar*. *Connectar* s'escriu amb dues *enes*."
+
+  - id: b2-58-033
+    type: inline-choice
+    point: antonims-prefixos
+    lesson: 3
+    title: "Abans de comprar un portàtil"
+    text: "Vols un consell {útil|inútil|desútil}? Compra només en botigues de {confiança|desconfiança|inconfiança}. Desconfia de les ofertes {increïbles|creïbles|descreïbles} i guarda la factura en un lloc {segur|insegur|desegur}."
+    explanation: "Un consell *útil*, botigues de *confiança*, ofertes *increïbles* (massa bones per ser veritat) i un lloc *segur*. Els antònims van amb *in-*: *inútil*, *increïble*, *insegur*."
+
+  - id: b2-58-034
+    type: find-error
+    point: compte-paronims
+    lesson: 3
+    sentence: "L'empresa ha patit un robatori de dates personals."
+    error: "dates personals"
+    fix: "dades personals"
+    fix_distractors:
+      - text: "dada personals"
+        why: "*Dada* és femení singular; cal el plural: *dades personals*."
+      - text: "dades personal"
+        why: "L'adjectiu ha de concordar: *personals*."
+    explanation: "Les *dades* són la informació personal. Les *dates* són dies del calendari."
+
+  - id: b2-58-035
+    type: find-error
+    point: compte-paronims
+    lesson: 3
+    sentence: "Has d'assignar el contracte abans de divendres."
+    error: "d'assignar el contracte"
+    fix: "de signar el contracte"
+    fix_distractors:
+      - text: "de signar al contracte"
+        why: "*Signar* porta complement directe, sense preposició."
+      - text: "d'assignar al contracte"
+        why: "El verb és *signar*, i sense preposició: *de signar el contracte*."
+    explanation: "Un contracte es *signa*. *Assignar* és donar una feina a algú."
+
+  - id: b2-58-036
+    type: find-error
+    point: compte-paronims
+    lesson: 3
+    sentence: "Tinc un rècord molt bonic de la meva àvia."
+    error: "un rècord"
+    fix: "un record"
+    fix_distractors:
+      - text: "una record"
+        why: "*Record* és masculí: *un record*."
+      - text: "uns record"
+        why: "Cal el singular: *un record*."
+    explanation: "Un *record* és una imatge del passat que guardes a la memòria. Un *rècord* és una marca esportiva."
+
+  - id: b2-58-037
+    type: find-error
+    point: compte-paronims
+    lesson: 3
+    sentence: "Encara li dec diners: tinc un deure de mil euros."
+    error: "un deure"
+    fix: "un deute"
+    fix_distractors:
+      - text: "una deute"
+        why: "*Deute* és masculí: *un deute*."
+      - text: "uns deute"
+        why: "Cal el singular: *un deute*."
+    explanation: "Els diners que deus són un *deute*. Un *deure* és una obligació."
+
+  - id: b2-58-038
+    type: find-error
+    point: compte-paronims
+    lesson: 3
+    sentence: "Desa les dades al núvol cada setmana."
+    no_error: true
+    explanation: "La frase és correcta: les *dades* són la informació, i *desar* és conservar un fitxer."
+
+  - id: b2-58-039
+    type: find-error
+    point: compte-paronims
+    lesson: 3
+    sentence: "La data del concert és el tres de maig."
+    no_error: true
+    explanation: "La frase és correcta: la *data* és el dia del calendari."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-58-040
+    type: transform
+    point: paronims-propers
+    lesson: 4
+    instruction: "Substitueix la paraula marcada pel parònim correcte."
+    source: "Aquest tractament és molt [[eficient]]: sempre funciona."
+    answers: ["Aquest tractament és molt eficaç: sempre funciona."]
+    wrong_answers:
+      - text: "Aquest tractament és molt eficaços: sempre funciona."
+        why: "El subjecte («el tractament») és singular: *eficaç*."
+    grading: tolerant
+    explanation: "«Sempre funciona» vol dir que aconsegueix l'efecte: *eficaç*."
+
+  - id: b2-58-041
+    type: transform
+    point: paronims-propers
+    lesson: 4
+    instruction: "Substitueix la paraula marcada pel parònim correcte."
+    source: "La Fàtima té una gran [[actitud]] per als idiomes."
+    answers: ["La Fàtima té una gran aptitud per als idiomes."]
+    grading: tolerant
+    explanation: "«Per als idiomes» parla d'una capacitat: *aptitud*."
+
+  - id: b2-58-042
+    type: transform
+    point: sinonims
+    lesson: 4
+    instruction: "Substitueix la paraula marcada pel sinònim «errada»."
+    source: "Hi ha [[un error]] al sistema."
+    answers: ["Hi ha una errada al sistema."]
+    wrong_answers:
+      - text: "Hi ha un errada al sistema."
+        why: "*Errada* és femení: *una errada*."
+    grading: tolerant
+    explanation: "*Error* (masculí) i *errada* (femení) són sinònims: l'article també canvia."
+
+  - id: b2-58-043
+    type: transform
+    point: sinonims
+    lesson: 4
+    instruction: "Substitueix «utilitza» per «fa servir»."
+    source: "El programa [[utilitza]] molta bateria."
+    answers: ["El programa fa servir molta bateria."]
+    grading: tolerant
+    explanation: "*Utilitzar* i *fer servir* són sinònims."
+
+  - id: b2-58-044
+    type: transform
+    point: antonims-prefixos
+    lesson: 4
+    instruction: "Substitueix la paraula marcada per l'antònim amb prefix."
+    source: "La contrasenya és [[segura]]."
+    answers: ["La contrasenya és insegura."]
+    wrong_answers:
+      - text: "La contrasenya és desegura."
+        why: "No existeix: l'antònim de *segur* és *insegur*."
+    grading: tolerant
+    explanation: "L'antònim de *segur* és *insegur*."
+
+  - id: b2-58-045
+    type: transform
+    point: antonims-prefixos
+    lesson: 4
+    instruction: "Substitueix la paraula marcada per l'antònim amb prefix."
+    source: "La contrasenya és [[visible]] a la pantalla."
+    answers: ["La contrasenya és invisible a la pantalla."]
+    wrong_answers:
+      - text: "La contrasenya és desvisible a la pantalla."
+        why: "No existeix: l'antònim de *visible* és *invisible*."
+    grading: tolerant
+    explanation: "L'antònim de *visible* és *invisible*."
+
+  - id: b2-58-046
+    type: transform
+    point: antonims-prefixos
+    lesson: 4
+    instruction: "Substitueix el verb marcat per l'antònim amb prefix."
+    source: "[[Instal·la]] l'aplicació nova."
+    answers: ["Desinstal·la l'aplicació nova."]
+    grading: tolerant
+    explanation: "L'antònim de *instal·lar* és *desinstal·lar*: l'imperatiu fa *desinstal·la*."
+
+  - id: b2-58-047
+    type: transform
+    point: antonims-prefixos
+    lesson: 4
+    instruction: "Substitueix el verb marcat per l'antònim amb prefix."
+    source: "Vols que [[connecti]] l'ordinador?"
+    answers: ["Vols que desconnecti l'ordinador?"]
+    wrong_answers:
+      - text: "Vols que inconnecti l'ordinador?"
+        why: "No existeix: l'antònim de *connectar* és *desconnectar*."
+    grading: tolerant
+    explanation: "L'antònim de *connectar* és *desconnectar*."
+
+  - id: b2-58-048
+    type: transform
+    point: compte-paronims
+    lesson: 4
+    instruction: "Substitueix la paraula marcada pel parònim correcte."
+    source: "En Jordi va haver de pagar un [[deure]] molt alt."
+    answers: ["En Jordi va haver de pagar un deute molt alt."]
+    grading: tolerant
+    explanation: "Els diners que es paguen són un *deute*. Un *deure* és una obligació."
+
+  - id: b2-58-049
+    type: transform
+    point: compte-paronims
+    lesson: 4
+    instruction: "Substitueix la paraula marcada pel parònim correcte."
+    source: "El cap va [[signar]] dues persones a cada equip."
+    answers: ["El cap va assignar dues persones a cada equip."]
+    grading: tolerant
+    explanation: "Donar una feina a algú és *assignar*. *Signar* és posar la signatura."
+
+  - id: b2-58-050
+    type: fill
+    point: compte-paronims
+    lesson: 4
+    prompt: "Tinc un ___ preciós de l'estiu a Menorca."
+    hint: "RECORD"
+    answers: ["record"]
+    wrong_answers:
+      - text: "rècord"
+        why: "Un *rècord* és una marca esportiva. Una memòria del passat és un *record*."
+    grading: strict
+    explanation: "Un *record* és una memòria del passat."
+
+  - id: b2-58-051
+    type: order
+    point: compte-paronims
+    lesson: 4
+    cue: "Digues que tens un record molt bonic de l'àvia."
+    chunks: ["Tinc", "un", "record", "molt", "bonic", "de l'àvia"]
+    extra: ["rècord"]
+    answers:
+      - "Tinc un record molt bonic de l'àvia."
+      - "Tinc de l'àvia un record molt bonic."
+      - "De l'àvia tinc un record molt bonic."
+    explanation: "Un *record* és una memòria. Un *rècord* és una marca esportiva."
+
+  - id: b2-58-052
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Digues que no és el mateix un virus que un error del sistema."
+    chunks: ["No", "és", "el mateix", "un virus", "que", "un error del sistema"]
+    extra: ["son"]
+    answers:
+      - "No és el mateix un virus que un error del sistema."
+    explanation: "Un virus i un error són coses diferents: *no és el mateix*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-58-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un dilluns de teletreball"
+    text: |
+      La Núria treballa tres dies per setmana des de casa. Dilluns passat tenia una videotrucada important a les nou amb un client nou, i es va llevar una hora abans per preparar-ho tot amb calma. Va encendre el portàtil, va obrir el navegador i va comprovar que la xarxa funcionava bé.
+
+      Mitja hora abans de la reunió, però, va arribar el primer problema: l'aplicació de videotrucades no s'obria. L'havia actualitzat divendres, però ara només sortia un missatge d'error i una notificació que no entenia. Va provar de reiniciar l'ordinador dues vegades, sense èxit. Aleshores va trucar a l'Ibrahim, el tècnic de l'empresa.
+
+      —Explica'm fil per randa què has fet —li va dir ell.
+
+      La Núria li ho va explicar amb pèls i senyals: l'actualització, el missatge d'error, els dos reinicis. L'Ibrahim va escoltar en silenci i després li va fer una pregunta que la va deixar glaçada:
+
+      —I la còpia de seguretat de les dades, quan la vas fer?
+
+      La Núria no ho recordava. Sempre ajornava aquella tasca i ara no sabia si perdria els fitxers del projecte. L'Ibrahim li va dir que no patís: primer havien de desinstal·lar l'aplicació i tornar-la a instal·lar, i després comprovarien la carpeta del núvol.
+
+      Cinc minuts abans de les nou, l'aplicació ja funcionava. La videotrucada va començar amb retard, però el client no s'hi va estar: li va dir amb totes les lletres que el pressupost li semblava car. La Núria, que s'ho havia preparat bé, li va proposar una alternativa més barata i van posar l'acord blanc sobre negre en un correu.
+
+      Quan va acabar la trucada, la Núria va fer immediatament la còpia de seguretat. Havia après la lliçó: un antivirus eficaç i una bona contrasenya no serveixen de res si no deses les dades. També va activar la verificació en dos passos per protegir la privadesa. Ara també fa servir la tauleta per llegir els informes.
+    questions:
+      - prompt: "Per què es va llevar d'hora la Núria?"
+        answer: "Tenia una videotrucada important a les nou."
+        distractors:
+          - text: "Havia de portar el portàtil a reparar."
+            why: "El portàtil funcionava; el problema era l'aplicació."
+          - text: "Volia fer la còpia de seguretat abans de treballar."
+            why: "La còpia la va fer al final, després de la trucada."
+      - prompt: "Què va fer l'Ibrahim?"
+        answer: "La va calmar i li va dir com arreglar l'aplicació."
+        distractors:
+          - text: "Va anar a casa seva a reparar l'ordinador."
+            why: "Tot ho van resoldre per telèfon."
+          - text: "Li va dir que comprés un portàtil nou."
+            why: "No parlen de comprar res."
+      - prompt: "Què li va dir el client a la videotrucada?"
+        answer: "Que el pressupost era massa car."
+        distractors:
+          - text: "Que volia anul·lar el projecte."
+            why: "Al contrari: van arribar a un acord."
+          - text: "Que la connexió es tallava tota l'estona."
+            why: "La videotrucada va funcionar; no parlen de la connexió."
+      - prompt: "Què va aprendre la Núria aquell dia?"
+        answer: "Que cal fer còpies de seguretat de les dades."
+        distractors:
+          - text: "Que no ha de comprar antivirus cars."
+            why: "El text no diu que l'antivirus fos car."
+          - text: "Que és millor treballar des de l'oficina."
+            why: "No diu això; el dia va acabar bé."
+    explanation: "El text explica com la Núria va resoldre un problema tècnic abans d'una videotrucada i va aprendre a fer còpies de seguretat."
+
+  - id: b2-58-054
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "La Laia no s'hi va estar: li ho va dir ___."
+    answer: "amb totes les lletres"
+    distractors:
+      - text: "amb bons senyals"
+        why: "És una barreja de dues expressions; l'expressió és *amb totes les lletres*."
+      - text: "sense pèls ni senyals"
+        why: "Voldria dir sense detalls, al contrari de «no s'hi va estar»."
+    explanation: "«No s'hi va estar» vol dir que ho va dir obertament: *amb totes les lletres*."
+
+  - id: b2-58-055
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Vam acordar el preu i ho vam ___ perquè quedés clar."
+    answer: "posar blanc sobre negre"
+    distractors:
+      - text: "posar negre sobre blanc"
+        why: "L'ordre de l'expressió és *blanc sobre negre*."
+      - text: "escriure en blanc i negre"
+        why: "*En blanc i negre* parla de fotos o d'impressió, no d'un acord."
+    explanation: "«Perquè quedés clar» demana escriure l'acord: *posar blanc sobre negre*."
+
+  - id: b2-58-056
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "Un antivirus gratuït i un de pagament ___: el segon té més funcions."
+    hint: "NO SER EL MATEIX"
+    answers: ["no són el mateix"]
+    wrong_answers:
+      - text: "no és el mateix"
+        why: "El subjecte és plural: *no són*."
+    grading: tolerant
+    explanation: "Dues coses semblants, però diferents: *no són el mateix*."
+
+  - id: b2-58-057
+    type: find-error
+    point: expressions
+    lesson: 5
+    sentence: "Li ho va dir amb totes les paraules: el pressupost és massa alt."
+    error: "amb totes les paraules"
+    fix: "amb totes les lletres"
+    fix_distractors:
+      - text: "amb tots les lletres"
+        why: "*Lletra* és femení: *amb totes les lletres*."
+      - text: "amb totes les lletra"
+        why: "L'expressió va en plural: *amb totes les lletres*."
+    explanation: "Dir una cosa delicada obertament és dir-ho *amb totes les lletres*."
+
+  - id: b2-58-058
+    type: find-error
+    point: paronims-propers
+    lesson: 5
+    sentence: "L'empresa vol una persona amb bona aptitud per atendre el públic."
+    error: "aptitud"
+    fix: "actitud"
+    fix_distractors:
+      - text: "altitud"
+        why: "*Altitud* és l'altura sobre el mar."
+      - text: "exactitud"
+        why: "*Exactitud* és la precisió d'una mesura; no hi té sentit."
+    explanation: "Atendre el públic demana una manera de ser: *actitud*. *Aptitud* és una capacitat."
+
+  - id: b2-58-059
+    type: find-error
+    point: paronims-propers
+    lesson: 5
+    sentence: "El manual explica com preveure els virus amb un bon antivirus."
+    error: "preveure els virus"
+    fix: "prevenir els virus"
+    fix_distractors:
+      - text: "preveure els antivirus"
+        why: "Els antivirus són l'eina, no allò que s'anuncia."
+      - text: "prevenir els antivirus"
+        why: "Els antivirus són l'eina, no l'amenaça: cal *prevenir els virus*."
+    explanation: "Els virus no s'anuncien: s'impedeixen. *Prevenir* és prendre mesures contra una amenaça."
+
+  - id: b2-58-060
+    type: choice
+    point: antonims-prefixos
+    lesson: 5
+    prompt: "El tractament va ser un fracàs: era totalment ___."
+    answer: "ineficaç"
+    distractors:
+      - text: "deseficaç"
+        why: "No existeix: l'antònim del mot *eficaç* és *ineficaç*."
+      - text: "ineficaços"
+        why: "El subjecte («el tractament») és singular: *ineficaç*."
+    explanation: "«Va ser un fracàs» vol dir que no va funcionar: *ineficaç*."
+
+  - id: b2-58-061
+    type: inline-choice
+    point: antonims-prefixos
+    lesson: 5
+    title: "Consells de seguretat"
+    text: "Fes servir una contrasenya {segura|insegura|desegura} i no la comparteixis amb ningú. {Desconnecta|Connecta|Inconnecta} el wifi quan no el facis servir. No {obris|tanquis|obrint} els adjunts d'adreces desconegudes ni segueixis els {enllaços|enllaç|enllaçs} sospitosos. Les teves {dades|dates|datos} personals no es poden recuperar si les perds sense cap còpia. Tanca la {sessió|sessio|session} del teu compte quan facis servir l'ordinador d'un altre usuari i esborra el correu brossa cada setmana."
+    explanation: "Consells: contrasenya *segura*, *desconnecta* el wifi, no *obris* adjunts ni segueixis *enllaços*, protegeix les *dades* (*dates* són dies; *datos* és castellà), tanca la *sessió* i esborra el correu brossa."
+
+  - id: b2-58-062
+    type: match
+    point: antonims-prefixos
+    lesson: 5
+    instruction: "Relaciona cada paraula amb el seu antònim."
+    pairs:
+      - ["segur", "insegur"]
+      - ["possible", "impossible"]
+      - ["connectar", "desconnectar"]
+      - ["visible", "invisible"]
+      - ["carregar", "descarregar"]
+    explanation: "Són parells d'antònims: *in-* (i les variants *im-*, *il-*, *ir-*) i *des-*."
+
+  - id: b2-58-063
+    type: order
+    point: antonims-prefixos
+    lesson: 5
+    cue: "Digues que la xarxa de la feina és molt poc segura."
+    chunks: ["La xarxa", "de la feina", "és", "molt", "insegura"]
+    extra: ["segura"]
+    answers:
+      - "La xarxa de la feina és molt insegura."
+    explanation: "«Molt poc segura» és *molt insegura*: l'antònim de *segur*."
+
+  - id: b2-58-064
+    type: fill
+    point: antonims-prefixos
+    lesson: 5
+    prompt: "La connexió és molt ___ i les pàgines tarden a carregar."
+    hint: "ESTABLE, antònim amb prefix"
+    answers: ["inestable"]
+    wrong_answers:
+      - text: "desestable"
+        why: "No existeix: l'antònim de *estable* és *inestable*."
+    grading: tolerant
+    explanation: "Si les pàgines tarden, la connexió no és estable: és *inestable*."
+
+  - id: b2-58-065
+    type: fill
+    point: sinonims
+    lesson: 5
+    prompt: "L'___ ha quedat resolt aquest matí."
+    hint: "INCONVENIENT"
+    answers: ["inconvenient"]
+    wrong_answers:
+      - text: "inconvenients"
+        why: "El verb («ha quedat») és singular: *l'inconvenient*."
+    grading: tolerant
+    explanation: "*Inconvenient* és el sinònim formal de *problema*."
+
+  - id: b2-58-066
+    type: find-error
+    point: compte-paronims
+    lesson: 5
+    sentence: "Van assignar dues persones a cada torn."
+    no_error: true
+    explanation: "La frase és correcta: *assignar* és donar una feina a algú."

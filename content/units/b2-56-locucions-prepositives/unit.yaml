@@ -1,0 +1,992 @@
+id: b2-56
+level: B2
+title: "Locucions prepositives"
+summary: "Les locucions de causa, oposició, substitució i temps en el context del transport i la mobilitat."
+vocabulary_theme: "Transport, mobilitat i urbanisme"
+points:
+  - id: causa
+    title: "La causa: a causa de, gràcies a, arran de i amb motiu de"
+    refs:
+      - label: "GEIEC: Les preposicions i les locucions prepositives"
+        url: "https://geiec.iec.cat"
+  - id: substitucio-contrast
+    title: "La substitució, el suport i l'oposició"
+    refs:
+      - label: "GEIEC: Les preposicions i les locucions prepositives"
+        url: "https://geiec.iec.cat"
+  - id: temps-partida
+    title: "El temps: a partir de i a/en"
+    refs:
+      - label: "GEIEC: Les preposicions i les locucions prepositives"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: malgrat i en lloc de"
+    refs:
+      - label: "Optimot: malgrat / a pesar de"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions de moviment"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: la causa i la substitució"
+  - title: "Practicar la causa i la substitució"
+  - title: "El temps i les interferències"
+  - title: "Produir: reescriure frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "l'estació"
+    definition: "Edifici i instal·lacions on s'agafen trens, autobusos o metro."
+    example: "L'estació de Sants és la més gran de Barcelona."
+  - word: "l'andana"
+    definition: "Vora llarga al costat de la via on els passatgers esperen el tren."
+    example: "El tren de Vic surt de l'andana 4."
+  - word: "el bitllet"
+    definition: "Paper o targeta que dona dret a viatjar."
+    example: "He comprat el bitllet de tornada per internet."
+  - word: "l'abonament"
+    definition: "Bitllet que serveix per a molts viatges durant un temps."
+    example: "Amb l'abonament mensual, el metro surt més barat."
+  - word: "el transbord"
+    definition: "Canvi d'un tren o d'una línia a una altra durant el viatge."
+    example: "Per anar a l'aeroport has de fer transbord a Torrassa."
+  - word: "l'enllaç"
+    definition: "Combinació de dos transports que cal agafar seguits per arribar a una destinació."
+    example: "Si perds el primer tren, perds l'enllaç."
+  - word: "la parada"
+    definition: "Lloc marcat on l'autobús o el tramvia s'atura."
+    example: "La parada del bus és davant de la farmàcia."
+  - word: "el tramvia"
+    definition: "Tren curt que circula pels carrers de la ciutat."
+    example: "El tramvia nou arriba fins al barri del port."
+  - word: "l'aeroport"
+    definition: "Lloc amb pistes on surten i arriben els avions."
+    example: "El tren de l'aeroport surt cada mitja hora."
+  - word: "el carril bici"
+    definition: "Part del carrer reservada a les bicicletes."
+    example: "El carril bici nou arriba fins a la platja."
+  - word: "la vorera"
+    definition: "Part del carrer on caminen els vianants."
+    example: "Les voreres d'aquest barri són molt estretes."
+  - word: "el pas de vianants"
+    definition: "Franja de ratlles blanques per on els vianants travessen el carrer."
+    example: "Passa sempre pel pas de vianants."
+  - word: "el semàfor"
+    definition: "Aparell amb llums de colors que regula el pas."
+    example: "El semàfor del cantó no funciona des d'ahir."
+  - word: "la rotonda"
+    definition: "Plaça rodona on els vehicles giren en el mateix sentit."
+    example: "A la rotonda, deixa passar els que ja hi són a dins."
+  - word: "l'embús"
+    definition: "Acumulació de vehicles que no poden avançar."
+    example: "Cada matí hi ha un embús a l'entrada de la ciutat."
+  - word: "l'hora punta"
+    definition: "Moment del dia amb més trànsit o més passatgers."
+    example: "A l'hora punta, el metro va ple."
+  - word: "el peatge"
+    definition: "Diners que es paguen per passar per una autopista o un túnel."
+    example: "El peatge del túnel costa quatre euros."
+  - word: "l'autopista"
+    definition: "Carretera ampla i ràpida amb diversos carrils per sentit."
+    example: "L'autopista de Girona té molt de trànsit els divendres."
+  - word: "el túnel"
+    definition: "Pas subterrani que travessa una muntanya o passa per sota d'una ciutat."
+    example: "El túnel nou escurça el trajecte deu minuts."
+  - word: "el pàrquing"
+    definition: "Lloc on es deixen els cotxes."
+    example: "El pàrquing de l'hospital sempre és ple."
+  - word: "la zona blava"
+    definition: "Carrers on cal pagar per aparcar durant unes hores."
+    example: "A la zona blava pots aparcar dues hores com a màxim."
+  - word: "la multa"
+    definition: "Sanció amb diners per una infracció."
+    example: "Li van posar una multa per aparcar al pas de vianants."
+  - word: "el vianant, la viananta"
+    definition: "Persona que va a peu pel carrer."
+    example: "Els vianants tenen prioritat al pas de vianants."
+  - word: "el conductor, la conductora"
+    definition: "Persona que porta un vehicle."
+    example: "La conductora del bus ens va avisar de la parada."
+  - word: "el ciclista"
+    definition: "Persona que va amb bicicleta."
+    example: "Els ciclistes han de respectar els semàfors."
+  - word: "el passatger, la passatgera"
+    definition: "Persona que va en un vehicle que condueix una altra persona."
+    example: "Els passatgers del darrer vagó no van sentir l'avís."
+  - word: "la línia"
+    definition: "Recorregut fix d'un transport públic."
+    example: "La línia 3 arriba fins a Trinitat Nova."
+  - word: "el trajecte"
+    definition: "Camí que es fa d'un lloc a un altre."
+    example: "El trajecte de casa a la feina és de mitja hora."
+  - word: "el retard"
+    definition: "Arribada més tard de l'hora prevista."
+    example: "El tren porta deu minuts de retard."
+  - word: "la freqüència"
+    definition: "Temps que passa entre un vehicle i el següent."
+    example: "La freqüència del tramvia és de vuit minuts."
+  - word: "el barri"
+    definition: "Part d'una ciutat amb un nom i una vida propis."
+    example: "Al barri de Gràcia hi ha moltes places petites."
+  - word: "la plaça"
+    definition: "Espai obert envoltat de cases, sovint amb bancs i arbres."
+    example: "Els veïns es troben a la plaça cada tarda."
+  - word: "aparcar"
+    definition: "Deixar el cotxe en un lloc fins que es torna a agafar."
+    example: "A l'Eixample és difícil aparcar al vespre."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-56-001
+    type: choice
+    point: causa
+    lesson: 1
+    prompt: "___ la boira espessa, l'autobús de l'aeroport ha arribat amb mitja hora de retard."
+    answer: "A causa de"
+    distractors:
+      - text: "Malgrat"
+        why: "*Malgrat* indica que la boira no ha impedit res. Aquí la boira és la causa del retard: *a causa de*."
+      - text: "En lloc de"
+        why: "*En lloc de* indica substitució. Aquí no se substitueix res: la boira és la causa del retard."
+    explanation: "La boira és la causa d'un fet negatiu, el retard: *a causa de* la boira."
+
+  - id: b2-56-002
+    type: choice
+    point: causa
+    lesson: 1
+    prompt: "___ la línia nova de tramvia, la Carla arriba a la feina deu minuts abans."
+    answer: "Gràcies a"
+    distractors:
+      - text: "Malgrat"
+        why: "*Malgrat* indica oposició. Aquí la línia nova és la causa d'un fet positiu: *gràcies a*."
+      - text: "En comptes de"
+        why: "*En comptes de* indica substitució. Aquí no se substitueix res: la línia és la causa de l'avantatge."
+    explanation: "La línia nova és la causa d'un fet positiu, arribar abans: *gràcies a*."
+
+  - id: b2-56-003
+    type: choice
+    point: causa
+    lesson: 1
+    prompt: "___ l'accident del túnel de Vallvidrera, el trànsit ha quedat tallat durant dues hores."
+    answer: "Arran de"
+    distractors:
+      - text: "Arrel de"
+        why: "*Arrel de* no existeix com a locució. La forma correcta és *arran de*."
+      - text: "En lloc de"
+        why: "*En lloc de* indica substitució. Aquí el tall és la conseqüència de l'accident: *arran de*."
+    explanation: "*Arran de* introdueix el fet que provoca una conseqüència: el tall ve després de l'accident."
+
+  - id: b2-56-004
+    type: choice
+    point: causa
+    lesson: 1
+    prompt: "___ la festa major, el metro funcionarà tota la nit de dissabte."
+    answer: "Amb motiu de"
+    distractors:
+      - text: "En motiu de"
+        why: "La locució és *amb motiu de*, amb la preposició *amb*. *En motiu de* no existeix."
+      - text: "Malgrat"
+        why: "*Malgrat* indica oposició. Aquí la festa és l'ocasió del servei especial: *amb motiu de*."
+    explanation: "*Amb motiu de* presenta l'ocasió d'un fet, sovint en avisos formals: la festa major."
+
+  - id: b2-56-005
+    type: choice
+    point: substitucio-contrast
+    lesson: 1
+    prompt: "El Pau va agafar el tren ___ la furgoneta, perquè no volia aparcar al centre."
+    answer: "en lloc de"
+    distractors:
+      - text: "en lloc a"
+        why: "La locució acaba amb *de*: *en lloc de*. *En lloc a* no existeix."
+      - text: "malgrat"
+        why: "*Malgrat* indica oposició. Aquí el tren substitueix el cotxe: *en lloc de*."
+    explanation: "El tren substitueix el cotxe: *en lloc de*. El context («no volia aparcar») ho confirma."
+
+  - id: b2-56-006
+    type: choice
+    point: substitucio-contrast
+    lesson: 1
+    prompt: "___ cotxe, la Núria hi va anar amb bici pel carril bici nou."
+    answer: "En comptes del"
+    distractors:
+      - text: "En compte del"
+        why: "La locució va en plural: *en comptes de* (amb contracció, *del*)."
+      - text: "A causa del"
+        why: "*A causa de* indica causa. Aquí la bici substitueix el cotxe: *en comptes de*."
+    explanation: "La bici substitueix el cotxe: *en comptes de* (amb contracció, *del*)."
+
+  - id: b2-56-007
+    type: choice
+    point: substitucio-contrast
+    lesson: 1
+    prompt: "___ la pluja forta, l'autobús ha arribat puntual a l'estació."
+    answer: "Malgrat"
+    distractors:
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta preposició davant d'un nom: *malgrat la pluja*. *Malgrat de* no existeix."
+      - text: "A causa de"
+        why: "*A causa de* indica la causa d'un fet negatiu. Aquí el bus arriba puntual, tot i la pluja: *malgrat*."
+    explanation: "La pluja no ha impedit la puntualitat: és una oposició, *malgrat la pluja*."
+
+  - id: b2-56-008
+    type: choice
+    point: substitucio-contrast
+    lesson: 1
+    prompt: "Què vol dir «Van acabar les obres a costa de moltes hores extres»?"
+    answer: "Van acabar les obres gràcies a un gran esforç."
+    distractors:
+      - text: "Van acabar les obres sense gaire esforç."
+        why: "És el contrari: *a costa de* indica que ha calgut un esforç o un sacrifici."
+      - text: "Van pagar les obres amb moltes hores extres."
+        why: "No és un pagament literal: *a costa de* indica l'esforç que ha calgut."
+    explanation: "*A costa de* indica l'esforç o el sacrifici que ha calgut per aconseguir una cosa."
+
+  - id: b2-56-009
+    type: match
+    point: causa
+    lesson: 1
+    instruction: "Relaciona cada locució amb el seu valor."
+    pairs:
+      - ["a causa de", "causa d'un fet negatiu"]
+      - ["gràcies a", "causa d'un fet positiu"]
+      - ["arran de", "conseqüència d'un fet anterior"]
+      - ["amb motiu de", "ocasió d'un acte o servei"]
+    explanation: "Les quatre locucions introdueixen una causa: *a causa de* i *gràcies a* segons si el fet és negatiu o positiu, *arran de* per a la conseqüència i *amb motiu de* per a l'ocasió."
+
+  - id: b2-56-010
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["a peu dret", "sense seure, dret durant el viatge"]
+      - ["de bat a bat", "completament obert"]
+      - ["a tot drap", "a tota velocitat"]
+      - ["perdre el tren", "deixar escapar una oportunitat (repàs)"]
+    explanation: "Són expressions de moviment: *a peu dret* i *a tot drap* parlen del viatge, *de bat a bat* d'obrir del tot i *perdre el tren* d'una oportunitat."
+
+  - id: b2-56-011
+    type: inline-choice
+    point: causa
+    lesson: 1
+    title: "Avís de l'ajuntament"
+    text: "{Amb motiu de|En motiu de|A motiu de} les obres del carrer Major, el bus canviarà de recorregut. {A causa dels|A causa de els|Malgrat els} talls, hi pot haver retards. {Gràcies a|Gràcies de|En gràcies a} la col·laboració dels veïns, les molèsties seran mínimes. Us demanem que agafeu el metro {en lloc de|en lloc a|en compte de} l'autobús."
+    explanation: "En un avís formal, l'ocasió és *amb motiu de*. Els retards venen *a causa dels* talls (amb contracció: *dels*). La col·laboració és positiva: *gràcies a*. El metro substitueix el bus: *en lloc de*."
+
+  - id: b2-56-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «El tren anava a tot drap»?"
+    answer: "El tren anava a tota velocitat."
+    distractors:
+      - text: "El tren anava ple de gom a gom."
+        why: "Això parla de gent, no de velocitat: *a tot drap* indica que anava molt de pressa."
+      - text: "El tren feia molt de soroll."
+        why: "El soroll no hi té res a veure: *a tot drap* indica la velocitat."
+    explanation: "*A tot drap* vol dir a tota velocitat, aprofitant tota la força: el tren anava molt de pressa."
+
+  - id: b2-56-013
+    type: order
+    point: causa
+    lesson: 1
+    cue: "Explica que, per la vaga, els trens van amb retard."
+    chunks: ["A causa de la vaga,", "els trens", "van", "amb retard"]
+    extra: ["Malgrat"]
+    answers:
+      - "A causa de la vaga, els trens van amb retard."
+      - "Els trens van amb retard a causa de la vaga."
+    explanation: "La vaga és la causa del retard: *a causa de*. La locució pot anar al principi (amb coma) o al final."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-56-014
+    type: fill
+    point: causa
+    lesson: 2
+    prompt: "___ la vaga de trens, vam haver d'agafar el cotxe."
+    hint: "locució de causa: A CAUSA DE"
+    answers: ["A causa de"]
+    wrong_answers:
+      - text: "Malgrat"
+        why: "*Malgrat* indica oposició. Aquí la vaga és la causa: *a causa de*."
+    grading: tolerant
+    explanation: "La vaga és la causa d'un fet negatiu, agafar el cotxe: *a causa de*."
+
+  - id: b2-56-015
+    type: fill
+    point: causa
+    lesson: 2
+    prompt: "___ la bici elèctrica nova, l'Ibrahim va a la feina molt més de pressa."
+    hint: "locució de causa positiva: GRÀCIES A"
+    answers: ["Gràcies a"]
+    wrong_answers:
+      - text: "Gràcies de"
+        why: "La locució és *gràcies a*, amb la preposició *a*."
+    grading: tolerant
+    explanation: "La bici nova és la causa d'un fet positiu, anar més de pressa: *gràcies a*."
+
+  - id: b2-56-016
+    type: fill
+    point: causa
+    lesson: 2
+    prompt: "___ l'avaria del semàfor, es va formar un embús llarguíssim."
+    hint: "locució de conseqüència: ARRAN DE"
+    answers: ["Arran de"]
+    wrong_answers:
+      - text: "Arrel de"
+        why: "*Arrel de* no existeix. La locució és *arran de*, en un sol mot."
+    grading: tolerant
+    explanation: "L'embús és la conseqüència de l'avaria: *arran de*."
+
+  - id: b2-56-017
+    type: fill
+    point: causa
+    lesson: 2
+    prompt: "___ les festes de Nadal, els busos nocturns seran gratuïts."
+    hint: "locució d'ocasió: AMB MOTIU DE"
+    answers: ["Amb motiu de"]
+    wrong_answers:
+      - text: "En motiu de"
+        why: "La locució és *amb motiu de*, amb la preposició *amb*."
+    grading: tolerant
+    explanation: "Les festes són l'ocasió del servei gratuït: *amb motiu de*."
+
+  - id: b2-56-018
+    type: fill
+    point: substitucio-contrast
+    lesson: 2
+    prompt: "La Montse va tornar a casa a peu ___ la furgoneta."
+    hint: "locució de substitució: EN LLOC DE"
+    answers: ["en lloc de"]
+    wrong_answers:
+      - text: "en lloc a"
+        why: "La locució acaba amb *de*: *en lloc de*."
+      - text: "en vez de"
+        why: "*En vez de* és castellà. La substitució és *en lloc de*."
+    grading: tolerant
+    explanation: "Tornar a peu substitueix la furgoneta: *en lloc de*."
+
+  - id: b2-56-019
+    type: fill
+    point: substitucio-contrast
+    lesson: 2
+    prompt: "___ la moto, ara el Wei va a la universitat amb tramvia."
+    hint: "locució de substitució: EN COMPTES DE"
+    answers: ["En comptes de"]
+    wrong_answers:
+      - text: "En compte de"
+        why: "La locució va en plural: *en comptes de*."
+    grading: tolerant
+    explanation: "El tramvia substitueix la moto: *en comptes de*."
+
+  - id: b2-56-020
+    type: fill
+    point: substitucio-contrast
+    lesson: 2
+    prompt: "___ el retard del primer tren, vam arribar a l'hora a la reunió."
+    hint: "locució d'oposició: MALGRAT"
+    answers: ["Malgrat"]
+    wrong_answers:
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta preposició davant d'un nom: *malgrat el retard*."
+    grading: tolerant
+    explanation: "El retard no va impedir l'arribada: és una oposició, *malgrat*."
+
+  - id: b2-56-021
+    type: choice
+    point: substitucio-contrast
+    lesson: 2
+    prompt: "Els ciclistes del barri van recollir signatures ___ la nova zona de vianants."
+    answer: "a favor de"
+    distractors:
+      - text: "a favor a"
+        why: "La locució acaba amb *de*: *a favor de*. *A favor a* no existeix."
+      - text: "a costa de"
+        why: "*A costa de* indica un esforç o un sacrifici. Aquí els ciclistes hi donen suport: *a favor de*."
+    explanation: "Recollir signatures és donar suport a una proposta: *a favor de* la nova zona."
+
+  - id: b2-56-022
+    type: choice
+    point: substitucio-contrast
+    lesson: 2
+    prompt: "Van acabar el pont nou a temps ___ moltes nits sense dormir."
+    answer: "a costa de"
+    distractors:
+      - text: "a costa que"
+        why: "La locució acaba amb *de*: *a costa de*. *A costa que* no existeix."
+      - text: "a favor de"
+        why: "*A favor de* indica suport. Aquí no hi ha suport, sinó l'esforç que ha calgut: *a costa de*."
+    explanation: "Acabar a temps va demanar un gran esforç: *a costa de* moltes nits sense dormir."
+
+  - id: b2-56-023
+    type: order
+    point: substitucio-contrast
+    lesson: 2
+    cue: "Digues que la Laia va agafar la bici i no el cotxe."
+    chunks: ["La Laia", "va agafar", "la bici", "en lloc del cotxe"]
+    extra: ["en vez del cotxe"]
+    answers:
+      - "La Laia va agafar la bici en lloc del cotxe."
+      - "En lloc del cotxe, la Laia va agafar la bici."
+    explanation: "La bici substitueix el cotxe: *en lloc de* + nom, amb contracció (*del*)."
+
+  - id: b2-56-024
+    type: order
+    point: substitucio-contrast
+    lesson: 2
+    cue: "Digues que, tot i la boira, el pont va quedar obert."
+    chunks: ["Malgrat", "la boira,", "el pont", "va quedar", "obert"]
+    extra: ["A pesar de"]
+    answers:
+      - "Malgrat la boira, el pont va quedar obert."
+      - "El pont va quedar obert malgrat la boira."
+    explanation: "*Malgrat* + nom indica oposició: la boira no va impedir que el pont quedés obert."
+
+  - id: b2-56-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "—Vau poder seure al tren? —No, vam fer tot el trajecte ___."
+    answer: "a peu dret"
+    distractors:
+      - text: "de bat a bat"
+        why: "*De bat a bat* vol dir completament obert. Aquí parleu de viatjar sense seure: *a peu dret*."
+      - text: "a tot drap"
+        why: "*A tot drap* vol dir a tota velocitat. Aquí parleu de viatjar sense seure: *a peu dret*."
+    explanation: "Viatjar sense seure, dret tot el trajecte, és fer-lo *a peu dret*."
+
+  - id: b2-56-026
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Quan el metro arriba a l'estació, les portes s'obren ___."
+    hint: "expressió: completament, de dalt a baix"
+    answers: ["de bat a bat"]
+    wrong_answers:
+      - text: "a tot drap"
+        why: "*A tot drap* indica velocitat. Les portes s'obren del tot: *de bat a bat*."
+    grading: tolerant
+    explanation: "Obrir-se del tot, sense deixar res tancat: *de bat a bat*."
+
+  - id: b2-56-027
+    type: inline-choice
+    point: substitucio-contrast
+    lesson: 2
+    title: "Obres a la plaça"
+    text: "L'ajuntament vol una plaça sense cotxes. Molts veïns estan {a favor de la plaça|en contra de la plaça|a favor a la plaça}, però els botiguers hi estan en contra. Proposen, {en comptes de|en compte de|en comptes a} tancar la plaça, limitar el trànsit a les nits. {Malgrat|Malgrat de|A pesar de} les protestes, les obres començaran al gener. Els veïns, {en lloc de|en lloc a|en vez de} queixar-se, han proposat un calendari d'obres per fases."
+    explanation: "Els veïns hi donen suport: *a favor de*. La substitució és *en comptes de* (en plural) i *en lloc de*. L'oposició és *malgrat* (sense *de*): *a pesar de* és un calc de «a pesar de»."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-56-028
+    type: choice
+    point: temps-partida
+    lesson: 3
+    prompt: "___ dilluns, el bus de l'aeroport passarà cada deu minuts."
+    answer: "A partir de"
+    distractors:
+      - text: "A partir a"
+        why: "La locució acaba amb *de*: *a partir de*. *A partir a* no existeix."
+      - text: "Arran de"
+        why: "*Arran de* introdueix el fet que provoca una conseqüència. Aquí es marca l'inici d'un horari: *a partir de*."
+    explanation: "El nou horari comença dilluns: el punt de partida és *a partir de* dilluns."
+
+  - id: b2-56-029
+    type: choice
+    point: temps-partida
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "En aquell moment, el barri no tenia cap parada de metro."
+    distractors:
+      - text: "A aquell moment, el barri no tenia cap parada de metro."
+        why: "Amb «moment» i un demostratiu com «aquell», la preposició és *en*, no *a*."
+      - text: "En aquell moments, el barri no tenia cap parada de metro."
+        why: "«Moment» és singular: *en aquell moment*. El plural demana un altre demostratiu: *en aquells moments*."
+    explanation: "Amb «moment» i el demostratiu «aquell», la preposició és *en*: *en aquell moment*."
+
+  - id: b2-56-030
+    type: choice
+    point: temps-partida
+    lesson: 3
+    prompt: "El darrer tramvia passa ___ de la nit."
+    answer: "a les dotze"
+    distractors:
+      - text: "en les dotze"
+        why: "Amb l'hora, la preposició és *a*: *a les dotze*. *En les dotze* no existeix."
+      - text: "a les dotzes"
+        why: "L'hora no porta plural: *a les dotze*, com *a les tres*."
+    explanation: "L'hora es diu amb *a* + article + número: *a les dotze*."
+
+  - id: b2-56-031
+    type: choice
+    point: temps-partida
+    lesson: 3
+    prompt: "L'Ibrahim agafa el bus cada dia ___."
+    answer: "al matí"
+    distractors:
+      - text: "en el matí"
+        why: "Amb les parts del dia, la preposició és *a* amb contracció: *al matí*. *En el matí* és un calc."
+      - text: "en matí"
+        why: "Falta l'article i sobra la preposició: les parts del dia són *al matí*, *a la tarda*, *a la nit*."
+    explanation: "Les parts del dia porten *a*: *al matí*, *a la tarda*, *a la nit*."
+
+  - id: b2-56-032
+    type: fill
+    point: temps-partida
+    lesson: 3
+    prompt: "___ gener, la zona blava serà més cara els dissabtes."
+    hint: "locució de punt de partida: A PARTIR DE, amb l'article que calgui"
+    answers: ["A partir del"]
+    wrong_answers:
+      - text: "A partir de el"
+        why: "*De* + *el* es contreuen sempre: *del*. La forma és *a partir del gener*."
+    grading: tolerant
+    explanation: "El canvi comença al gener: *a partir de* + article, amb contracció (*del*)."
+
+  - id: b2-56-033
+    type: fill
+    point: temps-partida
+    lesson: 3
+    prompt: "___ moment no hi havia cap carril bici a la ciutat."
+    hint: "la preposició i el demostratiu: EN AQUELL"
+    answers: ["En aquell"]
+    wrong_answers:
+      - text: "A aquell"
+        why: "Amb «moment» i un demostratiu, la preposició és *en*: *en aquell moment*."
+    grading: tolerant
+    explanation: "Amb «moment» i el demostratiu «aquell», la preposició és *en*: *en aquell moment*."
+
+  - id: b2-56-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "A pesar de les obres, l'ajuntament va mantenir oberta la rotonda del centre."
+    error: "A pesar de"
+    fix: "Malgrat"
+    fix_distractors:
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta preposició: *malgrat les obres*."
+      - text: "Tot i de"
+        why: "La locució és *tot i* (sense *de*): *tot i les obres*."
+    explanation: "*A pesar de* és un calc de «a pesar de». En català, l'oposició és *malgrat* (o *tot i*)."
+
+  - id: b2-56-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Vam agafar el metro en vez de l'autobús, que anava ple."
+    error: "en vez de"
+    fix: "en lloc de"
+    fix_distractors:
+      - text: "en lloc a"
+        why: "La locució acaba amb *de*: *en lloc de*."
+      - text: "en compte de"
+        why: "La forma en plural és *en comptes de*. *En compte de* no existeix."
+    explanation: "*En vez de* és castellà. En català, la substitució és *en lloc de* (o *en comptes de*)."
+
+  - id: b2-56-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El pont va quedar obert a pesar de que hi havia molta boira."
+    error: "a pesar de que"
+    fix: "malgrat que"
+    fix_distractors:
+      - text: "malgrat de que"
+        why: "*Malgrat* no porta mai *de*: *malgrat que hi havia boira*."
+      - text: "a causa que"
+        why: "La boira no és la causa que el pont quedés obert, sinó l'obstacle: l'oposició és *malgrat que*."
+    explanation: "*A pesar de* és un calc de «a pesar de». Davant d'una frase amb *que*, la forma és *malgrat que*."
+
+  - id: b2-56-037
+    type: find-error
+    point: substitucio-contrast
+    lesson: 3
+    sentence: "En compte de retallar el servei, l'ajuntament posarà més busos."
+    error: "En compte de"
+    fix: "En comptes de"
+    fix_distractors:
+      - text: "En comptes a"
+        why: "La locució acaba amb *de*: *en comptes de*."
+      - text: "En compte a"
+        why: "La locució és *en comptes de*, en plural i amb *de*."
+    explanation: "La locució de substitució va en plural: *en comptes de*. *En compte de* no existeix."
+
+  - id: b2-56-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "Malgrat el canvi d'andana, vam arribar a temps per agafar l'enllaç."
+    no_error: true
+    explanation: "La frase és correcta: *malgrat* + nom indica que el canvi no va impedir l'enllaç."
+
+  - id: b2-56-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "En lloc del cotxe, ara el Pau va a la feina amb tramvia."
+    no_error: true
+    explanation: "La frase és correcta: *en lloc de* (amb contracció, *del*) indica que el tramvia substitueix el cotxe."
+
+  - id: b2-56-040
+    type: choice
+    point: compte-castella
+    lesson: 3
+    prompt: "___ que plovia molt, les obres de l'autopista van continuar."
+    answer: "Malgrat"
+    distractors:
+      - text: "A pesar de"
+        why: "*A pesar de* és un calc de «a pesar de». Davant d'una frase amb *que*, la forma és *malgrat que*."
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta mai *de*, ni davant d'un nom ni davant de *que*."
+    explanation: "Davant d'una frase amb *que*, l'oposició és *malgrat que*. *A pesar de* és un calc del castellà."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-56-041
+    type: transform
+    point: causa
+    lesson: 4
+    instruction: "Reescriu la frase amb «a causa de»."
+    source: "Vam perdre l'enllaç [[perquè hi havia vaga de trens]]."
+    answers:
+      - "Vam perdre l'enllaç a causa de la vaga de trens."
+      - "A causa de la vaga de trens, vam perdre l'enllaç."
+    wrong_answers:
+      - text: "Vam perdre l'enllaç malgrat la vaga de trens."
+        why: "*Malgrat* indica oposició. Aquí la vaga és la causa de perdre l'enllaç: *a causa de*."
+    grading: tolerant
+    explanation: "La vaga és la causa de perdre l'enllaç: *a causa de* + nom."
+
+  - id: b2-56-042
+    type: transform
+    point: causa
+    lesson: 4
+    instruction: "Reescriu la frase amb «gràcies a»."
+    source: "No vam perdre l'enllaç [[perquè el conductor ens va avisar]]."
+    answers:
+      - "No vam perdre l'enllaç gràcies a l'avís del conductor."
+      - "Gràcies a l'avís del conductor, no vam perdre l'enllaç."
+    wrong_answers:
+      - text: "No vam perdre l'enllaç gràcies de l'avís del conductor."
+        why: "La locució és *gràcies a*, amb la preposició *a*."
+    grading: tolerant
+    explanation: "L'avís és la causa d'un fet positiu, no perdre l'enllaç: *gràcies a*."
+
+  - id: b2-56-043
+    type: transform
+    point: substitucio-contrast
+    lesson: 4
+    instruction: "Substitueix la part marcada per «malgrat»."
+    source: "[[Tot i la boira]], l'autobús ha arribat puntual."
+    answers: ["Malgrat la boira, l'autobús ha arribat puntual."]
+    wrong_answers:
+      - text: "Malgrat de la boira, l'autobús ha arribat puntual."
+        why: "*Malgrat* no porta preposició: *malgrat la boira*."
+    grading: tolerant
+    explanation: "*Tot i* i *malgrat* expressen oposició: la boira no ha impedit la puntualitat."
+
+  - id: b2-56-044
+    type: transform
+    point: substitucio-contrast
+    lesson: 4
+    instruction: "Substitueix la part marcada per «en lloc de»."
+    source: "[[En comptes d'agafar el bus]], la Laia hi ha anat caminant."
+    answers: ["En lloc d'agafar el bus, la Laia hi ha anat caminant."]
+    wrong_answers:
+      - text: "En lloc de agafar el bus, la Laia hi ha anat caminant."
+        why: "*De* s'apostrofa davant de vocal: *en lloc d'agafar*."
+    grading: tolerant
+    explanation: "*En comptes de* i *en lloc de* són equivalents: la Laia ha substituït el bus per anar a peu."
+
+  - id: b2-56-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "[[A pesar del]] retard, vam arribar a l'hora de la reunió."
+    answers:
+      - "Malgrat el retard, vam arribar a l'hora de la reunió."
+      - "Tot i el retard, vam arribar a l'hora de la reunió."
+    wrong_answers:
+      - text: "Malgrat del retard, vam arribar a l'hora de la reunió."
+        why: "*Malgrat* no porta cap preposició: *malgrat el retard*."
+    grading: tolerant
+    explanation: "*A pesar de* és un calc de «a pesar de». L'oposició és *malgrat* o *tot i* + nom, sense preposició."
+
+  - id: b2-56-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Vam agafar el tramvia [[en vez del]] metro, que anava amb retard."
+    answers:
+      - "Vam agafar el tramvia en lloc del metro, que anava amb retard."
+      - "Vam agafar el tramvia en comptes del metro, que anava amb retard."
+    grading: tolerant
+    explanation: "*En vez de* és castellà. La substitució és *en lloc de* (o *en comptes de*), amb contracció (*del*)."
+
+  - id: b2-56-047
+    type: fill
+    point: substitucio-contrast
+    lesson: 4
+    prompt: "La majoria dels comerciants estan ___ nou pas de vianants del carrer Major."
+    hint: "locució de suport: A FAVOR DE, amb l'article que calgui"
+    answers: ["a favor del"]
+    wrong_answers:
+      - text: "a favor de el"
+        why: "*De* + *el* es contreuen sempre: *del*. La forma és *a favor del nou pas*."
+    grading: tolerant
+    explanation: "Els comerciants hi donen suport: *a favor de* + article, amb contracció (*del*)."
+
+  - id: b2-56-048
+    type: fill
+    point: substitucio-contrast
+    lesson: 4
+    prompt: "L'obra es va acabar a temps, però ___ la multa rècord per excés de soroll."
+    hint: "locució d'esforç o sacrifici: A COSTA DE"
+    answers: ["a costa de"]
+    wrong_answers:
+      - text: "a costa que"
+        why: "La locució acaba amb *de*: *a costa de*."
+    grading: tolerant
+    explanation: "Acabar a temps va tenir un preu, la multa rècord: *a costa de*."
+
+  - id: b2-56-049
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "El tren anava ___ i vam arribar al transbord sense córrer."
+    hint: "expressió: a tota velocitat"
+    answers: ["a tot drap"]
+    grading: tolerant
+    explanation: "Anar molt de pressa, a tota velocitat: *a tot drap*."
+
+  - id: b2-56-050
+    type: order
+    point: temps-partida
+    lesson: 4
+    cue: "Digues que, des de dilluns, el bus passa cada deu minuts."
+    chunks: ["A partir de dilluns,", "el bus", "passa", "cada deu minuts"]
+    extra: ["A partir a dilluns"]
+    answers:
+      - "A partir de dilluns, el bus passa cada deu minuts."
+      - "El bus passa cada deu minuts a partir de dilluns."
+    explanation: "El nou horari comença dilluns: *a partir de*. La locució pot anar al principi (amb coma) o al final."
+
+  - id: b2-56-051
+    type: order
+    point: expressions
+    lesson: 4
+    cue: "Digues que ahir al vespre vas fer tot el trajecte sense seure."
+    chunks: ["Ahir al vespre", "vaig fer", "tot el trajecte", "a peu dret"]
+    extra: ["de bat a bat"]
+    answers:
+      - "Ahir al vespre vaig fer tot el trajecte a peu dret."
+      - "Vaig fer tot el trajecte a peu dret ahir al vespre."
+    explanation: "Viatjar sense seure és fer el trajecte *a peu dret*."
+
+  - id: b2-56-052
+    type: transform
+    point: temps-partida
+    lesson: 4
+    instruction: "Reescriu la frase amb «a partir de»."
+    source: "[[Des de]] dilluns, el pàrquing de l'estació serà de pagament."
+    answers:
+      - "A partir de dilluns, el pàrquing de l'estació serà de pagament."
+      - "El pàrquing de l'estació serà de pagament a partir de dilluns."
+    grading: tolerant
+    explanation: "El canvi comença dilluns: el punt de partida és *a partir de*."
+
+  - id: b2-56-053
+    type: inline-choice
+    point: temps-partida
+    lesson: 4
+    title: "Canvis a la línia 3"
+    text: "{A partir de|Apartir de|A partir a} dilluns, els trens sortiran {a|en|de} les sis del matí. {En|A|Amb} aquell moment, la freqüència serà de cinc minuts. La parada nova obrirà {al|en el|a el} matí de divendres."
+    explanation: "El punt de partida és *a partir de* (en tres mots). L'hora és *a les sis*. Amb «moment» i un demostratiu, *en aquell moment*. Les parts del dia són *al matí* (amb contracció)."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-56-054
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un barri sense cotxes"
+    text: |
+      Fa dos anys, els veïns del barri de Sant Pere van demanar a l'ajuntament que tanqués el carrer Major als cotxes. Arran d'aquella petició, el consistori va posar en marxa una prova de sis mesos: només els autobusos, les bicicletes i els vianants podien passar pel centre. Amb motiu de la prova, es van instal·lar bancs nous, es va pintar un carril bici, es van eixamplar les voreres i es va obrir una parada de tramvia a la plaça.
+
+      Al principi hi va haver queixes. A causa de les obres, els comerciants van perdre clients durant les primeres setmanes i alguns van amenaçar de tancar. Malgrat aquest mal començament, l'ajuntament no va retirar el projecte. Gràcies a una campanya d'informació i a diversos descomptes en l'abonament mensual, els veïns van començar a deixar el cotxe a casa.
+
+      En lloc del cotxe, ara molts agafen el tramvia o van a peu. La Laia, que viu al carrer Nou, explica que abans trigava vint minuts a aparcar i ara arriba a la feina en un quart d'hora caminant. El seu veí, en Jordi, reconeix que al principi hi estava en contra, però que ara hi està a favor: «En aquell moment no m'ho creia, però el barri ha guanyat molt», diu.
+
+      A partir del gener, la prova es convertirà en definitiva. El consistori calcula que el trànsit ha baixat un 30 % i que la contaminació s'ha reduït a la meitat. Tot i això, encara cal resoldre un problema: a l'hora punta, el tramvia va tan ple que molts passatgers han de fer el trajecte a peu dret.
+    questions:
+      - prompt: "Què va provocar la prova del carrer Major?"
+        answer: "Una petició dels veïns per tancar el carrer als cotxes."
+        distractors:
+          - text: "Les queixes dels comerciants per les obres."
+            why: "Els comerciants es van queixar després, quan van començar les obres."
+          - text: "Una campanya per vendre abonaments mensuals."
+            why: "La campanya va venir després, per animar els veïns a deixar el cotxe."
+      - prompt: "Per què van protestar els comerciants al principi?"
+        answer: "Perquè les obres els van fer perdre clients."
+        distractors:
+          - text: "Perquè volien tancar el carrer per sempre."
+            why: "Tancar el carrer ho van demanar els veïns; els comerciants van perdre clients."
+          - text: "Perquè el tramvia no arribava a la plaça."
+            why: "Amb la prova es va obrir una parada de tramvia a la plaça."
+      - prompt: "Què diu en Jordi del projecte?"
+        answer: "Que abans hi estava en contra i ara hi està a favor."
+        distractors:
+          - text: "Que encara hi està en contra."
+            why: "Ara hi està a favor: «el barri ha guanyat molt»."
+          - text: "Que triga més a arribar a la feina."
+            why: "És la Laia qui explica com arriba a la feina: en un quart d'hora caminant."
+      - prompt: "Quin problema queda per resoldre?"
+        answer: "Que el tramvia va massa ple a l'hora punta."
+        distractors:
+          - text: "Que el trànsit no ha baixat gens."
+            why: "El trànsit ha baixat un 30 %."
+          - text: "Que els veïns no fan servir l'abonament."
+            why: "Els descomptes en l'abonament van ajudar; el problema és el tramvia ple."
+    explanation: "El text explica com una prova de tancar un carrer als cotxes es convertirà en definitiva."
+
+  - id: b2-56-055
+    type: choice
+    point: causa
+    lesson: 5
+    prompt: "___ les festes de primavera, hi haurà busos especials tota la nit."
+    answer: "Amb motiu de"
+    distractors:
+      - text: "En motiu de"
+        why: "La locució és *amb motiu de*, amb la preposició *amb*."
+      - text: "Malgrat"
+        why: "*Malgrat* indica oposició. Aquí les festes són l'ocasió del servei especial: *amb motiu de*."
+    explanation: "Les festes són l'ocasió del servei especial: *amb motiu de*."
+
+  - id: b2-56-056
+    type: choice
+    point: compte-castella
+    lesson: 5
+    prompt: "___ que el bitllet és car, el tren de l'aeroport sempre va ple."
+    answer: "Malgrat"
+    distractors:
+      - text: "A pesar de"
+        why: "*A pesar de* és un calc de «a pesar de». La forma és *malgrat que el bitllet és car*."
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta mai *de*: *malgrat que el bitllet és car*."
+    explanation: "El preu no impedeix que el tren vagi ple: és una oposició, *malgrat que*."
+
+  - id: b2-56-057
+    type: fill
+    point: substitucio-contrast
+    lesson: 5
+    prompt: "___ la línia 1, que estava tallada, vam haver d'agafar dos autobusos."
+    hint: "locució de substitució: EN LLOC DE"
+    answers: ["En lloc de"]
+    wrong_answers:
+      - text: "En vez de"
+        why: "*En vez de* és castellà. La substitució és *en lloc de*."
+    grading: tolerant
+    explanation: "Els autobusos van substituir la línia tallada: *en lloc de*."
+
+  - id: b2-56-058
+    type: fill
+    point: substitucio-contrast
+    lesson: 5
+    prompt: "___ la boira espessa, tots els vols han sortit a l'hora."
+    hint: "locució d'oposició: MALGRAT"
+    answers: ["Malgrat"]
+    wrong_answers:
+      - text: "A pesar de"
+        why: "*A pesar de* és un calc de «a pesar de». L'oposició és *malgrat*."
+    grading: tolerant
+    explanation: "La boira no ha impedit les sortides: és una oposició, *malgrat*."
+
+  - id: b2-56-059
+    type: find-error
+    point: causa
+    lesson: 5
+    sentence: "Arrel de les obres, la parada del bus s'ha traslladat a la plaça."
+    error: "Arrel de"
+    fix: "Arran de"
+    fix_distractors:
+      - text: "A ran de"
+        why: "*Arran* s'escriu en un sol mot: *arran de les obres*."
+      - text: "En arran de"
+        why: "La locució no porta cap preposició davant: *arran de*."
+    explanation: "La locució de conseqüència és *arran de*, en un sol mot. *Arrel de* no existeix."
+
+  - id: b2-56-060
+    type: find-error
+    point: causa
+    lesson: 5
+    sentence: "A causa del peatge, molts conductors agafen el tren per anar a Barcelona."
+    no_error: true
+    explanation: "La frase és correcta: *a causa de* (amb contracció, *del*) indica que el peatge és la causa."
+
+  - id: b2-56-061
+    type: find-error
+    point: temps-partida
+    lesson: 5
+    sentence: "A partir del març, el bitllet senzill serà més car."
+    no_error: true
+    explanation: "La frase és correcta: *a partir de* (amb contracció, *del*) marca quan comença el canvi."
+
+  - id: b2-56-062
+    type: order
+    point: causa
+    lesson: 5
+    cue: "Digues que, per sort, l'avís del conductor us va salvar l'enllaç."
+    chunks: ["Gràcies a", "l'avís del conductor,", "no vam perdre", "l'enllaç"]
+    extra: ["Gràcies de"]
+    answers:
+      - "Gràcies a l'avís del conductor, no vam perdre l'enllaç."
+      - "No vam perdre l'enllaç gràcies a l'avís del conductor."
+    explanation: "L'avís és la causa d'un fet positiu: *gràcies a*. La locució pot anar al principi o al final."
+
+  - id: b2-56-063
+    type: match
+    point: substitucio-contrast
+    lesson: 5
+    instruction: "Relaciona cada principi de frase amb el seu final."
+    pairs:
+      - ["A causa de la vaga de trens,", "vaig haver d'agafar el cotxe."]
+      - ["Gràcies a l'avís del conductor,", "no vam perdre l'enllaç."]
+      - ["Malgrat la boira,", "l'autobús va arribar puntual."]
+      - ["A favor del carril bici nou,", "es van recollir dues mil signatures."]
+      - ["En lloc del cotxe,", "ara agafa el tramvia."]
+    explanation: "Cada locució demana el seu context: la causa (*a causa de*, *gràcies a*), l'oposició (*malgrat*), el suport (*a favor de*) i la substitució (*en lloc de*)."
+
+  - id: b2-56-064
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "A l'estiu, a casa l'àvia, dormíem amb les finestres obertes ___."
+    answer: "de bat a bat"
+    distractors:
+      - text: "a tot drap"
+        why: "*A tot drap* vol dir a tota velocitat. Aquí parleu d'obrir del tot: *de bat a bat*."
+      - text: "a peu dret"
+        why: "*A peu dret* vol dir sense seure. Aquí parleu d'obrir del tot: *de bat a bat*."
+    explanation: "Obert del tot, sense deixar res tancat: *de bat a bat*."
+
+  - id: b2-56-065
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "El vagó anava ple i vam fer tot el viatge ___."
+    hint: "expressió: sense seure, drets"
+    answers: ["a peu dret"]
+    grading: tolerant
+    explanation: "Viatjar sense seure, dret tot el trajecte: *a peu dret*."
+
+  - id: b2-56-066
+    type: transform
+    point: expressions
+    lesson: 5
+    instruction: "Substitueix la part marcada per l'expressió corresponent."
+    source: "El tren avançava [[a tota velocitat]] cap a Tarragona."
+    answers: ["El tren avançava a tot drap cap a Tarragona."]
+    wrong_answers:
+      - text: "El tren avançava a tot draps cap a Tarragona."
+        why: "L'expressió és *a tot drap*, en singular."
+    grading: tolerant
+    explanation: "Avançar a tota velocitat és anar *a tot drap*."

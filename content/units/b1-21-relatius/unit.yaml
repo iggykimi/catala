@@ -1,0 +1,1047 @@
+id: b1-21
+level: B1
+title: "Els relatius: que, on i els relatius amb preposició"
+summary: "Aprens els relatius *que* (subjecte i complement directe) i *on* (lloc), les formes amb preposició (*de què*, *amb qui*, *el qual*) i l'error típic *del que*."
+vocabulary_theme: "Feina i professions"
+points:
+  - id: relatiu-que
+    title: "El relatiu *que*: subjecte i complement directe"
+    refs:
+      - label: "GEIEC: Els relatius"
+        url: "https://geiec.iec.cat"
+  - id: relatiu-on
+    title: "El relatiu *on*: el lloc"
+    refs:
+      - label: "GEIEC: Els relatius"
+        url: "https://geiec.iec.cat"
+  - id: relatiu-preposicio
+    title: "Preposició + *què*/*qui* i *el qual*"
+    refs:
+      - label: "GEIEC: Els relatius"
+        url: "https://geiec.iec.cat"
+  - id: compte-castella
+    title: "Compte amb el castellà: *del que* → *de què*"
+  - id: expressions
+    title: "Expressions de la feina"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: *que* i *on*"
+  - title: "Practicar *que* i *on*"
+  - title: "Preposició + *què*/*qui* i interferències"
+  - title: "Produir: tot junt"
+  - title: "Repàs mesclat i lectura"
+vocabulary:
+  - word: "la feina"
+    definition: "Allò que fas per guanyar diners."
+    example: "Va trobar feina en una escola de Vic."
+  - word: "la professió"
+    definition: "Feina per a la qual cal una formació."
+    example: "La seva professió és mestra."
+  - word: "l'ofici"
+    definition: "Professió manual que s'aprèn amb la pràctica."
+    example: "El seu ofici és fuster."
+  - word: "el contracte"
+    definition: "Document que explica les condicions d'una feina."
+    example: "Va signar el contracte dilluns passat."
+  - word: "el sou"
+    definition: "Diners que reps cada mes per la feina."
+    example: "Amb aquest sou no arriba a final de mes."
+  - word: "la nòmina"
+    definition: "Paper que diu quant has cobrat i què t'han descomptat."
+    example: "Mira la nòmina: hi ha un error."
+  - word: "l'entrevista"
+    definition: "Conversa per saber si ets adequat per a una feina."
+    example: "Tinc una entrevista demà a les deu."
+  - word: "el currículum"
+    definition: "Document amb la teva formació i experiència."
+    example: "Envia el currículum per correu electrònic."
+  - word: "l'empresa"
+    definition: "Organització on treballa la gent."
+    example: "L'empresa té cent treballadors."
+  - word: "el despatx"
+    definition: "Habitació on treballa una persona, en una oficina."
+    example: "La Núria té despatx propi."
+  - word: "l'oficina"
+    definition: "Lloc amb taules i ordinadors on es fa feina d'administració."
+    example: "L'oficina tanca a les sis."
+  - word: "la fàbrica"
+    definition: "Edifici gran on es fan productes."
+    example: "La fàbrica fa mobles de fusta."
+  - word: "el taller"
+    definition: "Lloc on es reparen cotxes i màquines."
+    example: "Va portar el cotxe al taller."
+  - word: "el magatzem"
+    definition: "Lloc gran on es guarden productes i materials."
+    example: "El magatzem és al polígon."
+  - word: "el client, la clienta"
+    definition: "Persona que compra o rep un servei."
+    example: "Aquest client ve cada setmana."
+  - word: "el cap, la cap"
+    definition: "Persona que mana en una feina."
+    example: "El meu cap em va demanar l'informe."
+  - word: "el company, la companya"
+    definition: "Persona que treballa amb tu."
+    example: "La meva companya m'ajuda molt."
+  - word: "la jornada"
+    definition: "Hores de feina d'un dia."
+    example: "Fa jornada completa: vuit hores."
+  - word: "el torn"
+    definition: "Part del dia en què treballes: matí, tarda o nit."
+    example: "Aquesta setmana faig torn de nit."
+  - word: "les hores extres"
+    definition: "Hores de feina que passen de la jornada normal."
+    example: "Aquest mes he fet deu hores extres."
+  - word: "la baixa"
+    definition: "Temps sense anar a la feina per malaltia."
+    example: "Està de baixa des de dilluns."
+  - word: "les vacances"
+    definition: "Dies de descans pagats, sense anar a la feina."
+    example: "A l'agost faig vacances."
+  - word: "la jubilació"
+    definition: "Final de la vida laboral, per l'edat."
+    example: "Es prepara per a la jubilació."
+  - word: "la reunió"
+    definition: "Trobada per parlar de feina."
+    example: "La reunió és a les nou."
+  - word: "el projecte"
+    definition: "Pla de feina amb un objectiu i un termini."
+    example: "El projecte nou és molt interessant."
+  - word: "el termini"
+    definition: "Dia màxim per acabar una feina."
+    example: "El termini és divendres."
+  - word: "la tasca"
+    definition: "Feina petita i concreta que has de fer."
+    example: "La primera tasca és llegir el correu."
+  - word: "l'encàrrec"
+    definition: "Feina que algú et demana que facis."
+    example: "Tinc un encàrrec urgent del cap."
+  - word: "el becari, la becària"
+    definition: "Persona jove que aprèn un ofici en una empresa."
+    example: "La becària porta les factures."
+  - word: "el funcionari, la funcionària"
+    definition: "Persona que treballa per a l'administració."
+    example: "El seu pare és funcionari a l'ajuntament."
+  - word: "l'autònom, l'autònoma"
+    definition: "Persona que treballa per compte propi, sense cap."
+    example: "Com a autònoma, factura cada mes."
+  - word: "l'atur"
+    definition: "Situació de no tenir feina, quan en vols tenir."
+    example: "Després de dos anys a l'atur, va trobar feina."
+  - word: "contractar"
+    definition: "Donar feina a una persona."
+    example: "Han contractat dos dependents nous."
+  - word: "acomadiar"
+    definition: "Prendre la feina a una persona."
+    example: "Van acomiadar deu treballadors."
+  - word: "jubilar-se"
+    definition: "Deixar de treballar per l'edat."
+    example: "Es va jubilar als seixanta anys."
+  - word: "dimitir"
+    definition: "Deixar un càrrec per decisió pròpia."
+    example: "El director va dimitir al gener."
+items:
+  # ---------------- Lliçó 1 ----------------
+  - id: b1-21-001
+    type: choice
+    point: relatiu-que
+    lesson: 1
+    prompt: "El company ___ parla anglès és l'Arnau."
+    answer: "que"
+    distractors:
+      - text: "què"
+        why: "*Què* amb accent només va darrere d'una preposició o en preguntes. Aquí el relatiu no porta preposició: *que*."
+      - text: "on"
+        why: "*On* és per a un lloc. «El company» és una persona: *que*."
+      - text: "el que"
+        why: "Amb un nom davant («el company»), el relatiu és *que*, sense article."
+    explanation: "«El company» és el subjecte de «parla»: el relatiu és *que*, sense accent ni article."
+
+  - id: b1-21-002
+    type: choice
+    point: relatiu-que
+    lesson: 1
+    prompt: "El programa ___ gestiona les nòmines no funciona."
+    answer: "que"
+    distractors:
+      - text: "qui"
+        why: "*Qui* sense preposició no va amb un nom de cosa. «El programa» és una cosa: *que*."
+      - text: "què"
+        why: "*Què* necessita una preposició davant («de què», «amb què»). Aquí no n'hi ha cap: *que*."
+      - text: "on"
+        why: "*On* és per a un lloc. «El programa» és una cosa: *que*."
+    explanation: "«El programa» fa l'acció de «gestiona»: és el subjecte, i el relatiu és *que*."
+
+  - id: b1-21-003
+    type: choice
+    point: relatiu-que
+    lesson: 1
+    prompt: "La candidata ___ vam entrevistar ahir comença dilluns."
+    answer: "que"
+    distractors:
+      - text: "què"
+        why: "*Què* necessita una preposició. Aquí el verb «vam entrevistar» no en porta cap: *que*."
+      - text: "on"
+        why: "*On* és per a un lloc. «La candidata» és una persona: *que*."
+      - text: "el que"
+        why: "«La candidata» ja porta article: el relatiu és *que*, sense cap altre article."
+    explanation: "«La candidata» és el complement directe de «vam entrevistar»: el relatiu és *que*."
+
+  - id: b1-21-004
+    type: choice
+    point: relatiu-que
+    lesson: 1
+    prompt: "El contracte ___ vaig signar era de sis mesos."
+    answer: "que"
+    distractors:
+      - text: "qui"
+        why: "«El contracte» és una cosa, i *qui* és per a persones: *que*."
+      - text: "què"
+        why: "*Què* necessita una preposició davant. Aquí no n'hi ha: *que*."
+      - text: "on"
+        why: "*On* és per a un lloc. «El contracte» és una cosa: *que*."
+    explanation: "«El contracte» és el complement directe de «vaig signar»: el relatiu és *que*."
+
+  - id: b1-21-005
+    type: choice
+    point: relatiu-que
+    lesson: 1
+    prompt: "Els clients ___ venen al matí sempre tenen pressa."
+    answer: "que"
+    distractors:
+      - text: "què"
+        why: "*Què* amb accent necessita una preposició («de què»). Aquí el relatiu va sol: *que*."
+      - text: "on"
+        why: "«Els clients» són persones, no un lloc: *on* no hi va."
+      - text: "els que"
+        why: "El nom («els clients») ja hi és: el relatiu és *que*, sense cap article."
+    explanation: "«Els clients» és el subjecte de «venen»: el relatiu és *que*, igual en singular i en plural."
+
+  - id: b1-21-006
+    type: choice
+    point: relatiu-on
+    lesson: 1
+    prompt: "L'oficina ___ treballo és al centre de Girona."
+    answer: "on"
+    distractors:
+      - text: "qui"
+        why: "*Qui* és per a persones. «L'oficina» és un lloc: *on*."
+      - text: "què"
+        why: "*Què* necessita una preposició. Aquí el relatiu va sol i és de lloc: *on*."
+      - text: "quan"
+        why: "*Quan* és per al temps. «L'oficina» és un lloc: *on*."
+    explanation: "«L'oficina» és el lloc on passa l'acció: el relatiu de lloc és *on*."
+
+  - id: b1-21-007
+    type: choice
+    point: relatiu-on
+    lesson: 1
+    prompt: "El poble ___ va néixer el meu avi és molt petit."
+    answer: "on"
+    distractors:
+      - text: "qui"
+        why: "«El poble» és un lloc, no una persona: *qui* no hi va."
+      - text: "què"
+        why: "*Què* necessita una preposició davant. El relatiu de lloc sense preposició és *on*."
+      - text: "quan"
+        why: "«El poble» és un lloc, no un moment: *quan* no hi va."
+    explanation: "«El poble» és el lloc on va néixer: el relatiu és *on*."
+
+  - id: b1-21-008
+    type: inline-choice
+    point: relatiu-que
+    lesson: 1
+    title: "Una oferta de feina"
+    text: "La Carla ha trobat una oferta {que|qui|què} li agrada molt. És d'una empresa {on|qui|quan} fan programes per a hospitals. L'oficina {on|qui|quan} treballaria és a Mataró. El sou {que|on|qui} ofereixen és bo, i l'horari {que|quan|on} proposen li va bé. Diuen que no hi ha gaires hores extres. Si la contracten, començarà al juliol."
+    explanation: "*Que* va amb el subjecte i el complement directe («oferta», «sou», «horari»); *on*, amb el lloc («empresa», «oficina»)."
+
+  - id: b1-21-009
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["qui dia passa, any empeny", "el temps passa de pressa"]
+      - ["cadascú a casa seva", "cadascú ha de fer la seva feina"]
+      - ["guanyar-se la vida", "treballar per tenir diners"]
+      - ["fer carrera", "progressar en una professió"]
+    explanation: "Són quatre expressions per parlar de la feina i del temps: fixa't en quina va amb cada situació."
+
+  - id: b1-21-010
+    type: fill
+    point: relatiu-que
+    lesson: 1
+    prompt: "El torn ___ faig jo és el de nit."
+    hint: "relatiu per a «el torn»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "*Què* amb accent necessita una preposició. Aquí el relatiu va sol: *que*."
+    grading: strict
+    explanation: "«El torn» és el complement directe de «faig»: el relatiu és *que*, sense accent."
+
+  - id: b1-21-011
+    type: fill
+    point: relatiu-que
+    lesson: 1
+    prompt: "La companya ___ m'ajuda sempre es diu Fàtima."
+    hint: "relatiu per a «la companya»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "*Què* necessita una preposició davant. Aquí no n'hi ha cap: *que*."
+    grading: strict
+    explanation: "«La companya» és el subjecte de «m'ajuda»: el relatiu és *que*."
+
+  - id: b1-21-012
+    type: order
+    point: relatiu-que
+    lesson: 1
+    cue: "Digues que el teu contracte acaba al juny."
+    chunks: ["el contracte", "que", "tinc", "acaba", "al juny"]
+    extra: ["què"]
+    answers:
+      - "El contracte que tinc acaba al juny."
+      - "Al juny el contracte que tinc acaba."
+    explanation: "El relatiu *que* va just darrere del nom («el contracte»): *el contracte que tinc*."
+
+  - id: b1-21-013
+    type: order
+    point: relatiu-on
+    lesson: 1
+    cue: "Digues que el taller on treballes és molt gran."
+    chunks: ["el taller", "on", "treballo", "és", "molt gran"]
+    extra: ["quan"]
+    answers:
+      - "El taller on treballo és molt gran."
+    explanation: "*On* va just darrere del nom de lloc («el taller»): *el taller on treballo*."
+
+  # ---------------- Lliçó 2 ----------------
+  - id: b1-21-014
+    type: choice
+    point: relatiu-que
+    lesson: 2
+    prompt: "Els informes ___ has d'enviar són a la taula."
+    answer: "que"
+    distractors:
+      - text: "qui"
+        why: "«Els informes» són coses, no persones: *qui* no hi va."
+      - text: "què"
+        why: "Sense preposició, el relatiu és *que*, sense accent."
+      - text: "on"
+        why: "«Els informes» no són un lloc: el relatiu és *que*."
+    explanation: "«Els informes» és el complement directe de «has d'enviar»: el relatiu és *que*."
+
+  - id: b1-21-015
+    type: choice
+    point: relatiu-que
+    lesson: 2
+    prompt: "La becària ___ porta les factures és nova."
+    answer: "que"
+    distractors:
+      - text: "què"
+        why: "*Què* necessita una preposició. Aquí no n'hi ha cap: *que*."
+      - text: "on"
+        why: "«La becària» és una persona, no un lloc: *que*."
+      - text: "la que"
+        why: "Amb el nom davant («la becària»), el relatiu és *que*, sense article."
+    explanation: "«La becària» és el subjecte de «porta»: el relatiu és *que*."
+
+  - id: b1-21-016
+    type: choice
+    point: relatiu-on
+    lesson: 2
+    prompt: "El despatx ___ treballa la Núria té molta llum."
+    answer: "on"
+    distractors:
+      - text: "qui"
+        why: "«El despatx» és un lloc, no una persona."
+      - text: "què"
+        why: "El relatiu de lloc sense preposició és *on*, no *què*."
+      - text: "quan"
+        why: "«El despatx» és un lloc, no un moment."
+    explanation: "«El despatx» és el lloc on treballa: el relatiu és *on*."
+
+  - id: b1-21-017
+    type: choice
+    point: relatiu-on
+    lesson: 2
+    prompt: "La fàbrica ___ fan els mobles és a Vic."
+    answer: "on"
+    distractors:
+      - text: "qui"
+        why: "«La fàbrica» és un lloc, no una persona: *on*."
+      - text: "què"
+        why: "*Què* necessita una preposició. El relatiu de lloc va sol: *on*."
+      - text: "quan"
+        why: "«La fàbrica» és un lloc, no un moment: *on*."
+    explanation: "«La fàbrica» és el lloc on fan els mobles: el relatiu és *on*."
+
+  - id: b1-21-018
+    type: fill
+    point: relatiu-que
+    lesson: 2
+    prompt: "El funcionari ___ m'ha atès és molt amable."
+    hint: "relatiu per a «el funcionari»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "*Què* amb accent necessita una preposició. Aquí el relatiu va sol: *que*."
+    grading: strict
+    explanation: "«El funcionari» és el subjecte de «m'ha atès»: el relatiu és *que*."
+
+  - id: b1-21-019
+    type: fill
+    point: relatiu-que
+    lesson: 2
+    prompt: "Les tasques ___ tinc per avui són urgents."
+    hint: "relatiu per a «les tasques»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "Sense preposició, el relatiu és *que*, sense accent."
+    grading: strict
+    explanation: "«Les tasques» és el complement directe de «tinc»: el relatiu és *que*."
+
+  - id: b1-21-020
+    type: fill
+    point: relatiu-que
+    lesson: 2
+    prompt: "L'autònoma ___ fa la neteja ve els dimarts."
+    hint: "relatiu per a «l'autònoma»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "*Què* necessita una preposició davant. Aquí no n'hi ha cap: *que*."
+    grading: strict
+    explanation: "«L'autònoma» és el subjecte de «fa»: el relatiu és *que*."
+
+  - id: b1-21-021
+    type: order
+    point: relatiu-on
+    lesson: 2
+    cue: "Digues que l'edifici on vius és a prop de l'estació."
+    chunks: ["l'edifici", "on", "visc", "és", "a prop de l'estació"]
+    extra: ["quan"]
+    answers:
+      - "L'edifici on visc és a prop de l'estació."
+    explanation: "El relatiu de lloc va darrere del nom: *l'edifici on visc*."
+
+  - id: b1-21-022
+    type: order
+    point: relatiu-que
+    lesson: 2
+    cue: "Explica que tens una cap que ho entén tot."
+    chunks: ["tinc", "una cap", "que", "ho", "entén", "tot"]
+    extra: ["què"]
+    answers:
+      - "Tinc una cap que ho entén tot."
+      - "Tinc una cap que tot ho entén."
+    explanation: "*Que* va just darrere del nom («una cap»): *una cap que ho entén tot*."
+
+  - id: b1-21-023
+    type: order
+    point: relatiu-on
+    lesson: 2
+    cue: "Digues que el bar on esmorzes és davant de l'escola."
+    chunks: ["el bar", "on", "esmorzo", "és", "davant de l'escola"]
+    extra: ["qui"]
+    answers:
+      - "El bar on esmorzo és davant de l'escola."
+    explanation: "*On* va darrere del nom de lloc: *el bar on esmorzo*."
+
+  - id: b1-21-024
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «qui dia passa, any empeny»?"
+    answer: "Que el temps passa molt de pressa."
+    distractors:
+      - text: "Que cada dia cal treballar més."
+        why: "No parla de treballar més, sinó del temps que passa."
+      - text: "Que els anys fan la gent més sàvia."
+        why: "No parla de l'edat, sinó de com passen els dies."
+    explanation: "*Qui dia passa, any empeny* vol dir que els dies passen tan de pressa que sembla que s'acabi l'any."
+
+  - id: b1-21-025
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «guanyar-se la vida»?"
+    answer: "Treballar per tenir diners per viure."
+    distractors:
+      - text: "Guanyar un premi important."
+        why: "No és un premi: és la feina de cada dia."
+      - text: "Viure sense haver de treballar."
+        why: "Vol dir el contrari: treballar per viure."
+    explanation: "*Guanyar-se la vida* vol dir treballar per tenir els diners necessaris per viure."
+
+  - id: b1-21-026
+    type: inline-choice
+    point: expressions
+    lesson: 2
+    title: "A la pausa del cafè"
+    text: "—El nou becari es fica en tot. —Ja ho saps: {cadascú a casa seva|qui dia passa, any empeny|fer carrera}. —I el temps vola: ja fa un any que soc aquí! —Sí, {qui dia passa, any empeny|cadascú a casa seva|fer carrera}. —Vols ser cap algun dia? —No: això de {fer carrera|guanyar-me la vida|qui dia passa, any empeny} no m'interessa."
+    explanation: "*Cadascú a casa seva* demana que ningú es fiqui en la feina dels altres; *qui dia passa, any empeny* parla del temps; *fer carrera* és progressar en la professió."
+
+  # ---------------- Lliçó 3 ----------------
+  - id: b1-21-027
+    type: choice
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "El tema ___ parlàvem ahir és molt delicat."
+    answer: "de què"
+    distractors:
+      - text: "de qui"
+        why: "«El tema» és una cosa, no una persona: *de què*."
+      - text: "del que"
+        why: "*Del que* és un calc del castellà «del que». En català: *de què*."
+      - text: "què"
+        why: "Falta la preposició: el verb és «parlar de», i el relatiu és *de què*."
+    explanation: "«Parlar» demana *de*, i «el tema» és una cosa: *de què*."
+
+  - id: b1-21-028
+    type: choice
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "La companya ___ comparteixo despatx és de Tarragona."
+    answer: "amb qui"
+    distractors:
+      - text: "amb què"
+        why: "«La companya» és una persona: *amb qui*."
+      - text: "amb el que"
+        why: "*Amb el que* és un calc del castellà «con el que». Amb una persona: *amb qui*."
+      - text: "qui"
+        why: "El relatiu de persona amb preposició és *amb qui*: sense *amb* no hi va."
+    explanation: "«La companya» és una persona i el complement porta *amb*: *amb qui*."
+
+  - id: b1-21-029
+    type: choice
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "El projecte ___ participo és molt interessant."
+    answer: "en què"
+    distractors:
+      - text: "en qui"
+        why: "«El projecte» és una cosa: *en què*."
+      - text: "en el que"
+        why: "*En el que* és un calc del castellà «en el que». En català: *en què*."
+      - text: "on"
+        why: "*On* és per a un lloc. «El projecte» no és un lloc: *en què*."
+    explanation: "«Participar» demana *en*, i «el projecte» és una cosa: *en què*."
+
+  - id: b1-21-030
+    type: choice
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "L'empresa per a ___ treballo té cent persones."
+    answer: "la qual"
+    distractors:
+      - text: "el qual"
+        why: "«L'empresa» és femení: *la qual*."
+      - text: "qui"
+        why: "«L'empresa» és una cosa: *qui* és per a persones."
+      - text: "els quals"
+        why: "«L'empresa» és singular: *la qual*."
+    explanation: "Darrere de preposició, *el qual* concorda amb el nom: «l'empresa» és femení singular → *la qual*."
+
+  - id: b1-21-031
+    type: fill
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "El problema ___ es queixa tothom fa perdre clients."
+    hint: "preposició + relatiu per a «el problema»"
+    answers: ["de què", "del qual"]
+    wrong_answers:
+      - text: "del que"
+        why: "*Del que* és un calc del castellà «del que». En català: *de què* o *del qual*."
+    grading: strict
+    explanation: "«Queixar-se» demana *de* i «el problema» és una cosa: *de què* (o *del qual*)."
+
+  - id: b1-21-032
+    type: fill
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "La clienta ___ he dinat és molt simpàtica."
+    hint: "preposició + relatiu per a «la clienta»"
+    answers: ["amb qui", "amb la qual"]
+    wrong_answers:
+      - text: "amb el que"
+        why: "*Amb el que* és un calc del castellà «con el que». En català: *amb qui* o *amb la qual*."
+      - text: "amb què"
+        why: "«La clienta» és una persona: *amb qui*."
+    grading: strict
+    explanation: "«La clienta» és una persona i el complement porta *amb*: *amb qui* (o *amb la qual*)."
+
+  - id: b1-21-033
+    type: fill
+    point: relatiu-preposicio
+    lesson: 3
+    prompt: "El projecte ___ confio sortirà bé."
+    hint: "preposició + relatiu per a «el projecte»"
+    answers: ["en què", "en el qual"]
+    wrong_answers:
+      - text: "en el que"
+        why: "*En el que* és un calc del castellà «en el que». En català: *en què* o *en el qual*."
+      - text: "en qui"
+        why: "«El projecte» és una cosa: *en què*."
+    grading: strict
+    explanation: "«Confiar» demana *en* i «el projecte» és una cosa: *en què* (o *en el qual*)."
+
+  - id: b1-21-034
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "El tema del que parlàvem ahir és molt delicat."
+    error: "del que"
+    fix: "de què"
+    fix_distractors:
+      - text: "de qui"
+        why: "«El tema» és una cosa, no una persona."
+      - text: "en què"
+        why: "«Parlar» demana *de*, no *en*: *de què*."
+    explanation: "*Del que* és un calc del castellà «del que». En català, «parlar de» + cosa és *de què*."
+
+  - id: b1-21-035
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "L'informe en el que treballo és urgent."
+    error: "en el que"
+    fix: "en què"
+    fix_distractors:
+      - text: "en qui"
+        why: "«L'informe» és una cosa: *en què*."
+      - text: "on"
+        why: "*On* és per a un lloc, i «l'informe» no n'és cap."
+    explanation: "*En el que* és un calc del castellà «en el que». En català: *en què*."
+
+  - id: b1-21-036
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La reunió de què et parlava és dijous a les nou."
+    no_error: true
+    explanation: "La frase és correcta: «parlar de» + cosa és *de què*, amb accent."
+
+  - id: b1-21-037
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La persona amb el que comparteixo despatx es jubila al desembre."
+    error: "amb el que"
+    fix: "amb qui"
+    fix_distractors:
+      - text: "amb què"
+        why: "«La persona» és una persona, no una cosa: *amb qui*."
+      - text: "qui"
+        why: "Sense *amb* no hi va: el relatiu és *amb qui*."
+    explanation: "*Amb el que* és un calc del castellà «con el que». Amb una persona: *amb qui*."
+
+  - id: b1-21-038
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "L'oferta al que es refereix el correu ja no existeix."
+    error: "al que"
+    fix: "a què"
+    fix_distractors:
+      - text: "a qui"
+        why: "«L'oferta» és una cosa: *a què*."
+      - text: "en què"
+        why: "«Referir-se» demana *a*, no *en*."
+    explanation: "*Al que* és un calc del castellà «al que». En català: *a què*."
+
+  - id: b1-21-039
+    type: find-error
+    point: compte-castella
+    lesson: 3
+    sentence: "La jubilació del company amb qui dinem cada dia serà al juny."
+    no_error: true
+    explanation: "La frase és correcta: amb una persona, el relatiu és *amb qui*."
+
+  - id: b1-21-040
+    type: inline-choice
+    point: relatiu-preposicio
+    lesson: 3
+    title: "Un correu de la feina"
+    text: "Bon dia, Núria: l'encàrrec {de què|de qui|del que} et parlava ahir arriba demà. Porta l'informe {en què|en qui|en el que} hem treballat aquest mes. La reunió serà amb l'advocada {amb qui|amb què|amb el que} col·laborem, i el projecte {del qual|del que|de qui} parlarem és l'últim punt de l'ordre del dia. Han acomiadat dues persones i el cap ha dimitit."
+    explanation: "*De què* i *en què* van amb coses; *amb qui*, amb persones; *del qual* és l'altra forma de *de què*."
+
+  # ---------------- Lliçó 4 ----------------
+  - id: b1-21-041
+    type: transform
+    point: relatiu-preposicio
+    lesson: 4
+    instruction: "Substitueix el relatiu marcat per *el qual*."
+    source: "El projecte [[en què]] participo m'agrada molt."
+    answers: ["El projecte en el qual participo m'agrada molt."]
+    wrong_answers:
+      - text: "El projecte en el que participo m'agrada molt."
+        why: "*En el que* és un calc del castellà. La forma amb article és *en el qual*."
+      - text: "El projecte en la qual participo m'agrada molt."
+        why: "«El projecte» és masculí: *en el qual*."
+    grading: tolerant
+    explanation: "*En el qual* és l'altra forma de *en què*: la preposició *en* + l'article + *qual*."
+
+  - id: b1-21-042
+    type: transform
+    point: relatiu-preposicio
+    lesson: 4
+    instruction: "Substitueix el relatiu marcat per *de què*."
+    source: "La feina [[de la qual]] estic més contenta és aquesta."
+    answers: ["La feina de què estic més contenta és aquesta."]
+    wrong_answers:
+      - text: "La feina del que estic més contenta és aquesta."
+        why: "*Del que* és un calc: la forma és *de què*."
+      - text: "La feina de que estic més contenta és aquesta."
+        why: "Sense accent és la conjunció: el relatiu és *de què*."
+    grading: strict
+    explanation: "*De què* és l'altra forma de *de la qual*: la preposició *de* + *què* amb accent."
+
+  - id: b1-21-043
+    type: transform
+    point: relatiu-preposicio
+    lesson: 4
+    instruction: "Substitueix el relatiu marcat per *el qual*."
+    source: "El canvi [[de què]] parla tothom arriba al gener."
+    answers: ["El canvi del qual parla tothom arriba al gener."]
+    wrong_answers:
+      - text: "El canvi del que parla tothom arriba al gener."
+        why: "*Del que* és un calc del castellà. La forma amb article és *del qual*."
+      - text: "El canvi de qui parla tothom arriba al gener."
+        why: "«El canvi» és una cosa: *de què* o *del qual*."
+    grading: tolerant
+    explanation: "*Del qual* és *de* + *el qual*, i equival a *de què*."
+
+  - id: b1-21-044
+    type: transform
+    point: relatiu-preposicio
+    lesson: 4
+    instruction: "Substitueix el relatiu marcat per *de què*."
+    source: "Els temes [[dels quals]] vam parlar eren difícils."
+    answers: ["Els temes de què vam parlar eren difícils."]
+    wrong_answers:
+      - text: "Els temes dels que vam parlar eren difícils."
+        why: "*Dels que* és un calc del castellà. En català: *de què*."
+      - text: "Els temes de que vam parlar eren difícils."
+        why: "Sense accent és la conjunció: el relatiu és *de què*."
+    grading: strict
+    explanation: "*De què* no canvia mai: val per a singular i plural, masculí i femení."
+
+  - id: b1-21-045
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "El termini de l'informe [[en el que]] treballo és divendres."
+    answers:
+      - "El termini de l'informe en què treballo és divendres."
+      - "El termini de l'informe en el qual treballo és divendres."
+    wrong_answers:
+      - text: "El termini de l'informe en el que treballo és divendres."
+        why: "Això és la frase sense corregir: *en el que* és un calc; cal *en què*."
+      - text: "El termini de l'informe en qui treballo és divendres."
+        why: "«L'informe» és una cosa: *en què*."
+    grading: strict
+    explanation: "*En el que* és un calc del castellà «en el que». En català: *en què* (o *en el qual*)."
+
+  - id: b1-21-046
+    type: transform
+    point: compte-castella
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "La persona [[amb el que]] comparteixo despatx comença avui."
+    answers:
+      - "La persona amb qui comparteixo despatx comença avui."
+      - "La persona amb la qual comparteixo despatx comença avui."
+    wrong_answers:
+      - text: "La persona amb el que comparteixo despatx comença avui."
+        why: "Això és la frase sense corregir: *amb el que* és un calc; cal *amb qui*."
+      - text: "La persona amb què comparteixo despatx comença avui."
+        why: "«La persona» és una persona, no una cosa: *amb qui*."
+    grading: tolerant
+    explanation: "*Amb el que* és un calc del castellà «con el que». Amb una persona: *amb qui* (o *amb la qual*)."
+
+  - id: b1-21-047
+    type: transform
+    point: relatiu-que
+    lesson: 4
+    instruction: "Passa la frase al plural."
+    source: "[[El client que ve]] al matí té pressa."
+    answers:
+      - "Els clients que venen al matí tenen pressa."
+      - "Al matí els clients que venen tenen pressa."
+    wrong_answers:
+      - text: "Els clients que venen al matí té pressa."
+        why: "El verb també va en plural: *tenen pressa*."
+      - text: "Els clients que ve al matí tenen pressa."
+        why: "«Els clients» és plural: *que venen*."
+    grading: tolerant
+    explanation: "En plural, el nom i els verbs canvien, però el relatiu continua sent *que*."
+
+  - id: b1-21-048
+    type: fill
+    point: relatiu-preposicio
+    lesson: 4
+    prompt: "El mestre ___ es fia tothom es diu Oriol."
+    hint: "preposició + relatiu per a «el mestre»"
+    answers: ["de qui", "del qual"]
+    wrong_answers:
+      - text: "del que"
+        why: "*Del que* és un calc del castellà. En català: *de qui* (o *del qual*)."
+      - text: "de què"
+        why: "«El mestre» és una persona: *de qui*."
+    grading: tolerant
+    explanation: "«Fiar-se» demana *de* i «el mestre» és una persona: *de qui* (o *del qual*)."
+
+  - id: b1-21-049
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "—Vols ser directora? —No, jo només vull ___ i estar tranquil·la."
+    hint: "expressió: treballar per tenir diners"
+    answers: ["guanyar-me la vida"]
+    wrong_answers:
+      - text: "guanyar la vida"
+        why: "L'expressió porta el pronom: *guanyar-se la vida*."
+    grading: tolerant
+    explanation: "*Guanyar-se la vida* vol dir treballar per tenir diners per viure."
+
+  - id: b1-21-050
+    type: fill
+    point: relatiu-que
+    lesson: 4
+    prompt: "L'encàrrec ___ m'han donat és urgent."
+    hint: "relatiu per a «l'encàrrec»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "*Què* necessita una preposició davant. Aquí no n'hi ha cap: *que*."
+    grading: strict
+    explanation: "«L'encàrrec» és el complement directe de «m'han donat»: el relatiu és *que*."
+
+  - id: b1-21-051
+    type: order
+    point: relatiu-preposicio
+    lesson: 4
+    cue: "Digues que la vaga de què parleu és complicada."
+    chunks: ["la vaga", "de què", "parlem", "és", "complicada"]
+    extra: ["del que"]
+    answers:
+      - "La vaga de què parlem és complicada."
+      - "És complicada la vaga de què parlem."
+    explanation: "El relatiu *de què* va darrere del nom («la vaga»): *la vaga de què parlem*."
+
+  - id: b1-21-052
+    type: order
+    point: relatiu-preposicio
+    lesson: 4
+    cue: "Explica que l'empresa per a la qual treballes és petita."
+    chunks: ["l'empresa", "per a", "la qual", "treballo", "és petita"]
+    extra: ["el qual"]
+    answers:
+      - "L'empresa per a la qual treballo és petita."
+    explanation: "*La qual* concorda amb «l'empresa» (femení) i va darrere de *per a*."
+
+  - id: b1-21-053
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "El teu company es fica en la teva feina cada dia. Què li dius?"
+    answer: "Cadascú a casa seva!"
+    distractors:
+      - text: "Qui dia passa, any empeny!"
+        why: "Això parla del temps, no de ficar-se en la feina dels altres."
+      - text: "Fes carrera!"
+        why: "Això és progressar en la professió, no el que vols dir aquí."
+    explanation: "*Cadascú a casa seva* demana que cadascú faci la seva feina sense ficar-se en la dels altres."
+
+  # ---------------- Lliçó 5 ----------------
+  - id: b1-21-054
+    type: choice
+    point: relatiu-on
+    lesson: 5
+    prompt: "El magatzem ___ guardem les caixes és molt fred."
+    answer: "on"
+    distractors:
+      - text: "qui"
+        why: "«El magatzem» és un lloc, no una persona: *on*."
+      - text: "què"
+        why: "*Què* necessita una preposició. El relatiu de lloc va sol: *on*."
+      - text: "quan"
+        why: "«El magatzem» és un lloc, no un moment: *on*."
+    explanation: "«El magatzem» és el lloc on guardem les caixes: el relatiu és *on*."
+
+  - id: b1-21-055
+    type: choice
+    point: relatiu-preposicio
+    lesson: 5
+    prompt: "La tècnica ___ depèn el projecte està de baixa."
+    answer: "de qui"
+    distractors:
+      - text: "de què"
+        why: "«La tècnica» és una persona: *de qui*."
+      - text: "del que"
+        why: "*Del que* és un calc del castellà «del que». En català: *de qui*."
+      - text: "qui"
+        why: "Sense *de* no hi va: *de qui*."
+    explanation: "«Dependre» demana *de* i «la tècnica» és una persona: *de qui*."
+
+  - id: b1-21-056
+    type: choice
+    point: relatiu-preposicio
+    lesson: 5
+    prompt: "Els contractes amb ___ hem tingut problemes són antics."
+    answer: "els quals"
+    distractors:
+      - text: "les quals"
+        why: "«Els contractes» és masculí: *els quals*."
+      - text: "el qual"
+        why: "«Els contractes» és plural: *els quals*."
+      - text: "el que"
+        why: "*Amb el que* és un calc. La forma amb article és *amb els quals*."
+    explanation: "*Els quals* concorda amb «els contractes»: masculí plural."
+
+  - id: b1-21-057
+    type: fill
+    point: relatiu-que
+    lesson: 5
+    prompt: "Els horaris ___ proposa l'empresa no m'agraden."
+    hint: "relatiu per a «els horaris»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "Sense preposició, el relatiu és *que*, sense accent."
+    grading: strict
+    explanation: "«Els horaris» és el complement directe de «proposa»: el relatiu és *que*."
+
+  - id: b1-21-058
+    type: fill
+    point: relatiu-preposicio
+    lesson: 5
+    prompt: "La vaga ___ participen molts treballadors és dijous."
+    hint: "preposició + relatiu per a «la vaga»"
+    answers: ["en què", "en la qual"]
+    wrong_answers:
+      - text: "en el que"
+        why: "*En el que* és un calc del castellà «en el que». En català: *en què* o *en la qual*."
+      - text: "en qui"
+        why: "«La vaga» és una cosa: *en què*."
+    grading: strict
+    explanation: "«Participar» demana *en* i «la vaga» és una cosa: *en què* (o *en la qual*)."
+
+  - id: b1-21-059
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "El company en el que confio més és en Pau."
+    error: "en el que"
+    fix: "en qui"
+    fix_distractors:
+      - text: "en què"
+        why: "«El company» és una persona: *en qui*."
+      - text: "qui"
+        why: "Sense *en* no hi va: *en qui*."
+    explanation: "*En el que* és un calc del castellà «en el que». Amb una persona, el relatiu és *en qui*."
+
+  - id: b1-21-060
+    type: find-error
+    point: compte-castella
+    lesson: 5
+    sentence: "L'eina amb què treballa és un martell vell."
+    no_error: true
+    explanation: "La frase és correcta: amb una cosa, el relatiu és *amb què*, amb accent."
+
+  - id: b1-21-061
+    type: order
+    point: relatiu-que
+    lesson: 5
+    cue: "Digues que tens una feina que t'agrada molt."
+    chunks: ["tinc", "una feina", "que", "m'agrada", "molt"]
+    extra: ["què"]
+    answers:
+      - "Tinc una feina que m'agrada molt."
+    explanation: "*Que* va darrere del nom: *una feina que m'agrada molt*."
+
+  - id: b1-21-062
+    type: match
+    point: relatiu-preposicio
+    lesson: 5
+    instruction: "Relaciona cada relatiu amb el seu ús."
+    pairs:
+      - ["que", "subjecte i complement directe"]
+      - ["on", "lloc"]
+      - ["qui", "persona amb preposició"]
+      - ["què", "cosa amb preposició"]
+    explanation: "*Que* no porta preposició; *on* és per al lloc; *qui* i *què* van darrere de preposició."
+
+  - id: b1-21-063
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Un canvi de feina"
+    text: |
+      La Fàtima té trenta-dos anys i viu a Mataró. Mai no ha estat a l'atur. Durant sis anys ha treballat en una fàbrica on fan peces de plàstic. La feina no li agradava: el torn que feia era de nit, la jornada era molt llarga i el sou que cobrava no arribava a mil euros.
+
+      Al gener, una companya amb qui dinava cada dia li va parlar d'un curs de cuina. La Fàtima s'hi va apuntar de seguida. El curs va durar tres mesos, i el restaurant on va fer les pràctiques era al centre de la ciutat. El professor de qui va aprendre més, l'Oriol, li va ensenyar a organitzar bé la feina.
+
+      Quan va acabar el curs, el xef amb qui havia fet les pràctiques li va oferir una plaça a la cuina. Ara la Fàtima treballa en un restaurant petit del barri. Guanya menys que abans, però diu que per fi fa una feina que li agrada.
+
+      —Qui dia passa, any empeny —diu rient—: ja fa mig any que soc aquí i sembla que va ser ahir. A l'agost farà vacances per primera vegada en anys.
+    questions:
+      - prompt: "On treballava la Fàtima abans?"
+        answer: "En una fàbrica de peces de plàstic."
+        distractors:
+          - text: "En un restaurant del centre."
+            why: "Al restaurant hi va fer les pràctiques, però no hi treballava."
+          - text: "En una escola de cuina."
+            why: "Hi va fer un curs, però no hi treballava."
+      - prompt: "Per què no li agradava la feina de la fàbrica?"
+        answer: "Pel torn de nit, la jornada llarga i el sou baix."
+        distractors:
+          - text: "Perquè no tenia companyes."
+            why: "Hi dinava cada dia amb una companya."
+          - text: "Perquè passava moltes hores a l'atur."
+            why: "A l'atur no hi ha estat mai: treballava a la fàbrica."
+      - prompt: "Com va trobar la feina de cuina?"
+        answer: "Gràcies a un curs i a les pràctiques."
+        distractors:
+          - text: "Perquè l'Oriol li va oferir una plaça."
+            why: "L'Oriol era el professor; qui li va oferir la plaça és el xef."
+          - text: "Perquè el xef era el seu professor."
+            why: "L'Oriol era el professor del curs; el xef és del restaurant."
+      - prompt: "Què diu la Fàtima de la feina nova?"
+        answer: "Que guanya menys, però li agrada més."
+        distractors:
+          - text: "Que guanya més que a la fàbrica."
+            why: "El text diu que guanya menys."
+          - text: "Que vol tornar a la fàbrica."
+            why: "Diu que per fi fa una feina que li agrada."
+    explanation: "El text explica com la Fàtima va passar de la fàbrica a la cuina d'un restaurant."
+
+  - id: b1-21-064
+    type: choice
+    point: expressions
+    lesson: 5
+    prompt: "Fa deu anys que fas la mateixa feina i el temps ha volat. Què dius?"
+    answer: "Qui dia passa, any empeny!"
+    distractors:
+      - text: "Cadascú a casa seva!"
+        why: "Això és per a qui es fica on no el demanen, no per al temps."
+      - text: "Fes carrera!"
+        why: "Això és progressar en la professió, no el pas del temps."
+    explanation: "*Qui dia passa, any empeny* es diu quan el temps passa molt de pressa."
+
+  - id: b1-21-065
+    type: fill
+    point: relatiu-que
+    lesson: 5
+    prompt: "El currículum ___ has enviat per a l'entrevista ha agradat molt."
+    hint: "relatiu per a «el currículum»"
+    answers: ["que"]
+    wrong_answers:
+      - text: "què"
+        why: "*Què* necessita una preposició davant. Aquí no n'hi ha cap: *que*."
+    grading: strict
+    explanation: "«El currículum» és el complement directe de «has enviat»: el relatiu és *que*."

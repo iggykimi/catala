@@ -1,0 +1,1008 @@
+id: b2-45
+level: B2
+title: "Verbs de règim preposicional (II)"
+summary: "Els verbs que regeixen a, de, amb, en i per, les interferències del castellà i quatre expressions per anar al gra, en el context de la universitat i la recerca."
+vocabulary_theme: "Universitat i recerca"
+points:
+  - id: regim-a
+    title: "Verbs que regeixen *a*"
+    refs:
+      - label: "GEIEC: El règim preposicional"
+        url: "https://geiec.iec.cat"
+  - id: regim-de
+    title: "Verbs que regeixen *de*"
+    refs:
+      - label: "GEIEC: El règim preposicional"
+        url: "https://geiec.iec.cat"
+  - id: regim-altres
+    title: "*Comptar amb*, *consistir en*, *interessar-se per* i *insistir*"
+    refs:
+      - label: "GEIEC: El règim preposicional"
+        url: "https://geiec.iec.cat"
+  - id: compte-preposicions
+    title: "Compte amb el castellà: *pensar en*, *somiar* i *casar-se amb*"
+    refs:
+      - label: "Optimot: Règim preposicional"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions per anar al gra"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: verbs que regeixen *a* i *de*"
+  - title: "Practicar *a* i *de*"
+  - title: "Altres règims i interferències"
+  - title: "Produir: reescriure frases"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "la facultat"
+    definition: "Centre universitari on s'estudia una carrera concreta."
+    example: "La Laia estudia medicina a la facultat de Girona."
+  - word: "el grau"
+    definition: "Estudis universitaris de quatre anys que donen un títol."
+    example: "Va acabar el grau d'història al juny."
+  - word: "el màster"
+    definition: "Estudis universitaris que es fan després del grau."
+    example: "L'Ibrahim farà un màster de matemàtiques."
+  - word: "el doctorat"
+    definition: "Estudis més alts de la universitat, que acaben amb una tesi."
+    example: "Va demanar plaça al doctorat de Barcelona."
+  - word: "la tesi doctoral"
+    definition: "Treball llarg de recerca que cal defensar per obtenir el doctorat."
+    example: "Defensarà la tesi doctoral al juny."
+  - word: "la recerca"
+    definition: "Treball per descobrir coses noves en una ciència."
+    example: "Es dedica a la recerca sobre el càncer."
+  - word: "l'investigador, la investigadora"
+    definition: "Persona que fa recerca en una universitat o un centre."
+    example: "L'equip té tres investigadors nous."
+  - word: "el doctorand, la doctoranda"
+    definition: "Estudiant que està fent el doctorat."
+    example: "Els doctorands comparteixen despatx."
+  - word: "el laboratori"
+    definition: "Sala amb aparells on es fan experiments."
+    example: "L'experiment es fa al laboratori de química."
+  - word: "la biblioteca"
+    definition: "Lloc on es poden llegir i demanar llibres."
+    example: "Estudia cada tarda a la biblioteca."
+  - word: "el campus"
+    definition: "Conjunt d'edificis d'una universitat."
+    example: "El campus de Bellaterra és molt gran."
+  - word: "l'aula"
+    definition: "Sala on es fan les classes."
+    example: "L'examen és a l'aula 3."
+  - word: "la beca"
+    definition: "Diners que rep un estudiant per estudiar o investigar."
+    example: "Ha aconseguit una beca de quatre anys."
+  - word: "la matrícula"
+    definition: "Inscripció (i pagament) per estudiar un curs."
+    example: "La matrícula es fa al juliol."
+  - word: "l'assignatura"
+    definition: "Cada matèria d'un pla d'estudis."
+    example: "Li queden dues assignatures per acabar."
+  - word: "el crèdit"
+    definition: "Unitat que mesura la feina d'una assignatura."
+    example: "El grau té dos-cents quaranta crèdits."
+  - word: "l'examen"
+    definition: "Prova per comprovar què sap un estudiant."
+    example: "L'examen final té dues parts."
+  - word: "la convocatòria"
+    definition: "Crida oficial per a un examen, una beca o una plaça."
+    example: "Hi ha convocatòria al juny i al setembre."
+  - word: "l'apunt"
+    definition: "Nota que pren un estudiant a classe."
+    example: "Repasseu els apunts abans de l'examen."
+  - word: "el seminari"
+    definition: "Classe amb pocs estudiants on es parla d'un tema."
+    example: "El seminari dels dijous és optatiu."
+  - word: "la conferència"
+    definition: "Xerrada d'un expert davant d'un públic."
+    example: "Demà hi ha una conferència sobre el clima."
+  - word: "el congrés"
+    definition: "Reunió gran d'experts d'una ciència."
+    example: "Va presentar la tesi en un congrés."
+  - word: "l'article científic"
+    definition: "Text que publica els resultats d'una recerca."
+    example: "Ha publicat dos articles científics."
+  - word: "l'enquesta"
+    definition: "Conjunt de preguntes per recollir dades."
+    example: "L'enquesta es fa a dos-cents estudiants."
+  - word: "l'experiment"
+    definition: "Prova que es fa per comprovar una hipòtesi."
+    example: "L'experiment va durar tres mesos."
+  - word: "la hipòtesi"
+    definition: "Idea que es vol comprovar amb la recerca."
+    example: "La primera hipòtesi no era correcta."
+  - word: "el resultat"
+    definition: "Allò que s'obté d'un experiment o d'un examen."
+    example: "Els resultats van ser molt clars."
+  - word: "el tribunal"
+    definition: "Grup de professors que jutja una tesi o un examen."
+    example: "El tribunal té tres professors."
+  - word: "la defensa"
+    definition: "Acte en què es presenta la tesi davant del tribunal."
+    example: "La defensa serà al juny."
+  - word: "el pla d'estudis"
+    definition: "Llista oficial de les assignatures d'una carrera."
+    example: "El nou pla d'estudis té més pràctiques."
+  - word: "el préstec"
+    definition: "Deixar un llibre de la biblioteca per un temps."
+    example: "El préstec és de tres setmanes."
+  - word: "el professor, la professora"
+    definition: "Persona que ensenya a la universitat."
+    example: "La professora Font fa història medieval."
+  - word: "la càtedra"
+    definition: "Plaça de professor del nivell més alt de la universitat."
+    example: "Aspira a una càtedra de física."
+  - word: "el degà, la degana"
+    definition: "Persona que dirigeix una facultat."
+    example: "El degà presideix la reunió."
+  - word: "el tutor, la tutora"
+    definition: "Professor que guia un estudiant o una tesi."
+    example: "La tutora revisa cada capítol."
+  - word: "el becari, la becària"
+    definition: "Estudiant que té una beca."
+    example: "Els becaris ajuden al laboratori."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-45-001
+    type: choice
+    point: regim-a
+    lesson: 1
+    prompt: "La Núria ___ la química orgànica des de fa deu anys."
+    answer: "es dedica a"
+    distractors:
+      - text: "es dedica en"
+        why: "*Dedicar-se* regeix la preposició *a*. *En* és la preposició d'altres verbs, com *pensar en*."
+      - text: "es dedica de"
+        why: "*Dedicar-se* regeix *a*, no *de*."
+    explanation: "*Dedicar-se* porta sempre la preposició *a*: la Núria *es dedica a* la química orgànica."
+
+  - id: b2-45-002
+    type: choice
+    point: regim-a
+    lesson: 1
+    prompt: "Amb aquesta nota, en Pau podrà ___ un grau de medicina a Girona."
+    answer: "accedir a"
+    distractors:
+      - text: "accedir en"
+        why: "*Accedir* regeix *a*, no *en*."
+      - text: "accedir de"
+        why: "*Accedir* regeix *a*, no *de*."
+    explanation: "*Accedir* regeix *a*: en Pau pot *accedir a* un grau de medicina."
+
+  - id: b2-45-003
+    type: choice
+    point: regim-a
+    lesson: 1
+    prompt: "L'Arnau ___ una plaça de professor associat a Girona."
+    answer: "aspira a"
+    distractors:
+      - text: "aspira en"
+        why: "*Aspirar* regeix *a*, no *en*."
+      - text: "aspira de"
+        why: "*Aspirar* regeix *a*, no *de*."
+    explanation: "*Aspirar* regeix *a* quan vol dir «voler aconseguir»: *aspira a* una plaça."
+
+  - id: b2-45-004
+    type: choice
+    point: regim-a
+    lesson: 1
+    prompt: "La Carla va haver de ___ la beca per quedar-se a treballar a Vic."
+    answer: "renunciar a"
+    distractors:
+      - text: "renunciar de"
+        why: "*Renunciar* regeix *a*, no *de*."
+      - text: "renunciar en"
+        why: "*Renunciar* regeix *a*, no *en*."
+    explanation: "*Renunciar* regeix *a*: *renunciar a* una beca, a una plaça o a un dret."
+
+  - id: b2-45-005
+    type: choice
+    point: regim-de
+    lesson: 1
+    prompt: "El laboratori no pot ___ dues tècniques alhora."
+    answer: "prescindir de"
+    distractors:
+      - text: "prescindir amb"
+        why: "*Prescindir* regeix *de*, no *amb*."
+      - text: "prescindir en"
+        why: "*Prescindir* regeix *de*, no *en*."
+    explanation: "*Prescindir* regeix *de*: *prescindir de* dues tècniques vol dir passar sense elles."
+
+  - id: b2-45-006
+    type: choice
+    point: regim-de
+    lesson: 1
+    prompt: "No és un error greu: ___ la matrícula del primer curs."
+    answer: "es tracta de"
+    distractors:
+      - text: "tracta de"
+        why: "Falta el pronom: el verb és pronominal, *es tracta de*."
+      - text: "es tracta amb"
+        why: "La preposició és *de*: *es tracta de* la matrícula."
+    explanation: "Quan una cosa «és qüestió de» una altra, diem *es tracta de*, sempre amb el pronom *es*."
+
+  - id: b2-45-007
+    type: match
+    point: regim-a
+    lesson: 1
+    instruction: "Relaciona cada verb amb el seu significat."
+    pairs:
+      - ["dedicar-se a", "treballar en un camp o una activitat"]
+      - ["accedir a", "poder entrar en uns estudis o en un servei"]
+      - ["renunciar a", "deixar una plaça o un dret"]
+      - ["aspirar a", "voler aconseguir una plaça o un títol"]
+    explanation: "Els quatre verbs regeixen la preposició *a*, però cada un té un significat diferent."
+
+  - id: b2-45-008
+    type: match
+    point: expressions
+    lesson: 1
+    instruction: "Relaciona cada expressió amb el seu significat."
+    pairs:
+      - ["anar al gra", "parlar directament del tema important"]
+      - ["treure'n l'entrellat", "arribar a entendre un assumpte complicat"]
+      - ["tenir-ho clar", "saber exactament què es vol fer"]
+      - ["llegir entre línies", "endevinar allò que no es diu obertament"]
+    explanation: "Són expressions habituals quan es parla de feina i d'estudis."
+
+  - id: b2-45-009
+    type: inline-choice
+    point: regim-a
+    lesson: 1
+    title: "Un correu del deganat"
+    text: "La professora Font es dedica {a|en|de} la història medieval des de fa vint anys. El curs vinent renunciarà {a|de|en} la plaça de coordinadora per accedir {a|en|de} una càtedra. Es tracta {de|a|amb} la seva decisió personal. El préstec de portàtils es fa a secretaria. Us esperem a l'aula 12."
+    explanation: "*Dedicar-se*, *renunciar* i *accedir* regeixen *a*; *tractar-se* regeix *de*."
+
+  - id: b2-45-010
+    type: fill
+    point: regim-a
+    lesson: 1
+    prompt: "La Fàtima ___ la recerca sobre el canvi climàtic."
+    hint: "dedicar-se, present"
+    answers: ["es dedica a"]
+    wrong_answers:
+      - text: "es dedica en"
+        why: "*Dedicar-se* regeix *a*, no *en*."
+      - text: "es dedica de"
+        why: "*Dedicar-se* regeix *a*, no *de*."
+    grading: tolerant
+    explanation: "«La Fàtima» és tercera persona: *es dedica*, i el verb regeix *a*."
+
+  - id: b2-45-011
+    type: fill
+    point: regim-de
+    lesson: 1
+    prompt: "No és una urgència: ___ paperassa de secretaria."
+    hint: "tractar-se, present"
+    answers: ["es tracta de"]
+    wrong_answers:
+      - text: "es trata de"
+        why: "*Tractar* s'escriu amb *c*. En castellà és «tratar», però en català és *tractar*."
+      - text: "tracta de"
+        why: "Falta el pronom *es*: el verb és *tractar-se*."
+    grading: tolerant
+    explanation: "«És qüestió de» paperassa: el verb és pronominal (*es tracta*) i regeix *de*."
+
+  - id: b2-45-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «anar al gra»?"
+    answer: "Parlar directament del tema important."
+    distractors:
+      - text: "Parlar de molts temes sense ordre."
+        why: "Això és *divagar*, just el contrari d'anar al gra."
+      - text: "Parlar a poc a poc i amb calma."
+        why: "El ritme no hi té res a veure: *anar al gra* és parlar del tema important."
+    explanation: "*Anar al gra* és deixar els detalls i parlar del tema important."
+
+  - id: b2-45-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—Portem una hora de reunió i no hem decidit res. —Tens raó: anem ___."
+    answer: "al gra"
+    distractors:
+      - text: "a la palla"
+        why: "No existeix aquesta expressió: la forma fixada és *anar al gra*."
+      - text: "amb calma"
+        why: "*Amb calma* vol dir «a poc a poc»; aquí cal anar directe al tema."
+    explanation: "Quan una reunió s'allarga, *anar al gra* és parlar del tema important."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-45-014
+    type: fill
+    point: regim-a
+    lesson: 2
+    prompt: "Amb un vuit de mitjana, l'Ibrahim podrà ___ un màster de matemàtiques."
+    hint: "accedir, infinitiu"
+    answers: ["accedir a"]
+    wrong_answers:
+      - text: "accedir en"
+        why: "*Accedir* regeix *a*, no *en*."
+      - text: "accedir de"
+        why: "*Accedir* regeix *a*, no *de*."
+    grading: tolerant
+    explanation: "Darrere de *podrà* va l'infinitiu, i *accedir* regeix *a*."
+
+  - id: b2-45-015
+    type: fill
+    point: regim-a
+    lesson: 2
+    prompt: "L'Arnau ___ una càtedra de física a València."
+    hint: "aspirar, present"
+    answers: ["aspira a"]
+    wrong_answers:
+      - text: "aspira en"
+        why: "*Aspirar* regeix *a*, no *en*."
+    grading: tolerant
+    explanation: "«L'Arnau» vol aconseguir una càtedra: *aspirar* regeix *a*."
+
+  - id: b2-45-016
+    type: fill
+    point: regim-a
+    lesson: 2
+    prompt: "La Carla va haver de ___ la plaça de lectora per motius familiars."
+    hint: "renunciar, infinitiu"
+    answers: ["renunciar a"]
+    wrong_answers:
+      - text: "renunciar de"
+        why: "*Renunciar* regeix *a*, no *de*."
+    grading: tolerant
+    explanation: "Darrere de *va haver de* va l'infinitiu, i *renunciar* regeix *a*."
+
+  - id: b2-45-017
+    type: fill
+    point: regim-de
+    lesson: 2
+    prompt: "El projecte no pot ___ l'ajuda del departament."
+    hint: "prescindir, infinitiu"
+    answers: ["prescindir de"]
+    wrong_answers:
+      - text: "prescindir amb"
+        why: "*Prescindir* regeix *de*, no *amb*."
+    grading: tolerant
+    explanation: "Darrere de *pot* va l'infinitiu: *prescindir*, que regeix *de*."
+
+  - id: b2-45-018
+    type: fill
+    point: regim-de
+    lesson: 2
+    prompt: "Ahir no era cap urgència: ___ la beca d'un company."
+    hint: "tractar-se, imperfet"
+    answers: ["es tractava de"]
+    wrong_answers:
+      - text: "es tratava de"
+        why: "*Tractar* s'escriu amb *c*. En castellà és «tratar», però en català és *tractar*."
+    grading: tolerant
+    explanation: "«Ahir» demana un passat: l'imperfet de *tractar-se* és *es tractava*, i regeix *de*."
+
+  - id: b2-45-019
+    type: order
+    point: regim-a
+    lesson: 2
+    cue: "Digues que en Pau fa dos anys que treballa en recerca mèdica."
+    chunks: ["En Pau", "es dedica a", "la recerca mèdica", "des de fa dos anys"]
+    extra: ["en"]
+    answers:
+      - "En Pau es dedica a la recerca mèdica des de fa dos anys."
+      - "Des de fa dos anys, en Pau es dedica a la recerca mèdica."
+    explanation: "*Dedicar-se* regeix *a*. El complement de temps pot anar al principi o al final."
+
+  - id: b2-45-020
+    type: order
+    point: regim-de
+    lesson: 2
+    cue: "Explica que el departament no pot passar sense cap tècnic aquest curs."
+    chunks: ["El departament", "no pot prescindir de", "cap tècnic", "aquest curs"]
+    extra: ["amb"]
+    answers:
+      - "El departament no pot prescindir de cap tècnic aquest curs."
+      - "Aquest curs, el departament no pot prescindir de cap tècnic."
+    explanation: "*Prescindir* regeix *de*: *prescindir de* cap tècnic vol dir no poder passar sense cap."
+
+  - id: b2-45-021
+    type: choice
+    point: regim-a
+    lesson: 2
+    prompt: "Tria la frase correcta."
+    answer: "La Montse es dedica a la docència des de fa anys."
+    distractors:
+      - text: "La Montse es dedica en la docència des de fa anys."
+        why: "*Dedicar-se* regeix *a*, no *en*."
+      - text: "La Montse es dedica de la docència des de fa anys."
+        why: "*Dedicar-se* regeix *a*, no *de*."
+    explanation: "De les tres, només és correcta la que porta *a*: *dedicar-se* regeix *a*."
+
+  - id: b2-45-022
+    type: choice
+    point: regim-de
+    lesson: 2
+    prompt: "No és cap secret: es tracta ___ la reforma del pla d'estudis."
+    answer: "de"
+    distractors:
+      - text: "amb"
+        why: "*Tractar-se* regeix *de*, no *amb*."
+      - text: "en"
+        why: "*Tractar-se* regeix *de*, no *en*."
+    explanation: "*Tractar-se* regeix *de*: *es tracta de* la reforma."
+
+  - id: b2-45-023
+    type: choice
+    point: regim-de
+    lesson: 2
+    prompt: "El grup de recerca ha hagut de prescindir ___ dos becaris."
+    answer: "de"
+    distractors:
+      - text: "a"
+        why: "*Prescindir* regeix *de*, no *a*."
+      - text: "amb"
+        why: "*Prescindir* regeix *de*, no *amb*."
+    explanation: "*Prescindir* regeix *de*, també en passat: *ha hagut de prescindir de* dos becaris."
+
+  - id: b2-45-024
+    type: inline-choice
+    point: regim-de
+    lesson: 2
+    title: "Una nota de secretaria"
+    text: "Us informem que es tracta {de|a|amb} la revisió de les actes del tribunal. El degà no pot prescindir {de|amb|en} la vostra col·laboració. Qui vulgui renunciar {a|de|en} la seva plaça al seminari, que ho digui abans de divendres. El seminari val tres crèdits. La convocatòria de setembre ja és oberta. Gràcies per dedicar-vos {a|en|de} la facultat."
+    explanation: "*Tractar-se* i *prescindir* regeixen *de*; *renunciar* i *dedicar-se* regeixen *a*."
+
+  - id: b2-45-025
+    type: fill
+    point: expressions
+    lesson: 2
+    prompt: "Deixem els detalls i anem ___."
+    hint: "expressió: parlar directament del tema"
+    answers: ["al gra"]
+    wrong_answers:
+      - text: "a el gra"
+        why: "La preposició *a* i l'article *el* es contreuen: *al*."
+    grading: tolerant
+    explanation: "L'expressió és *anar al gra*: parlar directament del tema important."
+
+  - id: b2-45-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «tenir-ho clar»?"
+    answer: "Saber exactament què es vol fer."
+    distractors:
+      - text: "Explicar una cosa amb paraules senzilles."
+        why: "Això és *explicar-se bé*; *tenir-ho clar* és saber què es vol."
+      - text: "Tenir una lletra clara i entenedora."
+        why: "Aquest és el sentit literal de *clar*; l'expressió parla de decisions."
+    explanation: "*Tenir-ho clar* és saber exactament què es vol fer en un assumpte."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-45-027
+    type: choice
+    point: regim-altres
+    lesson: 3
+    prompt: "El projecte ___ tres investigadors i una tècnica de laboratori."
+    answer: "compta amb"
+    distractors:
+      - text: "compta en"
+        why: "*Comptar* regeix *amb*, no *en*."
+      - text: "compta de"
+        why: "*Comptar* regeix *amb*, no *de*."
+    explanation: "Quan vol dir «disposar de», *comptar* regeix *amb*: el projecte *compta amb* tres investigadors."
+
+  - id: b2-45-028
+    type: choice
+    point: regim-altres
+    lesson: 3
+    prompt: "La prova final ___ tres preguntes teòriques i un cas pràctic."
+    answer: "consisteix en"
+    distractors:
+      - text: "consisteix de"
+        why: "*Consistir* regeix *en*, no *de*."
+      - text: "consisteix amb"
+        why: "*Consistir* regeix *en*, no *amb*."
+    explanation: "*Consistir* regeix *en* davant d'un nom: la prova *consisteix en* tres preguntes."
+
+  - id: b2-45-029
+    type: choice
+    point: regim-altres
+    lesson: 3
+    prompt: "El Wei ___ la intel·ligència artificial des de l'institut."
+    answer: "s'interessa per"
+    distractors:
+      - text: "s'interessa en"
+        why: "En castellà es pot dir «interesarse en», però en català *interessar-se* regeix *per*."
+      - text: "s'interessa de"
+        why: "*Interessar-se* regeix *per*, no *de*."
+    explanation: "*Interessar-se* regeix sempre *per*: el Wei *s'interessa per* la intel·ligència artificial."
+
+  - id: b2-45-030
+    type: fill
+    point: regim-altres
+    lesson: 3
+    prompt: "El tutor ___ revisar la bibliografia una vegada més."
+    hint: "insistir, present + preposició (n'hi ha dues de correctes)"
+    answers: ["insisteix a", "insisteix en"]
+    wrong_answers:
+      - text: "insisteix de"
+        why: "*Insistir* admet *a* i *en*, però no *de*."
+    grading: tolerant
+    explanation: "*Insistir* admet dues preposicions: *insisteix a* revisar i *insisteix en* revisar són totes dues correctes."
+
+  - id: b2-45-031
+    type: fill
+    point: regim-altres
+    lesson: 3
+    prompt: "Per a l'experiment, comptem ___ deu voluntaris de la facultat."
+    hint: "preposició que regeix comptar"
+    answers: ["amb"]
+    wrong_answers:
+      - text: "en"
+        why: "*Comptar* regeix *amb*, no *en*."
+      - text: "de"
+        why: "*Comptar* regeix *amb*, no *de*."
+    grading: tolerant
+    explanation: "Quan vol dir «disposar de», *comptar* regeix *amb*: *comptem amb* deu voluntaris."
+
+  - id: b2-45-032
+    type: fill
+    point: regim-altres
+    lesson: 3
+    prompt: "El treball de curs ___ una enquesta a dos-cents estudiants."
+    hint: "consistir, present"
+    answers: ["consisteix en"]
+    wrong_answers:
+      - text: "consisteix de"
+        why: "*Consistir* regeix *en*, no *de*."
+    grading: tolerant
+    explanation: "El treball «és» una enquesta: *consistir* regeix *en* davant d'un nom."
+
+  - id: b2-45-033
+    type: fill
+    point: regim-altres
+    lesson: 3
+    prompt: "La Laia ___ la literatura medieval des de petita."
+    hint: "interessar-se, present"
+    answers: ["s'interessa per"]
+    wrong_answers:
+      - text: "s'interessa en"
+        why: "En castellà es pot dir «interesarse en», però en català *interessar-se* regeix *per*."
+    grading: tolerant
+    explanation: "«La Laia» és tercera persona: *s'interessa*, i el verb regeix *per*."
+
+  - id: b2-45-034
+    type: match
+    point: regim-altres
+    lesson: 3
+    instruction: "Relaciona cada verb amb la preposició que regeix."
+    pairs:
+      - ["comptar", "amb"]
+      - ["consistir", "en"]
+      - ["interessar-se", "per"]
+      - ["insistir", "a o en"]
+    explanation: "Cada verb té el seu règim: *comptar amb*, *consistir en*, *interessar-se per* i *insistir a* o *insistir en*."
+
+  - id: b2-45-035
+    type: choice
+    point: compte-preposicions
+    lesson: 3
+    prompt: "Abans de l'examen no puc deixar de pensar ___ els resultats."
+    answer: "en"
+    distractors:
+      - text: "amb"
+        why: "*Pensar* regeix *en* quan introdueix allò en què penses. *Amb* és la preposició d'altres verbs, com *comptar amb* o *casar-se amb*."
+      - text: "de"
+        why: "*Pensar* regeix *en* quan introdueix allò en què penses."
+    explanation: "*Pensar* regeix *en* quan introdueix allò en què penses: *pensar en* els resultats."
+
+  - id: b2-45-036
+    type: choice
+    point: compte-preposicions
+    lesson: 3
+    prompt: "Penso ___ aprovaré l'assignatura si repasso tots els apunts."
+    answer: "que"
+    distractors:
+      - text: "en què"
+        why: "Davant de *que*, la preposició cau: *penso que* aprovaré. En castellà es manté («pienso en que»)."
+      - text: "de què"
+        why: "Davant de *que* no hi va cap preposició: *penso que*."
+    explanation: "Davant de *que*, la preposició cau: *penso que* aprovaré."
+
+  - id: b2-45-037
+    type: find-error
+    point: compte-preposicions
+    lesson: 3
+    sentence: "Somio en que algun dia publicaré la meva tesi."
+    error: "en que"
+    fix: "que"
+    fix_distractors:
+      - text: "en què"
+        why: "L'accent no ho arregla: davant de *que*, la preposició ha de caure."
+      - text: "amb què"
+        why: "Davant de *que* no hi va cap preposició, ni *amb* ni *en*."
+    explanation: "En català, davant de *que* no hi va cap preposició: *somio que* publicaré la tesi. En castellà es diu «soñar con que»."
+
+  - id: b2-45-038
+    type: find-error
+    point: compte-preposicions
+    lesson: 3
+    sentence: "Ahir vaig somiar que volava per sobre del campus."
+    no_error: true
+    explanation: "La frase és correcta: *somiar que* no porta cap preposició davant de *que*."
+
+  - id: b2-45-039
+    type: find-error
+    point: compte-preposicions
+    lesson: 3
+    sentence: "La Montse es va casar en un company de la facultat."
+    error: "casar en"
+    fix: "casar amb"
+    fix_distractors:
+      - text: "casar de"
+        why: "*Casar-se* regeix *amb*, no *de*."
+      - text: "casar per"
+        why: "*Casar-se* regeix *amb*, no *per*."
+    explanation: "*Casar-se* regeix *amb*: la Montse *es va casar amb* un company."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-45-040
+    type: transform
+    point: regim-a
+    lesson: 4
+    instruction: "Canvia el subjecte a «la Montse»."
+    source: "[[Em dedico]] a la docència des de fa anys."
+    answers:
+      - "La Montse es dedica a la docència des de fa anys."
+      - "Des de fa anys, la Montse es dedica a la docència."
+    wrong_answers:
+      - text: "La Montse es dedica en la docència des de fa anys."
+        why: "*Dedicar-se* regeix *a*, no *en*."
+    grading: tolerant
+    explanation: "Amb «la Montse», el verb és *es dedica*, i *dedicar-se* regeix *a*."
+
+  - id: b2-45-041
+    type: transform
+    point: regim-a
+    lesson: 4
+    instruction: "Canvia el subjecte a «l'Arnau i jo»."
+    source: "[[Aspiro]] a treballar en aquesta facultat."
+    answers:
+      - "Aspirem a treballar en aquesta facultat."
+      - "L'Arnau i jo aspirem a treballar en aquesta facultat."
+    wrong_answers:
+      - text: "Aspirem en treballar en aquesta facultat."
+        why: "*Aspirar* regeix *a*, no *en*."
+    grading: tolerant
+    explanation: "Amb «l'Arnau i jo», el verb és *aspirem*, i *aspirar* regeix *a*."
+
+  - id: b2-45-042
+    type: transform
+    point: regim-de
+    lesson: 4
+    instruction: "Passa la frase al passat perifràstic."
+    source: "El departament [[no pot prescindir de]] cap tècnic."
+    answers: ["El departament no va poder prescindir de cap tècnic."]
+    wrong_answers:
+      - text: "El departament no va poder prescindir amb cap tècnic."
+        why: "*Prescindir* regeix *de*, no *amb*."
+    grading: tolerant
+    explanation: "El passat de *pot* és *va poder*; el règim no canvia: *prescindir de*."
+
+  - id: b2-45-043
+    type: transform
+    point: regim-altres
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb interessar-se."
+    source: "[[M'interessa]] la física quàntica des de petita."
+    answers:
+      - "M'interesso per la física quàntica des de petita."
+      - "Jo m'interesso per la física quàntica des de petita."
+    wrong_answers:
+      - text: "M'interesso en la física quàntica des de petita."
+        why: "En català, *interessar-se* regeix *per*. «Interesarse en» només és castellà."
+    grading: tolerant
+    explanation: "Amb *interessar-se*, el subjecte és la persona: *m'interesso*, i el verb regeix *per*."
+
+  - id: b2-45-044
+    type: transform
+    point: regim-altres
+    lesson: 4
+    instruction: "Reescriu la frase amb el verb comptar."
+    source: "L'equip [[té]] cinc becaris aquest curs."
+    answers:
+      - "L'equip compta amb cinc becaris aquest curs."
+      - "Aquest curs, l'equip compta amb cinc becaris."
+    wrong_answers:
+      - text: "L'equip conta amb cinc becaris aquest curs."
+        why: "*Comptar* s'escriu amb *p*. En castellà és «contar», però en català és *comptar*."
+    grading: tolerant
+    explanation: "*Comptar amb* vol dir «disposar de»: l'equip *compta amb* cinc becaris."
+
+  - id: b2-45-045
+    type: transform
+    point: compte-preposicions
+    lesson: 4
+    instruction: "Corregeix la frase."
+    source: "Penso [[amb]] els resultats de l'enquesta."
+    answers:
+      - "Penso en els resultats de l'enquesta."
+      - "Jo penso en els resultats de l'enquesta."
+    grading: tolerant
+    explanation: "*Pensar* regeix *en*, no *amb*: *penso en* els resultats."
+
+  - id: b2-45-046
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix la part marcada per l'expressió adequada."
+    source: "L'informe és molt complicat. [[L'hem d'entendre]]."
+    answers:
+      - "L'informe és molt complicat. N'hem de treure l'entrellat."
+      - "L'informe és molt complicat. Hem de treure'n l'entrellat."
+    grading: tolerant
+    explanation: "Quan un assumpte és complicat i l'arribes a entendre, *en treus l'entrellat*: *n'hem de treure l'entrellat* (o *hem de treure'n l'entrellat*)."
+
+  - id: b2-45-047
+    type: fill
+    point: compte-preposicions
+    lesson: 4
+    prompt: "L'Arnau es va ___ una companya de pis."
+    hint: "casar-se, passat perifràstic"
+    answers: ["casar amb"]
+    wrong_answers:
+      - text: "casar en"
+        why: "*Casar-se* regeix *amb*, no *en*."
+    grading: tolerant
+    explanation: "El passat de *es casa* és *es va casar*, i el verb regeix *amb*."
+
+  - id: b2-45-048
+    type: fill
+    point: expressions
+    lesson: 4
+    prompt: "Després de tres hores de debat, encara no ___."
+    hint: "tenir-ho clar, present (nosaltres)"
+    answers: ["ho tenim clar"]
+    wrong_answers:
+      - text: "ho tenim clara"
+        why: "*Ho* substitueix una idea: l'adjectiu va en masculí singular, *clar*."
+    grading: tolerant
+    explanation: "*Ho* substitueix una idea: *ho tenim clar*, amb l'adjectiu en masculí singular."
+
+  - id: b2-45-049
+    type: fill
+    point: regim-de
+    lesson: 4
+    prompt: "El degà diu que no és res greu: ___ les actes d'una reunió."
+    hint: "tractar-se, present"
+    answers: ["es tracta de"]
+    wrong_answers:
+      - text: "es trata de"
+        why: "*Tractar* s'escriu amb *c*. En castellà és «tratar», però en català és *tractar*."
+    grading: tolerant
+    explanation: "«És qüestió de» unes actes: *es tracta de*, amb el pronom *es*."
+
+  - id: b2-45-050
+    type: order
+    point: regim-altres
+    lesson: 4
+    cue: "Digues que el teu grup de doctorands s'interessa per la història medieval des de sempre."
+    chunks: ["El meu grup", "s'interessa per", "la història medieval", "des de sempre"]
+    extra: ["en"]
+    answers:
+      - "El meu grup s'interessa per la història medieval des de sempre."
+      - "Des de sempre, el meu grup s'interessa per la història medieval."
+    explanation: "*Interessar-se* regeix *per*. El complement de temps pot anar al principi o al final."
+
+  - id: b2-45-051
+    type: order
+    point: compte-preposicions
+    lesson: 4
+    cue: "Explica que sempre penses en la nota quan surts d'un examen."
+    chunks: ["Quan surto d'un examen", "sempre", "penso en", "la nota"]
+    extra: ["amb"]
+    answers:
+      - "Quan surto d'un examen, sempre penso en la nota."
+      - "Sempre penso en la nota quan surto d'un examen."
+    explanation: "*Pensar* regeix *en* quan introdueix allò en què penses. Els complements de temps es poden moure dins la frase."
+
+  - id: b2-45-052
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "Què vol dir «treure'n l'entrellat»?"
+    answer: "Arribar a entendre un assumpte complicat."
+    distractors:
+      - text: "Desfer un nus d'un fil o d'una corda."
+        why: "Aquest és el sentit literal de la paraula *entrellat*; l'expressió és figurada."
+      - text: "Abandonar un tema perquè és massa difícil."
+        why: "Al contrari: *treure'n l'entrellat* és arribar a entendre'l."
+    explanation: "*Treure'n l'entrellat* és aconseguir entendre un assumpte complicat."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-45-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La beca de la Carla"
+    text: |
+      La Carla va acabar el grau de biologia a Girona fa tres anys i de seguida ho va tenir clar: es dedicaria a la recerca. Va demanar plaça al doctorat de Barcelona i, amb una nota excel·lent, va accedir a una beca de quatre anys. La seva tesi estudia la genètica de les plantes medicinals, i el seu grup compta amb ella per a tots els experiments importants.
+
+      Al principi, però, no tot va ser fàcil. La hipòtesi inicial no es confirmava i la Carla passava les tardes a la biblioteca sense treure'n l'entrellat. El tutor insistia que calia canviar de mètode, però ella s'interessava més per repetir les proves que per començar de zero. «Ves al gra», li deia el tutor: «mira els resultats i llegeix entre línies».
+
+      Finalment, la Carla va renunciar a la primera hipòtesi i va dissenyar un experiment nou amb mostres de tot Catalunya. L'experiment consisteix en tres anàlisis de laboratori. Aquest cop els resultats van ser clars: va publicar dos articles científics i va presentar la feina en un congrés a Tarragona i en una conferència a Vic. Ara aspira a defensar la tesi al juny davant d'un tribunal de tres professors.
+
+      Si tot va bé, després de la defensa farà una estada en un laboratori de França. «Abans somiava que publicaria un llibre —diu rient—; ara somio que trobaré feina». El grup no pot prescindir-ne: de moment, ningú més sap fer anar les màquines noves.
+    questions:
+      - prompt: "Per què va aconseguir la beca, segons el text?"
+        answer: "Perquè tenia una nota excel·lent."
+        distractors:
+          - text: "Perquè el seu grup comptava amb ella."
+            why: "El grup compta amb ella, però la beca la va aconseguir per la nota."
+          - text: "Perquè ja havia publicat dos articles."
+            why: "Els articles els va publicar després, amb els nous resultats."
+      - prompt: "Quin problema tenia la Carla al principi?"
+        answer: "Els primers experiments no confirmaven la seva idea inicial."
+        distractors:
+          - text: "No tenia beca per continuar la tesi."
+            why: "Tenia una beca de quatre anys."
+          - text: "El tutor no la deixava repetir les proves."
+            why: "El text no diu això: ella repetia les proves tot i el consell del tutor."
+      - prompt: "Què va fer la Carla amb la primera hipòtesi?"
+        answer: "La va abandonar i en va provar una de nova."
+        distractors:
+          - text: "La va defensar davant del tribunal."
+            why: "La defensa és al juny, amb els nous resultats."
+          - text: "La va publicar en dos articles."
+            why: "Els articles presenten els resultats nous, no la primera hipòtesi."
+      - prompt: "Què passarà si tot va bé?"
+        answer: "Defensarà la tesi al juny i després anirà a França."
+        distractors:
+          - text: "Publicarà un llibre sobre les plantes."
+            why: "Publicar un llibre era un somni d'abans, no un pla."
+          - text: "Deixarà el grup perquè ja no la necessiten."
+            why: "Al contrari: el grup no pot prescindir-ne."
+    explanation: "El text explica com la Carla va superar els problemes inicials de la tesi i ara es prepara per defensar-la."
+
+  - id: b2-45-054
+    type: find-error
+    point: regim-a
+    lesson: 5
+    sentence: "En Pau es dedica en la recerca des de fa dos anys."
+    error: "dedica en"
+    fix: "dedica a"
+    fix_distractors:
+      - text: "dedica de"
+        why: "*Dedicar-se* regeix *a*, no *de*."
+      - text: "dedica per"
+        why: "*Dedicar-se* regeix *a*, no *per*."
+    explanation: "*Dedicar-se* regeix *a*, no *en*: en Pau *es dedica a* la recerca."
+
+  - id: b2-45-055
+    type: find-error
+    point: regim-de
+    lesson: 5
+    sentence: "El curs passat vam haver de prescindir d'un seminari optatiu."
+    no_error: true
+    explanation: "La frase és correcta: *vam haver de prescindir d'*un seminari, amb la preposició *de* apostrofada davant de vocal."
+
+  - id: b2-45-056
+    type: find-error
+    point: regim-altres
+    lesson: 5
+    sentence: "La Laia s'interessa en l'art romànic."
+    error: "interessa en"
+    fix: "interessa per"
+    fix_distractors:
+      - text: "interessa de"
+        why: "*Interessar-se* regeix *per*, no *de*."
+      - text: "interessa amb"
+        why: "*Interessar-se* regeix *per*, no *amb*."
+    explanation: "*Interessar-se* regeix *per*: en castellà es pot dir «interesarse en», però en català no."
+
+  - id: b2-45-057
+    type: find-error
+    point: compte-preposicions
+    lesson: 5
+    sentence: "Penso que trauré bona nota si estudio cada dia."
+    no_error: true
+    explanation: "La frase és correcta: davant de *que*, la preposició cau (*penso que*)."
+
+  - id: b2-45-058
+    type: choice
+    point: regim-a
+    lesson: 5
+    prompt: "La Fàtima ha hagut de ___ la seva plaça al congrés de tardor."
+    answer: "renunciar a"
+    distractors:
+      - text: "renunciar de"
+        why: "*Renunciar* regeix *a*, no *de*."
+      - text: "renunciar en"
+        why: "*Renunciar* regeix *a*, no *en*."
+    explanation: "*Renunciar* regeix *a*: la Fàtima ha hagut de *renunciar a* la seva plaça."
+
+  - id: b2-45-059
+    type: choice
+    point: regim-altres
+    lesson: 5
+    prompt: "L'examen final ___ dues parts: teoria i pràctica."
+    answer: "consisteix en"
+    distractors:
+      - text: "consisteix de"
+        why: "*Consistir* regeix *en*, no *de*."
+      - text: "consisteix amb"
+        why: "*Consistir* regeix *en*, no *amb*."
+    explanation: "*Consistir* regeix *en* davant d'un nom: l'examen *consisteix en* dues parts."
+
+  - id: b2-45-060
+    type: fill
+    point: regim-altres
+    lesson: 5
+    prompt: "La tutora ___ que cal refer la introducció."
+    hint: "insistir, present"
+    answers: ["insisteix"]
+    wrong_answers:
+      - text: "insisteix en"
+        why: "Davant de *que*, la preposició cau: *insisteix que*."
+      - text: "insisteix a"
+        why: "Davant de *que*, la preposició cau: *insisteix que*."
+    grading: tolerant
+    explanation: "Davant de *que*, la preposició cau: la tutora *insisteix que* cal refer la introducció."
+
+  - id: b2-45-061
+    type: fill
+    point: compte-preposicions
+    lesson: 5
+    prompt: "Ahir vaig ___ que em donaven la beca."
+    hint: "somiar, passat perifràstic"
+    answers: ["somiar"]
+    wrong_answers:
+      - text: "somiar en"
+        why: "Davant de *que* no hi va cap preposició: *vaig somiar que*."
+      - text: "somiar amb"
+        why: "Davant de *que* no hi va cap preposició: *vaig somiar que*."
+    grading: tolerant
+    explanation: "Davant de *que*, la preposició cau: *vaig somiar que* em donaven la beca."
+
+  - id: b2-45-062
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues al teu company que pari de divagar i parli del tema."
+    chunks: ["Prou de divagar", "i", "ves", "al gra"]
+    extra: ["amb calma"]
+    answers:
+      - "Prou de divagar i ves al gra."
+    explanation: "*Anar al gra* és parlar directament del tema important. L'imperatiu de *anar* (tu) és *ves*, sense accent."
+
+  - id: b2-45-063
+    type: inline-choice
+    point: regim-altres
+    lesson: 5
+    title: "Una setmana a la facultat"
+    text: "La Núria aspira {a|en|de} una càtedra i el departament compta {amb|en|de} ella per al nou màster. L'examen consisteix {en|de|amb} dues parts i la Carla s'interessa {per|en|de} la recerca: es tracta {de|a|amb} la setmana més llarga del curs."
+    explanation: "*Aspirar* regeix *a*; *comptar*, *amb*; *consistir*, *en*; *interessar-se*, *per*; *tractar-se*, *de*."
+
+  - id: b2-45-064
+    type: match
+    point: compte-preposicions
+    lesson: 5
+    instruction: "Relaciona cada construcció amb un exemple."
+    pairs:
+      - ["pensar en", "Penso en els resultats."]
+      - ["pensar que", "Penso que aprovaré."]
+      - ["somiar que", "Vaig somiar que volava."]
+      - ["casar-se amb", "Es va casar amb un company."]
+    explanation: "*Pensar* regeix *en*, però davant de *que* la preposició cau; *somiar* també va sense preposició davant de *que*; *casar-se* regeix *amb*."
+
+  - id: b2-45-065
+    type: transform
+    point: regim-de
+    lesson: 5
+    instruction: "Reescriu la frase amb el verb tractar-se."
+    source: "[[És]] una simple errada administrativa."
+    answers: ["Es tracta d'una simple errada administrativa."]
+    wrong_answers:
+      - text: "Es trata d'una simple errada administrativa."
+        why: "*Tractar* s'escriu amb *c*. En castellà és «tratar», però en català és *tractar*."
+    grading: tolerant
+    explanation: "«És qüestió de» una errada: *es tracta d'*una errada, amb el pronom *es* i la preposició *de*."

@@ -1,0 +1,1021 @@
+id: b2-46
+level: B2
+title: "Ortografia: h, r/rr, m/n i l/ll/l·l"
+summary: "La hac inicial i intercalada, la erra doble, la ema i la ena davant de consonant, la ela geminada i els grups -ject- i -jecc-, en el món de les arts i els espectacles."
+vocabulary_theme: "Arts i espectacles"
+points:
+  - id: lletra-h
+    title: "La hac inicial i intercalada"
+    refs:
+      - label: "GEIEC: Ortografia"
+        url: "https://geiec.iec.cat"
+  - id: erra-doble
+    title: "Erra suau i erra forta: r i rr"
+    refs:
+      - label: "GEIEC: Ortografia"
+        url: "https://geiec.iec.cat"
+  - id: ema-ena
+    title: "La ema i la ena davant de consonant"
+    refs:
+      - label: "GEIEC: Ortografia"
+        url: "https://geiec.iec.cat"
+  - id: ela-geminada
+    title: "Ela, ela doble i ela geminada"
+    refs:
+      - label: "GEIEC: Ortografia"
+        url: "https://geiec.iec.cat"
+  - id: grups-ject
+    title: "Els grups -ject- i -jecc-"
+    refs:
+      - label: "GEIEC: Ortografia"
+        url: "https://geiec.iec.cat"
+  - id: compte-h-castella
+    title: "Compte amb el castellà: la hac que canvia"
+    refs:
+      - label: "Optimot: La hac"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions de l'escenari"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: la hac i la erra"
+  - title: "Practicar la hac i la erra"
+  - title: "La ema i la ena, i la hac del castellà"
+  - title: "L'ela geminada i els grups -ject-"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "l'escenari"
+    definition: "Lloc del teatre on actuen els artistes."
+    example: "Els músics ja esperen a l'escenari."
+  - word: "l'estrena"
+    definition: "Primera funció d'una obra davant del públic."
+    example: "L'estrena és divendres i ja no queden entrades."
+  - word: "la funció"
+    definition: "Cadascuna de les representacions d'un espectacle."
+    example: "La funció de diumenge és a les sis."
+  - word: "l'espectador, l'espectadora"
+    definition: "Persona que mira un espectacle."
+    example: "Els espectadors van aplaudir dempeus."
+  - word: "l'aplaudiment"
+    definition: "Soroll de picar de mans per felicitar els artistes."
+    example: "Es va sentir un aplaudiment molt llarg."
+  - word: "l'entrada"
+    definition: "Paper o codi que permet veure un espectacle."
+    example: "He comprat dues entrades per dissabte."
+  - word: "la platea"
+    definition: "Part baixa del teatre, davant de l'escenari."
+    example: "Seiem a la tercera fila de la platea."
+  - word: "l'assaig"
+    definition: "Prova d'una obra abans de l'estrena."
+    example: "L'assaig general és dijous a la tarda."
+  - word: "el director, la directora d'escena"
+    definition: "Persona que dirigeix una obra de teatre."
+    example: "La directora d'escena ens va felicitar."
+  - word: "el guió"
+    definition: "Text d'una obra, d'un film o d'un programa."
+    example: "L'actor encara no se sap el guió de memòria."
+  - word: "el paper"
+    definition: "Personatge que fa un actor en una obra."
+    example: "La Núria fa el paper de la mare."
+  - word: "el repartiment"
+    definition: "Conjunt d'actors d'una obra o d'un film."
+    example: "El repartiment té quatre actors joves."
+  - word: "el vestuari"
+    definition: "Conjunt de vestits d'una obra."
+    example: "El vestuari de l'òpera és espectacular."
+  - word: "el decorat"
+    definition: "Allò que representa el lloc on passa l'acció."
+    example: "Van canviar el decorat a l'entreacte."
+  - word: "l'entreacte"
+    definition: "Pausa al mig d'un espectacle."
+    example: "A l'entreacte vam sortir a prendre alguna cosa."
+  - word: "la il·luminació"
+    definition: "Conjunt de llums d'un escenari."
+    example: "La il·luminació de l'última escena és preciosa."
+  - word: "l'exposició"
+    definition: "Conjunt d'obres que es mostren al públic."
+    example: "L'exposició del MACBA obre al març."
+  - word: "la galeria"
+    definition: "Sala on s'exposen i es venen obres d'art."
+    example: "Té una galeria petita al barri de Gràcia."
+  - word: "el quadre"
+    definition: "Pintura feta sobre tela o fusta."
+    example: "Van robar un quadre molt valuós del museu."
+  - word: "l'escultura"
+    definition: "Obra d'art feta en volum, de pedra o de metall."
+    example: "Al parc hi ha una escultura de bronze."
+  - word: "la projecció"
+    definition: "Acció de projectar un film davant del públic."
+    example: "La projecció comença a les vuit."
+  - word: "el concert"
+    definition: "Espectacle de música en directe."
+    example: "El concert de dissabte va omplir el Palau."
+  - word: "el cor"
+    definition: "Grup de persones que canten juntes."
+    example: "Canta en un cor de gòspel des de fa anys."
+  - word: "l'orquestra"
+    definition: "Conjunt gran de músics amb instruments diversos."
+    example: "L'orquestra va afinar abans de començar."
+  - word: "el festival"
+    definition: "Conjunt d'espectacles durant uns dies seguits."
+    example: "Cada estiu anem a un festival de jazz."
+  - word: "el premi"
+    definition: "Reconeixement que es dona a un artista."
+    example: "L'actriu va guanyar el premi a Sitges."
+  - word: "la taquilla"
+    definition: "Lloc on es venen les entrades."
+    example: "A la taquilla ja no hi quedava res."
+  - word: "la crítica"
+    definition: "Article que valora una obra o un espectacle."
+    example: "La crítica ha lloat l'últim disc."
+  - word: "la companyia"
+    definition: "Grup estable d'actors o de ballarins."
+    example: "Una companyia italiana porta un espectacle nou."
+  - word: "el projecte"
+    definition: "Pla d'una obra o d'una activitat futura."
+    example: "Tenen un projecte de teatre al carrer."
+  - word: "l'homenatge"
+    definition: "Acte per honorar una persona."
+    example: "Li van fer un homenatge pels quaranta anys d'ofici."
+  - word: "l'harmònica"
+    definition: "Instrument petit de vent que es toca amb la boca."
+    example: "Tocava l'harmònica als carrers de Gràcia."
+  - word: "la trajectòria"
+    definition: "Conjunt de treballs d'un artista al llarg del temps."
+    example: "La seva trajectòria inclou deu discos."
+  - word: "la coreografia"
+    definition: "Art de crear una dansa; conjunt de passos."
+    example: "La coreografia del final és molt difícil."
+  - word: "la balada"
+    definition: "Cançó lenta i sentimental."
+    example: "Va tancar el concert amb una balada."
+  - word: "el ballet"
+    definition: "Dansa clàssica que es representa en un escenari."
+    example: "Fan un ballet rus al Liceu."
+  - word: "la novel·la"
+    definition: "Narració llarga en prosa."
+    example: "Han portat la novel·la al cinema."
+  - word: "la pel·lícula"
+    definition: "Obra de cinema."
+    example: "La pel·lícula dura dues hores llargues."
+  - word: "emmarcar"
+    definition: "Posar un marc a un quadre o a una foto."
+    example: "Hem fet emmarcar el cartell de l'exposició."
+  - word: "commoure"
+    definition: "Provocar una emoció forta."
+    example: "El final de l'obra ens va commoure a tots."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-46-001
+    type: choice
+    point: lletra-h
+    lesson: 1
+    prompt: "Quin mot s'escriu amb haca?"
+    answer: "hivern"
+    distractors:
+      - text: "orxata"
+        why: "*Orxata* s'escriu sense haca."
+      - text: "ou"
+        why: "*Ou* s'escriu sense haca."
+    explanation: "*Hivern* porta haca inicial. *Orxata* i *ou*, no."
+
+  - id: b2-46-002
+    type: choice
+    point: lletra-h
+    lesson: 1
+    prompt: "Li van fer un ___ pels vint anys de teatre."
+    answer: "homenatge"
+    distractors:
+      - text: "omenatge"
+        why: "*Homenatge* s'escriu amb haca inicial."
+      - text: "homenatje"
+        why: "El final és *-tge*, amb *g*: *homenatge*."
+    explanation: "Un acte per honorar algú és un *homenatge*, amb haca inicial."
+
+  - id: b2-46-003
+    type: choice
+    point: erra-doble
+    lesson: 1
+    prompt: "Quin mot s'escriu amb dues erres?"
+    answer: "guitarra"
+    distractors:
+      - text: "coreografia"
+        why: "*Coreografia* sona suau entre vocals: una erra."
+      - text: "escenari"
+        why: "*Escenari* sona suau entre vocals: una erra."
+    explanation: "*Guitarra* sona fort entre vocals: dues erres. *Coreografia* i *escenari* sonen suaus."
+
+  - id: b2-46-004
+    type: choice
+    point: erra-doble
+    lesson: 1
+    prompt: "El concert de ___ va durar dues hores."
+    answer: "guitarra"
+    distractors:
+      - text: "guitara"
+        why: "Sona fort entre vocals: dues erres, *guitarra*."
+      - text: "guittarra"
+        why: "Només calen dues erres: *guitarra*."
+    explanation: "L'instrument de sis cordes és la *guitarra*, amb dues erres."
+
+  - id: b2-46-005
+    type: match
+    point: lletra-h
+    lesson: 1
+    instruction: "Relaciona cada frase amb el mot que hi falta."
+    pairs:
+      - ["___ vam anar a l'exposició del MACBA.", "ahir"]
+      - ["A l'___ el museu tanca a les sis.", "hivern"]
+      - ["Li van fer un ___ molt emotiu.", "homenatge"]
+      - ["Van tocar l'___ del festival.", "himne"]
+      - ["Al museu està ___ fer fotos amb flaix.", "prohibit"]
+    explanation: "*Ahir*, *hivern*, *homenatge*, *himne* i *prohibit* s'escriuen amb haca."
+
+  - id: b2-46-006
+    type: inline-choice
+    point: lletra-h
+    lesson: 1
+    title: "Concert d'hivern"
+    text: "Aquest {h|∅}ivern l'orquestra fa un {h|∅}omenatge al seu fundador. A{h|∅}ir vam assajar l'{h|∅}imne del festival."
+    explanation: "*Hivern*, *homenatge* i *himne* porten haca inicial. *Ahir* porta haca intercalada."
+
+  - id: b2-46-007
+    type: inline-choice
+    point: erra-doble
+    lesson: 1
+    title: "Nit de concert"
+    text: "El concert va començar amb un solo de guita{rr|r}a. Després, un trio de música ba{rr|r}oca va rebre un aplaudiment llarg. L'est{r|rr}ena de la temporada serà al Palau, i el {r|rr}itme del final farà ballar tothom."
+    explanation: "*Guitarra* i *barroca* sonen fort entre vocals: dues erres. *Estrena* (darrere de *t*) i *ritme* (a principi de mot) sonen fort amb una erra."
+
+  - id: b2-46-008
+    type: fill
+    point: lletra-h
+    lesson: 1
+    prompt: "___ vam anar a l'exposició del MACBA."
+    hint: "el dia abans d'avui"
+    answers: ["Ahir"]
+    wrong_answers:
+      - text: "Air"
+        why: "*Ahir* s'escriu amb haca."
+    grading: strict
+    explanation: "El dia abans d'avui és *ahir*, amb haca intercalada."
+
+  - id: b2-46-009
+    type: fill
+    point: lletra-h
+    lesson: 1
+    prompt: "Al museu està ___ fer fotos amb flaix."
+    hint: "PROHIBIR, participi"
+    answers: ["prohibit"]
+    wrong_answers:
+      - text: "proibit"
+        why: "*Prohibir* s'escriu amb haca: *prohibit*."
+    grading: strict
+    explanation: "El participi de *prohibir* és *prohibit*, amb haca."
+
+  - id: b2-46-010
+    type: fill
+    point: erra-doble
+    lesson: 1
+    prompt: "El grup de ___ va tocar dues hores."
+    hint: "instrument de sis cordes, en plural"
+    answers: ["guitarres"]
+    wrong_answers:
+      - text: "guitares"
+        why: "*Guitarra* s'escriu amb dues erres: *guitarres*."
+    grading: strict
+    explanation: "L'instrument de sis cordes és la *guitarra*, amb dues erres."
+
+  - id: b2-46-011
+    type: order
+    point: lletra-h
+    lesson: 1
+    cue: "Anuncia el mes de l'exhibició."
+    chunks: ["L'exhibició", "serà", "al", "maig"]
+    extra: ["exibició"]
+    answers:
+      - "L'exhibició serà al maig."
+      - "Al maig serà l'exhibició."
+    explanation: "*Exhibició* s'escriu amb haca. El complement de temps pot anar al final o al principi."
+
+  - id: b2-46-012
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «fer el paper»?"
+    answer: "Interpretar un personatge en una obra."
+    distractors:
+      - text: "Escriure el guió d'una obra."
+        why: "Això és crear el text, no interpretar un personatge."
+      - text: "Llegir el text en veu alta."
+        why: "Això és una lectura, no interpretar un personatge."
+    explanation: "*Fer el paper* vol dir interpretar un personatge en una obra."
+
+  - id: b2-46-013
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "La Laia interpreta la protagonista. Què diem?"
+    answer: "Fa el paper de la protagonista."
+    distractors:
+      - text: "Fa el papel de la protagonista."
+        why: "«Papel» és castellà; en català, *paper*."
+      - text: "Diu el paper de la protagonista."
+        why: "El verb de l'expressió és *fer*: *fa el paper*."
+    explanation: "Interpretar la protagonista és *fer el paper de la protagonista*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-46-014
+    type: fill
+    point: lletra-h
+    lesson: 2
+    prompt: "L'___ de dansa africana de diumenge va ser un èxit."
+    hint: "el nom de *exhibir*"
+    answers: ["exhibició"]
+    wrong_answers:
+      - text: "exibició"
+        why: "*Exhibició* s'escriu amb haca."
+    grading: strict
+    explanation: "El nom de *exhibir* és *exhibició*, amb haca."
+
+  - id: b2-46-015
+    type: fill
+    point: compte-h-castella
+    lesson: 2
+    prompt: "El final del concert va ser ple d'___."
+    hint: "combinació agradable de sons"
+    answers: ["harmonia"]
+    wrong_answers:
+      - text: "armonia"
+        why: "Sense haca és la forma castellana («armonía», amb accent). En català: *harmonia*."
+    grading: strict
+    explanation: "La combinació agradable de sons és *harmonia*, amb haca inicial, al revés que en castellà."
+
+  - id: b2-46-016
+    type: fill
+    point: erra-doble
+    lesson: 2
+    prompt: "El concert de música ___ va omplir l'església."
+    hint: "estil del segle XVII; concorda amb «música»"
+    answers: ["barroca"]
+    wrong_answers:
+      - text: "baroca"
+        why: "*Barroc* s'escriu amb dues erres: *barroca*."
+    grading: strict
+    explanation: "L'estil del segle XVII és el *barroc*: *barroca*, amb dues erres."
+
+  - id: b2-46-017
+    type: fill
+    point: erra-doble
+    lesson: 2
+    prompt: "Ahir vam veure una pel·lícula de ___."
+    hint: "gènere de por"
+    answers: ["terror"]
+    wrong_answers:
+      - text: "teror"
+        why: "*Terror* s'escriu amb dues erres."
+    grading: strict
+    explanation: "El gènere de por és el *terror*, amb dues erres."
+
+  - id: b2-46-018
+    type: choice
+    point: lletra-h
+    lesson: 2
+    prompt: "Van fer un acte ___ i emotiu."
+    answer: "coherent"
+    distractors:
+      - text: "coerent"
+        why: "*Coherent* s'escriu amb haca."
+      - text: "coerente"
+        why: "És la forma castellana «coherente». En català acaba en *-ent*: *coherent*."
+    explanation: "«Un acte coherent» vol dir un acte amb sentit: *coherent*, amb haca."
+
+  - id: b2-46-019
+    type: choice
+    point: erra-doble
+    lesson: 2
+    prompt: "Canta en un ___ de gòspel des de fa anys."
+    answer: "cor"
+    distractors:
+      - text: "corr"
+        why: "*Cor* s'escriu amb una sola erra."
+      - text: "coro"
+        why: "«Coro» és castellà; en català, *cor*."
+    explanation: "Un grup que canta és un *cor*, amb una sola erra."
+
+  - id: b2-46-020
+    type: order
+    point: erra-doble
+    lesson: 2
+    cue: "Digues que la Carla toca la guitarra al concert."
+    chunks: ["La Carla", "toca", "la guitarra", "al", "concert"]
+    extra: ["guitara"]
+    answers:
+      - "La Carla toca la guitarra al concert."
+      - "Al concert, la Carla toca la guitarra."
+    explanation: "*Guitarra* s'escriu amb dues erres. El complement (*al concert*) pot anar al final o al principi."
+
+  - id: b2-46-021
+    type: choice
+    point: erra-doble
+    lesson: 2
+    prompt: "A l'___ vam sortir a prendre alguna cosa."
+    answer: "entreacte"
+    distractors:
+      - text: "enterracte"
+        why: "Darrere de consonant (*t*) s'escriu una erra: *entreacte*."
+      - text: "enteracte"
+        why: "El mot és *entre-* + *acte*: *entreacte*."
+    explanation: "La pausa al mig d'un espectacle és *entreacte*: *entre-* + *acte*, amb una erra darrere de *t*."
+
+  - id: b2-46-022
+    type: choice
+    point: lletra-h
+    lesson: 2
+    prompt: "Van llogar un ___ per portar el decorat."
+    answer: "vehicle"
+    distractors:
+      - text: "vecicle"
+        why: "*Vehicle* s'escriu amb haca."
+      - text: "vehiculo"
+        why: "«Vehiculo» és castellà; en català, *vehicle*."
+    explanation: "Per portar el decorat cal un *vehicle*, amb haca."
+
+  - id: b2-46-023
+    type: choice
+    point: erra-doble
+    lesson: 2
+    prompt: "Van ___ fins al teatre perquè feien tard."
+    answer: "córrer"
+    distractors:
+      - text: "correr"
+        why: "*Córrer* s'escriu amb dues erres."
+      - text: "corre"
+        why: "Després de *van* (passat perifràstic) cal l'infinitiu: *córrer*."
+    explanation: "Anar de pressa a peu és *córrer*, amb dues erres."
+
+  - id: b2-46-024
+    type: choice
+    point: erra-doble
+    lesson: 2
+    prompt: "Vam veure una ___ de teatre molt divertida."
+    answer: "obra"
+    distractors:
+      - text: "obrra"
+        why: "Darrere de consonant (*b*), el so fort s'escriu amb una erra: *obra*."
+      - text: "orba"
+        why: "L'ordre de les lletres és *o-b-r-a*: *obra*."
+    explanation: "Una peça de teatre és una *obra*: darrere de *b*, una erra."
+
+  - id: b2-46-025
+    type: order
+    point: erra-doble
+    lesson: 2
+    cue: "Digues que el barroc sona molt bé en aquest teatre."
+    chunks: ["El barroc", "sona", "molt bé", "en aquest teatre"]
+    extra: ["barroco"]
+    answers:
+      - "El barroc sona molt bé en aquest teatre."
+      - "En aquest teatre, el barroc sona molt bé."
+    explanation: "*Barroc* s'escriu amb dues erres. El complement de lloc pot anar al final o al principi."
+
+  - id: b2-46-026
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "Què vol dir «ser el centre d'atenció»?"
+    answer: "Rebre totes les mirades."
+    distractors:
+      - text: "Seure al mig de la platea."
+        why: "Això és la posició física, no el sentit de l'expressió."
+      - text: "Ser el protagonista de l'obra."
+        why: "Pots ser el centre d'atenció sense ser el protagonista: és qui rep les mirades."
+    explanation: "*Ser el centre d'atenció* vol dir rebre totes les mirades."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-46-027
+    type: choice
+    point: ema-ena
+    lesson: 3
+    prompt: "La ___ de dansa arriba demà de Lisboa."
+    answer: "companyia"
+    distractors:
+      - text: "conpanyia"
+        why: "Davant de *p* s'escriu *m*: *companyia*."
+      - text: "compañía"
+        why: "«Compañía» és castellà. En català, amb *ny*, sense accent i amb *m*: *companyia*."
+    explanation: "El grup de dansa és la *companyia*: davant de *p*, *m*."
+
+  - id: b2-46-028
+    type: choice
+    point: ema-ena
+    lesson: 3
+    prompt: "Va sonar una ___ a l'última fila."
+    answer: "trompeta"
+    distractors:
+      - text: "tronpeta"
+        why: "Davant de *p* s'escriu *m*: *trompeta*."
+      - text: "tromppeta"
+        why: "No cal doblar la pe: *trompeta*."
+    explanation: "L'instrument de metall és la *trompeta*: davant de *p*, *m*."
+
+  - id: b2-46-029
+    type: choice
+    point: ema-ena
+    lesson: 3
+    prompt: "He rebut la ___ per a l'estrena de demà."
+    answer: "invitació"
+    distractors:
+      - text: "imvitació"
+        why: "Davant de *v* s'escriu *n*: *invitació*."
+      - text: "inbitació"
+        why: "El so és de *v*, no de *b*: *invitació*."
+    explanation: "El paper per entrar-hi és la *invitació*: davant de *v*, *n*."
+
+  - id: b2-46-030
+    type: fill
+    point: ema-ena
+    lesson: 3
+    prompt: "El solo de trompeta va ser una ___ total."
+    hint: "IMPROVISAR, nom d'acció"
+    answers: ["improvisació"]
+    wrong_answers:
+      - text: "inprovisació"
+        why: "Davant de *p* s'escriu *m*: *improvisació*."
+    grading: strict
+    explanation: "El nom de *improvisar* és *improvisació*: davant de *p*, *m*."
+
+  - id: b2-46-031
+    type: fill
+    point: ema-ena
+    lesson: 3
+    prompt: "El ___ de vestuari va durar deu minuts."
+    hint: "modificació"
+    answers: ["canvi"]
+    wrong_answers:
+      - text: "camvi"
+        why: "Davant de *v* s'escriu *n*: *canvi*."
+    grading: strict
+    explanation: "Canviar-se de roba a l'escena és un *canvi* de vestuari: davant de *v*, *n*."
+
+  - id: b2-46-032
+    type: fill
+    point: erra-doble
+    lesson: 3
+    prompt: "T'he enviat les entrades per ___ electrònic."
+    hint: "sistema de missatges"
+    answers: ["correu"]
+    wrong_answers:
+      - text: "coreu"
+        why: "*Correu* s'escriu amb dues erres."
+    grading: strict
+    explanation: "El sistema de missatges és el *correu* electrònic, amb dues erres."
+
+  - id: b2-46-033
+    type: inline-choice
+    point: ema-ena
+    lesson: 3
+    title: "Canvis al programa"
+    text: "La co{m|n}panyia anuncia un ca{n|m}vi al programa: el concert de tro{m|n}peta passa a la sala de música de ca{m|n}bra. Els socis rebran la i{n|m}vitació per correu."
+    explanation: "Davant de *p* (*companyia*, *trompeta*) i de *b* (*cambra*) s'escriu *m*. Davant de *v* (*canvi*, *invitació*) s'escriu *n*."
+
+  - id: b2-46-034
+    type: find-error
+    point: compte-h-castella
+    lesson: 3
+    sentence: "Abans de la funció vam recollir les entrades a la taquilla i vam prendre una horxata."
+    error: "horxata"
+    fix: "orxata"
+    fix_distractors:
+      - text: "orxatta"
+        why: "Només cal una te: *orxata*."
+      - text: "orxeta"
+        why: "La vocal és *a*: *orxata*."
+    explanation: "En català, *orxata* no porta haca. «Horchata», amb haca, és castellà."
+
+  - id: b2-46-035
+    type: find-error
+    point: compte-h-castella
+    lesson: 3
+    sentence: "Per sopar, els actors van demanar huevos farcits."
+    error: "huevos"
+    fix: "ous"
+    fix_distractors:
+      - text: "ou"
+        why: "«Farcits» és plural: *ous*."
+      - text: "hovos"
+        why: "En català s'escriu sense haca i amb *u*: *ous*. «Huevos» és castellà."
+    explanation: "En català, *ou* no porta haca. «Huevos» és la forma castellana."
+
+  - id: b2-46-036
+    type: find-error
+    point: compte-h-castella
+    lesson: 3
+    sentence: "L'orxata de la cantina era boníssima."
+    no_error: true
+    explanation: "La frase és correcta: *orxata* s'escriu sense haca."
+
+  - id: b2-46-037
+    type: match
+    point: ema-ena
+    lesson: 3
+    instruction: "Relaciona cada frase amb el mot que hi falta."
+    pairs:
+      - ["La ___ de dansa arriba demà.", "companyia"]
+      - ["Tocava la ___ a l'orquestra.", "trompeta"]
+      - ["Assagen en una sala de música de ___.", "cambra"]
+      - ["He rebut la ___ per correu electrònic.", "invitació"]
+      - ["Hi ha hagut un ___ al programa.", "canvi"]
+    explanation: "Davant de *p* i de *b* s'escriu *m* (*companyia*, *trompeta*, *cambra*). Davant de *v*, *n* (*invitació*, *canvi*)."
+
+  - id: b2-46-038
+    type: choice
+    point: expressions
+    lesson: 3
+    prompt: "Després de l'estrena, la directora va ser el ___ de tothom."
+    answer: "centre d'atenció"
+    distractors:
+      - text: "centro d'atenció"
+        why: "«Centro» és castellà; en català, *centre*."
+      - text: "centre d'atención"
+        why: "«Atención» és castellà; en català, *atenció*."
+    explanation: "Rebre totes les mirades és *ser el centre d'atenció*."
+
+  - id: b2-46-039
+    type: choice
+    point: compte-h-castella
+    lesson: 3
+    prompt: "El final del concert, ple d'___, va emocionar tothom."
+    answer: "harmonia"
+    distractors:
+      - text: "armonia"
+        why: "Sense haca és la forma castellana («armonía», amb accent). En català: *harmonia*."
+      - text: "armonía"
+        why: "«Armonía» és castellà; en català, amb haca i sense accent: *harmonia*."
+    explanation: "La combinació agradable de sons és *harmonia*, amb haca inicial, al revés que en castellà."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-46-040
+    type: choice
+    point: ela-geminada
+    lesson: 4
+    prompt: "Quin mot s'escriu amb ela geminada?"
+    answer: "novel·la"
+    distractors:
+      - text: "galeria"
+        why: "*Galeria* s'escriu amb una sola ela."
+      - text: "balada"
+        why: "*Balada* (cançó) s'escriu amb una ela. Amb dues, *ballada* ve de *ballar*."
+    explanation: "Dels tres mots, només *novel·la* porta ela geminada."
+
+  - id: b2-46-041
+    type: choice
+    point: ela-geminada
+    lesson: 4
+    prompt: "La ___ de l'última escena era preciosa."
+    answer: "il·luminació"
+    distractors:
+      - text: "iluminació"
+        why: "*Il·luminació* porta ela geminada."
+      - text: "iluminación"
+        why: "«Iluminación» és castellà; en català, amb ela geminada: *il·luminació*."
+    explanation: "Els llums de l'escena són la *il·luminació*, amb ela geminada."
+
+  - id: b2-46-042
+    type: choice
+    point: grups-ject
+    lesson: 4
+    prompt: "La ___ del documental comença a les vuit."
+    answer: "projecció"
+    distractors:
+      - text: "progecció"
+        why: "Aquests mots s'escriuen amb *j*: *projecció*."
+      - text: "projeció"
+        why: "Davant de *i* el grup és *-cc-*: *projecció*."
+    explanation: "Passar un film davant del públic és una *projecció*, amb *j* i *-cc-*."
+
+  - id: b2-46-043
+    type: fill
+    point: ela-geminada
+    lesson: 4
+    prompt: "Ahir vam veure una ___ de por al cinema."
+    hint: "sinònim de *film*"
+    answers: ["pel·lícula"]
+    wrong_answers:
+      - text: "pelicula"
+        why: "*Pel·lícula* porta ela geminada i accent."
+    grading: strict
+    explanation: "*Film* i *pel·lícula* són sinònims. *Pel·lícula* porta ela geminada."
+
+  - id: b2-46-044
+    type: fill
+    point: ela-geminada
+    lesson: 4
+    prompt: "Va tancar el concert amb una ___ preciosa, no amb una ballada."
+    hint: "cançó lenta"
+    answers: ["balada"]
+    wrong_answers:
+      - text: "ballada"
+        why: "*Balada* (cançó) s'escriu amb una ela. *Ballada* ve de *ballar*."
+    grading: strict
+    explanation: "Una cançó lenta és una *balada*, amb una ela."
+
+  - id: b2-46-045
+    type: fill
+    point: grups-ject
+    lesson: 4
+    prompt: "Tenen un ___ de teatre al carrer per l'estiu."
+    hint: "PROJECTAR, nom d'acció"
+    answers: ["projecte"]
+    wrong_answers:
+      - text: "progecte"
+        why: "S'escriu amb *j*: *projecte*."
+      - text: "proyecte"
+        why: "«Proyecto» és castellà; en català, amb *j*: *projecte*."
+    grading: strict
+    explanation: "El nom de *projectar* és *projecte*, amb *j* i el grup *-ject-*."
+
+  - id: b2-46-046
+    type: fill
+    point: grups-ject
+    lesson: 4
+    prompt: "El fotògraf va netejar l'___ de la càmera."
+    hint: "lent d'una càmera"
+    answers: ["objectiu"]
+    wrong_answers:
+      - text: "objetiu"
+        why: "El grup és *-ject-*, amb *c*: *objectiu*."
+    grading: strict
+    explanation: "*Objectiu* (la lent) s'escriu amb *j* i el grup *-ject-*."
+
+  - id: b2-46-047
+    type: transform
+    point: compte-h-castella
+    lesson: 4
+    instruction: "Corregeix el mot marcat."
+    source: "Ahir vam dinar [[horxata]] i bunyols."
+    answers: ["Ahir vam dinar orxata i bunyols."]
+    wrong_answers:
+      - text: "Ahir vam dinar orxatta i bunyols."
+        why: "Només cal una te: *orxata*."
+    grading: strict
+    explanation: "*Orxata* s'escriu sense haca. «Horchata», amb haca, és castellà."
+
+  - id: b2-46-048
+    type: transform
+    point: erra-doble
+    lesson: 4
+    instruction: "Corregeix el mot marcat."
+    source: "El [[guitarista]] principal està malalt."
+    answers: ["El guitarrista principal està malalt."]
+    wrong_answers:
+      - text: "El guitarista principal està malalt."
+        why: "*Guitarra* s'escriu amb dues erres: *guitarrista*."
+    grading: strict
+    explanation: "L'instrument de sis cordes és la *guitarra*: *guitarrista*, amb dues erres."
+
+  - id: b2-46-049
+    type: transform
+    point: ema-ena
+    lesson: 4
+    instruction: "Corregeix el mot marcat."
+    source: "La [[conpanyia]] de dansa arriba demà."
+    answers: ["La companyia de dansa arriba demà."]
+    wrong_answers:
+      - text: "La conpanyia de dansa arriba demà."
+        why: "Davant de *p* s'escriu *m*: *companyia*."
+    grading: strict
+    explanation: "El grup de dansa és la *companyia*: davant de *p*, *m*."
+
+  - id: b2-46-050
+    type: transform
+    point: ela-geminada
+    lesson: 4
+    instruction: "Corregeix el mot marcat."
+    source: "La [[iluminació]] de l'obra era perfecta."
+    answers: ["La il·luminació de l'obra era perfecta."]
+    wrong_answers:
+      - text: "La iluminació de l'obra era perfecta."
+        why: "*Il·luminació* porta ela geminada."
+    grading: strict
+    explanation: "Els llums de l'escena són la *il·luminació*, amb ela geminada."
+
+  - id: b2-46-051
+    type: transform
+    point: grups-ject
+    lesson: 4
+    instruction: "Corregeix el mot marcat."
+    source: "La infermera li va posar una [[ingeció]] al braç."
+    answers: ["La infermera li va posar una injecció al braç."]
+    wrong_answers:
+      - text: "La infermera li va posar una ingeció al braç."
+        why: "Davant de *i* el grup és *-cc-*: *injecció*."
+    grading: strict
+    explanation: "Posar un medicament amb xeringa és una *injecció*, amb *j* i *-cc-*."
+
+  - id: b2-46-052
+    type: order
+    point: ela-geminada
+    lesson: 4
+    cue: "Digues quantes pàgines té el llibre: tres-centes."
+    chunks: ["La novel·la", "té", "tres-centes", "pàgines"]
+    extra: ["novela"]
+    answers:
+      - "La novel·la té tres-centes pàgines."
+    explanation: "*Novel·la* porta ela geminada. L'ordre és subjecte + verb + complement."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-46-053
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "La companyia del barri"
+    text: |
+      La Laia dirigeix una companyia de teatre de Gràcia des de fa deu anys. Van començar amb una obra petita en un bar i ara omplen un teatre de dos-cents espectadors cada cap de setmana. El vestuari el fan a mà amb roba de segona mà. La temporada passada van rebre el premi de la crítica pel seu projecte de teatre al carrer.
+
+      Aquest hivern preparen un homenatge llarg i emotiu a una actriu del barri amb una trajectòria de quaranta anys als escenaris. El programa inclou la projecció d'un documental sobre la seva vida, un concert de guitarra i harmònica en directe i la lectura d'una novel·la. Una hora abans de la funció obrirà una exhibició de vestuari antic.
+
+      La directora d'escena vol que tot sigui perfecte. Ahir van fer l'assaig general: la il·luminació va fallar dues vegades i el canvi d'escena va durar deu minuts. El guitarrista va arribar tard perquè venia d'un altre concert a Hospitalet. El repartiment estava nerviós, però la Laia diu que el públic de l'estrena no ho notarà. «El teatre és com la vida: sempre hi ha un entreacte per respirar», explica rient.
+
+      Les entrades es van exhaurir en només dos dies. A l'entreacte, la cantina vendrà orxata i cafè. La companyia ha demanat a l'Ajuntament una sala més gran, però de moment faran dues funcions cada dissabte. La crítica ja ha lloat la coreografia del final. «Volem que el barri sencer vingui a l'homenatge», diu la Laia. «Ella ens ha commogut moltes vegades; ara ens toca a nosaltres.»
+    questions:
+      - prompt: "Com va començar la companyia de la Laia?"
+        answer: "Representant una obra modesta en un bar."
+        distractors:
+          - text: "Amb un projecte de teatre al carrer."
+            why: "El teatre al carrer és el projecte premiat de la temporada passada."
+          - text: "Amb un documental sobre una actriu."
+            why: "El documental és sobre l'actriu de l'homenatge d'ara."
+      - prompt: "Què passarà una hora abans de la funció?"
+        answer: "El públic podrà veure el vestuari antic abans d'entrar."
+        distractors:
+          - text: "Es projectarà el documental sobre l'actriu."
+            why: "La projecció és part de l'homenatge, no de l'hora anterior."
+          - text: "Es farà l'assaig general de l'obra."
+            why: "L'assaig general ja s'ha fet: va ser ahir."
+      - prompt: "Quin problema hi va haver a l'assaig general?"
+        answer: "Va fallar la llum i el canvi d'escena va durar massa."
+        distractors:
+          - text: "El repartiment no coneixia l'obra."
+            why: "El repartiment estava nerviós, però el text no diu que no conegués l'obra."
+          - text: "El guitarrista no va venir a l'assaig."
+            why: "Sí que hi va anar, però va arribar tard."
+      - prompt: "Per què faran dues funcions cada dissabte?"
+        answer: "Perquè les entrades es van exhaurir i la sala és petita."
+        distractors:
+          - text: "Perquè l'Ajuntament els ha cedit una sala gran."
+            why: "Han demanat una sala més gran, però encara no la tenen."
+          - text: "Perquè volen assajar més abans de l'estrena."
+            why: "L'assaig ja s'ha fet; les funcions són per al públic."
+    explanation: "El text explica com una companyia de Gràcia prepara un homenatge a una actriu del barri."
+
+  - id: b2-46-054
+    type: inline-choice
+    point: grups-ject
+    lesson: 5
+    title: "Un projecte de cinema"
+    text: "El cineclub prepara un nou proje{c|cc}te de tardor: la proje{cc|c}ió d'un documental sobre la traje{c|cc}tòria del barri. L'obje{c|cc}te més antic és una càmera de 1960, i el director explicarà quin obje{c|cc}tiu feia servir."
+    explanation: "Els grups són *-ject-* (*projecte*, *trajectòria*, *objecte*, *objectiu*) i *-jecc-* (*projecció*). Tots s'escriuen amb *j*."
+
+  - id: b2-46-055
+    type: inline-choice
+    point: ela-geminada
+    lesson: 5
+    title: "Notes d'una exposició"
+    text: "L'exposició inclou la nove{l·l|ll|l}a gràfica de l'autora, una ga{l|ll}eria de retrats i el vestit del ba{ll|l}et de l'any passat. La co{l·l|ll|l}aboració amb el museu ha estat excel·lent, i cada tarda tanquen amb una ba{l|ll}ada en directe."
+    explanation: "*Novel·la* i *col·laboració* porten ela geminada. *Galeria* i *balada* (cançó), una ela. *Ballet*, dues eles."
+
+  - id: b2-46-056
+    type: find-error
+    point: erra-doble
+    lesson: 5
+    sentence: "El guitarrista del grup és de Reus."
+    no_error: true
+    explanation: "La frase és correcta: *guitarrista* s'escriu amb dues erres."
+
+  - id: b2-46-057
+    type: find-error
+    point: ema-ena
+    lesson: 5
+    sentence: "La conpanyia de dansa és de Lisboa."
+    error: "conpanyia"
+    fix: "companyia"
+    fix_distractors:
+      - text: "companyía"
+        why: "En català no porta accent. I davant de *p*, *m*: *companyia*."
+      - text: "comppanyia"
+        why: "No cal doblar la pe: *companyia*. El grup és *mp*."
+    explanation: "El grup de dansa és la *companyia*: davant de *p*, *m*."
+
+  - id: b2-46-058
+    type: find-error
+    point: compte-h-castella
+    lesson: 5
+    sentence: "L'armonia del cor de gòspel era perfecta."
+    error: "armonia"
+    fix: "harmonia"
+    fix_distractors:
+      - text: "armonía"
+        why: "«Armonía» és la forma castellana, amb accent. En català: *harmonia*."
+      - text: "harmonía"
+        why: "En català no porta accent: *harmonia*."
+    explanation: "En català, *harmonia* porta haca inicial, al revés que en castellà («armonía»)."
+
+  - id: b2-46-059
+    type: find-error
+    point: ela-geminada
+    lesson: 5
+    sentence: "La galeria exposa una col·lecció nova d'escultures."
+    no_error: true
+    explanation: "La frase és correcta: *galeria* amb una ela i *col·lecció* amb ela geminada."
+
+  - id: b2-46-060
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "La Núria va ___ de la mare i tothom la va felicitar."
+    hint: "expressió: INTERPRETAR UN PERSONATGE"
+    answers: ["fer el paper"]
+    wrong_answers:
+      - text: "fer el papel"
+        why: "«Papel» és castellà; en català, *paper*: *fer el paper*."
+    grading: tolerant
+    explanation: "*Fer el paper* vol dir interpretar un personatge."
+
+  - id: b2-46-061
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "El tenor va ser ___ de la nit."
+    hint: "expressió: REBRE TOTES LES MIRADES"
+    answers: ["el centre d'atenció"]
+    wrong_answers:
+      - text: "el centro d'atenció"
+        why: "«Centro» és castellà; en català, *centre*."
+    grading: tolerant
+    explanation: "*Ser el centre d'atenció* vol dir rebre totes les mirades."
+
+  - id: b2-46-062
+    type: choice
+    point: ema-ena
+    lesson: 5
+    prompt: "Van fer ___ el quadre de l'exposició."
+    answer: "emmarcar"
+    distractors:
+      - text: "enmarcar"
+        why: "El prefix és *em-* + *marcar*: *emmarcar*."
+      - text: "emarcar"
+        why: "Calen dues emes: *em-* + *marcar*."
+    explanation: "Posar un marc a un quadre és *emmarcar*: *em-* + *marcar*."
+
+  - id: b2-46-063
+    type: choice
+    point: grups-ject
+    lesson: 5
+    prompt: "El fotògraf va canviar l'___ de la càmera."
+    answer: "objectiu"
+    distractors:
+      - text: "objetiu"
+        why: "El grup és *-ject-*, amb *c*: *objectiu*."
+      - text: "objetivo"
+        why: "«Objetivo» és castellà; en català, *objectiu*."
+    explanation: "La lent de la càmera és un *objectiu*, amb el grup *-ject-*."
+
+  - id: b2-46-064
+    type: choice
+    point: lletra-h
+    lesson: 5
+    prompt: "Es va saltar la ___ de fer fotos."
+    answer: "prohibició"
+    distractors:
+      - text: "proibició"
+        why: "*Prohibició* s'escriu amb haca."
+      - text: "prohibición"
+        why: "«Prohibición» és castellà; en català, *prohibició*."
+    explanation: "La norma que prohibeix és la *prohibició*, amb haca."
+
+  - id: b2-46-065
+    type: order
+    point: expressions
+    lesson: 5
+    cue: "Digues que la soprano va rebre totes les mirades."
+    chunks: ["La soprano", "va ser", "el centre", "d'atenció"]
+    extra: ["centro"]
+    answers:
+      - "La soprano va ser el centre d'atenció."
+      - "El centre d'atenció va ser la soprano."
+    explanation: "*Ser el centre d'atenció* vol dir rebre totes les mirades."
+
+  - id: b2-46-066
+    type: choice
+    point: compte-h-castella
+    lesson: 5
+    prompt: "No es veia l'escenari amb el ___ de la màquina."
+    answer: "fum"
+    distractors:
+      - text: "hum"
+        why: "En català, *fum* no porta haca."
+      - text: "humo"
+        why: "«Humo» és castellà; en català, *fum*."
+    explanation: "El fum de l'escenari és *fum*, sense haca, encara que en castellà és «humo»."

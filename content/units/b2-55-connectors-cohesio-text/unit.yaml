@@ -1,0 +1,931 @@
+# Unitat b2-55: connectors per estructurar un text (premsa i opinió).
+id: b2-55
+level: B2
+title: "Connectors i cohesió del text"
+summary: "Els connectors per estructurar un text: presentar el tema, afegir idees, contrastar, aclarir i concloure, amb la premsa i els articles d'opinió."
+vocabulary_theme: "Premsa i articles d'opinió"
+points:
+  - id: estructurar-text
+    title: "Presentar el tema i afegir idees"
+    refs:
+      - label: "GEIEC: Els connectors"
+        url: "https://geiec.iec.cat"
+  - id: contrastar
+    title: "Matisar i contrastar"
+    refs:
+      - label: "GEIEC: Els connectors"
+        url: "https://geiec.iec.cat"
+  - id: aclarir-concloure
+    title: "Aclarir, concloure i ordenar el text"
+    refs:
+      - label: "GEIEC: Els connectors"
+        url: "https://geiec.iec.cat"
+  - id: compte-en-quant-a
+    title: "Compte amb el castellà: *en quant a*"
+    refs:
+      - label: "Optimot: quant a"
+        url: "https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html"
+  - id: expressions
+    title: "Expressions per organitzar el discurs"
+  - id: comprensio
+    title: "Llegir i entendre"
+lessons:
+  - title: "Presentació: tema i contrast"
+  - title: "Practicar el tema i el contrast"
+  - title: "Aclarir, concloure i *quant a*"
+  - title: "Produir: reescriure amb connectors"
+  - title: "Repàs i lectura"
+vocabulary:
+  - word: "el diari"
+    definition: "Publicació amb notícies que surt cada dia."
+    example: "Compro el diari cada matí al quiosc."
+  - word: "el setmanari"
+    definition: "Publicació que surt un cop per setmana."
+    example: "El setmanari porta un reportatge sobre el barri."
+  - word: "la revista"
+    definition: "Publicació periòdica amb articles i fotografies."
+    example: "M'he subscrit a una revista de cinema."
+  - word: "el titular"
+    definition: "Frase gran que anuncia una notícia."
+    example: "El titular de portada parla de la sequera."
+  - word: "la portada"
+    definition: "Primera pàgina d'un diari o d'una revista."
+    example: "La foto de la portada és impressionant."
+  - word: "l'editorial"
+    definition: "Article on el diari dona la seva opinió."
+    example: "L'editorial d'avui defensa l'escola pública."
+  - word: "l'article d'opinió"
+    definition: "Text on una persona exposa què pensa d'un tema."
+    example: "He llegit un article d'opinió sobre els lloguers."
+  - word: "la columna"
+    definition: "Article d'opinió fix d'un col·laborador."
+    example: "La seva columna surt cada dimarts."
+  - word: "el reportatge"
+    definition: "Treball periodístic extens sobre un tema."
+    example: "El reportatge inclou entrevistes i fotografies."
+  - word: "la crònica"
+    definition: "Relat ordenat d'un fet cultural o esportiu."
+    example: "La crònica del concert ocupa dues pàgines."
+  - word: "la notícia"
+    definition: "Informació d'un fet recent."
+    example: "La notícia va sortir ahir al vespre."
+  - word: "el suplement"
+    definition: "Quadern extra del diari, sovint cultural."
+    example: "El suplement de diumenge porta llibres."
+  - word: "la redacció"
+    definition: "Equip que escriu un diari; també, el local on treballa."
+    example: "La redacció tanca l'edició a les deu."
+  - word: "el redactor, la redactora"
+    definition: "Periodista que escriu notícies."
+    example: "La redactora ha contrastat les dades."
+  - word: "el director, la directora"
+    definition: "Persona que dirigeix un diari."
+    example: "El director ha escrit l'editorial d'avui."
+  - word: "el corresponsal, la corresponsal"
+    definition: "Periodista que informa des d'una altra ciutat."
+    example: "La corresponsal a Brussel·les cobreix Europa."
+  - word: "la font"
+    definition: "Persona o document que dona una informació."
+    example: "L'article no cita les fonts."
+  - word: "contrastar"
+    definition: "Comprovar una informació amb una altra font."
+    example: "Cal contrastar les dades abans de publicar."
+  - word: "publicar"
+    definition: "Fer públic un text o una notícia."
+    example: "El diari publica l'entrevista demà."
+  - word: "el lector, la lectora"
+    definition: "Persona que llegeix una publicació."
+    example: "Els lectors poden escriure cartes al director."
+  - word: "la carta al director"
+    definition: "Text breu que un lector envia al diari."
+    example: "He enviat una carta al director sobre el soroll."
+  - word: "el debat"
+    definition: "Discussió ordenada sobre un tema."
+    example: "El debat sobre l'habitatge continua obert."
+  - word: "el quiosc"
+    definition: "Botiga petita on es venen diaris i revistes."
+    example: "Compro la revista al quiosc de la plaça."
+  - word: "la subscripció"
+    definition: "Pagament periòdic per rebre una publicació."
+    example: "La subscripció digital és més barata."
+  - word: "subscriure's"
+    definition: "Apuntar-se per rebre una publicació regularment."
+    example: "M'he subscrit al diari local."
+  - word: "la capçalera"
+    definition: "Títol d'una publicació periòdica."
+    example: "És una capçalera històrica del país."
+  - word: "el número"
+    definition: "Cada exemplar datat d'una publicació."
+    example: "Aquest número porta un suplement especial."
+  - word: "la tertúlia"
+    definition: "Conversa entre diverses persones sobre l'actualitat."
+    example: "Cada nit fan una tertúlia a la ràdio."
+  - word: "el columnista, la columnista"
+    definition: "Persona que escriu una columna regularment."
+    example: "El columnista defensa més carrils bici."
+  - word: "citar"
+    definition: "Reproduir paraules d'algú o d'un text."
+    example: "L'article cita tres experts."
+  - word: "la citació"
+    definition: "Fragment reproduït d'un altre text."
+    example: "La citació surt entre cometes."
+  - word: "difondre"
+    definition: "Fer arribar una informació a molta gent."
+    example: "Les xarxes difonen rumors sense contrastar."
+  - word: "el ple"
+    definition: "Reunió de tots els regidors d'un ajuntament."
+    example: "El ple ha aprovat el pressupost."
+  - word: "l'actualitat"
+    definition: "Allò que passa ara i de què parlen els mitjans."
+    example: "L'actualitat mana a la portada."
+  - word: "el mitjà de comunicació"
+    definition: "Empresa o canal que informa: premsa, ràdio o televisió."
+    example: "Els mitjans locals necessiten ajuts."
+  - word: "la roda de premsa"
+    definition: "Acte on es dona una notícia als periodistes."
+    example: "La roda de premsa és a les dotze."
+items:
+  # ---------- Lliçó 1 ----------
+  - id: b2-55-001
+    type: choice
+    point: estructurar-text
+    lesson: 1
+    prompt: "___ la crisi de l'habitatge, l'article denuncia que els lloguers han pujat un vint per cent en dos anys."
+    answer: "Pel que fa a"
+    distractors:
+      - text: "En resum,"
+        why: "*En resum* tanca un text amb una conclusió; aquí es presenta el tema de l'article."
+      - text: "Tanmateix,"
+        why: "*Tanmateix* introdueix un contrast; aquí no hi ha cap contrast: es presenta el tema."
+    explanation: "«La crisi de l'habitatge» és el tema de l'article: per presentar-lo fem servir *pel que fa a*."
+
+  - id: b2-55-002
+    type: choice
+    point: estructurar-text
+    lesson: 1
+    prompt: "___ la mobilitat, la columnista defensa que calen més autobusos de nit."
+    answer: "Quant a"
+    distractors:
+      - text: "En quant a"
+        why: "*En quant a* és un calc de «en cuanto a». En català: *quant a*."
+      - text: "En definitiva,"
+        why: "*En definitiva* introdueix una conclusió; aquí es presenta un tema nou."
+    explanation: "Per presentar el tema («la mobilitat») fem servir *quant a*, sense *en* al davant."
+
+  - id: b2-55-003
+    type: choice
+    point: estructurar-text
+    lesson: 1
+    prompt: "L'editorial defensa el nou museu: d'una banda, atraurà turisme; ___, crearà llocs de treball."
+    answer: "d'altra banda"
+    distractors:
+      - text: "en definitiva"
+        why: "*En definitiva* tanca amb una conclusió; aquí s'afegeix un segon argument."
+      - text: "és a dir"
+        why: "*És a dir* repeteix la mateixa idea amb altres paraules; aquí s'afegeix una idea nova."
+    explanation: "«D'una banda» demana la parella *d'altra banda*: s'afegeix un segon argument a favor del museu."
+
+  - id: b2-55-004
+    type: choice
+    point: contrastar
+    lesson: 1
+    prompt: "El reportatge és llarg; ___, es llegeix de pressa perquè està molt ben escrit."
+    answer: "tanmateix"
+    distractors:
+      - text: "a més"
+        why: "*A més* afegeix una idea del mateix sentit; aquí la segona part contrasta amb la primera."
+      - text: "és a dir"
+        why: "*És a dir* aclareix la mateixa idea; aquí «es llegeix de pressa» contrasta amb «és llarg»."
+    explanation: "«Es llegeix de pressa» contrasta amb «és llarg»: el connector de contrast és *tanmateix*."
+
+  - id: b2-55-005
+    type: choice
+    point: contrastar
+    lesson: 1
+    prompt: "Al nord del país ha plogut molt aquest hivern; al sud, ___, la sequera continua."
+    answer: "per contra"
+    distractors:
+      - text: "a més"
+        why: "*A més* afegeix una idea del mateix sentit; aquí el sud contrasta amb el nord."
+      - text: "en resum"
+        why: "*En resum* introdueix una conclusió; aquí es contrasta el sud amb el nord."
+    explanation: "Es comparen dos territoris amb situacions oposades: *per contra* marca aquest contrast simètric."
+
+  - id: b2-55-006
+    type: choice
+    point: contrastar
+    lesson: 1
+    prompt: "L'entrevista aporta dades i citacions interessants. ___, l'Ibrahim no pregunta pels sous."
+    answer: "Ara bé"
+    distractors:
+      - text: "A més"
+        why: "*A més* afegeix una idea del mateix sentit; aquí es posa una objecció."
+      - text: "És a dir"
+        why: "*És a dir* repeteix la idea amb altres paraules; aquí s'hi posa un matís crític."
+    explanation: "La segona frase posa una objecció a la primera: *ara bé* introdueix aquest matís a l'inici."
+
+  - id: b2-55-007
+    type: choice
+    point: estructurar-text
+    lesson: 1
+    prompt: "El diari ha apujat el preu de la subscripció. ___, ha retallat el suplement cultural."
+    answer: "A més"
+    distractors:
+      - text: "Tanmateix"
+        why: "*Tanmateix* introdueix un contrast; les dues frases van en el mateix sentit: tot són retallades."
+      - text: "En definitiva"
+        why: "*En definitiva* tanca amb una conclusió; aquí s'afegeix una segona queixa."
+    explanation: "La segona frase afegeix una queixa a la primera: el connector d'addició és *a més*."
+
+  - id: b2-55-008
+    type: match
+    point: estructurar-text
+    lesson: 1
+    instruction: "Relaciona cada inici amb la continuació adequada."
+    pairs:
+      - ["Pel que fa a les dades de l'atur,", "l'article admet que són provisionals."]
+      - ["Quant a la sanitat pública,", "la columnista hi troba a faltar metges."]
+      - ["D'una banda, el pla és car;", "d'altra banda, el pla crearà molta feina."]
+      - ["L'entrada és cara; a més,", "la sala és petita i fosca."]
+    explanation: "*Pel que fa a* i *quant a* presenten el tema; *d'altra banda* (amb «d'una banda») i *a més* afegeixen una idea."
+
+  - id: b2-55-009
+    type: inline-choice
+    point: estructurar-text
+    lesson: 1
+    title: "Carta al director"
+    text: "Benvolgut director: {Pel que fa a|En resum|Tanmateix} l'article sobre el barri, hi estic d'acord. {Quant a|En quant a|En definitiva,} la neteja dels carrers, cal una solució urgent. {D'altra banda|Tanmateix|En resum}, els veïns demanen més zones verdes. {A més|Tanmateix|És a dir}, el preu del lloguer no para de pujar."
+    explanation: "*Pel que fa a* i *quant a* presenten cada tema de la carta; *d'altra banda* i *a més* afegeixen noves demandes. *En quant a*, amb *en*, és incorrecte."
+
+  - id: b2-55-010
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "Què vol dir «tornant al tema» en una tertúlia?"
+    answer: "Que es reprèn el tema principal després d'una digressió."
+    distractors:
+      - text: "Que es canvia de tema per parlar d'una altra cosa."
+        why: "És el contrari: es torna al tema inicial, no es canvia de tema."
+      - text: "Que es dona el debat per acabat."
+        why: "Per tancar un debat diem *en resum* o *en definitiva*; *tornant al tema* continua parlant del mateix."
+    explanation: "*Tornant al tema* serveix per reprendre el fil després d'haver-ne sortit un moment."
+
+  - id: b2-55-011
+    type: choice
+    point: expressions
+    lesson: 1
+    prompt: "—I, ___, què et va semblar l'entrevista, Laia? —Molt fluixa: no va dir res de nou."
+    answer: "tornant al tema"
+    distractors:
+      - text: "en poques paraules"
+        why: "*En poques paraules* resumeix una idea; aquí es reprèn el tema de conversa."
+      - text: "dit d'una altra manera"
+        why: "*Dit d'una altra manera* repeteix una idea; aquí es torna al tema principal."
+    explanation: "Després d'haver parlat d'una altra cosa, *tornant al tema* reprèn la conversa principal."
+
+  - id: b2-55-012
+    type: fill
+    point: contrastar
+    lesson: 1
+    prompt: "La crònica és molt dura; ___, recomana la pel·lícula."
+    hint: "connector de contrast (*no* + dues paraules)"
+    answers: ["no obstant això"]
+    wrong_answers:
+      - text: "no obstant d'això"
+        why: "La forma fixada és *no obstant això*, sense cap preposició."
+    grading: tolerant
+    explanation: "Recomanar la pel·lícula contrasta amb una crítica dura: el connector és *no obstant això*."
+
+  # ---------- Lliçó 2 ----------
+  - id: b2-55-013
+    type: fill
+    point: estructurar-text
+    lesson: 2
+    prompt: "___ la sanitat, l'article demana més metges de família."
+    hint: "connector per presentar el tema (*pel que fa a* o *quant a*)"
+    answers: ["Pel que fa a", "Quant a"]
+    wrong_answers:
+      - text: "En quant a"
+        why: "*En quant a* és un calc de «en cuanto a». En català: *quant a* o *pel que fa a*."
+    grading: tolerant
+    explanation: "«La sanitat» és el tema: el presentem amb *pel que fa a* o *quant a*."
+
+  - id: b2-55-014
+    type: fill
+    point: estructurar-text
+    lesson: 2
+    prompt: "El pla és car; d'una banda, caldrà apujar impostos; ___, crearà molts llocs de treball."
+    hint: "connector que fa parella amb «d'una banda»"
+    answers: ["d'altra banda"]
+    grading: tolerant
+    explanation: "«D'una banda» fa parella amb *d'altra banda*: el pla té un cost, però també un avantatge."
+
+  - id: b2-55-015
+    type: fill
+    point: estructurar-text
+    lesson: 2
+    prompt: "Les dades són provisionals; ___, l'article no cita les fonts."
+    hint: "connector per afegir una crítica: *a* + una paraula"
+    answers: ["a més"]
+    grading: tolerant
+    explanation: "La segona crítica s'afegeix a la primera: el connector és *a més*."
+
+  - id: b2-55-016
+    type: fill
+    point: contrastar
+    lesson: 2
+    prompt: "La revista té cent pàgines. ___, es llegeix d'una tirada."
+    hint: "connector de contrast que comença per *t*"
+    answers: ["Tanmateix", "Tot i això"]
+    grading: tolerant
+    explanation: "«Es llegeix d'una tirada» contrasta amb «té cent pàgines»: el contrast el marca *tanmateix* (o *tot i això*)."
+
+  - id: b2-55-017
+    type: fill
+    point: contrastar
+    lesson: 2
+    prompt: "El nord ha rebut pluges abundants; el sud, ___, no ha rebut ni una gota."
+    hint: "connector de contrast: *per* + una paraula"
+    answers: ["per contra"]
+    grading: tolerant
+    explanation: "El sud s'oposa al nord com a terme simètric: el connector és *per contra*."
+
+  - id: b2-55-018
+    type: fill
+    point: contrastar
+    lesson: 2
+    prompt: "La proposta té punts forts. ___, el cost és excessiu."
+    hint: "connector per posar una objecció (*ara* + una paraula)"
+    answers: ["Ara bé"]
+    grading: tolerant
+    explanation: "«El cost és excessiu» posa una objecció als punts forts: *ara bé* la introdueix a l'inici."
+
+  - id: b2-55-019
+    type: order
+    point: estructurar-text
+    lesson: 2
+    cue: "Digues que, sobre els horaris, el reportatge no diu res."
+    chunks: ["Pel que fa als horaris,", "el reportatge", "no diu", "res"]
+    extra: ["en quant als horaris,"]
+    answers:
+      - "Pel que fa als horaris, el reportatge no diu res."
+      - "El reportatge, pel que fa als horaris, no diu res."
+      - "El reportatge no diu res pel que fa als horaris."
+    explanation: "*Pel que fa a* presenta el tema i sol anar al principi; *en quant a*, amb *en*, és incorrecte."
+
+  - id: b2-55-020
+    type: order
+    point: contrastar
+    lesson: 2
+    cue: "Digues que la notícia és interessant, però que les dades són velles."
+    chunks: ["La notícia és interessant;", "tanmateix,", "les dades", "són velles"]
+    extra: ["per tant,"]
+    answers:
+      - "La notícia és interessant; tanmateix, les dades són velles."
+      - "La notícia és interessant; les dades, tanmateix, són velles."
+    explanation: "*Tanmateix* introdueix el contrast: la notícia interessa, però les dades són velles. Pot anar entre frases o al mig de la segona."
+
+  - id: b2-55-021
+    type: choice
+    point: contrastar
+    lesson: 2
+    prompt: "«El barri és sorollós. Tanmateix, té molta vida.» Què introdueix *tanmateix*?"
+    answer: "Un contrast amb la frase anterior."
+    distractors:
+      - text: "Una conclusió del text."
+        why: "Les conclusions van al final del text i les marquen *en resum* o *en definitiva*."
+      - text: "Una explicació de la frase anterior."
+        why: "Els aclariments els marca *és a dir*; aquí hi ha un contrast, no un aclariment."
+    explanation: "*Tanmateix* és un connector de contrast: «té molta vida» contrasta amb «és sorollós»."
+
+  - id: b2-55-022
+    type: choice
+    point: estructurar-text
+    lesson: 2
+    prompt: "Quina frase presenta el tema de l'article?"
+    answer: "Quant a la cultura, el pressupost és insuficient."
+    distractors:
+      - text: "En resum, la cultura necessita més diners."
+        why: "Aquesta frase tanca amb una conclusió, no presenta el tema."
+      - text: "La cultura, tanmateix, necessita més diners."
+        why: "Aquesta frase introdueix un contrast, no presenta cap tema."
+    explanation: "*Quant a* presenta el tema («la cultura»); les altres opcions conclouen o contrasten."
+
+  - id: b2-55-023
+    type: choice
+    point: expressions
+    lesson: 2
+    prompt: "«___: el govern retalla, els ajuntaments paguen i els veïns pateixen», diu la Fàtima."
+    answer: "En poques paraules"
+    distractors:
+      - text: "Tornant al tema"
+        why: "*Tornant al tema* reprèn el fil, no resumeix."
+      - text: "Dit d'una altra manera"
+        why: "*Dit d'una altra manera* repeteix una idea ja dita; aquí es resumeixen tres fets."
+    explanation: "*En poques paraules* resumeix una situació en una frase breu i contundent."
+
+  - id: b2-55-024
+    type: match
+    point: expressions
+    lesson: 2
+    instruction: "Relaciona cada expressió amb la situació en què s'escau."
+    pairs:
+      - ["en poques paraules", "resumir una situació en una frase contundent"]
+      - ["dit d'una altra manera", "aclarir un terme tècnic per al lector"]
+      - ["tornant al tema", "reprendre el fil després d'un incís"]
+      - ["tot plegat", "fer balanç d'una experiència amb pros i contres"]
+      - ["dit això", "reconèixer una objecció després d'un elogi"]
+    explanation: "Són expressions per organitzar el discurs: resumir, aclarir, reprendre el fil, fer balanç i matisar."
+
+  - id: b2-55-025
+    type: inline-choice
+    point: contrastar
+    lesson: 2
+    title: "Ressenya d'una novel·la"
+    text: "La novel·la té un inici lent. {Tanmateix|Per tant|És a dir}, a partir del tercer capítol enganxa. L'estil és senzill; {no obstant això|a més|en resum}, l'autor crea imatges molt potents. {Per contra|En definitiva|És a dir}, el final decep: arriba de pressa i sense sorpreses. {Ara bé|Per tant|És a dir}, paga la pena llegir-la."
+    explanation: "Tots quatre connectors marquen un contrast: *tanmateix* i *no obstant això* matisen, *per contra* oposa dos aspectes i *ara bé* posa una objecció final."
+
+  # ---------- Lliçó 3 ----------
+  - id: b2-55-026
+    type: choice
+    point: aclarir-concloure
+    lesson: 3
+    prompt: "El diari ha publicat les dades: ha perdut un deu per cent de lectors; ___, cada any en té menys."
+    answer: "és a dir"
+    distractors:
+      - text: "en resum"
+        why: "*En resum* tanca un text; aquí s'aclareix una dada amb altres paraules."
+      - text: "tanmateix"
+        why: "*Tanmateix* introdueix un contrast; aquí no hi ha contrast: és la mateixa idea."
+    explanation: "«Cada any en té menys» repeteix la dada amb paraules més clares: *és a dir*."
+
+  - id: b2-55-027
+    type: choice
+    point: aclarir-concloure
+    lesson: 3
+    prompt: "___, cal més inversió, més personal i més temps."
+    answer: "En resum"
+    distractors:
+      - text: "És a dir"
+        why: "*És a dir* aclareix una idea; aquí es tanca amb una conclusió."
+      - text: "Tanmateix"
+        why: "*Tanmateix* contrasta; aquí es resumeix què cal fer."
+    explanation: "La frase tanca amb una conclusió en forma de llista: *en resum*."
+
+  - id: b2-55-028
+    type: choice
+    point: aclarir-concloure
+    lesson: 3
+    prompt: "___ l'èxit de l'edició digital, el diari ha enviat un corresponsal a Brussel·les."
+    answer: "Arran de"
+    distractors:
+      - text: "Pel que fa a"
+        why: "*Pel que fa a* presenta un tema; aquí l'èxit és la causa de la decisió."
+      - text: "Malgrat"
+        why: "*Malgrat* introdueix un obstacle; aquí l'èxit és la causa, no l'obstacle."
+    explanation: "L'èxit és la causa de la decisió: *arran de* introdueix l'origen d'un fet."
+
+  - id: b2-55-029
+    type: choice
+    point: compte-en-quant-a
+    lesson: 3
+    prompt: "Quina frase és correcta?"
+    answer: "Quant a l'esport, el suplement és excel·lent."
+    distractors:
+      - text: "En quant a l'esport, el suplement és excel·lent."
+        why: "*En quant a* és un calc de «en cuanto a». En català: *quant a*."
+      - text: "En quan a l'esport, el suplement és excel·lent."
+        why: "La forma és *quant*, amb *t*. I sense *en* al davant: *quant a*."
+    explanation: "El connector és *quant a*, sense *en* i amb *t*: *quant a l'esport*."
+
+  - id: b2-55-030
+    type: find-error
+    point: compte-en-quant-a
+    lesson: 3
+    sentence: "En quant a la cultura, el pressupost és insuficient."
+    error: "En quant a"
+    fix: "Quant a"
+    fix_distractors:
+      - text: "En quan a"
+        why: "La forma és *quant*, amb *t*, i sense *en*: *quant a*."
+      - text: "Pel que fa de"
+        why: "*Pel que fa* porta la preposició *a*: *pel que fa a la cultura*."
+    explanation: "*En quant a* és un calc de «en cuanto a». El connector correcte és *quant a*."
+
+  - id: b2-55-031
+    type: find-error
+    point: compte-en-quant-a
+    lesson: 3
+    sentence: "En quant als transports, calen més inversions."
+    error: "En quant a"
+    fix: "Quant a"
+    fix_distractors:
+      - text: "En quan a"
+        why: "La forma és *quant*, amb *t*, i sense *en*: *quant a*."
+      - text: "Pel que fa"
+        why: "*Pel que fa* necessita la preposició *a*: *pel que fa als transports*."
+    explanation: "El connector és *quant a*, sense *en*: *quant als transports*."
+
+  - id: b2-55-032
+    type: find-error
+    point: compte-en-quant-a
+    lesson: 3
+    sentence: "Quant a l'habitatge, l'article d'opinió proposa tres mesures concretes."
+    no_error: true
+    explanation: "La frase és correcta: *quant a* presenta el tema («l'habitatge») sense *en* al davant."
+
+  - id: b2-55-033
+    type: find-error
+    point: aclarir-concloure
+    lesson: 3
+    sentence: "La sequera empitjora cada any; és a dir, cal actuar aviat."
+    error: "és a dir"
+    fix: "per tant"
+    fix_distractors:
+      - text: "tanmateix"
+        why: "*Tanmateix* introdueix un contrast; «cal actuar» és la conseqüència, no un contrast."
+      - text: "a més"
+        why: "*A més* afegeix una idea; «cal actuar» és la conseqüència de l'empitjorament."
+    explanation: "«Cal actuar» és la conseqüència de l'empitjorament, no un aclariment: el connector és *per tant*, no *és a dir*."
+
+  - id: b2-55-034
+    type: find-error
+    point: aclarir-concloure
+    lesson: 3
+    sentence: "El pressupost és insuficient; és a dir, no arriba per a tot el curs."
+    no_error: true
+    explanation: "La frase és correcta: *és a dir* aclareix què vol dir «insuficient» amb altres paraules."
+
+  - id: b2-55-035
+    type: fill
+    point: aclarir-concloure
+    lesson: 3
+    prompt: "M'he subscrit al suplement: surt cada diumenge; ___, un cop per setmana."
+    hint: "connector per aclarir que comença per *és*"
+    answers: ["és a dir"]
+    grading: tolerant
+    explanation: "«Un cop per setmana» aclareix «cada diumenge»: el connector és *és a dir*."
+
+  - id: b2-55-036
+    type: fill
+    point: aclarir-concloure
+    lesson: 3
+    prompt: "Hem venut més exemplars al quiosc i hem guanyat subscriptors. ___, ha estat un bon any per al diari."
+    hint: "connector per concloure (*en resum*, *en definitiva* o *en conclusió*)"
+    answers: ["En resum", "En definitiva", "En conclusió"]
+    grading: tolerant
+    explanation: "Després de les dades, la frase tanca amb la conclusió: *en resum* (o *en definitiva*, *en conclusió*)."
+
+  - id: b2-55-037
+    type: fill
+    point: aclarir-concloure
+    lesson: 3
+    prompt: "___ la vaga de transports, el diari va haver de canviar la portada."
+    hint: "locució causal: *arran* + una preposició"
+    answers: ["Arran de"]
+    wrong_answers:
+      - text: "Arran a"
+        why: "*Arran* porta la preposició *de*: *arran de la vaga*."
+    grading: tolerant
+    explanation: "La vaga és la causa del canvi: *arran de* introdueix l'origen d'un fet."
+
+  - id: b2-55-038
+    type: inline-choice
+    point: aclarir-concloure
+    lesson: 3
+    title: "Final d'un article"
+    text: "Les dades són clares: cada any hi ha menys lectors joves. {És a dir|En quant a|Tanmateix}, el diari en paper perd el públic del futur. Cal canviar el model {arran de|a més de|malgrat} la caiguda de les vendes. {En definitiva|És a dir|Tanmateix}, o el diari s'adapta o desapareixerà."
+    explanation: "*És a dir* aclareix la dada, *arran de* introdueix la causa del canvi i *en definitiva* tanca l'article amb una conclusió."
+
+  # ---------- Lliçó 4 ----------
+  - id: b2-55-039
+    type: transform
+    point: compte-en-quant-a
+    lesson: 4
+    instruction: "Substitueix el connector per *quant a*."
+    source: "[[En quant als]] esports, la redacció dedica deu pàgines al futbol."
+    answers: ["Quant als esports, la redacció dedica deu pàgines al futbol."]
+    wrong_answers:
+      - text: "En quan als esports, la redacció dedica deu pàgines al futbol."
+        why: "La forma és *quant*, amb *t*, i sense *en*: *quant als esports*."
+    grading: tolerant
+    explanation: "*En quant a* és un calc de «en cuanto a»: el connector és *quant a*."
+
+  - id: b2-55-040
+    type: transform
+    point: contrastar
+    lesson: 4
+    instruction: "Reescriu la frase amb *tanmateix*."
+    source: "El pis és petit, [[però]] té molta llum."
+    answers:
+      - "El pis és petit; tanmateix, té molta llum."
+      - "El pis és petit. Tanmateix, té molta llum."
+      - "El pis és petit i té, tanmateix, molta llum."
+    wrong_answers:
+      - text: "El pis és petit; també, té molta llum."
+        why: "*També* afegeix una idea; el contrast es marca amb *tanmateix*."
+    grading: tolerant
+    explanation: "*Tanmateix* substitueix *però* en registre formal: «té molta llum» contrasta amb «és petit»."
+
+  - id: b2-55-041
+    type: transform
+    point: contrastar
+    lesson: 4
+    instruction: "Uneix les dues frases amb *per contra*."
+    source: "L'edició en paper perd lectors. [[L'edició digital en guanya.]]"
+    answers:
+      - "L'edició en paper perd lectors; l'edició digital, per contra, en guanya."
+      - "L'edició en paper perd lectors. L'edició digital, per contra, en guanya."
+      - "L'edició en paper perd lectors; per contra, l'edició digital en guanya."
+    grading: tolerant
+    explanation: "*Per contra* uneix dues frases que oposen dos termes simètrics: el paper i el digital."
+
+  - id: b2-55-042
+    type: transform
+    point: aclarir-concloure
+    lesson: 4
+    instruction: "Substitueix la forma col·loquial per *és a dir*."
+    source: "El número d'avui porta poques pàgines, [[o sigui]], és més prim del normal."
+    answers:
+      - "El número d'avui porta poques pàgines, és a dir, és més prim del normal."
+      - "El número d'avui porta poques pàgines. És a dir, és més prim del normal."
+    grading: tolerant
+    explanation: "En registre formal, *o sigui* se substitueix per *és a dir*: aclareix «porta poques pàgines» amb altres paraules."
+
+  - id: b2-55-043
+    type: transform
+    point: aclarir-concloure
+    lesson: 4
+    instruction: "Comença l'última frase amb *en definitiva*."
+    source: "El festival ha tingut rècord de públic i bones crítiques. [[Ha estat un èxit.]]"
+    answers:
+      - "El festival ha tingut rècord de públic i bones crítiques. En definitiva, ha estat un èxit."
+      - "El festival ha tingut rècord de públic i bones crítiques; en definitiva, ha estat un èxit."
+    grading: tolerant
+    explanation: "*En definitiva* tanca el text amb la conclusió: el festival ha estat un èxit."
+
+  - id: b2-55-044
+    type: transform
+    point: estructurar-text
+    lesson: 4
+    instruction: "Comença la frase amb *pel que fa a*."
+    source: "El reportatge no diu res [[dels horaris]]."
+    answers: ["Pel que fa als horaris, el reportatge no diu res."]
+    wrong_answers:
+      - text: "Pel que fa dels horaris, el reportatge no diu res."
+        why: "*Pel que fa* porta *a*, no *de*: *pel que fa als horaris*."
+    grading: tolerant
+    explanation: "*Pel que fa a* presenta el tema («els horaris») al principi de la frase."
+
+  - id: b2-55-045
+    type: transform
+    point: expressions
+    lesson: 4
+    instruction: "Substitueix el connector per l'expressió *en poques paraules*."
+    source: "[[En resum]]: el govern retalla, els ajuntaments paguen i els veïns pateixen."
+    answers: ["En poques paraules: el govern retalla, els ajuntaments paguen i els veïns pateixen."]
+    grading: tolerant
+    explanation: "*En poques paraules* resumeix una situació amb una frase breu i contundent, com *en resum* però més directa."
+
+  - id: b2-55-046
+    type: fill
+    point: contrastar
+    lesson: 4
+    prompt: "Tothom esperava un acord. La proposta, ___, no ha convençut ningú."
+    hint: "connector de contrast que comença per *t*"
+    answers: ["tanmateix", "tot i això"]
+    grading: tolerant
+    explanation: "«No ha convençut ningú» contrasta amb l'expectativa: *tanmateix* (o *tot i això*) marca el contrast entre comes."
+
+  - id: b2-55-047
+    type: fill
+    point: aclarir-concloure
+    lesson: 4
+    prompt: "El setmanari aporta dades, testimonis i fotografies. ___, és un bon reportatge."
+    hint: "connector per concloure (*en definitiva*, *en resum* o *en conclusió*)"
+    answers: ["En definitiva", "En resum", "En conclusió"]
+    grading: tolerant
+    explanation: "Després dels arguments, la frase tanca amb la valoració final: *en definitiva* (o *en resum*, *en conclusió*)."
+
+  - id: b2-55-048
+    type: fill
+    point: estructurar-text
+    lesson: 4
+    prompt: "___ la cultura, el pressupost és insuficient."
+    hint: "connector per presentar el tema que comença per *q*"
+    answers: ["Quant a"]
+    wrong_answers:
+      - text: "En quant a"
+        why: "*En quant a* és un calc de «en cuanto a». En català: *quant a*."
+    grading: tolerant
+    explanation: "«La cultura» és el tema: el presentem amb *quant a*, sense *en*."
+
+  - id: b2-55-049
+    type: order
+    point: aclarir-concloure
+    lesson: 4
+    cue: "Ordena les frases per formar el final d'un article sobre la premsa local."
+    chunks:
+      - "Les dades són clares: cada any tanquen més diaris locals."
+      - "És a dir, els pobles perden la seva veu."
+      - "Calen ajuts públics urgents."
+      - "En definitiva, o ajudem la premsa local o desapareixerà."
+    extra: ["En resum, avui parlarem dels diaris locals."]
+    answers:
+      - "Les dades són clares: cada any tanquen més diaris locals. És a dir, els pobles perden la seva veu. Calen ajuts públics urgents. En definitiva, o ajudem la premsa local o desapareixerà."
+    explanation: "El paràgraf va de les dades a l'aclariment (*és a dir*), a la proposta i a la conclusió (*en definitiva*)."
+
+  - id: b2-55-050
+    type: order
+    point: contrastar
+    lesson: 4
+    cue: "Digues que la novel·la enganxa, però que el final decep."
+    chunks: ["La novel·la enganxa.", "Ara bé,", "el final", "decep"]
+    extra: ["per tant,"]
+    answers:
+      - "La novel·la enganxa. Ara bé, el final decep."
+    explanation: "*Ara bé* introdueix l'objecció a l'inici de la segona frase: el final decep."
+
+  - id: b2-55-051
+    type: choice
+    point: expressions
+    lesson: 4
+    prompt: "El titular és massa tècnic; ___, només l'entenen els especialistes."
+    answer: "dit d'una altra manera"
+    distractors:
+      - text: "tornant al tema"
+        why: "*Tornant al tema* reprèn el fil; aquí es repeteix la mateixa idea."
+      - text: "dit això"
+        why: "*Dit això* introdueix un matís després d'una afirmació; aquí es repeteix la mateixa idea."
+    explanation: "«Només l'entenen els especialistes» repeteix «és massa tècnic» amb altres paraules: *dit d'una altra manera*."
+
+  # ---------- Lliçó 5 ----------
+  - id: b2-55-052
+    type: reading
+    point: comprensio
+    lesson: 5
+    title: "Els diaris locals no es poden perdre"
+    text: |
+      Cada any tanquen diaris locals a Catalunya. Pel que fa a les comarques petites, la situació és greu: en deu anys han desaparegut la meitat de les capçaleres. Quan un diari tanca, ningú no cobreix els judicis, les obres ni les escoles del territori. Les dades són clares; és a dir, cada cop hi ha menys periodistes que expliquin què passa als pobles.
+
+      D'una banda, internet permet llegir notícies de tot el món de franc. D'altra banda, ningú no explica el ple de l'ajuntament ni la festa major si no hi ha un diari local. El periodista local coneix els veïns, assisteix als plens i truca a les fonts. Aquesta feina lenta no la fa cap algoritme. A més, sense periodistes a prop, les xarxes difonen rumors sense contrastar.
+
+      Alguns diuen que el paper és car i que cal tancar. Tanmateix, el problema no és el paper, sinó el model de negoci. El nord d'Europa, per contra, manté la premsa local amb ajuts públics i subscripcions. A Catalunya, algunes diputacions ja donen suport als mitjans comarcals. No obstant això, les ajudes arriben tard i són insuficients. Ara bé, els ajuts no poden dependre del govern de torn: cal un sistema estable.
+
+      Quant al futur, hi ha motius per a l'esperança. Arran de la pandèmia, molts lectors han descobert els diaris digitals de proximitat. En poques paraules: llegir premsa local és votar cada dia pel poble on vivim. Dit d'una altra manera, la subscripció és el preu de la memòria col·lectiva. En definitiva, o la societat paga per la informació local o la perdrà. I, tornant al tema del principi, un poble sense diari és un poble sense memòria.
+    questions:
+      - prompt: "Què ha passat amb els diaris locals en deu anys?"
+        answer: "N'han desaparegut la meitat a les comarques petites."
+        distractors:
+          - text: "Han apujat el preu de la subscripció."
+            why: "El text no parla de preus, sinó de tancaments."
+          - text: "S'han convertit tots en digitals."
+            why: "El text parla de tancaments; els digitals de proximitat són una esperança, no un fet."
+      - prompt: "Segons l'article, quin és el perill si no hi ha diari local?"
+        answer: "Que els rumors de les xarxes substitueixin la informació."
+        distractors:
+          - text: "Que els veïns deixin de llegir notícies."
+            why: "El text diu que circularan rumors, no que la gent deixarà de llegir."
+          - text: "Que tanquin les xarxes socials."
+            why: "El text no proposa tancar res."
+      - prompt: "Què proposa l'article sobre els ajuts públics?"
+        answer: "Que siguin estables i no depenguin del govern."
+        distractors:
+          - text: "Que només ajudin els diaris en paper."
+            why: "El text diu que el problema no és el paper, sinó el model de negoci."
+          - text: "Que els gestionin només les diputacions."
+            why: "Les diputacions hi surten com a exemple, però les seves ajudes arriben tard."
+      - prompt: "Quina és la conclusió de l'article?"
+        answer: "Cal pagar per la informació local o es perdrà."
+        distractors:
+          - text: "Cal tancar els diaris en paper."
+            why: "És el que diuen «alguns»; l'article defensa el contrari."
+          - text: "Cal prohibir les notícies gratuïtes a internet."
+            why: "El text no proposa prohibir res."
+    explanation: "L'article defensa la premsa local: sense periodistes a prop, els pobles perden la informació i la memòria."
+
+  - id: b2-55-053
+    type: find-error
+    point: compte-en-quant-a
+    lesson: 5
+    sentence: "En quan a l'educació, cal més debat."
+    error: "En quan a"
+    fix: "Quant a"
+    fix_distractors:
+      - text: "En quant a"
+        why: "Continua portant *en*: el connector és *quant a*, sense *en*."
+      - text: "Pel que fa de"
+        why: "*Pel que fa* porta la preposició *a*: *pel que fa a l'educació*."
+    explanation: "El connector és *quant a*, amb *t* i sense *en*: *quant a l'educació*."
+
+  - id: b2-55-054
+    type: find-error
+    point: estructurar-text
+    lesson: 5
+    sentence: "Pel que fa a les dades, l'article les cita totes al final."
+    no_error: true
+    explanation: "La frase és correcta: *pel que fa a* presenta el tema («les dades») i el pronom *les* hi concorda."
+
+  - id: b2-55-055
+    type: transform
+    point: contrastar
+    lesson: 5
+    instruction: "Reescriu la frase amb *no obstant això*."
+    source: "La redactora escriu de pressa, [[però]] contrasta totes les dades."
+    answers:
+      - "La redactora escriu de pressa; no obstant això, contrasta totes les dades."
+      - "La redactora escriu de pressa. No obstant això, contrasta totes les dades."
+    wrong_answers:
+      - text: "La redactora escriu de pressa; no obstant d'això, contrasta totes les dades."
+        why: "La forma fixada és *no obstant això*, sense cap preposició."
+    grading: tolerant
+    explanation: "*No obstant això* és l'equivalent formal de *però*: «contrasta totes les dades» contrasta amb «escriu de pressa»."
+
+  - id: b2-55-056
+    type: transform
+    point: aclarir-concloure
+    lesson: 5
+    instruction: "Substitueix la locució per *arran de*."
+    source: "[[A causa de]] la nevada, es va suspendre el repartiment."
+    answers: ["Arran de la nevada, es va suspendre el repartiment."]
+    grading: tolerant
+    explanation: "*Arran de* introdueix l'origen d'un fet, com *a causa de* però més propi de la premsa."
+
+  - id: b2-55-057
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "La roda de premsa ha estat llarga i tensa. ___, ha valgut la pena."
+    hint: "expressió per posar un matís (*dit* + una paraula)"
+    answers: ["Dit això"]
+    grading: tolerant
+    explanation: "*Dit això* matisa què s'acaba de dir: la roda de premsa ha estat llarga, però ha valgut la pena."
+
+  - id: b2-55-058
+    type: fill
+    point: expressions
+    lesson: 5
+    prompt: "L'entrevista ha estat llarga i tensa. ___, ha valgut la pena."
+    hint: "expressió per fer balanç (*tot* + una paraula)"
+    answers: ["Tot plegat"]
+    grading: tolerant
+    explanation: "*Tot plegat* fa balanç del conjunt: malgrat la durada, l'entrevista ha valgut la pena."
+
+  - id: b2-55-059
+    type: choice
+    point: aclarir-concloure
+    lesson: 5
+    prompt: "El text aporta dades, exemples i testimonis. ___, convenç."
+    answer: "En definitiva"
+    distractors:
+      - text: "És a dir"
+        why: "*És a dir* aclareix una idea; «convenç» és la conclusió del text."
+      - text: "Tanmateix"
+        why: "*Tanmateix* introdueix un contrast; «convenç» continua el sentit positiu."
+    explanation: "«Convenç» és la valoració final de tot el text: *en definitiva*."
+
+  - id: b2-55-060
+    type: choice
+    point: contrastar
+    lesson: 5
+    prompt: "El suplement és prim; ___, cada setmana porta una entrevista interessant."
+    answer: "no obstant això"
+    distractors:
+      - text: "a més"
+        why: "*A més* afegeix una idea del mateix sentit; l'entrevista contrasta amb un suplement prim."
+      - text: "en definitiva"
+        why: "*En definitiva* tanca un text; aquí es contrasta una qualitat amb una altra."
+    explanation: "L'entrevista contrasta amb un suplement prim: el connector és *no obstant això*."
+
+  - id: b2-55-061
+    type: fill
+    point: estructurar-text
+    lesson: 5
+    prompt: "El nou director, en Pau, vol retallar la secció d'actualitat. ___, promet mantenir la plantilla."
+    hint: "connector per afegir un aspecte: *d'* + dues paraules"
+    answers: ["D'altra banda"]
+    grading: tolerant
+    explanation: "*D'altra banda* afegeix un segon aspecte del pla del director, també sense «d'una banda» prèvia."
+
+  - id: b2-55-062
+    type: order
+    point: aclarir-concloure
+    lesson: 5
+    cue: "Ordena les frases per formar l'inici d'una columna d'opinió."
+    chunks:
+      - "Quant a l'habitatge, ningú no discuteix les dades."
+      - "Els lloguers han pujat un vint per cent en dos anys."
+      - "És a dir, cada cop cal dedicar-hi més sou."
+      - "Arran d'aquesta pujada, molts joves marxen del barri."
+    extra: ["En definitiva, avui parlarem de l'habitatge."]
+    answers:
+      - "Quant a l'habitatge, ningú no discuteix les dades. Els lloguers han pujat un vint per cent en dos anys. És a dir, cada cop cal dedicar-hi més sou. Arran d'aquesta pujada, molts joves marxen del barri."
+    explanation: "La columna presenta el tema (*quant a*), dona la dada, l'aclareix (*és a dir*) i n'explica la conseqüència (*arran de*)."
+
+  - id: b2-55-063
+    type: inline-choice
+    point: aclarir-concloure
+    lesson: 5
+    title: "Opinió: calen més biblioteques"
+    text: "{Pel que fa a|En resum|Tanmateix} les biblioteques, la ciutat en té poques. {A més|Tanmateix|És a dir}, les que hi ha tanquen aviat. {Tanmateix|Per tant|És a dir}, l'ajuntament diu que no hi ha pressupost. {És a dir|En quant a|En resum}, hi ha diners per a altres coses. {En definitiva|Tanmateix|Quant a}, cal prioritzar la lectura."
+    explanation: "El text presenta el tema (*pel que fa a*), afegeix una queixa (*a més*), contrasta amb l'ajuntament (*tanmateix*), ho rebat (*és a dir*) i conclou (*en definitiva*)."
