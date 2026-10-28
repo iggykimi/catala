@@ -54,7 +54,7 @@ Per parlar d'un passat recent, fem servir *haver* + participi.
 
 Alguns verbs molt usats tenen un participi que cal saber de memòria.
 
-> He **fet** la maleta i he **dit** adéu a tothom.
+> He **fet** la maleta i he **dit** adeu a tothom.
 
 | infinitiu | participi |
 |---|---|

@@ -51,7 +51,7 @@ Puntos conocidos (lista abierta; si encuentras otro, añádelo al informe):
 | *ser / estar* de localización | No usar *està a casa* como error. Enseñar *és a casa* como forma preferida. |
 | *hi ha / hi han* | No poner *hi han* como error salvo que el ejercicio diga explícitamente «registre formal». |
 | *anar a* + infinitivo con valor de futuro | No ponerlo como error. |
-| *per / per a* delante de infinitivo | No construir ejercicios que dependan de ello hasta que la teoría de b1-25 esté verificada. |
+| *per / per a* delante de infinitivo | Finalidad: *per* y *per a* son correctas y se aceptan las dos. Causa: solo *per* (*la van multar per aparcar*; con *per a* cambia el sentido). |
 | *li* + *el/la/els/les* (*l'hi*, *li'l*…) y *els hi* | Pedir la forma estándar (*l'hi*, *els el*…); no tratar como error las formas que la GEIEC admita. Verificar antes de escribir. |
 | Concordancia del participio con *el/la/els/les* | Evitar frases donde decida la respuesta. |
 | *deure* / *deure de* + infinitivo | Pedir *deure* + infinitivo; no poner *deure de* como error sin verificarlo. |

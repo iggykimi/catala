@@ -44,14 +44,14 @@
 <!-- point: per-infinitiu -->
 ## *Per* + infinitiu: *per reservar*
 
-Davant d'un verb en infinitiu, la forma formal és *per*. Diu la finalitat (per a què) o la causa (per què).
+Davant d'un infinitiu que diu la finalitat (per a què), són correctes *per* i *per a*: *per reservar* o *per a reservar*. Si diu la causa (per què), només *per*.
 
 > Truco a l'hotel **per reservar** una habitació. El van multar **per aparcar** malament.
 
 - Finalitat: estalvio **per viatjar**, correc **per no perdre** el tren.
 - Causa: el van multar **per aparcar** malament.
 - *Per* + infinitiu no canvia mai: no porta article ni contracció.
-- En la parla col·loquial també se sent *per a* + infinitiu (*per a reservar*). En aquesta unitat practiquem la forma formal, *per*.
+- Aquí practiquem *per*, que serveix en tots dos casos. *Per a* + infinitiu de finalitat també és correcte i sempre s'accepta.
 
 > **Compte!** ~~Truco para reservar~~ → **Truco per reservar**. *Para* és castellà.
 
@@ -60,13 +60,13 @@ Davant d'un verb en infinitiu, la forma formal és *per*. Diu la finalitat (per 
 
 En castellà, «para» serveix per a gairebé tot. En català, cal triar segons l'ús.
 
-- ~~Truco para confirmar~~ → **Truco per confirmar** («para» + infinitiu és *per*).
+- ~~Truco para confirmar~~ → **Truco per confirmar** («para» + infinitiu: *per* o *per a*).
 - ~~Aquest bitllet és per tu~~ → **…és per a tu** (qui rep és *per a*).
 - ~~Ho he comprat per a vint euros~~ → **…per vint euros** (el preu és *per*).
 - ~~Passem per a Vic~~ → **Passem per Vic** (el camí és *per*).
 - ~~El vol s'ha suspès por la boira~~ → **…per la boira** (*por* és castellà).
 
-> **Compte!** Si darrere ve un infinitiu, pensa *per*: **per reservar**, **per viatjar**, **per arribar**.
+> **Compte!** Si darrere ve un infinitiu, *per* sempre és correcte: **per reservar**, **per viatjar**, **per arribar**.
 
 <!-- point: expressions -->
 ## Expressions amb *per*

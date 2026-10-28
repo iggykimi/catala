@@ -1,7 +1,7 @@
 id: b1-25
 level: B1
 title: "Per i per a"
-summary: "Aprens quan cal *per* (causa, mitjà, pas, temps) i quan cal *per a* (destinatari, destinació, finalitat, termini), i la forma formal davant d'infinitiu."
+summary: "Aprens quan cal *per* (causa, mitjà, pas, temps) i quan cal *per a* (destinatari, destinació, finalitat, termini), i com es fa la finalitat davant d'infinitiu."
 vocabulary_theme: "Viatges, reserves i turisme"
 points:
   - id: per
@@ -279,7 +279,7 @@ items:
     point: per
     lesson: 1
     title: "Retard a l'aeroport"
-    text: "El vol de la Núria porta retard {per|per a} la boira. Li han enviat un missatge {per|per a} telèfon. L'avió ve {per|per a} Madrid, però no s'hi atura. El bitllet li ha costat {per|per a} noranta euros."
+    text: "El vol de la Núria porta retard {per|per a} la boira. Li han enviat un missatge {per|per a} telèfon. L'avió ve {per|per a} Madrid, però no s'hi atura. Ha comprat el bitllet {per|per a} noranta euros."
     explanation: "La causa (*la boira*), el mitjà (*telèfon*), el lloc de pas (*Madrid*) i el preu (*noranta euros*) es fan amb *per*."
 
   - id: b1-25-012
@@ -659,7 +659,7 @@ items:
       - text: "Truco a l'agència de canviar les dates del vol."
         why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per*."
     grading: tolerant
-    explanation: "Les dues frases s'uneixen amb la finalitat. La forma formal davant d'infinitiu és *per* (*per a* també s'accepta)."
+    explanation: "Les dues frases s'uneixen amb la finalitat. Davant d'infinitiu de finalitat, *per* i *per a* són correctes."
 
   - id: b1-25-041
     type: transform
@@ -670,15 +670,13 @@ items:
     answers:
       - "La van multar per aparcar al carril bus."
       - "Per aparcar al carril bus, la van multar."
-      - "La van multar per a aparcar al carril bus."
-      - "Per a aparcar al carril bus, la van multar."
     wrong_answers:
       - text: "La van multar d'aparcar al carril bus."
         why: "«Multar de» no existeix. La causa davant d'infinitiu es fa amb *per*."
       - text: "La van multar a aparcar al carril bus."
         why: "«Multar a» no existeix. La causa davant d'infinitiu es fa amb *per*."
     grading: tolerant
-    explanation: "Aparcar malament és el motiu de la multa. La forma formal davant d'infinitiu és *per* (*per a* també s'accepta)."
+    explanation: "Aparcar malament és el motiu de la multa, i la causa davant d'infinitiu només es fa amb *per*."
 
   - id: b1-25-042
     type: transform
@@ -759,19 +757,19 @@ items:
       - text: "Estalviem molt de viatjar al Japó."
         why: "Aquí *estalviem* vol dir guardar diners: la finalitat va amb *per*."
     grading: tolerant
-    explanation: "Les dues frases s'uneixen amb la finalitat. La forma formal davant d'infinitiu és *per* (*per a* també s'accepta)."
+    explanation: "Les dues frases s'uneixen amb la finalitat. Davant d'infinitiu de finalitat, *per* i *per a* són correctes."
 
   - id: b1-25-047
     type: transform
     point: compte-castella
     lesson: 4
     instruction: "Corregeix la frase."
-    source: "Els bitllets, amb descompte, han costat [[per a vint euros]]."
-    answers: ["Els bitllets, amb descompte, han costat per vint euros."]
+    source: "Hem comprat els bitllets, amb descompte, [[per a vint euros]]."
+    answers: ["Hem comprat els bitllets, amb descompte, per vint euros."]
     wrong_answers:
-      - text: "Els bitllets, amb descompte, han costat amb vint euros."
+      - text: "Hem comprat els bitllets, amb descompte, amb vint euros."
         why: "*Amb* diu amb què pagues o amb qui vas. El preu total va amb *per*."
-      - text: "Els bitllets, amb descompte, han costat por vint euros."
+      - text: "Hem comprat els bitllets, amb descompte, por vint euros."
         why: "*Por* és castellà. El preu es fa amb *per*."
     grading: tolerant
     explanation: "«Vint euros» és el preu total. El preu es fa amb *per*."

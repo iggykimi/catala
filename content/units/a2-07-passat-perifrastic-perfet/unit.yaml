@@ -1057,5 +1057,5 @@ items:
     point: compte-castella
     lesson: 5
     title: "Els plans de la Núria"
-    text: "Ahir la Núria {va comprar|va a comprar|ha comprat} els bitllets per internet i {va fer|va a fer|ha fet} la reserva de l'hotel. Aquest matí {ha preparat|va preparar|va a preparar} la motxilla i {ha buscat|va buscar|va a buscar} el passaport. Demà {va a agafar|va agafar|ha agafat} el tren de les set: {va a baixar|va baixar|ha baixat} a l'estació en bicicleta i vol arribar una hora abans. Diu que a l'andana sempre hi ha molts passatgers i no vol perdre el tren."
-    explanation: "«Ahir» demana el perifràstic (*va comprar*, *va fer*); «aquest matí», el perfet (*ha preparat*, *ha buscat*); «demà», el futur (*va a agafar*, *va a baixar*)."
+    text: "Ahir la Núria {va comprar|va a comprar|ha comprat} els bitllets per internet i {va fer|va a fer|ha fet} la reserva de l'hotel. Aquest matí {ha preparat|va preparar|va a preparar} la motxilla i {ha buscat|va buscar|va a buscar} el passaport. Demà {agafarà|va agafar|ha agafat} el tren de les set: {baixarà|va baixar|ha baixat} a l'estació en bicicleta i vol arribar una hora abans. Diu que a l'andana sempre hi ha molts passatgers i no vol perdre el tren."
+    explanation: "«Ahir» demana el perifràstic (*va comprar*, *va fer*); «aquest matí», el perfet (*ha preparat*, *ha buscat*); «demà», el futur (*agafarà*, *baixarà*)."

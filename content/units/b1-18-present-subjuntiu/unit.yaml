@@ -434,7 +434,7 @@ items:
     type: fill
     point: subjuntiu-irregulars
     lesson: 2
-    prompt: "Vull que vosaltres ___ la veritat."
+    prompt: "Espero que vosaltres ___ resoldre el problema."
     hint: "*saber*, vosaltres"
     answers: ["sapigueu"]
     wrong_answers:
@@ -583,7 +583,7 @@ items:
     type: fill
     point: compte-castella
     lesson: 3
-    prompt: "Vull que la festa ___ perfecta."
+    prompt: "Esperem que el viatge ___ tranquil."
     hint: "*ser*, ella"
     answers: ["sigui"]
     wrong_answers:
@@ -677,8 +677,8 @@ items:
     fix_distractors:
       - text: "saps"
         why: "*Saps* és indicatiu. Darrere de *vull que* cal *sàpigues*."
-      - text: "sàpigui"
-        why: "*Sàpigui* no és correcte: «tu» fa *sàpigues*."
+      - text: "sàpiga"
+        why: "*Sàpiga* és per a «ell» o «ella». Amb «tu», *sàpigues*."
     explanation: "«Sepas» és castellà. En català: *sàpigues*."
 
   - id: b1-18-042

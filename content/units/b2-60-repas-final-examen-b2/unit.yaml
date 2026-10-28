@@ -438,8 +438,6 @@ items:
     hint: "saber, ella (subjuntiu)"
     answers: ["sàpiga"]
     wrong_answers:
-      - text: "sàpigui"
-        why: "El subjuntiu de *saber* és *sàpiga*, sense *-gui*."
       - text: "sap"
         why: "Després de «no crec que» cal el subjuntiu, no l'indicatiu."
       - text: "sabeixi"
