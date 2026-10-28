@@ -12,11 +12,23 @@ import { Unit } from "./schema";
 const ID = "virtual:content";
 const RESOLVED = `\0${ID}`;
 
+/**
+ * Bold and italics as HTML before Markdown sees them. Catalan puts an apostrophe
+ * right before the closing marker (**l'**aigua, **he d'**anar), and CommonMark
+ * does not close emphasis there, so the asterisks would show. Same rule as the
+ * inline renderer of exercises: a marker pair on one line.
+ */
+export function emphasis(md: string): string {
+  return md
+    .replace(/\*\*(?=\S)([^*\n]+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/(?<!\*)\*(?=[^\s*])([^*\n]+?)(?<=[^\s*])\*(?!\*)/g, "<em>$1</em>");
+}
+
 /** Theory sections keyed by point id, as HTML. */
 function theorySections(md: string): Record<string, string> {
   const parts = md.split(/<!--\s*point:\s*([a-z0-9-]+)\s*-->/);
   const out: Record<string, string> = {};
-  for (let i = 1; i < parts.length; i += 2) out[parts[i]!] = marked.parse(parts[i + 1]!, { async: false });
+  for (let i = 1; i < parts.length; i += 2) out[parts[i]!] = marked.parse(emphasis(parts[i + 1]!), { async: false });
   return out;
 }
 
