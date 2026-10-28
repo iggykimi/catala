@@ -1,7 +1,7 @@
 <!-- point: prefixos -->
 ## Els prefixos: des-, in-, re-, sots-, ex- i vice-
 
-Els prefixos van sempre units al mot, sense guionet ni espai. Canvien el sentit del mot base: el neguen (*in-*), el desfan (*des-*), el repeteixen (*re-*) o marquen un càrrec (*sots-*, *ex-*, *vice-*).
+Els prefixos s'escriuen units al mot, sense guionet ni espai (hi ha poques excepcions, com *no-* davant d'un nom). Canvien el sentit del mot base: el neguen (*in-*), el desfan (*des-*), el repeteixen (*re-*) o marquen un càrrec (*sots-*, *ex-*, *vice-*).
 
 > congelar → **descongelar**; estable → **inestable**; escalfar → **reescalfar**; director → **sotsdirector**.
 
@@ -16,7 +16,7 @@ Els prefixos van sempre units al mot, sense guionet ni espai. Canvien el sentit 
 
 El prefix *in-* canvia de forma segons la lletra següent: **im-** davant de *b*, *p* i *m* (**impossible**, **impacient**); **il·l-** davant de *l* (**il·legal**); **irr-** davant de *r* (**irregular**, **irresponsable**).
 
-Alguns verbs porten prefix i sufix alhora: calent → **escalfar**; sal → **dessalar**; greix → **desgreixar**.
+Alguns verbs porten prefix i sufix alhora: sal → **dessalar**; greix → **desgreixar**.
 
 > **Compte!** El prefix no porta mai guionet: ~~ex-ministre~~, ~~vice-president~~, ~~re-escalfar~~ → **exministre**, **vicepresident**, **reescalfar**.
 
@@ -47,13 +47,13 @@ Els sufixos formen mots nous i en marquen la categoria: *preparació* (nom), *sa
 <!-- point: compostos -->
 ## Els mots compostos i el guionet
 
-Els mots compostos s'escriuen en un sol mot o amb guionet, segons el cas. Els compostos de verb + nom en plural van junts, i també els de nom + adjectiu.
+Els mots compostos s'escriuen en un sol mot o amb guionet, segons el cas. En general, els compostos de verb + nom i els de nom + adjectiu van junts.
 
 > obrir + llaunes → **obrellaunes**; all + oli → **allioli**; boca + moll → **bocamoll**.
 
 - Sense guionet, en un sol mot: **escuradents**, **obrellaunes**, **rentaplats**, **eixugamans**, **bocamoll**, **allioli**, **aiguardent**.
-- Amb guionet: **penja-robes** (excepció tradicional), **gira-sol**, **nord-est**, **sud-oest** (punts cardinals) i **poti-poti** (repetició expressiva).
-- El prefix **no-** porta sempre guionet: **no-violència**, **no-res**.
+- Amb guionet: quan el primer element acaba en vocal i el segon comença per *r*, *s* o *x* (**penja-robes**, **gira-sol**), els punts cardinals compostos (**nord-est**, **sud-oest**) i les repeticions expressives (**poti-poti**).
+- Davant d'un nom, el prefix **no-** porta guionet: **no-violència**, **no-res**.
 - El plural: **gira-sol** → **gira-sols**; **bocamoll** → **bocamolls**; els compostos acabats en *-s* són invariables: **els escuradents**, **els penja-robes**, **els rentaplats**.
 
 > **Compte!** ~~escura-dents~~ → **escuradents**; ~~penjarobes~~ → **penja-robes**. Cada compost té la seva grafia: cal memoritzar-la.
@@ -61,13 +61,13 @@ Els mots compostos s'escriuen en un sol mot o amb guionet, segons el cas. Els co
 <!-- point: compte-prefixos -->
 ## Compte amb el castellà: el prefix va unit al mot
 
-En castellà, molta gent escriu aquests prefixos amb guionet o separats («ex-ministro», «vice-presidente»). En català, els prefixos van sempre units al mot base.
+En castellà, molta gent escriu aquests prefixos amb guionet o separats («ex-ministro», «ex ministro»). En català, els prefixos van units al mot base.
 
 > ~~ex-ministre~~ → **exministre**; ~~ex-company~~ → **excompany**; ~~vice-president~~ → **vicepresident**.
 
 - També: **exmarit**, **exalcalde**, **exjugador**, **exdirector**.
 - El prefix hi va unit fins i tot davant de vocal: ~~ex-alcalde~~ → **exalcalde**; ~~re-obrir~~ → **reobrir**.
-- L'únic que porta guionet és **no-**: **no-violència**.
+- Porten guionet *no-* davant d'un nom (**no-violència**) i qualsevol prefix davant d'una majúscula, una xifra o una sigla. Davant d'un compost de dos mots, el prefix va separat (*ex primer ministre*).
 
 > **Compte!** Si dubtes entre guionet, espai o res, tria res: ~~ex cuiner~~ → **excuiner**.
 

@@ -17,8 +17,9 @@ Quan expliquem què ha dit algú, fem servir *dir que* + una afirmació. La pers
 - El perfet i el perifràstic passen a plusquamperfet: «he vist» → *havia vist*.
 - El futur passa a condicional: «vindré» → *vindria*.
 - *Explicar que*, *escriure que* i *respondre que* funcionen igual que *dir que*.
+- Si el que es va dir encara és vàlid ara, de vegades es manté el temps (*em va dir que viu a Vic*), i el perifràstic també es pot mantenir (*em va dir que va trucar*). En aquesta unitat practiquem el canvi.
 
-> **Compte!** ~~Em va dir que està cansat~~ → **Em va dir que estava cansat**.
+> **Compte!** Si la situació ja ha passat, cal el canvi: ~~Fa un mes em va dir que està cansat~~ → **Fa un mes em va dir que estava cansat**.
 
 <!-- point: preguntes-indirectes -->
 ## Les preguntes indirectes: *si, què, on...*
@@ -38,7 +39,7 @@ Les preguntes totals (les de sí o no) porten *si*. Les parcials mantenen l'inte
 <!-- point: peticions-subjuntiu -->
 ## Les peticions: *demanar que* + subjuntiu
 
-Les peticions i les ordres amb *demanar* porten *que* + subjuntiu. Si *demanar* és en present, el subjuntiu és present; si és en passat, imperfet.
+Les peticions i les ordres amb *demanar* porten *que* + subjuntiu. Si *demanar* és en present, el subjuntiu és present; si és en passat, normalment és imperfet.
 
 > —Parla més fluix! → Em demana que parli més fluix. / Em va demanar que parlés més fluix.
 

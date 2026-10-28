@@ -18,7 +18,7 @@ Quan un verb porta dos pronoms, l'indirecte (la persona) va primer i el directe 
 - **Ens ho** explica demà. (a nosaltres + això)
 - **Se'ls** menja a l'oficina. (es + els entrepans)
 
-Davant de vocal, *me, te, se* perden la vocal: *me l'emporto*, *te l'agafes*.
+Davant de vocal, *el* i *la* s'apostrofen: *me l'emporto*, *te l'agafes*.
 
 Amb el plural *els* (a ells, a elles), l'estàndard és *els el, els la, els ho*: **Els el** dono demà. Hi ha variants col·loquials que aquí no practiquem.
 
@@ -27,7 +27,7 @@ Amb el plural *els* (a ells, a elles), l'estàndard és *els el, els la, els ho*
 <!-- point: li-cd -->
 ## *Li* + *el/la/els/les/ho*: *l'hi*, *la hi*, *li ho*
 
-Amb *li* (a ell, a ella, a vostè), la combinació canvia: *li* + *el* no donen *li'l*, sinó *l'hi*.
+Amb *li* (a ell, a ella, a vostè), en català central la combinació canvia: *li* + *el* donen *l'hi*. (En altres parlars també es diu *li'l*, *li la*...)
 
 > —Has donat el paquet a la veïna? —Sí, **l'hi** he donat.
 
@@ -52,9 +52,9 @@ Amb el plural *els* (a ells), l'estàndard és *els el, els la, els ho*: **Els e
 
 *En* (una cosa) + *hi* (un lloc) donen *n'hi*. Els dos pronoms van junts i no se separen mai.
 
-> —On poses els rebuts? —**N'hi** poso dos al calaix.
+> —Quants rebuts poses al calaix? —**N'hi** poso dos.
 
-- **N'hi ha** tres al magatzem. (*En* = martells, *hi* = al magatzem)
+- **N'hi ha** tres. (*En* = martells; *haver-hi* sempre porta *hi*)
 - **N'hi** torno tres a la biblioteca. (*En* = llibres, *hi* = a la biblioteca)
 - **N'hi** queden dues. (*En* = claus, *hi* = al magatzem)
 - **N'hi** porto quatre al taller. (*En* = encàrrecs, *hi* = al taller)
@@ -98,7 +98,7 @@ En castellà, «se lo» serveix per a tot. En català, cada combinació té la s
 - **fer un favor**: fer una cosa per ajudar algú. *Em pots fer un favor?*
 - **donar un cop de mà**: ajudar en una feina. *Dona'm un cop de mà amb la mudança.*
 - **deixar-se estar**: parar de fer el que fas. *Deixa't estar i vine a ajudar-me.*
-- **tornar-s'hi**: repetir una acció que molesta. *En Pau s'hi ha tornat amb la bicicleta.*
+- **tornar-hi**: tornar a fer una cosa, sovint que molesta. *En Pau ja hi torna: ha deixat la bicicleta al replà.*
 
 <!-- point: comprensio -->
 ## Llegir i entendre

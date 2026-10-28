@@ -158,7 +158,7 @@ items:
       - text: "arqueòleg"
         why: "És masculí. «La millor» i «la Laia» demanen el femení: *arqueòloga*."
       - text: "arqueòlega"
-        why: "Els noms en *-eg* fan el femení en *-oga*: *arqueòloga*, no *arqueòlega*."
+        why: "Els noms en *-òleg* fan el femení en *-òloga*: *arqueòloga*, no *arqueòlega*."
     explanation: "«La millor» i «la Laia» demanen el femení: *arqueòleg* fa *arqueòloga*."
 
   - id: b2-48-002
@@ -269,8 +269,8 @@ items:
     hint: "JUTGE, en femení"
     answers: ["jutgessa"]
     wrong_answers:
-      - text: "jutge"
-        why: "«La» demana el femení: *jutgessa*."
+      - text: "jutgesa"
+        why: "S'escriu amb doble essa: *jutgessa*."
       - text: "jutja"
         why: "El femení de *jutge* és irregular: *jutgessa*."
     grading: tolerant
@@ -280,16 +280,16 @@ items:
     type: fill
     point: femenins-irregulars
     lesson: 1
-    prompt: "Safo va ser una ___ grega molt famosa."
-    hint: "POETA, en femení"
-    answers: ["poetessa"]
+    prompt: "Per als grecs, Atena era la ___ de la saviesa."
+    hint: "DÉU, en femení"
+    answers: ["deessa"]
     wrong_answers:
-      - text: "poeta"
-        why: "«Una» i «grega» demanen el femení: *poetessa*."
-      - text: "poetisa"
-        why: "«Poetisa» és castellà. En català: *poetessa*."
+      - text: "diosa"
+        why: "«Diosa» és castellà. En català: *deessa*."
+      - text: "deesa"
+        why: "S'escriu amb doble essa: *deessa*."
     grading: tolerant
-    explanation: "Safo era una dona: el femení de *poeta* és *poetessa*."
+    explanation: "Atena és una divinitat femenina: *déu* fa el femení *deessa*."
 
   - id: b2-48-012
     type: fill
@@ -327,10 +327,10 @@ items:
     wrong_answers:
       - text: "alcaldesa"
         why: "«Alcaldesa» és castellà. En català, amb doble essa: *alcaldessa*."
-      - text: "alcalde"
-        why: "Qui inaugura és una dona: *alcalde* fa *alcaldessa*."
+      - text: "alcalda"
+        why: "El femení de *alcalde* no es fa en *-a*: *alcaldessa*."
     grading: tolerant
-    explanation: "L'alcalde és una dona: *alcalde* fa *alcaldessa*, amb doble essa."
+    explanation: "En femení, *alcalde* fa *alcaldessa*, amb doble essa."
 
   - id: b2-48-015
     type: fill
@@ -351,14 +351,14 @@ items:
     type: choice
     point: femenins-irregulars
     lesson: 2
-    prompt: "A la llegenda, qui salva el poble del drac és l'___."
+    prompt: "A la llegenda, la noia que salva el poble del drac és l'___."
     answer: "heroïna"
     distractors:
       - text: "heroina"
         why: "S'escriu amb dièresi: *heroïna*."
       - text: "heroa"
         why: "*Heroi* fa *heroïna*."
-    explanation: "Qui salva el poble és una dona: *heroi* fa *heroïna*, amb dièresi."
+    explanation: "Qui salva el poble és una noia: *heroi* fa *heroïna*, amb dièresi."
 
   - id: b2-48-017
     type: choice
@@ -418,11 +418,11 @@ items:
     lesson: 2
     cue: "Presenta la Núria: és la doctora nova del poble."
     chunks: ["La Núria", "és", "la metgessa", "nova", "del poble"]
-    extra: ["metge"]
+    extra: ["metga"]
     answers:
       - "La Núria és la metgessa nova del poble."
       - "La metgessa nova del poble és la Núria."
-    explanation: "La Núria és una dona: el femení de *metge* és *metgessa*, no *metge*."
+    explanation: "La Núria és una dona: el femení de *metge* és *metgessa*, no *metga*."
 
   - id: b2-48-022
     type: order
@@ -467,7 +467,7 @@ items:
     point: femenins-irregulars
     lesson: 2
     title: "Notícies del patrimoni"
-    text: "La {jutgessa|jutge|jutja} ha ordenat aturar les obres del pàrquing i l'{alcaldessa|alcalde|alcaldesa} ha promès més diners per al museu. La {poetessa|poeta|poetisa} local llegirà versos a la inauguració i l'{arqueòloga|arqueòleg|arqueòlega} Laia dirigirà la visita guiada."
+    text: "La {jutgessa|jutja|jutgesa} ha ordenat aturar les obres del pàrquing i la nova {alcaldessa|alcalda|alcaldesa} ha promès més diners per al museu. La {poetessa|poetisa|poetesa} local llegirà versos a la inauguració i l'{arqueòloga|arqueòleg|arqueòlega} Laia dirigirà la visita guiada."
     explanation: "Els femenins són *jutgessa*, *alcaldessa*, *poetessa* i *arqueòloga*: tots són irregulars."
 
   # ---------- Lliçó 3 ----------
@@ -579,57 +579,51 @@ items:
     type: find-error
     point: compte-metgessa
     lesson: 3
-    sentence: "La metge de guàrdia li ha receptat un xarop."
-    error: "La metge"
+    sentence: "La metga de guàrdia li ha receptat un xarop."
+    error: "La metga"
     fix: "La metgessa"
     fix_distractors:
-      - text: "La metga"
-        why: "El femení de *metge* és irregular: *metgessa*."
+      - text: "La metgesa"
+        why: "S'escriu amb doble essa: *metgessa*."
       - text: "El metgessa"
         why: "*Metgessa* és femení: l'article és *la*."
-    explanation: "El femení de *metge* és *metgessa*. «La metge» és un calc del castellà «la médico»."
+    explanation: "El femení de *metge* és *metgessa*. «Metga» imita el castellà «médica»."
 
   - id: b2-48-035
     type: find-error
     point: compte-metgessa
     lesson: 3
-    sentence: "La jutge ha ordenat protegir el jaciment."
-    error: "La jutge"
+    sentence: "La jutja ha ordenat protegir el jaciment."
+    error: "La jutja"
     fix: "La jutgessa"
     fix_distractors:
-      - text: "La jutja"
-        why: "El femení de *jutge* és irregular: *jutgessa*."
+      - text: "La jutgesa"
+        why: "S'escriu amb doble essa: *jutgessa*."
       - text: "El jutgessa"
         why: "*Jutgessa* és femení: l'article és *la*."
-    explanation: "El femení de *jutge* és *jutgessa*. «La jutge» és un calc del castellà «la juez»."
+    explanation: "El femení de *jutge* és *jutgessa*. «Jutja» imita el castellà «jueza»."
 
   - id: b2-48-036
     type: find-error
     point: compte-metgessa
     lesson: 3
-    sentence: "La poeta Safo va néixer a l'illa de Lesbos."
-    error: "La poeta"
-    fix: "La poetessa"
-    fix_distractors:
-      - text: "La poetisa"
-        why: "«Poetisa» és castellà. En català: *poetessa*."
-      - text: "El poetessa"
-        why: "*Poetessa* és femení: l'article és *la*."
-    explanation: "El femení de *poeta* és *poetessa*. «La poeta» segueix el model castellà."
+    sentence: "La poetessa Safo va néixer a l'illa de Lesbos."
+    no_error: true
+    explanation: "La frase és correcta: *poetessa* és el femení de *poeta* (també es pot dir *la poeta*)."
 
   - id: b2-48-037
     type: find-error
     point: compte-metgessa
     lesson: 3
-    sentence: "La nova alcalde de Vic ha inaugurat la muralla restaurada."
-    error: "alcalde"
+    sentence: "La nova alcaldesa de Vic ha inaugurat la muralla restaurada."
+    error: "alcaldesa"
     fix: "alcaldessa"
     fix_distractors:
-      - text: "alcaldesa"
-        why: "«Alcaldesa» és castellà. En català, amb doble essa: *alcaldessa*."
       - text: "alcalda"
         why: "*Alcalde* fa *alcaldessa*."
-    explanation: "*Alcalde* fa *alcaldessa*, amb doble essa."
+      - text: "alcadessa"
+        why: "El mot base és *alcalde*, amb *l*: *alcaldessa*."
+    explanation: "«Alcaldesa» és la forma castellana. En català, *alcalde* fa *alcaldessa*, amb doble essa."
 
   - id: b2-48-038
     type: find-error
@@ -660,15 +654,15 @@ items:
     point: femenins-irregulars
     lesson: 4
     instruction: "Canvia la frase al femení."
-    source: "El [[poeta]] convidat llegirà els seus versos."
-    answers: ["La poetessa convidada llegirà els seus versos."]
+    source: "L'[[emperador]] romà apareix a totes les monedes de la vitrina."
+    answers: ["L'emperadriu romana apareix a totes les monedes de la vitrina."]
     wrong_answers:
-      - text: "La poeta convidada llegirà els seus versos."
-        why: "El femení de *poeta* és *poetessa*."
-      - text: "La poetisa convidada llegirà els seus versos."
-        why: "«Poetisa» és castellà. En català: *poetessa*."
+      - text: "L'emperadora romana apareix a totes les monedes de la vitrina."
+        why: "*Emperador* fa el femení irregular *emperadriu*."
+      - text: "La emperadriu romana apareix a totes les monedes de la vitrina."
+        why: "Davant de vocal, *la* s'apostrofa: *l'emperadriu*."
     grading: tolerant
-    explanation: "El femení de *poeta* és *poetessa*, i l'adjectiu concorda: *convidada*."
+    explanation: "*Emperador* fa el femení *emperadriu*, i l'adjectiu concorda: *romana*."
 
   - id: b2-48-041
     type: transform
@@ -681,7 +675,7 @@ items:
       - text: "Els gosos de mosaic són negres."
         why: "*Gos* fa el plural amb doble essa: *gossos*."
       - text: "Els gossos de mosaic son negres."
-        why: "Del verb ser, amb accent: *són*. *Son* sense accent és el dormir."
+        why: "Del verb ser, amb accent: *són*. *Son* sense accent és un altre mot (el dormir o el possessiu)."
     grading: strict
     explanation: "El plural de *gos* és *gossos*, i el verb concorda: *són negres*."
 
@@ -718,13 +712,13 @@ items:
     point: compte-metgessa
     lesson: 4
     instruction: "Corregeix la frase."
-    source: "[[La metge]] de guàrdia triga una hora."
+    source: "[[La metga]] de guàrdia triga una hora."
     answers: ["La metgessa de guàrdia triga una hora."]
     wrong_answers:
-      - text: "La metga de guàrdia triga una hora."
-        why: "El femení de *metge* és *metgessa*."
+      - text: "La metgesa de guàrdia triga una hora."
+        why: "S'escriu amb doble essa: *metgessa*."
     grading: tolerant
-    explanation: "El femení de *metge* és *metgessa*: «la metge» és un calc del castellà."
+    explanation: "El femení de *metge* és *metgessa*: «metga» imita el castellà «médica»."
 
   - id: b2-48-045
     type: fill
@@ -788,6 +782,7 @@ items:
       - "L'alcaldessa ha visitat el monestir aquest matí."
       - "Aquest matí l'alcaldessa ha visitat el monestir."
       - "L'alcaldessa ha visitat aquest matí el monestir."
+      - "L'alcaldessa aquest matí ha visitat el monestir."
     explanation: "*Alcalde* fa *alcaldessa*, amb doble essa: «alcaldesa» és castellà."
 
   - id: b2-48-050
@@ -824,10 +819,10 @@ items:
     prompt: "La ___ ha absolt els acusats."
     answer: "jutgessa"
     distractors:
-      - text: "jutge"
-        why: "És masculí. «La» demana el femení: *jutgessa*."
-      - text: "justícia"
-        why: "La justícia és la institució, no la persona que jutja."
+      - text: "jutja"
+        why: "«Jutja» imita el castellà «jueza». El femení de *jutge* és *jutgessa*."
+      - text: "jutgesa"
+        why: "S'escriu amb doble essa: *jutgessa*."
     explanation: "Qui jutja és una dona: el femení de *jutge* és *jutgessa*."
 
   - id: b2-48-053
@@ -929,16 +924,16 @@ items:
     fix_distractors:
       - text: "La actriu"
         why: "Davant de vocal, *la* s'apostrofa: *l'actriu*."
-      - text: "L'actor"
-        why: "*Actor* és masculí; la protagonista és una dona: *actriu*."
-    explanation: "La protagonista és una dona: *actor* fa *actriu*."
+      - text: "L'actoressa"
+        why: "*Actor* no fa el femení en *-essa*: fa *actriu*."
+    explanation: "«Actora» vol ser un femení, però *actor* fa el femení irregular *actriu*."
 
   - id: b2-48-061
     type: inline-choice
     point: genere-i-significat
     lesson: 5
     title: "Postal de Tarragona"
-    text: "Hem començat el dia traient {la|el} pols de les botes. Hem trepitjat {el|la} terra del fòrum. A la tarda els petits han volat {la|el} cometa a la platja i a la nit tothom tenia {el|la} son profund."
+    text: "Hem començat el dia traient {la|el} pols de les botes. Al museu hem vist {el|la} terra de mosaic d'una vil·la romana. A la tarda els petits han fet volar {la|el} cometa a la platja i a la nit tothom tenia {el|la} son profund."
     explanation: "La brutícia és *la pols*, el paviment és *el terra*, la joguina és *la cometa* i el dormir és *el son*."
 
   - id: b2-48-062
@@ -974,13 +969,13 @@ items:
     text: |
       La Núria i en Pau passen un dissabte al Museu d'Arqueologia de Barcelona. La Núria és metgessa, però l'apassiona la història; en Pau és mestre i prepara una visita amb els alumnes de la seva escola.
 
-      Comencen per la sala de la prehistòria. En una vitrina hi ha un fòssil de dinosaure, eines de pedra i els ossos d'un animal gegant. «Aquests ossos tenen més de deu mil anys», explica el guia. La Núria ho apunta amb un llapis a la seva llibreta. La llum de la sala és tènue perquè la claredat forta fa malbé les peces antigues.
+      Comencen per la sala de la prehistòria. En una vitrina hi ha un fòssil de dinosaure, eines de pedra i els ossos d'un animal gegant. «Aquests ossos tenen més de deu mil anys», explica la guia. La Núria ho apunta amb un llapis a la seva llibreta. La llum de la sala és tènue perquè la claredat forta fa malbé les peces antigues.
 
       La segona sala és la de l'imperi romà: un terra de mosaic protegit per un vidre, vasos de ceràmica, monedes, la tapa d'una tomba i una inscripció que parla d'un temple. També hi ha una foto de l'aqüeducte de Tarragona i una maqueta de l'amfiteatre. En Pau s'atura davant d'una estàtua sense braços. «La fi de l'imperi va ser un temps de grans canvis», llegeix en un plafó.
 
       La sala de l'edat mitjana mostra una pedra de la muralla romana, la maqueta d'un castell, una creu de la catedral de Girona, manuscrits en pergamí i la corona i el tron d'un rei del segle XII. Una carta del rei explica com era la vida al seu regne. La guia explica que la restauració d'una peça pot durar mesos: cal treure la pols, conservar els colors i datar cada resta amb cura. L'equip de l'arqueòloga Laia excava cada estiu a Empúries i porta les troballes al museu.
 
-      Abans de sortir, visiten l'exposició del tresor iber, la peça més famosa de la col·lecció: un conjunt de joies que va passar a la història quan un pagès el va treure a la llum l'any 1932. «Aquest museu és de tota la vida», diu la Núria, «i cada visita hi descobreixo una peça nova». En Pau compra un llibre de llegendes per als alumnes i surten al jardí, on uns nens volen la cometa.
+      Abans de sortir, visiten l'exposició del tresor iber, la peça més famosa de la col·lecció: un conjunt de joies que va passar a la història quan un pagès el va treure a la llum l'any 1932. «Aquest museu és de tota la vida», diu la Núria, «i cada visita hi descobreixo una peça nova». En Pau compra un llibre de llegendes per als alumnes i surten al jardí, on uns nens fan volar la cometa.
     questions:
       - prompt: "Per què visiten el museu, la Núria i en Pau?"
         answer: "Ella hi va per afició i ell prepara una visita escolar."
@@ -1009,7 +1004,7 @@ items:
           - text: "El va portar l'equip de la Laia des d'Empúries."
             why: "L'equip porta les troballes d'Empúries, però el tresor el va trobar un pagès."
           - text: "El van trobar uns nens al jardí."
-            why: "Els nens del jardí volen la cometa; el tresor el va trobar un pagès."
+            why: "Els nens del jardí fan volar la cometa; el tresor el va trobar un pagès."
     explanation: "La Núria i en Pau visiten el museu: hi veuen la prehistòria, Roma, l'edat mitjana i el tresor iber."
 
   - id: b2-48-065

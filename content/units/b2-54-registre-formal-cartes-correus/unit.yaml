@@ -117,7 +117,7 @@ vocabulary:
     definition: "Raó per la qual es fa una cosa."
     example: "El motiu d'aquest correu és la factura de gener."
   - word: "la baixa"
-    definition: "Fet de deixar un servei contractat. No és la baixa de la feina per malaltia."
+    definition: "Fet de deixar un servei contractat. També és el permís de la feina per malaltia."
     example: "La baixa del gas triga uns deu dies."
   - word: "l'alta"
     definition: "Fet de contractar un servei o de fer-se'n client."
@@ -213,7 +213,7 @@ items:
     answer: "Deixar de ser client d'una companyia o d'un servei."
     distractors:
       - text: "Demanar la baixa per malaltia a la feina."
-        why: "Això és «demanar la baixa» o «agafar la baixa»; de baixa d'un servei és deixar de ser-ne client."
+        why: "Això és la baixa de la feina. *Donar-se de baixa* d'un servei és deixar de ser-ne client."
       - text: "Contractar un servei nou amb una companyia."
         why: "Això és *donar-se d'alta*, just el contrari."
     explanation: "«Donar-se de baixa» és deixar un servei; no té res a veure amb la baixa per malaltia."
@@ -359,7 +359,7 @@ items:
     answers: ["de baixa"]
     wrong_answers:
       - text: "la baixa"
-        why: "«La baixa» sola és la de la feina per malaltia; deixar un servei és *donar-se de baixa*."
+        why: "L'expressió porta *de*, sense article: *donar-se de baixa*."
     grading: tolerant
     explanation: "Deixar un servei és *donar-se de baixa de* + el servei."
 
@@ -394,7 +394,7 @@ items:
     extra: ["la baixa"]
     answers:
       - "Em vull donar de baixa del servei."
-    explanation: "Deixar un servei és *donar-se de baixa de* + el servei. «La baixa» sola és la de la feina."
+    explanation: "Deixar un servei és *donar-se de baixa de* + el servei, amb *de* i sense article."
 
   - id: b2-54-022
     type: choice
@@ -405,9 +405,9 @@ items:
     distractors:
       - text: "T'adjunto"
         why: "«T'adjunto» és de *tu*; en una carta formal, *Us adjunto*."
-      - text: "Us adjunte"
-        why: "«Adjunte» és castellà; en català, *jo adjunto*."
-    explanation: "Per enviar un document amb la carta: *Us adjunto* + el document. *Us* és el pronom del registre formal."
+      - text: "Os adjunto"
+        why: "«Os» és el pronom castellà; en català, *us*."
+    explanation: "Per enviar un document amb la carta: *Us adjunto* + el document. *Us* és el pronom més habitual en una carta formal."
 
   - id: b2-54-023
     type: choice
@@ -471,23 +471,23 @@ items:
     fix_distractors:
       - text: "Benvolguda senyor"
         why: "«Senyor» és masculí: *Benvolgut senyor*."
-      - text: "Apreciat senyor"
-        why: "«Apreciat senyor» és un calc de «apreciado»; la salutació és *Benvolgut senyor*."
+      - text: "Bienvolgut senyor"
+        why: "S'escriu *benvolgut*, amb *e*: *Benvolgut senyor*."
     explanation: "La salutació formal és *Benvolgut senyor*. «Estimado» és castellà."
 
   - id: b2-54-028
     type: find-error
     point: compte-formules-calcades
     lesson: 3
-    sentence: "Us adjunte el rebut del mes passat."
-    error: "adjunte"
-    fix: "adjunto"
+    sentence: "Os adjunto el rebut del mes passat."
+    error: "Os"
+    fix: "Us"
     fix_distractors:
-      - text: "adjuntat"
-        why: "El participi no funciona aquí: cal el present, *jo adjunto*."
-      - text: "adjunta"
-        why: "«Adjunta» és tercera persona; el subjecte és *jo*: *adjunto*."
-    explanation: "«Adjunte» és castellà; en català, *jo adjunto*. La fórmula és *Us adjunto* + el document."
+      - text: "Les"
+        why: "«Les» és el pronom de cortesia del castellà; en català, *us*."
+      - text: "Se"
+        why: "*Se* no és el pronom del destinatari: *us*."
+    explanation: "«Os» és el pronom castellà. En català, el pronom de destinatari és *us*: *Us adjunto* + el document."
 
   - id: b2-54-029
     type: find-error
@@ -511,8 +511,8 @@ items:
     error: "anulen"
     fix: "anul·lin"
     fix_distractors:
-      - text: "anul·leu"
-        why: "Amb destinatari plural i formal (*vostès*) cal la tercera persona: *anul·lin*."
+      - text: "anulin"
+        why: "S'escriu amb ela geminada: *anul·lin*."
       - text: "anul·li"
         why: "El destinatari és plural (*vostès*): *anul·lin*."
     explanation: "«Anulen» és castellà; amb *vostès* el subjuntiu és *anul·lin*."
@@ -537,16 +537,16 @@ items:
     type: fill
     point: compte-formules-calcades
     lesson: 3
-    prompt: "Us prego que m'enviïn el rebut ___, si és possible."
-    hint: "expressió: abans de rebre una cosa"
-    answers: ["per endavant", "abans"]
+    prompt: "Us agraeixo ___ la vostra atenció."
+    hint: "expressió: abans que passi una cosa (en castellà, «de antemano»)"
+    answers: ["per endavant", "anticipadament", "avançadament"]
     wrong_answers:
       - text: "de antemano"
         why: "«De antemano» és castellà; en català, *per endavant*."
       - text: "per endevant"
         why: "S'escriu *per endavant*, amb *a*."
     grading: tolerant
-    explanation: "*Per endavant* vol dir «abans de rebre una cosa»: *Us prego que m'enviïn el rebut per endavant*."
+    explanation: "*Per endavant* vol dir «abans que passi una cosa»: *Us agraeixo per endavant la vostra atenció*."
 
   - id: b2-54-034
     type: fill
@@ -572,6 +572,7 @@ items:
     answers:
       - "Us ho agrairia com més aviat millor."
       - "Us ho agrairia tan aviat com sigui possible."
+      - "Us ho agrairia al més aviat possible."
     wrong_answers:
       - text: "Us ho agrairia a la mayor brevedad."
         why: "«A la mayor brevedad» és castellà; en català: *com més aviat millor* o *tan aviat com sigui possible*."
@@ -622,8 +623,8 @@ items:
     point: compte-formules-calcades
     lesson: 3
     title: "Una reclamació"
-    text: "{Benvolguts|Benvolgudes|Estimados} senyors: {Us|T'|Em} escric per un càrrec incorrecte. Us demano que {anul·lin|anul·leu|anulen} el rebut de gener. {Us|T'|Ho} adjunto una còpia de l'extracte. Resto a l'espera {de la vostra|de la teva|de la meva} resposta."
-    explanation: "Tractament de *vostès*: *Benvolguts senyors*, *Us escric*, subjuntiu *anul·lin*, *Us adjunto* i possessiu *vostra*. «Anulen» i «Estimados» són formes castellanes; *anul·leu*, *teva* i *meva* no són de *vostès*."
+    text: "{Benvolguts|Benvolgudes|Estimados} senyors: {Us|T'|Em} escric per un càrrec incorrecte. Us demano que {anul·lin|anulin|anulen} el rebut de gener. {Us|T'|Ho} adjunto una còpia de l'extracte. Resto a l'espera {de la vostra|de la teva|de la meva} resposta."
+    explanation: "Tractament de *vostès*: *Benvolguts senyors*, *Us escric*, subjuntiu *anul·lin*, *Us adjunto* i possessiu *vostra*. «Anulen» i «Estimados» són formes castellanes, *anulin* no porta la ela geminada, i *teva* i *meva* no són de *vostès*."
 
   # ---------- Lliçó 4 ----------
   - id: b2-54-040
@@ -635,11 +636,13 @@ items:
     answers:
       - "Us envio la factura demà al matí."
       - "Us envio demà al matí la factura."
+      - "Li envio la factura demà al matí."
+      - "Li envio demà al matí la factura."
     wrong_answers:
       - text: "T'envio la factura demà al matí."
         why: "Això és tractament de *tu*; amb *vostè* el pronom és *us*."
     grading: tolerant
-    explanation: "Amb *vostè* el pronom de destinatari és *us*: *Us envio la factura*. «T'envio» és de *tu*."
+    explanation: "Amb *vostè* el pronom de destinatari és *us* o *li*: *Us envio la factura*. «T'envio» és de *tu*."
 
   - id: b2-54-041
     type: transform
@@ -676,6 +679,8 @@ items:
     answers:
       - "Resto a l'espera de la vostra resposta."
       - "Quedo a l'espera de la vostra resposta."
+      - "Resto a l'espera de la seva resposta."
+      - "Quedo a l'espera de la seva resposta."
     wrong_answers:
       - text: "Resto a la espera de la vostra resposta."
         why: "«Espera» comença per vocal: l'article s'apostrofa, *a l'espera*."
@@ -690,12 +695,15 @@ items:
     lesson: 4
     instruction: "Corregeix la part marcada."
     source: "[[Adjunto le envío]] l'extracte del compte."
-    answers: ["Us adjunto l'extracte del compte."]
+    answers:
+      - "Us adjunto l'extracte del compte."
+      - "Li adjunto l'extracte del compte."
+      - "Els adjunto l'extracte del compte."
     wrong_answers:
       - text: "T'adjunto l'extracte del compte."
         why: "«T'adjunto» és de *tu*; en registre formal, *Us adjunto*."
-      - text: "Us adjunte l'extracte del compte."
-        why: "«Adjunte» és castellà; en català, *adjunto*."
+      - text: "Os adjunto l'extracte del compte."
+        why: "«Os» és el pronom castellà; en català, *us*."
     grading: tolerant
     explanation: "La fórmula catalana és *Us adjunto* + el document. «Adjunto le envío» és castellà."
 
@@ -726,8 +734,8 @@ items:
     wrong_answers:
       - text: "Us demano que m'envieu el resguard del pagament."
         why: "Amb *vostès* el subjuntiu és *enviïn*, no *envieu*."
-      - text: "Us demano que m'envien el resguard del pagament."
-        why: "En català porta dièresi: *enviïn*. «Envíen» és la forma castellana."
+      - text: "Us demano que m'enviïs el resguard del pagament."
+        why: "*Enviïs* és de *tu*; amb *vostès*, *enviïn*."
     grading: tolerant
     explanation: "La petició formal és *Us demano que* + subjuntiu; amb *vostès*, *que m'enviïn*."
 
@@ -765,7 +773,7 @@ items:
     lesson: 4
     prompt: "M'adreço a vostès per ___ una reclamació."
     hint: "verb en infinitiu: fer el tràmit"
-    answers: ["presentar", "fer"]
+    answers: ["presentar", "fer", "formular"]
     wrong_answers:
       - text: "donar"
         why: "«Donar una reclamació» no es diu: la reclamació es *presenta* o es *fa*."
@@ -942,7 +950,7 @@ items:
       - text: "he donat de baixa"
         why: "«Donar-se de baixa» és pronominal: no et deixis el pronom, *m'he donat de baixa*."
       - text: "m'he donat la baixa"
-        why: "«La baixa» és la de la feina per malaltia; d'un servei, *donar-se de baixa*."
+        why: "L'expressió porta *de*, sense article: *m'he donat de baixa*."
     grading: tolerant
     explanation: "Deixar un servei és *donar-se de baixa*: *m'he donat de baixa de la fibra*."
 
@@ -1001,8 +1009,8 @@ items:
     point: reclamacions-sollicituds
     lesson: 5
     title: "Canvi de companyia"
-    text: "Benvolguts senyors: vull {donar-me|donar-vos|donar-se} de baixa de la fibra. {Us|T'|Em} demano que {donin|doneu|donen} de baixa el servei a final de mes. {Us|T'|Ho} agraeixo l'atenció. {Atentament|Atentamente|Saludos}."
-    explanation: "El subjecte és *jo* (*vull donar-me*); la petició va en tercera persona del plural (*Us demano que donin*). *Donen* és indicatiu i aquí cal subjuntiu. El comiat és *Atentament*."
+    text: "Benvolguts senyors: vull {donar-me|donar-vos|donar-se} de baixa de la fibra. {Us|T'|Em} demano que {donin|dones|donaran} de baixa el servei a final de mes. {Us|T'|Ho} agraeixo l'atenció. {Atentament|Atentamente|Saludos}."
+    explanation: "El subjecte és *jo* (*vull donar-me*); la petició va en subjuntiu i en tercera persona del plural (*Us demano que donin*): *dones* és de *tu* i *donaran* és futur d'indicatiu. El comiat és *Atentament*."
 
   - id: b2-54-065
     type: match

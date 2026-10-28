@@ -12,18 +12,18 @@ La majoria de noms fan el femení afegint *-a*, però molts oficis i títols ten
 | poeta | **poetessa** | comte | **comtessa** |
 | metge | **metgessa** | duc | **duquessa** |
 | jutge | **jutgessa** | heroi | **heroïna** |
-| alcalde | **alcaldessa** | | |
+| alcalde | **alcaldessa** | déu | **deessa** |
 
-- Els acabats en *-e* canvien la terminació: *poeta* → **poetessa**, *metge* → **metgessa**, *jutge* → **jutgessa**, *alcalde* → **alcaldessa**.
+- Molts fan el femení en *-essa*: *metge* → **metgessa**, *jutge* → **jutgessa**, *alcalde* → **alcaldessa**, *déu* → **deessa**. *Poeta* fa **poetessa**, però també es pot usar com a nom comú: *la poeta*.
 - *Actor* i *emperador* fan el femení en *-triu* i *-driu*: **actriu**, **emperadriu**.
 - *Arqueòleg* fa **arqueòloga**; *príncep*, **princesa**; *heroi*, **heroïna**, amb dièresi.
 
-> **Compte!** ~~la actor~~ → **l'actriu**. ~~la poeta~~ → **la poetessa**. Davant de vocal, *la* s'apostrofa: **l'actriu**, **l'alcaldessa**.
+> **Compte!** ~~la actor~~ → **l'actriu**. ~~l'emperadora~~ → **l'emperadriu**. Davant de vocal, *la* s'apostrofa: **l'actriu**, **l'alcaldessa**.
 
 <!-- point: plurals-irregulars -->
 ## Plurals irregulars: gossos, braços, llapis
 
-Els noms acabats en *-s* fan el plural afegint *-os*, però alguns dupliquen la essa. També hi ha un canvi de lletra amb la *ç* i noms que no canvien mai.
+Els noms aguts acabats en *-s* fan el plural en *-os*: la majoria dupliquen la essa, però alguns no. També hi ha un canvi de lletra amb la *ç* i noms que no canvien mai.
 
 > Un **gos**, dos **gossos**; un **llapis**, dos **llapis**.
 
@@ -44,7 +44,7 @@ Els noms acabats en *-s* fan el plural afegint *-os*, però alguns dupliquen la 
 <!-- point: genere-i-significat -->
 ## El gènere canvia el significat: el fi / la fi
 
-Sis noms canvien de significat segons si són masculins o femenins. L'article decideix el sentit de la frase.
+Alguns noms canvien de significat segons si són masculins o femenins; aquí en veurem sis. L'article decideix el sentit de la frase.
 
 > **El cometa** Halley és un astre; **la cometa** dels nens és una joguina.
 
@@ -55,7 +55,7 @@ Sis noms canvien de significat segons si són masculins o femenins. L'article de
 | **el fi** (l'objectiu): El seu **fi** és ajudar. | **la fi** (l'acabament): **La fi** de la festa. |
 | **el pols** (el batec): Prendre **el pols**. | **la pols** (la brutícia): Treure **la pols**. |
 | **el terra** (el paviment): Fregar **el terra**. | **la terra** (el sòl): Regar **la terra**. |
-| **el cometa** (l'astre): Veure **el cometa**. | **la cometa** (la joguina): Volar **la cometa**. |
+| **el cometa** (l'astre): Veure **el cometa**. | **la cometa** (la joguina): Fer volar **la cometa**. |
 
 - *Prendre el pols* i *treure la pols* són expressions oposades: no les confonguis.
 - *La terra* també és el planeta: **la Terra** gira al voltant del Sol.
@@ -65,15 +65,15 @@ Sis noms canvien de significat segons si són masculins o femenins. L'article de
 <!-- point: compte-metgessa -->
 ## Compte amb el castellà: la metgessa
 
-En castellà, molts oficis fan servir la mateixa forma per a homes i dones: «la médico», «la juez». En català tenen un femení propi, sovint en *-essa*.
+En castellà, molts oficis fan el femení en *-a* o amb una forma pròpia: «la médica», «la jueza», «la alcaldesa». En català, el femení habitual d'aquests noms és en *-essa*, i copiar el castellà dona formes incorrectes.
 
-> ~~La metge de guàrdia~~ → **La metgessa** de guàrdia.
+> ~~La metga de guàrdia~~ → **La metgessa** de guàrdia.
 
-- *Metge* → **metgessa**; *jutge* → **jutgessa**; *poeta* → **poetessa**; *alcalde* → **alcaldessa**.
+- *Metge* → **metgessa**; *jutge* → **jutgessa**; *alcalde* → **alcaldessa**.
 - També: *comte* → **comtessa**, *duc* → **duquessa**.
 - Escriu la doble essa: *metgessa*, *jutgessa*, *alcaldessa*.
 
-> **Compte!** ~~la metge~~ → **la metgessa**. ~~la jutge~~ → **la jutgessa**. Són calcs del castellà.
+> **Compte!** ~~la metga~~ → **la metgessa**. ~~la jutja~~ → **la jutgessa**. ~~l'alcaldesa~~ → **l'alcaldessa**. Imiten les formes castellanes.
 
 <!-- point: expressions -->
 ## Expressions amb història

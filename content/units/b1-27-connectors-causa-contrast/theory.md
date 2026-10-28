@@ -50,7 +50,7 @@ Amb una hipòtesi (*encara que plogui*), el verb va en subjuntiu; ho practiquem 
 <!-- point: compte-castella-doncs -->
 ## Compte amb el castellà: *doncs* no dona una causa
 
-En castellà, *pues* pot donar una causa («pues llueve»). En català, *doncs* només indica una conseqüència i no introdueix mai una causa.
+En castellà, *pues* pot donar una causa («pues llueve»). En català, *doncs* pot indicar una conseqüència, però no introdueix mai una causa.
 
 - ~~**Doncs** plovia, vam fer la classe al gimnàs~~ → **Com que** plovia, vam fer la classe al gimnàs.
 - ~~Vaig suspendre, **doncs** no havia estudiat~~ → Vaig suspendre, **perquè** no havia estudiat.
@@ -61,11 +61,11 @@ En castellà, *pues* pot donar una causa («pues llueve»). En català, *doncs* 
 <!-- point: expressions -->
 ## Expressions per enllaçar idees
 
-- **al cap i a la fi**: finalment, després de dubtar-ho. *Dubtava entre dret i medicina; **al cap i a la fi**, va triar medicina.*
+- **al cap i a la fi**: en definitiva, al final de tot. *Dubtava entre dret i medicina; **al cap i a la fi**, va triar medicina.*
 - **en canvi**: per comparar dues situacions. *Jo estudio al matí; la Núria, **en canvi**, estudia de nit.*
 - **tot i així**: malgrat una dificultat. *L'examen era difícil; **tot i així**, va aprovar.*
-- **i ara!**: resposta entusiasta que vol dir «és clar!». *—M'ajudes a repassar? —**I ara!***
-- **de tota manera**: passi el que passi. *He suspès; **de tota manera**, estic content de l'esforç.*
+- **i tant!**: resposta entusiasta que vol dir «és clar que sí!». *—M'ajudes a repassar? —**I tant!***
+- **de tota manera**: sigui com sigui, igualment. *He suspès; **de tota manera**, estic content de l'esforç.*
 - **així doncs**: tanca un argument amb la conclusió. ***Així doncs**, ens veiem a les nou.*
 
 <!-- point: comprensio -->

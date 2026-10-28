@@ -232,7 +232,7 @@ items:
     answer: "A més"
     distractors:
       - text: "Tanmateix"
-        why: "*Tanmateix* introdueix un contrast; les dues frases van en el mateix sentit: tot són retallades."
+        why: "*Tanmateix* introdueix un contrast; les dues frases van en el mateix sentit: tot són males notícies per al lector."
       - text: "En definitiva"
         why: "*En definitiva* tanca amb una conclusió; aquí s'afegeix una segona queixa."
     explanation: "La segona frase afegeix una queixa a la primera: el connector d'addició és *a més*."
@@ -274,11 +274,11 @@ items:
     type: choice
     point: expressions
     lesson: 1
-    prompt: "—I, ___, què et va semblar l'entrevista, Laia? —Molt fluixa: no va dir res de nou."
+    prompt: "—Perdona, ens hem desviat parlant del cotxe. I, ___, què et va semblar l'entrevista, Laia? —Molt fluixa."
     answer: "tornant al tema"
     distractors:
-      - text: "en poques paraules"
-        why: "*En poques paraules* resumeix una idea; aquí es reprèn el tema de conversa."
+      - text: "per contra"
+        why: "*Per contra* oposa dos termes; aquí no hi ha cap contrast: es reprèn el tema de conversa."
       - text: "dit d'una altra manera"
         why: "*Dit d'una altra manera* repeteix una idea; aquí es torna al tema principal."
     explanation: "Després d'haver parlat d'una altra cosa, *tornant al tema* reprèn la conversa principal."
@@ -316,7 +316,7 @@ items:
     lesson: 2
     prompt: "El pla és car; d'una banda, caldrà apujar impostos; ___, crearà molts llocs de treball."
     hint: "connector que fa parella amb «d'una banda»"
-    answers: ["d'altra banda"]
+    answers: ["d'altra banda", "per altra banda"]
     grading: tolerant
     explanation: "«D'una banda» fa parella amb *d'altra banda*: el pla té un cost, però també un avantatge."
 
@@ -336,7 +336,7 @@ items:
     lesson: 2
     prompt: "La revista té cent pàgines. ___, es llegeix d'una tirada."
     hint: "connector de contrast que comença per *t*"
-    answers: ["Tanmateix", "Tot i això"]
+    answers: ["Tanmateix", "Tot i això", "Tot i així", "Tot amb això", "Tot i amb això"]
     grading: tolerant
     explanation: "«Es llegeix d'una tirada» contrasta amb «té cent pàgines»: el contrast el marca *tanmateix* (o *tot i això*)."
 
@@ -450,20 +450,20 @@ items:
     type: choice
     point: aclarir-concloure
     lesson: 3
-    prompt: "El diari ha publicat les dades: ha perdut un deu per cent de lectors; ___, cada any en té menys."
+    prompt: "El diari ha publicat les dades: ha perdut un deu per cent de lectors; ___, un de cada deu ha deixat de comprar-lo."
     answer: "és a dir"
     distractors:
       - text: "en resum"
         why: "*En resum* tanca un text; aquí s'aclareix una dada amb altres paraules."
       - text: "tanmateix"
         why: "*Tanmateix* introdueix un contrast; aquí no hi ha contrast: és la mateixa idea."
-    explanation: "«Cada any en té menys» repeteix la dada amb paraules més clares: *és a dir*."
+    explanation: "«Un de cada deu ha deixat de comprar-lo» repeteix la dada amb paraules més clares: *és a dir*."
 
   - id: b2-55-027
     type: choice
     point: aclarir-concloure
     lesson: 3
-    prompt: "___, cal més inversió, més personal i més temps."
+    prompt: "L'informe parla d'aules velles, de pocs mestres i de cursos massa curts. ___, cal més inversió, més personal i més temps."
     answer: "En resum"
     distractors:
       - text: "És a dir"
@@ -594,7 +594,7 @@ items:
     point: aclarir-concloure
     lesson: 3
     title: "Final d'un article"
-    text: "Les dades són clares: cada any hi ha menys lectors joves. {És a dir|En quant a|Tanmateix}, el diari en paper perd el públic del futur. Cal canviar el model {arran de|a més de|malgrat} la caiguda de les vendes. {En definitiva|És a dir|Tanmateix}, o el diari s'adapta o desapareixerà."
+    text: "Les dades són clares: cada any hi ha menys lectors joves. {És a dir|En quant a|Tanmateix}, el diari en paper perd el públic del futur. Cal canviar el model {arran de|a més de|malgrat} la caiguda de les vendes. {En definitiva|Per contra|Tanmateix}, o el diari s'adapta o desapareixerà."
     explanation: "*És a dir* aclareix la dada, *arran de* introdueix la causa del canvi i *en definitiva* tanca l'article amb una conclusió."
 
   # ---------- Lliçó 4 ----------
@@ -621,6 +621,7 @@ items:
       - "El pis és petit; tanmateix, té molta llum."
       - "El pis és petit. Tanmateix, té molta llum."
       - "El pis és petit i té, tanmateix, molta llum."
+      - "El pis és petit; té, tanmateix, molta llum."
     wrong_answers:
       - text: "El pis és petit; també, té molta llum."
         why: "*També* afegeix una idea; el contrast es marca amb *tanmateix*."
@@ -637,6 +638,7 @@ items:
       - "L'edició en paper perd lectors; l'edició digital, per contra, en guanya."
       - "L'edició en paper perd lectors. L'edició digital, per contra, en guanya."
       - "L'edició en paper perd lectors; per contra, l'edició digital en guanya."
+      - "L'edició en paper perd lectors. Per contra, l'edició digital en guanya."
     grading: tolerant
     explanation: "*Per contra* uneix dues frases que oposen dos termes simètrics: el paper i el digital."
 
@@ -645,10 +647,11 @@ items:
     point: aclarir-concloure
     lesson: 4
     instruction: "Substitueix la forma col·loquial per *és a dir*."
-    source: "El número d'avui porta poques pàgines, [[o sigui]], és més prim del normal."
+    source: "El número d'avui porta poques pàgines, [[o sigui]], és més prim que de costum."
     answers:
-      - "El número d'avui porta poques pàgines, és a dir, és més prim del normal."
-      - "El número d'avui porta poques pàgines. És a dir, és més prim del normal."
+      - "El número d'avui porta poques pàgines, és a dir, és més prim que de costum."
+      - "El número d'avui porta poques pàgines; és a dir, és més prim que de costum."
+      - "El número d'avui porta poques pàgines. És a dir, és més prim que de costum."
     grading: tolerant
     explanation: "En registre formal, *o sigui* se substitueix per *és a dir*: aclareix «porta poques pàgines» amb altres paraules."
 
@@ -670,7 +673,7 @@ items:
     lesson: 4
     instruction: "Comença la frase amb *pel que fa a*."
     source: "El reportatge no diu res [[dels horaris]]."
-    answers: ["Pel que fa als horaris, el reportatge no diu res."]
+    answers: ["Pel que fa als horaris, el reportatge no diu res.", "Pel que fa als horaris, el reportatge no en diu res."]
     wrong_answers:
       - text: "Pel que fa dels horaris, el reportatge no diu res."
         why: "*Pel que fa* porta *a*, no *de*: *pel que fa als horaris*."
@@ -693,7 +696,7 @@ items:
     lesson: 4
     prompt: "Tothom esperava un acord. La proposta, ___, no ha convençut ningú."
     hint: "connector de contrast que comença per *t*"
-    answers: ["tanmateix", "tot i això"]
+    answers: ["tanmateix", "tot i això", "tot i així", "tot amb això", "tot i amb això"]
     grading: tolerant
     explanation: "«No ha convençut ningú» contrasta amb l'expectativa: *tanmateix* (o *tot i això*) marca el contrast entre comes."
 
@@ -855,11 +858,11 @@ items:
     type: fill
     point: expressions
     lesson: 5
-    prompt: "La roda de premsa ha estat llarga i tensa. ___, ha valgut la pena."
+    prompt: "La roda de premsa ha estat molt útil. ___, ha durat massa."
     hint: "expressió per posar un matís (*dit* + una paraula)"
     answers: ["Dit això"]
     grading: tolerant
-    explanation: "*Dit això* matisa què s'acaba de dir: la roda de premsa ha estat llarga, però ha valgut la pena."
+    explanation: "*Dit això* posa un matís després d'una afirmació: la roda de premsa ha estat útil, però ha durat massa."
 
   - id: b2-55-058
     type: fill
@@ -927,5 +930,5 @@ items:
     point: aclarir-concloure
     lesson: 5
     title: "Opinió: calen més biblioteques"
-    text: "{Pel que fa a|En resum|Tanmateix} les biblioteques, la ciutat en té poques. {A més|Tanmateix|És a dir}, les que hi ha tanquen aviat. {Tanmateix|Per tant|És a dir}, l'ajuntament diu que no hi ha pressupost. {És a dir|En quant a|En resum}, hi ha diners per a altres coses. {En definitiva|Tanmateix|Quant a}, cal prioritzar la lectura."
-    explanation: "El text presenta el tema (*pel que fa a*), afegeix una queixa (*a més*), contrasta amb l'ajuntament (*tanmateix*), ho rebat (*és a dir*) i conclou (*en definitiva*)."
+    text: "{Pel que fa a|En resum|Tanmateix} les biblioteques, la ciutat en té poques. {A més|Tanmateix|És a dir}, les que hi ha tanquen aviat. {Tanmateix|Per tant|És a dir}, l'ajuntament diu que no hi ha pressupost. {Ara bé|En quant a|En resum}, hi ha diners per a altres coses. {En definitiva|Tanmateix|Quant a}, cal prioritzar la lectura."
+    explanation: "El text presenta el tema (*pel que fa a*), afegeix una queixa (*a més*), contrasta amb l'ajuntament (*tanmateix*), hi posa una objecció (*ara bé*) i conclou (*en definitiva*)."

@@ -22,7 +22,7 @@ A principi de mot, la *s* sempre és sorda: ***s**ala, **s**ignar*. La lletra *z
 <!-- point: ce-trencada -->
 ## La ce trencada: *c* i *ç*
 
-Davant de *a, o* i *u*, el so de *s* sorda s'escriu amb *ç*: *caça, braç, força, començar, adreça, peça*. Davant de *e* i *i*, el mateix so s'escriu amb *c*: *cel, anunciar, recepció, venciment*.
+La *ç* escriu el so de *s* sorda davant de *a, o* i *u* i a final de mot: *caça, braç, força, començar, adreça, peça*. Davant de *e* i *i* no s'escriu mai *ç*: s'hi fa servir la *c* (*cel, anunciar, recepció, venciment*).
 
 > Comen**c**em a les nou: la reunió **començ**a puntual.
 

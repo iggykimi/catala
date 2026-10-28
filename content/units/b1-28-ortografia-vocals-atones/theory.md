@@ -18,7 +18,7 @@ En català central, la *a* i la *e* àtones sonen igual: [ə]. Per saber quina l
 | T**e**xas | t**e**xans |
 
 - Els prefixos **em-**, **en-**, **des-** i **re-** s'escriuen amb **e**: **emprovador**, **enterrar**, **descompte**, **repassar**.
-- El prefix **a-** s'escriu amb **a**: **avançar**.
+- El prefix **a-** s'escriu amb **a**: **allargar** (de *llarg*), **apropar** (de *prop*).
 - Els verbs en **-ejar** s'escriuen amb **e**: **festejar**, **blanquejar**.
 - La majoria de noms femenins acaben en **-a**: **sabata**, **jaqueta**, **faldilla**, **maneta**.
 
@@ -36,8 +36,8 @@ La *o* àtona sona [u], igual que la *u*. El truc és el mateix: busca un mot de
 | f**o**sc | f**o**scor |
 | f**o**c | f**o**guera |
 | pr**o**va | empr**o**vador |
-| r**o**da | r**o**det, r**o**dolí |
-| c**o**tó | c**o**tonet |
+| r**o**da | r**o**det, r**o**dolar |
+| cot**ó** | cot**o**net |
 | m**o**c | m**o**cador |
 | br**u**t | br**u**tor |
 
@@ -86,7 +86,6 @@ Aquests mots s'escriuen amb una vocal diferent del castellà. Són els errors m�
 - **emprovador** («probador»), amb el prefix **em-**.
 - **dependenta** («dependienta»), sense **i**.
 - **descompte** («descuento»), amb **o** i final en **-e**.
-- **avançar**: porta el prefix **a-**, no **e-**.
 
 > **Compte!** ~~traballa~~ → **treballa**. ~~coser~~ → **cosir**. ~~joven~~ → **jove**. ~~rebajas~~ → **rebaixes**.
 

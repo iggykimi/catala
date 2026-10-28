@@ -12,7 +12,7 @@ Les concessives presenten un obstacle que no impedeix l'acció principal. L'obst
 | malgrat | + nom o infinitiu, sense *que* | **Malgrat** la pluja, vam sortir. |
 | encara que | fet real + indicatiu | **Encara que** plou, hi vaig. |
 | encara que | hipòtesi + subjuntiu | **Encara que** plogui, hi aniré. |
-| per més que, per molt que | esforç inútil + subjuntiu | **Per més que** insistiu, no us faran cas. |
+| per més que, per molt que | esforç inútil, sovint + subjuntiu | **Per més que** insistiu, no us faran cas. |
 
 - **Tot i que** plovia, vam netejar tota la platja.
 - **Malgrat** ploure, vam sortir a plantar arbres.
@@ -21,12 +21,12 @@ Les concessives presenten un obstacle que no impedeix l'acció principal. L'obst
 
 El bloc concessiu pot anar davant (amb coma) o darrere del verb principal. Aquests connectors tenen més usos, però aquí practiquem els més habituals.
 
-> **Compte!** ~~A pesar de que plou~~ → **Malgrat que** plou. I darrere de *encara que* no hi va mai el futur: ~~Encara que plourà~~ → **Encara que plogui**.
+> **Compte!** ~~A pesar de que plou~~ → **Malgrat que** plou. I per a una hipòtesi sobre el futur, *encara que* va amb subjuntiu: **Encara que plogui** demà, hi anirem.
 
 <!-- point: finals -->
 ## Les finals: l'objectiu
 
-Les finals diuen amb quin objectiu es fa una acció. Sempre van amb subjuntiu.
+Les finals diuen amb quin objectiu es fa una acció. Amb un verb conjugat, sempre van amb subjuntiu.
 
 > Tanca l'aixeta **perquè** no es malgasti l'aigua.
 
@@ -90,7 +90,7 @@ Dues construccions del castellà no existeixen en català.
 ## Expressions: no rendir-se
 
 - **contra vent i marea**: malgrat totes les dificultats. *Acabarem el parc eòlic contra vent i marea.*
-- **de totes totes**: amb tota decisió, segur. *Vindrà de totes totes.*
+- **de totes totes**: segur, sense falta. *Vindrà de totes totes.*
 - **sigui com sigui**: en tot cas. *Sigui com sigui, ho hem intentat.*
 - **costi el que costi**: sense importar el preu ni l'esforç. *Salvarem el bosc, costi el que costi.*
 - **passi el que passi**: en qualsevol cas futur. *Passi el que passi, continuarem reciclant.*

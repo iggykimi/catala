@@ -14,12 +14,12 @@ Quan el relatiu va darrere d'una preposició, no pot ser *que* tot sol. Per a co
 | persona | **qui** | l'investigador **amb qui** treballo |
 
 - Les preposicions *de* i *a* es contrauen: **del qual**, **al qual**, **dels quals**, **als quals**.
-- Amb locucions prepositives (*a causa de*, *gràcies a*) sempre va *el qual*: una llei **a causa de la qual** el projecte es va aturar; l'algoritme **gràcies al qual** funciona.
+- Amb locucions prepositives (*a causa de*, *gràcies a*) normalment va *el qual*: una llei **a causa de la qual** el projecte es va aturar; l'algoritme **gràcies al qual** funciona.
 - Per a coses, en lloc de *el qual* també es pot dir *què*: l'estudi **de què** parlem.
 - En registre formal, *el qual* també es refereix a persones: els enginyers **amb els quals** treballo.
 - Sense preposició, el relatiu de subjecte és *que*: el programa **que** analitza les dades.
 
-> **Compte!** Darrere de preposició, *que* tot sol és incorrecte: ~~l'estudi sobre que parlem~~ → l'estudi **sobre el qual** parlem. Amb un antecedent concret, *el que* tampoc no hi va: ~~la tècnica amb el que~~ → **amb la qual** (cosa) o **amb qui** (persona).
+> **Compte!** Darrere de preposició, *que* tot sol és incorrecte: ~~l'estudi sobre que parlem~~ → l'estudi **sobre el qual** parlem. Amb un antecedent concret, el registre formal tampoc no admet *el que*: ~~la tècnica amb el que~~ → **amb la qual** o **amb què** (cosa), **amb qui** (persona).
 
 <!-- point: cosa-que -->
 ## Cosa que i la qual cosa
@@ -46,7 +46,7 @@ Amb un verb en infinitiu, el relatiu va directament amb l'infinitiu: *on*, *què
 - Amb *res*, *molt* i *poc*, l'infinitiu va amb *a*: no tinc **res a dir**; hi ha **molt a fer**; no tinc **res a objectar**.
 - *Què* amb infinitiu sempre porta accent: **què** triar, **què** decidir.
 
-> **Compte!** ~~res que dir~~ és un calc de «nada que decir» → **res a dir**. I *en què* demana un verb conjugat: ~~una casa en què viure~~ → una casa **on viure**.
+> **Compte!** ~~res que dir~~ és un calc de «nada que decir» → **res a dir**. I per a un lloc, el relatiu no pot ser *que* sol: ~~una casa que viure~~ → una casa **on viure**.
 
 <!-- point: on-en-que -->
 ## On i en què

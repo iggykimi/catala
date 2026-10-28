@@ -49,17 +49,17 @@ Alguns verbs porten *en* o *amb* amb un nom, però canvien a *a* si darrere ve u
 | verb | + nom | + infinitiu |
 |---|---|---|
 | insistir | Insisteix **en** la idea. | Insisteix **a** pagar. |
-| quedar | Vam quedar **amb** en Pau. | Vam quedar **a** jugar. |
-| confiar | Confia **en** l'equip. | Confia **a** guanyar. |
+| quedar (posar-se d'acord) | Vam quedar **en** això. | Vam quedar **a** jugar. |
+| entretenir-se | S'entreté **amb** el mòbil. | S'entreté **a** mirar partits. |
 
-Els verbs que ja porten *a* no canvien mai: *juga **a** tennis*, *aprèn **a** nedar*, *comencen **a** escalfar*.
+Amb *insistir*, davant d'infinitiu també s'admet *en*, però la forma preferida és *a*. Els verbs que ja porten *a* no canvien mai: *juga **a** tennis*, *aprèn **a** nedar*, *comencen **a** escalfar*.
 
 > **Compte!** ~~Insisteix de pagar~~ → **Insisteix a** pagar. I *quedar* porta *amb* amb una persona: ~~vam quedar a en Pau~~ → **vam quedar amb en Pau**.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: *de que* no existeix
 
-En castellà, aquests verbs mantenen la *de* («me alegro de que vinguis»). En català, davant de *que* no hi ha mai cap preposició.
+En castellà, aquests verbs mantenen la *de* («me alegro de que vengas»). En català, davant de *que* no hi ha mai cap preposició.
 
 - ~~M'alegro de que vinguis.~~ → **M'alegro que** vinguis.
 - ~~Tinc por de que plogui.~~ → **Tinc por que** plogui.
@@ -73,7 +73,7 @@ Recorda el contrast: *de* va amb un nom o un infinitiu (*tinc por **de** perdre*
 ## Expressions del temps lliure
 
 - **tenir ganes de**: tenir il·lusió per fer una cosa. *Tinc ganes de jugar la final.*
-- **fer el ronso**: fer-se el desentès per no fer una cosa. *Quan li toca parar taula, fa el ronso.*
+- **fer el ronso**: fer una cosa a contracor o anar-la endarrerint. *Quan li toca parar taula, fa el ronso.*
 - **fer-ne cinc cèntims**: explicar una cosa en poques paraules. *En Farid me'n va fer cinc cèntims.*
 - **suar la cansalada**: esforçar-se molt, suar per l'esforç. *Vam suar la cansalada per empatar.*
 

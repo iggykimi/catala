@@ -1,7 +1,7 @@
 <!-- point: creure-dubtar -->
 ## Opinar: *crec que* i *dubto que*
 
-Quan afirmem una opinió, el verb va en indicatiu. Quan expressem un dubte, va en subjuntiu.
+Quan afirmem una opinió, el verb va en indicatiu. Quan expressem un dubte, la forma normal i preferida és el subjuntiu.
 
 > **Crec que** la proposta **és** bona. **No crec que sigui** prou bona.
 
@@ -11,11 +11,11 @@ Quan afirmem una opinió, el verb va en indicatiu. Quan expressem un dubte, va e
 | Dubte → subjuntiu | *no crec que vingui*, *dubto que plogui*, *no em sembla que sigui veritat* |
 
 - **Crec que**, **penso que** i **em sembla que** afirmen: porten indicatiu.
-- **No crec que**, **no em sembla que** i **dubto que** expressen un dubte: porten subjuntiu.
+- **No crec que**, **no em sembla que** i **dubto que** expressen un dubte: normalment porten subjuntiu, que és la forma preferida.
 - **No dubto que** (= n'estic segur) és una afirmació: porta indicatiu.
 - **És veritat**, **és clar** i **és evident que** porten indicatiu; en negatiu (**no és clar que**), subjuntiu.
 
-> **Compte!** ~~No crec que vindrà~~ → **No crec que vingui**. ~~Dubto que tens raó~~ → **Dubto que tinguis raó**.
+> **Compte!** Amb un dubte, fes servir el subjuntiu: **No crec que vingui**. **Dubto que tinguis raó**. I amb una afirmació, mai el subjuntiu: ~~Crec que vingui~~ → **Crec que vindrà**.
 
 <!-- point: valorar-impersonal -->
 ## Valorar: *és possible que*, *és important que*, *m'agrada que*
@@ -54,10 +54,10 @@ Aquestes són les formes que faràs servir per opinar i valorar.
 | **sigui** | **tingui** | **vagi** | **faci** | **pugui** | **vulgui** | **sàpiga** | **vingui** | **digui** | **vegi** |
 
 - En els verbs regulars, el *nosaltres* i el *vosaltres* són iguals en indicatiu i en subjuntiu (*parlem*, *parleu*).
-- De *saber*, el subjuntiu és *sàpiga*.
+- De *saber*, el subjuntiu és *sàpiga* (també és correcte *sàpigui*).
 - *Estar* fa *estigui*; *creure* fa *cregui*; *haver-hi* fa *hi hagi*.
 
-> **Compte!** ~~fagi~~ → **faci**. ~~vengui~~ → **vingui**. ~~vaigis~~ → **vagis**.
+> **Compte!** ~~fagi~~ → **faci**. ~~venga~~ → **vingui**. ~~vaigis~~ → **vagis**.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: l'indicatiu i les formes
@@ -65,10 +65,10 @@ Aquestes són les formes que faràs servir per opinar i valorar.
 El contrast entre indicatiu i subjuntiu és el mateix que en castellà («creo que vendrá» / «no creo que venga»). El perill són les formes, que no es poden deduir del castellà.
 
 - ~~creo~~ → **crec**: *crec que tens raó*.
-- Darrere de *no crec que*, *dubto que* i *m'agrada que*, l'indicatiu és incorrecte: ~~no crec que vindrà~~ → **no crec que vingui**.
-- Les formes del subjuntiu no es poden deduir del castellà: *faci* (no ~~fagi~~), *vingui* (no ~~vengui~~), *vagis* (no ~~vaigis~~).
+- Darrere de *m'agrada que* l'indicatiu és incorrecte: ~~m'agrada que vens~~ → **m'agrada que vinguis**. Darrere de *no crec que* i *dubto que*, la forma preferida és el subjuntiu: **no crec que vingui**.
+- Les formes del subjuntiu no es poden deduir del castellà: *faci* (no ~~fagi~~), *vingui* (no ~~venga~~), *vagis* (no ~~vaigis~~).
 
-> **Compte!** ~~Dubto que vengui la Carla~~ → **Dubto que vingui la Carla**.
+> **Compte!** ~~Dubto que venga la Carla~~ → **Dubto que vingui la Carla**.
 
 <!-- point: expressions -->
 ## Expressions per debatre

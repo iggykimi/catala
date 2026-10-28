@@ -9,13 +9,15 @@ Per dir quina quantitat hi ha, fem servir aquests mots.
 |---|---|---|
 | *molt* | **molt** pa · **molta** llet | **molts** ous · **moltes** ofertes |
 | *poc* | **poc** sucre · **poca** sal | **pocs** diners · **poques** botigues |
-| no canvien | **massa** gent · **prou** temps · **força** cua · **bastant** pa |
+| *bastant* | **bastant** pa · **bastant** feina | **bastants** ous |
+| no canvien | **massa** gent · **prou** temps · **força** cua | **massa** llibres · **prou** cadires |
 
 - *Molt* i *poc* concorden amb el nom: **molts** ous, **poques** ofertes.
-- *Massa*, *prou*, *força* i *bastant* no canvien mai: **massa** llibres, **prou** cadires.
+- *Bastant* només canvia en plural: **bastants** ous.
+- *Massa*, *prou* i *força* no canvien: **massa** llibres, **prou** cadires.
 - Amb un verb o un adjectiu, *molt* i *massa* no canvien: m'agrada **molt**, és **massa** car.
 
-> **Compte!** ~~molts gent~~ → **molta** gent. ~~masses ofertes~~ → **massa** ofertes.
+> **Compte!** ~~molts gent~~ → **molta** gent. ~~bastante pa~~ → **bastant** pa.
 
 <!-- point: gaire-gens -->
 ## *Gaire* i *gens*: poca quantitat en negatives i preguntes

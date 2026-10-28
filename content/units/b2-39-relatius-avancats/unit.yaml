@@ -153,8 +153,8 @@ items:
     distractors:
       - text: "de que"
         why: "Darrere de preposició, *que* tot sol és incorrecte: *del qual* (o *de què*)."
-      - text: "del que"
-        why: "Amb antecedent, *del que* és incorrecte: darrere de *de*, el relatiu és *del qual* o *de què*."
+      - text: "dels quals"
+        why: "*El qual* concorda amb l'antecedent: «l'informe» és singular, *del qual*."
     explanation: "«L'informe» és una cosa i el verb és *parlar de*: darrere de la preposició, el relatiu és *del qual* (també *de què*)."
 
   - id: b2-39-002
@@ -239,7 +239,7 @@ items:
     point: relatiu-qual
     lesson: 1
     title: "Resum d'un article"
-    text: "Aquest és l'estudi {del qual|de que|del que} us parlava ahir. La tècnica {amb la qual|amb que|amb el que} analitzem les mostres és nova. Els investigadors {amb qui|amb que|amb què} col·laborem són de la UAB. Les dades {de les quals|de que|dels quals} partim són públiques. Us passo l'enllaç de l'estudi."
+    text: "Aquest és l'estudi {del qual|de que|de la qual} us parlava ahir. La tècnica {amb la qual|amb que|amb el qual} analitzem les mostres és nova. Els investigadors {amb qui|amb que|amb què} col·laborem són de la UAB. Les dades {de les quals|de que|dels quals} partim són públiques. Us passo l'enllaç de l'estudi."
     explanation: "Darrere de preposició fem servir *el qual* (que concorda), *què* per a coses i *qui* per a persones."
 
   - id: b2-39-009
@@ -429,8 +429,8 @@ items:
     distractors:
       - text: "a que"
         why: "Darrere de preposició, *que* tot sol és incorrecte: *a la qual*."
-      - text: "a la que"
-        why: "Amb antecedent, *el que* darrere de preposició és incorrecte: *a la qual*."
+      - text: "al qual"
+        why: "*El qual* concorda amb l'antecedent: «la conferència» és femení, *a la qual*."
     explanation: "*Assistir* regeix la preposició *a*: la conferència *a la qual* vaig assistir."
 
   - id: b2-39-024
@@ -480,8 +480,8 @@ items:
     distractors:
       - text: "que"
         why: "El relatiu de lloc no pot ser *que* tot sol: *on*."
-      - text: "en què"
-        why: "*En què* demana un verb conjugat. Amb infinitiu: *on*."
+      - text: "qui"
+        why: "*Qui* és per a persones. Per a un lloc: *on*."
     explanation: "Amb infinitiu, el relatiu de lloc és *on*: un despatx *on* treballar."
 
   - id: b2-39-028
@@ -517,8 +517,8 @@ items:
     prompt: "Va ser una època ___ la ciència avançava molt de pressa."
     answer: "en què"
     distractors:
-      - text: "on"
-        why: "*On* és per a llocs. «Una època» és temps: *en què*."
+      - text: "de què"
+        why: "La preposició que demana «una època» és *en*: *en què*."
       - text: "en que"
         why: "El relatiu s'escriu amb accent: *en què*."
       - text: "a què"
@@ -577,8 +577,8 @@ items:
     fix_distractors:
       - text: "El dia en que"
         why: "El relatiu s'escriu amb accent: *en què*."
-      - text: "El dia en el que"
-        why: "Amb antecedent, *el que* darrere de preposició és incorrecte: *en què*."
+      - text: "El dia a què"
+        why: "Amb antecedents de temps, la preposició és *en*: *el dia en què*."
     explanation: "*On* és per a llocs. Amb un antecedent de temps: *el dia en què* (també *el dia que*)."
 
   - id: b2-39-035
@@ -712,8 +712,6 @@ items:
     wrong_answers:
       - text: "que"
         why: "El relatiu de lloc no pot ser *que* tot sol: *on*."
-      - text: "en què"
-        why: "*En què* demana un verb conjugat. Amb infinitiu: *on*."
     grading: tolerant
     explanation: "Amb infinitiu, el lloc és *on*: un local *on* muntar el laboratori."
 
@@ -752,8 +750,8 @@ items:
     source: "La Laia no sap [[en quin lloc ha de desar]] el fitxer."
     answers: ["La Laia no sap on desar el fitxer."]
     wrong_answers:
-      - text: "La Laia no sap en què desar el fitxer."
-        why: "Amb infinitiu, el lloc és *on*; *en què* demana un verb conjugat."
+      - text: "La Laia no sap que desar el fitxer."
+        why: "Per preguntar pel lloc cal *on*: *on desar*."
     grading: tolerant
     explanation: "Amb infinitiu, el relatiu de lloc és *on*: no sap *on desar* el fitxer."
 
@@ -789,7 +787,7 @@ items:
     lesson: 4
     cue: "Digues que la sala de presentació de l'invent era plena."
     chunks: ["La sala", "en què", "van presentar", "l'invent", "era plena"]
-    extra: ["en la que"]
+    extra: ["en que"]
     answers:
       - "La sala en què van presentar l'invent era plena."
     explanation: "«La sala» és un lloc: *en què* (o *on*). *En què* porta accent."
@@ -842,7 +840,7 @@ items:
           - text: "Es va espatllar el laboratori per la tempesta."
             why: "El text diu que una tempesta pot espatllar feina, però no que s'espatllés el laboratori."
           - text: "Es van perdre totes les mostres de gel."
-            why: "No van perdre les mostres: van haver de fondre neu per beure."
+            why: "El text no parla de mostres perdudes: diu que l'equip va quedar aïllat."
       - prompt: "Què farà la Núria al congrés de Tromsø?"
         answer: "Presentarà un pòster sobre les bombolles que perd el gel."
         distractors:
@@ -871,7 +869,7 @@ items:
     point: relatiu-qual
     lesson: 5
     title: "Correu a una companya"
-    text: "He llegit l'article {del qual|de que|del que} em parlaves, i tens raó: {el que|lo que|el qual} diu sobre el clima és preocupant. L'autor, {amb qui|amb que|amb què} vaig coincidir en un congrés, proposa una zona {on|en què|que} instal·lar el nou observatori, {cosa que|lo qual|la cosa que} em sembla una bona idea."
+    text: "He llegit l'article {del qual|de que|de la qual} em parlaves, i tens raó: {el que|lo que|el qual} diu sobre el clima és preocupant. L'autor, {amb qui|amb que|amb què} vaig coincidir en un congrés, proposa una zona {on|qui|que} instal·lar el nou observatori, {cosa que|lo qual|la cosa que} em sembla una bona idea."
     explanation: "Darrere de *de*: *del qual*. El neutre: *el que*. Persona: *amb qui*. Lloc + infinitiu: *on*. Comentari de tota la frase: *cosa que*."
 
   - id: b2-39-056
@@ -883,8 +881,8 @@ items:
     distractors:
       - text: "que"
         why: "El verb és *parlar de*: sense preposició, *que* és incorrecte."
-      - text: "del que"
-        why: "Amb antecedent, *del que* és incorrecte: *del qual*."
+      - text: "de la qual"
+        why: "*El qual* concorda amb l'antecedent: «el projecte» és masculí, *del qual*."
     explanation: "El verb és *parlar de*: *del qual*. Les comes marquen una explicació, però la preposició no cau."
 
   - id: b2-39-057
@@ -906,7 +904,7 @@ items:
     lesson: 5
     prompt: "No tinc res ___: l'estudi del gen és impecable."
     hint: "preposició + *objectar*"
-    answers: ["a objectar"]
+    answers: ["a objectar", "per objectar"]
     wrong_answers:
       - text: "que objectar"
         why: "*Res que* + infinitiu és un calc de «nada que decir». En català: *res a* + infinitiu."
@@ -955,15 +953,15 @@ items:
     type: find-error
     point: relatiu-infinitiu
     lesson: 5
-    sentence: "Busco una escola en què estudiar català."
-    error: "en què estudiar"
+    sentence: "Busco una escola que estudiar català."
+    error: "que estudiar"
     fix: "on estudiar"
     fix_distractors:
-      - text: "que estudiar"
-        why: "Amb infinitiu, el lloc és *on*: *on estudiar*."
+      - text: "què estudiar"
+        why: "*Què* sense preposició no indica el lloc: *on estudiar*."
       - text: "a estudiar"
         why: "La preposició *a* no fa de relatiu de lloc: *on estudiar*."
-    explanation: "*En què* demana un verb conjugat. Amb infinitiu, el relatiu de lloc és *on*."
+    explanation: "Per a un lloc, el relatiu no pot ser *que* sol. Amb infinitiu, el relatiu de lloc és *on*."
 
   - id: b2-39-063
     type: choice

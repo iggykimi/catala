@@ -45,7 +45,7 @@ Davant d'un verb conjugat, *hi* va al davant: **hi** penso. Darrere de l'infinit
 - No **se'n** refia gaire (= no es refia del fiscal).
 - El veredicte **en** depèn (= depèn del jurat).
 
-> **Compte!** ~~Em recordo~~ → **Me'n** recordo. ~~S'ha assabentat~~ → **Se n'ha** assabentat.
+> **Compte!** Quan el complement amb *de* no es repeteix, cal *en*: —Te'n recordes? ~~—Sí, em recordo.~~ → **—Sí, me'n recordo.** ~~No s'ha assabentat~~ → **No se n'ha** assabentat.
 
 <!-- point: atribut-predicatiu -->
 ## L'atribut, el predicatiu i les frases senceres

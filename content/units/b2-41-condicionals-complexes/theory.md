@@ -18,9 +18,9 @@ Per parlar d'una cosa que no va passar, fem servir *si* + plusquamperfet de subj
 - Sense la teva ajuda, no **hauria pagat** el deute a temps.
 - **Hauria muntat** el negoci si **hagués tingut** prou estalvis.
 
-El resultat també pot ser de present: *Si hagués estalviat, ara tindria un coixí.* Darrere de *si* no hi va mai el condicional.
+El resultat també pot ser de present: *Si hagués estalviat, ara tindria un coixí.* Al resultat de passat també s'admet el plusquamperfet de subjuntiu (*no hagués acceptat*), però aquí practiquem el condicional compost.
 
-> **Compte!** ~~Si hauria sabut~~ → **Si hagués sabut**. I al resultat, condicional, no subjuntiu: ~~no hagués acceptat~~ → **no hauria acceptat**.
+> **Compte!** Darrere de *si* no hi va mai el condicional: ~~Si hauria sabut~~ → **Si hagués sabut**.
 
 <!-- point: connectors-condicio -->
 ## *En cas que*, *sempre que*, *llevat que*…
@@ -83,7 +83,7 @@ En castellà col·loquial es diu «si tendría» o «si habría sabido». En cat
 
 - **si no és que**: excepte si. *No cal que vinguis, si no és que vulguis signar en persona.*
 - **tant si… com si no**: en tots dos casos, passi el que passi. *Tant si plou com si no, el mercat obre.* Va amb indicatiu.
-- **per si un cas**: per precaució, davant d'una cosa possible. *Guarda els tiquets, per si un cas els necessites.*
+- **per si un cas**: per precaució, davant d'una cosa possible. *Guarda els tiquets per si un cas.*
 - **en tot cas**: de tota manera. *En tot cas, truca'ns abans de divendres.*
 - **en el pitjor dels casos**: si tot va malament. *En el pitjor dels casos, tancarem la botiga en línia.*
 

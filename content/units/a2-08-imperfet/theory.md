@@ -14,7 +14,7 @@ Parlem del passat amb l'imperfet.
 | vosaltres | parl**àveu** | bev**íeu** |
 | ells, elles | parl**aven** | bev**ien** |
 
-Irregulars: **era** (*ser*), **anava** (*anar*), **feia** (*fer*), **deia** (*dir*), **veia** (*veure*), **creia** (*creure*).
+Irregulars: **era** (*ser*), **feia** (*fer*), **deia** (*dir*), **veia** (*veure*), **creia** (*creure*), **bevia** (*beure*).
 
 > **Compte!** La primera conjugació porta **v**: ~~cantaba~~ → **cantava**.
 
@@ -29,7 +29,7 @@ L'imperfet explica hàbits i descripcions. El perifràstic explica fets puntuals
 - Descripció: com era una cosa → La casa **era** blanca.
 - Fet puntual: ahir, un dia, dissabte → **vaig nedar**, **va perdre**.
 
-> **Compte!** ~~Cada dia vaig anar a l'escola~~ → **Cada dia anava a l'escola**.
+> **Compte!** ~~De petit, cada dia vaig anar a l'escola~~ → **De petit, cada dia anava a l'escola**.
 
 <!-- point: soler-infinitiu -->
 ## Soler + infinitiu
@@ -64,5 +64,5 @@ En castellà sonen diferent. En català:
 
 - **de petit, de petita**: quan era un infant. *De petita jugava al carrer.*
 - **fa molts anys**: molts anys enrere. *Fa molts anys vam venir aquí.*
-- **tota la vida**: sempre. *Viu aquí tota la vida.*
+- **tota la vida**: sempre. *Ha viscut aquí tota la vida.*
 - **cada estiu**: tots els estius. *Cada estiu anàvem al poble.*

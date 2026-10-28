@@ -156,13 +156,13 @@ items:
     point: expressions
     lesson: 1
     prompt: "Què vol dir «estar pengim-penjam»?"
-    answer: "No decidir-se entre dues opcions."
+    answer: "Estar a punt de caure, penjant de manera insegura."
     distractors:
-      - text: "Estar penjat d'una corda o d'un fil."
-        why: "No és un sentit literal: *estar pengim-penjam* vol dir dubtar, no decidir-se."
-      - text: "Canviar d'opinió cada dos per tres."
-        why: "Això és decidir i desdir-se. *Estar pengim-penjam* és no haver decidit encara."
-    explanation: "*Estar pengim-penjam* vol dir estar indecís, sense triar entre dues possibilitats."
+      - text: "No decidir-se entre dues opcions."
+        why: "Això és dubtar. *Pengim-penjam* vol dir penjant de manera insegura, a punt de caure."
+      - text: "Estar ben penjat i segur."
+        why: "És el contrari: *pengim-penjam* és penjar de manera insegura."
+    explanation: "*Estar pengim-penjam* vol dir estar a punt de caure, en una posició o una situació insegura."
 
   - id: b2-52-004
     type: choice
@@ -213,7 +213,7 @@ items:
       - ["ploure sobre mullat", "afegir un mal a un altre mal"]
       - ["a correcuita", "anar de pressa"]
       - ["a la babalà", "sense pensar-s'hi gens"]
-      - ["estar pengim-penjam", "no decidir-se entre dues opcions"]
+      - ["estar pengim-penjam", "estar a punt de caure"]
       - ["fer el cor fort", "acceptar una cosa desagradable amb resignació"]
     explanation: "Són les sis frases fetes de la unitat: fixa't en el significat de cadascuna, perquè les practicaràs en context."
 
@@ -225,7 +225,7 @@ items:
     pairs:
       - ["de mica en mica s'omple la pica", "guardar cada mes una mica de sou per a l'entrada del pis"]
       - ["qui no vulgui pols, que no vagi a l'era", "no ficar-se en una baralla de veïns"]
-      - ["més val tard que mai", "presentar la sol·licitud l'últim dia de termini"]
+      - ["més val tard que mai", "treure's el títol de batxillerat als cinquanta anys"]
       - ["qui dia passa, any empeny", "deixar passar els dies sense pressa"]
     explanation: "Cada refrany té la seva situació: la constància, el risc evitat, l'arribada tardana i el temps que passa."
 
@@ -234,34 +234,34 @@ items:
     point: expressions
     lesson: 1
     title: "Una setmana dolenta"
-    text: "La Laia ho ha passat malament aquesta setmana: dilluns li van robar la bici i dimarts se li va espatllar la caldera; ha {plogut sobre mullat|fet el cor fort|anat a la babalà}. Dijous li van canviar el torn sense avisar i ho va acceptar: va {fer el cor fort|ploure sobre mullat|estar pengim-penjam}. Divendres ho va fer tot {a correcuita|a la babalà|de mica en mica} perquè arribava tard a tot arreu. Ara dubta cada dia si plegar o quedar-se: {està pengim-penjam|fa el cor fort|va a la babalà}."
-    explanation: "*Ploure sobre mullat* acumula mals; *fer el cor fort* és resignar-se; *a correcuita* és anar de pressa; *pengim-penjam* és no decidir-se."
+    text: "La Laia ho ha passat malament aquesta setmana: dilluns li van robar la bici i dimarts se li va espatllar la caldera; ha {plogut sobre mullat|fet el cor fort|anat a la babalà}. Dijous li van canviar el torn sense avisar i ho va acceptar: va {fer el cor fort|ploure sobre mullat|estar pengim-penjam}. Divendres ho va fer tot {a correcuita|a la babalà|de mica en mica} perquè arribava tard a tot arreu. A més, la prestatgeria del menjador, mal clavada, {està pengim-penjam|fa el cor fort|va a la babalà}."
+    explanation: "*Ploure sobre mullat* acumula mals; *fer el cor fort* és resignar-se; *a correcuita* és anar de pressa; *pengim-penjam* és a punt de caure."
 
   - id: b2-52-010
     type: choice
     point: expressions
     lesson: 1
-    prompt: "—Com ha anat la mudança? —Doncs ___, amb caixes per tot arreu, però ja som al pis nou."
+    prompt: "—Com ha anat la mudança? —Doncs ___: ho vam fer tot en un matí, però ja som al pis nou."
     answer: "a correcuita"
     distractors:
       - text: "a la babalà"
         why: "*A la babalà* és sense pensar-s'hi. Aquí tot va de pressa: *a correcuita*."
       - text: "pengim-penjam"
-        why: "*Pengim-penjam* és no decidir-se. La mudança ja està feta: es va fer anant de pressa, *a correcuita*."
-    explanation: "«Amb caixes per tot arreu» indica molta feina i poc temps: la mudança es va fer *a correcuita*."
+        why: "*Pengim-penjam* vol dir a punt de caure, de manera insegura. La mudança es va fer anant de pressa: *a correcuita*."
+    explanation: "«Tot en un matí» indica molta feina i poc temps: la mudança es va fer *a correcuita*."
 
   - id: b2-52-011
     type: choice
     point: expressions
     lesson: 1
-    prompt: "—Per què no tries un màster? —Perquè ___: tots em fan gràcia i no sé quin triar."
-    answer: "estic pengim-penjam"
+    prompt: "La Laia ha perdut dos clients i, si en perd un altre, haurà de tancar la botiga: el negoci ___."
+    answer: "està pengim-penjam"
     distractors:
-      - text: "faig el cor fort"
-        why: "*Fer el cor fort* és resignar-se. Aquí no hi ha resignació, sinó dubte: *estic pengim-penjam*."
-      - text: "vaig a la babalà"
-        why: "*A la babalà* és decidir sense pensar-s'hi. Aquí el problema és no decidir: *pengim-penjam*."
-    explanation: "«No sé quin triar» és no decidir-se: *estar pengim-penjam*."
+      - text: "fa el cor fort"
+        why: "*Fer el cor fort* és resignar-se. Aquí el negoci és a punt de caure: *està pengim-penjam*."
+      - text: "va a la babalà"
+        why: "*A la babalà* és fer les coses sense pensar-s'hi. Aquí la situació és insegura: *està pengim-penjam*."
+    explanation: "Un negoci que pot tancar en qualsevol moment és a punt de caure: *està pengim-penjam*."
 
   - id: b2-52-012
     type: choice
@@ -280,14 +280,11 @@ items:
     type: fill
     point: expressions
     lesson: 1
-    prompt: "En Pau no sap si acceptar la feina de Vic o quedar-se a Reus: està ___."
-    hint: "expressió: sense decidir-se entre dues opcions"
+    prompt: "Amb el vent d'ahir, el rètol de la botiga ha quedat ___: pot caure en qualsevol moment."
+    hint: "expressió: penjant de manera insegura, a punt de caure"
     answers: ["pengim-penjam"]
-    wrong_answers:
-      - text: "entre Pinto i Valdemoro"
-        why: "Aquesta és l'expressió castellana. En català: *estar pengim-penjam*."
     grading: tolerant
-    explanation: "Dubtar entre dues feines és *estar pengim-penjam*."
+    explanation: "Una cosa que penja de manera insegura, a punt de caure, està *pengim-penjam*."
 
   # ---------- Lliçó 2 ----------
   - id: b2-52-014
@@ -299,7 +296,7 @@ items:
     answers: ["a la babalà"]
     wrong_answers:
       - text: "a lo loco"
-        why: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+        why: "«A lo loco» és castellà. En català: *a la babalà*."
     grading: tolerant
     explanation: "Preparar-ho tot sense pensar-s'hi és fer-ho *a la babalà*."
 
@@ -359,9 +356,6 @@ items:
     prompt: "L'ofrena començava a les vuit i vam sopar ___."
     hint: "expressió: amb el temps just"
     answers: ["a correcuita"]
-    wrong_answers:
-      - text: "ràpid"
-        why: "Com a adverbi, *ràpid* és un calc de «rápido». En català: *de pressa* o, amb el temps just, *a correcuita*."
     grading: tolerant
     explanation: "Sopar amb el temps just perquè l'ofrena començava és sopar *a correcuita*."
 
@@ -386,7 +380,7 @@ items:
     answer: "ha fet el cor fort"
     distractors:
       - text: "està pengim-penjam"
-        why: "*Pengim-penjam* és no decidir-se. El Wei no dubta: accepta una vida dura sense queixar-se."
+        why: "*Pengim-penjam* vol dir a punt de caure, en una situació insegura. El Wei aguanta una vida dura sense queixar-se."
       - text: "va a la babalà"
         why: "*A la babalà* és fer les coses sense pensar-s'hi. El Wei treballa i estudia amb constància."
     explanation: "Acceptar sense queixar-se una vida dura és *fer el cor fort*."
@@ -408,12 +402,12 @@ items:
     type: order
     point: expressions
     lesson: 2
-    cue: "Digues que la Núria no es decideix entre el pis de Gràcia i el de Sants."
-    chunks: ["La Núria", "està", "pengim-penjam", "entre dos pisos"]
+    cue: "Digues que el quadre del menjador està a punt de caure."
+    chunks: ["El quadre", "del menjador", "està", "pengim-penjam"]
     extra: ["a la babalà"]
     answers:
-      - "La Núria està pengim-penjam entre dos pisos."
-    explanation: "*Estar pengim-penjam* vol dir no decidir-se: la Núria dubta entre dos pisos."
+      - "El quadre del menjador està pengim-penjam."
+    explanation: "*Estar pengim-penjam* vol dir penjar de manera insegura, a punt de caure."
 
   - id: b2-52-024
     type: order
@@ -431,7 +425,7 @@ items:
     point: refranys
     lesson: 2
     title: "Consells de l'àvia"
-    text: "La meva àvia sempre deia que {de mica en mica|de poc a poc|poc a poc} s'omple la pica, i que {qui no vulgui pols|qui no vol pols|el que no vulgui pols}, que no vagi a l'era. Quan el meu pare va trobar feina a cinquanta anys, li va dir: {més val tard que mai|més val tard que nunca|més val tard que sempre}."
+    text: "La meva àvia sempre deia que {de mica en mica|de poc a poc|poc a poc} s'omple la pica, i que {qui no vulgui pols|qui no vulgui fang|el que no vulgui pols}, que no vagi a l'era. Quan el meu pare va trobar feina a cinquanta anys, li va dir: {més val tard que mai|més val tard que nunca|més val tard que sempre}."
     explanation: "Els refranys són fixos: *de mica en mica s'omple la pica*, *qui no vulgui pols, que no vagi a l'era* i *més val tard que mai*."
 
   - id: b2-52-026
@@ -452,7 +446,7 @@ items:
     type: find-error
     point: compte-traduccio-literal
     lesson: 3
-    sentence: "Després de la riuada, la pedregada va ploure sobre mojat."
+    sentence: "Després de la riuada, va venir la pedregada: va ploure sobre mojat."
     error: "sobre mojat"
     fix: "sobre mullat"
     fix_distractors:
@@ -480,15 +474,9 @@ items:
     type: find-error
     point: compte-traduccio-literal
     lesson: 3
-    sentence: "Va fer de tripes cor i va acceptar la feina de nits."
-    error: "de tripes cor"
-    fix: "el cor fort"
-    fix_distractors:
-      - text: "el cor valent"
-        why: "L'expressió fixa és *fer el cor fort*, no *fer el cor valent*."
-      - text: "de cor fort"
-        why: "L'expressió porta article: *fer el cor fort*."
-    explanation: "*Fer de tripes cor* és un calc de «hacer de tripas corazón». En català: *fer el cor fort*."
+    sentence: "Va fer el cor fort i va acceptar la feina de nits."
+    no_error: true
+    explanation: "La frase és correcta: *fer el cor fort* és acceptar amb resignació una cosa desagradable (en castellà, «hacer de tripas corazón»)."
 
   - id: b2-52-030
     type: find-error
@@ -542,14 +530,14 @@ items:
     type: choice
     point: compte-traduccio-literal
     lesson: 3
-    prompt: "Quina expressió diu que algú no es decideix entre dues opcions?"
+    prompt: "Quina expressió diu que una cosa penja de manera insegura, a punt de caure?"
     answer: "Estar pengim-penjam."
     distractors:
-      - text: "Estar entre Pinto i Valdemoro."
-        why: "Aquesta és l'expressió castellana literal («estar entre Pinto y Valdemoro»). En català: *estar pengim-penjam*."
+      - text: "Estar pengim-penjat."
+        why: "L'expressió és fixa i acaba en *-m*: *pengim-penjam*."
       - text: "Estar a la babalà."
-        why: "*A la babalà* vol dir sense pensar-s'hi, no indecís. La indecisió és *estar pengim-penjam*."
-    explanation: "L'equivalent català no és literal: la indecisió entre dues opcions és *estar pengim-penjam*."
+        why: "*A la babalà* vol dir sense pensar-s'hi. A punt de caure és *estar pengim-penjam*."
+    explanation: "L'equivalent català no és literal: el castellà diria «estar colgando» o «en la cuerda floja»; en català, *estar pengim-penjam*."
 
   - id: b2-52-035
     type: choice
@@ -559,7 +547,7 @@ items:
     answer: "Ho tria tot a la babalà."
     distractors:
       - text: "Ho tria tot a lo loco."
-        why: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+        why: "«A lo loco» és castellà. En català: *a la babalà*."
       - text: "Ho tria tot a correcuita."
         why: "*A correcuita* és anar de pressa. «Sense pensar-s'hi» és *a la babalà*."
     explanation: "Triar sense pensar-s'hi gens és triar *a la babalà*."
@@ -573,7 +561,7 @@ items:
     answers: ["màniga"]
     wrong_answers:
       - text: "manga"
-        why: "*Manga* és un calc de «manga». En català: *màniga*."
+        why: "«Manga» és la paraula castellana. La part del vestit que tapa el braç és la *màniga*."
     grading: tolerant
     explanation: "L'expressió fixa és *estirar més el braç que la màniga*. *Manga* és castellà."
 
@@ -614,15 +602,14 @@ items:
     point: expressions
     lesson: 4
     instruction: "Substitueix la part marcada per l'expressió corresponent."
-    source: "La Núria [[no es decideix entre el pis de Gràcia i el de Sants]]."
+    source: "La prestatgeria [[penja de manera insegura, a punt de caure]]."
     answers:
-      - "La Núria està pengim-penjam entre el pis de Gràcia i el de Sants."
-      - "Entre el pis de Gràcia i el de Sants, la Núria està pengim-penjam."
+      - "La prestatgeria està pengim-penjam."
     wrong_answers:
-      - text: "La Núria està a la babalà entre el pis de Gràcia i el de Sants."
-        why: "*A la babalà* vol dir sense pensar-s'hi. No decidir-se és *estar pengim-penjam*."
+      - text: "La prestatgeria està a la babalà."
+        why: "*A la babalà* vol dir sense pensar-s'hi. A punt de caure és *estar pengim-penjam*."
     grading: tolerant
-    explanation: "No decidir-se entre dues opcions és *estar pengim-penjam*."
+    explanation: "Penjar de manera insegura, a punt de caure, és *estar pengim-penjam*."
 
   - id: b2-52-041
     type: transform
@@ -635,7 +622,7 @@ items:
       - "A la babalà, van organitzar la revetlla."
     wrong_answers:
       - text: "Van organitzar la revetlla a lo loco."
-        why: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+        why: "«A lo loco» és castellà. En català: *a la babalà*."
     grading: tolerant
     explanation: "Fer una cosa sense pensar-s'hi gens és fer-la *a la babalà*."
 
@@ -658,13 +645,13 @@ items:
     type: transform
     point: compte-traduccio-literal
     lesson: 4
-    instruction: "Substitueix el calc per l'expressió catalana."
-    source: "Estic [[entre Pinto i Valdemoro]]: no sé si acceptar el torn de dia o el de nit."
+    instruction: "Substitueix l'expressió castellana per l'expressió catalana."
+    source: "Amb tants deutes, l'empresa [[está en la cuerda floja]]."
     answers:
-      - "Estic pengim-penjam: no sé si acceptar el torn de dia o el de nit."
-      - "No sé si acceptar el torn de dia o el de nit: estic pengim-penjam."
+      - "Amb tants deutes, l'empresa està pengim-penjam."
+      - "L'empresa està pengim-penjam amb tants deutes."
     grading: tolerant
-    explanation: "*Entre Pinto i Valdemoro* és l'expressió castellana. En català, la indecisió és *estar pengim-penjam*."
+    explanation: "«Estar en la cuerda floja» és castellà. En català, una situació insegura, a punt de caure, és *estar pengim-penjam*."
 
   - id: b2-52-044
     type: transform
@@ -676,7 +663,7 @@ items:
       - "Ho va decidir a la babalà, sense pensar-s'hi gens."
       - "Ho va decidir, sense pensar-s'hi gens, a la babalà."
     grading: tolerant
-    explanation: "*A lo loco* és un calc de «a lo loco». En català: *a la babalà*."
+    explanation: "«A lo loco» és castellà. En català: *a la babalà*."
 
   - id: b2-52-045
     type: transform
@@ -736,6 +723,7 @@ items:
     extra: ["la manga"]
     answers:
       - "Van estirar més el braç que la màniga amb el casament."
+      - "Amb el casament van estirar més el braç que la màniga."
     explanation: "Gastar més del que es té és *estirar més el braç que la màniga*."
 
   - id: b2-52-050
@@ -784,11 +772,11 @@ items:
     text: |
       Feia mesos que la colla castellera de Vilafranca preparava la festa major. L'any passat la pluja havia suspès l'actuació de la vigília i, a més, s'havia trencat el local d'assaig: havia plogut sobre mullat. Enguany, però, tot anava bé: els assajos eren plens i els nous castellers aprenien a posar-se la faixa de mica en mica.
 
-      La Laia, que feia dos anys que era a la colla, estava pengim-penjam: no sabia si pujar al castell de vuit o quedar-se a la pinya. La cap de colla li va dir que no patís, que més val tard que mai, i que si no pujava enguany ja pujaria l'any vinent. Al final la Laia va fer el cor fort i va acceptar el repte.
+      La Laia, que feia dos anys que era a la colla, no sabia si pujar al castell de vuit o quedar-se a la pinya. La cap de colla li va dir que no patís, que més val tard que mai, i que si no pujava enguany ja pujaria l'any vinent. Al final la Laia va fer el cor fort i va acceptar el repte.
 
       Dissabte al matí la cercavila va omplir els carrers: gegants, capgrossos, ball de bastons i trabucaires. A la tarda, a la plaça, la colla va descarregar el tres de vuit i el quatre de vuit. Entre un castell i l'altre, les gralles no paraven i el tabal marcava el ritme.
 
-      A la nit, el correfoc va tancar la festa. La Montse, que havia organitzat la traca a correcuita perquè el proveïdor havia fallat, respirava tranquil·la: tot havia sortit bé. L'alcaldessa va llegir el pregó de cloenda i va recordar que la festa la fan els veïns, any rere any, amb calma i constància.
+      A la nit, el correfoc va tancar la festa. La Montse, que havia organitzat la traca a correcuita perquè el proveïdor havia fallat, respirava tranquil·la: tot havia sortit bé. L'alcaldessa va fer el discurs de cloenda i va recordar que la festa la fan els veïns, any rere any, amb calma i constància.
 
       Diumenge, la colla va dinar junta a la plaça. Van brindar pels castells descarregats i pels que vindran. Algú va dir que l'any passat havien estirat més el braç que la màniga amb el sopar, i tothom va riure: enguany cadascú havia portat un plat. A la tarda van ballar sardanes a la plaça.
     questions:
@@ -813,13 +801,13 @@ items:
             why: "La cercavila va ser dissabte al matí."
           - text: "Va organitzar el correfoc i la traca."
             why: "El correfoc va ser a la nit."
-      - prompt: "Com va acabar la festa major?"
-        answer: "Amb un dinar de la colla i brindis pels castells."
+      - prompt: "Què va fer la colla diumenge?"
+        answer: "Va dinar junta i va brindar pels castells."
         distractors:
-          - text: "Amb una discussió pel preu del sopar."
-            why: "Del sopar car només en riuen: és una broma."
-          - text: "Amb el pregó de l'alcaldessa a la plaça."
-            why: "El pregó va ser dissabte a la nit, abans del dinar de diumenge."
+          - text: "Va discutir pel preu del sopar de l'any passat."
+            why: "Del sopar de l'any passat només en riuen: és una broma."
+          - text: "Va escoltar el discurs de l'alcaldessa."
+            why: "El discurs de cloenda va ser dissabte a la nit, no diumenge."
     explanation: "El text explica com la colla de Vilafranca prepara i viu la festa major, de la cercavila al dinar de diumenge."
 
   - id: b2-52-054
@@ -856,7 +844,7 @@ items:
     answer: "De mica en mica s'omple la pica."
     distractors:
       - text: "De poc a poc s'omple la pica."
-        why: "*Poc a poc* és correcte en general, però el refrany diu *de mica en mica*."
+        why: "La locució general és *a poc a poc*, però el refrany diu *de mica en mica*."
       - text: "A poc a poc s'omple la pica."
         why: "El refrany comença amb *de*: *de mica en mica s'omple la pica*."
     explanation: "L'equivalent català no és literal: el refrany diu *de mica en mica s'omple la pica*."
@@ -867,7 +855,7 @@ items:
     lesson: 5
     prompt: "Aquest any, amb el local nou i els vestits de la colla, nosaltres ___ més el braç que la màniga."
     hint: "estirar (nosaltres)"
-    answers: ["hem estirat", "estirem", "vam estirar", "estiràvem"]
+    answers: ["hem estirat", "estirem", "vam estirar", "estiràvem", "estirarem"]
     grading: tolerant
     explanation: "«Nosaltres» demana la primera persona del plural: *hem estirat*, *estirem*, *vam estirar* o *estiràvem més el braç que la màniga*."
 
@@ -906,7 +894,7 @@ items:
         why: "*Màniga* porta accent obert a la primera síl·laba: *màniga*."
       - text: "les mànigues"
         why: "L'expressió és en singular: *la màniga*."
-    explanation: "*Manga* és un calc de «manga». En català: *estirar més el braç que la màniga*."
+    explanation: "«Manga» és la paraula castellana. En català: *estirar més el braç que la màniga*."
 
   - id: b2-52-061
     type: find-error
@@ -926,9 +914,9 @@ items:
     type: find-error
     point: compte-traduccio-literal
     lesson: 5
-    sentence: "L'Ibrahim està pengim-penjam: no sap si anar a l'aplec o quedar-se a Vic."
+    sentence: "La pancarta de la festa està pengim-penjam: s'ha desfet un dels nusos."
     no_error: true
-    explanation: "La frase és correcta: *estar pengim-penjam* és l'expressió catalana per a la indecisió, i el context (dubtar entre dues opcions) hi encaixa."
+    explanation: "La frase és correcta: *estar pengim-penjam* vol dir penjar de manera insegura, a punt de caure, i el context (un nus desfet) hi encaixa."
 
   - id: b2-52-063
     type: inline-choice
@@ -949,7 +937,7 @@ items:
       - ["a correcuita", "acabar l'informe en una hora perquè hi ha una reunió"]
       - ["estirar més el braç que la màniga", "comprar un cotxe que no es pot pagar"]
       - ["a la babalà", "triar el paper dels pastorets sense llegir l'obra"]
-      - ["estar pengim-penjam", "dubtar entre dues ofertes de feina igual de bones"]
+      - ["estar pengim-penjam", "un rètol mal clavat que pot caure en qualsevol moment"]
     explanation: "Cada expressió té la seva situació: fixa't en el matís de cadascuna."
 
   - id: b2-52-065

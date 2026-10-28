@@ -175,11 +175,11 @@ items:
     prompt: "No crec que ___ bona idea tancar la plaça al trànsit."
     answer: "sigui"
     distractors:
-      - text: "és"
-        why: "*No crec que* expressa un dubte i demana subjuntiu."
-      - text: "serà"
-        why: "El futur d'indicatiu no serveix: amb el dubte de «no crec que» cal el subjuntiu."
-    explanation: "«No crec que» expressa un dubte i demana subjuntiu: *sigui*."
+      - text: "ser"
+        why: "*Que* demana un verb conjugat, no un infinitiu."
+      - text: "siguis"
+        why: "*Siguis* és de segona persona; el subjecte («tancar la plaça») és de tercera: *sigui*."
+    explanation: "«No crec que» expressa un dubte i va amb subjuntiu, en tercera persona: *sigui*."
 
   - id: b2-59-004
     type: choice
@@ -250,9 +250,9 @@ items:
     answers: ["agradi"]
     wrong_answers:
       - text: "agrada"
-        why: "*No crec que* expressa un dubte i demana subjuntiu: *agradi*."
+        why: "La pista demana el subjuntiu, la forma preferida després de *no crec que*: *agradi*."
     grading: tolerant
-    explanation: "«No crec que» expressa un dubte i demana subjuntiu: *agradi*."
+    explanation: "«No crec que» expressa un dubte i va preferentment amb subjuntiu: *agradi*."
 
   - id: b2-59-010
     type: fill
@@ -260,7 +260,7 @@ items:
     lesson: 1
     prompt: "Hi estic ___ d'acord: la proposta em sembla perfecta."
     hint: "adverbi d'acord total"
-    answers: ["totalment", "plenament", "molt"]
+    answers: ["totalment", "plenament", "completament", "absolutament", "molt"]
     wrong_answers:
       - text: "gens"
         why: "*Gens* nega del tot i contradiu «em sembla perfecta»."
@@ -271,12 +271,12 @@ items:
     type: order
     point: acord-desacord
     lesson: 1
-    cue: "Digues que hi estàs totalment d'acord amb la Laia."
-    chunks: ["Hi", "estic", "totalment", "d'acord", "amb la Laia"]
-    extra: ["molt"]
+    cue: "Digues que estàs totalment d'acord amb la Laia."
+    chunks: ["Estic", "totalment", "d'acord", "amb la Laia"]
+    extra: ["gens"]
     answers:
-      - "Hi estic totalment d'acord amb la Laia."
-    explanation: "«Hi estic totalment d'acord» mostra un acord total; *amb* introdueix la persona."
+      - "Estic totalment d'acord amb la Laia."
+    explanation: "«Estic totalment d'acord» mostra un acord total; *amb* introdueix la persona, i aleshores no cal *hi*."
 
   - id: b2-59-012
     type: choice
@@ -440,8 +440,8 @@ items:
     point: opinar-matisar
     lesson: 2
     title: "Tertúlia al bar"
-    text: "A la tertúlia del barri tothom opina sobre la vaga de transports. La Montse diu: «Crec que la taxa nova {és|sigui} injusta». En Pau respon: «No crec que {sigui|és} tan greu». Jo crec que {tenen|tinguin} bons arguments tots dos, però no crec que {arribin|arriben} a un acord avui."
-    explanation: "*Crec que* en afirmatiu va amb indicatiu (*és*, *tenen*); *no crec que* demana subjuntiu (*sigui*, *arribin*)."
+    text: "A la tertúlia del barri tothom opina sobre la vaga de transports. La Montse diu: «Crec que la taxa nova {és|sigui} injusta». En Pau respon: «No crec que {sigui|siguin} tan greu». Jo crec que {tenen|tinguin} bons arguments tots dos, però no crec que {arribin|arribi} a un acord avui."
+    explanation: "*Crec que* en afirmatiu va amb indicatiu (*és*, *tenen*); *no crec que* va amb subjuntiu, concordat amb el subjecte: *sigui* (la taxa), *arribin* (tots dos)."
 
   - id: b2-59-025
     type: choice
@@ -649,9 +649,9 @@ items:
     answers: ["No crec que la proposta sigui justa."]
     wrong_answers:
       - text: "No crec que la proposta és justa."
-        why: "*No crec que* expressa un dubte i demana subjuntiu: *sigui*."
+        why: "Després de *no crec que*, la forma preferida és el subjuntiu: *sigui*."
     grading: tolerant
-    explanation: "«No crec que» expressa un dubte i demana subjuntiu: *no crec que la proposta sigui justa*."
+    explanation: "«No crec que» expressa un dubte i va preferentment amb subjuntiu: *no crec que la proposta sigui justa*."
 
   - id: b2-59-041
     type: transform
@@ -687,12 +687,9 @@ items:
     lesson: 4
     instruction: "Digues el contrari amb «gens»."
     source: "[[Estic d'acord amb tu]]."
-    answers: ["No hi estic gens d'acord."]
-    wrong_answers:
-      - text: "No hi estic gens d'acord amb tu."
-        why: "*Hi* ja substitueix «amb tu»: no es pot repetir."
+    answers: ["No estic gens d'acord amb tu.", "No hi estic gens d'acord."]
     grading: tolerant
-    explanation: "El contrari amb rebuig total: *no hi estic gens d'acord*. *Hi* ja vol dir «amb tu»."
+    explanation: "El contrari amb rebuig total: *no estic gens d'acord amb tu*, o bé *no hi estic gens d'acord*, on *hi* vol dir «amb tu»."
 
   - id: b2-59-044
     type: transform
@@ -793,7 +790,7 @@ items:
     text: |
       Dissabte passat el centre cívic del barri va acollir un debat sobre el nou carril bici del carrer Major. L'Ajuntament proposa eliminar un carril de circulació per fer-hi passar el carril bici. La sala era plena: hi havia unes cent cinquanta persones i l'acte va durar gairebé tres hores. La Laia, la moderadora, va obrir el torn de paraula recordant les normes: intervencions de dos minuts i respecte per totes les opinions.
 
-      El primer a parlar va ser en Pere, en nom de l'associació de veïns. Va defensar la proposta amb tres arguments: menys cotxes, menys soroll i més seguretat per als infants. «No és que vulguem eliminar els cotxes —va matisar—, sinó que volem un carrer on tothom hi càpiga.»
+      El primer a parlar va ser en Pere, en nom de l'associació de veïns. Va defensar la proposta amb tres arguments: menys cotxes, menys soroll i més seguretat per als infants. «No és que vulguem eliminar els cotxes —va matisar—, sinó que volem un carrer on càpiga tothom.»
 
       La Montse, que té una botiga al carrer, va presentar el contraargument principal: amb les obres perdrà clients durant mesos. «Estic d'acord que cal pacificar el trànsit —va dir—. Ara bé, qui pagarà les pèrdues dels comerciants?» El desacord va créixer quan en Jordi va dir que els comerciants sempre «tenen la paella pel mànec». La moderadora el va interrompre i li va recordar que calia respectar les opinions de tothom.
 
@@ -971,6 +968,8 @@ items:
     answers:
       - "Respecto la teva opinió, però no hi estic d'acord."
       - "Respecto la teva opinió, però no hi estic gens d'acord."
+      - "Respecto la teva opinió, però ho veig diferent."
+      - "Respecto la teva opinió, però no ho veig així."
     grading: tolerant
     explanation: "«Respecto la teva opinió, però…» discrepa amb educació."
 

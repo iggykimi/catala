@@ -84,8 +84,8 @@ vocabulary:
     definition: "Quantitat que cap en una cullera."
     example: "Afegeix una cullerada de sucre al cafè."
   - word: "la tallada"
-    definition: "Tall gruixut de pa, de formatge o d'altres aliments."
-    example: "Talla'm una tallada d'aquest pa de pagès."
+    definition: "Tros tallat de carn, de peix o de fruita."
+    example: "Per sopar faré una tallada de lluç a la planxa."
   - word: "la fornada"
     definition: "Quantitat de pa o de pastissos que es cou al forn de cada vegada."
     example: "La fornada del matí ja és a la botiga."
@@ -181,34 +181,34 @@ items:
       - text: "desípid"
         why: "*Des-* inverteix una acció. Per negar un adjectiu, el prefix és *in-*: *insípid*."
       - text: "inssípid"
-        why: "*In-* + *sípid* no duplica la essa: *insípid*."
-    explanation: "«No té gens de gust»: sense gust. La negació és *in-* + *sípid* = *insípid*."
+        why: "S'escriu amb una sola essa: *insípid*."
+    explanation: "«No té gens de gust»: *insípid* vol dir sense gust. Per negar un adjectiu, el prefix és *in-*."
 
   - id: b2-49-004
     type: choice
     point: sufixos
     lesson: 1
-    prompt: "Posa una ___ de sucre al cafè, que m'agrada dolç."
-    answer: "cullerada"
+    prompt: "Com es diu la quantitat de sucre que cap en una cullera?"
+    answer: "una cullerada"
     distractors:
-      - text: "cullereta"
+      - text: "una cullereta"
         why: "*La cullereta* és la cullera petita, no el contingut. El contingut d'una cullera és *la cullerada*."
-      - text: "cullera"
+      - text: "una cullera"
         why: "*La cullera* és l'objecte. La quantitat que hi cap és *la cullerada*."
-    explanation: "La quantitat de sucre es mesura amb el contingut de la cullera: *cullera* + *-ada* = *cullerada*."
+    explanation: "El sufix *-ada* indica el contingut: *cullera* + *-ada* = *cullerada*."
 
   - id: b2-49-005
     type: choice
     point: sufixos
     lesson: 1
-    prompt: "El pa acabat de fer fa molt bona olor: vull una ___ amb tomàquet."
+    prompt: "Fa molta calor: vull una ___ de meló ben fresca."
     answer: "tallada"
     distractors:
       - text: "tallat"
-        why: "*Tallat* és masculí o el participi de *tallar*. El tall de pa és *la tallada*."
-      - text: "talleta"
-        why: "El tall de pa és *la tallada*. *La talleta* no existeix."
-    explanation: "Un tall de pa és *la tallada*: *tallar* + *-ada*."
+        why: "*Tallat* és masculí; «una» i «fresca» demanen un nom femení: *la tallada*."
+      - text: "tallador"
+        why: "*Tallador* és qui talla o l'estri per tallar, i és masculí. La porció és *la tallada*."
+    explanation: "Un tros tallat de meló és *una tallada*: *tallar* + *-ada*."
 
   - id: b2-49-006
     type: choice
@@ -252,7 +252,7 @@ items:
     point: prefixos
     lesson: 1
     title: "A la nostra cuina"
-    text: "A la nostra cuina {Des|Es|Res}congelem el peix amb temps, mai a última hora. Si una salsa queda {insípida|desípida|assípida}, hi afegim sal i llimona. El pa d'ahir el {re|res|de}escalfem al forn cinc minuts. I l'{excuiner|ex-cuiner|ex cuiner} del restaurant ara té un bar a Gràcia."
+    text: "A la nostra cuina {des|es|res}congelem el peix amb temps, mai a última hora. Si una salsa queda {insípida|desípida|assípida}, hi afegim sal i llimona. El pa d'ahir el {re|res|de}escalfem al forn cinc minuts. I l'{excuiner|ex-cuiner|ex cuiner} del restaurant ara té un bar a Gràcia."
     explanation: "*Descongelem* (*des-* + *congelar*); *insípida* (*in-* nega); *reescalfem* (*re-* repeteix); *l'excuiner*, amb *ex-* unit al mot."
 
   - id: b2-49-010
@@ -260,7 +260,7 @@ items:
     point: sufixos
     lesson: 1
     title: "La carta del restaurant"
-    text: "Amanides amb {amaniment|amanida|amanidor} de mostassa i mel. Peix del dia amb {guarnició|guarniment|guarnida} de verdures de l'hort. El nostre suquet, ben {saborós|saborit|sabrós}. I de postres, mel i mató amb un {trosset|troset|trocet} de pa de pagès."
+    text: "Amanides amb {amaniment|amanida|amanidor} de mostassa i mel. Peix del dia amb {guarnició|guarnida|guarnit} de verdures de l'hort. El nostre suquet, ben {saborós|saborit|sabrós}. I de postres, mel i mató amb un {trosset|troset|trocet} de pa de pagès."
     explanation: "*L'amaniment* és la preparació; *la guarnició* acompanya el plat; *saborós* porta el sufix *-ós*; *trosset* és el diminutiu de *tros*, amb doble essa."
 
   - id: b2-49-011
@@ -269,7 +269,7 @@ items:
     lesson: 1
     prompt: "Demà tanquem per vacances i ___ al setembre amb una carta nova."
     hint: "tornar a obrir, nosaltres"
-    answers: ["reobrim"]
+    answers: ["reobrim", "reobrirem"]
     wrong_answers:
       - text: "reobrem"
         why: "*Reobrir* és de la tercera conjugació: nosaltres *reobrim*."
@@ -318,7 +318,7 @@ items:
       - text: "descomestibles"
         why: "Per negar un adjectiu fem servir *in-*, no *des-*: *incomestibles*."
     grading: strict
-    explanation: "«No es poden menjar»: negació de *comestible*. *In-* no canvia davant de vocal: *incomestibles*."
+    explanation: "«No es poden menjar»: negació de *comestible*. *In-* no canvia davant de *c*: *incomestibles*."
 
   - id: b2-49-015
     type: fill
@@ -391,6 +391,7 @@ items:
       - "Aquesta nit descongelaré el pollastre per a demà."
       - "Descongelaré el pollastre aquesta nit per a demà."
       - "Per a demà descongelaré el pollastre aquesta nit."
+      - "Descongelaré el pollastre per a demà aquesta nit."
     explanation: "Treure del congelador és *descongelar*: *des-* + *congelar*. En futur: *descongelaré*."
 
   - id: b2-49-020
@@ -402,6 +403,7 @@ items:
     extra: ["a trosets"]
     answers:
       - "La Marta talla el pa a trossets."
+      - "La Marta talla a trossets el pa."
     explanation: "Trossos petits de pa: *tros* + *-et* = *trosset*, amb doble essa; en plural, *trossets*."
 
   - id: b2-49-021
@@ -448,10 +450,10 @@ items:
     prompt: "La recepta demana dues ___ de farina."
     answer: "cullerades"
     distractors:
-      - text: "culleretes"
-        why: "*Les culleretes* són les culleres petites; la mesura és *les cullerades*."
-      - text: "culleres"
-        why: "*Les culleres* són els objectes; la quantitat és *les cullerades*."
+      - text: "culleradas"
+        why: "En català, el plural femení acaba en *-es*: *cullerades*."
+      - text: "cullerada"
+        why: "«Dues» demana el plural: *cullerades*."
     explanation: "La quantitat que cap en una cullera: *cullerada*; en plural, *cullerades*."
 
   - id: b2-49-025
@@ -496,10 +498,10 @@ items:
     answer: "penja-robes"
     distractors:
       - text: "penjarobes"
-        why: "Aquest compost manté el guionet per tradició: *penja-robes*."
+        why: "Porta guionet perquè el primer element acaba en vocal i el segon comença per *r*: *penja-robes*."
       - text: "penja-roba"
         why: "El compost acaba en *-s* i és invariable: *el penja-robes*."
-    explanation: "El moble per penjar-hi roba és *el penja-robes*, amb guionet."
+    explanation: "El moble per penjar-hi roba és *el penja-robes*: vocal + *r* entre els dos elements demana guionet."
 
   - id: b2-49-029
     type: choice
@@ -522,7 +524,7 @@ items:
     answer: "excuiner"
     distractors:
       - text: "ex-cuiner"
-        why: "*Ex-* va unit al mot, sense guionet: *excuiner*. El guionet és un calc del castellà."
+        why: "*Ex-* va unit al mot, sense guionet: *excuiner*."
       - text: "ex cuiner"
         why: "*Ex-* és un prefix i no va separat: *excuiner*."
     explanation: "Qui ja no és cuiner: *ex-* + *cuiner* = *excuiner*. En català, el prefix va unit al mot."
@@ -539,7 +541,7 @@ items:
         why: "Separat tampoc és correcte: *exmarit*."
       - text: "exmàrit"
         why: "*Marit* no porta accent: *exmarit*."
-    explanation: "*Ex-* va unit al mot base: *exmarit*. El guionet és un calc del castellà «ex-marido»."
+    explanation: "En català, *ex-* va unit al mot base, sense guionet ni espai: *exmarit*."
 
   - id: b2-49-032
     type: find-error
@@ -553,7 +555,7 @@ items:
         why: "Separat tampoc és correcte: *reobrir*."
       - text: "reabrir"
         why: "*Re-* + *obrir* manté la o: *reobrir*."
-    explanation: "*Re-* va unit al mot: *reobrir*. El guionet és un calc del castellà."
+    explanation: "*Re-* va unit al mot, sense guionet, fins i tot davant de vocal: *reobrir*."
 
   - id: b2-49-033
     type: find-error
@@ -573,9 +575,9 @@ items:
     fix_distractors:
       - text: "vice-president"
         why: "Amb guionet tampoc és correcte: *vicepresident*."
-      - text: "sotspresident"
-        why: "El substitut del president és el *vicepresident*."
-    explanation: "*Vice-* va unit al mot: *vicepresident*. Separat és un calc del castellà."
+      - text: "vicepresidente"
+        why: "En català el mot acaba en *-ent*, sense *-e* final: *vicepresident*."
+    explanation: "*Vice-* va unit al mot, sense guionet ni espai: *vicepresident*."
 
   - id: b2-49-035
     type: find-error
@@ -641,7 +643,7 @@ items:
     point: compostos
     lesson: 3
     title: "La cuina de la Núria"
-    text: "A la cuina de la Núria tot és a mà: al calaix hi ha {l'escuradents|l'escura-dents|l'escura dents}, {el rentaplats|el renta-plats|el renta plats} és nou de trinca, l'amanida sempre porta {l'allioli|l'alli-oli|l'alli oli} fet a mà i, és clar, la cuina queda feta un {poti-poti|potipoti|poti poti} després de cada àpat."
+    text: "A la cuina de la Núria tot és a mà: al calaix hi ha {l'escuradents|l'escura-dents|l'escura dents}, {el rentaplats|el renta-plats|el renta plats} és nou de trinca, el rostit sempre va amb {l'allioli|l'alli-oli|l'alli oli} fet a mà i, és clar, la cuina queda feta un {poti-poti|potipoti|poti poti} després de cada àpat."
     explanation: "*L'escuradents*, *el rentaplats* i *l'allioli* s'escriuen en un sol mot; *poti-poti* porta guionet perquè és una repetició expressiva."
 
   # ---------- Lliçó 4 ----------
@@ -649,8 +651,8 @@ items:
     type: transform
     point: prefixos
     lesson: 4
-    instruction: "Reescriu la frase amb el verb derivat de «congelador»."
-    source: "Traieu [[el pa del congelador]] amb temps."
+    instruction: "Reescriu la frase amb un verb amb el prefix *des-*."
+    source: "[[Traieu el pa del congelador]] amb temps."
     answers: ["Descongeleu el pa amb temps."]
     wrong_answers:
       - text: "Escongeleu el pa amb temps."
@@ -691,7 +693,7 @@ items:
     point: compostos
     lesson: 4
     instruction: "Reescriu la frase amb el mot compost."
-    source: "Eixuga't les mans amb [[el drap de la cuina]]."
+    source: "Eixuga't les mans amb [[la tovallola de mans]]."
     answers: ["Eixuga't les mans amb l'eixugamans."]
     wrong_answers:
       - text: "Eixuga't les mans amb l'eixuga-mans."
@@ -810,7 +812,7 @@ items:
     answers:
       - "Amb l'olor del rostit se'm fa la boca aigua."
       - "Se'm fa la boca aigua amb l'olor del rostit."
-    explanation: "L'expressió és *fer-se la boca aigua* i és impersonal: amb «l'olor», *se'm fa la boca aigua*."
+    explanation: "L'expressió és *fer-se la boca aigua*: el subjecte és «la boca» i la persona va en pronom, *se'm fa la boca aigua*."
 
   - id: b2-49-052
     type: fill
@@ -836,7 +838,7 @@ items:
 
       El matí del dinar, la cuina és un poti-poti controlat: el perol de la sopa bull a foc lent, la fornada de pa reposa sobre la taula i el ganivet gros espera al costat de la forquilla de servir. La Núria tasta el brou amb la cullera de fusta: el troba una mica insípid i hi afegeix sal i una fulla de llorer. Per a l'amaniment de l'amanida fa servir oli, vinagre i una cullerada de mostassa.
 
-      A les dues arriben tots: el pare, que sempre ve amb gana i ja menja amb els ulls; la mare, que de seguida se'n va a la cuina a ajudar; i el germà petit, que és de bon menjar i mai diu que no a res. El cunyat, que va ser sotscap en un restaurant de Girona, fa la degustació oficial: tasta el rostit amb una llesca de pa i sentència que és el millor de l'any. Per acompanyar, hi ha torrades amb allioli, una amanida verda i una copa de vi per a cadascú.
+      A les dues arriben tots: el pare, que sempre ve amb gana i ja menja amb els ulls; la mare, que de seguida se'n va a la cuina a ajudar; i el germà petit, que és de bon menjar i mai diu que no a res. El cunyat, que va ser sotscap en un restaurant de Girona, fa la degustació oficial: tasta el rostit amb una llesca de pa i sentencia que és el millor de l'any. Per acompanyar, hi ha torrades amb allioli, una amanida verda i una copa de vi per a cadascú.
 
       Després de dinar, endrecen la cuina entre tots: el rentaplats fa la feina bruta i el menjar que sobra va a la nevera en carmanyoles. La Núria diu que el secret no és cap recepta màgica, sinó temps i bons ingredients. I el germà ja pensa en diumenge que ve: diu que amb aquests dinars, se li fa la boca aigua només de pensar-hi.
     questions:
@@ -890,8 +892,8 @@ items:
     prompt: "—Com és el teu sogre, a taula? —És ___: li agrada tot i menja amb ganes."
     answer: "de bon menjar"
     distractors:
-      - text: "de bona boca"
-        why: "L'expressió és *ser de bon menjar*, no «de bona boca»."
+      - text: "de bon gust"
+        why: "*De bon gust* vol dir elegant o agradable. Per a l'apetit, *ser de bon menjar*."
       - text: "de bon paladar"
         why: "Amb *paladar*, el verb és *tenir*: *té bon paladar*. Amb *ser*, l'expressió és *ser de bon menjar*."
     explanation: "«Li agrada tot i menja amb ganes»: té bon apetit. L'expressió amb *ser* és *ser de bon menjar*."
@@ -917,10 +919,10 @@ items:
     answer: "no-violència"
     distractors:
       - text: "noviolència"
-        why: "El prefix *no-* porta sempre guionet: *no-violència*."
+        why: "Davant d'un nom, *no-* porta guionet: *no-violència*."
       - text: "no violència"
         why: "*No-* no va separat: *no-violència*."
-    explanation: "El prefix *no-* és l'únic que porta sempre guionet: *la no-violència*."
+    explanation: "Davant d'un nom, *no* s'uneix amb guionet: *la no-violència*."
 
   - id: b2-49-058
     type: match
@@ -943,7 +945,7 @@ items:
     answers: ["fa la boca aigua"]
     wrong_answers:
       - text: "faig la boca aigua"
-        why: "L'expressió és impersonal: *se'm fa la boca aigua*."
+        why: "El subjecte és «la boca», no jo: *se'm fa la boca aigua*."
     grading: tolerant
     explanation: "Amb «la vitrina», les ganes de menjar: l'expressió és *fer-se la boca aigua*."
 
@@ -959,7 +961,7 @@ items:
         why: "Separat tampoc és correcte: *exministre*."
       - text: "exminestre"
         why: "La paraula és *ministre*, amb i: *exministre*."
-    explanation: "*Ex-* va unit al mot: *exministre*. El guionet és un calc del castellà «ex-ministro»."
+    explanation: "En català, *ex-* va unit al mot, sense guionet ni espai: *exministre*."
 
   - id: b2-49-061
     type: find-error
@@ -993,6 +995,7 @@ items:
     answers:
       - "L'exalcalde vindrà a dinar diumenge."
       - "Diumenge l'exalcalde vindrà a dinar."
+      - "L'exalcalde vindrà diumenge a dinar."
     explanation: "Qui ja no és alcalde és *l'exalcalde*: *ex-* va unit al mot fins i tot davant de vocal."
 
   - id: b2-49-064

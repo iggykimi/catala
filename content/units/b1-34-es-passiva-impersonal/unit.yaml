@@ -55,7 +55,7 @@ vocabulary:
     example: "La mensualitat inclou les despeses de l'escala."
   - word: "les despeses"
     definition: "Diners que costa mantenir el pis i l'edifici, a part del lloguer."
-    example: "Aquest mes les despeses han apujat molt."
+    example: "Aquest mes les despeses han pujat molt."
   - word: "l'anunci"
     definition: "Text curt que ofereix o demana una cosa."
     example: "Vaig posar un anunci per llogar l'habitació."
@@ -100,7 +100,7 @@ vocabulary:
     example: "L'ascensor no funciona des de dilluns."
   - word: "la calefacció"
     definition: "Sistema que escalfa el pis a l'hivern."
-    example: "A la nit tanquem la calefacció."
+    example: "A la nit apaguem la calefacció."
   - word: "el moble"
     definition: "Objecte de la casa com una taula o un armari."
     example: "Vam vendre els mobles vells."
@@ -116,9 +116,9 @@ vocabulary:
   - word: "la rentadora"
     definition: "Màquina per rentar la roba."
     example: "La rentadora fa un soroll estrany."
-  - word: "amoblat, amoblada"
+  - word: "moblat, moblada"
     definition: "Pis que ja té mobles quan s'hi entra a viure."
-    example: "Busquem un pis amoblat a prop del centre."
+    example: "Busquem un pis moblat a prop del centre."
   - word: "lluminós, lluminosa"
     definition: "Pis o habitació amb molta llum natural."
     example: "És un menjador molt lluminós."
@@ -140,11 +140,12 @@ items:
     type: choice
     point: passiva-pronominal
     lesson: 1
+    instruction: "Completa la frase en registre formal."
     prompt: "Al barri antic ___ pisos petits per a estudiants."
     answer: "es lloguen"
     distractors:
       - text: "es lloga"
-        why: "«Pisos» és plural: el verb hi ha de concordar. *Es lloguen*."
+        why: "En registre formal, el verb concorda amb «pisos», que és plural: *es lloguen*."
       - text: "se lloguen"
         why: "*Se* davant del verb és un calc de «se». En aquest cas, davant del verb és *es*."
       - text: "es lloguem"
@@ -194,11 +195,12 @@ items:
     type: choice
     point: passiva-pronominal
     lesson: 1
+    instruction: "Completa la frase en registre formal."
     prompt: "___ habitacions lliures per al curs que ve."
     answer: "Es lloguen"
     distractors:
       - text: "Es lloga"
-        why: "«Habitacions» és plural: *es lloguen*."
+        why: "En registre formal, el verb concorda amb «habitacions», que és plural: *es lloguen*."
       - text: "Se lloguen"
         why: "Davant del verb, el pronom és *es*, no *se*."
     explanation: "«Habitacions» és el subjecte, en plural: *es lloguen habitacions*."
@@ -234,8 +236,9 @@ items:
     point: passiva-pronominal
     lesson: 1
     title: "Un anunci a l'escala"
+    instruction: "Tria les formes del registre formal."
     text: "Al tercer pis {es|se} {lloguen|lloga} dues habitacions amb balcó. {Es|Se} {demana|demanen} un mes de fiança i el lloguer és raonable. {Es|Se} {pot|poden} visitar el pis cada tarda."
-    explanation: "El pronom és *es* (*se* és un calc). El verb concorda amb el subjecte: *lloguen* (dues habitacions), *demana* (un mes), *pot* (el pis)."
+    explanation: "El pronom és *es* (*se* és un calc). En registre formal, el verb concorda amb el subjecte: *lloguen* (dues habitacions), *demana* (un mes), *pot* (el pis)."
 
   - id: b1-34-009
     type: match
@@ -253,12 +256,13 @@ items:
     type: fill
     point: passiva-pronominal
     lesson: 1
+    instruction: "Completa la frase en registre formal."
     prompt: "Es ___ dues habitacions amb vistes al mar."
     hint: "LLOGAR, present"
     answers: ["lloguen"]
     wrong_answers:
       - text: "lloga"
-        why: "«Dues habitacions» és plural: el verb hi concorda. *Es lloguen*."
+        why: "En registre formal, el verb concorda amb «dues habitacions», que és plural: *es lloguen*."
     grading: tolerant
     explanation: "El subjecte és «dues habitacions», en plural: *es lloguen*."
 
@@ -281,7 +285,7 @@ items:
     lesson: 1
     cue: "Digues que en aquest edifici lloguen pisos petits."
     chunks: ["en aquest edifici", "es", "lloguen", "pisos petits"]
-    extra: ["lloga"]
+    extra: ["se"]
     answers:
       - "En aquest edifici es lloguen pisos petits."
       - "Es lloguen pisos petits en aquest edifici."
@@ -306,12 +310,13 @@ items:
     type: fill
     point: passiva-pronominal
     lesson: 2
+    instruction: "Completa la frase en registre formal."
     prompt: "Al mercat de segona mà es ___ mobles antics."
     hint: "VENDRE, present"
     answers: ["venen"]
     wrong_answers:
       - text: "ven"
-        why: "«Mobles» és plural: *es venen*."
+        why: "En registre formal, el verb concorda amb «mobles», que és plural: *es venen*."
     grading: tolerant
     explanation: "«Mobles antics» és el subjecte, en plural: *es venen*."
 
@@ -358,12 +363,13 @@ items:
     type: fill
     point: passiva-pronominal
     lesson: 2
+    instruction: "Completa la frase en registre formal."
     prompt: "Es ___ dos llogaters per compartir el pis."
     hint: "NECESSITAR, present"
     answers: ["necessiten"]
     wrong_answers:
       - text: "necessita"
-        why: "«Dos llogaters» és plural: *es necessiten*."
+        why: "En registre formal, el verb concorda amb «dos llogaters», que és plural: *es necessiten*."
     grading: tolerant
     explanation: "«Dos llogaters» és el subjecte, en plural: *es necessiten*."
 
@@ -373,7 +379,7 @@ items:
     lesson: 2
     cue: "Digues que en aquest barri venen pisos nous."
     chunks: ["en aquest barri", "es", "venen", "pisos nous"]
-    extra: ["ven"]
+    extra: ["se"]
     answers:
       - "En aquest barri es venen pisos nous."
       - "Es venen pisos nous en aquest barri."
@@ -397,7 +403,7 @@ items:
     lesson: 2
     cue: "Digues que regalen mobles en bon estat al teu carrer."
     chunks: ["al meu carrer", "es", "regalen", "mobles en bon estat"]
-    extra: ["regala"]
+    extra: ["se"]
     answers:
       - "Al meu carrer es regalen mobles en bon estat."
       - "Es regalen mobles en bon estat al meu carrer."
@@ -421,11 +427,12 @@ items:
     type: choice
     point: passiva-pronominal
     lesson: 2
+    instruction: "Completa la frase en registre formal."
     prompt: "En aquest anunci ___ dos pàrquings amb llum."
     answer: "es venen"
     distractors:
       - text: "es ven"
-        why: "«Dos pàrquings» és plural: *es venen*."
+        why: "En registre formal, el verb concorda amb «dos pàrquings», que és plural: *es venen*."
       - text: "es venem"
         why: "La passiva amb *es* només va en tercera persona: *es venen*."
     explanation: "«Dos pàrquings» és el subjecte, en plural i en tercera persona: *es venen*."
@@ -480,14 +487,15 @@ items:
     fix_distractors:
       - text: "Se lloga"
         why: "*Se* és un calc, i «habitacions» demana el plural: *es lloguen*."
-      - text: "Es lloga"
-        why: "El pronom ja és *es*, però «habitacions» és plural: *es lloguen*."
-    explanation: "Davant del verb, el pronom és *es*. I «habitacions» és plural: *es lloguen*."
+      - text: "Es lloguem"
+        why: "La passiva amb *es* només va en tercera persona: *es lloguen*."
+    explanation: "Davant del verb, el pronom és *es*, no *se*: *es lloguen habitacions*."
 
   - id: b1-34-028
     type: find-error
     point: compte-castella
     lesson: 3
+    instruction: "Registre formal: troba l'error i corregeix-lo."
     sentence: "Es lloga pisos amb terrassa a Sarrià."
     error: "Es lloga"
     fix: "Es lloguen"
@@ -496,7 +504,7 @@ items:
         why: "El verb ja concorda, però *se* és un calc del castellà."
       - text: "Se lloga"
         why: "*Se* és un calc i el verb no concorda amb «pisos»: *es lloguen*."
-    explanation: "«Pisos» és plural: el verb hi concorda. *Es lloguen pisos*."
+    explanation: "En registre formal, el verb concorda amb «pisos», que és plural: *es lloguen pisos*."
 
   - id: b1-34-029
     type: find-error
@@ -516,12 +524,12 @@ items:
     type: find-error
     point: forma-es
     lesson: 3
-    sentence: "La immobiliària es obre cada dia a les nou."
+    sentence: "La porta del pàrquing es obre amb aquest comandament."
     error: "es obre"
     fix: "s'obre"
     fix_distractors:
       - text: "se obre"
-        why: "*Se* tot sol no va mai davant del verb; i davant de vocal cal l'apòstrof: *s'obre*."
+        why: "Davant de vocal, el pronom és *s'*: *s'obre*."
       - text: "es obren"
         why: "L'apòstrof continua faltant: davant de vocal, *es* és *s'*."
     explanation: "Davant d'un verb que comença per vocal, *es* s'apostrofa: *s'obre*."
@@ -546,7 +554,7 @@ items:
     type: fill
     point: forma-es
     lesson: 3
-    prompt: "L'oficina ___ obre cada dia a les nou."
+    prompt: "La porta del terrat ___ obre amb la clau gran."
     hint: "pronom passiu, davant de vocal"
     answers: ["s'"]
     wrong_answers:
@@ -579,7 +587,7 @@ items:
       - text: "desmuntarse"
         why: "Darrere de l'infinitiu, el pronom va amb guionet: *desmuntar-se*."
       - text: "se desmuntar"
-        why: "*Se* tot sol no va mai davant del verb: darrere de l'infinitiu és *-se*."
+        why: "Darrere de l'infinitiu, el pronom és *-se*, amb guionet: *desmuntar-se*."
     grading: strict
     explanation: "Darrere de l'infinitiu, el pronom és *-se*, amb guionet: *pot desmuntar-se*."
 
@@ -587,14 +595,15 @@ items:
     type: fill
     point: passiva-pronominal
     lesson: 3
+    instruction: "Completa la frase en registre formal."
     prompt: "Es ___ visitar pisos nous amb ascensor sense cita prèvia."
     hint: "PODRE, present"
     answers: ["poden"]
     wrong_answers:
       - text: "pot"
-        why: "El verb concorda amb «pisos nous», en plural: *es poden visitar*."
+        why: "En registre formal, el verb concorda amb «pisos nous», en plural: *es poden visitar*."
     grading: tolerant
-    explanation: "Amb un verb modal, és el modal qui concorda: *es poden visitar*."
+    explanation: "Amb un verb modal, és el modal qui concorda amb el subjecte plural: *es poden visitar*."
 
   - id: b1-34-037
     type: choice
@@ -606,7 +615,7 @@ items:
       - text: "Es"
         why: "Davant de *h*, *es* s'apostrofa: *s'ha llogat*."
       - text: "Se"
-        why: "*Se* tot sol no va mai davant del verb. Davant de *h*: *s'ha*."
+        why: "Davant de *h*, el pronom s'apostrofa: *s'ha*."
     explanation: "Davant del verb *haver*, el pronom s'apostrofa: *s'ha llogat*."
 
   - id: b1-34-038
@@ -626,28 +635,28 @@ items:
     type: choice
     point: compte-castella
     lesson: 3
-    prompt: "Quina frase és correcta?"
+    prompt: "Quina frase és correcta en registre formal?"
     answer: "Es venen cotxes de segona mà."
     distractors:
       - text: "Es ven cotxes de segona mà."
-        why: "«Cotxes» és plural: el verb hi ha de concordar. *Es venen*."
+        why: "En registre formal, el verb concorda amb «cotxes», que és plural: *es venen*."
       - text: "Se venen cotxes de segona mà."
         why: "*Se* és un calc del castellà «se». En català: *es venen*."
-    explanation: "El pronom és *es* i «cotxes» demana el plural: *es venen cotxes*."
+    explanation: "El pronom és *es* i, en registre formal, «cotxes» demana el plural: *es venen cotxes*."
 
   # ---------------- Lliçó 4 ----------------
   - id: b1-34-040
     type: transform
     point: passiva-pronominal
     lesson: 4
-    instruction: "Passa la frase al plural."
+    instruction: "Passa la frase al plural, en registre formal."
     source: "Es lloga [[un pis petit]]."
     answers:
       - "Es lloguen uns pisos petits."
       - "Es lloguen pisos petits."
     wrong_answers:
       - text: "Es lloga uns pisos petits."
-        why: "El verb ha de concordar amb el subjecte plural: *es lloguen*."
+        why: "En registre formal, el verb concorda amb el subjecte plural: *es lloguen*."
       - text: "Se lloguen uns pisos petits."
         why: "*Se* és un calc del castellà. El pronom és *es*."
     grading: tolerant
@@ -661,6 +670,7 @@ items:
     source: "Es venen [[armaris antics]]."
     answers:
       - "Es ven un armari antic."
+      - "Es ven armari antic."
     wrong_answers:
       - text: "Es venen un armari antic."
         why: "«Un armari» és singular: *es ven*."
@@ -698,7 +708,7 @@ items:
       - text: "Poden visitarse pisos nous sense cita."
         why: "Darrere de l'infinitiu, el pronom porta guionet: *visitar-se*."
       - text: "Se poden visitar pisos nous sense cita."
-        why: "*Se* tot sol no va mai davant del verb: *es poden* o *poden visitar-se*."
+        why: "Davant de *poden*, el pronom és *es*: *es poden* o *poden visitar-se*."
     grading: tolerant
     explanation: "El pronom pot pujar davant (*es poden visitar*) o anar darrere (*poden visitar-se*)."
 
@@ -707,13 +717,13 @@ items:
     point: impersonal-es
     lesson: 4
     instruction: "Reescriu la frase en impersonal amb *es*."
-    source: "[[Diuen]] que el lloguer apujarà."
+    source: "[[Diuen]] que el lloguer pujarà."
     answers:
-      - "Es diu que el lloguer apujarà."
+      - "Es diu que el lloguer pujarà."
     wrong_answers:
-      - text: "Es diuen que el lloguer apujarà."
+      - text: "Es diuen que el lloguer pujarà."
         why: "*Es diu que* és impersonal: el verb va en singular."
-      - text: "Se diu que el lloguer apujarà."
+      - text: "Se diu que el lloguer pujarà."
         why: "*Se* és un calc del castellà. El pronom és *es*."
     grading: tolerant
     explanation: "El rumor sense autor: *es diu que*, amb el verb en singular."
@@ -730,7 +740,7 @@ items:
       - text: "El contracte pot signarse dilluns."
         why: "El pronom darrere de l'infinitiu porta guionet: *signar-se*."
       - text: "El contracte se pot signar dilluns."
-        why: "*Se* tot sol no va mai davant del verb."
+        why: "Davant de *pot*, el pronom és *es*: *es pot signar* o *pot signar-se*."
     grading: tolerant
     explanation: "*Es pot signar* i *pot signar-se* volen dir el mateix."
 
@@ -777,13 +787,13 @@ items:
     type: order
     point: forma-es
     lesson: 4
-    cue: "Digues que al centre es pot llogar un pis amoblat."
-    chunks: ["al centre", "es", "pot", "llogar", "un pis amoblat"]
+    cue: "Digues que al centre es pot llogar un pis moblat."
+    chunks: ["al centre", "es", "pot", "llogar", "un pis moblat"]
     extra: ["se"]
     answers:
-      - "Al centre es pot llogar un pis amoblat."
-      - "Es pot llogar un pis amoblat al centre."
-      - "Un pis amoblat es pot llogar al centre."
+      - "Al centre es pot llogar un pis moblat."
+      - "Es pot llogar un pis moblat al centre."
+      - "Un pis moblat es pot llogar al centre."
     explanation: "Davant d'un verb que comença per consonant, el pronom és *es*: *es pot llogar*."
 
   - id: b1-34-050
@@ -873,7 +883,7 @@ items:
     type: transform
     point: compte-castella
     lesson: 5
-    instruction: "Corregeix la frase."
+    instruction: "Corregeix la frase per al registre formal."
     source: "[[Se ven]] pisos barats en aquest barri."
     answers:
       - "Es venen pisos barats en aquest barri."
@@ -882,22 +892,22 @@ items:
       - text: "Se venen pisos barats en aquest barri."
         why: "El verb ja concorda, però *se* continua sent un calc: *es*."
       - text: "Es ven pisos barats en aquest barri."
-        why: "Ja és *es*, però «pisos» demana el plural: *es venen*."
+        why: "Ja és *es*, però en registre formal «pisos» demana el plural: *es venen*."
     grading: tolerant
-    explanation: "Dos errors: *se* (calc) i el singular. *Es venen pisos*."
+    explanation: "Dos canvis: *se* és un calc, i en registre formal cal el plural. *Es venen pisos*."
 
   - id: b1-34-055
     type: transform
     point: passiva-pronominal
     lesson: 5
-    instruction: "Reescriu la frase amb la passiva amb *es*."
+    instruction: "Reescriu la frase amb la passiva amb *es*, en registre formal."
     source: "Aquí [[venen]] rentadores de segona mà."
     answers:
       - "Aquí es venen rentadores de segona mà."
       - "Es venen rentadores de segona mà aquí."
     wrong_answers:
       - text: "Aquí es ven rentadores de segona mà."
-        why: "«Rentadores» és plural: *es venen*."
+        why: "En registre formal, el verb concorda amb «rentadores», que és plural: *es venen*."
       - text: "Aquí se venen rentadores de segona mà."
         why: "*Se* és un calc del castellà. El pronom és *es*."
     grading: tolerant
@@ -1008,12 +1018,13 @@ items:
     type: fill
     point: passiva-pronominal
     lesson: 5
+    instruction: "Completa la frase en registre formal."
     prompt: "Es ___ descomptes als llogaters joves."
     hint: "FER, present"
     answers: ["fan"]
     wrong_answers:
       - text: "fa"
-        why: "«Descomptes» és plural: *es fan*."
+        why: "En registre formal, el verb concorda amb «descomptes», que és plural: *es fan*."
     grading: tolerant
     explanation: "«Descomptes» és plural: *es fan descomptes*."
 

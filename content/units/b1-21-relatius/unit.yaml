@@ -37,10 +37,10 @@ vocabulary:
     example: "Va trobar feina en una escola de Vic."
   - word: "la professió"
     definition: "Feina per a la qual cal una formació."
-    example: "La seva professió és mestra."
+    example: "És mestra de professió."
   - word: "l'ofici"
     definition: "Professió manual que s'aprèn amb la pràctica."
-    example: "El seu ofici és fuster."
+    example: "És fuster d'ofici."
   - word: "el contracte"
     definition: "Document que explica les condicions d'una feina."
     example: "Va signar el contracte dilluns passat."
@@ -131,7 +131,7 @@ vocabulary:
   - word: "contractar"
     definition: "Donar feina a una persona."
     example: "Han contractat dos dependents nous."
-  - word: "acomadiar"
+  - word: "acomiadar"
     definition: "Prendre la feina a una persona."
     example: "Van acomiadar deu treballadors."
   - word: "jubilar-se"
@@ -261,11 +261,11 @@ items:
     lesson: 1
     instruction: "Relaciona cada expressió amb el seu significat."
     pairs:
-      - ["qui dia passa, any empeny", "el temps passa de pressa"]
+      - ["qui dia passa, any empeny", "anar fent, sense amoïnar-se gaire"]
       - ["cadascú a casa seva", "cadascú ha de fer la seva feina"]
       - ["guanyar-se la vida", "treballar per tenir diners"]
       - ["fer carrera", "progressar en una professió"]
-    explanation: "Són quatre expressions per parlar de la feina i del temps: fixa't en quina va amb cada situació."
+    explanation: "Són quatre expressions per parlar de la feina i de la vida: fixa't en quina va amb cada situació."
 
   - id: b1-21-010
     type: fill
@@ -455,13 +455,13 @@ items:
     point: expressions
     lesson: 2
     prompt: "Què vol dir «qui dia passa, any empeny»?"
-    answer: "Que el temps passa molt de pressa."
+    answer: "Que vas fent el dia a dia, sense amoïnar-te gaire."
     distractors:
       - text: "Que cada dia cal treballar més."
-        why: "No parla de treballar més, sinó del temps que passa."
+        why: "No parla de treballar més, sinó d'anar fent sense amoïnar-se."
       - text: "Que els anys fan la gent més sàvia."
-        why: "No parla de l'edat, sinó de com passen els dies."
-    explanation: "*Qui dia passa, any empeny* vol dir que els dies passen tan de pressa que sembla que s'acabi l'any."
+        why: "No parla de l'edat, sinó de viure el dia a dia."
+    explanation: "*Qui dia passa, any empeny* vol dir anar fent, viure el dia a dia sense amoïnar-se gaire pel futur."
 
   - id: b1-21-025
     type: choice
@@ -481,21 +481,22 @@ items:
     point: expressions
     lesson: 2
     title: "A la pausa del cafè"
-    text: "—El nou becari es fica en tot. —Ja ho saps: {cadascú a casa seva|qui dia passa, any empeny|fer carrera}. —I el temps vola: ja fa un any que soc aquí! —Sí, {qui dia passa, any empeny|cadascú a casa seva|fer carrera}. —Vols ser cap algun dia? —No: això de {fer carrera|guanyar-me la vida|qui dia passa, any empeny} no m'interessa."
-    explanation: "*Cadascú a casa seva* demana que ningú es fiqui en la feina dels altres; *qui dia passa, any empeny* parla del temps; *fer carrera* és progressar en la professió."
+    text: "—El nou becari es fica en tot. —Ja ho saps: {cadascú a casa seva|qui dia passa, any empeny|fer carrera}. —I tu, com ho portes? Tens plans? —No gaire: {qui dia passa, any empeny|cadascú a casa seva|fer carrera}. —Vols ser cap algun dia? —No: això de {fer carrera|guanyar-me la vida|qui dia passa, any empeny} no m'interessa."
+    explanation: "*Cadascú a casa seva* demana que ningú es fiqui en la feina dels altres; *qui dia passa, any empeny* vol dir anar fent sense amoïnar-se; *fer carrera* és progressar en la professió."
 
   # ---------------- Lliçó 3 ----------------
   - id: b1-21-027
     type: choice
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: tria l'opció correcta."
     prompt: "El tema ___ parlàvem ahir és molt delicat."
     answer: "de què"
     distractors:
       - text: "de qui"
         why: "«El tema» és una cosa, no una persona: *de què*."
       - text: "del que"
-        why: "*Del que* és un calc del castellà «del que». En català: *de què*."
+        why: "*Del que* és un calc del castellà «del que». En registre formal: *de què*."
       - text: "què"
         why: "Falta la preposició: el verb és «parlar de», i el relatiu és *de què*."
     explanation: "«Parlar» demana *de*, i «el tema» és una cosa: *de què*."
@@ -504,6 +505,7 @@ items:
     type: choice
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: tria l'opció correcta."
     prompt: "La companya ___ comparteixo despatx és de Tarragona."
     answer: "amb qui"
     distractors:
@@ -519,15 +521,16 @@ items:
     type: choice
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: tria l'opció correcta."
     prompt: "El projecte ___ participo és molt interessant."
     answer: "en què"
     distractors:
       - text: "en qui"
         why: "«El projecte» és una cosa: *en què*."
       - text: "en el que"
-        why: "*En el que* és un calc del castellà «en el que». En català: *en què*."
-      - text: "on"
-        why: "*On* és per a un lloc. «El projecte» no és un lloc: *en què*."
+        why: "*En el que* és un calc del castellà «en el que». En registre formal: *en què*."
+      - text: "que"
+        why: "Falta la preposició: «participar» demana *en*, i el relatiu és *en què*."
     explanation: "«Participar» demana *en*, i «el projecte» és una cosa: *en què*."
 
   - id: b1-21-030
@@ -539,22 +542,23 @@ items:
     distractors:
       - text: "el qual"
         why: "«L'empresa» és femení: *la qual*."
-      - text: "qui"
-        why: "«L'empresa» és una cosa: *qui* és per a persones."
-      - text: "els quals"
+      - text: "les quals"
         why: "«L'empresa» és singular: *la qual*."
+      - text: "els quals"
+        why: "«L'empresa» és femení singular: *la qual*."
     explanation: "Darrere de preposició, *el qual* concorda amb el nom: «l'empresa» és femení singular → *la qual*."
 
   - id: b1-21-031
     type: fill
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: completa la frase."
     prompt: "El problema ___ es queixa tothom fa perdre clients."
     hint: "preposició + relatiu per a «el problema»"
     answers: ["de què", "del qual"]
     wrong_answers:
       - text: "del que"
-        why: "*Del que* és un calc del castellà «del que». En català: *de què* o *del qual*."
+        why: "*Del que* és un calc del castellà «del que». En registre formal: *de què* o *del qual*."
     grading: strict
     explanation: "«Queixar-se» demana *de* i «el problema» és una cosa: *de què* (o *del qual*)."
 
@@ -562,12 +566,13 @@ items:
     type: fill
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: completa la frase."
     prompt: "La clienta ___ he dinat és molt simpàtica."
     hint: "preposició + relatiu per a «la clienta»"
     answers: ["amb qui", "amb la qual"]
     wrong_answers:
       - text: "amb el que"
-        why: "*Amb el que* és un calc del castellà «con el que». En català: *amb qui* o *amb la qual*."
+        why: "*Amb el que* és un calc del castellà «con el que». En registre formal: *amb qui* o *amb la qual*."
       - text: "amb què"
         why: "«La clienta» és una persona: *amb qui*."
     grading: strict
@@ -577,12 +582,13 @@ items:
     type: fill
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: completa la frase."
     prompt: "El projecte ___ confio sortirà bé."
     hint: "preposició + relatiu per a «el projecte»"
     answers: ["en què", "en el qual"]
     wrong_answers:
       - text: "en el que"
-        why: "*En el que* és un calc del castellà «en el que». En català: *en què* o *en el qual*."
+        why: "*En el que* és un calc del castellà «en el que». En registre formal: *en què* o *en el qual*."
       - text: "en qui"
         why: "«El projecte» és una cosa: *en què*."
     grading: strict
@@ -592,6 +598,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
+    instruction: "Registre formal: troba l'error i corregeix-lo."
     sentence: "El tema del que parlàvem ahir és molt delicat."
     error: "del que"
     fix: "de què"
@@ -600,12 +607,13 @@ items:
         why: "«El tema» és una cosa, no una persona."
       - text: "en què"
         why: "«Parlar» demana *de*, no *en*: *de què*."
-    explanation: "*Del que* és un calc del castellà «del que». En català, «parlar de» + cosa és *de què*."
+    explanation: "*Del que* és un calc del castellà «del que». En registre formal, «parlar de» + cosa és *de què*."
 
   - id: b1-21-035
     type: find-error
     point: compte-castella
     lesson: 3
+    instruction: "Registre formal: troba l'error i corregeix-lo."
     sentence: "L'informe en el que treballo és urgent."
     error: "en el que"
     fix: "en què"
@@ -614,7 +622,7 @@ items:
         why: "«L'informe» és una cosa: *en què*."
       - text: "on"
         why: "*On* és per a un lloc, i «l'informe» no n'és cap."
-    explanation: "*En el que* és un calc del castellà «en el que». En català: *en què*."
+    explanation: "*En el que* és un calc del castellà «en el que». En registre formal: *en què*."
 
   - id: b1-21-036
     type: find-error
@@ -628,6 +636,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
+    instruction: "Registre formal: troba l'error i corregeix-lo."
     sentence: "La persona amb el que comparteixo despatx es jubila al desembre."
     error: "amb el que"
     fix: "amb qui"
@@ -642,15 +651,16 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "L'oferta al que es refereix el correu ja no existeix."
-    error: "al que"
+    instruction: "Registre formal: troba l'error i corregeix-lo."
+    sentence: "L'oferta a la que es refereix el correu ja no existeix."
+    error: "a la que"
     fix: "a què"
     fix_distractors:
       - text: "a qui"
         why: "«L'oferta» és una cosa: *a què*."
       - text: "en què"
         why: "«Referir-se» demana *a*, no *en*."
-    explanation: "*Al que* és un calc del castellà «al que». En català: *a què*."
+    explanation: "*A la que* és un calc del castellà «a la que». En registre formal: *a què* (o *a la qual*)."
 
   - id: b1-21-039
     type: find-error
@@ -664,6 +674,7 @@ items:
     type: inline-choice
     point: relatiu-preposicio
     lesson: 3
+    instruction: "Registre formal: tria la forma correcta de cada buit."
     title: "Un correu de la feina"
     text: "Bon dia, Núria: l'encàrrec {de què|de qui|del que} et parlava ahir arriba demà. Porta l'informe {en què|en qui|en el que} hem treballat aquest mes. La reunió serà amb l'advocada {amb qui|amb què|amb el que} col·laborem, i el projecte {del qual|del que|de qui} parlarem és l'últim punt de l'ordre del dia. Han acomiadat dues persones i el cap ha dimitit."
     explanation: "*De què* i *en què* van amb coses; *amb qui*, amb persones; *del qual* és l'altra forma de *de què*."
@@ -673,7 +684,7 @@ items:
     type: transform
     point: relatiu-preposicio
     lesson: 4
-    instruction: "Substitueix el relatiu marcat per *el qual*."
+    instruction: "Registre formal. Substitueix el relatiu marcat per *el qual*."
     source: "El projecte [[en què]] participo m'agrada molt."
     answers: ["El projecte en el qual participo m'agrada molt."]
     wrong_answers:
@@ -688,7 +699,7 @@ items:
     type: transform
     point: relatiu-preposicio
     lesson: 4
-    instruction: "Substitueix el relatiu marcat per *de què*."
+    instruction: "Registre formal. Substitueix el relatiu marcat per *de què*."
     source: "La feina [[de la qual]] estic més contenta és aquesta."
     answers: ["La feina de què estic més contenta és aquesta."]
     wrong_answers:
@@ -703,7 +714,7 @@ items:
     type: transform
     point: relatiu-preposicio
     lesson: 4
-    instruction: "Substitueix el relatiu marcat per *el qual*."
+    instruction: "Registre formal. Substitueix el relatiu marcat per *el qual*."
     source: "El canvi [[de què]] parla tothom arriba al gener."
     answers: ["El canvi del qual parla tothom arriba al gener."]
     wrong_answers:
@@ -718,12 +729,12 @@ items:
     type: transform
     point: relatiu-preposicio
     lesson: 4
-    instruction: "Substitueix el relatiu marcat per *de què*."
+    instruction: "Registre formal. Substitueix el relatiu marcat per *de què*."
     source: "Els temes [[dels quals]] vam parlar eren difícils."
     answers: ["Els temes de què vam parlar eren difícils."]
     wrong_answers:
       - text: "Els temes dels que vam parlar eren difícils."
-        why: "*Dels que* és un calc del castellà. En català: *de què*."
+        why: "*Dels que* és un calc del castellà. En registre formal: *de què*."
       - text: "Els temes de que vam parlar eren difícils."
         why: "Sense accent és la conjunció: el relatiu és *de què*."
     grading: strict
@@ -733,7 +744,7 @@ items:
     type: transform
     point: compte-castella
     lesson: 4
-    instruction: "Corregeix la frase."
+    instruction: "Registre formal. Corregeix la frase."
     source: "El termini de l'informe [[en el que]] treballo és divendres."
     answers:
       - "El termini de l'informe en què treballo és divendres."
@@ -744,13 +755,13 @@ items:
       - text: "El termini de l'informe en qui treballo és divendres."
         why: "«L'informe» és una cosa: *en què*."
     grading: strict
-    explanation: "*En el que* és un calc del castellà «en el que». En català: *en què* (o *en el qual*)."
+    explanation: "*En el que* és un calc del castellà «en el que». En registre formal: *en què* (o *en el qual*)."
 
   - id: b1-21-046
     type: transform
     point: compte-castella
     lesson: 4
-    instruction: "Corregeix la frase."
+    instruction: "Registre formal. Corregeix la frase."
     source: "La persona [[amb el que]] comparteixo despatx comença avui."
     answers:
       - "La persona amb qui comparteixo despatx comença avui."
@@ -784,12 +795,13 @@ items:
     type: fill
     point: relatiu-preposicio
     lesson: 4
+    instruction: "Registre formal: completa la frase."
     prompt: "El mestre ___ es fia tothom es diu Oriol."
     hint: "preposició + relatiu per a «el mestre»"
     answers: ["de qui", "del qual"]
     wrong_answers:
       - text: "del que"
-        why: "*Del que* és un calc del castellà. En català: *de qui* (o *del qual*)."
+        why: "*Del que* és un calc del castellà. En registre formal: *de qui* (o *del qual*)."
       - text: "de què"
         why: "«El mestre» és una persona: *de qui*."
     grading: tolerant
@@ -825,9 +837,9 @@ items:
     type: order
     point: relatiu-preposicio
     lesson: 4
-    cue: "Digues que la vaga de què parleu és complicada."
+    cue: "Digues que la vaga de què parleu tu i els teus companys és complicada."
     chunks: ["la vaga", "de què", "parlem", "és", "complicada"]
-    extra: ["del que"]
+    extra: ["de qui"]
     answers:
       - "La vaga de què parlem és complicada."
       - "És complicada la vaga de què parlem."
@@ -852,7 +864,7 @@ items:
     answer: "Cadascú a casa seva!"
     distractors:
       - text: "Qui dia passa, any empeny!"
-        why: "Això parla del temps, no de ficar-se en la feina dels altres."
+        why: "Això vol dir anar fent el dia a dia, no ficar-se en la feina dels altres."
       - text: "Fes carrera!"
         why: "Això és progressar en la professió, no el que vols dir aquí."
     explanation: "*Cadascú a casa seva* demana que cadascú faci la seva feina sense ficar-se en la dels altres."
@@ -877,13 +889,14 @@ items:
     type: choice
     point: relatiu-preposicio
     lesson: 5
+    instruction: "Registre formal: tria l'opció correcta."
     prompt: "La tècnica ___ depèn el projecte està de baixa."
     answer: "de qui"
     distractors:
       - text: "de què"
         why: "«La tècnica» és una persona: *de qui*."
       - text: "del que"
-        why: "*Del que* és un calc del castellà «del que». En català: *de qui*."
+        why: "*Del que* és un calc del castellà «del que». En registre formal: *de qui*."
       - text: "qui"
         why: "Sense *de* no hi va: *de qui*."
     explanation: "«Dependre» demana *de* i «la tècnica» és una persona: *de qui*."
@@ -899,8 +912,8 @@ items:
         why: "«Els contractes» és masculí: *els quals*."
       - text: "el qual"
         why: "«Els contractes» és plural: *els quals*."
-      - text: "el que"
-        why: "*Amb el que* és un calc. La forma amb article és *amb els quals*."
+      - text: "qui"
+        why: "*Qui* és per a persones; «els contractes» són coses: *amb els quals* (o *amb què*)."
     explanation: "*Els quals* concorda amb «els contractes»: masculí plural."
 
   - id: b1-21-057
@@ -920,12 +933,13 @@ items:
     type: fill
     point: relatiu-preposicio
     lesson: 5
+    instruction: "Registre formal: completa la frase."
     prompt: "La vaga ___ participen molts treballadors és dijous."
     hint: "preposició + relatiu per a «la vaga»"
     answers: ["en què", "en la qual"]
     wrong_answers:
       - text: "en el que"
-        why: "*En el que* és un calc del castellà «en el que». En català: *en què* o *en la qual*."
+        why: "*En el que* és un calc del castellà «en el que». En registre formal: *en què* o *en la qual*."
       - text: "en qui"
         why: "«La vaga» és una cosa: *en què*."
     grading: strict
@@ -935,6 +949,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 5
+    instruction: "Registre formal: troba l'error i corregeix-lo."
     sentence: "El company en el que confio més és en Pau."
     error: "en el que"
     fix: "en qui"
@@ -988,7 +1003,7 @@ items:
 
       Quan va acabar el curs, el xef amb qui havia fet les pràctiques li va oferir una plaça a la cuina. Ara la Fàtima treballa en un restaurant petit del barri. Guanya menys que abans, però diu que per fi fa una feina que li agrada.
 
-      —Qui dia passa, any empeny —diu rient—: ja fa mig any que soc aquí i sembla que va ser ahir. A l'agost farà vacances per primera vegada en anys.
+      Ja fa mig any que hi treballa. No fa grans plans per al futur: «Qui dia passa, any empeny», diu rient. A l'agost farà vacances per primera vegada en anys.
     questions:
       - prompt: "On treballava la Fàtima abans?"
         answer: "En una fàbrica de peces de plàstic."
@@ -1024,14 +1039,14 @@ items:
     type: choice
     point: expressions
     lesson: 5
-    prompt: "Fa deu anys que fas la mateixa feina i el temps ha volat. Què dius?"
+    prompt: "Un amic et pregunta quins plans tens per a l'any que ve. Tu no t'hi amoïnes gaire i vas fent. Què dius?"
     answer: "Qui dia passa, any empeny!"
     distractors:
       - text: "Cadascú a casa seva!"
-        why: "Això és per a qui es fica on no el demanen, no per al temps."
+        why: "Això és per a qui es fica on no el demanen, no per dir que vas fent."
       - text: "Fes carrera!"
-        why: "Això és progressar en la professió, no el pas del temps."
-    explanation: "*Qui dia passa, any empeny* es diu quan el temps passa molt de pressa."
+        why: "Això és progressar en la professió, no anar fent el dia a dia."
+    explanation: "*Qui dia passa, any empeny* es diu quan vas fent, dia a dia, sense amoïnar-te gaire pel futur."
 
   - id: b1-21-065
     type: fill

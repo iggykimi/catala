@@ -193,8 +193,8 @@ items:
     distractors:
       - text: "per a"
         why: "*Per a* + temps és una data límit («per a divendres»). Aquí és aproximat («no sabem quin dia»): *per*."
-      - text: "a"
-        why: "El temps aproximat d'una festa es fa amb *per*: *per Nadal*."
+      - text: "en"
+        why: "«En Nadal» és un calc de «en Navidad». El temps aproximat d'una festa es fa amb *per*: *per Nadal*."
     explanation: "«No sabem quin dia» vol dir aproximat. El temps aproximat es fa amb *per*: *per Nadal*."
 
   - id: b1-25-005
@@ -258,8 +258,8 @@ items:
     distractors:
       - text: "per a"
         why: "*Per a* és qui rep o la finalitat. El preu total es fa amb *per*."
-      - text: "amb"
-        why: "*Amb* diu amb què pagues («amb targeta») o amb qui vas. El preu total va amb *per*."
+      - text: "por"
+        why: "*Por* és castellà. El preu total va amb *per*."
     explanation: "«Trenta euros» és el preu total. El preu es fa amb *per*: *per trenta euros*."
 
   - id: b1-25-010
@@ -327,7 +327,7 @@ items:
     lesson: 2
     prompt: "Demà sortim ___ Menorca amb el vaixell de les vuit."
     hint: "destinació"
-    answers: ["per a"]
+    answers: ["per a", "cap a"]
     wrong_answers:
       - text: "per"
         why: "*Per* + lloc és el camí. La destinació és *per a*."
@@ -353,7 +353,7 @@ items:
     lesson: 2
     prompt: "Hem tornat d'hora ___ mal temps."
     hint: "causa"
-    answers: ["pel"]
+    answers: ["pel", "a causa del"]
     wrong_answers:
       - text: "per al"
         why: "*Per al* és *per a* + *el*: finalitat. La causa és *per*: *pel*."
@@ -429,8 +429,8 @@ items:
     prompt: "___ serveix aquest bitllet petit?"
     answer: "Per a què"
     distractors:
-      - text: "Per què"
-        why: "*Per què* pregunta el motiu («Per què plores?»). La utilitat es pregunta amb *per a què*."
+      - text: "Què"
+        why: "*Servir* amb el sentit de «ser útil» demana *per a*: *per a què serveix?*"
       - text: "Per a que"
         why: "En una pregunta de finalitat, *què* porta accent: *per a què*."
     explanation: "Preguntem la utilitat del bitllet. La finalitat es pregunta amb *per a què*."
@@ -439,14 +439,14 @@ items:
     type: choice
     point: per
     lesson: 2
-    prompt: "—___ viatges amb dues maletes? —Porto regals per a tota la família."
+    prompt: "—___ no has vingut a l'excursió? —Perquè em marejo al vaixell."
     answer: "Per què"
     distractors:
       - text: "Per a què"
         why: "*Per a què* pregunta la utilitat. Aquí preguntem el motiu: *per què*."
       - text: "Per a"
         why: "Aquí cal una pregunta de motiu: *per què*. *Per a* sol no pregunta res."
-    explanation: "Preguntem el motiu de les dues maletes. La causa es pregunta amb *per què*."
+    explanation: "Preguntem el motiu de no venir. La causa es pregunta amb *per què*."
 
   - id: b1-25-025
     type: choice
@@ -494,7 +494,7 @@ items:
     lesson: 3
     prompt: "El vol porta retard ___ núvols baixos."
     hint: "causa"
-    answers: ["pels"]
+    answers: ["pels", "a causa dels"]
     wrong_answers:
       - text: "per als"
         why: "*Per als* és *per a* + *els*: finalitat. La causa és *per*: *pels núvols*."
@@ -525,8 +525,8 @@ items:
       - text: "a confirmar"
         why: "«Trucar a» vol una persona («truco a la Núria»), no un infinitiu de finalitat."
       - text: "de confirmar"
-        why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per*."
-    explanation: "*Para* és castellà. En català, la finalitat davant d'infinitiu es fa amb *per*: *per confirmar*."
+        why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per* (o *per a*)."
+    explanation: "*Para* és castellà. En català, la finalitat davant d'infinitiu es fa amb *per* (o *per a*): *per confirmar*."
 
   - id: b1-25-031
     type: find-error
@@ -534,7 +534,7 @@ items:
     lesson: 3
     sentence: "Hem corregut molt per no perdre el tren."
     no_error: true
-    explanation: "La frase és correcta: la finalitat (*no perdre el tren*) davant d'infinitiu es fa amb *per*."
+    explanation: "La frase és correcta: la finalitat (*no perdre el tren*) davant d'infinitiu es fa amb *per* (o *per a*)."
 
   - id: b1-25-032
     type: find-error
@@ -594,8 +594,8 @@ items:
     distractors:
       - text: "per"
         why: "*Per* + festa és aproximat. Amb «a tot tardar» és un termini: *per a*."
-      - text: "a"
-        why: "«A» + festa no indica temps. Amb «a tot tardar» és un termini: *per a*."
+      - text: "en"
+        why: "«En Nadal» és un calc del castellà. Amb «a tot tardar» és un termini: *per a*."
     explanation: "«A tot tardar» marca un termini, no un temps aproximat. El termini es fa amb *per a*."
 
   - id: b1-25-037
@@ -655,9 +655,9 @@ items:
       - "Per a canviar les dates del vol, jo truco a l'agència."
     wrong_answers:
       - text: "Truco a l'agència para canviar les dates del vol."
-        why: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per*."
+        why: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per* (o *per a*)."
       - text: "Truco a l'agència de canviar les dates del vol."
-        why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per*."
+        why: "«Trucar de» no existeix. La finalitat davant d'infinitiu es fa amb *per* (o *per a*)."
     grading: tolerant
     explanation: "Les dues frases s'uneixen amb la finalitat. Davant d'infinitiu de finalitat, *per* i *per a* són correctes."
 
@@ -670,6 +670,8 @@ items:
     answers:
       - "La van multar per aparcar al carril bus."
       - "Per aparcar al carril bus, la van multar."
+      - "La van multar per haver aparcat al carril bus."
+      - "Per haver aparcat al carril bus, la van multar."
     wrong_answers:
       - text: "La van multar d'aparcar al carril bus."
         why: "«Multar de» no existeix. La causa davant d'infinitiu es fa amb *per*."
@@ -753,9 +755,9 @@ items:
       - "Per a viatjar al Japó, nosaltres estalviem molt."
     wrong_answers:
       - text: "Estalviem molt para viatjar al Japó."
-        why: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per*."
+        why: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per* (o *per a*)."
       - text: "Estalviem molt de viatjar al Japó."
-        why: "Aquí *estalviem* vol dir guardar diners: la finalitat va amb *per*."
+        why: "Aquí *estalviem* vol dir guardar diners: la finalitat va amb *per* (o *per a*)."
     grading: tolerant
     explanation: "Les dues frases s'uneixen amb la finalitat. Davant d'infinitiu de finalitat, *per* i *per a* són correctes."
 
@@ -767,8 +769,6 @@ items:
     source: "Hem comprat els bitllets, amb descompte, [[per a vint euros]]."
     answers: ["Hem comprat els bitllets, amb descompte, per vint euros."]
     wrong_answers:
-      - text: "Hem comprat els bitllets, amb descompte, amb vint euros."
-        why: "*Amb* diu amb què pagues o amb qui vas. El preu total va amb *per*."
       - text: "Hem comprat els bitllets, amb descompte, por vint euros."
         why: "*Por* és castellà. El preu es fa amb *per*."
     grading: tolerant
@@ -876,12 +876,12 @@ items:
           - text: "Perquè els turistes arriben tard."
             why: "El text no diu que els turistes arribin tard."
           - text: "Perquè a Maó fa mal temps."
-            why: "La boira és a la sortida, no a Maó."
+            why: "El text només diu que el retard és per la boira."
       - prompt: "Què li passa a la Carla dissabte?"
         answer: "Es mareja al vaixell i pren una pastilla."
         distractors:
           - text: "Perd el mapa de l'excursió."
-            why: "El mapa el demanen divendres i el text no diu que el perdin."
+            why: "El text diu que demanen un mapa, no que el perdin."
           - text: "Compra formatge per a la família."
             why: "El formatge el compren diumenge, no dissabte."
       - prompt: "Com és l'hotel?"
@@ -994,10 +994,10 @@ items:
     fix: "per viatjar"
     fix_distractors:
       - text: "a viatjar"
-        why: "Aquí *estalvien* vol dir guardar diners: la finalitat va amb *per*."
+        why: "Aquí *estalvien* vol dir guardar diners: la finalitat va amb *per* (o *per a*)."
       - text: "de viatjar"
-        why: "«Cada mes de viatjar» no té sentit. La finalitat va amb *per*."
-    explanation: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per*."
+        why: "«Cada mes de viatjar» no té sentit. La finalitat va amb *per* (o *per a*)."
+    explanation: "*Para* és castellà. La finalitat davant d'infinitiu es fa amb *per* (o *per a*)."
 
   - id: b1-25-064
     type: order

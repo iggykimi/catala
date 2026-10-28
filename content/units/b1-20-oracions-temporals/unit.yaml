@@ -150,9 +150,9 @@ items:
     answer: "Quan"
     distractors:
       - text: "Mentre"
-        why: "*Mentre* porta indicatiu: *mentre arribo*. Amb el subjuntiu «arribi», la conjunció és *quan*."
-      - text: "Perquè"
-        why: "*Perquè* és causa i porta indicatiu. Aquí parlem d'un moment del futur: *quan*."
+        why: "*Mentre* uneix dues accions que duren alhora; arribar és un moment: *quan*."
+      - text: "Si"
+        why: "*Si* no va amb present de subjuntiu: *si arribo*. Aquí parlem d'un moment del futur: *quan*."
     explanation: "«Arribi» és subjuntiu de futur. La conjunció de temps per al futur és *quan*."
 
   - id: b1-20-002
@@ -163,7 +163,7 @@ items:
     answer: "Quan"
     distractors:
       - text: "Mentre"
-        why: "*Mentre* + subjuntiu no és correcte: *mentre surto*."
+        why: "*Mentre* uneix dues accions que duren alhora; sortir és un moment: *quan*."
       - text: "Com que"
         why: "*Com que* és causa i porta indicatiu: *com que surto tard*."
     explanation: "«Surti» és subjuntiu: parlem d'un moment de demà. La conjunció és *quan*."
@@ -178,7 +178,7 @@ items:
       - text: "reps"
         why: "«Reps» és indicatiu. Darrere de *quan* amb valor de futur va el subjuntiu: *rebis*."
       - text: "rebràs"
-        why: "Darrere de *quan* no va mai el futur: va el subjuntiu *rebis*."
+        why: "Darrere del *quan* de temps no va el futur: va el subjuntiu *rebis*."
     explanation: "«Demà» diu que és futur: darrere de *quan* va el subjuntiu *rebis*."
 
   - id: b1-20-004
@@ -189,7 +189,7 @@ items:
     answer: "arribo"
     distractors:
       - text: "arribi"
-        why: "«Arribi» és futur. Aquí «cada matí» marca un costum: *arribo*."
+        why: "«Arribi» és subjuntiu, per a un fet futur. Aquí «cada matí» marca un costum: *arribo*."
       - text: "arribaré"
         why: "«Arribaré» és futur. Un costum va en present: *arribo*."
     explanation: "«Cada matí» és un costum, no un futur: *quan* + present d'indicatiu."
@@ -262,7 +262,7 @@ items:
     answers: ["quan"]
     wrong_answers:
       - text: "mentre"
-        why: "«Plegui» és subjuntiu; *mentre* porta indicatiu: *mentre plego*."
+        why: "*Mentre* uneix dues accions que duren alhora; plegar és un moment: *quan*."
     grading: tolerant
     explanation: "«Plegui» és subjuntiu de futur: la conjunció és *quan*."
 
@@ -315,7 +315,7 @@ items:
       - text: "arribes"
         why: "«Arribes» és indicatiu; darrere de *quan* amb valor de futur va el subjuntiu: *arribis*."
       - text: "arribaràs"
-        why: "Darrere de *quan* no va mai el futur."
+        why: "Darrere del *quan* de temps no va el futur."
     grading: tolerant
     explanation: "Encara no hi has arribat: és futur. Darrere de *quan* va el subjuntiu *arribis*."
 
@@ -328,7 +328,7 @@ items:
     answers: ["va rebre"]
     wrong_answers:
       - text: "rebi"
-        why: "«Rebi» és futur; un fet passat va en indicatiu: *va rebre*."
+        why: "«Rebi» és subjuntiu, per a un fet futur; un fet passat va en indicatiu: *va rebre*."
     grading: tolerant
     explanation: "És un fet passat i acabat: *quan* + indicatiu (*va rebre*)."
 
@@ -343,7 +343,7 @@ items:
       - text: "està"
         why: "«Està» és indicatiu; darrere de *quan* amb valor de futur va el subjuntiu: *estigui*."
       - text: "estarà"
-        why: "Darrere de *quan* no va el futur: va el subjuntiu *estigui*."
+        why: "Darrere del *quan* de temps no va el futur: va el subjuntiu *estigui*."
     grading: tolerant
     explanation: "La gestora encara no és lliure: és futur. *Quan estigui lliure*."
 
@@ -405,9 +405,9 @@ items:
     answer: "tinc"
     distractors:
       - text: "tingui"
-        why: "«Tingui» és futur. Un costum va en present: *tinc*."
+        why: "«Tingui» és subjuntiu, per a un fet futur. Un costum va en present d'indicatiu: *tinc*."
       - text: "tindré"
-        why: "«Tindré» és futur, i darrere de *quan* no va mai el futur."
+        why: "«Tindré» és futur, i darrere del *quan* de temps no va el futur."
     explanation: "És un costum, no un futur: *quan* + present d'indicatiu."
 
   - id: b1-20-022
@@ -432,8 +432,8 @@ items:
     distractors:
       - text: "acabi"
         why: "«Acabi» és subjuntiu de futur. Un fet passat va en indicatiu: *va acabar*."
-      - text: "acabés"
-        why: "«Acabés» és subjuntiu. Un fet real i passat va en indicatiu: *va acabar*."
+      - text: "acabarà"
+        why: "«Acabarà» és futur, però la trucada ja va passar: *va acabar*."
     explanation: "*Després que* + indicatiu: és un fet passat (*va acabar*)."
 
   - id: b1-20-024
@@ -510,29 +510,29 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "Mentres esperes el teu torn, omple aquest imprès."
-    error: "Mentres"
+    sentence: "Mientras esperes el teu torn, omple aquest imprès."
+    error: "Mientras"
     fix: "Mentre"
     fix_distractors:
-      - text: "Mientras"
-        why: "«Mientras» és castellà; en català és *mentre*."
+      - text: "Mentrestant"
+        why: "*Mentrestant* és un adverbi («mentre passa això»); per unir dues frases cal *mentre*."
       - text: "Durant"
         why: "«Durant» va amb un nom: *durant l'espera*."
-    explanation: "En català és *mentre*, sense *-s*. «Mentres» és un calc de «mientras»."
+    explanation: "«Mientras» és castellà. En català, per unir dues accions que passen alhora, *mentre*."
 
   - id: b1-20-031
     type: find-error
     point: mentre-fins-altres
     lesson: 3
-    sentence: "Mentre esperis el metge, llegeix aquest fullet."
-    error: "esperis"
-    fix: "esperes"
+    sentence: "Cada dia, mentre esperi el bus, llegeixo el diari."
+    error: "esperi"
+    fix: "espero"
     fix_distractors:
-      - text: "esperaràs"
-        why: "Les dues accions passen ara: present, no futur."
-      - text: "esperaries"
-        why: "El condicional no hi fa res: *mentre* amb present és *esperes*."
-    explanation: "*Mentre* porta indicatiu: dues accions que passen alhora, *mentre esperes*."
+      - text: "esperaré"
+        why: "És un costum de cada dia: present, no futur."
+      - text: "esperaria"
+        why: "El condicional no encaixa amb un costum: *espero*."
+    explanation: "És un costum: dues accions alhora cada dia, *mentre* + present d'indicatiu, *mentre espero*."
 
   - id: b1-20-032
     type: find-error
@@ -555,7 +555,7 @@ items:
       - text: "esperin"
         why: "«Esperin» és «ells»; aquí parlem de «vosaltres»: *espereu*."
     grading: tolerant
-    explanation: "*Mentre* porta indicatiu: *mentre espereu*."
+    explanation: "Dues accions que passen alhora: *mentre espereu*."
 
   - id: b1-20-034
     type: fill
@@ -617,22 +617,22 @@ items:
     type: choice
     point: mentre-fins-altres
     lesson: 3
-    prompt: "«Mentre la gestora ___ l'expedient, espera fora.»"
-    answer: "revisa"
+    prompt: "«Mentre la gestora ___ l'expedient, la Núria esperava fora.»"
+    answer: "revisava"
     distractors:
       - text: "revisi"
-        why: "«Revisi» és subjuntiu. *Mentre* porta indicatiu: *revisa*."
+        why: "«Revisi» és present de subjuntiu, però parlem del passat: *revisava*."
       - text: "revisarà"
-        why: "Les dues accions passen ara: present, no futur."
-    explanation: "Dues accions alhora en present: *mentre* + indicatiu (*revisa*)."
+        why: "Les dues accions són del passat, no del futur: *revisava*."
+    explanation: "Dues accions alhora en el passat: *mentre* + imperfet d'indicatiu (*revisava*)."
 
   - id: b1-20-039
     type: inline-choice
     point: compte-castella
     lesson: 3
     title: "Avís a la sala d'espera"
-    text: "{Abans|Antes|Abans de} que passi el metge, apagueu el mòbil. Espereu-vos {fins que|fins a que|fins a} us cridin. {Mentre|Mentres|Mientras} espereu, prepareu la targeta sanitària."
-    explanation: "Davant de *que* cau la preposició: *abans que*, *fins que*. *Mentre* no porta *-s*."
+    text: "{Abans|Antes|Abans de} que passi el metge, apagueu el mòbil. Espereu-vos {fins que|fins a que|fins a} us cridin. {Mentre|Mentrestant|Mientras} espereu, prepareu la targeta sanitària."
+    explanation: "Davant de *que* cau la preposició: *abans que*, *fins que*. Per unir dues accions alhora, *mentre* (*mentrestant* és un adverbi i «mientras» és castellà)."
 
   # ---------------- Lliçó 4 ----------------
   - id: b1-20-040
@@ -646,7 +646,7 @@ items:
       - "T'aviso de seguida quan rebi el certificat."
     wrong_answers:
       - text: "Quan rebré el certificat, t'aviso de seguida."
-        why: "Darrere de *quan* no va el futur: va el subjuntiu *rebi*."
+        why: "Darrere del *quan* de temps no va el futur: va el subjuntiu *rebi*."
     grading: tolerant
     explanation: "És futur: *quan* + subjuntiu (*rebi*)."
 
@@ -663,21 +663,21 @@ items:
       - text: "Quan tindràs el DNI nou, vine a l'oficina."
         why: "«Tindràs» és futur: darrere de *quan* va el subjuntiu *tinguis*."
     grading: tolerant
-    explanation: "Darrere de *quan* no va mai el futur: va el subjuntiu *tinguis*."
+    explanation: "Darrere del *quan* de temps no va el futur: va el subjuntiu *tinguis*."
 
   - id: b1-20-042
     type: transform
     point: abans-despres
     lesson: 4
-    instruction: "Ara qui surt és «els clients»: canvia el final de la frase."
-    source: "Tanca la porta [[abans de sortir]]."
+    instruction: "Ara qui arriba és «els clients»: canvia el final de la frase."
+    source: "Prepara els impresos [[abans d'arribar]]."
     answers:
-      - "Tanca la porta abans que surtin els clients."
-      - "Abans que surtin els clients, tanca la porta."
-      - "Tanca la porta abans que els clients surtin."
-      - "Abans que els clients surtin, tanca la porta."
+      - "Prepara els impresos abans que arribin els clients."
+      - "Abans que arribin els clients, prepara els impresos."
+      - "Prepara els impresos abans que els clients arribin."
+      - "Abans que els clients arribin, prepara els impresos."
     wrong_answers:
-      - text: "Tanca la porta abans de que surtin els clients."
+      - text: "Prepara els impresos abans de que arribin els clients."
         why: "«Abans de que» és un calc de «antes de que»: en català és *abans que*."
     grading: tolerant
     explanation: "Amb un verb conjugat i un altre subjecte és *abans que* + subjuntiu."
@@ -691,6 +691,8 @@ items:
     answers:
       - "Després que en Pau va signar, et van donar el rebut."
       - "Et van donar el rebut després que en Pau va signar."
+      - "Després que va signar en Pau, et van donar el rebut."
+      - "Et van donar el rebut després que va signar en Pau."
     wrong_answers:
       - text: "Després de que en Pau va signar, et van donar el rebut."
         why: "«Després de que» és un calc del castellà: en català és *després que*."
@@ -729,7 +731,7 @@ items:
       - "Mentre omplo el formulari, espero el meu torn."
     wrong_answers:
       - text: "Mentre esperi el meu torn, omplo el formulari."
-        why: "*Mentre* porta indicatiu: *espero*."
+        why: "Les dues accions passen ara: *mentre* + present d'indicatiu, *espero*."
     grading: tolerant
     explanation: "Dues accions alhora: *mentre* + indicatiu (*espero*)."
 
@@ -785,7 +787,7 @@ items:
     answers: ["van cridar"]
     wrong_answers:
       - text: "cridin"
-        why: "«Cridin» és futur; un fet acabat va en passat: *van cridar*."
+        why: "«Cridin» és subjuntiu, per a un fet futur; un fet acabat va en passat: *van cridar*."
     grading: tolerant
     explanation: "L'espera ja s'ha acabat: *fins que* + passat (*van cridar*)."
 
@@ -820,7 +822,7 @@ items:
     type: order
     point: mentre-fins-altres
     lesson: 4
-    cue: "Prometeu que avisareu la Carla tan bon punt tingueu la resposta."
+    cue: "Explica als teus companys que avisaran la Carla tan bon punt tinguin la resposta."
     chunks: ["avisareu", "la Carla", "tan bon punt", "tingueu", "la resposta"]
     extra: ["tindreu"]
     answers:
@@ -837,7 +839,7 @@ items:
     text: |
       La Fàtima s'ha traslladat a Mataró i vol entrar al padró: ha d'empadronar-se. Com que no té cita prèvia, arriba a l'oficina d'atenció a les vuit, abans que obrin. Quan obren la porta, agafa un tiquet i s'asseu a la sala d'espera.
 
-      Mentre espera el seu torn, omple el formulari de sol·licitud. Li demanen el DNI, una fotocòpia del contracte de lloguer i el número de compte. Quan li falta una dada, truca a en Pau, que li envia una foto del contracte d'un moment a l'altre.
+      Mentre espera el seu torn, omple el formulari de sol·licitud. Li demanen el DNI, una fotocòpia del contracte de lloguer i el número de compte. Quan li falta una dada del contracte, truca a en Pau, que li envia una foto de seguida.
 
       Al cap d'una hora l'atenen: el funcionari la crida i revisa els papers. Li explica que hi falta la signatura. La Fàtima signa de seguida i paga una taxa de deu euros al taulell. El funcionari posa el segell al rebut i li diu que, quan tinguin la resolució, li enviaran una notificació al mòbil.
 
@@ -861,14 +863,14 @@ items:
         answer: "Hi falta la signatura de la Fàtima."
         distractors:
           - text: "Hi falta la fotocòpia del contracte."
-            why: "La fotocòpia sí que la porta."
+            why: "El funcionari només diu que hi falta la signatura."
           - text: "No porta el número de compte."
-            why: "El número de compte l'omple al formulari sense problemes."
+            why: "El funcionari només diu que hi falta la signatura."
       - prompt: "Com sabrà la Fàtima que ja té la resolució?"
         answer: "Li enviaran un avís al mòbil."
         distractors:
           - text: "El funcionari li trucarà d'un moment a l'altre."
-            why: "«D'un moment a l'altre» és quan en Pau envia la foto."
+            why: "El text diu que li enviaran una notificació al mòbil, no que li trucaran."
           - text: "Haurà de tornar divendres a preguntar-ho."
             why: "No ha de tornar: l'avisaran."
     explanation: "El text explica com la Fàtima fa el tràmit d'empadronament en un matí."
@@ -897,6 +899,8 @@ items:
     answers:
       - "Quan la gestora va arribar, ens va avisar."
       - "Ens va avisar quan la gestora va arribar."
+      - "Quan va arribar la gestora, ens va avisar."
+      - "Ens va avisar quan va arribar la gestora."
     wrong_answers:
       - text: "Quan la gestora arribi, ens avisarà."
         why: "Això és futur; per a un fet d'ahir cal el passat."
@@ -970,7 +974,7 @@ items:
     lesson: 5
     prompt: "No deixis la sol·licitud per a ___: el termini acaba divendres."
     hint: "expressió: al final, quan gairebé és tard"
-    answers: ["última hora"]
+    answers: ["última hora", "l'última hora"]
     wrong_answers:
       - text: "últim hora"
         why: "«Hora» és femení: *última hora*."
@@ -988,7 +992,7 @@ items:
       - text: "està"
         why: "«Està» és indicatiu; darrere de *quan* amb valor de futur va el subjuntiu."
       - text: "estarà"
-        why: "Darrere de *quan* no va el futur."
+        why: "Darrere del *quan* de temps no va el futur."
     grading: tolerant
     explanation: "Encara no és llesta: és futur. *Quan estigui llesta*."
 
@@ -1009,7 +1013,7 @@ items:
     point: quan-subjuntiu
     lesson: 5
     title: "Correu de l'oficina"
-    text: "Benvolguda Carla: {quan|mentre|fins que} vam rebre la sol·licitud, vam obrir l'expedient 214. {Abans|Després|Fins} que el tanquem, necessitem una fotocòpia del DNI. Envieu-la {abans|després|fins} de divendres, que és l'últim dia. Us avisarem {quan|mentre|perquè} tinguem la resolució."
+    text: "Benvolguda Carla: {quan|mentre|fins que} vam rebre la sol·licitud, vam obrir l'expedient 214. {Abans|Després|Fins} que el tanquem, necessitem una fotocòpia del DNI. Envia-la {abans|després|fins} de divendres, que és l'últim dia. T'avisarem {quan|mentre|perquè} tinguem la resolució."
     explanation: "*Quan* + passat per a un fet (*vam rebre*). *Abans que* + subjuntiu (*tanquem*). L'últim dia és divendres: *abans de* divendres. *Quan* + subjuntiu per al futur (*tinguem*)."
 
   - id: b1-20-065

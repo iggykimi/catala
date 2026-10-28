@@ -30,14 +30,14 @@ Per dir on és algú o alguna cosa fem servir *ser*.
 - Persones: **En Pau és a la feina.**
 - Coses: **Els llibres són a l'habitació.**
 - Llocs: **La farmàcia és al carrer Major.**
-- En la conversa també se sent *està a casa*. Aquí practiquem *és*, la forma estàndard.
+- També se sent *està a casa*. Aquí practiquem *és*, la forma preferida.
 
 > **Compte!** Amb *casa* fem servir *a*: ~~és en casa~~ → **és a casa**.
 
 <!-- point: haver-hi -->
 ## Haver-hi: dir que una cosa existeix
 
-Per dir que una cosa existeix en un lloc fem servir *haver-hi*. En la llengua estàndard no canvia mai.
+Per dir que una cosa existeix en un lloc fem servir *haver-hi*. En registre formal no canvia mai.
 
 > **Al barri hi ha tres escoles.**
 
@@ -71,14 +71,14 @@ Per dir que una cosa existeix en un lloc fem servir *haver-hi*. En la llengua es
 
 - Al telèfon: **Sí, hi és.** **No, no hi és.**
 - En preguntes: **Hi són els teus pares?**
-- El pronom *hi* va sempre davant del verb.
+- Amb el verb conjugat, el pronom *hi* va davant: **hi és**, **no hi són**.
 
 > **Compte!** ~~Sí, és~~ → **Sí, hi és**. Sense *hi*, la resposta no és completa.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: estar i hi han
 
-En castellà, la localització es fa amb *estar*. En català estàndard, amb *ser*.
+En castellà, la localització es fa amb *estar*. En català, la forma preferida és *ser*.
 
 > «Está en casa» → **És a casa.**
 

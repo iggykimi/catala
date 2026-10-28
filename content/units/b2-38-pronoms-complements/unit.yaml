@@ -708,9 +708,9 @@ items:
     lesson: 4
     instruction: "Substitueix la part marcada per un pronom."
     source: "La Carla diu que la multa [[és injusta]]."
-    answers: ["La Carla diu que ho és."]
+    answers: ["La Carla diu que la multa ho és.", "La Carla diu que ho és."]
     wrong_answers:
-      - text: "La Carla diu que hi és."
+      - text: "La Carla diu que la multa hi és."
         why: "«Injusta» és l'atribut: *ho*."
     grading: tolerant
     explanation: "«Injusta» és l'atribut: se substitueix per *ho*."
@@ -721,7 +721,7 @@ items:
     lesson: 4
     instruction: "Substitueix les parts marcades per pronoms."
     source: "El jurat va declarar [[l'acusat]] [[culpable]]."
-    answers: ["El jurat l'hi va declarar."]
+    answers: ["El jurat l'hi va declarar.", "El jurat va declarar-l'hi."]
     wrong_answers:
       - text: "El jurat li ho va declarar."
         why: "«L'acusat» és el CD (*el*) i «culpable» el predicatiu (*hi*): *l'hi va declarar*."
@@ -736,14 +736,14 @@ items:
     lesson: 4
     instruction: "Substitueix les parts marcades per pronoms."
     source: "L'advocada va explicar [[la sentència]] [[a l'acusat]]."
-    answers: ["L'advocada la hi va explicar."]
+    answers: ["L'advocada la hi va explicar.", "L'advocada va explicar-la-hi.", "L'advocada li la va explicar.", "L'advocada va explicar-li-la."]
     wrong_answers:
       - text: "L'advocada les hi va explicar."
         why: "«La sentència» és singular: *la hi va explicar*."
       - text: "L'advocada l'hi va explicar."
         why: "«La sentència» és femení: *la hi va explicar*."
     grading: tolerant
-    explanation: "«La sentència» és el CD (*la*) i «a l'acusat» el CI (*li*): *li* + *la* esdevé «la hi»."
+    explanation: "«La sentència» és el CD (*la*) i «a l'acusat» el CI (*li*): en català central, *li* + *la* esdevé *la hi* (també es diu *li la*)."
 
   - id: b2-38-046
     type: transform
@@ -751,7 +751,7 @@ items:
     lesson: 4
     instruction: "Substitueix les parts marcades per pronoms."
     source: "El fiscal va demanar [[l'expedient]] [[al jutjat]]."
-    answers: ["El fiscal l'hi va demanar."]
+    answers: ["El fiscal l'hi va demanar.", "El fiscal va demanar-l'hi.", "El fiscal li'l va demanar.", "El fiscal va demanar-li'l."]
     wrong_answers:
       - text: "El fiscal ho va demanar."
         why: "«Ho» no substitueix un nom definit com «l'expedient»: *l'hi va demanar*."
@@ -1003,14 +1003,14 @@ items:
     type: match
     point: en-complements
     lesson: 5
-    instruction: "Relaciona cada verb amb el complement que regeix."
+    instruction: "Relaciona cada frase amb la seva forma amb pronom."
     pairs:
-      - ["parlar", "de la sentència"]
-      - ["queixar-se", "de la multa"]
-      - ["dependre", "del jurat"]
-      - ["penedir-se", "del delicte"]
-      - ["informar-se", "de les proves"]
-    explanation: "Aquests verbs regeixen *de*: el complement se substitueix per *en* («parlar-ne», «queixar-se'n», «dependre'n», «penedir-se'n», «informar-se'n»)."
+      - ["Parla de la sentència.", "En parla."]
+      - ["Es queixa de la multa.", "Se'n queixa."]
+      - ["Depèn del jurat.", "En depèn."]
+      - ["Es penedeix del delicte.", "Se'n penedeix."]
+      - ["S'informa de les proves.", "Se n'informa."]
+    explanation: "Aquests verbs regeixen *de*: el complement se substitueix per *en* («en parla», «se'n queixa», «en depèn», «se'n penedeix», «se n'informa»)."
 
   - id: b2-38-064
     type: choice

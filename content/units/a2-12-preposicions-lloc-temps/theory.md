@@ -16,7 +16,7 @@ On vius? La resposta porta *a* o *en*.
 - **A** Barcelona, **a** casa, **a** l'hospital.
 - **En** un restaurant del centre, **en** aquell hotel.
 
-> **Compte!** ~~en Barcelona~~ → **a Barcelona**. ~~en l'escola~~ → **a l'escola**.
+> **Compte!** ~~en Barcelona~~ → **a Barcelona**. ~~en casa~~ → **a casa**.
 
 <!-- point: origen-desti -->
 ## Origen i destí

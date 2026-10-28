@@ -15,7 +15,7 @@ Davant de vocal o de *h*, *el* i *la* perden la vocal: *l'amic*, *l'escola*.
 | *es* ven | **s'**ha venut |
 | *en* tinc | **n'**he comprat |
 
-- *La* no s'apostrofa davant de *i* o *u* àtones + vocal: **la idea**, **la història**, **la universitat**, **la una**.
+- *La* no s'apostrofa davant de *i* o *u* àtones, amb *h* o sense: **la idea**, **la història**, **la universitat**. Tampoc en **la una** (l'hora).
 - *De* + *el* es contreu: **del** banc. Davant de *l'* hi va un espai: **de l'**oli.
 - *Hi*, *ho* i *li* no s'apostrofen mai: **hi ha**, **ho sé**, **li agrada**. Tampoc *que*: **que ell** ho pagui.
 - Darrere d'un imperatiu acabat en vocal també apostrofem: **truca'm**, **compra'l**, **renta't**, **compra'n**.

@@ -99,7 +99,7 @@ vocabulary:
     definition: "El sentiment de pena."
     example: "La tristesa marxarà amb el temps."
   - word: "la vergonya"
-    definition: "El sentiment quan fem una cosa que no calia."
+    definition: "El sentiment de qui ha fet el ridícul o se sent observat."
     example: "Quina vergonya: m'he equivocat de porta."
   - word: "la ràbia"
     definition: "Un enuig molt fort."
@@ -231,7 +231,7 @@ items:
     point: ho-neutre
     lesson: 1
     title: "Un missatge de l'Arnau"
-    text: "Hola, Laia. Ja {ho|el} sé, que demà plourà: {ho|el} ha dit el meteoròleg. Si vols, {ho|el} comentem a la feina. Jo no {ho|la} entenc: tot canvia cada dia, però el meu avi tampoc {ho|el} entén."
+    text: "Hola, Laia. Ja {ho|el} sé, que demà plourà: {ho|el} ha dit el meteoròleg. Si vols, {ho|el} comentem a la feina. Jo no {ho|la} entenc: tot canvia cada dia, i el meu avi tampoc {ho|el} entén."
     explanation: "En tots els forats substituïm una idea: *ho*. *El* i *la* només van amb un nom concret."
 
   - id: b1-16-009
@@ -328,7 +328,7 @@ items:
     lesson: 2
     prompt: "—Saps el número de l'Ibrahim? —Sí, ___ sé de memòria."
     hint: "pronom per a «el número»"
-    answers: ["el"]
+    answers: ["el", "me'l"]
     wrong_answers:
       - text: "ho"
         why: "*Ho* és per a una idea. «El número» és un nom masculí concret: *el*."
@@ -501,15 +501,15 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "—T'han dit que demà tanquem? —Sí, ja entenc."
-    error: "ja entenc"
-    fix: "ja ho entenc"
+    sentence: "—Vindràs a la festa? —Sí, et prometo."
+    error: "et prometo"
+    fix: "t'ho prometo"
     fix_distractors:
-      - text: "ja l'entenc"
-        why: "*El* necessitaria un nom masculí, i aquí no n'hi ha cap: és la idea «que demà tanquem», *ho*."
-      - text: "ja hi entenc"
+      - text: "te'l prometo"
+        why: "*El* necessitaria un nom masculí, i aquí no n'hi ha cap: és la idea «que vindré», *ho*."
+      - text: "t'hi prometo"
         why: "*Hi* és per a un lloc. Aquí és una idea: *ho*."
-    explanation: "«Ja entenc» és un calc del castellà «ya entiendo». En català, el pronom és obligatori: *ja ho entenc*."
+    explanation: "*Prometre* necessita el complement. Si no repetim la idea («que vindré»), cal *ho*: *t'ho prometo*."
 
   - id: b1-16-031
     type: find-error
@@ -690,10 +690,10 @@ items:
     point: ho-posicio
     lesson: 4
     instruction: "Substitueix la part marcada per un pronom. Hi ha dues respostes possibles."
-    source: "Vull saber [[si vindràs]] diumenge."
-    answers: ["Ho vull saber diumenge.", "Vull saber-ho diumenge."]
+    source: "Vull saber [[si vindràs diumenge]]."
+    answers: ["Ho vull saber.", "Vull saber-ho."]
     wrong_answers:
-      - text: "El vull saber diumenge."
+      - text: "El vull saber."
         why: "*El* seria un nom masculí. «Si vindràs» és una idea: *ho*."
     grading: tolerant
     explanation: "Amb un modal, *ho* va davant (*ho vull saber*) o darrere de l'infinitiu (*vull saber-ho*)."
@@ -756,7 +756,7 @@ items:
     lesson: 4
     prompt: "—Vols cafè o prefereixes te? —Tant ___."
     hint: "expressió: igual"
-    answers: ["m'és"]
+    answers: ["m'és", "me fa", "hi fa"]
     wrong_answers:
       - text: "ho és"
         why: "L'expressió és *tant m'és*, amb el pronom *m'*, no *ho*."
@@ -773,6 +773,7 @@ items:
     extra: ["el"]
     answers:
       - "Ho has de fer avui."
+      - "Avui ho has de fer."
     explanation: "Davant del verb conjugat: *ho has de fer*. L'altra posició seria *has de fer-ho avui*."
 
   - id: b1-16-051
@@ -810,9 +811,9 @@ items:
 
       Al gener, la Carla ho explica als seus pares. S'esperava un enuig i una discussió, però el seu pare, un home sincer, ho entén de seguida: ell també va canviar de feina als quaranta anys. La seva mare està nerviosa: és molt impacient i li fa moltes preguntes. Li fa pena veure-la trista. Però al cap d'una setmana es calma.
 
-      El canvi li feia una mica de por, però al març la Carla ho decideix: deixa el banc i comença un curs per ser infermera. «No ho sé pas, si podré», diu el primer dia, perquè preguntar li fa vergonya, «però ho intentaré amb calma». Les companyes són alegres, simpàtiques i pacients, i els professors són generosos i tenen molta paciència. La Carla confia en ells.
+      El canvi li feia una mica de por, però al març la Carla ho decideix: deixa el banc i comença un curs per ser infermera. «No ho sé pas, si podré», diu el primer dia, «però ho intentaré amb calma». Les companyes són alegres, simpàtiques i pacients, i els professors són generosos i tenen molta paciència. La Carla confia en ells.
 
-      Ara la Carla està contenta i sempre és de bon humor: l'alegria ha tornat i la tristesa ha marxat. «Ho sé: guanyaré menys diners», diu rient, «però soc molt més feliç. Si ets valent, ja ho veuràs: tot canvia». Els seus pares estan orgullosos d'ella: sempre ha estat una noia sensible.
+      Ara la Carla està contenta i sempre de bon humor: l'alegria ha tornat i la tristesa ha marxat. «Ho sé: guanyaré menys diners», diu rient, «però soc molt més feliç. Si ets valent, ja ho veuràs: tot canvia». Els seus pares estan orgullosos d'ella: sempre ha estat una noia sensible.
     questions:
       - prompt: "Per què vol canviar de feina, la Carla?"
         answer: "Perquè la feina del banc l'avorreix."
@@ -824,7 +825,7 @@ items:
       - prompt: "Com reacciona el pare quan la Carla ho explica?"
         answer: "Ho accepta bé: ell també va canviar de feina."
         distractors:
-          - text: "Es discuteix amb ella durant dies."
+          - text: "Discuteix amb ella durant dies."
             why: "El text diu que s'esperava una discussió, però no n'hi ha cap."
           - text: "Es posa nerviós i li fa preguntes."
             why: "Qui es posa nerviosa és la mare, no el pare."
@@ -855,7 +856,7 @@ items:
       - text: "No l'entenc."
         why: "*El* seria un nom masculí. «El que dius» és una idea: *ho*."
       - text: "No entenc."
-        why: "Sense *ho* la frase queda incompleta: si no repetim la idea, cal el pronom."
+        why: "Has de substituir «el que dius» per un pronom: *no ho entenc*."
     grading: tolerant
     explanation: "«El que dius» és una idea, no un nom: *no ho entenc*."
 
@@ -891,7 +892,7 @@ items:
     point: compte-castella
     lesson: 5
     title: "La Núria està trista"
-    text: "La Núria està trista des de dilluns. Jo ja {ho|∅} sé, però no {ho|∅} acabo d'entendre. Diu que a la feina tot va bé. Demà {ho|∅} comentarem amb calma i, si cal, {ho|∅} explicarem al cap."
+    text: "La Núria està trista des de dilluns. Jo ja {ho|∅} sé, però no {ho|∅} trobo normal. Diu que a la feina tot va bé. Demà {ho|∅} comentarem amb calma i, si cal, {ho|∅} explicarem al cap."
     explanation: "Si la idea no es repeteix, *ho* és obligatori: els quatre forats necessiten *ho*."
 
   - id: b1-16-058
@@ -985,7 +986,7 @@ items:
     type: fill
     point: ho-atribut
     lesson: 5
-    prompt: "—Sembla simpàtica, la veïna nova. —Sí, ___ sembla molt."
+    prompt: "—Sembla simpàtica, la veïna nova. —Sí, ___ sembla."
     hint: "pronom per a «simpàtica»"
     answers: ["ho"]
     wrong_answers:

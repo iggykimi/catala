@@ -20,7 +20,7 @@ Els parònims són paraules que s'assemblen però signifiquen coses diferents. E
 - **Infringir** porta una norma darrere; **infligir** porta un càstig.
 - **Prevenir** és actuar contra una amenaça; **preveure** és dir què passarà.
 
-> **Compte!** ~~una mesura eficient que sempre funciona~~ → una mesura **eficaç**. ~~Té bona aptitud amb els clients~~ → bona **actitud**. ~~infligir les normes~~ → **infringir** les normes. ~~preveure els incendis amb un extintor~~ → **prevenir** els incendis.
+> **Compte!** ~~una mesura eficient que sempre funciona~~ → una mesura **eficaç**. ~~Té bona aptitud amb els clients~~ → bona **actitud**. ~~infligir les normes~~ → **infringir** les normes. ~~preveure els incendis netejant el bosc~~ → **prevenir** els incendis.
 
 <!-- point: sinonims -->
 ## Sinònims per variar el text
@@ -36,7 +36,7 @@ Els sinònims diuen gairebé el mateix amb una altra paraula. Serveixen per no r
 
 Dos sinònims no sempre es poden intercanviar. A l'ordinador, l'expressió fixa és **iniciar la sessió**. I el gènere pot canviar: *un error* és masculí i *una errada* és femení, de manera que l'article també canvia.
 
-> **Compte!** ~~He tret el model més barat~~ → He **triat** (o **escollit**) el model més barat. *Treure* és treure una cosa d'un lloc; *trair* és enganyar la confiança d'algú.
+> **Compte!** ~~He tret el model més barat~~ → He **triat** (o **escollit**) el model més barat. *Treure* és fer sortir una cosa d'un lloc; *trair* és enganyar la confiança d'algú.
 
 <!-- point: antonims-prefixos -->
 ## Antònims amb prefixos

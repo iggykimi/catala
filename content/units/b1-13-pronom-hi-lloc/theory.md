@@ -31,7 +31,7 @@ Molts verbs de moviment porten *hi* quan el lloc ja ha sortit: *anar-hi*, *venir
 També porten *hi* dos verbs de trobada i permanència: *quedar-hi* (citar-s'hi) i *quedar-s'hi* (no marxar).
 
 - Hem quedat a la plaça: **hi** hem quedat a les sis.
-- Es queda a casa la mare: **s'hi** queda fins demà.
+- Es queda a casa de la mare: **s'hi** queda fins demà.
 
 > **Compte!** No confonguis *quedar-hi* (citar-se: ***hi*** *hem quedat*) amb *quedar-s'hi* (no marxar: ***s'hi*** *queda*).
 
@@ -56,12 +56,12 @@ Amb un verb modal hi ha dues posicions: **hi** vull anar o vull anar-**hi**.
 <!-- point: compte-castella -->
 ## Compte amb el castellà: no ometre *hi*
 
-En castellà, el pronom pot desaparèixer: «voy cada día». En català, amb verbs com *anar*, *tornar* o *viure*, si no repetim el lloc, *hi* és obligatori. Si el lloc hi és, no cal pronom: *Vaig a la piscina cada dia*.
+En castellà no hi ha cap pronom: «voy cada día». En català, amb verbs com *anar*, *ser* (ser en un lloc) o *viure*, si no repetim el lloc, *hi* és obligatori. Si el lloc hi és, no cal pronom: *Vaig a la piscina cada dia*.
 
 - ~~—Vas a la platja? —Sí, vaig.~~ → **—Sí, hi vaig.**
 - ~~—Vius a Vic? —Sí, visc.~~ → **—Sí, hi visc.**
-- ~~—Vindràs a la festa? —Sí, vindré.~~ → **—Sí, hi vindré.**
-- ~~No vaig ser a temps.~~ → **No hi vaig ser a temps.**
+- ~~—Anireu a la festa? —Sí, anirem.~~ → **—Sí, hi anirem.**
+- ~~—Vas ser a la reunió? —No, no vaig ser.~~ → **—No, no hi vaig ser.**
 
 > **Compte!** Pregunta't on. Si la resposta no diu el lloc ni porta *hi*, segurament falta *hi*.
 

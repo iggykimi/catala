@@ -14,7 +14,7 @@ Quan l'acció de la frase amb *quan* encara no ha passat, el verb va en present 
 - La frase amb *quan* pot anar davant o darrere: **Quan rebi el justificant, te l'envio** o **Te l'envio quan rebi el justificant**.
 - Les formes del subjuntiu són les de la unitat b1-18: *arribis, tinguis, rebis, puguis, facis, vagis*.
 
-> **Compte!** ~~Quan vindràs~~ → **Quan vinguis**: darrere de *quan* no va mai el futur.
+> **Compte!** ~~Quan vindràs~~ → **Quan vinguis**: darrere del *quan* de temps no va el futur.
 
 <!-- point: abans-despres -->
 ## Abans que, abans de, després que, després de
@@ -23,14 +23,14 @@ Quan l'acció de la frase amb *quan* encara no ha passat, el verb va en present 
 
 > **Abans que marxis**, signa el formulari. **Abans de marxar**, signa el formulari.
 
-*Després que* porta un verb conjugat en indicatiu (un fet, normalment passat). *Després de* porta un infinitiu.
+*Després que* porta un verb conjugat: per a un fet passat, en indicatiu. *Després de* porta un infinitiu.
 
 > **Després que vas signar**, et van donar el rebut. **Després de signar**, et van donar el rebut.
 
 |  | Amb verb conjugat | Amb infinitiu |
 |---|---|---|
 | abans | **abans que** + subjuntiu | **abans de** + infinitiu |
-| després | **després que** + indicatiu | **després de** + infinitiu |
+| després | **després que** + indicatiu (fet passat) | **després de** + infinitiu |
 
 - Per al futur, amb *després* fem servir l'infinitiu: **Després de dinar, truca'ns**.
 
@@ -39,7 +39,7 @@ Quan l'acció de la frase amb *quan* encara no ha passat, el verb va en present 
 <!-- point: mentre-fins-altres -->
 ## Mentre, fins que, tan bon punt, cada vegada que
 
-*Mentre* porta indicatiu: dues accions que passen alhora.
+*Mentre* uneix dues accions que passen alhora. Si passen ara, cada dia o en el passat, porta indicatiu. Amb valor de futur també pot portar subjuntiu (*mentre siguis aquí*), però en aquesta unitat no el practiquem.
 
 > **Mentre esperes**, omple el formulari.
 
@@ -55,7 +55,7 @@ Quan l'acció de la frase amb *quan* encara no ha passat, el verb va en present 
 
 > **Cada vegada que vinc**, hi ha cua. **Cada vegada que vinguis**, porta el DNI.
 
-> **Compte!** ~~Mentre esperis~~ → **Mentre esperes**: *mentre* porta indicatiu.
+> **Compte!** ~~Cada dia, mentre esperi el bus, llegeixo~~ → **Cada dia, mentre espero el bus, llegeixo**: és un costum, i va en indicatiu.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: abans que, fins que, mentre
@@ -65,7 +65,7 @@ En català, davant de *que* no hi ha cap preposició.
 - ~~abans de que~~ → **abans que marxis**
 - ~~després de que~~ → **després que vas signar**
 - ~~fins a que~~ → **fins que et cridin**
-- ~~mentres~~ i ~~mientras~~ → **mentre esperes**
+- ~~mientras~~ → **mentre esperes**
 - ~~antes~~ → **abans de dinar**
 
 > **Compte!** Si veus *de que* o *a que* en una frase de temps, hi sobra la preposició.

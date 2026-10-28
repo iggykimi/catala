@@ -17,18 +17,18 @@ Tres verbs que es confonen amb el castellà.
 
 > El caixer **es va espatllar**. Els aspirants **van acudir** a l'oficina. **Se'm va ocórrer** una idea.
 
-- **espatllar-se**: una màquina o un programa deixa de funcionar. El verb és pronominal: la impressora *s'espatlla*.
-- **acudir**: anar, presentar-se on t'esperen. Cal acudir a la finestreta amb el justificant. *Acudir a les urnes* és anar a votar.
-- **ocórrer-se**: venir una idea al cap. Se'm va ocórrer demanar hora per internet. S'escriu amb *o*: *ocórrer*.
+- **espatllar-se**: una màquina o un programa deixa de funcionar. El verb és pronominal: la impressora *s'espatlla*. També es diu *avariar-se*, amb *a*.
+- **acudir**: anar, presentar-se on t'esperen. Cal acudir a la finestreta amb el justificant. *Acudir a les urnes* és anar a votar. Com a pronominal, també vol dir venir una idea al cap: *se m'ha acudit una idea*.
+- **ocórrer-se**: venir una idea al cap, igual que *acudir-se*. Se'm va ocórrer demanar hora per internet. S'escriu amb *o*: *ocórrer*.
 
-> **Compte!** ~~El caixer es va averiar~~ → El caixer **es va espatllar**. ~~Se'm va acudir una idea~~ → **Se'm va ocórrer** una idea. *Averiar-se* és un castellanisme, i *ocurrir* és la forma castellana.
+> **Compte!** ~~El caixer es va averiar~~ → El caixer **es va espatllar**. ~~Se'm va ocurrir una idea~~ → **Se'm va ocórrer** (o **se'm va acudir**) una idea. *Averiar* i *ocurrir* són les formes castellanes.
 
 <!-- point: assolir-aconseguir -->
 ## Assolir i aconseguir
 
-Tots dos parlen d'èxit, però no es fan servir igual. *Assolir* és arribar a un objectiu, a un nivell o a un acord. *Aconseguir* és obtenir una cosa concreta amb esforç.
+Tots dos parlen d'èxit. *Assolir* s'usa sobretot per dir que s'arriba a un objectiu, a un nivell o a un acord. *Aconseguir* és més general: obtenir una cosa amb esforç, sovint una cosa concreta (però també es pot *aconseguir un acord*).
 
-| Verb | Amb què | Exemple |
+| Verb | Combinacions habituals | Exemple |
 |---|---|---|
 | **assolir** | un acord, els objectius, un nivell, la majoria | El ple va **assolir** un acord. |
 | **aconseguir** | una plaça, un certificat, un ajut, una hora | Va **aconseguir** una plaça. |
@@ -44,12 +44,11 @@ En un text formal (una instància, un avís, un correu a l'administració) hi ha
 |---|---|
 | ~~a nivell de~~, amb el sentit de «quant a» | **quant a**, **pel que fa a** |
 | ~~en base a~~ | **a partir de**, **d'acord amb** |
-| ~~en relació a~~ | **en relació amb** |
 | ~~d'acord a~~ | **d'acord amb** |
 | ~~a la major brevetat~~ | **al més aviat possible** |
 | ~~per lo tant~~ | **per tant** |
 
-«A nivell de» només és correcte per a un nivell real: *a nivell del mar*. En una instància, el verb és **sol·licitar**, no *voler*: *Sol·licito l'ajut de lloguer*. *Omplir* i *emplenar* un formulari són tots dos correctes; *emplenar* és més formal.
+«A nivell de» només és correcte per a un nivell real: *a nivell del mar*. Per introduir el tema es recomana **en relació amb** o **amb relació a**. En una instància, el verb és **sol·licitar**, no *voler*: *Sol·licito l'ajut de lloguer*. *Omplir* i *emplenar* un formulari són tots dos correctes; *emplenar* és més formal.
 
 > **Compte!** ~~D'acord a la normativa~~ → **D'acord amb** la normativa. ~~En base a les dades~~ → **A partir de** les dades.
 

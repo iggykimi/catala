@@ -10,9 +10,9 @@ Quan hi ha dos o tres pronoms, van sempre en el mateix ordre: primer *es*, despr
 | **se** | me, te, li, ens, els | el, la, els, les, ho | **en** | **hi** |
 
 - *Anar-se'n* + datiu: el meu fill **se me'n** va anar; el seu home **se li'n** va anar.
-- *Posar-se* + datiu + *hi*: un cotxe **se m'hi** va posar al davant.
+- *Ficar-se* + datiu + *hi*: tenia lloc per aparcar, però un cotxe **se m'hi** va ficar.
 - *Endur-se* + datiu + *ho*: el vent **se m'ho** va endur tot.
-- El datiu (*me*, *li*…) diu a qui afecta l'acció; sense datiu, només hi ha dos pronoms: **se'n** va anar, **s'hi** va posar.
+- El datiu (*me*, *li*…) diu a qui afecta l'acció; sense datiu, només hi ha dos pronoms: **se'n** va anar, **s'hi** va ficar.
 
 Davant de vocal, *me + en* no es contreuen: els meus fills **se me n'han** anat a Anglaterra.
 
@@ -37,6 +37,7 @@ Davant de vocal, *me + en* no es contreuen: els meus fills **se me n'han** anat 
 
 - *L'hi* té dos valors: *li + el* (**l'hi** donaré = donaré el document a la Maria) i *el + hi* (**l'hi** trobaràs = trobaràs el llibre a l'armari). El verb i el context ho deixen clar.
 - Amb datiu plural fem servir *els*: **els en** donaré dos; **els la** donaré demà.
+- En català central, *li + en* també es diu **n'hi**: **n'hi** va donar dos (= **li'n** va donar dos).
 - En registre col·loquial, *els el* i *els la* sovint sonen *els hi* («els hi dono»). Aquesta forma es confon amb *li + els*, així que en l'estàndard escrit fem servir *els el*, *els la* i *els ho*.
 
 > **Compte!** Les combinacions s'escriuen juntes: ~~li en~~, ~~en hi~~ → **li'n**, **n'hi**. I *les* no és mai datiu: ~~les la donaré~~ → **els la** donaré.
@@ -75,18 +76,18 @@ Imperatiu: **ves-te'n**, **vagi-se'n**, **aneu-vos-en**. Amb *voler*: **me'n vul
 
 > **M'he oblidat de** les claus. = **Me n'he** oblidat. = **He oblidat** les claus.
 
-- *Oblidar* + nom o infinitiu: **he oblidat** les claus; **he oblidat** tancar la porta.
+- *Oblidar* + nom o infinitiu: **he oblidat** les claus; **he oblidat** (**de**) tancar la porta. Davant d'infinitiu, el *de* és opcional.
 - *Oblidar-se de* + nom o infinitiu: **m'he oblidat de** les claus; **m'he oblidat de** tancar.
 - Sense el nom, *oblidar-se* porta *en*: **me n'he** oblidat.
 
-> **Compte!** ~~olvidar~~ → **oblidar**. I vigila la preposició: ~~m'he oblidat les claus~~ → **m'he oblidat de** les claus; ~~he oblidat de tancar~~ → **he oblidat** tancar.
+> **Compte!** ~~olvidar~~ → **oblidar**. I vigila la preposició davant d'un nom: ~~m'he oblidat les claus~~ → **m'he oblidat de** les claus; ~~he oblidat de les claus~~ → **he oblidat** les claus.
 
 <!-- point: expressions -->
 ## Expressions de conflicte i convivència
 
 - **endur-se'n la pitjor part**: rebre el pitjor d'una baralla. *En la discussió, el porter se n'ha endut la pitjor part.*
 - **sortir-se'n**: aconseguir resoldre un problema difícil. *Amb l'ajuda del mediador, el veïnat se'n va sortir.*
-- **tornar-s'hi**: tornar a fer una cosa que molesta. *Ja s'hi ha tornat: ha aparcat al meu lloc.*
+- **tornar-hi**: tornar a fer una cosa que molesta. *Ja hi ha tornat: ha aparcat al meu lloc.*
 - **fer les paus**: reconciliar-se després d'una baralla. *Els dos veïns van fer les paus al replà.*
 - **girar full**: oblidar un afer desagradable i continuar. *Després de l'acord, els veïns van girar full.*
 

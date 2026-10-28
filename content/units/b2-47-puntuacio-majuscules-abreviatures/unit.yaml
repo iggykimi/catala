@@ -178,8 +178,8 @@ items:
       - text: "Els veïns que van venir, van protestar per les obres."
         why: "Entre el subjecte («els veïns que van venir») i el verb (*van protestar*) no hi va mai cap coma."
       - text: "Els veïns, que van venir van protestar per les obres."
-        why: "La coma trenca el subjecte: «els veïns que van venir» és un sol bloc i no porta cap coma a dins."
-    explanation: "El subjecte sencer és «els veïns que van venir»: entre el subjecte i el verb no hi va cap coma."
+        why: "Una sola coma trenca la frase: un incís aniria entre dues comes, i aquí «que van venir» identifica quins veïns, sense comes."
+    explanation: "El subjecte sencer és «els veïns que van venir»: entre el subjecte i el verb no hi va una coma sola."
 
   - id: b2-47-004
     type: choice
@@ -212,7 +212,7 @@ items:
     point: signes-puntuacio
     lesson: 1
     prompt: "Quina frase cita bé les paraules de la Laia?"
-    answer: "La Laia va dir: «Vine demà a les nou.»"
+    answer: "La Laia va dir: «Vine demà a les nou»."
     distractors:
       - text: "La Laia va dir: Vine demà a les nou."
         why: "Les paraules textuals d'algú van entre cometes."
@@ -318,7 +318,7 @@ items:
     type: fill
     point: majuscules-abreviatures
     lesson: 2
-    prompt: "Benvolgut ___: us escric per demanar hora."
+    prompt: "A l'atenció del ___, director de l'oficina."
     hint: "tractament abreujat + nom: senyor Rius"
     answers: ["Sr. Rius"]
     wrong_answers:
@@ -350,14 +350,12 @@ items:
     lesson: 2
     prompt: "Visc al ___ Mallorca, 120."
     hint: "abreviatura de «carrer»"
-    answers: ["c/"]
+    answers: ["c/", "c."]
     wrong_answers:
-      - text: "c"
-        why: "«Carrer» s'abreuja *c/*, amb la barra inclinada."
       - text: "car."
-        why: "«Carrer» s'abreuja *c/*: amb la barra i sense punt."
+        why: "«Carrer» s'abreuja *c/* (o *c.*), no *car.*."
     grading: strict
-    explanation: "«Carrer» s'abreuja *c/*: minúscula, barra inclinada i sense punt."
+    explanation: "«Carrer» s'abreuja *c/*, en minúscula i amb la barra inclinada. També s'admet *c.*."
 
   - id: b2-47-018
     type: fill
@@ -384,7 +382,7 @@ items:
     type: choice
     point: majuscules-abreviatures
     lesson: 2
-    prompt: "Indiqueu el ___ d'expedient a la sol·licitud."
+    prompt: "Expedient ___ 452 (sol·licitud d'ajuda)."
     answer: "núm."
     distractors:
       - text: "num."
@@ -397,7 +395,7 @@ items:
     type: choice
     point: majuscules-abreviatures
     lesson: 2
-    prompt: "Benvolguda ___: gràcies per la carta."
+    prompt: "Destinatària: ___, c/ Mallorca, 120, Girona."
     answer: "Sra. Martí"
     distractors:
       - text: "Sra Martí"
@@ -416,8 +414,8 @@ items:
       - text: "La carta que em vas enviar, va arribar ahir."
         why: "Entre el subjecte («la carta que em vas enviar») i el verb (*va arribar*) no hi va cap coma."
       - text: "La carta, que em vas enviar va arribar ahir."
-        why: "La coma trenca el subjecte: «la carta que em vas enviar» és un sol bloc, sense comes."
-    explanation: "El subjecte sencer és «la carta que em vas enviar»: entre el subjecte i el verb no hi va cap coma."
+        why: "Una sola coma trenca la frase: un incís aniria entre dues comes, mai amb una de sola."
+    explanation: "El subjecte sencer és «la carta que em vas enviar»: entre el subjecte i el verb no hi va una coma sola."
 
   - id: b2-47-023
     type: order
@@ -434,12 +432,13 @@ items:
     type: order
     point: coma
     lesson: 2
-    cue: "Digues que la doctora Martí, que és la directora, signarà la carta demà."
-    chunks: ["La directora,", "doctora Martí,", "signarà", "la carta", "demà"]
-    extra: ["el director"]
+    cue: "Digues que en Pau, que és el tresorer, revisarà l'acta dilluns."
+    chunks: ["En Pau,", "el tresorer,", "revisarà", "l'acta", "dilluns"]
+    extra: ["la tresorera"]
     answers:
-      - "La directora, doctora Martí, signarà la carta demà."
-    explanation: "«Doctora Martí» aclareix qui és la directora: és un incís i va entre dues comes."
+      - "En Pau, el tresorer, revisarà l'acta dilluns."
+      - "Dilluns, en Pau, el tresorer, revisarà l'acta."
+    explanation: "«El tresorer» aclareix qui és en Pau: és un incís i va entre dues comes."
 
   - id: b2-47-025
     type: inline-choice
@@ -492,29 +491,29 @@ items:
     type: find-error
     point: signes-puntuacio
     lesson: 3
-    sentence: "A la reunió hi havia en Jordi, el president, la Laia, la secretària."
-    error: "president, la"
-    fix: "president; la"
+    sentence: "Van signar l'acta la Núria, la tresorera, en Pau, el secretari."
+    error: "tresorera, en"
+    fix: "tresorera; en"
     fix_distractors:
-      - text: "president: la"
+      - text: "tresorera: en"
         why: "Els dos punts introdueixen una llista, no en separen els elements: hi cal un punt i coma."
-      - text: "president la"
+      - text: "tresorera en"
         why: "Sense cap signe, els dos grups queden barrejats: hi cal un punt i coma."
-    explanation: "«En Jordi, el president» i «la Laia, la secretària» són dos grups amb una coma a dins: els grups se separen amb un punt i coma."
+    explanation: "«La Núria, la tresorera» i «en Pau, el secretari» són dos grups amb una coma a dins: els grups se separen amb un punt i coma."
 
   - id: b2-47-031
     type: find-error
     point: signes-puntuacio
     lesson: 3
     sentence: "Benvolguda senyora Puig. Us escric per demanar hora."
-    error: "Puig. Us"
-    fix: "Puig: us"
+    error: "Puig."
+    fix: "Puig:"
     fix_distractors:
-      - text: "Puig; us"
+      - text: "Puig;"
         why: "El punt i coma separa frases o grups d'una llista: darrere de la salutació hi van els dos punts."
-      - text: "Puig us"
-        why: "La salutació d'una carta no pot anar sense signe: hi van els dos punts."
-    explanation: "«Benvolguda senyora Puig» és la salutació de la carta: darrere hi van els dos punts, i la frase continua en minúscula."
+      - text: "Puig,"
+        why: "Darrere de la salutació d'una carta no hi va coma: hi van els dos punts."
+    explanation: "«Benvolguda senyora Puig» és la salutació de la carta: darrere hi van els dos punts, i el text continua a la línia següent."
 
   - id: b2-47-032
     type: find-error
@@ -522,7 +521,7 @@ items:
     lesson: 3
     sentence: "La Laia va dir: Vine demà a les nou."
     error: "Vine demà a les nou."
-    fix: "«Vine demà a les nou.»"
+    fix: "«Vine demà a les nou»."
     fix_distractors:
       - text: "«Vine» demà a les nou."
         why: "S'ha de citar tota la frase de la Laia, no només «Vine»."
@@ -589,7 +588,7 @@ items:
     type: fill
     point: signes-puntuacio
     lesson: 3
-    prompt: "___ us adjunto el rebut del lloguer."
+    prompt: "___ Us adjunto el rebut del lloguer."
     hint: "salutació d'una carta formal + dos punts: Benvolgut senyor Rius"
     answers: ["Benvolgut senyor Rius:"]
     wrong_answers:
@@ -632,13 +631,13 @@ items:
     point: coma
     lesson: 4
     instruction: "Marca l'aclariment amb comes."
-    source: "La directora [[doctora Martí]] signarà la carta demà."
-    answers: ["La directora, doctora Martí, signarà la carta demà."]
+    source: "El gerent [[senyor Vidal]] respondrà la reclamació."
+    answers: ["El gerent, senyor Vidal, respondrà la reclamació."]
     wrong_answers:
-      - text: "La directora, doctora Martí signarà la carta demà."
-        why: "L'aclariment s'obre i es tanca: falta la coma de darrere de «Martí»."
+      - text: "El gerent, senyor Vidal respondrà la reclamació."
+        why: "L'aclariment s'obre i es tanca: falta la coma de darrere de «Vidal»."
     grading: strict
-    explanation: "«Doctora Martí» aclareix qui és la directora: és un incís i va entre dues comes."
+    explanation: "«Senyor Vidal» aclareix qui és el gerent: és un incís i va entre dues comes."
 
   - id: b2-47-042
     type: transform
@@ -661,12 +660,12 @@ items:
     lesson: 4
     instruction: "Corregeix la salutació de la carta."
     source: "[[Benvolguda senyora Puig. Us]] escric per sol·licitar hora."
-    answers: ["Benvolguda senyora Puig: us escric per sol·licitar hora."]
+    answers: ["Benvolguda senyora Puig: Us escric per sol·licitar hora."]
     wrong_answers:
       - text: "Benvolguda senyora Puig. Us escric per sol·licitar hora."
         why: "Darrere de la salutació hi van els dos punts, no un punt."
     grading: strict
-    explanation: "«Benvolguda senyora Puig» és la salutació: darrere hi van els dos punts, i la frase continua en minúscula."
+    explanation: "«Benvolguda senyora Puig» és la salutació: darrere hi van els dos punts, i en una carta el text continua a la línia següent."
 
   - id: b2-47-044
     type: transform
@@ -674,7 +673,7 @@ items:
     lesson: 4
     instruction: "Marca les paraules de la Laia amb cometes."
     source: "La Laia va dir: [[Vine demà a les nou.]]"
-    answers: ["La Laia va dir: «Vine demà a les nou.»"]
+    answers: ["La Laia va dir: «Vine demà a les nou»."]
     grading: strict
     explanation: "«Vine demà a les nou» són les paraules exactes de la Laia: van entre cometes baixes."
 
@@ -697,7 +696,7 @@ items:
     lesson: 4
     instruction: "Escriu l'adreça amb abreviatures."
     source: "Visc al [[carrer Mallorca, número 120]]."
-    answers: ["Visc al c/ Mallorca, núm. 120."]
+    answers: ["Visc al c/ Mallorca, núm. 120.", "Visc al c. Mallorca, núm. 120."]
     wrong_answers:
       - text: "Visc al c/ Mallorca, num. 120."
         why: "*Número* porta accent: l'abreviatura és *núm.*."
@@ -749,12 +748,12 @@ items:
     type: order
     point: signes-puntuacio
     lesson: 4
-    cue: "Digues qui hi havia a la reunió per escriure l'acta: en Jordi, que és el president, i la Laia, que és la secretària."
-    chunks: ["Hi havia", "en Jordi,", "el president;", "la Laia,", "la secretària"]
-    extra: ["la presidenta"]
+    cue: "Escriu a l'acta qui va venir: la Fàtima, que és la tècnica, i en Wei, que és l'advocat."
+    chunks: ["Van venir", "la Fàtima,", "la tècnica;", "en Wei,", "l'advocat"]
+    extra: ["l'advocada"]
     answers:
-      - "Hi havia en Jordi, el president; la Laia, la secretària."
-    explanation: "Cada grup porta una coma a dins («en Jordi, el president»): per això els dos grups se separen amb un punt i coma."
+      - "Van venir la Fàtima, la tècnica; en Wei, l'advocat."
+    explanation: "Cada grup porta una coma a dins («la Fàtima, la tècnica»): per això els dos grups se separen amb un punt i coma."
 
   - id: b2-47-051
     type: order
@@ -787,17 +786,23 @@ items:
     lesson: 5
     title: "Una reclamació a l'empresa de llum"
     text: |
-      Benvolgut senyor Rius: li escric en relació amb la factura del mes de gener, que acabo de rebre. Soc clienta de la seva empresa des de fa tres anys i fins ara no havia tingut cap problema, però aquesta factura no és correcta.
+      Benvolgut senyor Rius:
 
-      L'import és de dos-cents quaranta euros, quan la factura normal és de menys de seixanta. He trucat tres vegades al servei d'atenció al client i cada vegada m'han dit una cosa diferent. El primer funcionari em va dir que era una estimació; la segona, que era un error del comptador. La tercera em va penjar el telèfon. Ja es pot imaginar com em sento.
+      Li escric en relació amb la factura del mes de gener, que acabo de rebre. Soc clienta de la seva empresa des de fa tres anys i fins ara no havia tingut cap problema, però aquesta factura no és correcta.
+
+      L'import és de dos-cents quaranta euros, quan la factura normal és de menys de seixanta. He trucat tres vegades al servei d'atenció al client i cada vegada m'han dit una cosa diferent. El primer operador em va dir que era una estimació; la segona, que era un error del comptador. La tercera em va penjar el telèfon. Ja es pot imaginar com em sento.
 
       He revisat les factures dels últims sis mesos i totes són d'entre quaranta i seixanta euros. El consum d'aquest gener ha estat normal: no he comprat cap aparell nou i he passat deu dies fora de casa per feina. Per això estic segura que la lectura del comptador no és correcta.
 
       A més, a la factura hi ha un concepte que no entenc: «servei de potència addicional». Ningú m'havia parlat mai d'aquest servei i no l'he contractat. Al final de la factura hi diu que puc reclamar en un termini de trenta dies, i és el que faig amb aquesta carta.
 
-      Per tot això, li demano tres coses: que revisi la factura de gener, que m'enviï una factura nova amb l'import correcte i que em confirmi per escrit que no em cobrarà el «servei de potència addicional». Si cal, li adjunto una foto del comptador i les factures dels últims sis mesos.
+      Per tot això, li demano tres coses: que revisi la factura de gener, que m'enviï una factura nova amb l'import correcte i que em confirmi per escrit que no em cobrarà el «servei de potència addicional». Li adjunto una foto del comptador i les factures dels últims sis mesos.
 
-      Resto a l'espera de la seva resposta. Atentament, Núria Vidal.
+      Resto a l'espera de la seva resposta.
+
+      Atentament,
+
+      Núria Vidal
     questions:
       - prompt: "Per què escriu la Núria al senyor Rius?"
         answer: "Perquè la factura de gener és molt més alta del normal."
@@ -824,7 +829,7 @@ items:
         answer: "Una factura revisada, una de nova i una confirmació per escrit."
         distractors:
           - text: "Una cita amb el senyor Rius i una foto del comptador."
-            why: "La foto l'ofereix ella, i no demana cap cita."
+            why: "La foto l'adjunta ella, i no demana cap cita."
           - text: "Que li tornin els diners dels últims sis mesos."
             why: "Només reclama la factura de gener, no les anteriors."
     explanation: "La Núria reclama una factura de gener molt més alta del normal i demana que la revisin."
@@ -918,7 +923,7 @@ items:
     point: majuscules-abreviatures
     lesson: 5
     title: "Correu electrònic de confirmació"
-    text: "Assumpte: confirmació de visita. Benvolgut {Sr.|Sr} Rius: la visita serà {dimarts|Dimarts} 3 de {març|Març}, a la {pl.|Pl.|pl} Catalunya, 5. Us hi espera la {Sra.|Sra|Sra,} Martí."
+    text: "Assumpte: confirmació de visita. La visita del {Sr.|Sr} Rius serà {dimarts|Dimarts} 3 de {març|Març}, a la {pl.|Pl.|pl} Catalunya, 5. El rebrà la {Sra.|Sra|Sra,} Martí."
     explanation: "Els tractaments s'abreugen amb punt (*Sr.*, *Sra.*). Els dies i els mesos van en minúscula (*dimarts*, *març*). I «plaça» s'abreuja *pl.*."
 
   - id: b2-47-062
@@ -948,11 +953,11 @@ items:
     lesson: 5
     instruction: "Relaciona cada estructura amb un exemple."
     pairs:
-      - ["el vocatiu", "Marta, vine a signar aquest paper."]
-      - ["l'aclariment", "La directora, doctora Martí, signarà la carta."]
-      - ["l'enumeració", "Cal el DNI, el certificat i l'última nòmina."]
+      - ["el vocatiu", "Jordi, tanca la porta del despatx."]
+      - ["l'aclariment", "La gestora, Laia Puig, ens trucarà demà."]
+      - ["l'enumeració", "Porteu el formulari, el rebut i una foto."]
       - ["el connector inicial", "Tanmateix, us respondrem abans de divendres."]
-      - ["el subjecte i el verb, sense coma", "Els veïns que van venir van protestar."]
+      - ["el subjecte i el verb, sense coma", "Els documents que falten arribaran demà."]
     explanation: "El vocatiu, l'aclariment, l'enumeració i el connector inicial porten coma. Entre el subjecte i el verb, en canvi, no n'hi va cap."
 
   - id: b2-47-065

@@ -241,7 +241,7 @@ items:
     lesson: 1
     title: "Una tarda de mudança"
     text: "La Carla i jo {movem|movim|mouvem} el sofà al menjador mentre l'Arnau {treu|trea|treua} les caixes del traster. Jo {bec|bevo|bebo} un got d'aigua i la Carla {seu|seo|senta} a la butaca a descansar una mica."
-    explanation: "El present d'aquests verbs: *movem, treu, bec, seu*. Ni *bevo* ni *senta* existeixen."
+    explanation: "El present d'aquests verbs: *movem, treu, bec, seu*. *Bevo* i *senta* són calcs de «bebo» i «se sienta»."
 
   - id: b1-33-009
     type: fill
@@ -294,6 +294,7 @@ items:
     answers:
       - "Cada vespre ric amb la sèrie nova."
       - "Ric amb la sèrie nova cada vespre."
+      - "Ric cada vespre amb la sèrie nova."
     explanation: "Amb «jo», el present de *riure* és *ric*. *Rio* no existeix."
 
   - id: b1-33-013
@@ -387,7 +388,9 @@ items:
     answers:
       - "Cada matí bevem cafè al balcó."
       - "Bevem cafè al balcó cada matí."
-    explanation: "«Tu i la Marta» és primera persona del plural: *bevem*. *Bebemos* és castellà."
+      - "Bevem cafè cada matí al balcó."
+      - "Al balcó bevem cafè cada matí."
+    explanation: "Parles de tu i de la Marta: el subjecte és «nosaltres», *bevem*. *Bebemos* és castellà."
 
   - id: b1-33-020
     type: order
@@ -416,7 +419,7 @@ items:
     type: choice
     point: present-eure
     lesson: 2
-    prompt: "La sopa ja ___: apaga el foc."
+    prompt: "La sopa ___ a foc lent des de fa una hora."
     answer: "cou"
     distractors:
       - text: "cuece"
@@ -455,7 +458,7 @@ items:
     type: choice
     point: present-eure
     lesson: 2
-    prompt: "Si ___ el matalàs tot sols, us fareu mal."
+    prompt: "Si ___ el matalàs tots sols, us fareu mal."
     answer: "moveu"
     distractors:
       - text: "movéis"
@@ -489,7 +492,7 @@ items:
       - text: "han morido"
         why: "*Morido* és castellà; el participi català és *mort*."
       - text: "han morts"
-        why: "«Totes les plantes» va darrere del verb: el participi no concorda, *han mort*."
+        why: "El participi amb *haver* no concorda amb el subjecte: *han mort*."
     explanation: "El participi de *morir* és *mort*: «s'han mort totes les plantes»."
 
   - id: b1-33-028
@@ -539,7 +542,7 @@ items:
       - text: "he traït"
         why: "*Traït* és el participi de *trair*, no de *treure*."
       - text: "he trets"
-        why: "«La catifa» va darrere del verb: el participi no concorda, *he tret*."
+        why: "El participi no concorda amb un complement com «la catifa»: *he tret*."
     explanation: "El participi de *treure* és *tret*: «Ja he tret la catifa vella»."
 
   - id: b1-33-032
@@ -568,7 +571,7 @@ items:
       - text: "moure"
         why: "*Moure* és l'infinitiu; després de *hem* cal el participi *mogut*."
     grading: tolerant
-    explanation: "«Aquest matí» demana perfet: *haver* + participi. El participi de *moure* és *mogut*."
+    explanation: "*Hem* + participi és el perfet. El participi de *moure* és *mogut*."
 
   - id: b1-33-034
     type: fill
@@ -587,7 +590,7 @@ items:
     type: fill
     point: participis-temps
     lesson: 3
-    prompt: "Demà tu i jo ___ les últimes caixes que falten per embalar."
+    prompt: "Demà tu i jo ___ les últimes caixes del traster."
     hint: "*treure*, futur"
     answers: ["traurem"]
     wrong_answers:
@@ -609,7 +612,7 @@ items:
         why: "*Begit* no existeix: el participi de *beure* és *begut*."
       - text: "bebit"
         why: "*Bebit* no existeix: és *begut*."
-    explanation: "«Aquest matí» demana perfet: *he begut*. El participi de *beure* és *begut*."
+    explanation: "Després de *he* cal el participi. El participi de *beure* és *begut*."
 
   - id: b1-33-037
     type: choice
@@ -631,10 +634,10 @@ items:
     prompt: "La immobiliària ens ha ___ un pis més barat a Sants."
     answer: "ofert"
     distractors:
-      - text: "oferit"
-        why: "*Oferit* no existeix: el participi de *oferir* és *ofert*."
-      - text: "ofreix"
-        why: "*Ofreix* és present («ell ofreix»); després de *ha* cal el participi *ofert*."
+      - text: "ofrecit"
+        why: "*Ofrecit* no existeix: és un calc de «ofrecido». El participi de *oferir* és *ofert*."
+      - text: "ofereix"
+        why: "*Ofereix* és present («ell ofereix»); després de *ha* cal el participi *ofert*."
     explanation: "Després de *ha* cal un participi. El participi de *oferir* és *ofert*."
 
   - id: b1-33-039
@@ -723,7 +726,7 @@ items:
       - text: "El nen ha cait de la cadira aquest matí."
         why: "*Cait* no existeix: el participi de *caure* és *caigut*."
       - text: "El nen va caure de la cadira aquest matí."
-        why: "«Aquest matí» demana el perfet, no el perifràstic: *ha caigut*."
+        why: "La consigna demana el perfet (*haver* + participi), no el perifràstic: *ha caigut*."
     grading: tolerant
     explanation: "El perfet és *haver* + participi: *ha caigut*. El participi de *caure* és *caigut*."
 
@@ -776,7 +779,7 @@ items:
     lesson: 4
     prompt: "Quim, ___ les sabates brutes al rebedor."
     hint: "*treure*, imperatiu"
-    answers: ["treu"]
+    answers: ["treu", "treu-te"]
     wrong_answers:
       - text: "treuen"
         why: "*Treuen* és «ells»; l'ordre al Quim és *treu*."
@@ -808,6 +811,7 @@ items:
     answers:
       - "Encara no he tret les cortines velles."
       - "No he tret les cortines velles encara."
+      - "No he tret encara les cortines velles."
     explanation: "El perfet és *he tret*, amb el participi irregular *tret*. *Treut* no existeix."
 
   - id: b1-33-051
@@ -819,6 +823,7 @@ items:
     extra: ["diu"]
     answers:
       - "Vull que la Marta digui el preu."
+      - "Vull que digui el preu la Marta."
     explanation: "Després de *vull que* cal el subjuntiu: *digui*. *Diu* és indicatiu."
 
   - id: b1-33-052
@@ -826,8 +831,8 @@ items:
     point: participis-temps
     lesson: 4
     title: "Nota a la nevera"
-    text: "Pau, quan {arribis|arribo|arribaràs}, {treu|trea|treua} la roba de l'assecadora i endreça el rebedor. Després {seu|seo|senta} una estona i jo {trauré|treuré|trairé} les escombraries quan {pugui|puc|puigui}."
-    explanation: "Darrere de *quan*, aquest text fa servir el subjuntiu: *arribis, pugui*. Ordres: *treu, seu*. Futur de *treure*: *trauré*."
+    text: "Pau, {treu|trea|treua} la roba de l'assecadora i endreça el rebedor. Després {seu|seo|senta} una estona, que estàs cansat. Jo {trauré|treuré|trairé} les escombraries i {duré|duiré|dueré} el pa."
+    explanation: "Ordres a «tu»: *treu, seu*. Futur: *trauré* (amb el canvi de vocal de *treure*) i *duré*."
 
   # ---------------- Lliçó 5 ----------------
   - id: b1-33-053
@@ -836,11 +841,11 @@ items:
     lesson: 5
     title: "Una mudança amb entrebancs"
     text: |
-      La Fàtima i el Wei viuen de lloguer al barri de Gràcia des de fa tres anys, però el pis se'ls ha quedat petit: ell treballa des de casa i necessita un despatx. Al març van trobar un pis més gran a Sants, amb tres dormitoris i una terrassa on cau el sol a la tarda.
+      La Fàtima i el Wei viuen de lloguer al barri de Gràcia des de fa tres anys, però el pis se'ls ha quedat petit: ell treballa des de casa i necessita un despatx. Al març van trobar un pis més gran a Sants, amb tres dormitoris i una terrassa on toca el sol a la tarda.
 
-      La mudança va ser dissabte passat. L'Ibrahim, un amic que té una furgoneta, va dur totes les caixes de llibres d'una vegada. La Fàtima va treure la pols dels prestatges buits mentre el Wei penjava les cortines del menjador. A mig matí van seure tots tres a les escales a beure un cafè amb llet: l'ascensor estava espatllat i pujar el sofà els havia deixat fets pols.
+      La mudança va ser dissabte passat. L'Ibrahim, un amic que té una furgoneta, va dur totes les caixes de llibres d'una vegada. La Fàtima va treure la pols dels prestatges buits mentre el Wei penjava les cortines del menjador. A mig matí van seure tots tres a l'escala a beure un cafè amb llet: l'ascensor estava espatllat i pujar el sofà els havia deixat fets pols.
 
-      A la tarda va caure un got de la cuina i es va trencar. El Wei va riure i va dir: «Si cau un got, diuen que porta sort». La Fàtima no s'ho creu, aquestes coses, però admet que la tarda va acabar bé: a les vuit tots els mobles eren al seu lloc.
+      A la tarda va caure un got de la cuina i es va trencar. El Wei va riure i va dir: «Si cau un got, diuen que porta sort». La Fàtima no creu en aquestes coses, però admet que la tarda va acabar bé: a les vuit tots els mobles eren al seu lloc.
 
       Diumenge van fer dissabte al pis nou: van fregar el terra, van penjar els llums i van cobrir el sofà vell amb una manta. «Ara sí que hi vivim», va dir la Fàtima.
     questions:
@@ -977,14 +982,14 @@ items:
     type: fill
     point: expressions
     lesson: 5
-    prompt: "___ al metge i no pugeu res més avui."
+    prompt: "___ al metge i no carregueu pes aquesta setmana."
     hint: "imperatiu de *fer cas* (*vosaltres*)"
     answers: ["Feu cas"]
     wrong_answers:
       - text: "Feu caso"
         why: "*Caso* és castellà; en català és *cas*: *feu cas*."
       - text: "Fes cas"
-        why: "*Fes* és per a «tu»; «no pugeu» demana «vosaltres»: *feu*."
+        why: "*Fes* és per a «tu»; «no carregueu» demana «vosaltres»: *feu*."
     grading: tolerant
     explanation: "*Fer cas* vol dir obeir. A més d'una persona: *feu cas*."
 
@@ -1023,4 +1028,5 @@ items:
     extra: ["cait"]
     answers:
       - "El porter nou m'ha caigut molt bé."
+      - "M'ha caigut molt bé el porter nou."
     explanation: "*Caure bé* es diu d'una persona que agrada. El participi de *caure* és *caigut*."

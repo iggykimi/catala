@@ -10,7 +10,7 @@ La coma separa els elements que afegeixen informació dins la frase.
 - Els **connectors inicials** van seguits d'una coma: **A més,** us adjunto…; **Per cert,** …; **Tanmateix,** …
 - Les **enumeracions** se separen amb comes, però davant de *i* no n'hi va cap: el DNI, el contracte **i** l'última nòmina.
 - Les **relatives que identifiquen** (especificatives) no porten comes: La carta **que et vaig donar**… (d'entre diverses cartes).
-- Entre el **subjecte** i el **verb** no hi va mai cap coma: Els veïns que van venir **van protestar**.
+- Entre el **subjecte** i el **verb** no hi va mai una coma sola: Els veïns que van venir **van protestar**. (Un incís sí que hi pot anar, però entre dues comes.)
 
 Les relatives que només afegeixen informació (explicatives) sí que en porten, però aquí no les practiquem.
 
@@ -21,14 +21,14 @@ Les relatives que només afegeixen informació (explicatives) sí que en porten,
 
 Els dos punts presenten; el punt i coma separa; les cometes citen; el guió marca el diàleg.
 
-> Benvolguda senyora Puig**:** us escric per demanar hora.
+> Benvolguda senyora Puig**:** (i el text de la carta comença a la línia següent)
 
 - Els **dos punts** van darrere de la **salutació** d'una carta, davant d'una **llista** (*Porteu tres documents: …*) i davant de les **paraules textuals** (*La Laia va dir: …*).
 - El **punt i coma** separa els **grups d'una llista** quan porten comes a dins: en Jordi, el president**;** la Laia, la secretària. També pot unir **dues frases** relacionades: Va arribar tard**;** la reunió ja havia començat.
 - Les **cometes baixes** (*« »*) marquen les **paraules exactes** d'algú i els **títols** quan no hi ha cursiva: el diari **«El Punt Avui»**.
 - El **guió llarg** (*—*) marca cada **intervenció** d'un diàleg: **—**Heu rebut la carta? **—**va preguntar la Laia.
 
-> **Compte!** La salutació no porta punt ni coma anglesa: ~~Benvolguda senyora Puig.~~ → **Benvolguda senyora Puig:**. I una coma no uneix dues frases: ~~Va arribar tard, la reunió…~~ → **Va arribar tard; la reunió…** (o amb un punt).
+> **Compte!** La salutació no porta punt ni coma: ~~Benvolguda senyora Puig.~~ → **Benvolguda senyora Puig:**. I una coma no uneix dues frases: ~~Va arribar tard, la reunió…~~ → **Va arribar tard; la reunió…** (o amb un punt).
 
 <!-- point: majuscules-abreviatures -->
 ## Les majúscules i les abreviatures
@@ -40,7 +40,7 @@ En català, els dies, els mesos i les estacions van en minúscula. Els noms prop
 - En **minúscula**: els dies (**dilluns**), els mesos (**gener**) i les estacions (**hivern**).
 - En **majúscula**: les persones (**Núria Vidal**), els llocs (**Girona**), els carrers (**el carrer de Mallorca**: *carrer* en minúscula, *Mallorca* en majúscula) i les institucions (**l'Ajuntament de Girona**).
 - També van en minúscula els idiomes (*català*) i els gentilicis (*gironina*); les festes van en majúscula (*Nadal*, *Sant Jordi*).
-- Els **tractaments** abreujats porten majúscula i punt: **Sr.** Rius, **Sra.** Martí.
+- Els **tractaments** abreujats porten majúscula i punt: **Sr.** Rius, **Sra.** Martí. A la salutació d'una carta, però, el tractament s'escriu sencer i en minúscula: *Benvolgut senyor Rius:*.
 
 | Abreviatura | Paraula |
 |---|---|
@@ -49,10 +49,10 @@ En català, els dies, els mesos i les estacions van en minúscula. Els noms prop
 | **núm.** | número |
 | **pl.** | plaça |
 | **av.** | avinguda |
-| **c/** | carrer (amb barra, sense punt) |
+| **c/** o **c.** | carrer |
 | **tel.** | telèfon |
 
-Les abreviatures porten un punt al final (llevat de *c/*). *Número* conserva l'accent: **núm.**
+Les abreviatures porten un punt al final (la forma *c/* porta la barra en lloc del punt). *Número* conserva l'accent: **núm.**
 
 > **Compte!** ~~el Dilluns 12 de Gener~~ → **el dilluns 12 de gener**. I ~~Sr Rius~~ → **Sr. Rius**.
 

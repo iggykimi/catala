@@ -170,10 +170,10 @@ items:
     answer: "espatllar"
     distractors:
       - text: "averiar"
-        why: "*Averiar-se* és un castellanisme. En català, una màquina *s'espatlla*."
+        why: "*Averiar-se* és la forma castellana. En català, una màquina *s'espatlla* (o *s'avaria*, amb *a*)."
       - text: "espatllat"
         why: "El passat perifràstic és *va* + infinitiu: *es va espatllar*, no *es va espatllat*."
-    explanation: "Una màquina que deixa de funcionar *s'espatlla*. *Averiar-se* és un castellanisme."
+    explanation: "Una màquina que deixa de funcionar *s'espatlla*. *Averiar-se*, amb *e*, és la forma castellana."
 
   - id: b2-53-004
     type: choice
@@ -197,9 +197,9 @@ items:
     distractors:
       - text: "ocurrir"
         why: "En català s'escriu *ocórrer*, amb *o*. *Ocurrir* és la forma castellana."
-      - text: "acudir"
-        why: "*Acudir* vol dir anar a un lloc. Una idea que ve al cap *s'ocorre*."
-    explanation: "Una idea que ve al cap *s'ocorre*: *ocórrer-se*. *Acudir* vol dir anar, i *ocurrir* és la forma castellana."
+      - text: "ocorregut"
+        why: "Darrere de *va* cal l'infinitiu: *se'm va ocórrer*."
+    explanation: "Una idea que ve al cap *s'ocorre* (o *s'acut*): *se'm va ocórrer*. *Ocurrir* és la forma castellana."
 
   - id: b2-53-006
     type: match
@@ -313,7 +313,7 @@ items:
     answers: ["s'espatlla"]
     wrong_answers:
       - text: "s'averia"
-        why: "*Averiar-se* és un castellanisme. Una màquina *s'espatlla*."
+        why: "*Averiar-se* és la forma castellana. Una màquina *s'espatlla*."
       - text: "espatlla"
         why: "*Espatllar-se* és pronominal: la impressora *s'espatlla*."
     grading: tolerant
@@ -329,8 +329,6 @@ items:
     wrong_answers:
       - text: "ocurrir"
         why: "En català s'escriu *ocórrer*, amb *o*. *Ocurrir* és la forma castellana."
-      - text: "acudir"
-        why: "*Acudir* vol dir anar a un lloc. Una idea que ve al cap *s'ocorre*."
     grading: tolerant
     explanation: "Una idea que ve al cap *s'ocorre*: *ocórrer-se*. En català s'escriu amb *o*."
 
@@ -519,15 +517,9 @@ items:
     type: find-error
     point: compte-formal
     lesson: 3
-    sentence: "Li escric en relació a la seva sol·licitud de plaça."
-    error: "en relació a"
-    fix: "en relació amb"
-    fix_distractors:
-      - text: "en relació de"
-        why: "*En relació* regeix *amb*: *en relació amb la sol·licitud*."
-      - text: "a nivell de"
-        why: "«A nivell de» només indica un nivell real. Aquí cal *en relació amb*."
-    explanation: "La locució és *en relació amb*. *En relació a* és un calc del castellà."
+    sentence: "Li escric en relació amb la seva sol·licitud de plaça."
+    no_error: true
+    explanation: "La frase és correcta: *en relació amb* és la locució recomanada per introduir el tema."
 
   - id: b2-53-031
     type: find-error
@@ -540,7 +532,7 @@ items:
       - text: "a la major rapidesa"
         why: "*A la major rapidesa* també és un calc. La forma genuïna és *al més aviat possible*."
       - text: "amb la major brevetat"
-        why: "Canviar la preposició no ho arregla: en aquest ús, *brevetat* és un calc. Cal *al més aviat possible*."
+        why: "Canviar la preposició no arregla el calc de «a la mayor brevedad». Cal *al més aviat possible*."
     explanation: "«A la major brevetat» és un calc de «a la mayor brevedad». En català: *al més aviat possible*."
 
   - id: b2-53-032
@@ -578,16 +570,16 @@ items:
     type: fill
     point: compte-formal
     lesson: 3
-    prompt: "En relació ___ la vostra sol·licitud, us convoquem dilluns a les deu."
+    prompt: "Amb relació ___ la vostra sol·licitud, us convoquem dilluns a les deu."
     hint: "preposició"
-    answers: ["amb"]
+    answers: ["a"]
     wrong_answers:
-      - text: "a"
-        why: "*En relació a* és un calc del castellà. La locució és *en relació amb*."
+      - text: "amb"
+        why: "Les locucions són *amb relació a* i *en relació amb*: aquí, darrere de *amb relació*, va *a*."
       - text: "de"
-        why: "*En relació* regeix *amb*, no *de*: *en relació amb la sol·licitud*."
+        why: "*Amb relació* no va amb *de*: *amb relació a la sol·licitud*."
     grading: tolerant
-    explanation: "La locució és *en relació amb*."
+    explanation: "Les locucions recomanades són *amb relació a* i *en relació amb*."
 
   - id: b2-53-036
     type: fill
@@ -595,7 +587,7 @@ items:
     lesson: 3
     prompt: "___ l'horari d'estiu, truqueu al 012."
     hint: "locució per introduir el tema"
-    answers: ["Quant a", "Pel que fa a"]
+    answers: ["Quant a", "Pel que fa a", "En relació amb", "Amb relació a", "Respecte a", "Sobre"]
     wrong_answers:
       - text: "A nivell de"
         why: "«A nivell de» només indica un nivell real. Per introduir el tema, cal *quant a* o *pel que fa a*."
@@ -635,8 +627,8 @@ items:
     point: compte-formal
     lesson: 3
     title: "Avís de l'ajuntament"
-    text: "{Quant|A nivell de|En base a} als terminis, us recordem que la sol·licitud s'ha de presentar amb cita i que, {d'acord amb|d'acord a|d'acord de} la normativa, cal adjuntar el DNI. En relació {amb|a|de} aquest avís, truqueu al 012. Us atendrem {al més aviat possible|a la major brevetat|amb la major brevetat}."
-    explanation: "En un text formal: *quant a*, *d'acord amb*, *en relació amb* i *al més aviat possible*. Les altres formes són calcs del castellà."
+    text: "{Quant als|A nivell dels|En base als} terminis, us recordem que la sol·licitud s'ha de presentar amb cita i que, {d'acord amb|d'acord a|d'acord de} la normativa, cal adjuntar el DNI. En relació {amb|de|en} aquest avís, truqueu al 012. Us atendrem {al més aviat possible|a la major brevetat|a la major brevedat}."
+    explanation: "En un text formal: *quant a*, *d'acord amb*, *en relació amb* i *al més aviat possible*. Les altres formes són calcs del castellà o porten una preposició equivocada."
 
   # ---------- Lliçó 4 ----------
   - id: b2-53-040
@@ -671,25 +663,29 @@ items:
     lesson: 4
     instruction: "Corregeix la frase."
     source: "El programa de cites [[s'ha averiat]] i no deixa demanar hora."
-    answers: ["El programa de cites s'ha espatllat i no deixa demanar hora."]
+    answers:
+      - "El programa de cites s'ha espatllat i no deixa demanar hora."
+      - "El programa de cites s'ha avariat i no deixa demanar hora."
     wrong_answers:
       - text: "El programa de cites s'han espatllat i no deixa demanar hora."
         why: "«El programa» és singular: *s'ha espatllat*."
     grading: tolerant
-    explanation: "*Averiar-se* és un castellanisme. Una màquina o un programa que deixa de funcionar *s'espatlla*."
+    explanation: "*Averiar-se* és la forma castellana. Una màquina o un programa que deixa de funcionar *s'espatlla* (o *s'avaria*)."
 
   - id: b2-53-043
     type: transform
     point: espatllar-acudir
     lesson: 4
     instruction: "Corregeix la frase."
-    source: "Al final [[se'm va acudir]] demanar el volant per internet."
-    answers: ["Al final se'm va ocórrer demanar el volant per internet."]
+    source: "Al final [[se'm va ocurrir]] demanar el volant per internet."
+    answers:
+      - "Al final se'm va ocórrer demanar el volant per internet."
+      - "Al final se'm va acudir demanar el volant per internet."
     wrong_answers:
-      - text: "Al final se'm va ocurrir demanar el volant per internet."
-        why: "En català s'escriu *ocórrer*, amb *o*."
+      - text: "Al final em va ocórrer demanar el volant per internet."
+        why: "Amb aquest sentit el verb és pronominal: *se'm va ocórrer*."
     grading: tolerant
-    explanation: "Una idea que ve al cap *s'ocorre*. *Acudir* vol dir anar a un lloc."
+    explanation: "*Ocurrir* és la forma castellana. En català, una idea que ve al cap *s'ocorre* o *s'acut*: *se'm va ocórrer*."
 
   - id: b2-53-044
     type: transform
@@ -697,7 +693,10 @@ items:
     lesson: 4
     instruction: "Corregeix la frase."
     source: "La Laia [[va lograr]] una plaça a la llar d'infants."
-    answers: ["La Laia va aconseguir una plaça a la llar d'infants."]
+    answers:
+      - "La Laia va aconseguir una plaça a la llar d'infants."
+      - "La Laia va obtenir una plaça a la llar d'infants."
+      - "La Laia va assolir una plaça a la llar d'infants."
     wrong_answers:
       - text: "La Laia va aconseguit una plaça a la llar d'infants."
         why: "El passat perifràstic és *va* + infinitiu: *va aconseguir*."
@@ -728,6 +727,8 @@ items:
     answers:
       - "L'informe s'ha redactat a partir de les dades del padró."
       - "L'informe s'ha redactat d'acord amb les dades del padró."
+      - "L'informe s'ha redactat sobre la base de les dades del padró."
+      - "L'informe s'ha redactat basant-se en les dades del padró."
     wrong_answers:
       - text: "L'informe s'ha redactat a base de les dades del padró."
         why: "*A base de* vol dir «a còpia de». Per indicar l'origen, cal *a partir de* o *d'acord amb*."
@@ -740,7 +741,7 @@ items:
     lesson: 4
     prompt: "Envieu la documentació ___, abans que acabi el termini."
     hint: "locució de rapidesa formal"
-    answers: ["al més aviat possible", "tan aviat com sigui possible"]
+    answers: ["al més aviat possible", "tan aviat com sigui possible", "com més aviat millor"]
     wrong_answers:
       - text: "a la major brevetat"
         why: "«A la major brevetat» és un calc de «a la mayor brevedad». La forma genuïna és *al més aviat possible*."
@@ -781,11 +782,11 @@ items:
     point: assabentar-adonar
     lesson: 4
     cue: "Digues que l'Arnau va notar l'error en llegir la resolució."
-    chunks: ["l'Arnau", "es", "va", "adonar", "de", "l'error", "en", "llegir-la"]
+    chunks: ["l'Arnau", "es", "va", "adonar", "de", "l'error", "en llegir", "la resolució"]
     extra: ["donar", "compte"]
     answers:
-      - "L'Arnau es va adonar de l'error en llegir-la."
-      - "En llegir-la, l'Arnau es va adonar de l'error."
+      - "L'Arnau es va adonar de l'error en llegir la resolució."
+      - "En llegir la resolució, l'Arnau es va adonar de l'error."
     explanation: "Notar una cosa que tens davant és *adonar-se*. *Donar-se compte* és un castellanisme."
 
   - id: b2-53-051
@@ -824,9 +825,9 @@ items:
     distractors:
       - text: "ocurrir"
         why: "En català s'escriu *ocórrer*, amb *o*. *Ocurrir* és la forma castellana."
-      - text: "acudir"
-        why: "*Acudir* vol dir anar a un lloc. Una idea que ve al cap *s'ocorre*."
-    explanation: "Una idea que ve al cap *s'ocorre*. En català s'escriu *ocórrer*, i *acudir* vol dir anar."
+      - text: "ocorregut"
+        why: "Darrere de *va* cal l'infinitiu: *se li va ocórrer*."
+    explanation: "Una idea que ve al cap *s'ocorre* (o *s'acut*). En català s'escriu *ocórrer*, amb *o*."
 
   - id: b2-53-054
     type: choice
@@ -875,7 +876,7 @@ items:
     lesson: 5
     prompt: "La reunió ha anat bé; ___, el projecte tira endavant."
     hint: "connector de conseqüència"
-    answers: ["per tant"]
+    answers: ["per tant", "així doncs", "per consegüent", "en conseqüència", "consegüentment"]
     wrong_answers:
       - text: "per lo tant"
         why: "*Per lo tant* és un calc de «por lo tanto». En català: *per tant*."
@@ -915,6 +916,7 @@ items:
     answers:
       - "Us atendrem al més aviat possible."
       - "Us atendrem tan aviat com sigui possible."
+      - "Us atendrem com més aviat millor."
     wrong_answers:
       - text: "Us atendrem al més aviat."
         why: "La locució sencera és *al més aviat possible*."
@@ -968,7 +970,7 @@ items:
 
       A la finestreta, el funcionari li va demanar el justificant del pagament de la taxa. La Núria es va adonar que l'havia deixat a casa. Se li va ocórrer tornar-hi a la tarda: pel que fa als horaris, l'oficina obre fins a les set. A la tarda, el caixer automàtic s'havia espatllat i va haver de fer cua a la finestreta del costat, però finalment va aconseguir el certificat.
 
-      D'acord amb les instruccions, va instal·lar el programa a l'ordinador. Al principi es va espantar: el programa semblava complicat. Però, en relació amb el manual, tot era molt clar: calia omplir un formulari, adjuntar-hi el DNI i signar amb la contrasenya. En pocs minuts va assolir el seu objectiu: va presentar la primera sol·licitud sense sortir de casa.
+      D'acord amb les instruccions, va instal·lar el programa a l'ordinador. Al principi es va espantar: el programa semblava complicat. Però, amb el manual, tot era molt clar: calia omplir un formulari, adjuntar-hi el DNI i signar amb la contrasenya. En pocs minuts va assolir el seu objectiu: va presentar la primera sol·licitud sense sortir de casa.
 
       Ara la Núria diu que no tornarà a fer cua si ho pot evitar. «He après que la majoria de tràmits es poden fer des del sofà», explica. I afegeix, rient: «El proper objectiu és que la meva mare també s'hi animi». La setmana que ve ajudarà la seva mare a tramitar la renovació del passaport.
     questions:

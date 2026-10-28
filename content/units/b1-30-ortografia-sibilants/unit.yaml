@@ -218,7 +218,7 @@ items:
       - text: "adresa"
         why: "*Adreça* s'escriu amb *ç* davant de *a*."
       - text: "adreca"
-        why: "*Adreca* sonaria «adreka»: davant de *a*, el so suau és *ç*."
+        why: "*Adreca* sonaria «adreka»: davant de *a*, el so de *s* sorda s'escriu *ç*."
     explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
 
   - id: b1-30-006
@@ -302,7 +302,7 @@ items:
       - text: "adresa"
         why: "*Adreça* s'escriu amb *ç* davant de *a*."
       - text: "adreca"
-        why: "*Adreca* sonaria «adreka»: el so suau davant de *a* és *ç*."
+        why: "*Adreca* sonaria «adreka»: davant de *a*, el so de *s* sorda s'escriu *ç*."
     grading: strict
     explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
 
@@ -461,7 +461,7 @@ items:
     answer: "Anar amb moltes presses, atrafegat."
     distractors:
       - text: "Anar sense rumb, a poc a poc."
-        why: "Això seria *badar*. *Anar de corcoll* és anar amb presses."
+        why: "*Anar de corcoll* és anar amb presses, no a poc a poc."
       - text: "Deixar la feina a mitges."
         why: "*Anar de corcoll* és tenir molta feina, no deixar-la."
     explanation: "*Anar de corcoll* vol dir anar amb moltes presses, atrafegat."
@@ -646,7 +646,7 @@ items:
       - text: "decissió"
         why: "*Decissió* amb *ss* no és correcte: és *decisió*, amb una *s*."
       - text: "desició"
-        why: "*Desició* és un calc de «decisión». En català és *decisió*."
+        why: "*Decisió* comença amb *dec-*, com *decidir*."
     explanation: "El nom del verb *decidir* és *decisió*, amb *s*."
 
   - id: b1-30-037
@@ -817,7 +817,7 @@ items:
     fix: "adreça"
     fix_distractors:
       - text: "adreca"
-        why: "*Adreca* sonaria «adreka»: davant de *a*, el so suau és *ç*."
+        why: "*Adreca* sonaria «adreka»: davant de *a*, el so de *s* sorda s'escriu *ç*."
       - text: "adreza"
         why: "*Adreça* no porta mai *z*: és amb *ç*."
     explanation: "Davant de *a*, el so de *s* sorda s'escriu amb *ç*: *adreça*."
@@ -899,7 +899,7 @@ items:
     point: s-ss-z
     lesson: 5
     title: "Nota per a l'Ibrahim"
-    text: "Si us plau, pa{ss|s}a demà pel despatx: és nece{ss|s}ari parlar dels venciments del mes. Porta alguna co{s|ss}sa de beure; a la cuina no hi ha qua{s|ss}i res. El codi nou és el {z|s}ero-nou-dos. Ah, i porta el justificant del metge!"
+    text: "Si us plau, pa{ss|s}a demà pel despatx: és nece{ss|s}ari parlar dels venciments del mes. Porta alguna co{s|ss}a de beure; a la cuina no hi ha qua{s|ss}i res. El codi nou és el {z|s}ero-nou-dos. Ah, i porta el justificant del metge!"
     explanation: "*Passar* i *necessari* s'escriuen amb *ss*. *Cosa* i *quasi* sonen amb *s* sonora: una *s*. *Zero* porta *z*."
 
   - id: b1-30-059

@@ -31,7 +31,7 @@ Estratègia: primer mira el context (article, nom, adjectiu) per saber el gèner
 |---|---|
 | femení regular | tranquil → tranquil·la; negre → negra |
 | femenins irregulars | actor → **actriu**; poeta, metge, jutge → **poetessa, metgessa, jutgessa**; arqueòleg → **arqueòloga** |
-| plural amb canvis | comer**ç** → comer**c**os; anti**c** → anti**g**ues; assai**g** → assa**j**os |
+| plural amb canvis | comerç → comer**ços**; anti**c** → anti**g**ues; assai**g** → assa**j**os (o assaigs) |
 | invariables | elegant (m. i f.); llapis (sing. i pl.) |
 | gènere = significat | **el** cometa (astre) / **la** cometa (estel); **la** fi (final) / **el** fi (objectiu) |
 

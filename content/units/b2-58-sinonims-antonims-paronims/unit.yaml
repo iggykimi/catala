@@ -200,7 +200,7 @@ items:
     type: choice
     point: paronims-propers
     lesson: 1
-    prompt: "Per atendre el públic cal una bona ___."
+    prompt: "Per atendre el públic cal una bona ___: somriure i tenir paciència."
     answer: "actitud"
     distractors:
       - text: "aptitud"
@@ -278,7 +278,7 @@ items:
     point: sinonims
     lesson: 1
     title: "Missatge al suport tècnic"
-    text: "Hola: m'he comprat un portàtil nou. He comparat deu models i he {triat|tret|traït} el més lleuger. El dependent em va {assegurar|assegurat|asseguren} que la bateria dura deu hores. A casa no puc {obrir|obrint|obert} els adjunts del correu electrònic i el programa em recomana {esborrar|esborrany|recuperar} els fitxers temporals. A la safata d'entrada tinc deu missatges sense llegir. Em podeu ajudar?"
+    text: "Hola: m'he comprat un portàtil nou. He comparat deu models i he {triat|tret|traït} el més lleuger. El dependent em va {assegurar|assegurat|asseguren} que la bateria dura deu hores. A casa no puc {obrir|obrint|obert} els adjunts del correu electrònic i el programa em recomana {esborrar|esborrany|esborrada} els fitxers temporals. A la safata d'entrada tinc deu missatges sense llegir. Em podeu ajudar?"
     explanation: "He *triat* (= *escollit*) un model; el dependent em va *assegurar* (= *dir, afirmar*) que la bateria dura; no puc *obrir* els adjunts; em recomana *esborrar* (= *eliminar*) els temporals."
 
   - id: b2-58-011
@@ -358,7 +358,7 @@ items:
       - text: "preveure"
         why: "El subjecte («la llei») demana un verb conjugat: *preveu*."
     grading: tolerant
-    explanation: "La llei anuncia les sancions: *preveure*."
+    explanation: "La llei estableix per endavant les sancions: *preveure*. *Prevenir* seria impedir alguna cosa."
 
   - id: b2-58-017
     type: fill
@@ -418,7 +418,7 @@ items:
     answer: "escollir"
     distractors:
       - text: "treure"
-        why: "*Treure* és treure una cosa d'un lloc, no decidir-se per una opció."
+        why: "*Treure* és fer sortir una cosa d'un lloc, no decidir-se per una opció."
       - text: "trair"
         why: "*Trair* és enganyar la confiança d'algú."
     explanation: "*Triar* i *escollir* són sinònims: decidir-se per una opció."
@@ -458,8 +458,8 @@ items:
     distractors:
       - text: "no fa el mateix"
         why: "*Fer* el mateix parla d'una acció, no de dues coses diferents."
-      - text: "no vol dir el mateix"
-        why: "*Voler dir* parla del significat de les paraules, no de si dues coses són diferents."
+      - text: "no està el mateix"
+        why: "Per comparar dues coses no es fa servir *estar*: l'expressió és *no és el mateix*."
     explanation: "Un virus i un error són coses semblants, però diferents: *no és el mateix*."
 
   - id: b2-58-025
@@ -668,10 +668,10 @@ items:
     point: paronims-propers
     lesson: 4
     instruction: "Substitueix la paraula marcada pel parònim correcte."
-    source: "La Fàtima té una gran [[actitud]] per als idiomes."
-    answers: ["La Fàtima té una gran aptitud per als idiomes."]
+    source: "En Wei té molta [[actitud]] per a la música."
+    answers: ["En Wei té molta aptitud per a la música."]
     grading: tolerant
-    explanation: "«Per als idiomes» parla d'una capacitat: *aptitud*."
+    explanation: "«Per a la música» parla d'una capacitat: *aptitud*."
 
   - id: b2-58-042
     type: transform
@@ -691,8 +691,8 @@ items:
     point: sinonims
     lesson: 4
     instruction: "Substitueix «utilitza» per «fa servir»."
-    source: "El programa [[utilitza]] molta bateria."
-    answers: ["El programa fa servir molta bateria."]
+    source: "La Carla [[utilitza]] el portàtil per a tot."
+    answers: ["La Carla fa servir el portàtil per a tot."]
     grading: tolerant
     explanation: "*Utilitzar* i *fer servir* són sinònims."
 
@@ -782,13 +782,13 @@ items:
     type: order
     point: compte-paronims
     lesson: 4
-    cue: "Digues que tens un record molt bonic de l'àvia."
-    chunks: ["Tinc", "un", "record", "molt", "bonic", "de l'àvia"]
+    cue: "Digues que d'aquell viatge en conserves una memòria molt bonica."
+    chunks: ["Guardo", "un", "record", "molt", "bonic", "d'aquell viatge"]
     extra: ["rècord"]
     answers:
-      - "Tinc un record molt bonic de l'àvia."
-      - "Tinc de l'àvia un record molt bonic."
-      - "De l'àvia tinc un record molt bonic."
+      - "Guardo un record molt bonic d'aquell viatge."
+      - "Guardo d'aquell viatge un record molt bonic."
+      - "D'aquell viatge guardo un record molt bonic."
     explanation: "Un *record* és una memòria. Un *rècord* és una marca esportiva."
 
   - id: b2-58-052
@@ -823,7 +823,7 @@ items:
 
       Cinc minuts abans de les nou, l'aplicació ja funcionava. La videotrucada va començar amb retard, però el client no s'hi va estar: li va dir amb totes les lletres que el pressupost li semblava car. La Núria, que s'ho havia preparat bé, li va proposar una alternativa més barata i van posar l'acord blanc sobre negre en un correu.
 
-      Quan va acabar la trucada, la Núria va fer immediatament la còpia de seguretat. Havia après la lliçó: un antivirus eficaç i una bona contrasenya no serveixen de res si no deses les dades. També va activar la verificació en dos passos per protegir la privadesa. Ara també fa servir la tauleta per llegir els informes.
+      Quan va acabar la trucada, la Núria va fer immediatament la còpia de seguretat. Havia après la lliçó: un antivirus eficaç i una bona contrasenya no serveixen de res si no fas còpies de les dades. També va activar la verificació en dos passos per protegir la privadesa. Ara també fa servir la tauleta per llegir els informes.
     questions:
       - prompt: "Per què es va llevar d'hora la Núria?"
         answer: "Tenia una videotrucada important a les nou."
@@ -875,8 +875,8 @@ items:
     prompt: "Vam acordar el preu i ho vam ___ perquè quedés clar."
     answer: "posar blanc sobre negre"
     distractors:
-      - text: "posar negre sobre blanc"
-        why: "L'ordre de l'expressió és *blanc sobre negre*."
+      - text: "deixar en blanc"
+        why: "*Deixar en blanc* és no escriure-hi res; aquí l'acord es posa per escrit."
       - text: "escriure en blanc i negre"
         why: "*En blanc i negre* parla de fotos o d'impressió, no d'un acord."
     explanation: "«Perquè quedés clar» demana escriure l'acord: *posar blanc sobre negre*."
@@ -885,14 +885,11 @@ items:
     type: fill
     point: expressions
     lesson: 5
-    prompt: "Un antivirus gratuït i un de pagament ___: el segon té més funcions."
-    hint: "NO SER EL MATEIX"
-    answers: ["no són el mateix"]
-    wrong_answers:
-      - text: "no és el mateix"
-        why: "El subjecte és plural: *no són*."
+    prompt: "___ un antivirus gratuït que un de pagament: el segon té més funcions."
+    hint: "NO SER EL MATEIX, present"
+    answers: ["No és el mateix"]
     grading: tolerant
-    explanation: "Dues coses semblants, però diferents: *no són el mateix*."
+    explanation: "Per dir que dues coses semblants són diferents: *no és el mateix* una cosa que l'altra."
 
   - id: b2-58-057
     type: find-error
@@ -912,7 +909,7 @@ items:
     type: find-error
     point: paronims-propers
     lesson: 5
-    sentence: "L'empresa vol una persona amb bona aptitud per atendre el públic."
+    sentence: "Amb els clients, la Carla sempre té una aptitud amable i positiva."
     error: "aptitud"
     fix: "actitud"
     fix_distractors:
@@ -920,7 +917,7 @@ items:
         why: "*Altitud* és l'altura sobre el mar."
       - text: "exactitud"
         why: "*Exactitud* és la precisió d'una mesura; no hi té sentit."
-    explanation: "Atendre el públic demana una manera de ser: *actitud*. *Aptitud* és una capacitat."
+    explanation: "Ser amable i positiva és una manera de comportar-se: *actitud*. *Aptitud* és una capacitat."
 
   - id: b2-58-059
     type: find-error

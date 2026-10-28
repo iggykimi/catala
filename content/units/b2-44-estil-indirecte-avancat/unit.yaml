@@ -136,7 +136,7 @@ items:
     type: choice
     point: ordres-indirectes
     lesson: 1
-    prompt: "«Puja a l'escenari.» La regidora em va dir que ___ a l'escenari."
+    prompt: "«Puja a l'escenari.» Ahir, a la festa major, la regidora em va dir que ___ a l'escenari."
     answer: "pugés"
     distractors:
       - text: "pugi"
@@ -149,7 +149,7 @@ items:
     type: choice
     point: ordres-indirectes
     lesson: 1
-    prompt: "«No parleu durant la votació.» Ens van demanar que ___ durant la votació."
+    prompt: "«No parleu durant la votació.» Al ple de dilluns, ens van demanar que ___ durant la votació."
     answer: "no parléssim"
     distractors:
       - text: "no parlem"
@@ -191,8 +191,8 @@ items:
     prompt: "«On és la sala de plens?» Va preguntar ___."
     answer: "on era la sala de plens"
     distractors:
-      - text: "on és la sala de plens"
-        why: "Amb «va preguntar», en passat, el present *és* passa a imperfet: *era*."
+      - text: "si on era la sala de plens"
+        why: "Les preguntes parcials no porten *si*: l'interrogatiu (*on*) va sol."
       - text: "si era la sala de plens"
         why: "«On és…?» és parcial: manté *on* i no porta *si*."
     explanation: "«On és…?» és una pregunta parcial: manté l'interrogatiu (*on*), sense *si*. Amb «va preguntar», en passat, *és* passa a *era*."
@@ -201,11 +201,11 @@ items:
     type: choice
     point: preguntes-indirectes
     lesson: 1
-    prompt: "«Quants regidors hi ha?» Va voler saber ___."
+    prompt: "«Quants regidors hi ha a la sala?» Va voler saber ___ a la sala."
     answer: "quants regidors hi havia"
     distractors:
       - text: "quants regidors hi ha"
-        why: "Amb «va voler saber», en passat, *hi ha* passa a *hi havia*."
+        why: "Parla d'un moment passat i ja acabat: amb «va voler saber», *hi ha* passa a *hi havia*."
       - text: "si quants regidors hi havia"
         why: "Les preguntes parcials no porten *si*: mantenen l'interrogatiu (*quants*)."
     explanation: "«Quants…?» és una pregunta parcial: manté l'interrogatiu, sense *si*. Amb el verb principal en passat, *hi ha* passa a *hi havia*."
@@ -240,14 +240,14 @@ items:
     point: ordres-indirectes
     lesson: 1
     title: "Un encàrrec de l'alcalde"
-    text: "L'alcalde em va dir que {passés|passi|passa} pel despatx, que {signés|signi|signa} l'acta i que no {arribés|arribi|arriba} tard. Després em va preguntar {si|què|que} necessitava ajuda."
+    text: "Dilluns passat, l'alcalde em va dir que {passés|passi|passa} pel despatx aquell mateix dia, que {signés|signi|signa} l'acta i que no {arribés|arribi|arriba} tard. Després em va preguntar {si|què|que} necessitava ajuda."
     explanation: "Amb el verb principal en passat, les ordres porten l'imperfet de subjuntiu (*passés*, *signés*, *arribés*), i les preguntes totals porten *si*."
 
   - id: b2-44-010
     type: fill
     point: ordres-indirectes
     lesson: 1
-    prompt: "«Signa l'acta.» Em va dir que ___ l'acta."
+    prompt: "«Signa l'acta.» Em va dir que ___ l'acta, i la vaig signar de seguida."
     hint: "signar, imperfet de subjuntiu"
     answers: ["signés"]
     wrong_answers:
@@ -298,7 +298,7 @@ items:
     type: fill
     point: ordres-indirectes
     lesson: 2
-    prompt: "«Truca al conserge.» Em va dir que ___ al conserge."
+    prompt: "«Truca al conserge.» Em va dir que ___ al conserge, i hi vaig trucar."
     hint: "trucar, imperfet de subjuntiu"
     answers: ["truqués"]
     wrong_answers:
@@ -311,25 +311,25 @@ items:
     type: fill
     point: ordres-indirectes
     lesson: 2
-    prompt: "«No obriu les urnes fins a les vuit.» Ens van ordenar que ___ les urnes fins a les vuit."
+    prompt: "«No obriu les urnes fins a les vuit.» Ahir ens van ordenar que ___ les urnes fins a les vuit."
     hint: "obrir, imperfet de subjuntiu, primera persona del plural"
     answers: ["no obríssim"]
     wrong_answers:
       - text: "no obrim"
         why: "*Obrim* és present. Amb «van ordenar», en passat, cal l'imperfet: *obríssim*."
     grading: tolerant
-    explanation: "L'ordre «obreu» és per a «nosaltres» (*ens*) i «van ordenar» és passat: cal *no obríssim*."
+    explanation: "L'ordre «no obriu» és per a «nosaltres» (*ens*) i «van ordenar» és passat: cal *no obríssim*."
 
   - id: b2-44-016
     type: fill
     point: preguntes-indirectes
     lesson: 2
-    prompt: "«Qui presideix la comissió?» Van preguntar ___ la comissió."
+    prompt: "«Qui presideix la sessió?» Al ple d'ahir, van preguntar ___ la sessió."
     hint: "l'interrogatiu «qui» + presidir, imperfet"
     answers: ["qui presidia"]
     wrong_answers:
       - text: "qui presideix"
-        why: "Amb «van preguntar», en passat, el present passa a imperfet: *presidia*."
+        why: "La sessió ja s'ha acabat: amb «van preguntar», en passat, el present passa a imperfet, *presidia*."
     grading: tolerant
     explanation: "«Qui…?» és una pregunta parcial: manté *qui*, sense *si*. Amb «van preguntar», en passat, *presideix* passa a *presidia*."
 
@@ -342,7 +342,7 @@ items:
     answers: ["si m'agradava"]
     wrong_answers:
       - text: "si m'agrada"
-        why: "El temps també canvia: amb «va preguntar», en passat, *agrada* passa a *agradava*."
+        why: "La pista demana l'imperfet: amb «va preguntar», en passat, *agrada* passa a *agradava*."
       - text: "si t'agradava"
         why: "«T'agrada» va adreçat a qui ho explica: en estil indirecte passa a primera persona, *m'agradava*."
     grading: tolerant
@@ -375,7 +375,7 @@ items:
     type: choice
     point: ordres-indirectes
     lesson: 2
-    prompt: "«Omple el formulari», em va dir ahir. Explica-ho: em va dir que ___ el formulari."
+    prompt: "«Omple el formulari», em va dir ahir, i el vaig omplir al moment. Explica-ho: em va dir que ___ el formulari."
     answer: "omplís"
     distractors:
       - text: "ompli"
@@ -393,8 +393,8 @@ items:
     distractors:
       - text: "si es votaria la moció"
         why: "«Quan…?» és una pregunta parcial: manté *quan* i no porta *si*."
-      - text: "quan es votarà la moció"
-        why: "Amb «va preguntar», en passat, el futur passa a condicional: *es votaria*."
+      - text: "quan es votés la moció"
+        why: "*Es votés* és subjuntiu. La pregunta indirecta va en indicatiu, i el futur passa a condicional: *es votaria*."
     explanation: "«Quan…?» és parcial: manté l'interrogatiu, sense *si*. Amb «va preguntar», en passat, el futur *es votarà* passa a condicional: *es votaria*."
 
   - id: b2-44-022
@@ -402,13 +402,13 @@ items:
     point: ordres-indirectes
     lesson: 2
     instruction: "Passa l'ordre a estil indirecte."
-    source: "L'alcalde va dir als regidors: «[[Seieu i escolteu amb atenció.]]»"
-    start: "L'alcalde va dir als regidors que"
-    answers: ["L'alcalde va dir als regidors que seguessin i escoltessin amb atenció.", "L'alcalde va dir als regidors que escoltessin i seguessin amb atenció."]
+    source: "Al ple d'ahir, l'alcalde va dir als regidors: «[[Seieu i escolteu amb atenció.]]»"
+    start: "Al ple d'ahir, l'alcalde va dir als regidors que"
+    answers: ["Al ple d'ahir, l'alcalde va dir als regidors que seguessin i escoltessin amb atenció.", "Al ple d'ahir, l'alcalde va dir als regidors que escoltessin i seguessin amb atenció."]
     wrong_answers:
-      - text: "L'alcalde va dir als regidors que seguiu i escolteu amb atenció."
+      - text: "Al ple d'ahir, l'alcalde va dir als regidors que seguiu i escolteu amb atenció."
         why: "L'imperatiu no es manté darrere de *que*: cal l'imperfet de subjuntiu (*seguessin*, *escoltessin*)."
-      - text: "L'alcalde va dir als regidors que seguin i escoltin amb atenció."
+      - text: "Al ple d'ahir, l'alcalde va dir als regidors que seguin i escoltin amb atenció."
         why: "*Seguin* i *escoltin* van en present de subjuntiu. Amb «va dir», en passat, cal l'imperfet."
     grading: tolerant
     explanation: "L'ordre «seieu i escolteu» era per als regidors i «va dir» és passat: *que seguessin i escoltessin*, amb l'imperfet de subjuntiu."
@@ -418,13 +418,13 @@ items:
     point: preguntes-indirectes
     lesson: 2
     instruction: "Passa la pregunta a estil indirecte."
-    source: "La periodista va preguntar: «[[A quina hora comença]] el ple?»"
-    start: "La periodista va preguntar"
-    answers: ["La periodista va preguntar a quina hora començava el ple."]
+    source: "Abans del ple d'ahir, la periodista va preguntar: «[[A quina hora comença]] el ple?»"
+    start: "Abans del ple d'ahir, la periodista va preguntar"
+    answers: ["Abans del ple d'ahir, la periodista va preguntar a quina hora començava el ple."]
     wrong_answers:
-      - text: "La periodista va preguntar si a quina hora començava el ple."
+      - text: "Abans del ple d'ahir, la periodista va preguntar si a quina hora començava el ple."
         why: "Les preguntes parcials no porten *si*."
-      - text: "La periodista va preguntar a quina hora comença el ple."
+      - text: "Abans del ple d'ahir, la periodista va preguntar a quina hora comença el ple."
         why: "El temps també canvia: amb «va preguntar», en passat, *comença* passa a *començava*."
     grading: tolerant
     explanation: "«A quina hora…?» és parcial: manté l'interrogatiu, sense *si*. Amb «va preguntar», en passat, *comença* passa a *començava*."
@@ -434,7 +434,7 @@ items:
     point: preguntes-indirectes
     lesson: 2
     title: "Una roda de premsa"
-    text: "En la roda de premsa, el periodista va preguntar {qui|si|què} havia redactat l'informe, {quan|si|què} es publicaria i {si|qui|què} el ple l'havia aprovat."
+    text: "En la roda de premsa, el periodista va preguntar {qui|si qui|què} havia redactat l'informe, {quan|si quan|quant} es publicaria i {si|qui|què} el ple l'havia aprovat."
     explanation: "Les dues primeres són parcials i mantenen l'interrogatiu (*qui*, *quan*); la tercera és total i porta *si*. El temps fa un pas enrere."
 
   - id: b2-44-025
@@ -468,13 +468,13 @@ items:
     type: choice
     point: temps-compostos
     lesson: 3
-    prompt: "«Hem aprovat la moció», van anunciar els portaveus. Van anunciar que ___ la moció."
+    prompt: "«Hem aprovat la moció», van anunciar els portaveus el mes passat. Van anunciar que ___ la moció."
     answer: "havien aprovat"
     distractors:
       - text: "han aprovat"
         why: "Amb «van anunciar», en passat, el perfet no es manté: passa a plusquamperfet, *havien aprovat*."
-      - text: "van aprovar"
-        why: "El perfet (*hem aprovat*) passa a plusquamperfet (*havien aprovat*), no a perifràstic."
+      - text: "haurien aprovat"
+        why: "*Haurien aprovat* és condicional compost: presentaria l'aprovació com una hipòtesi. El perfet passa a plusquamperfet: *havien aprovat*."
     explanation: "«Hem aprovat» és perfet i «van anunciar» és passat: el perfet passa a plusquamperfet (*havien aprovat*)."
 
   - id: b2-44-028
@@ -484,8 +484,8 @@ items:
     prompt: "«Hi anirem dijous», van dir els regidors. Van dir que ___ dijous."
     answer: "hi anirien"
     distractors:
-      - text: "hi aniran"
-        why: "Amb «van dir», en passat, el futur passa a condicional: *anirien*."
+      - text: "hi anirem"
+        why: "Qui ho explica no és cap dels regidors: *anirem* passa a tercera persona, i el futur a condicional, *anirien*."
       - text: "hi anessin"
         why: "*Anessin* és subjuntiu. Darrere de *dir que*, una afirmació porta indicatiu: *anirien*."
     explanation: "«Anirem» és futur i «van dir» és passat: el futur passa a condicional. Eren els regidors, en plural: *hi anirien*."
@@ -507,20 +507,20 @@ items:
     type: choice
     point: pronoms-possessius
     lesson: 3
-    prompt: "De visita a la seu nova, el vigilant recordava les normes de l'edifici vell: «Aquí no es pot fumar.» Va avisar ___ no es podia fumar."
+    prompt: "Fa anys, a l'edifici vell, el vigilant ens va dir: «Aquí no es pot fumar.» Ara, des de la seu nova, ho expliques: va dir ___ no es podia fumar."
     answer: "que allà"
     distractors:
       - text: "que aquí"
-        why: "«Aquí» és on es parla ara (la seu nova). Les normes eren de l'edifici vell: *allà*."
+        why: "*Aquí* és on ets ara, la seu nova. El vigilant parlava de l'edifici vell: *allà*."
       - text: "qu'allà"
-        why: "*Que* només s'apostrofa davant de vocal: *qu'era*, però *que allà*."
-    explanation: "El vigilant parla de l'edifici vell des de la seu nova: el lloc ha canviat i *aquí* passa a *allà*."
+        why: "*Que* no s'apostrofa mai: *que allà*."
+    explanation: "El vigilant parlava de l'edifici vell i tu ho expliques des de la seu nova: el lloc ha canviat i *aquí* passa a *allà*."
 
   - id: b2-44-031
     type: choice
     point: compte-concordanca
     lesson: 3
-    prompt: "«Ves-hi.» Em va demanar que ___."
+    prompt: "«Ves-hi.» Em va demanar que ___, i hi vaig anar l'endemà."
     answer: "hi anés"
     distractors:
       - text: "hi vagi"
@@ -533,7 +533,7 @@ items:
     type: find-error
     point: compte-concordanca
     lesson: 3
-    sentence: "El president ens va demanar que votem a mà alçada."
+    sentence: "Al ple d'ahir, el president ens va demanar que votem a mà alçada."
     error: "que votem"
     fix: "que votéssim"
     fix_distractors:
@@ -547,7 +547,7 @@ items:
     type: find-error
     point: compte-concordanca
     lesson: 3
-    sentence: "La secretària em va dir que li porti l'acta signada."
+    sentence: "Ahir la secretària em va dir que li porti l'acta signada, i l'hi vaig portar."
     error: "que li porti"
     fix: "que li portés"
     fix_distractors:
@@ -611,21 +611,21 @@ items:
     type: fill
     point: pronoms-possessius
     lesson: 3
-    prompt: "«Demà porto els pressupostos.» Va dir que ___ portaria els pressupostos."
+    prompt: "La setmana passada, la regidora va dir: «Demà porto els pressupostos.» Va dir que ___ portaria els pressupostos."
     hint: "l'adverbi «demà» en estil indirecte"
-    answers: ["l'endemà"]
+    answers: ["l'endemà", "el dia següent"]
     wrong_answers:
       - text: "demà"
-        why: "Qui ho explica ja és un altre dia: *demà* passa a *l'endemà*."
+        why: "Qui ho explica ja és una altra setmana: *demà* passa a *l'endemà*."
     grading: tolerant
-    explanation: "«Va dir» és passat i «portaria» mostra que ja som un altre dia: *demà* passa a *l'endemà*."
+    explanation: "La regidora ho va dir la setmana passada: el dia de què parlava ja no és demà, i *demà* passa a *l'endemà* (o *el dia següent*)."
 
   - id: b2-44-039
     type: inline-choice
     point: temps-compostos
     lesson: 3
     title: "L'acta del ple"
-    text: "«Hem votat a favor i demà portarem la proposta al consell», va anunciar la regidora. A la tarda va dir que {el seu|el meu|el teu} grup {havia votat|ha votat|votava} a favor i que {l'endemà|demà|ahir} {portaria|portarà|portés} la proposta al consell."
+    text: "«Hem votat a favor i demà portarem la proposta al consell», va anunciar la regidora dilluns. Divendres, en la crònica del ple, vaig escriure que {el seu|el meu|el teu} grup {havia votat|ha votat|votava} a favor i que {l'endemà|demà|ahir} {portaria|portarà|portés} la proposta al consell."
     explanation: "Qui explica no és la regidora: *el seu*. Amb el verb en passat, el perfet passa a plusquamperfet (*havia votat*), *demà* passa a *l'endemà* i el futur a condicional (*portaria*)."
 
   - id: b2-44-040
@@ -682,8 +682,6 @@ items:
     wrong_answers:
       - text: "L'alcaldessa va anunciar que el govern ha arribat a un acord."
         why: "Amb «va anunciar», en passat, el perfet passa a plusquamperfet: *havia arribat*."
-      - text: "L'alcaldessa va anunciar que el govern va arribar a un acord."
-        why: "El perfet (*ha arribat*) passa a plusquamperfet (*havia arribat*), no a perifràstic."
     grading: tolerant
     explanation: "«Ha arribat» és perfet i «va anunciar» és passat: el perfet passa a plusquamperfet (*havia arribat*)."
 
@@ -692,12 +690,13 @@ items:
     point: pronoms-possessius
     lesson: 4
     instruction: "Passa la frase a estil indirecte."
-    source: "El regidor va dir: «[[El meu vot serà]] favorable.»"
-    answers: ["El regidor va dir que el seu vot seria favorable."]
+    source: "Abans de la votació d'ahir, el regidor va dir: «[[El meu vot serà]] favorable.»"
+    start: "Abans de la votació d'ahir, el regidor va dir que"
+    answers: ["Abans de la votació d'ahir, el regidor va dir que el seu vot seria favorable."]
     wrong_answers:
-      - text: "El regidor va dir que el meu vot seria favorable."
+      - text: "Abans de la votació d'ahir, el regidor va dir que el meu vot seria favorable."
         why: "El vot és del regidor, no de qui ho explica: *el seu vot*."
-      - text: "El regidor va dir que el seu vot serà favorable."
+      - text: "Abans de la votació d'ahir, el regidor va dir que el seu vot serà favorable."
         why: "El temps també canvia: amb «va dir», en passat, el futur passa a condicional, *seria*."
     grading: tolerant
     explanation: "Qui explica no és el regidor: *el meu* passa a *el seu*. «Serà» és futur i «va dir» és passat: passa a condicional (*seria*)."
@@ -707,13 +706,15 @@ items:
     point: compte-concordanca
     lesson: 4
     instruction: "Passa l'ordre a estil indirecte."
-    source: "Ens van demanar: «[[No feu fotos dins la sala.]]»"
-    start: "Ens van demanar que"
-    answers: ["Ens van demanar que no féssim fotos dins la sala."]
+    source: "Durant la visita d'ahir, ens van demanar: «[[No feu fotos dins la sala.]]»"
+    start: "Durant la visita d'ahir, ens van demanar que"
+    answers: ["Durant la visita d'ahir, ens van demanar que no féssim fotos dins la sala."]
     wrong_answers:
-      - text: "Ens van demanar que no fem fotos dins la sala."
-        why: "L'error típic: amb «van demanar», en passat, el present *fem* passa a imperfet, *féssim*."
-      - text: "Ens van demanar que no faríem fotos dins la sala."
+      - text: "Durant la visita d'ahir, ens van demanar que no fem fotos dins la sala."
+        why: "*Fem* és indicatiu i present. Darrere de *demanar que* cal el subjuntiu, i amb «van demanar», en passat, l'imperfet: *féssim*."
+      - text: "Durant la visita d'ahir, ens van demanar que no fessin fotos dins la sala."
+        why: "L'ordre era per a «nosaltres» (*ens*): *no féssim*."
+      - text: "Durant la visita d'ahir, ens van demanar que no faríem fotos dins la sala."
         why: "*Faríem* és condicional. Darrere de *demanar que* cal el subjuntiu."
     grading: tolerant
     explanation: "«Van demanar» és passat i l'ordre és per a «nosaltres» (*ens*): *que no féssim*, amb l'imperfet de subjuntiu."
@@ -735,7 +736,7 @@ items:
     type: fill
     point: ordres-indirectes
     lesson: 4
-    prompt: "«Presenteu les esmenes abans de divendres», va insistir el president als grups municipals. El president va insistir que ___ les esmenes abans de divendres."
+    prompt: "L'any passat, el president va insistir als grups municipals: «Presenteu les esmenes abans de l'estiu.» Va insistir que ___ les esmenes abans de l'estiu."
     hint: "presentar, imperfet de subjuntiu, tercera persona del plural"
     answers: ["presentessin"]
     wrong_answers:
@@ -783,7 +784,7 @@ items:
     type: choice
     point: pronoms-possessius
     lesson: 4
-    prompt: "«Ahir vaig signar el decret.» Va explicar que ___ havia signat el decret."
+    prompt: "Fa un mes, el regidor va dir: «Ahir vaig signar el decret.» Va explicar que ___ havia signat el decret."
     answer: "el dia abans"
     distractors:
       - text: "ahir"
@@ -831,7 +832,7 @@ items:
 
       En el torn de paraula dels grups petits, un regidor va preguntar si el govern pensava apujar les taxes. L'alcaldessa va respondre que no hi hauria cap pujada i que el seu equip buscava el consens amb tots els grups. Un altre regidor va proposar que es votés una moció de rebuig, però la majoria hi va votar en contra i la moció no va prosperar.
 
-      Al final, el ple va votar l'ordre del dia. Es van aprovar dues mocions per unanimitat, una es va rebutjar i tres regidors es van abstenir en la votació de l'esmena de la residència. La sessió es va acabar a les onze de la nit. L'acta es publicarà al web municipal al cap d'una setmana.
+      Al final, el ple va votar els punts de l'ordre del dia. Es van aprovar dues mocions per unanimitat, una es va rebutjar i tres regidors es van abstenir en la votació de l'esmena de la residència. La sessió es va acabar a les onze de la nit. L'acta es publicarà al web municipal al cap d'una setmana.
     questions:
       - prompt: "Per què va començar tard el ple?"
         answer: "Perquè un grup va voler reunir-se amb urgència abans de la sessió."
@@ -854,7 +855,7 @@ items:
             why: "L'alcaldessa va dir que no hi hauria cap pujada."
           - text: "Que el govern encara no ho havia decidit."
             why: "L'alcaldessa va ser clara: no hi hauria cap pujada."
-      - prompt: "Com va acabar la votació de l'ordre del dia?"
+      - prompt: "Com van acabar les votacions de l'ordre del dia?"
         answer: "Amb dues mocions aprovades, una rebutjada i tres abstencions."
         distractors:
           - text: "Amb totes les mocions aprovades per unanimitat."
@@ -867,7 +868,7 @@ items:
     type: find-error
     point: compte-concordanca
     lesson: 5
-    sentence: "El síndic ens va recomanar que llegim l'informe amb calma."
+    sentence: "Abans del ple de dilluns passat, el síndic ens va recomanar que llegim l'informe amb calma."
     error: "que llegim"
     fix: "que llegíssim"
     fix_distractors:
@@ -881,7 +882,7 @@ items:
     type: find-error
     point: temps-compostos
     lesson: 5
-    sentence: "Va afirmar que el pressupost s'aprovarà per unanimitat."
+    sentence: "Abans del ple de l'any passat, va afirmar que el pressupost s'aprovarà per unanimitat."
     error: "s'aprovarà"
     fix: "s'aprovaria"
     fix_distractors:
@@ -933,15 +934,15 @@ items:
     distractors:
       - text: "si em podia passar"
         why: "*Em* és primera persona. El favor és per a qui va preguntar, una altra persona: *li*."
-      - text: "si li puc passar"
-        why: "El temps també canvia: amb «va preguntar», en passat, *pots* passa a *podia*."
+      - text: "si li pogués passar"
+        why: "*Pogués* és subjuntiu. La pregunta indirecta va en indicatiu: *si li podia passar*."
     explanation: "«Em pots…?» és una pregunta total (*si*). El favor és per a qui pregunta: *em* passa a *li*. Amb el verb en passat, *pots* passa a *podia*."
 
   - id: b2-44-061
     type: fill
     point: temps-compostos
     lesson: 5
-    prompt: "«Serem puntuals», van prometre els assistents. Van prometre que ___ puntuals."
+    prompt: "«Serem puntuals», van prometre els assistents abans de la reunió de dilluns passat. Van prometre que ___ puntuals."
     hint: "ser, condicional, tercera persona del plural"
     answers: ["serien"]
     wrong_answers:
@@ -954,7 +955,7 @@ items:
     type: fill
     point: ordres-indirectes
     lesson: 5
-    prompt: "«Digues la veritat.» Em va exigir que ___ la veritat."
+    prompt: "«Digues la veritat.» Em va exigir que ___ la veritat, i la hi vaig dir."
     hint: "dir, imperfet de subjuntiu"
     answers: ["digués"]
     wrong_answers:
@@ -968,13 +969,13 @@ items:
     point: preguntes-indirectes
     lesson: 5
     instruction: "Passa la pregunta a estil indirecte."
-    source: "Li van preguntar: «[[Quan es publicarà]] l'acta?»"
-    start: "Li van preguntar"
-    answers: ["Li van preguntar quan es publicaria l'acta."]
+    source: "L'any passat li van preguntar: «[[Quan es publicarà]] l'acta?»"
+    start: "L'any passat li van preguntar"
+    answers: ["L'any passat li van preguntar quan es publicaria l'acta."]
     wrong_answers:
-      - text: "Li van preguntar quan es publicarà l'acta."
+      - text: "L'any passat li van preguntar quan es publicarà l'acta."
         why: "El temps també canvia: amb «van preguntar», en passat, el futur passa a condicional."
-      - text: "Li van preguntar si es publicaria l'acta."
+      - text: "L'any passat li van preguntar si es publicaria l'acta."
         why: "La pregunta directa és parcial (*quan*): no pot passar a total (*si*)."
     grading: tolerant
     explanation: "«Quan…?» és parcial: manté *quan*, sense *si*. «Es publicarà» és futur i «van preguntar» és passat: passa a condicional (*es publicaria*)."

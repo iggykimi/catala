@@ -218,7 +218,7 @@ items:
     answer: "es tracta de"
     distractors:
       - text: "tracta de"
-        why: "Falta el pronom: el verb és pronominal, *es tracta de*."
+        why: "Per dir «és qüestió de», el verb és pronominal: *es tracta de*."
       - text: "es tracta amb"
         why: "La preposició és *de*: *es tracta de* la matrícula."
     explanation: "Quan una cosa «és qüestió de» una altra, diem *es tracta de*, sempre amb el pronom *es*."
@@ -650,12 +650,12 @@ items:
     point: regim-a
     lesson: 4
     instruction: "Canvia el subjecte a «la Montse»."
-    source: "[[Em dedico]] a la docència des de fa anys."
+    source: "[[Em dedico]] a l'ensenyament de llengües des de fa anys."
     answers:
-      - "La Montse es dedica a la docència des de fa anys."
-      - "Des de fa anys, la Montse es dedica a la docència."
+      - "La Montse es dedica a l'ensenyament de llengües des de fa anys."
+      - "Des de fa anys, la Montse es dedica a l'ensenyament de llengües."
     wrong_answers:
-      - text: "La Montse es dedica en la docència des de fa anys."
+      - text: "La Montse es dedica en l'ensenyament de llengües des de fa anys."
         why: "*Dedicar-se* regeix *a*, no *en*."
     grading: tolerant
     explanation: "Amb «la Montse», el verb és *es dedica*, i *dedicar-se* regeix *a*."
@@ -867,7 +867,7 @@ items:
     type: find-error
     point: regim-a
     lesson: 5
-    sentence: "En Pau es dedica en la recerca des de fa dos anys."
+    sentence: "La Laia es dedica en la traducció de textos científics."
     error: "dedica en"
     fix: "dedica a"
     fix_distractors:
@@ -875,7 +875,7 @@ items:
         why: "*Dedicar-se* regeix *a*, no *de*."
       - text: "dedica per"
         why: "*Dedicar-se* regeix *a*, no *per*."
-    explanation: "*Dedicar-se* regeix *a*, no *en*: en Pau *es dedica a* la recerca."
+    explanation: "*Dedicar-se* regeix *a*, no *en*: la Laia *es dedica a* la traducció."
 
   - id: b2-45-055
     type: find-error

@@ -65,10 +65,10 @@ En català, si no repetim la idea o l'atribut, *ho* és obligatori. Sense *ho*, 
 
 - ~~—Saps que plou? —Sí, ja sé.~~ → **—Sí, ja ho sé.**
 - ~~—És veritat? —Sí que és.~~ → **—Sí que ho és.**
-- ~~No entenc.~~ → **No ho entenc.**
+- ~~—Vindràs? —Sí, et prometo.~~ → **—Sí, t'ho prometo.**
 - ~~Digues més alt.~~ → **Digues-ho més alt.**
 
-> **Compte!** «Ya entiendo» es diu **ja ho entenc**: el pronom no es pot ometre.
+> **Compte!** On el castellà fa servir «lo» («ya lo sé», «te lo prometo»), el català fa servir *ho*: **ja ho sé**, **t'ho prometo**.
 
 <!-- point: expressions -->
 ## Expressions amb *ho*

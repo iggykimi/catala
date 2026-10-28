@@ -14,7 +14,7 @@ De molts verbs fem un nom femení amb el sufix *-ada*: diu l'acció o, amb un es
 | passejar | **passejada** |
 | cullera | **cullerada** (el contingut) |
 
-Dels adjectius fem noms de qualitat amb *-esa*, sempre amb *ss*:
+Dels adjectius fem noms de qualitat amb *-esa*, sempre amb una sola *s*:
 
 | Adjectiu | Nom en *-esa* |
 |---|---|

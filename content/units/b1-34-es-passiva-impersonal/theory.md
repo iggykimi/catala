@@ -15,7 +15,7 @@ Quan no diem qui fa l'acció, fem servir *es* + verb en tercera persona. És la 
 - **Es regalen** mobles en bon estat.
 - Amb un verb modal, és el modal qui concorda: **es poden** visitar pisos nous.
 
-> **Compte!** El verb no va mai en singular amb un subjecte plural: ~~Es lloga pisos~~ → **Es lloguen pisos**.
+> **Compte!** En la conversa també se sent el verb en singular (*es lloga pisos*), però en registre formal cal la concordança: **Es lloguen pisos**.
 
 <!-- point: impersonal-es -->
 ## La impersonal amb *es*: *es diu que*, *es viu bé*
@@ -39,12 +39,12 @@ El pronom canvia segons on va i com comença el verb.
 
 | On va | Forma | Exemple |
 |---|---|---|
-| davant d'un verb amb consonant | *es* | **es** ven, **es** diu |
+| davant d'un verb que comença per consonant | *es* | **es** ven, **es** diu |
 | davant de vocal o *h* | *s'* | **s'**obre, **s'**ha venut |
 | darrere de l'infinitiu | *-se* | pot llogar-**se** |
 
 - Amb dos verbs, el pronom pot anar davant o darrere: **es** pot visitar o pot visitar-**se**.
-- *Se* tot sol no va mai davant del verb.
+- Davant d'aquests verbs, *se* tot sol és un calc: **es** lloga, **es** pot. (Davant d'un verb que comença per *s*, com *se sap*, també es pot escriure *se*.)
 
 Hi ha més formes quan es combina amb altres pronoms, però aquí no les practiquem.
 
@@ -53,18 +53,18 @@ Hi ha més formes quan es combina amb altres pronoms, però aquí no les practiq
 <!-- point: compte-castella -->
 ## Compte amb el castellà: *se* i la concordança
 
-En castellà, el pronom és «se»: «se alquila». En aquestes construccions, davant del verb sempre és *es*.
+En castellà, el pronom és «se»: «se alquila». En aquestes construccions, davant del verb sempre és *es* (o *s'* davant de vocal).
 
 - ~~Se lloguen habitacions~~ → **Es lloguen** habitacions.
 - ~~Se diu que vindrà~~ → **Es diu** que vindrà.
 - ~~Se veu que és car~~ → **Es veu** que és car.
 
-L'altre error típic és oblidar la concordança: amb un subjecte plural, el verb va en plural.
+L'altre punt és la concordança. En la conversa se sent *es ven cotxes*, amb el verb en singular, però en registre formal (un anunci, un text escrit) amb un subjecte plural el verb va en plural.
 
-- ~~Es ven cotxes~~ → **Es venen** cotxes.
-- ~~Es necessita dos llogaters~~ → **Es necessiten** dos llogaters.
+- **Es venen** cotxes.
+- **Es necessiten** dos llogaters.
 
-> **Compte!** Abans d'escriure, comprova el pronom (~~se~~ → **es**) i la concordança (~~es ven cotxes~~ → **es venen** cotxes).
+> **Compte!** Abans d'escriure, comprova el pronom (~~se~~ → **es**) i, en registre formal, la concordança (**es venen** cotxes).
 
 <!-- point: expressions -->
 ## Fórmules i anuncis amb *es*

@@ -228,7 +228,7 @@ items:
         why: "«Bastante» és la forma castellana. En català és *bastant*."
       - text: "bastantes"
         why: "En català, *bastant* s'escriu sense *e* final: *bastant feina*."
-    explanation: "*Bastant* s'escriu sense *e* final i no canvia: *bastant feina*."
+    explanation: "*Bastant* s'escriu sense *e* final: *bastant feina*."
 
   - id: a2-05-009
     type: choice
@@ -239,8 +239,8 @@ items:
     distractors:
       - text: "gens"
         why: "*Gens* va amb *de* davant d'un nom: *gens de temps*."
-      - text: "cap"
-        why: "*Cap* no va amb noms que no es poden comptar, com «temps»."
+      - text: "gaires"
+        why: "«Temps» és singular: *gaire*."
     explanation: "En una frase negativa, *gaire* va sense *de*: *gaire temps*."
 
   - id: a2-05-010
@@ -253,7 +253,7 @@ items:
       - text: "gaire"
         why: "*Gaire* va sense *de*: *gaire pa*."
       - text: "cap"
-        why: "*Cap* no va amb noms que no es poden comptar, com «pa»."
+        why: "Davant de *de* + nom, la forma és *gens*: *gens de pa*. *Cap* va directament amb el nom."
     explanation: "*Gens* va amb *de* davant d'un nom: *gens de pa*."
 
   - id: a2-05-011
@@ -356,14 +356,14 @@ items:
     lesson: 2
     prompt: "No tinc ___ llet a casa."
     hint: "quantificador negatiu"
-    answers: ["gaire"]
+    answers: ["gaire", "gens de"]
     wrong_answers:
       - text: "gaire de"
         why: "*Gaire* va sense *de*."
       - text: "gens"
         why: "*Gens* va amb *de* davant d'un nom."
     grading: tolerant
-    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire llet*."
+    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire llet*. També es pot dir *gens de llet*."
 
   - id: a2-05-019
     type: fill
@@ -376,7 +376,7 @@ items:
       - text: "gaire"
         why: "*Gaire* va sense *de*: *gaire sucre*."
       - text: "cap"
-        why: "*Cap* no va amb noms que no es poden comptar."
+        why: "Davant de *de* + nom, la forma és *gens*: *gens de sucre*. *Cap* va directament amb el nom."
     grading: tolerant
     explanation: "*Gens* va amb *de* davant d'un nom: *gens de sucre*."
 
@@ -386,14 +386,14 @@ items:
     lesson: 2
     prompt: "—Queda ___ pa a casa? —Sí, una barra sencera."
     hint: "quantificador per a preguntes"
-    answers: ["gaire"]
+    answers: ["gaire", "gens de"]
     wrong_answers:
       - text: "gens"
         why: "*Gens* va amb *de* davant d'un nom."
       - text: "gaire de"
         why: "*Gaire* va sense *de*."
     grading: tolerant
-    explanation: "Per preguntar per una quantitat petita fem servir *gaire*, sense *de*: *gaire pa*."
+    explanation: "Per preguntar per una quantitat petita fem servir *gaire*, sense *de*: *gaire pa*. També es pot dir *gens de pa*."
 
   - id: a2-05-021
     type: order
@@ -462,7 +462,7 @@ items:
     point: gaire-gens
     lesson: 2
     title: "Un missatge a la Núria"
-    text: "Núria, aquesta setmana no tinc {gaire|gens|cap} temps lliure. A la feina no queda {gens|gaire|cap} de calma: tenim {massa|masses|masa} comandes. Demà et truco i m'ajudes amb les bosses."
+    text: "Núria, aquesta setmana no tinc {gaire|gens|gaires} temps lliure. A la feina no queda {gens|gaire|cap} de calma: tenim {massa|massas|masa} comandes. Demà et truco, d'acord?"
     explanation: "*Gaire* va sense *de*: *gaire temps*. *Gens* va amb *de*: *gens de calma*. *Massa* no canvia: *massa comandes*."
 
   # ---------- Lliçó 3 ----------
@@ -519,7 +519,7 @@ items:
       - text: "algú"
         why: "En una frase negativa com aquesta diem *ningú*."
       - text: "cap"
-        why: "«No ve ___ a dinar» no té cap nom: *cap* necessita un nom, com *cap amic*."
+        why: "Per a persones, sense nom, diem *ningú*. Aquí *cap* necessitaria un nom darrere, com *cap amic*."
     explanation: "«Nadie» és castellà. En català: *ningú*."
 
   - id: a2-05-031
@@ -540,7 +540,7 @@ items:
       - text: "algú"
         why: "En una frase negativa com aquesta diem *ningú*."
       - text: "cap"
-        why: "«No hi ha ___ a la botiga» no té cap nom: *cap* necessita un nom, com *cap client*."
+        why: "Per a persones, sense nom, diem *ningú*. Aquí *cap* necessitaria un nom darrere, com *cap client*."
     explanation: "Parlem de persones en una frase negativa: *ningú*."
 
   - id: a2-05-033
@@ -551,7 +551,7 @@ items:
     answer: "res"
     distractors:
       - text: "cap"
-        why: "«No vull ___» no té cap nom: *cap* necessita un nom, com *cap plat*."
+        why: "Per a coses, sense nom, diem *res*. Aquí *cap* necessitaria un nom darrere, com *cap plat*."
       - text: "alguna cosa"
         why: "En una frase negativa, *alguna cosa* passa a *res*."
     explanation: "Parlem de coses en una frase negativa: *res*."
@@ -621,7 +621,7 @@ items:
     answers: ["res"]
     wrong_answers:
       - text: "gens"
-        why: "*Gens* va amb *de* i un nom: *gens de pa*."
+        why: "*Gens* parla de quantitat. Per dir «alguna cosa» en una pregunta, cal *res*."
       - text: "res de"
         why: "*De* necessita un nom darrere."
     grading: tolerant
@@ -666,7 +666,7 @@ items:
       - text: "No hi ha gens ous a la nevera."
         why: "*Gens* va amb *de*: *gens d'ous*."
       - text: "No hi ha cap ous a la nevera."
-        why: "*Cap* va amb un nom en singular."
+        why: "La instrucció demana *gaire*, i amb «ous» fa plural: *gaires ous*."
     grading: tolerant
     explanation: "«Ous» és plural: *gaires ous*."
 
@@ -699,7 +699,7 @@ items:
       - text: "No ve algú a la festa."
         why: "En una frase negativa com aquesta diem *ningú*."
       - text: "No ve cap a la festa."
-        why: "«No ve ___ a la festa» no té cap nom: *cap* necessita un nom, com *cap amic*."
+        why: "Per a persones, sense nom, diem *ningú*. Aquí *cap* necessitaria un nom darrere, com *cap amic*."
     grading: tolerant
     explanation: "En una frase negativa parlem de persones amb *ningú*: *No ve ningú*."
 
@@ -729,6 +729,7 @@ items:
     answers:
       - "La Fàtima tampoc menja pa integral."
       - "La Fàtima no menja pa integral tampoc."
+      - "La Fàtima tampoc no menja pa integral."
     wrong_answers:
       - text: "La Fàtima no també menja pa integral."
         why: "En una frase negativa, *també* passa a *tampoc*."
@@ -758,16 +759,16 @@ items:
     type: fill
     point: negacio
     lesson: 4
-    prompt: "No vull ___ més, gràcies: ja he dinat."
+    prompt: "No necessito ___ més del mercat: ja tinc la nevera plena."
     hint: "ALGUNA COSA, en negativa"
     answers: ["res"]
     wrong_answers:
       - text: "cap"
-        why: "«No vull ___ més» no té cap nom: *cap* necessita un nom, com *cap plat*."
+        why: "Per a coses, sense nom, diem *res*. Aquí *cap* necessitaria un nom darrere, com *cap fruita*."
       - text: "alguna cosa"
         why: "En una frase negativa, *alguna cosa* passa a *res*."
     grading: tolerant
-    explanation: "En una frase negativa diem *res*: *No vull res més*."
+    explanation: "En una frase negativa diem *res*: *No necessito res més*."
 
   - id: a2-05-048
     type: fill
@@ -790,14 +791,14 @@ items:
     lesson: 4
     prompt: "No fa ___ fred: podem anar a peu."
     hint: "quantificador negatiu"
-    answers: ["gaire"]
+    answers: ["gaire", "gens de"]
     wrong_answers:
       - text: "gens"
         why: "*Gens* va amb *de*: *gens de fred*."
       - text: "gaire de"
         why: "*Gaire* va sense *de*."
     grading: tolerant
-    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire fred*."
+    explanation: "En una frase negativa, *gaire* va sense *de*: *gaire fred*. També es pot dir *gens de fred*."
 
   - id: a2-05-050
     type: order
@@ -811,6 +812,8 @@ items:
       - "No ve ningú a dinar diumenge."
       - "Diumenge no ve a dinar ningú."
       - "No ve a dinar ningú diumenge."
+      - "Ningú no ve a dinar diumenge."
+      - "Diumenge ningú no ve a dinar."
     explanation: "Parlem de persones en una frase negativa: *No ve ningú*."
 
   - id: a2-05-051
@@ -823,6 +826,7 @@ items:
     answers:
       - "No trobo el tiquet enlloc."
       - "No trobo enlloc el tiquet."
+      - "Enlloc no trobo el tiquet."
     explanation: "*Enlloc* vol dir «en cap lloc»: *No trobo el tiquet enlloc*."
 
   - id: a2-05-052
@@ -837,6 +841,8 @@ items:
       - "No compro mai res aquí."
       - "Aquí no compro res mai."
       - "No compro res mai aquí."
+      - "Aquí mai no compro res."
+      - "Mai no compro res aquí."
     explanation: "En una frase negativa podem ajuntar *mai* i *res*: *no compro mai res*."
 
   # ---------- Lliçó 5 ----------
@@ -847,8 +853,8 @@ items:
     title: "La compra de la Laia"
     text: |
       Cada dissabte al matí, la Laia va al mercat. Va d'hora, perquè després hi ha molta gent i no té gaire temps. Compra la verdura i una dotzena d'ous a la parada de la plaça. A la llista també porta una ampolla d'oli, un paquet de macarrons i una capsa de galetes.
-      Aquesta setmana no ha trobat cap oferta de peix, i el pernil és massa car. «Avui no compro res més», diu. A la fleca no hi ha ningú a la cua, i compra una barra de pa calent. A casa, el seu company l'ajuda amb les bosses.
-      «Vols res més de la botiga?», pregunta ell. «No, amb això en tinc prou», diu la Laia. De tornada passa per davant del quiosc, però no compra el diari: no té gaire temps de llegir.
+      Aquesta setmana no ha trobat cap oferta de peix, i el pernil és massa car. «Avui no compro ni peix ni pernil», diu. A la fleca no hi ha ningú a la cua, i compra una barra de pa calent. De tornada passa per davant del quiosc, però no compra el diari: no té gaire temps de llegir.
+      A casa, el seu company l'ajuda amb les bosses. «Vols res més de la botiga?», pregunta ell. «No, amb això en tinc prou», diu la Laia.
     questions:
       - prompt: "Per què va d'hora al mercat?"
         answer: "Perquè més tard hi ha molta gent."
@@ -878,7 +884,7 @@ items:
             why: "Això passa al mercat, abans de tornar a casa."
           - text: "Que el pernil és massa car."
             why: "Això ho pensa al mercat, no a casa."
-    explanation: "La Laia va al mercat d'hora, compra verdura i pa, i no compra res més."
+    explanation: "La Laia va al mercat d'hora, compra verdura, ous i pa, i no vol res més."
 
   - id: a2-05-054
     type: match
@@ -975,9 +981,9 @@ items:
     answer: "tant me fa"
     distractors:
       - text: "ni de broma"
-        why: "*Ni de broma* és una negativa i no va amb «a mi»."
+        why: "*Ni de broma* és una negativa total. Aquí dius que t'és igual."
       - text: "no fa res"
-        why: "*No fa res* no va amb «a mi»: aquí cal *tant me fa*."
+        why: "*No fa res* vol dir «no té importància» i respon a una disculpa."
     explanation: "*Tant me fa* vol dir «m'és igual»."
 
   - id: a2-05-062
@@ -997,14 +1003,14 @@ items:
     type: fill
     point: expressions
     lesson: 5
-    prompt: "Pots triar tu el restaurant: a mi ___."
+    prompt: "—On vols sopar, a casa o fora? —___: decideix tu."
     hint: "expressió d'indiferència"
-    answers: ["tant me fa"]
+    answers: ["Tant me fa", "A mi tant me fa", "Tant em fa"]
     wrong_answers:
-      - text: "tan me fa"
+      - text: "Tan me fa"
         why: "Davant d'un verb és *tant*, amb *t* final."
-      - text: "tant fa"
-        why: "L'expressió sencera és *tant me fa*."
+      - text: "Tanto me fa"
+        why: "«Tanto» és castellà. L'expressió és *tant me fa*."
     grading: tolerant
     explanation: "*Tant me fa* vol dir «m'és igual»."
 
@@ -1028,5 +1034,5 @@ items:
     point: negacio
     lesson: 5
     title: "La Júlia tanca la botiga"
-    text: "Són les nou i a la botiga ja no hi ha {ningú|algú|cap}. La Júlia no troba {cap|algun|res} cistell lliure a l'entrada. No queda {res|cap|alguna cosa}: podem tancar. Els diumenges no obre {mai|tampoc|cap}."
-    explanation: "En frases negatives: *ningú*, *cap* amb un nom, *res* i *mai*."
+    text: "Són les nou del vespre i a la botiga de la Júlia ja no entra {ningú|algú|cap}. Avui ho ha venut tot: no queda {res|cap|alguna cosa} als prestatges. Demà no ha de comprar {cap|algun|res} producte nou, perquè els diumenges no obre {mai|nunca|cap}."
+    explanation: "En frases negatives: *ningú* (persones), *res* (coses), *cap* amb un nom i *mai* (temps)."

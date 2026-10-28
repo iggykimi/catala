@@ -27,21 +27,21 @@ Entre vocals, el so suau s'escriu amb una erra i el so fort, amb dues: **coreogr
 
 > La Carla toca la **guitarra** en un **escenari** petit.
 
-A principi de mot, darrere de consonant i a final de mot, el so fort s'escriu amb una sola erra.
+A principi de mot i darrere de consonant s'escriu sempre una sola erra, encara que el so sigui fort (**ritme**, **enregistrar**). A final de mot, també una: **cor**.
 
 | On | S'escriu | Exemple |
 |---|---|---|
 | Entre vocals, suau | *r* | **coreografia**, **escenari** |
 | Entre vocals, fort | *rr* | **guitarra**, **barroca**, **terror** |
 | A principi de mot | *r* | **ritme** |
-| Darrere de consonant | *r* | **estrena**, **entreacte**, **obra** |
+| Darrere de consonant | *r* | **enregistrar**, **estrena**, **entreacte**, **obra** |
 | A final de mot | *r* | **cor** |
 
 - Van **córrer** fins al teatre perquè feien tard.
 - Canta en un **cor** de gòspel des de fa anys.
 - A l'**entreacte** vam sortir a prendre alguna cosa.
 
-> **Compte!** ~~guitarista~~ → **guitarrista**. ~~enterracte~~ → **entreacte**: darrere de *t* no cal doblar l'erra.
+> **Compte!** ~~guitarista~~ → **guitarrista**. ~~enterracte~~ → **entreacte**: darrere de consonant l'erra no es dobla mai.
 
 <!-- point: ema-ena -->
 ## La ema i la ena davant de consonant
@@ -54,7 +54,7 @@ Davant de *p*, *b* i *m* s'escriu *m*; davant de *v* s'escriu *n*.
 |---|---|---|
 | *p* | *m* | **companyia**, **trompeta**, **improvisació** |
 | *b* | *m* | **cambra** (música de cambra) |
-| *m* | *m* | **emmarcar** (*em-* + *marcar*), **commoure** |
+| *m* | *m* | **emmarcar** (*en-* + *marcar*), **commoure** |
 | *v* | *n* | **canvi**, **invitació** |
 
 - Tocava la **trompeta** a l'orquestra.
@@ -62,14 +62,14 @@ Davant de *p*, *b* i *m* s'escriu *m*; davant de *v* s'escriu *n*.
 - He rebut la **invitació** per a l'estrena.
 - El final ens va **commoure** a tots.
 
-Davant de les altres consonants s'escriu normalment *n*: **concert**, **entrada**.
+Davant de les altres consonants s'escriu normalment *n*: **concert**, **entrada**. Hi ha poques excepcions (*tramvia*, *enmig*).
 
 > **Compte!** ~~conpanyia~~ → **companyia**. ~~camvi~~ → **canvi**.
 
 <!-- point: ela-geminada -->
 ## Ela, ela doble i ela geminada
 
-La *l* simple sona suau (**galeria**, **balada**). La *ll* sona com la *ll* castellana (**ballet**, **ballada**). La *l·l* (ela geminada, amb el punt volat) sona com una *l* llarga: **novel·la**, **col·laboració**, **col·lecció**, **il·luminació**, **pel·lícula**.
+La *l* simple sona suau (**galeria**, **balada**). La *ll* és un so palatal (**ballet**, **ballada**). La *l·l* (ela geminada, amb el punt volat) sona com una *l* llarga: **novel·la**, **col·laboració**, **col·lecció**, **il·luminació**, **pel·lícula**.
 
 > La **galeria** exposa una **col·lecció** nova d'escultures.
 

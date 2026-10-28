@@ -38,7 +38,7 @@ lessons:
   - title: "Repàs mesclat i lectura"
 vocabulary:
   - word: "el compte"
-    definition: "Compte que tens al banc per guardar-hi els diners."
+    definition: "Registre del banc on tens els teus diners."
     example: "M'han ingressat el sou al compte."
   - word: "el caixer"
     definition: "Màquina on pots treure diners amb la targeta."
@@ -81,7 +81,7 @@ vocabulary:
     example: "Aquesta oferta acaba diumenge."
   - word: "el preu"
     definition: "Diners que costa una cosa."
-    example: "El preu del pa ha apujat."
+    example: "El preu del pa ha pujat."
   - word: "el cèntim"
     definition: "La moneda més petita de l'euro."
     example: "No em queda ni un cèntim."
@@ -154,7 +154,7 @@ items:
     type: choice
     point: apostrofacio
     lesson: 1
-    prompt: "—On és el rebut del gas? —A ___ entrada, al calaix de la cuina."
+    prompt: "—On és el rebut del gas? —A ___ entrada, al calaix del moble."
     answer: "l'"
     distractors:
       - text: "la"
@@ -171,10 +171,10 @@ items:
     answer: "la"
     distractors:
       - text: "l'"
-        why: "*La* no s'apostrofa davant de *u* àtona + vocal: *la universitat*."
+        why: "*La* no s'apostrofa davant de *u* àtona: *la universitat*."
       - text: "el"
         why: "*Universitat* és femení: l'article és *la*."
-    explanation: "«Universitat» comença per *u* àtona + vocal: és l'excepció i *la* no s'apostrofa."
+    explanation: "«Universitat» comença per *u* àtona: és l'excepció i *la* no s'apostrofa."
 
   - id: b1-32-003
     type: choice
@@ -720,7 +720,7 @@ items:
     type: transform
     point: numerals
     lesson: 4
-    instruction: "Corregeix la frase amb l'ordinal."
+    instruction: "Reescriu la frase amb l'ordinal."
     source: "Viu al pis [[tres]]."
     answers: ["Viu al tercer pis."]
     wrong_answers:
@@ -750,12 +750,12 @@ items:
     type: transform
     point: numerals
     lesson: 4
-    instruction: "Corregeix la frase amb l'ordinal."
+    instruction: "Reescriu la frase amb l'ordinal."
     source: "És la quota [[cinc]] de l'any."
     answers: ["És la cinquena quota de l'any."]
     wrong_answers:
-      - text: "És la quinta quota de l'any."
-        why: "«Quinta» és castellà: *cinquena*."
+      - text: "És la cinc quota de l'any."
+        why: "Per dir l'ordre cal l'ordinal: *cinquena*."
       - text: "És la cinquè quota de l'any."
         why: "*Quota* és femení: l'ordinal concorda, *cinquena*."
     grading: strict
@@ -834,7 +834,7 @@ items:
     type: order
     point: expressions
     lesson: 4
-    cue: "Digues que aquest mes us cal calcular bé les despeses."
+    cue: "Digues que aquest mes tu i la teva parella heu de calcular bé les despeses."
     chunks: ["aquest", "mes", "hem", "de", "fer", "números"]
     extra: ["número"]
     answers:
@@ -1031,9 +1031,6 @@ items:
     lesson: 5
     prompt: "Per al casament del seu fill van ___: lloguer de sala, música i cent convidats."
     hint: "expressió: gastar molt en una festa"
-    answers: ["tirar la casa per la finestra"]
-    wrong_answers:
-      - text: "llençar la casa per la finestra"
-        why: "L'expressió fixa és amb *tirar*: *tirar la casa per la finestra*."
+    answers: ["tirar la casa per la finestra", "llençar la casa per la finestra"]
     grading: tolerant
     explanation: "*Tirar la casa per la finestra* vol dir gastar molt en una celebració."

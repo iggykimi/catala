@@ -162,7 +162,7 @@ items:
     answer: "rebràs"
     distractors:
       - text: "revràs"
-        why: "*Rebre* i tota la família s'escriuen amb *b*: *rebràs*."
+        why: "*Rebre* s'escriu amb *b*: *rebràs*."
       - text: "rebrà"
         why: "La pregunta és per a «tu»: *rebràs*. *Rebrà* seria per a «ell»."
     explanation: "«Demà» demana futur, i la pregunta és per a «tu»: *rebràs*. *Rebre* s'escriu amb *b*."
@@ -175,10 +175,10 @@ items:
     answer: "Has"
     distractors:
       - text: "As"
-        why: "*Haver* s'escriu amb *h* i *v*: *has*."
+        why: "Les formes de *haver* porten *h*: *has*."
       - text: "Ha"
         why: "El metge parla amb «tu»: *has*. *Ha* seria per a «ell»."
-    explanation: "El metge parla amb el pacient («tu»): *has de tornar*. *Haver* porta *h* i *v*."
+    explanation: "El metge parla amb el pacient («tu»): *has de tornar*. Les formes de *haver* porten *h*."
 
   - id: b1-29-003
     type: choice
@@ -190,8 +190,8 @@ items:
       - text: "probar"
         why: "*Provar* s'escriu amb *v*, encara que *trobar* porti *b*."
       - text: "trobar"
-        why: "*Trobar* («encontrar») no funciona amb «te les». Aquí volem dir «intentar»: *provar*."
-    explanation: "Amb «te les», el verb és *provar* (intentar): *trobar* no hi funciona. I *provar* s'escriu amb *v*."
+        why: "*Trobar* vol dir «encontrar». Abans de comprar unes ulleres, te les poses per veure com et queden: *provar*."
+    explanation: "Posar-se unes ulleres per veure com queden és *provar-se-les*. I *provar* s'escriu amb *v*."
 
   - id: b1-29-004
     type: choice
@@ -200,8 +200,8 @@ items:
     prompt: "Tinc una ___ al dit i em fa mal."
     answer: "berruga"
     distractors:
-      - text: "verruga"
-        why: "En català és *berruga*, amb *b*: «verruga» és castellà."
+      - text: "berrúga"
+        why: "*Berruga* és plana acabada en *-a*: no porta accent."
       - text: "beruga"
         why: "*Berruga* s'escriu amb *rr*."
     explanation: "És *berruga*, amb *b* i *rr*: en castellà és «verruga», amb *v*."
@@ -233,7 +233,7 @@ items:
     lesson: 1
     title: "A urgències"
     text: "La pacient ha arribat amb les mans fre{d|t}es i els ulls gro{c|g}s. També té un bla{u|v} al colze i li fa mal el melic. El metge encara no sa{p|b} què té."
-    explanation: "El femení i el plural mantenen la consonant del masculí: *fredes*, *grocs*, *blau*. I *saber* fa *sap*."
+    explanation: "*Fredes* manté la *d* de *fred*, i *grocs*, la *c* de *groc*. *Blau* acaba en *u* (encara que el femení sigui *blava*), i *saber* fa *sap*."
 
   - id: b1-29-008
     type: match
@@ -270,11 +270,11 @@ items:
     answers: ["han"]
     wrong_answers:
       - text: "an"
-        why: "*Haver* s'escriu amb *h* i *v*: *han*."
+        why: "Les formes de *haver* porten *h*: *han*."
       - text: "hem"
         why: "«Els pacients» és tercera persona plural: *han*."
     grading: strict
-    explanation: "És *haver de* + infinitiu, tercera persona plural: *han*. *Haver* porta *h* inicial i *v*."
+    explanation: "És *haver de* + infinitiu, tercera persona plural: *han*. Les formes de *haver* porten *h* inicial."
 
   - id: b1-29-011
     type: fill
@@ -285,11 +285,11 @@ items:
     answers: ["rep"]
     wrong_answers:
       - text: "rev"
-        why: "*Rebre* i les seves formes s'escriuen amb *b*: *rep*."
+        why: "*Rebre* no té cap forma amb *v*: a final de mot s'escriu *p* (*rep*)."
       - text: "reben"
         why: "«El metge» és singular: *rep*. *Reben* és plural."
     grading: strict
-    explanation: "Present de *rebre*, tercera persona: *rep*. Tota la família de *rebre* porta *b*."
+    explanation: "Present de *rebre*, tercera persona: *rep*, amb *p* final (com *sap*). Entre vocals hi ha *b*: *rebem*, *reben*."
 
   - id: b1-29-012
     type: fill
@@ -451,8 +451,8 @@ items:
     prompt: "Cada matí, la Fàtima ___ la sala d'espera de la consulta."
     answer: "escombra"
     distractors:
-      - text: "escomvera"
-        why: "*Escombrar* s'escriu amb *b*. En castellà és «barrer»."
+      - text: "escomvra"
+        why: "Darrere de *m* s'escriu *b*: *escombra*."
       - text: "escombren"
         why: "«La Fàtima» és singular: *escombra*."
     explanation: "«La Fàtima» és tercera persona: *escombra*. *Escombrar* s'escriu amb *b*."
@@ -536,37 +536,37 @@ items:
     point: ix-x-tx-ig
     lesson: 3
     prompt: "La Carla té una ferida a l'___."
-    hint: "AIXELLA"
+    hint: "part del cos: el buit de sota el braç"
     answers: ["aixella"]
     wrong_answers:
       - text: "aixela"
         why: "*Aixella* porta *ll*, com *orella*."
       - text: "axella"
-        why: "Darrere del diftong *ai* s'escriu *ix*: *aixella*."
+        why: "Darrere de vocal, el so s'escriu *ix*: *aixella*."
     grading: strict
-    explanation: "S'escriu *aixella*: *ix* darrere del diftong *ai*, i *-ella* com *orella*."
+    explanation: "S'escriu *aixella*: *ix* darrere de vocal, i *-ella* com *orella*."
 
   - id: b1-29-031
     type: fill
     point: ix-x-tx-ig
     lesson: 3
     prompt: "L'Ibrahim té un hematoma a la ___ i un altre de més petit a la cama."
-    hint: "CUIXA"
+    hint: "part de la cama, damunt del genoll"
     answers: ["cuixa"]
     wrong_answers:
       - text: "cuxa"
-        why: "Darrere del diftong *ui* s'escriu *ix*: *cuixa*."
+        why: "Darrere de vocal, el so s'escriu *ix*: *cuixa*."
       - text: "cuixes"
         why: "«La» és singular: *cuixa*."
     grading: strict
-    explanation: "Darrere del diftong *ui* s'escriu *ix*: *cuixa*."
+    explanation: "Darrere de vocal, el so s'escriu *ix*: *cuixa*."
 
   - id: b1-29-032
     type: fill
     point: compte-castella
     lesson: 3
     prompt: "El metge em truca al ___ per donar-me els resultats."
-    hint: "MÒBIL"
+    hint: "el telèfon que portes a la butxaca"
     answers: ["mòbil"]
     wrong_answers:
       - text: "móvil"
@@ -608,15 +608,15 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "La veïna té una verruga a la mà."
-    error: "verruga"
-    fix: "berruga"
+    sentence: "La meva germana és abogada en un despatx de Girona."
+    error: "abogada"
+    fix: "advocada"
     fix_distractors:
-      - text: "beruga"
-        why: "*Berruga* s'escriu amb *rr*."
-      - text: "berrugues"
-        why: "«Una» és singular: *berruga*."
-    explanation: "En castellà és «verruga», amb *v*. En català és *berruga*, amb *b*."
+      - text: "avogada"
+        why: "La paraula porta *d* abans de la *v*: *advocada*."
+      - text: "abocada"
+        why: "*Abocada* és el participi de *abocar*. La professió és *advocada*."
+    explanation: "En castellà és «abogada», amb *b*. En català és *advocada*, amb *dv*."
 
   - id: b1-29-036
     type: find-error
@@ -627,10 +627,10 @@ items:
     fix: "cuixa"
     fix_distractors:
       - text: "cutxa"
-        why: "Darrere del diftong *ui* s'escriu *ix*, no *tx*: *cuixa*."
+        why: "*Cuixa* té el so de *caixa*, no el de *cotxe*: darrere de vocal s'escriu *ix*."
       - text: "cuixes"
         why: "«La» és singular: *cuixa*."
-    explanation: "Darrere del diftong *ui* s'escriu *ix*: *cuixa*."
+    explanation: "Darrere de vocal, el so s'escriu *ix*: *cuixa*."
 
   - id: b1-29-037
     type: find-error
@@ -744,10 +744,10 @@ items:
     lesson: 4
     instruction: "Canvia el subjecte a «ells»."
     source: "El pacient [[pateix]] un dolor fort a l'espatlla."
-    answers: ["Els pacients pateixen un dolor fort a l'espatlla.", "Ells pateixen un dolor fort a l'espatlla.", "Pateixen un dolor fort a l'espatlla."]
+    answers: ["Els pacients pateixen un dolor fort a l'espatlla.", "Ells pateixen un dolor fort a l'espatlla.", "Pateixen un dolor fort a l'espatlla.", "Els pacients patixen un dolor fort a l'espatlla.", "Ells patixen un dolor fort a l'espatlla.", "Patixen un dolor fort a l'espatlla."]
     wrong_answers:
-      - text: "Els pacients patixen un dolor fort a l'espatlla."
-        why: "*Patir* és incoatiu: afegeix *-eix-*: *pateixen*."
+      - text: "Els pacients patexen un dolor fort a l'espatlla."
+        why: "Darrere de vocal, el so s'escriu *ix*: *pateixen*."
       - text: "Els pacients pateix un dolor fort a l'espatlla."
         why: "«Els pacients» és plural: *pateixen*."
     grading: strict
@@ -818,7 +818,7 @@ items:
     point: compte-castella
     lesson: 4
     prompt: "L'___ de l'hospital vindrà demà."
-    hint: "ADVOCAT"
+    hint: "persona que defensa algú davant d'un jutge"
     answers: ["advocat"]
     wrong_answers:
       - text: "abogado"
@@ -872,7 +872,7 @@ items:
     text: |
       La Montse té cinquanta anys i treballa en una escola de Sabadell. Com que fa temps que no es troba bé del tot, demana hora al metge de capçalera per fer-se una revisió.
 
-      A la consulta, el metge li pregunta com es troba i li mira el coll, les orelles i la boca. Després li ausculta el cor i li diu que respiri fondo: el pit puja i baixa sense cap soroll estrany. També li toca el front i li mira un dit que té inflamat des de fa dies.
+      A la consulta, el metge li pregunta com es troba i li mira el coll, les orelles i la boca. Després li ausculta el cor i li diu que respiri profundament: el pit puja i baixa sense cap soroll estrany. També li toca el front i li mira un dit que té inflamat des de fa dies.
 
       Li pren la tensió al braç i li fa una anàlisi de sang. Quan arriben els resultats, tot està bé excepte el colesterol, que està una mica alt. El metge li diu que no pateixi, però que ha de caminar cada dia i menjar amb menys sal.
 
@@ -957,7 +957,7 @@ items:
       - text: "traballa"
         why: "En català és *treballar*, amb *b* i *ll*: «trabajar» és castellà."
       - text: "treballe"
-        why: "Amb «l'Ibrahim», el present fa *treballa*: *treballe* seria subjuntiu."
+        why: "Amb «l'Ibrahim», el present fa *treballa*, acabat en *-a*."
     explanation: "Present de *treballar*, tercera persona: *treballa*. En castellà és «trabajar»."
 
   - id: b1-29-059
@@ -1011,10 +1011,10 @@ items:
     lesson: 5
     prompt: "El cambrer ___ el dinar a taula."
     hint: "SERVIR, en present"
-    answers: ["serveix"]
+    answers: ["serveix", "servix"]
     wrong_answers:
-      - text: "servix"
-        why: "*Servir* és incoatiu: afegeix *-eix-*: *serveix*."
+      - text: "servex"
+        why: "Darrere de vocal, el so s'escriu *ix*: *serveix*."
       - text: "serveixen"
         why: "«El cambrer» és singular: *serveix*."
     grading: strict
@@ -1049,7 +1049,7 @@ items:
     lesson: 5
     title: "Consells per a l'hivern"
     text: "Per passar l'hivern: preneu-vos el {x|tx}arop cada vuit hores, du{tx|x}eu-vos amb aigua tèbia, dormiu amb un bon coi{x|ss}í i, si us fa mal un quei{x|tx}al, aneu al dentista."
-    explanation: "*Xarop* porta *x* inicial; *dutxeu* porta *tx*; *coixí* i *queixal* porten *ix* darrere del diftong."
+    explanation: "*Xarop* porta *x* inicial; *dutxeu* porta *tx*; *coixí* i *queixal* porten *ix* darrere de vocal."
 
   - id: b1-29-066
     type: find-error

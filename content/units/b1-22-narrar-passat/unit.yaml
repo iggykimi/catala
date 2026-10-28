@@ -186,7 +186,7 @@ items:
         why: "Amb *ja* la pluja és el fons de l'escena, no un fet nou: *plovia*."
       - text: "ha plogut"
         why: "El perfet no encaixa en una descripció del passat."
-    explanation: "La frase descriu la tarda quan va arribar: imperfet, *plovia*."
+    explanation: "La frase descriu el moment en què va arribar: imperfet, *plovia*."
 
   - id: b1-22-005
     type: choice
@@ -211,7 +211,7 @@ items:
       - text: "es va deixar"
         why: "Ho va fer abans de tornar: plusquamperfet, *s'havia deixat*."
       - text: "s'ha deixat"
-        why: "El perfet no va en un relat del passat."
+        why: "El perfet no encaixa en un relat d'un passat ja tancat."
     explanation: "Es va deixar les claus abans de tornar: plusquamperfet, *s'havia deixat*."
 
   - id: b1-22-007
@@ -224,7 +224,7 @@ items:
       - text: "va fer caure"
         why: "Amb *ja* cal marcar l'anterioritat: plusquamperfet, *havia fet caure*."
       - text: "ha fet caure"
-        why: "El perfet no va en un relat del passat."
+        why: "El perfet no encaixa en un relat d'un passat ja tancat."
     explanation: "La tempesta ho va fer abans del retard: plusquamperfet, *havia fet caure*."
 
   - id: b1-22-008
@@ -256,9 +256,9 @@ items:
     answers: ["parlava"]
     wrong_answers:
       - text: "va parlar"
-        why: "Amb *mentre* cal l'imperfet: *parlava*."
+        why: "Aquí *mentre* presenta l'acció en curs quan comença a ploure: imperfet, *parlava*."
       - text: "ha parlat"
-        why: "El perfet no va en un relat del passat."
+        why: "El perfet no encaixa en un relat d'un passat ja tancat."
     grading: tolerant
     explanation: "«Mentre» presenta l'acció en curs: imperfet, *parlava*."
 
@@ -326,7 +326,7 @@ items:
     answers: ["prenien"]
     wrong_answers:
       - text: "van prendre"
-        why: "Amb *mentre* cal l'imperfet: *prenien*."
+        why: "Aquí *mentre* presenta una acció en curs, com «declarava»: imperfet, *prenien*."
     grading: tolerant
     explanation: "«Mentre» presenta l'acció en curs: imperfet, *prenien*."
 
@@ -334,7 +334,7 @@ items:
     type: fill
     point: imperfet-relat
     lesson: 2
-    prompt: "Ahir un cotxe ___ a la vorera, al pas de vianants, però el vianant no es va fer mal."
+    prompt: "Ahir un cotxe ___ a la vorera, però el vianant que hi passava no es va fer mal."
     hint: "pujar, perifràstic"
     answers: ["va pujar"]
     wrong_answers:
@@ -364,7 +364,7 @@ items:
     type: fill
     point: plusquamperfet
     lesson: 2
-    prompt: "La Fàtima no va trobar el gos: algú ja ___ la porta del jardí."
+    prompt: "La Fàtima no va trobar el gos: algú ja ___ oberta la porta del jardí."
     hint: "deixar, plusquamperfet"
     answers: ["havia deixat"]
     wrong_answers:
@@ -421,7 +421,7 @@ items:
       - text: "Es van sentir"
         why: "Amb *mentre* i *baixaven* cal l'imperfet: *se sentien*."
       - text: "S'han sentit"
-        why: "El perfet no va en un relat del passat."
+        why: "El perfet no encaixa en un relat d'un passat ja tancat."
     explanation: "«Mentre» i *baixaven* demanen l'imperfet: *se sentien*."
 
   - id: b1-22-023
@@ -441,7 +441,7 @@ items:
     type: choice
     point: plusquamperfet
     lesson: 2
-    prompt: "La Laia va haver de tornar a casa: ___ el mòbil a l'oficina."
+    prompt: "La Laia va haver de tornar a l'oficina: ___ el mòbil a la taula."
     answer: "s'havia deixat"
     distractors:
       - text: "es va deixar"
@@ -455,7 +455,7 @@ items:
     point: plusquamperfet
     lesson: 2
     title: "El tren de les vuit"
-    text: "En Pau va perdre el tren de les vuit: ja {havia sortit|va sortir|ha sortit}. Quan va arribar a casa, tots ja {havien sopat|van sopar|han sopat}. L'endemà el cap li va dir que ja {havia llegit|va llegir|ha llegit} el missatge."
+    text: "En Pau va perdre el tren de les vuit: ja {havia sortit|va sortir|ha sortit}. Quan va arribar a casa, tots ja {havien sopat|van sopar|han sopat}. L'endemà, quan va trucar a la cap, ella ja {havia llegit|va llegir|ha llegit} el missatge."
     explanation: "Són fets anteriors a un altre fet del passat: *havia sortit*, *havien sopat*, *havia llegit*."
 
   - id: b1-22-026
@@ -491,7 +491,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "Ahir a la nit hi ha hagut un incendi a un restaurant del barri."
+    sentence: "Ahir a la nit hi ha hagut un incendi en un restaurant del barri."
     error: "hi ha hagut"
     fix: "va haver-hi"
     fix_distractors:
@@ -591,7 +591,7 @@ items:
     lesson: 3
     prompt: "L'accident va ser a les vuit; ___ dues hores, el trànsit encara estava aturat."
     hint: "connector: temps després"
-    answers: ["Al cap de", "passades"]
+    answers: ["Al cap de", "passades", "després de"]
     wrong_answers:
       - text: "L'endemà"
         why: "*L'endemà* és l'endemà; aquí passen dues hores."
@@ -629,7 +629,7 @@ items:
     point: connectors-relat
     lesson: 3
     title: "Una nit de tempesta"
-    text: "Ahir va caure una bona tempesta sobre Olot. {Aleshores|L'endemà|Cada dia} plovia a bots i barrals i els carrers eren rius. {De cop|De tant en tant|A poc a poc}, un llamp va tallar la llum de tot el barri. El carrer semblava un riu, però no hi va haver cap inundació. {Al cap de|D'aquí a} mitja hora, els bombers ja havien rebut deu avisos. {L'endemà|Abans|Sempre}, el diari explicava que no hi havia hagut ferits."
+    text: "Ahir va caure una bona tempesta sobre Olot. {Aleshores|L'endemà|Cada dia} plovia a bots i barrals i bufava molt de vent. {De cop|De tant en tant|A poc a poc}, un llamp va tallar la llum de tot el barri. {Al cap de|D'aquí a} mitja hora, els bombers ja havien rebut deu avisos. {L'endemà|Abans|Sempre}, el diari explicava que no hi havia hagut ferits."
     explanation: "Cada connector marca un moment: *aleshores*, *de cop*, *al cap de* i *l'endemà*."
 
   # ---------------- Lliçó 4 ----------------
@@ -677,6 +677,8 @@ items:
     answers:
       - "El tren ja havia marxat quan vaig arribar a l'estació."
       - "Quan vaig arribar a l'estació, el tren ja havia marxat."
+      - "El tren havia marxat abans que jo arribés a l'estació."
+      - "El tren ja havia marxat abans que jo arribés a l'estació."
     wrong_answers:
       - text: "El tren ja va marxar quan vaig arribar a l'estació."
         why: "*Ja* indica anterioritat: plusquamperfet, *havia marxat*."
@@ -742,7 +744,7 @@ items:
       - text: "va veure"
         why: "*Feia dos dies* indica anterioritat en un relat: *havia vist*."
       - text: "ha vist"
-        why: "El perfet no va en un relat del passat."
+        why: "El perfet no encaixa en un relat d'un passat ja tancat."
     grading: tolerant
     explanation: "«Feia dos dies» indica que és anterior: *l'havia vist*."
 
@@ -793,7 +795,7 @@ items:
     answer: "Ves per on"
     distractors:
       - text: "Tot d'una"
-        why: "*Tot d'una* vol dir de seguida; aquí cal una expressió de sorpresa."
+        why: "*Tot d'una* vol dir de seguida o de sobte; aquí cal una expressió de sorpresa."
       - text: "Com qui no vol la cosa"
         why: "Això vol dir dissimuladament; aquí cal una expressió de sorpresa."
     explanation: "*Ves per on* expressa sorpresa per una coincidència."
@@ -834,7 +836,7 @@ items:
 
       La Carla va trucar tot d'una als bombers. Mentrestant, el forner del costat va tancar el gas del seu edifici i dos veïns van ajudar una dona gran a baixar al carrer. Al cap de deu minuts van arribar dues ambulàncies i tres camions de bombers, que van apagar el foc en menys d'una hora.
 
-      Segons els bombers, el foc havia començat a la rebotiga, on hi havia capses de cartó. Per sort, ningú havia entrat a la botiga aquella tarda i no hi va haver ferits. L'única víctima va ser una bombera, que va respirar fum i la van portar a l'hospital per precaució.
+      Segons els bombers, el foc havia començat a la rebotiga, on hi havia capses de cartó. Per sort, ningú havia entrat a la botiga aquella tarda i no hi va haver ferits. Només una bombera va respirar fum, i la van portar a l'hospital per precaució.
 
       L'endemà, el titular del diari del barri deia que la botiga ja havia tingut un petit incendi feia dos anys. La Carla, que havia comprat un jersei allà mateix la setmana anterior, encara no s'ho creia.
 
@@ -917,7 +919,7 @@ items:
     type: transform
     point: imperfet-relat
     lesson: 5
-    instruction: "Reescriu la frase com un costum del passat."
+    instruction: "Reescriu la frase com un costum del passat, amb «cada dia»."
     source: "Ahir la Núria [[va anar]] a córrer al parc."
     answers:
       - "La Núria anava a córrer al parc cada dia."
@@ -953,7 +955,7 @@ items:
     answer: "Ves per on"
     distractors:
       - text: "Tot d'una"
-        why: "*Tot d'una* vol dir de seguida; aquí cal una expressió de sorpresa."
+        why: "*Tot d'una* vol dir de seguida o de sobte; aquí cal una expressió de sorpresa."
       - text: "De cop i volta"
         why: "*De cop i volta* vol dir de sobte; aquí cal una expressió de sorpresa."
     explanation: "*Ves per on* expressa sorpresa per una coincidència."
@@ -967,10 +969,10 @@ items:
     fix: "feia"
     fix_distractors:
       - text: "ha fet"
-        why: "El perfet no va en un relat del passat."
+        why: "El perfet no encaixa en un relat d'un passat ja tancat."
       - text: "havia fet"
         why: "*Havia fet* seria anterior a un altre fet; aquí és simultani: *feia*."
-    explanation: "Amb *mentre* cal l'imperfet: *mentre la policia feia fotos*."
+    explanation: "Les dues accions estaven en curs alhora, com «prenia»: imperfet, *mentre la policia feia fotos*."
 
   - id: b1-22-062
     type: order

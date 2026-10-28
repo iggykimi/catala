@@ -10,11 +10,11 @@ En un relat, l'imperfet descriu el moment i els costums; el perifràstic explica
 | descriu o és un costum | **plovia**, **anava** cada dia | |
 | és un fet puntual | | **va xocar**, **van arribar** |
 
-- *Mentre* sempre porta l'imperfet: mentre **dormia**.
+- Quan *mentre* presenta una acció en curs, porta l'imperfet: mentre **dormia**.
 - Amb *cada dia*, *sempre* o *de petit*: **anava**, **portaven**.
 - Amb *ahir*, *a les tres* o *de cop*: **va arribar**, **va caure**.
 
-> **Compte!** ~~Mentre van sopar~~ → **Mentre sopaven**. I un fet d'ahir no porta mai el perfet: ~~ahir ha plogut~~ → **ahir va ploure**.
+> **Compte!** ~~Mentre van sopar, va sonar el telèfon~~ → **Mentre sopaven, va sonar el telèfon**. I un fet d'ahir no porta mai el perfet: ~~ahir ha plogut~~ → **ahir va ploure**.
 
 <!-- point: plusquamperfet -->
 ## El plusquamperfet: *havia fet*
@@ -61,7 +61,7 @@ Els connectors ordenen el relat en el temps.
 <!-- point: compte-castella -->
 ## Compte amb el castellà: el perfet no va amb *ahir*
 
-En castellà es diu «ayer he ido». En català, el perfet només va amb un període obert (*avui*, *aquest matí*, *aquesta setmana*). Amb un passat tancat fem servir el perifràstic.
+El castellà «ayer fui» té una forma simple; en català l'equivalent és el perifràstic (*vaig anar*), no el perfet. El perfet només va amb un període obert (*avui*, *aquest matí*, *aquesta setmana*). Amb un passat tancat fem servir el perifràstic.
 
 | Marcador | Temps |
 |---|---|
@@ -72,13 +72,13 @@ En castellà es diu «ayer he ido». En català, el perfet només va amb un per�
 - ~~La setmana passada hem publicat tres notícies~~ → **...vam publicar tres notícies.**
 - *Avui hi ha hagut tres accidents* és correcte: *avui* és obert.
 
-> **Compte!** Si la frase porta *ahir*, el perfet sempre està malament.
+> **Compte!** Si el fet va passar *ahir*, *fa dos dies* o *la setmana passada*, el perfet està malament: cal el perifràstic.
 
 <!-- point: expressions -->
 ## Expressions per explicar fets
 
 - **de cop i volta**: de sobte, sense avís. *Tot anava bé i de cop i volta es va fer fosc.*
-- **tot d'una**: de seguida, immediatament. *Vine tot d'una!*
+- **tot d'una**: de seguida, immediatament. *Vine tot d'una!* També vol dir «de sobte»: *Tot d'una es va posar a ploure.*
 - **ves per on**: expressa sorpresa per una coincidència. *Ves per on, era el meu veí!*
 - **com qui no vol la cosa**: dissimuladament. *Va entrar com qui no vol la cosa.*
 

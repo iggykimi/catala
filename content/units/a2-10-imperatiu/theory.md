@@ -14,9 +14,9 @@ L'imperatiu serveix per donar ordres i instruccions de cuina.
 
 - A una persona: *talla*, *obre*, *afegeix*. A més d'una: *talleu*, *obriu*, *afegiu*.
 - Els verbs en *-eix-* mantenen *-eix-* amb *tu*: **serveix**, **fregeix**.
-- L'imperatiu no té *jo* ni *nosaltres*: només *tu* i *vosaltres*.
+- Aquí practiquem les formes de *tu* i *vosaltres*.
 
-> **Compte!** ~~Obres la finestra~~ → **Obre la finestra**. El present no és una ordre.
+> **Compte!** ~~Obris la finestra~~ → **Obre la finestra**. *Obris* només va amb *no*.
 
 <!-- point: imperatiu-negatiu -->
 ## L'imperatiu negatiu
@@ -49,13 +49,13 @@ Set verbs tenen formes pròpies. Les has d'aprendre de memòria.
 | anar | **ves** | **aneu** | no **vagis** | no **aneu** |
 | venir | **vine** | **veniu** | no **vinguis** | no **vingueu** |
 | fer | **fes** | **feu** | no **facis** | no **feu** |
-| dir | **digues** | **dieu** | no **diguis** | no **digueu** |
+| dir | **digues** | **digueu** | no **diguis** | no **digueu** |
 | ser | **sigues** | **sigueu** | no **siguis** | no **sigueu** |
 | tenir | **tingues** | **tingueu** | no **tinguis** | no **tingueu** |
 | veure | **veges** | **vegeu** | no **vegis** | no **vegeu** |
 
 - Amb *tu*, la forma sempre canvia: *fes* → no *facis*; *digues* → no *diguis*.
-- Amb *vosaltres*, gairebé sempre és igual: *feu* / no *feu*. Excepcions: *veniu* / no *vingueu*; *dieu* / no *digueu*.
+- Amb *vosaltres*, gairebé sempre és igual: *feu* / no *feu*. Excepció: *veniu* / no *vingueu*.
 
 > **Compte!** ~~No fes tard~~ → **No facis tard**. ~~No veniu ara~~ → **No vingueu ara**.
 
@@ -94,7 +94,7 @@ Les ordres no són iguals en castellà i en català. En negatiu, no facis servir
 - En negatiu, la forma canvia: *posa* → no *posis*; *fes* → no *facis*.
 - Algunes ordres són molt diferents: **obre** (no ~~abre~~), **posa** (no ~~pon~~), **surt** (no ~~sal~~), **menja** (no ~~come~~), **fes** (no ~~haz~~).
 
-> **Compte!** ~~No tingues pressa~~ → **No tinguis pressa**. És un calc de «no tengas prisa».
+> **Compte!** ~~No tingues pressa~~ → **No tinguis pressa**. El negatiu no és l'afirmatiu amb *no*.
 
 <!-- point: expressions -->
 ## Expressions per animar i avisar

@@ -153,8 +153,8 @@ items:
     prompt: "Si ho hagués sabut, ___ el préstec."
     answer: "no hauria acceptat"
     distractors:
-      - text: "no hagués acceptat"
-        why: "A l'oració principal hi va el condicional compost (*hauria acceptat*), no el subjuntiu."
+      - text: "no hagi acceptat"
+        why: "El perfet de subjuntiu (*hagi acceptat*) no expressa un resultat irreal: cal el condicional compost."
       - text: "no hauré acceptat"
         why: "El futur compost (*hauré acceptat*) no expressa un resultat irreal: cal el condicional compost."
     explanation: "La condició (*si ho hagués sabut*) no es va donar: el resultat va en condicional compost, *no hauria acceptat*."
@@ -196,7 +196,7 @@ items:
         why: "És el contrari: es fa servir quan una cosa només és possible."
       - text: "Que dues coses passen alhora."
         why: "Aquesta expressió no parla de simultaneïtat: anuncia una precaució."
-    explanation: "«Per si un cas» anuncia una precaució: *Guarda els tiquets, per si un cas els necessites*."
+    explanation: "«Per si un cas» anuncia una precaució: *Guarda els tiquets per si un cas*."
 
   - id: b2-41-006
     type: match
@@ -228,7 +228,7 @@ items:
     point: irreal-passat
     lesson: 1
     title: "Una hipoteca cara"
-    text: "Si {haguéssim|hauríem} llegit la lletra petita, {hauríem|haguéssim} vist la comissió d'obertura. Si {hagués|hauria} parlat amb el gestor, m'{hauria|hagués} explicat les condicions."
+    text: "Si {haguéssim|hauríem} llegit la lletra petita, {hauríem|haurem} vist la comissió d'obertura. Si {hagués|hauria} parlat amb el gestor, m'{hauria|haurà} explicat les condicions."
     explanation: "Darrere de *si*, plusquamperfet de subjuntiu (*haguéssim llegit*, *hagués parlat*); al resultat, condicional compost (*hauríem vist*, *m'hauria explicat*)."
 
   - id: b2-41-009
@@ -250,7 +250,7 @@ items:
       - text: "hauríem estalviat"
         why: "Darrere de *si* no hi va mai el condicional: *si haguéssim estalviat*."
     grading: tolerant
-    explanation: "El resultat és irreal (*ara no tindríem*): la condició va en plusquamperfet, *si haguéssim estalviat*."
+    explanation: "La condició és passada i no es va complir (no vam estalviar): plusquamperfet, *si haguéssim estalviat*. El resultat és de present: *ara no tindríem*."
 
   - id: b2-41-011
     type: fill
@@ -258,7 +258,7 @@ items:
     lesson: 1
     prompt: "No signis el contracte ___ que l'hagi revisat l'advocada."
     hint: "connector que vol dir «excepte si»"
-    answers: ["llevat", "tret", "si no és"]
+    answers: ["llevat", "tret", "si no és", "fora", "excepte"]
     wrong_answers:
       - text: "llevat de"
         why: "Davant de *que* no hi va cap preposició: *llevat que*."
@@ -289,7 +289,7 @@ items:
       - text: "Només de"
         why: "La forma fixa és *només que*, sense preposició."
       - text: "Només si"
-        why: "*Si* va amb indicatiu (*només si estalvies*). Amb subjuntiu (*estalviïs*), cal *només que*."
+        why: "*Només si* no porta *que*: *només si estalvies*. Davant de *que* + subjuntiu (*estalviïs*), cal *només que*."
     explanation: "«Amb aquesta única condició» s'expressa amb *només que* + subjuntiu: *només que estalviïs…*"
 
   # ---------- Lliçó 2 ----------
@@ -299,12 +299,12 @@ items:
     lesson: 2
     prompt: "Sense la teva ajuda, jo no ___ el deute a temps."
     hint: "pagar, condicional compost"
-    answers: ["hauria pagat"]
+    answers: ["hauria pagat", "hagués pagat"]
     wrong_answers:
-      - text: "hagués pagat"
-        why: "A l'oració principal hi va el condicional (*hauria pagat*), no el subjuntiu."
+      - text: "hauré pagat"
+        why: "El futur compost no expressa un resultat irreal: cal el condicional compost, *hauria pagat*."
     grading: tolerant
-    explanation: "El resultat d'una condició que no es va donar va en condicional compost: *no hauria pagat*."
+    explanation: "El resultat d'una condició que no es va donar va en condicional compost: *no hauria pagat*. També s'admet el plusquamperfet de subjuntiu, *no hagués pagat*."
 
   - id: b2-41-015
     type: fill
@@ -338,7 +338,7 @@ items:
     lesson: 2
     prompt: "No et cobrarem res, ___ que anul·lis la reserva a última hora: llavors pagues la primera nit."
     hint: "connector que vol dir «excepte si»"
-    answers: ["llevat", "tret", "si no és"]
+    answers: ["llevat", "tret", "si no és", "fora", "excepte"]
     wrong_answers:
       - text: "sempre"
         why: "Amb *sempre que* la frase voldria dir el contrari. «Excepte si» és *llevat que* o *tret que*."
@@ -392,7 +392,7 @@ items:
       - text: "En cas de"
         why: "Davant de *que* cau la preposició: *en cas que*."
       - text: "Si"
-        why: "*Si que el banc aprovi* no existeix: *si* no porta *que* i va amb indicatiu, *si el banc aprova*."
+        why: "*Si que el banc aprovi* no existeix: *si* no porta *que* i, en una condició possible, va amb indicatiu: *si el banc aprova*."
     explanation: "La hipòtesi amb subjuntiu (*aprovi*) demana un connector com *en cas que*."
 
   - id: b2-41-022
@@ -402,8 +402,8 @@ items:
     prompt: "Els meus pares ___ el pis si els preus no haguessin pujat tant."
     answer: "haurien venut"
     distractors:
-      - text: "haguessin venut"
-        why: "A l'oració principal hi va el condicional compost (*haurien venut*), no el subjuntiu."
+      - text: "hagin venut"
+        why: "El perfet de subjuntiu (*hagin venut*) no expressa un resultat irreal: cal el condicional compost."
       - text: "hauran venut"
         why: "El futur compost no expressa un resultat irreal: cal el condicional compost."
     explanation: "La condició no es va donar (els preus van pujar): el resultat va en condicional compost, *haurien venut*."
@@ -425,14 +425,14 @@ items:
     type: choice
     point: expressions
     lesson: 2
-    prompt: "Guarda els tiquets, ___ els necessites per a la declaració."
+    prompt: "Guarda els tiquets ___: potser els necessitaràs per a la declaració."
     answer: "per si un cas"
     distractors:
-      - text: "si no és"
-        why: "La forma sencera és *si no és que* + subjuntiu (*necessitis*). Aquí el verb va en indicatiu (*necessites*)."
+      - text: "si no és que"
+        why: "*Si no és que* introdueix una excepció i necessita una frase darrere. Aquí cal una precaució: *per si un cas*."
       - text: "tant si com si no"
-        why: "L'ordre és *tant si* + verb + *com si no*: *tant si els necessites com si no*."
-    explanation: "«Per si un cas» + indicatiu (*necessites*) anuncia una precaució."
+        why: "L'expressió completa és *tant si* + verb + *com si no*. Aquí cal una precaució: *per si un cas*."
+    explanation: "«Per si un cas» anuncia una precaució davant d'una cosa que pot passar: potser necessitaràs els tiquets."
 
   - id: b2-41-025
     type: fill
@@ -440,12 +440,12 @@ items:
     lesson: 2
     prompt: "T'ho ___ abans, però no tenia el teu número."
     hint: "dir, condicional compost, jo"
-    answers: ["hauria dit"]
+    answers: ["hauria dit", "hagués dit"]
     wrong_answers:
-      - text: "hagués dit"
-        why: "A l'oració principal hi va el condicional (*hauria dit*), no el subjuntiu."
+      - text: "hauré dit"
+        why: "El futur compost no expressa un resultat irreal: cal el condicional compost, *hauria dit*."
     grading: tolerant
-    explanation: "No t'ho vaig dir (no tenia el número): el resultat irreal va en condicional compost, *t'ho hauria dit*."
+    explanation: "No t'ho vaig dir (no tenia el número): el resultat irreal va en condicional compost, *t'ho hauria dit*. També s'admet *t'ho hagués dit*."
 
   - id: b2-41-026
     type: choice
@@ -610,7 +610,7 @@ items:
     answers: ["cobri"]
     wrong_answers:
       - text: "cobraré"
-        why: "És el calc de «cuando cobraré»: en català, *quan* de futur va amb subjuntiu, *quan cobri*."
+        why: "*Quan* amb valor de futur no va amb futur sinó amb subjuntiu: *quan cobri*."
     grading: tolerant
     explanation: "A diferència de *si*, *quan* de futur va amb subjuntiu: *quan cobri…*"
 
@@ -621,8 +621,8 @@ items:
     prompt: "Si m'ho haguessis dit, t'___ ajudat."
     answer: "hauria"
     distractors:
-      - text: "hagués"
-        why: "A l'oració principal hi va el condicional (*t'hauria ajudat*), no el subjuntiu."
+      - text: "hagi"
+        why: "El perfet de subjuntiu (*t'hagi ajudat*) no expressa un resultat irreal: cal el condicional compost, *t'hauria ajudat*."
       - text: "haurà"
         why: "El futur no expressa un resultat irreal: cal el condicional compost, *t'hauria ajudat*."
     explanation: "La condició no es va donar: el resultat va en condicional compost, *t'hauria ajudat*."
@@ -637,6 +637,8 @@ items:
     answers:
       - "Si hagués estalviat, ara tindria un coixí."
       - "Ara tindria un coixí si hagués estalviat."
+      - "Si hagués estalviat, ara tindria coixí."
+      - "Ara tindria coixí si hagués estalviat."
     wrong_answers:
       - text: "Si hauria estalviat, ara tindria un coixí."
         why: "Darrere de *si* no hi va mai el condicional: *si hagués estalviat*."
@@ -652,6 +654,12 @@ items:
     answers:
       - "Si hagués llegit abans de signar, no hauria pagat de més."
       - "No hauria pagat de més si hagués llegit abans de signar."
+      - "Si no hagués signat sense llegir, no hauria pagat de més."
+      - "No hauria pagat de més si no hagués signat sense llegir."
+      - "Si hagués llegit abans de signar, no hagués pagat de més."
+      - "No hagués pagat de més si hagués llegit abans de signar."
+      - "Si no hagués signat sense llegir, no hagués pagat de més."
+      - "No hagués pagat de més si no hagués signat sense llegir."
     wrong_answers:
       - text: "Si hauria llegit abans de signar, no hauria pagat de més."
         why: "Darrere de *si* va el plusquamperfet de subjuntiu, no el condicional."
@@ -692,14 +700,14 @@ items:
     type: fill
     point: irreal-passat
     lesson: 4
-    prompt: "Ens ___ sense estalvis si no ens ajudessis."
+    prompt: "Ens ___ sense estalvis si no ens haguessis ajudat."
     hint: "quedar, condicional compost, nosaltres"
-    answers: ["hauríem quedat"]
+    answers: ["hauríem quedat", "haguéssim quedat"]
     wrong_answers:
-      - text: "haguéssim quedat"
-        why: "Al resultat hi va el condicional compost (*hauríem quedat*), no el subjuntiu."
+      - text: "haurem quedat"
+        why: "El futur compost no expressa un resultat irreal: cal el condicional compost, *hauríem quedat*."
     grading: tolerant
-    explanation: "El resultat de la condició (*si no ens ajudessis*) va en condicional compost: *ens hauríem quedat*."
+    explanation: "El resultat de la condició irreal (*si no ens haguessis ajudat*) va en condicional compost: *ens hauríem quedat*. També s'admet *ens haguéssim quedat*."
 
   - id: b2-41-045
     type: fill
@@ -742,8 +750,8 @@ items:
     type: fill
     point: condicio-real-o-hipotetica
     lesson: 4
-    prompt: "Si ___ pujant, haurem de retallar despeses."
-    hint: "continuar, present d'indicatiu (els preus)"
+    prompt: "Si els preus ___ pujant, haurem de retallar despeses."
+    hint: "continuar, present d'indicatiu"
     answers: ["continuen"]
     wrong_answers:
       - text: "continuïn"
@@ -760,6 +768,8 @@ items:
     answers:
       - "Si hagués tingut més informació, hauria triat un altre banc."
       - "Hauria triat un altre banc si hagués tingut més informació."
+      - "Si hagués tingut més informació, hagués triat un altre banc."
+      - "Hagués triat un altre banc si hagués tingut més informació."
     wrong_answers:
       - text: "Si tindria més informació, hauria triat un altre banc."
         why: "Darrere de *si* no hi va el condicional, ni el simple ni el compost: *si hagués tingut*."
@@ -851,9 +861,9 @@ items:
     type: find-error
     point: compte-si-hauria
     lesson: 5
-    sentence: "Si tingués més diners, viatjaria més."
+    sentence: "Si cobrés més, estalviaria cada mes."
     no_error: true
-    explanation: "La frase és correcta: *si tingués* (imperfet de subjuntiu) + *viatjaria* (condicional)."
+    explanation: "La frase és correcta: *si cobrés* (imperfet de subjuntiu) + *estalviaria* (condicional)."
 
   - id: b2-41-057
     type: order
@@ -893,12 +903,12 @@ items:
     lesson: 5
     prompt: "Amb el sou d'abans, mai no ___ pagar aquest lloguer."
     hint: "poder, condicional compost, jo"
-    answers: ["hauria pogut"]
+    answers: ["hauria pogut", "hagués pogut"]
     wrong_answers:
-      - text: "hagués pogut"
-        why: "Al resultat hi va el condicional compost (*hauria pogut*), no el subjuntiu."
+      - text: "hauré pogut"
+        why: "El futur compost no expressa un resultat irreal: cal el condicional compost, *hauria pogut*."
     grading: tolerant
-    explanation: "Amb el sou d'abans era impossible: el resultat irreal va en condicional compost, *mai no hauria pogut*."
+    explanation: "Amb el sou d'abans era impossible: el resultat irreal va en condicional compost, *mai no hauria pogut*. També s'admet *mai no hagués pogut*."
 
   - id: b2-41-061
     type: choice
@@ -917,14 +927,14 @@ items:
     type: choice
     point: condicio-real-o-hipotetica
     lesson: 5
-    prompt: "Si els tipus d'interès ___, la quota pujarà."
-    answer: "apugen"
+    prompt: "Si el banc ___ els tipus d'interès, la quota pujarà."
+    answer: "apuja"
     distractors:
-      - text: "apugin"
-        why: "*Si* de condició real va amb indicatiu (*apugen*), no amb subjuntiu."
-      - text: "apujarien"
+      - text: "apugi"
+        why: "*Si* de condició possible va amb indicatiu (*apuja*), no amb present de subjuntiu."
+      - text: "apujaria"
         why: "Darrere de *si* no hi va mai el condicional."
-    explanation: "És una condició possible: *si* + present d'indicatiu (*apugen*) + futur (*pujarà*)."
+    explanation: "És una condició possible: *si* + present d'indicatiu (*apuja*) + futur (*pujarà*)."
 
   - id: b2-41-063
     type: transform
@@ -950,8 +960,8 @@ items:
     distractors:
       - text: "en el pitjor dels cas"
         why: "El nom va en plural: *en el pitjor dels casos*."
-      - text: "en el pitjor cas"
-        why: "La forma fixa porta *dels*: *en el pitjor dels casos*."
+      - text: "per si un cas"
+        why: "*Per si un cas* anuncia una precaució, no el que passarà si tot va malament."
     explanation: "«En el pitjor dels casos» presenta el que passarà si tot va malament."
 
   - id: b2-41-065
@@ -964,7 +974,7 @@ items:
 
       El pla és senzill. Primer, retallar despeses: menys compres per internet i res a terminis, llevat que sigui imprescindible. Segon, comparar preus i proveïdors abans de contractar res: si haguessin comparat les tarifes de la llum, no haurien pagat de més durant mesos. Tercer, estalviar una quantitat fixa cada mes, tant si sobren diners com si no.
 
-      També tenen un pla B. En cas que el banc no els doni la hipoteca, demanaran un préstec més petit i buscaran un pis més barat. I guarden tots els tiquets, per si un cas els calen per a la declaració de la renda. El gestor els ha dit que, si guarden els rebuts de les obres, pagaran menys impostos.
+      També tenen un pla B. En cas que el banc no els doni la hipoteca, demanaran un préstec més petit i buscaran un pis més barat. I guarden tots els tiquets per si un cas: potser els caldran per a la declaració de la renda. El gestor els ha dit que, si guarden els rebuts de les obres, pagaran menys impostos.
 
       Aquest mes han tingut sort: el supermercat feia un descompte del vint per cent i han omplert el rebost. En Pau vol treure diners del caixer un cop per setmana i pagar en efectiu, perquè diu que així gasta menys. La Núria prefereix la targeta, però accepta el repte, sempre que ell apunti cada despesa.
 

@@ -182,20 +182,20 @@ items:
     type: choice
     point: possessius
     lesson: 1
-    prompt: "Tenim dos balcons, però ___ terrassa dona al carrer."
+    prompt: "Vivim al cinquè: ___ terrassa dona al carrer."
     answer: "la nostra"
     distractors:
       - text: "el nostre"
         why: "*Terrassa* és femení: *la nostra*."
       - text: "la vostra"
-        why: "*Tenim* és «nosaltres»: *la nostra*, no *la vostra*."
-    explanation: "«Tenim» és «nosaltres», i «terrassa» és femení: *la nostra*."
+        why: "*Vivim* és «nosaltres»: *la nostra*, no *la vostra*."
+    explanation: "«Vivim» és «nosaltres», i «terrassa» és femení: *la nostra*."
 
   - id: a2-04-004
     type: choice
     point: demostratius
     lesson: 1
-    prompt: "Mira: ___ clau de la mà és la del traster."
+    prompt: "Mira: ___ clau que tinc a la mà és la del traster."
     answer: "aquesta"
     distractors:
       - text: "aquella"
@@ -221,14 +221,14 @@ items:
     type: choice
     point: demostratius
     lesson: 1
-    prompt: "Posa tot ___ aquí, al rebedor."
+    prompt: "Tot ___ d'aquí va al traster."
     answer: "això"
     distractors:
       - text: "allò"
-        why: "«Aquí» és a prop: *això*, no *allò*."
-      - text: "aquest"
-        why: "*Aquest* necessita un nom darrere. Sense nom, el neutre és *això*."
-    explanation: "«Aquí» és a prop, i no hi ha cap nom: el neutre és *això*."
+        why: "«D'aquí» és a prop: *això*, no *allò*."
+      - text: "aquests"
+        why: "*Tot* i *va* són singulars. Per a coses diverses sense nom, el neutre és *això*."
+    explanation: "«D'aquí» és a prop, i són coses diverses sense nom: el neutre és *això*."
 
   - id: a2-04-007
     type: match
@@ -262,34 +262,34 @@ items:
     point: demostratius
     lesson: 1
     title: "Un missatge de l'Ibrahim"
-    text: "Hola, Laia! {Aquest|Aquestos|Aquestes} dissabte vinc a veure el {teu|tu|seu} pis nou. Em pots deixar {aquesta|aquest|aquelles} clau del replà? El {meu|mi|meus} replà és fosc i sempre perdo les claus. Fins dissabte!"
-    explanation: "*Dissabte* és masculí i proper: *aquest*. El possessiu porta article: *el teu, el meu*. *Clau* és femení: *aquesta*."
+    text: "Hola, Laia! {Aquest|Aquestos|Aquestes} dissabte vinc a veure el {teu|tu|teus} pis nou. Et porto {aquestes|aquests|aquesta} cadires de la foto: a la {meva|mi|meu} terrassa no hi caben. Fins dissabte!"
+    explanation: "*Dissabte* és masculí i proper: *aquest*. *Cadires* és femení plural: *aquestes*. El possessiu porta article i concorda: *el teu pis, la meva terrassa*."
 
   - id: a2-04-010
     type: choice
     point: possessius
     lesson: 1
     prompt: "—Aquestes claus són les ___? —Sí, són de casa meva."
-    answer: "meves"
+    answer: "teves"
     distractors:
-      - text: "meus"
-        why: "*Claus* és femení plural: *meves*."
-      - text: "teves"
-        why: "«Casa meva» és de qui parla: *meves*, no *teves*."
-    explanation: "«Claus» és femení plural, i «casa meva» és de qui parla: *les meves*."
+      - text: "teus"
+        why: "*Claus* és femení plural: *teves*."
+      - text: "meves"
+        why: "Qui respon diu «casa meva»: les claus són seves. Qui pregunta diu *les teves*."
+    explanation: "«Claus» és femení plural, i són de qui respon («casa meva»): qui pregunta diu *les teves*."
 
   - id: a2-04-011
     type: choice
     point: demostratius
     lesson: 1
-    prompt: "No toquis ___ d'allà: és el pany nou i està trencat."
+    prompt: "No toquis ___ d'allà: no sé què és."
     answer: "allò"
     distractors:
       - text: "això"
         why: "«D'allà» és lluny: *allò*, no *això*."
       - text: "aquell"
-        why: "*Aquell* necessita un nom darrere. Sense nom, el neutre és *allò*."
-    explanation: "«D'allà» és lluny, i no hi ha cap nom: el neutre és *allò*."
+        why: "No sabem què és, i no hi ha cap nom: el neutre és *allò*."
+    explanation: "«D'allà» és lluny, i no sabem què és: el neutre és *allò*."
 
   - id: a2-04-012
     type: choice
@@ -359,7 +359,7 @@ items:
       - text: "les teus"
         why: "*Claus* és femení: *les teves*."
       - text: "les seves"
-        why: "Parles amb la persona: *les teves*, no *les seves*."
+        why: "La pista diu «tu»: *les teves*. *Les seves* és d'ell, d'ella o de vostè."
     grading: tolerant
     explanation: "«Claus» és femení plural, i parles amb la persona: *les teves*."
 
@@ -404,7 +404,7 @@ items:
       - text: "allò"
         why: "«A les mans» és a prop: *això*."
       - text: "aquest"
-        why: "*Aquest* necessita un nom darrere. Sense nom: *això*."
+        why: "Aquí no hi ha cap nom: per a una cosa sense nom, el neutre és *això*."
     grading: tolerant
     explanation: "«A les mans» és a prop, i no hi ha cap nom: *això*."
 
@@ -413,7 +413,7 @@ items:
     point: possessius
     lesson: 2
     title: "La mudança de la Carla"
-    text: "La Carla fa la mudança aquest cap de setmana. Els {seus|seves|seu} amics l'ajuden amb les caixes. El {seu|seva|seus} germà porta el cotxe, i la {seva|seu|seves} germana neteja el pis nou. Diu que {Els seus|Les seves|Els seves} veïns són molt simpàtics!"
+    text: "La Carla fa la mudança aquest cap de setmana. Els {seus|seves|seu} amics l'ajuden amb les caixes. El {seu|seva|seus} germà porta el cotxe, i la {seva|seu|seves} germana neteja el pis nou. Diu que {els seus|les seves|els seves} veïns són molt simpàtics!"
     explanation: "*Amics, germà* i *veïns* són masculins; *germana*, femení. La Carla és «ella»: *seu, seva, seus*."
 
   - id: a2-04-021
@@ -442,6 +442,7 @@ items:
     answers:
       - "Aquests mobles del menjador són de l'àvia."
       - "De l'àvia són aquests mobles del menjador."
+      - "Són de l'àvia aquests mobles del menjador."
     explanation: "«Mobles» és masculí plural i a prop: *aquests mobles*. Són de l'àvia."
 
   - id: a2-04-023
@@ -560,8 +561,8 @@ items:
     prompt: "Aquesta nevera nova és ___ que l'antiga: gasta menys llum."
     answer: "millor"
     distractors:
-      - text: "més bona"
-        why: "El comparatiu de *bo* és *millor*: no diem *més bo*."
+      - text: "pitjor"
+        why: "Si gasta menys llum, és un avantatge: *millor*."
       - text: "més millor"
         why: "*Millor* ja és un comparatiu: no porta *més* davant."
     explanation: "El comparatiu de *bo* és *millor*. «Gasta menys» ho confirma."
@@ -598,9 +599,9 @@ items:
     type: fill
     point: compte-castella
     lesson: 3
-    prompt: "___ cotxe aparca al garatge cada nit."
+    prompt: "Cada nit deixo ___ cotxe al garatge."
     hint: "possessiu de «jo», amb article"
-    answers: ["El meu"]
+    answers: ["el meu"]
     wrong_answers:
       - text: "Mi"
         why: "*Mi* és castellà. En català, amb article: *el meu*."
@@ -786,14 +787,14 @@ items:
     lesson: 4
     prompt: "Aquest forn és ___ que l'antic: cou de pressa i bé."
     hint: "comparatiu de «bo»"
-    answers: ["millor"]
+    answers: ["millor", "més bo"]
     wrong_answers:
-      - text: "més bo"
-        why: "El comparatiu de *bo* és *millor*."
+      - text: "més millor"
+        why: "*Millor* ja és un comparatiu: no porta *més* davant."
       - text: "mejor"
         why: "«Mejor» és castellà. En català: *millor*."
     grading: tolerant
-    explanation: "El comparatiu de *bo* és *millor*. «Cou de pressa i bé» ho confirma."
+    explanation: "El comparatiu de *bo* és *millor* (també *més bo*). «Cou de pressa i bé» ho confirma."
 
   - id: a2-04-048
     type: fill
@@ -839,8 +840,8 @@ items:
     distractors:
       - text: "pitjor"
         why: "«Té ascensor i ni un soroll» és bo: *millor*."
-      - text: "més bo"
-        why: "El comparatiu de *bo* és *millor*."
+      - text: "més millor"
+        why: "*Millor* ja és un comparatiu: no porta *més* davant."
     explanation: "«Té ascensor i ni un soroll» és bo: el comparatiu de *bo* és *millor*."
 
   - id: a2-04-052
@@ -865,7 +866,7 @@ items:
     lesson: 5
     title: "Un pis nou a Sabadell"
     text: |
-      L'Ibrahim i la Carla busquen un pis de lloguer a Sabadell. Aquest dissabte visiten dos pisos. El primer és al centre: és més petit que el segon, però té una cuina grandíssima i un balcó que dona al carrer. El segon és a prop de l'estació: és més gran i més barat, però la nevera és vella i el bany és petitíssim. El lavabo és nou: té dutxa i un mirall grandíssim.
+      L'Ibrahim i la Carla busquen un pis de lloguer a Sabadell. Aquest dissabte visiten dos pisos. El primer és al centre: és més petit que el segon, però té una cuina grandíssima i un balcó que dona al carrer. El segon és a prop de l'estació: és més gran i més barat, però la nevera és vella i el bany és petitíssim.
 
       «Aquest pis del centre m'agrada més», diu la Carla. «La cuina és tan gran com el menjador de casa meva!»
 
@@ -911,8 +912,8 @@ items:
     error: "més millor"
     fix: "millor"
     fix_distractors:
-      - text: "més bona"
-        why: "El comparatiu de *bo* és *millor*."
+      - text: "mejor"
+        why: "«Mejor» és castellà. En català: *millor*."
       - text: "la millor"
         why: "*La millor* és superlatiu. Aquí cal el comparatiu: *millor*."
     explanation: "*Millor* ja és un comparatiu: no porta *més*. *Més millor* no existeix."

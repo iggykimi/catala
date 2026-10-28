@@ -278,7 +278,7 @@ items:
     type: fill
     point: pronoms-cd
     lesson: 1
-    prompt: "—On és el pastís? —___ compro demà al matí."
+    prompt: "—I el pastís? —___ compro demà al matí."
     hint: "pronom per a «el pastís»"
     answers: ["El"]
     wrong_answers:
@@ -293,7 +293,7 @@ items:
     type: fill
     point: pronoms-cd
     lesson: 2
-    prompt: "—On és la cinta? —___ compro aquesta tarda."
+    prompt: "—I la cinta? —___ compro aquesta tarda."
     hint: "pronom per a «la cinta»"
     answers: ["La"]
     wrong_answers:
@@ -308,13 +308,13 @@ items:
     type: fill
     point: pronoms-cd
     lesson: 2
-    prompt: "—Reps els regals avui? —Sí, ___ obro aquesta tarda."
+    prompt: "—Quan obres els regals? —___ obro aquesta tarda."
     hint: "pronom per a «els regals»"
-    answers: ["els"]
+    answers: ["Els"]
     wrong_answers:
-      - text: "les"
+      - text: "Les"
         why: "*Les* és femení. «Els regals» és masculí: *els*."
-      - text: "li"
+      - text: "Li"
         why: "*Li* és singular i indirecte. Aquí cal directe plural."
     grading: tolerant
     explanation: "«Els regals» és complement directe masculí plural: *els*."
@@ -428,19 +428,20 @@ items:
     answers:
       - "Li dono l'adreça demà."
       - "Demà li dono l'adreça."
+      - "Li dono demà l'adreça."
     explanation: "«A la Carla» és complement indirecte: *li*. Va davant del verb."
 
   - id: a2-11-024
     type: choice
     point: pronoms-cd
     lesson: 2
-    prompt: "—Ja dius a tothom que vens? —Sí, ___ dic a tothom avui."
+    prompt: "—Dius a tothom que vens a la festa? —Sí, ___ dic avui."
     answer: "ho"
     distractors:
       - text: "el"
         why: "*El* substitueix un nom masculí. Aquí hi ha una idea."
-      - text: "li"
-        why: "*Li* és per a una persona. Aquí hi ha una idea."
+      - text: "la"
+        why: "*La* substitueix un nom femení. Aquí hi ha una idea."
     explanation: "Substituïm una idea («que vinc»): el pronom és *ho*."
 
   - id: a2-11-025
@@ -461,7 +462,7 @@ items:
     point: pronoms-cd
     lesson: 2
     title: "Preparant la festa"
-    text: "El pastís {el|li|ho} compro jo. Les begudes {les|els|li} porta en Pau. La música {la|li|ho} tria la Núria. Els jocs {els|les|li} prepara l'Arnau. Que vindré tard, {ho|el|li} dic ara."
+    text: "El pastís {el|li|ho} compro jo. Les begudes {les|els|li} porta en Pau. La música {la|li|ho} tria la Núria. Els jocs {els|les|li} prepara l'Arnau. Que arribo tard, ja {ho|el|li} sabeu."
     explanation: "Quatre noms amb el seu pronom, i una idea amb *ho*."
 
   - id: a2-11-027
@@ -520,7 +521,7 @@ items:
     type: fill
     point: formes-posicio
     lesson: 3
-    prompt: "—On és l'espelma grossa? —___ de la caixa."
+    prompt: "—Necessites l'espelma grossa? —Sí, ___ ara mateix."
     hint: "agafar, present, amb pronom"
     answers: ["L'agafo"]
     wrong_answers:
@@ -753,7 +754,7 @@ items:
       - text: "Vull els escriure aquesta tarda."
         why: "El pronom no va entre *vull* i l'infinitiu."
       - text: "Vull escriure-els aquesta tarda."
-        why: "Darrere d'*escriure*, *els* fa *'ls*: *escriure'ls*."
+        why: "Darrere d'un infinitiu acabat en vocal, *els* fa *'ls*: *escriure'ls*."
     grading: tolerant
     explanation: "«Als avis» és CI plural: *els vull escriure* o *vull escriure'ls*."
 
@@ -885,11 +886,9 @@ items:
     point: expressions
     lesson: 5
     prompt: "Arribo tard. ___, l'autobús no venia."
-    hint: "expressió per demanar perdó"
-    answers: ["Em sap greu"]
+    hint: "expressió per demanar perdó, amb *greu*"
+    answers: ["Em sap greu", "Em sap molt greu"]
     wrong_answers:
-      - text: "Me sap greu"
-        why: "El pronom és *em*, no *me*: *em sap greu*."
       - text: "No em va bé"
         why: "*No em va bé* és per quedar, no per demanar perdó."
     grading: tolerant
@@ -1005,7 +1004,7 @@ items:
           - text: "Sopa amb la Núria en un restaurant."
             why: "És el que li diu, però és mentida."
           - text: "Compra el pastís amb la Carla."
-            why: "El pastís el compra la Carla tota sola."
+            why: "El pastís el compra la Carla, no en Pau."
       - prompt: "Què fa la Núria amb la targeta?"
         answer: "La llegeix en veu alta davant de tothom."
         distractors:

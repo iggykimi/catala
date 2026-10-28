@@ -1,15 +1,15 @@
 <!-- point: causa -->
 ## La causa: a causa de, gràcies a, arran de i amb motiu de
 
-Quatre locucions introdueixen una causa o una ocasió. *A causa de* presenta la causa d'un fet negatiu; *gràcies a*, la causa d'un fet positiu.
+Quatre locucions introdueixen una causa o una ocasió. *A causa de* presenta una causa, sovint d'un fet negatiu; *gràcies a*, la causa d'un fet positiu.
 
 > **A causa de** la vaga, el metro anava ple. **Gràcies a** la línia nova, arribo abans.
 
 | Locució | Valor | Exemple |
 |---|---|---|
-| **a causa de** | causa d'un fet negatiu | *a causa de* la boira, el vol porta retard |
+| **a causa de** | causa, sovint d'un fet negatiu | *a causa de* la boira, el vol porta retard |
 | **gràcies a** | causa d'un fet positiu | *gràcies a* l'avís, no vam perdre l'enllaç |
-| **arran de** | conseqüència d'un fet anterior | *arran de* l'accident, el trànsit va quedar tallat |
+| **arran de** | fet anterior que en provoca un altre | *arran de* l'accident, el trànsit va quedar tallat |
 | **amb motiu de** | ocasió, en avisos formals | *amb motiu de* la festa major, el metro funcionarà tota la nit |
 
 - Davant d'article, la preposició es contreu: *a causa **dels*** talls, *gràcies **a l'***avís.
@@ -29,12 +29,12 @@ Quatre locucions introdueixen una causa o una ocasió. *A causa de* presenta la 
 - **A favor de** indica suport: els veïns estan *a favor del* carril bici.
 - **A costa de** indica l'esforç que ha calgut: ho van acabar *a costa de* moltes hores.
 
-> **Compte!** *En comptes* va en plural: ~~en compte de~~ → **en comptes de**. I *malgrat* no porta mai *de*: ~~malgrat de la pluja~~ → **malgrat la pluja**.
+> **Compte!** *Malgrat* no porta mai *de*: ~~malgrat de la pluja~~ → **malgrat la pluja**.
 
 <!-- point: temps-partida -->
 ## El temps: a partir de i a/en
 
-*A partir de* marca el punt de partida d'un fet. Amb l'hora i les parts del dia fem servir *a*; amb *moment* o *època* i un demostratiu, *en*.
+*A partir de* marca el punt de partida d'un fet. Amb l'hora i les parts del dia fem servir *a*; amb *moment* o *època* i un demostratiu, la forma habitual és *en*.
 
 > **A partir de** dilluns, el bus passarà cada deu minuts. **En aquell moment** no hi havia metro.
 
@@ -47,20 +47,20 @@ Quatre locucions introdueixen una causa o una ocasió. *A causa de* presenta la 
 - El punt de partida porta *de*, amb contracció si cal: *a partir de dilluns*, *a partir **del** gener*.
 - *A partir de* s'escriu en tres mots separats.
 
-> **Compte!** ~~En les tres~~ → **a les tres**. ~~A aquell moment~~ → **en aquell moment**.
+> **Compte!** ~~En les tres~~ → **a les tres**. ~~En el matí~~ → **al matí**.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: malgrat i en lloc de
 
-Dos calcs molt freqüents venen del castellà «a pesar de» i «en vez de». En català tenen formes pròpies.
+Dos errors molt freqüents venen del castellà «en vez de» i «a pesar de que». En català, *vez* no existeix, i davant de *que* la preposició *de* cau.
 
-> ~~A pesar de la vaga~~ → **Malgrat** la vaga. ~~En vez del cotxe~~ → **En lloc del** cotxe.
+> ~~En vez del cotxe~~ → **En lloc del** cotxe. ~~A pesar de que plovia~~ → **Malgrat que** plovia.
 
-- L'oposició és *malgrat* (+ nom) o *malgrat que* (+ frase): *malgrat que plovia molt*.
-- La substitució és *en lloc de* o *en comptes de* (en plural).
+- L'oposició es fa sobretot amb *malgrat* (+ nom) o *malgrat que* (+ frase): *malgrat que plovia molt*. *A pesar de* + nom també és correcte, però *malgrat* és més habitual.
+- La substitució és *en lloc de* o *en comptes de* (també *en compte de*).
 - *Tot i* (+ nom) i *tot i que* (+ frase) també expressen oposició: *tot i la boira*.
 
-> **Compte!** ~~A pesar de que plovia~~ → **Malgrat que** plovia. ~~En vez de~~ → **en lloc de**.
+> **Compte!** ~~Malgrat de que plovia~~ → **Malgrat que** plovia. ~~En vez de~~ → **en lloc de**.
 
 <!-- point: expressions -->
 ## Expressions de moviment

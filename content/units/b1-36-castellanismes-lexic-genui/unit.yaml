@@ -157,10 +157,10 @@ items:
     answer: "bellesa"
     distractors:
       - text: "belleza"
-        why: "«Belleza», amb *z*, és la forma castellana. En català: *bellesa*, amb *ss*."
+        why: "«Belleza», amb *z*, és la forma castellana. En català: *bellesa*, amb *s*."
       - text: "bellitat"
         why: "El nom de *bell* és *bellesa*, no *bellitat*."
-    explanation: "De l'adjectiu *bell* fem *bellesa* amb *-esa*. S'escriu amb *ss*, no amb *z*."
+    explanation: "De l'adjectiu *bell* fem *bellesa* amb *-esa*. S'escriu amb una sola *s*, no amb *z*."
 
   - id: b1-36-003
     type: choice
@@ -173,7 +173,7 @@ items:
         why: "De *arribar*, el nom habitual és *arribada*, no *arribament*."
       - text: "arribació"
         why: "De *arribar*, el nom habitual és *arribada*, no *arribació*."
-    explanation: "De *arribar* fem *arribada* amb *-ada*. «L'» indica que cal un nom femení."
+    explanation: "De *arribar* fem el nom *arribada* amb *-ada*."
 
   - id: b1-36-004
     type: choice
@@ -211,7 +211,7 @@ items:
       - text: "coneixeció"
         why: "De *conèixer*, el nom habitual és *coneixement*, no *coneixeció*."
       - text: "coneixença"
-        why: "*Coneixença* és femení (*la coneixença*) i és una persona que coneixes poc."
+        why: "*Coneixença* és femení (*la coneixença*). Amb «el seu» cal el masculí: *coneixement*."
     explanation: "De *conèixer* fem el masculí *coneixement* amb *-ment*. «El seu» demana un masculí."
 
   - id: b1-36-007
@@ -259,7 +259,7 @@ items:
     lesson: 1
     title: "Una abraçada a l'estació"
     text: "Hola! Ahir a l'estació ens vam fer una {abraçada|abraçament|abraçació} molt forta: feia mesos que no ens vèiem. L'{arribada|arribament|arribació} del tren portava retard, però l'espera va valer la pena: la {bellesa|belleza|bellitat} de retrobar-nos no es pot explicar. Vam fer una {passejada|passejament|passejació} pel barri antic i vam riure tota l'estona."
-    explanation: "Dels verbs fem noms en *-ada* (*abraçada, arribada, passejada*). De *bell* fem *bellesa*, amb *ss*."
+    explanation: "Dels verbs fem noms en *-ada* (*abraçada, arribada, passejada*). De *bell* fem *bellesa*, amb una sola *s*."
 
   - id: b1-36-011
     type: inline-choice
@@ -369,11 +369,11 @@ items:
     answers: ["vellesa"]
     wrong_answers:
       - text: "velleza"
-        why: "«Velleza», amb *z*, és castellà. En català: *vellesa*, amb *ll* i *ss*."
+        why: "*Velleza*, amb *z*, imita el castellà. En català: *vellesa*, amb *s*."
       - text: "velleria"
-        why: "El nom de *vell* és *vellesa*, no *velleria*."
+        why: "La pista demana el nom en *-esa*: *vellesa*."
     grading: tolerant
-    explanation: "De *vell* fem *vellesa* amb *-esa*: amb *ll* i *ss*."
+    explanation: "De *vell* fem *vellesa* amb *-esa*: amb *ll* i una sola *s*."
 
   - id: b1-36-019
     type: fill
@@ -434,7 +434,7 @@ items:
     answer: "mirada"
     distractors:
       - text: "mirament"
-        why: "De *mirar*, el nom habitual és *mirada*, no *mirament*."
+        why: "*Mirament* és masculí i vol dir «consideració». Una manera de mirar és una *mirada*."
       - text: "miració"
         why: "De *mirar*, el nom habitual és *mirada*, no *miració*."
     explanation: "De *mirar* fem *mirada* amb *-ada*. «Una» demana un nom femení."
@@ -447,10 +447,10 @@ items:
     answer: "tristesa"
     distractors:
       - text: "tristeza"
-        why: "«Tristeza», amb *z*, és castellà. En català: *tristesa*, amb *ss*."
+        why: "«Tristeza», amb *z*, és castellà. En català: *tristesa*, amb *s*."
       - text: "tristetat"
         why: "El nom de *trist* és *tristesa*, no *tristetat*."
-    explanation: "De *trist* fem *tristesa* amb *-esa*. S'escriu amb *ss*, no amb *z*."
+    explanation: "De *trist* fem *tristesa* amb *-esa*. S'escriu amb una sola *s*, no amb *z*."
 
   - id: b1-36-025
     type: choice
@@ -565,7 +565,7 @@ items:
     lesson: 3
     prompt: "—Penjo el vídeo al perfil demà? —___, però avisa'm abans."
     hint: "VALE, en català genuí"
-    answers: ["D'acord"]
+    answers: ["D'acord", "Entesos"]
     wrong_answers:
       - text: "Vale"
         why: "«Vale» és un castellanisme. Per acceptar una proposta: *d'acord*."
@@ -592,15 +592,15 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "No sé si vindré al directe, pues encara no tinc el guió."
-    error: "pues"
-    fix: "doncs"
+    sentence: "—Encara no tinc el guió del directe. —Pues demana'l a la Carla, que el té."
+    error: "Pues"
+    fix: "Doncs"
     fix_distractors:
-      - text: "bueno"
-        why: "«Bueno» també és un castellanisme. Aquí, per matisar, cal *doncs*."
-      - text: "vale"
-        why: "«Vale» és un castellanisme i aquí no té sentit. La forma genuïna és *doncs*."
-    explanation: "«Pues» és un castellanisme. Per matisar o dubtar, en català fem servir *doncs*."
+      - text: "Bueno"
+        why: "«Bueno» també és un castellanisme. Per treure una conseqüència del que diu l'altre: *doncs*."
+      - text: "Perquè"
+        why: "*Perquè* introdueix una causa. Aquí la resposta treu una conseqüència: *doncs*."
+    explanation: "«Pues» és un castellanisme. Per treure una conseqüència del que ha dit l'altre, en català diem *doncs*."
 
   - id: b1-36-036
     type: find-error
@@ -608,7 +608,7 @@ items:
     lesson: 3
     sentence: "Bé, doncs llavors ens veiem demà al plató a les deu."
     no_error: true
-    explanation: "La frase és correcta: *bé* obre el torn, *doncs* matisa i *llavors* ordena els fets."
+    explanation: "La frase és correcta: *bé* obre el torn, *doncs* introdueix la conseqüència i *llavors* situa el moment."
 
   - id: b1-36-037
     type: find-error
@@ -754,8 +754,8 @@ items:
       - "Em vaig fer un fart de riure ahir amb el programa especial."
       - "Em vaig fer un fart de riure amb el programa especial ahir."
     wrong_answers:
-      - text: "Ahir vaig fer un fart de riure amb el programa especial."
-        why: "*Fer-se un fart de* és pronominal: cal el pronom (*em vaig fer*)."
+      - text: "Ahir em vaig fer un fart riure amb el programa especial."
+        why: "L'expressió porta *de*: *fer-se un fart de riure*."
     grading: tolerant
     explanation: "*Fer-se un fart de* vol dir atipar-se d'una cosa: aquí, «un fart de riure»."
 
@@ -770,7 +770,7 @@ items:
       - "Pau, deixa-ho córrer, això no val la pena."
       - "Deixa-ho córrer, Pau, això no val la pena."
       - "Deixa-ho córrer, això no val la pena, Pau."
-    explanation: "L'expressió és *deixar-ho córrer*. Com que reprèn «això», el pronom és *ho*, no *el*."
+    explanation: "L'expressió és *deixar-ho córrer*, sempre amb el pronom *ho*: *deixa-ho córrer*."
 
   - id: b1-36-048
     type: order
@@ -895,7 +895,7 @@ items:
       - text: "emetre"
         why: "*Emetre* és el verb. Aquí, després de *l'*, cal el nom: *emissió*."
     grading: tolerant
-    explanation: "De *emetre* fem el femení *emissió*. «L'» indica que cal un nom femení."
+    explanation: "De *emetre* fem el nom femení *emissió*: *l'emissió*."
 
   - id: b1-36-058
     type: transform
@@ -942,7 +942,7 @@ items:
     point: compte-castella
     lesson: 5
     title: "Un àudio de l'Arnau"
-    text: "{Bé|Bueno}, ja està decidit: demà {començarem|empezarem} el rodatge a les vuit. Porta un {got|vaso} de casa, que al plató no en queda cap. I recorda: no {premis|apretis} el botó vermell fins que jo t'ho digui, per privadesa. {D'acord|Vale}?"
+    text: "{Bé|Bueno}, ja està decidit: demà {començarem|empezarem} el rodatge a les vuit. Porta un {got|vaso} de casa, que al plató no en queda cap. I recorda: no {premis|apretis} el botó vermell fins que jo t'ho digui. {D'acord|Vale}?"
     explanation: "Les formes genuïnes són *bé, començarem, got, premis* i *d'acord*. Les altres són castellanismes."
 
   - id: b1-36-062

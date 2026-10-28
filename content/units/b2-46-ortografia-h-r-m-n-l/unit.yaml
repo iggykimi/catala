@@ -246,13 +246,13 @@ items:
     lesson: 1
     title: "Nit de concert"
     text: "El concert va començar amb un solo de guita{rr|r}a. Després, un trio de música ba{rr|r}oca va rebre un aplaudiment llarg. L'est{r|rr}ena de la temporada serà al Palau, i el {r|rr}itme del final farà ballar tothom."
-    explanation: "*Guitarra* i *barroca* sonen fort entre vocals: dues erres. *Estrena* (darrere de *t*) i *ritme* (a principi de mot) sonen fort amb una erra."
+    explanation: "*Guitarra* i *barroca* sonen fort entre vocals: dues erres. *Estrena* (darrere de *t*) i *ritme* (a principi de mot) porten una sola erra."
 
   - id: b2-46-008
     type: fill
     point: lletra-h
     lesson: 1
-    prompt: "___ vam anar a l'exposició del MACBA."
+    prompt: "___ va ser l'estrena i encara estem cansats."
     hint: "el dia abans d'avui"
     answers: ["Ahir"]
     wrong_answers:
@@ -265,7 +265,7 @@ items:
     type: fill
     point: lletra-h
     lesson: 1
-    prompt: "Al museu està ___ fer fotos amb flaix."
+    prompt: "A la sala està ___ menjar durant la funció."
     hint: "PROHIBIR, participi"
     answers: ["prohibit"]
     wrong_answers:
@@ -278,7 +278,7 @@ items:
     type: fill
     point: erra-doble
     lesson: 1
-    prompt: "El grup de ___ va tocar dues hores."
+    prompt: "El grup de ___ va actuar al festival."
     hint: "instrument de sis cordes, en plural"
     answers: ["guitarres"]
     wrong_answers:
@@ -331,13 +331,13 @@ items:
     point: lletra-h
     lesson: 2
     prompt: "L'___ de dansa africana de diumenge va ser un èxit."
-    hint: "el nom de *exhibir*"
+    hint: "nom derivat del verb *exhibir*"
     answers: ["exhibició"]
     wrong_answers:
       - text: "exibició"
         why: "*Exhibició* s'escriu amb haca."
     grading: strict
-    explanation: "El nom de *exhibir* és *exhibició*, amb haca."
+    explanation: "El nom derivat del verb *exhibir* és *exhibició*, amb haca."
 
   - id: b2-46-015
     type: fill
@@ -369,7 +369,7 @@ items:
     type: fill
     point: erra-doble
     lesson: 2
-    prompt: "Ahir vam veure una pel·lícula de ___."
+    prompt: "El festival de cinema de ___ es fa cada octubre a Sitges."
     hint: "gènere de por"
     answers: ["terror"]
     wrong_answers:
@@ -382,14 +382,14 @@ items:
     type: choice
     point: lletra-h
     lesson: 2
-    prompt: "Van fer un acte ___ i emotiu."
+    prompt: "El discurs de la directora va ser clar i ___."
     answer: "coherent"
     distractors:
       - text: "coerent"
         why: "*Coherent* s'escriu amb haca."
-      - text: "coerente"
+      - text: "coherente"
         why: "És la forma castellana «coherente». En català acaba en *-ent*: *coherent*."
-    explanation: "«Un acte coherent» vol dir un acte amb sentit: *coherent*, amb haca."
+    explanation: "Un discurs amb lògica és *coherent*, amb haca intercalada."
 
   - id: b2-46-019
     type: choice
@@ -463,9 +463,9 @@ items:
     answer: "obra"
     distractors:
       - text: "obrra"
-        why: "Darrere de consonant (*b*), el so fort s'escriu amb una erra: *obra*."
-      - text: "orba"
-        why: "L'ordre de les lletres és *o-b-r-a*: *obra*."
+        why: "Darrere de consonant (*b*) l'erra no es dobla mai: *obra*."
+      - text: "òbra"
+        why: "*Obra* no porta accent."
     explanation: "Una peça de teatre és una *obra*: darrere de *b*, una erra."
 
   - id: b2-46-025
@@ -544,7 +544,7 @@ items:
       - text: "inprovisació"
         why: "Davant de *p* s'escriu *m*: *improvisació*."
     grading: strict
-    explanation: "El nom de *improvisar* és *improvisació*: davant de *p*, *m*."
+    explanation: "El nom derivat del verb *improvisar* és *improvisació*: davant de *p*, *m*."
 
   - id: b2-46-031
     type: fill
@@ -598,15 +598,15 @@ items:
     type: find-error
     point: compte-h-castella
     lesson: 3
-    sentence: "Per sopar, els actors van demanar huevos farcits."
-    error: "huevos"
+    sentence: "Per sopar, els actors van demanar hous farcits."
+    error: "hous"
     fix: "ous"
     fix_distractors:
       - text: "ou"
         why: "«Farcits» és plural: *ous*."
-      - text: "hovos"
-        why: "En català s'escriu sense haca i amb *u*: *ous*. «Huevos» és castellà."
-    explanation: "En català, *ou* no porta haca. «Huevos» és la forma castellana."
+      - text: "óus"
+        why: "*Ous* no porta accent."
+    explanation: "En català, *ou* no porta haca, encara que en castellà es digui «huevo»."
 
   - id: b2-46-036
     type: find-error
@@ -622,7 +622,7 @@ items:
     lesson: 3
     instruction: "Relaciona cada frase amb el mot que hi falta."
     pairs:
-      - ["La ___ de dansa arriba demà.", "companyia"]
+      - ["Una ___ italiana porta un espectacle nou.", "companyia"]
       - ["Tocava la ___ a l'orquestra.", "trompeta"]
       - ["Assagen en una sala de música de ___.", "cambra"]
       - ["He rebut la ___ per correu electrònic.", "invitació"]
@@ -712,7 +712,7 @@ items:
     type: fill
     point: ela-geminada
     lesson: 4
-    prompt: "Va tancar el concert amb una ___ preciosa, no amb una ballada."
+    prompt: "La cantant va tancar el recital amb una ___ preciosa."
     hint: "cançó lenta"
     answers: ["balada"]
     wrong_answers:
@@ -726,7 +726,7 @@ items:
     point: grups-ject
     lesson: 4
     prompt: "Tenen un ___ de teatre al carrer per l'estiu."
-    hint: "PROJECTAR, nom d'acció"
+    hint: "pla d'una activitat futura"
     answers: ["projecte"]
     wrong_answers:
       - text: "progecte"
@@ -734,7 +734,7 @@ items:
       - text: "proyecte"
         why: "«Proyecto» és castellà; en català, amb *j*: *projecte*."
     grading: strict
-    explanation: "El nom de *projectar* és *projecte*, amb *j* i el grup *-ject-*."
+    explanation: "Un pla per al futur és un *projecte*, amb *j* i el grup *-ject-*."
 
   - id: b2-46-046
     type: fill
@@ -754,10 +754,10 @@ items:
     point: compte-h-castella
     lesson: 4
     instruction: "Corregeix el mot marcat."
-    source: "Ahir vam dinar [[horxata]] i bunyols."
-    answers: ["Ahir vam dinar orxata i bunyols."]
+    source: "Ahir vam berenar [[horxata]] i bunyols."
+    answers: ["Ahir vam berenar orxata i bunyols."]
     wrong_answers:
-      - text: "Ahir vam dinar orxatta i bunyols."
+      - text: "Ahir vam berenar orxatta i bunyols."
         why: "Només cal una te: *orxata*."
     grading: strict
     explanation: "*Orxata* s'escriu sense haca. «Horchata», amb haca, és castellà."
@@ -780,13 +780,13 @@ items:
     point: ema-ena
     lesson: 4
     instruction: "Corregeix el mot marcat."
-    source: "La [[conpanyia]] de dansa arriba demà."
-    answers: ["La companyia de dansa arriba demà."]
+    source: "La [[conpanyia]] de teatre estrena obra a Girona."
+    answers: ["La companyia de teatre estrena obra a Girona."]
     wrong_answers:
-      - text: "La conpanyia de dansa arriba demà."
+      - text: "La conpanyia de teatre estrena obra a Girona."
         why: "Davant de *p* s'escriu *m*: *companyia*."
     grading: strict
-    explanation: "El grup de dansa és la *companyia*: davant de *p*, *m*."
+    explanation: "Un grup estable d'actors és una *companyia*: davant de *p*, *m*."
 
   - id: b2-46-050
     type: transform
@@ -810,7 +810,7 @@ items:
     answers: ["La infermera li va posar una injecció al braç."]
     wrong_answers:
       - text: "La infermera li va posar una ingeció al braç."
-        why: "Davant de *i* el grup és *-cc-*: *injecció*."
+        why: "S'escriu amb *j* i amb *-cc-*: *injecció*."
     grading: strict
     explanation: "Posar un medicament amb xeringa és una *injecció*, amb *j* i *-cc-*."
 
@@ -836,7 +836,7 @@ items:
 
       Aquest hivern preparen un homenatge llarg i emotiu a una actriu del barri amb una trajectòria de quaranta anys als escenaris. El programa inclou la projecció d'un documental sobre la seva vida, un concert de guitarra i harmònica en directe i la lectura d'una novel·la. Una hora abans de la funció obrirà una exhibició de vestuari antic.
 
-      La directora d'escena vol que tot sigui perfecte. Ahir van fer l'assaig general: la il·luminació va fallar dues vegades i el canvi d'escena va durar deu minuts. El guitarrista va arribar tard perquè venia d'un altre concert a Hospitalet. El repartiment estava nerviós, però la Laia diu que el públic de l'estrena no ho notarà. «El teatre és com la vida: sempre hi ha un entreacte per respirar», explica rient.
+      La directora d'escena vol que tot sigui perfecte. Ahir van fer l'assaig general: la il·luminació va fallar dues vegades i el canvi d'escena va durar deu minuts. El guitarrista va arribar tard perquè venia d'un altre concert a l'Hospitalet. El repartiment estava nerviós, però la Laia diu que el públic de l'estrena no ho notarà. «El teatre és com la vida: sempre hi ha un entreacte per respirar», explica rient.
 
       Les entrades es van exhaurir en només dos dies. A l'entreacte, la cantina vendrà orxata i cafè. La companyia ha demanat a l'Ajuntament una sala més gran, però de moment faran dues funcions cada dissabte. La crítica ja ha lloat la coreografia del final. «Volem que el barri sencer vingui a l'homenatge», diu la Laia. «Ella ens ha commogut moltes vegades; ara ens toca a nosaltres.»
     questions:
@@ -883,7 +883,7 @@ items:
     point: ela-geminada
     lesson: 5
     title: "Notes d'una exposició"
-    text: "L'exposició inclou la nove{l·l|ll|l}a gràfica de l'autora, una ga{l|ll}eria de retrats i el vestit del ba{ll|l}et de l'any passat. La co{l·l|ll|l}aboració amb el museu ha estat excel·lent, i cada tarda tanquen amb una ba{l|ll}ada en directe."
+    text: "L'exposició inclou la nove{l·l|ll|l}a gràfica de l'autora, una ga{l|ll}eria de retrats i el vestit del ba{ll|l}et de l'any passat. La co{l·l|ll|l}aboració amb el museu ha estat excel·lent, i cada tarda una cantant tanca la visita amb una ba{l|ll}ada romàntica."
     explanation: "*Novel·la* i *col·laboració* porten ela geminada. *Galeria* i *balada* (cançó), una ela. *Ballet*, dues eles."
 
   - id: b2-46-056
@@ -898,7 +898,7 @@ items:
     type: find-error
     point: ema-ena
     lesson: 5
-    sentence: "La conpanyia de dansa és de Lisboa."
+    sentence: "Aquesta conpanyia de circ actua a Manresa tot el mes."
     error: "conpanyia"
     fix: "companyia"
     fix_distractors:
@@ -906,7 +906,7 @@ items:
         why: "En català no porta accent. I davant de *p*, *m*: *companyia*."
       - text: "comppanyia"
         why: "No cal doblar la pe: *companyia*. El grup és *mp*."
-    explanation: "El grup de dansa és la *companyia*: davant de *p*, *m*."
+    explanation: "Un grup estable d'artistes és una *companyia*: davant de *p*, *m*."
 
   - id: b2-46-058
     type: find-error
@@ -964,16 +964,16 @@ items:
     answer: "emmarcar"
     distractors:
       - text: "enmarcar"
-        why: "El prefix és *em-* + *marcar*: *emmarcar*."
+        why: "Davant de *m*, el prefix *en-* s'escriu *em-*: *emmarcar*."
       - text: "emarcar"
-        why: "Calen dues emes: *em-* + *marcar*."
-    explanation: "Posar un marc a un quadre és *emmarcar*: *em-* + *marcar*."
+        why: "Calen dues emes: la del prefix i la de *marcar*."
+    explanation: "Posar un marc a un quadre és *emmarcar*: el prefix *en-* s'escriu *em-* davant de *marcar*."
 
   - id: b2-46-063
     type: choice
     point: grups-ject
     lesson: 5
-    prompt: "El fotògraf va canviar l'___ de la càmera."
+    prompt: "Per fer retrats, la fotògrafa fa servir un ___ de 85 mil·límetres."
     answer: "objectiu"
     distractors:
       - text: "objetiu"

@@ -490,8 +490,8 @@ items:
     prompt: "Vam quedar ___ jugar a pàdel dissabte al matí."
     answer: "a"
     distractors:
-      - text: "de"
-        why: "*Quedar* no porta *de* davant d'infinitiu: *vam quedar a jugar*."
+      - text: "en"
+        why: "Davant d'infinitiu, *en* canvia a *a*: *quedar a* + infinitiu."
       - text: "amb"
         why: "*Amb* va amb la persona (*vam quedar amb la Núria*), no amb un infinitiu: *vam quedar a jugar*."
     explanation: "*Quedar* porta *amb* amb una persona, però *a* amb un infinitiu: *vam quedar a jugar*."
@@ -541,14 +541,14 @@ items:
     lesson: 3
     prompt: "Insisteix ___ pagar les entrades de tots dos."
     hint: "preposició"
-    answers: ["a"]
+    answers: ["a", "en"]
     wrong_answers:
       - text: "de"
         why: "*Insistir* porta *a* davant d'infinitiu, no *de*: *insisteix a pagar*."
       - text: "que"
         why: "*Que* introdueix un verb conjugat, no un infinitiu: *insisteix a pagar*."
     grading: tolerant
-    explanation: "«Pagar» és un infinitiu: *insistir* porta *a*."
+    explanation: "«Pagar» és un infinitiu: *insistir* porta preferentment *a* (també s'admet *en*)."
 
   - id: b1-26-033
     type: fill
@@ -558,8 +558,8 @@ items:
     hint: "preposició"
     answers: ["a"]
     wrong_answers:
-      - text: "de"
-        why: "*Quedar* no porta *de* davant d'infinitiu: *vam quedar a provar*."
+      - text: "en"
+        why: "Davant d'infinitiu, *en* canvia a *a*: *quedar a* + infinitiu."
       - text: "amb"
         why: "*Amb* va amb la persona (*vam quedar amb en Pau*), no amb un infinitiu: *vam quedar a provar*."
     grading: tolerant
@@ -677,7 +677,7 @@ items:
     point: de-amb-infinitiu
     lesson: 4
     instruction: "Reescriu la frase amb un infinitiu."
-    source: "Estic content [[que tornaré]] a nedar cada matí."
+    source: "Estic content [[perquè tornaré]] a nedar cada matí."
     answers: ["Estic content de tornar a nedar cada matí."]
     wrong_answers:
       - text: "Estic content que tornar a nedar cada matí."
@@ -685,7 +685,7 @@ items:
       - text: "Estic content a tornar a nedar cada matí."
         why: "*Estar content* porta *de* davant d'infinitiu, no *a*."
     grading: tolerant
-    explanation: "«Tornaré» passa a infinitiu (*tornar*): davant d'infinitiu, *estar content* porta *de*."
+    explanation: "«Perquè tornaré» passa a infinitiu (*tornar*): davant d'infinitiu, *estar content* porta *de*."
 
   - id: b1-26-043
     type: transform
@@ -712,8 +712,8 @@ items:
       - "Van quedar a jugar el torneig amb en Pau."
       - "Van quedar amb en Pau a jugar el torneig."
     wrong_answers:
-      - text: "Van quedar de jugar el torneig amb en Pau."
-        why: "*Quedar* no porta *de* davant d'infinitiu: *van quedar a jugar*."
+      - text: "Van quedar en jugar el torneig amb en Pau."
+        why: "*Quedar* no porta *en* davant d'infinitiu: *van quedar a jugar*."
     grading: tolerant
     explanation: "«Amb en Pau per jugar» passa a *quedar a* + infinitiu: *van quedar a jugar*."
 
@@ -782,7 +782,7 @@ items:
       - text: "en"
         why: "*Aprendre* porta *a* davant d'infinitiu: *ha après a nedar*."
     grading: tolerant
-    explanation: "«Nedar» és un infinitiu i *aprendre* porta sempre *a*: *ha après a nedar*."
+    explanation: "«Nedar» és un infinitiu i, davant d'infinitiu, *aprendre* porta *a*: *ha après a nedar*."
 
   - id: b1-26-050
     type: order
@@ -823,21 +823,21 @@ items:
     point: caiguda-de-que
     lesson: 5
     title: "Crònica del cap de setmana"
-    text: "M'alegro {que|de que|de} hagis vingut al torneig. Tothom tenia ganes {de|que|a} jugar. Vam quedar {a|de|amb} sopar tots junts. Estic segur {que|de que|de} repetirem l'any que ve."
+    text: "M'alegro {que|de que|de} hagis vingut al torneig. Tothom tenia ganes {de|que|a} jugar. Vam quedar {a|en|amb} sopar tots junts. Estic segur {que|de que|de} repetirem l'any que ve."
     explanation: "«Hagis vingut» i «repetirem» són conjugats (*que*, sense *de*). «Jugar» és infinitiu (*tenir ganes de*) i «sopar» també (*vam quedar a sopar*)."
 
   - id: b1-26-054
     type: choice
     point: expressions
     lesson: 5
-    prompt: "La Laia no vol reconèixer que ha perdut la raqueta i canvia de tema. Què fa?"
+    prompt: "La Laia hauria de recollir les pilotes, però ho va deixant per a més tard i no s'hi posa. Què fa?"
     answer: "Fa el ronso."
     distractors:
       - text: "En fa cinc cèntims."
         why: "*Fer-ne cinc cèntims* és explicar una cosa; la Laia no ho explica: canvia de tema."
       - text: "Sua la cansalada."
         why: "*Suar la cansalada* és esforçar-se fent esport; aquí la Laia evita el tema."
-    explanation: "*Fer el ronso* és fer-se el desentès: la Laia canvia de tema per no parlar de la raqueta."
+    explanation: "*Fer el ronso* és fer una cosa a contracor o anar-la endarrerint perquè no ve de gust."
 
   - id: b1-26-055
     type: choice
@@ -869,14 +869,14 @@ items:
     type: choice
     point: canvi-a-infinitiu
     lesson: 5
-    prompt: "Confia ___ guanyar el rival de diumenge."
+    prompt: "Els diumenges, s'entreté ___ mirar els partits de la lliga."
     answer: "a"
     distractors:
       - text: "de"
-        why: "*Confiar* porta *a* davant d'infinitiu, no *de*: *confia a guanyar*."
+        why: "*Entretenir-se* no porta *de*: amb un infinitiu porta *a* (*s'entreté a mirar*)."
       - text: "que"
-        why: "*Que* introdueix un verb conjugat (*confia que guanyaran*), no un infinitiu: *confia a guanyar*."
-    explanation: "*Confiar* porta *en* amb un nom (*confia en l'equip*), però *a* amb un infinitiu: *confia a guanyar*."
+        why: "*Que* introdueix un verb conjugat, no un infinitiu: *s'entreté a mirar*."
+    explanation: "*Entretenir-se* porta *amb* amb un nom (*s'entreté amb el mòbil*), però *a* amb un infinitiu: *s'entreté a mirar*."
 
   - id: b1-26-058
     type: fill
@@ -992,10 +992,10 @@ items:
           - text: "Guanyant per dos gols."
             why: "Van marcar dos gols a la segona part, però només van empatar."
       - prompt: "Què va fer l'equip després del partit?"
-        answer: "Va anar a sopar tot junt."
+        answer: "Va organitzar un sopar de tot l'equip."
         distractors:
           - text: "Va celebrar la victòria al camp."
-            why: "No van guanyar: van empatar. I van anar a sopar."
+            why: "No van guanyar: van empatar."
           - text: "Va tornar als vestidors a entrenar."
             why: "Als vestidors no hi entrenen: la Laia només diu que està cansada."
       - prompt: "Què li preocupa a la Laia quan juga?"

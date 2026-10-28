@@ -220,7 +220,7 @@ items:
     instruction: "Relaciona cada verb amb la forma de «jo» en imperfet."
     pairs:
       - ["ser", "era"]
-      - ["anar", "anava"]
+      - ["creure", "creia"]
       - ["fer", "feia"]
       - ["dir", "deia"]
       - ["veure", "veia"]
@@ -240,7 +240,7 @@ items:
     point: imperfet-us
     lesson: 1
     title: "Un estiu al poble"
-    text: "Quan érem petits, cada estiu {anàvem|vam anar|anem} al poble dels avis. Cada matí {nedàvem|vam nedar|nedem} al riu i cada tarda {llegíem|llegim|vam llegir} contes al pati. La casa dels avis {era|va ser|és} petita però bonica."
+    text: "Quan érem petits, cada estiu {anàvem|vam anar|anem} al poble dels avis. Cada matí {nedàvem|vam nedar|nedem} al riu i cada tarda {llegíem|llegim|vam llegir} contes al pati. La casa dels avis {era|va ser|eren} petita però bonica."
     explanation: "Són hàbits i descripcions del passat: tot va en imperfet."
 
   - id: a2-08-011
@@ -406,14 +406,14 @@ items:
     type: choice
     point: imperfet-formes
     lesson: 2
-    prompt: "Abans el Pau, la Carla i jo ___ companys de classe."
+    prompt: "Abans en Pau, la Carla i jo ___ companys de classe."
     answer: "érem"
     distractors:
       - text: "som"
         why: "*Som* és present. «Abans» és passat: *érem*."
       - text: "eren"
         why: "*Eren* és per a «ells». Amb «nosaltres»: *érem*."
-    explanation: "«El Pau, la Carla i jo» som «nosaltres»: *ser* fa *érem*."
+    explanation: "«En Pau, la Carla i jo» som «nosaltres»: *ser* fa *érem*."
 
   - id: a2-08-023
     type: choice
@@ -445,13 +445,13 @@ items:
     type: choice
     point: expressions
     lesson: 2
-    prompt: "La Montse no ha marxat mai del barri: viu al mateix carrer ___."
+    prompt: "La Montse no ha marxat mai del barri: ha viscut al mateix carrer ___."
     answer: "tota la vida"
     distractors:
       - text: "cada estiu"
-        why: "Si viu només a l'estiu, sí que ha marxat. Sempre: *tota la vida*."
+        why: "Si hi viu només a l'estiu, sí que ha marxat. Sempre: *tota la vida*."
       - text: "fa molts anys"
-        why: "Amb el present diem *fa molts anys que*. Sempre: *tota la vida*."
+        why: "*Fa molts anys* situa un fet lluny en el passat, no vol dir «sempre»."
     explanation: "«No ha marxat mai» vol dir sempre: *tota la vida*."
 
   - id: a2-08-026
@@ -533,7 +533,7 @@ items:
     lesson: 3
     prompt: "De petit ___ a pilota al carrer cada tarda."
     hint: "*soler*, imperfet, jo"
-    answers: ["solia jugar"]
+    answers: ["solia jugar", "jo solia jugar"]
     wrong_answers:
       - text: "solc jugar"
         why: "*Solc* és present. «De petit» és passat: *solia*."
@@ -561,14 +561,14 @@ items:
     type: fill
     point: compte-castella
     lesson: 3
-    prompt: "De petit, l'àvia sempre ___ contes de por als nets."
+    prompt: "Quan érem petits, l'àvia sempre ___ que menjàvem massa poc."
     hint: "*dir*, imperfet"
     answers: ["deia"]
     wrong_answers:
       - text: "dia"
         why: "*Dia* és un nom («un dia»). El verb fa *deia*."
       - text: "diu"
-        why: "*Diu* és present. «De petit» és passat: *deia*."
+        why: "*Diu* és present. «Quan érem petits» és passat: *deia*."
     grading: tolerant
     explanation: "«L'àvia» és tercera persona: *dir* fa *deia*."
 
@@ -676,17 +676,17 @@ items:
     point: imperfet-formes
     lesson: 4
     instruction: "Canvia el subjecte a «nosaltres»."
-    source: "De petit [[nedava]] al riu amb els cosins."
+    source: "[[De petit]] [[nedava]] al riu amb els cosins."
     answers:
-      - "De petit nedàvem al riu amb els cosins."
-      - "De petit nosaltres nedàvem al riu amb els cosins."
+      - "De petits nedàvem al riu amb els cosins."
+      - "De petits nosaltres nedàvem al riu amb els cosins."
     wrong_answers:
-      - text: "De petit nedaven al riu amb els cosins."
+      - text: "De petits nedaven al riu amb els cosins."
         why: "*Nedaven* és per a «ells». «Nosaltres»: *nedàvem*."
-      - text: "De petit nedem al riu amb els cosins."
-        why: "*Nedem* és present. «De petit» és passat: *nedàvem*."
+      - text: "De petit nedàvem al riu amb els cosins."
+        why: "*De petit* és singular. Amb «nosaltres»: *de petits*."
     grading: tolerant
-    explanation: "Amb «nosaltres», *nedar* fa *nedàvem*."
+    explanation: "Amb «nosaltres», *nedar* fa *nedàvem*, i l'expressió va en plural: *de petits*."
 
   - id: a2-08-043
     type: transform
@@ -737,8 +737,8 @@ items:
     wrong_answers:
       - text: "De petit sempre beu llet calenta."
         why: "*Beu* és present. «De petit» és passat: *bevia*."
-      - text: "De petit sempre va beure llet calenta."
-        why: "*Va beure* és un fet puntual. «Sempre» és un hàbit: *bevia*."
+      - text: "De petit sempre bevien llet calenta."
+        why: "*Bevien* és plural. «De petit» parla d'una sola persona: *bevia*."
     grading: tolerant
     explanation: "En català és *bevia*, amb *v*. «Sempre» és un hàbit."
 
@@ -791,7 +791,7 @@ items:
     type: order
     point: soler-infinitiu
     lesson: 4
-    cue: "Parla del vostre joc preferit: digues que de petits solíeu jugar al bosc cada tarda."
+    cue: "Recorda als teus germans que de petits solíeu jugar al bosc cada tarda."
     chunks: ["De petits", "solíeu", "jugar", "al bosc", "cada tarda"]
     extra: ["soleu", "jugàveu"]
     answers:
@@ -829,14 +829,14 @@ items:
     type: choice
     point: imperfet-us
     lesson: 4
-    prompt: "La casa dels meus avis ___ al centre del poble, però ara és un banc."
+    prompt: "Aquest edifici de la plaça ___ una escola, però ara és un banc."
     answer: "era"
     distractors:
-      - text: "va ser"
-        why: "*Va ser* és per a fets puntuals. On és una casa: *era*."
+      - text: "eren"
+        why: "*Eren* és plural. «Aquest edifici» és singular: *era*."
       - text: "és"
-        why: "*És* és present. «Ara és un banc» vol dir que abans era una casa: *era*."
-    explanation: "La casa ja no és una casa: parlem d'abans, *era*."
+        why: "«Ara és un banc»: abans era una altra cosa. Una descripció del passat: *era*."
+    explanation: "Descrivim com era l'edifici abans: *ser* fa *era* en imperfet."
 
   # ---------- Lliçó 5 ----------
   - id: a2-08-053
@@ -882,7 +882,7 @@ items:
     type: fill
     point: imperfet-formes
     lesson: 5
-    prompt: "De petits, cada nit el meu pare i jo ___ contes de por."
+    prompt: "De petits, cada nit el meu germà i jo ___ contes de por."
     hint: "*explicar*, imperfet"
     answers: ["explicàvem"]
     wrong_answers:
@@ -891,7 +891,7 @@ items:
       - text: "explicaven"
         why: "*Explicaven* és per a «ells». Amb «nosaltres»: *explicàvem*."
     grading: tolerant
-    explanation: "«El meu pare i jo» som «nosaltres»: *explicàvem*."
+    explanation: "«El meu germà i jo» som «nosaltres»: *explicàvem*."
 
   - id: a2-08-057
     type: transform
@@ -932,14 +932,14 @@ items:
     type: find-error
     point: compte-castella
     lesson: 5
-    sentence: "Abans la mestra via créixer els nets amb alegria."
+    sentence: "Abans, des de la finestra, la mare via els nens al pati."
     error: "via"
     fix: "veia"
     fix_distractors:
       - text: "veu"
         why: "*Veu* és present. «Abans» és passat: *veia*."
       - text: "veien"
-        why: "*Veien* és plural. «La mestra» és singular: *veia*."
+        why: "*Veien* és plural. «La mare» és singular: *veia*."
     explanation: "*Veure* fa *veia*. *Via* és un nom («la via del tren»)."
 
   - id: a2-08-060
@@ -954,7 +954,7 @@ items:
     type: find-error
     point: imperfet-us
     lesson: 5
-    sentence: "Cada dia vaig anar a l'escola a peu."
+    sentence: "De petit, cada dia vaig anar a l'escola a peu."
     error: "vaig anar"
     fix: "anava"
     fix_distractors:

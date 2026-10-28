@@ -1,7 +1,7 @@
 <!-- point: en-regim-de -->
 ## *En* substitueix *de* + complement: *en parlo*, *se'n recorda*
 
-Molts verbs porten un complement amb *de*: *parlar de*, *recordar-se de*, *riure's de*. Quan no repetim el complement, el substituïm per *en*. *En* va sempre davant del verb conjugat.
+Molts verbs porten un complement amb *de*: *parlar de*, *recordar-se de*, *riure's de*. Quan no repetim el complement, el substituïm per *en*. Amb el verb conjugat, *en* va davant (*en parlo*); amb l'infinitiu, darrere (*parlar-ne*).
 
 > —Parles **del lloguer**? —Sí, **en** parlo amb els meus pares.
 
@@ -27,7 +27,7 @@ Molts verbs porten un complement amb *de*: *parlar de*, *recordar-se de*, *riure
 <!-- point: hi-regim -->
 ## *Hi* substitueix *en, a, amb, per* + complement: *hi penso*, *s'hi apunta*
 
-Si el verb porta *en*, *a*, *amb* o *per*, el pronom és *hi*. També va davant del verb conjugat.
+Si el complement del verb porta *en*, *a*, *amb* o *per* (i no és un complement indirecte), el pronom és *hi*. També va davant del verb conjugat.
 
 > —Penses **en el concert**? —Sí, **hi** penso cada dia.
 
@@ -65,7 +65,7 @@ Amb els verbs pronominals, el pronom (*me*, *te*, *es*...) i *en* o *hi* van jun
 | vosaltres | **us en** recordeu | **us n'**adoneu | **us hi** apunteu |
 | ells, elles | **se'n** recorden | **se n'**adonen | **s'hi** apunten |
 
-- Davant de consonant: *me'n*, *te'n*, *se'n*. Davant de vocal: *me n'*, *te n'*, *se n'* (separats). Amb *nosaltres* no hi ha apòstrof: *ens en recordem*, *ens n'adonem*.
+- Davant de consonant: *me'n*, *te'n*, *se'n*. Davant de vocal: *me n'*, *te n'*, *se n'* (separats). Amb *nosaltres* i *vosaltres*: *ens en recordem*, *ens n'adonem*, *us en recordeu*, *us n'adoneu*.
 - Darrere de l'infinitiu: *parlar-ne*, *apuntar-m'hi*. Amb un verb modal hi ha dues posicions: **M'hi vull apuntar** o **Vull apuntar-m'hi**.
 - L'imperatiu (tu): **recorda-te'n**, **ves-te'n**.
 

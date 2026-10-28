@@ -1,7 +1,7 @@
 <!-- point: possessius -->
 ## Els possessius amb article
 
-El possessiu diu de qui és una cosa. Davant del nom, sempre porta l'article.
+El possessiu diu de qui és una cosa. Davant del nom, porta l'article.
 
 > **El meu** pis és petit. **La seva** cuina és molt gran.
 
@@ -15,6 +15,7 @@ El possessiu diu de qui és una cosa. Davant del nom, sempre porta l'article.
 
 - En plural, el possessiu també va en plural: **els meus** pisos, **les seves** cases.
 - *Nostre* i *vostre* fan *nostres* i *vostres* en plural: **les nostres** claus.
+- Amb alguns noms de família hi ha també formes sense article (*ma mare*). Aquí no les practiquem.
 
 > **Compte!** En castellà és «mi coche». En català, amb article: ~~mi cotxe~~ → **el meu cotxe**.
 
@@ -34,9 +35,9 @@ El possessiu diu de qui és una cosa. Davant del nom, sempre porta l'article.
 | sense nom (neutre) | **això** | **allò** |
 
 - El demostratiu concorda amb el nom: **aquesta** clau, **aquells** mobles.
-- Sense nom, fem servir *això* (a prop) i *allò* (lluny): Mira **això**! No toquis **allò** d'allà!
+- Per a una cosa sense nom (no sabem què és, o són coses diverses), fem servir *això* (a prop) i *allò* (lluny): Mira **això**! No toquis **allò** d'allà!
 
-> **Compte!** Si és lluny: ~~aquest pis d'allà~~ → **aquell** pis d'allà. Sense nom: ~~aquest no m'agrada~~ → **això** no m'agrada.
+> **Compte!** Si és lluny: ~~aquest pis d'allà~~ → **aquell** pis d'allà. Si no sabem què és: ~~Què és aquest?~~ → Què és **això**?
 
 <!-- point: comparacio -->
 ## La comparació i el superlatiu
@@ -49,7 +50,7 @@ Per comparar dues coses, fem servir *més… que*, *menys… que*, *tan… com* 
 - Inferioritat: *menys… que*. Aquest pis és **menys car que** l'altre.
 - Igualtat amb un adjectiu: *tan… com*. És **tan alt com** tu.
 - Igualtat amb un nom o un verb: *tant… com*. Tinc **tanta feina com** tu. Plou **tant com** ahir.
-- *Bo* fa **millor**, i *dolent* fa **pitjor**: Aquest forn és **millor que** l'antic.
+- *Bo* fa **millor**, i *dolent* fa **pitjor** (també es diu *més bo* i *més dolent*): Aquest forn és **millor que** l'antic.
 - El superlatiu afegeix *-íssim*: alt → **altíssim**, gran → **grandíssim**. Concorda: una casa **grandíssima**.
 
 > **Compte!** ~~més millor~~ → **millor**. ~~més grandíssim~~ → **grandíssim**. El comparatiu i el superlatiu no porten *més*.

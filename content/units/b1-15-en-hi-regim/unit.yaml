@@ -114,7 +114,7 @@ vocabulary:
     definition: "Unir-se en matrimoni."
     example: "Es casen al juny en un poble de la Cerdanya."
   - word: "l'abraçada"
-    definition: "Gesto d'estimar: estrènyer algú amb els braços."
+    definition: "Gest d'afecte: estrènyer algú amb els braços."
     example: "Es van fer una abraçada molt llarga."
   - word: "acomiadar-se"
     definition: "Dir adeu quan marxes."
@@ -174,8 +174,8 @@ items:
     distractors:
       - text: "s'hi"
         why: "*Queixar-se de* porta *de*: *se'n queixa*."
-      - text: "es"
-        why: "«Es queixa» sense res més no diu de què es queixa: *se'n queixa*."
+      - text: "en"
+        why: "*Queixar-se* és pronominal: cal *es* + *en*: *se'n queixa*."
     explanation: "«Del soroll» porta *de*: *se'n queixa cada nit*."
 
   - id: b1-15-004
@@ -222,8 +222,8 @@ items:
     point: hi-regim
     lesson: 1
     title: "Missatge a la colla"
-    text: "Hola, colla! Demà juguem a pàdel. Qui {s'hi|se'n|s'} apunta? La Marta ja {hi|en|ho} pensa des de dilluns i diu que el seu xicot també {hi|en|ho} estarà d'acord. Jo {compto|hi compto|en compto} amb tots vosaltres!"
-    explanation: "*S'hi apunta*: *apuntar-se a* demana *hi*. *Hi pensa*: *pensar en* demana *hi*. *Hi estarà d'acord*: *estar d'acord amb* demana *hi*. *Compto*: si el complement hi és, no cal pronom."
+    text: "Hola, colla! Demà juguem a pàdel. Qui {s'hi|se'n|s'} apunta? La Marta ja {hi|en|ho} pensa des de dilluns i diu que el seu xicot també {hi|en|ho} estarà d'acord. Jo {hi|en|ho} compto, amb tots vosaltres!"
+    explanation: "*S'hi apunta*: *apuntar-se a* demana *hi*. *Hi pensa*: *pensar en* demana *hi*. *Hi estarà d'acord*: *estar d'acord amb* demana *hi*. *Hi compto*: *comptar amb* demana *hi*."
 
   - id: b1-15-008
     type: match
@@ -269,7 +269,7 @@ items:
     type: fill
     point: hi-regim
     lesson: 1
-    prompt: "—Esteu d'acord amb el pla de la Núria? —Sí, ___ estem d'acord, per respecte a la feina feta."
+    prompt: "—Esteu d'acord amb el pla de la Núria? —Sí, ___ estem d'acord: és un bon pla."
     hint: "pronom per a «amb el pla»"
     answers: ["hi"]
     wrong_answers:
@@ -282,14 +282,14 @@ items:
     type: order
     point: en-regim-de
     lesson: 1
-    cue: "Et pregunten pel lloguer. Respon que en parleu demà al matí."
-    chunks: ["en", "parleu", "demà", "al matí"]
+    cue: "Et pregunten pel lloguer. Respon que en parlareu demà al matí."
+    chunks: ["en", "parlem", "demà", "al matí"]
     extra: ["hi"]
     answers:
-      - "En parleu demà al matí."
-      - "Demà al matí en parleu."
-      - "Demà en parleu al matí."
-    explanation: "«Del lloguer» es converteix en *en*, que va davant del verb: *en parleu*."
+      - "En parlem demà al matí."
+      - "Demà al matí en parlem."
+      - "Demà en parlem al matí."
+    explanation: "«Del lloguer» es converteix en *en*, que va davant del verb: *en parlem*."
 
   - id: b1-15-013
     type: order
@@ -313,7 +313,7 @@ items:
     answers: ["Se n'"]
     wrong_answers:
       - text: "S'"
-        why: "Sense *en* no sabem de qui s'ha enamorat: *se n'ha enamorat*."
+        why: "La pista demana també *en*, per a «d'un company»: *se n'ha enamorat*."
     grading: strict
     explanation: "«D'un company» porta *de*. Davant de vocal: *se n'ha enamorat*."
 
@@ -341,7 +341,7 @@ items:
       - text: "ens en"
         why: "*Apuntar-se a* porta *a*: *ens hi hem apuntat*."
       - text: "ens"
-        why: "Sense *hi* no sabem a què us heu apuntat: *ens hi hem apuntat*."
+        why: "La pista demana també *hi*, per a «al sopar»: *ens hi hem apuntat*."
     grading: tolerant
     explanation: "«Al sopar» porta *a* i el verb és pronominal: *ens hi hem apuntat*."
 
@@ -391,15 +391,15 @@ items:
     distractors:
       - text: "se'n"
         why: "*Apuntar-se a* porta *a*: *s'hi ha apuntat*."
-      - text: "es"
-        why: "Sense *hi* no sabem a què s'ha apuntat: *s'hi ha apuntat*."
+      - text: "hi"
+        why: "*Apuntar-se* és pronominal: cal *es* + *hi*: *s'hi ha apuntat*."
     explanation: "«Al torneig» porta *a*: *s'hi ha apuntat*."
 
   - id: b1-15-021
     type: order
     point: formes-pronominals
     lesson: 2
-    cue: "Explica que te n'has adonat massa tard."
+    cue: "Digues a una amiga que ha vist l'error massa tard."
     chunks: ["te", "n'has", "adonat", "massa tard"]
     extra: ["t'hi"]
     answers:
@@ -416,8 +416,8 @@ items:
     distractors:
       - text: "s'hi"
         why: "*Alegrar-se de* porta *de*: *se n'ha alegrat*."
-      - text: "s'"
-        why: "Sense *en* no sabem de què s'ha alegrat: *se n'ha alegrat*."
+      - text: "n'"
+        why: "*Alegrar-se* és pronominal: cal *es* + *en*: *se n'ha alegrat*."
     explanation: "«De la notícia» porta *de*. Davant de vocal: *se n'ha alegrat*."
 
   - id: b1-15-023
@@ -450,14 +450,14 @@ items:
     type: choice
     point: hi-regim
     lesson: 2
-    prompt: "Tens una cita amb la colla dissabte: ___ compten per organitzar la festa."
-    answer: "Hi"
+    prompt: "—Compteu amb la Laia per a la festa? —Sí, ___ comptem per organitzar-la."
+    answer: "hi"
     distractors:
-      - text: "En"
-        why: "*Comptar amb* porta *amb*: *hi compten*."
-      - text: "Ho"
-        why: "*Ho* substitueix una idea o un *això*. «Amb tu» porta *amb*: *hi*."
-    explanation: "«Amb tu» porta *amb*: *hi compten*."
+      - text: "en"
+        why: "*Comptar amb* porta *amb*: *hi comptem*."
+      - text: "ho"
+        why: "*Ho* substitueix una idea o un *això*. «Amb la Laia» porta *amb*: *hi*."
+    explanation: "«Amb la Laia» porta *amb*: *hi comptem*."
 
   - id: b1-15-026
     type: choice
@@ -562,7 +562,7 @@ items:
     type: fill
     point: formes-pronominals
     lesson: 3
-    prompt: "Aquest matí ___ adonat: avui és l'aniversari del Pau."
+    prompt: "—Saps que avui és l'aniversari del Pau? —Sí, aquest matí ___ adonat."
     hint: "*adonar-se'n*, perfet (jo)"
     answers: ["me n'he"]
     wrong_answers:
@@ -772,8 +772,8 @@ items:
     type: fill
     point: compte-castella
     lesson: 4
-    prompt: "—Que us recordeu dels pares? —No, no ___ recordem gens."
-    hint: "pronominal + *en*, per a «dels pares»"
+    prompt: "—Us recordeu del primer pis on vivíem? —No, no ___ recordem gens."
+    hint: "pronominal + *en*, per a «del primer pis»"
     answers: ["ens en"]
     wrong_answers:
       - text: "ens"
@@ -785,7 +785,7 @@ items:
     type: order
     point: hi-regim
     lesson: 4
-    cue: "Un amic et pregunta pel pis nou. Digues que ja t'hi has acostumat."
+    cue: "Un amic fa un mes que viu en un pis nou. Pregunta-li si ja s'ha acostumat al pis."
     chunks: ["ja", "t'hi", "has", "acostumat"]
     extra: ["te n'"]
     answers:
@@ -805,7 +805,7 @@ items:
     type: order
     point: formes-pronominals
     lesson: 4
-    cue: "Demana al teu germà que no oblidi el viatge: recorda-te'n sempre que puguis."
+    cue: "Demana al teu germà que tingui present el viatge sempre que pugui."
     chunks: ["recorda-te'n", "sempre", "que", "puguis"]
     extra: ["recorda't"]
     answers:
@@ -826,7 +826,7 @@ items:
 
       Al final, els amics s'hi van ficar: van organitzar un sopar sorpresa i els van fer seure junts. En Pau va reconèixer el seu error i li va prometre que no tornaria a passar. La Núria, que l'aprecia de debò, el va perdonar. Es van fer una abraçada i van fer les paus.
 
-      «Una amistat de tants anys s'ha de cuidar», diu la Núria. «No ens barallem gaire i, si tenim un malentès, en parlem el mateix dia. I si un consell no m'agrada, també ho dic.» En Pau hi està d'acord: «Jo me'n recordo cada dia, del que va passar. I m'hi penso dues vegades abans de parlar.»
+      «Una amistat de tants anys s'ha de cuidar», diu la Núria. «No ens barallem gaire i, si tenim un malentès, en parlem el mateix dia. I si un consell no m'agrada, també ho dic.» En Pau hi està d'acord: «Jo me'n recordo cada dia, del que va passar. I m'ho penso dues vegades abans de parlar.»
     questions:
       - prompt: "Què fa la colla cada dijous?"
         answer: "Sopen junts i parlen de la seva vida."
@@ -900,7 +900,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 5
-    sentence: "—Que es recorda dels pares? —Sí, es recorda molt bé."
+    sentence: "—Que es recorda de l'adreça, el taxista? —Sí, es recorda molt bé."
     error: "es recorda molt bé"
     fix: "se'n recorda molt bé"
     fix_distractors:
@@ -945,8 +945,8 @@ items:
     distractors:
       - text: "en pensis"
         why: "*Pensar en* demana *hi*: *no hi pensis més*."
-      - text: "ho pensis"
-        why: "L'expressió feta és *no hi pensis més*."
+      - text: "t'ho pensis"
+        why: "*No t'ho pensis més* vol dir que no dubtis i ho facis. Aquí cal *no hi pensis més*."
     explanation: "*No hi pensis més* vol dir que cal oblidar-ho i deixar de pensar-hi."
 
   - id: b1-15-061
@@ -967,7 +967,7 @@ items:
     point: expressions
     lesson: 5
     prompt: "Amb el soroll d'ahir a la nit, el veí ___ va passar una mica."
-    hint: "l'expressió *passar-se'n*, perfet (ell)"
+    hint: "l'expressió *passar-se'n*, passat perifràstic (ell)"
     answers: ["se'n"]
     wrong_answers:
       - text: "s'hi"
@@ -991,7 +991,7 @@ items:
     type: fill
     point: expressions
     lesson: 5
-    prompt: "Si tens pressa, acomiada't i ___! Que no facis tard."
+    prompt: "Si tens pressa, acomiada't i ___, que faràs tard."
     hint: "*anar-se'n*, imperatiu (tu)"
     answers: ["ves-te'n"]
     wrong_answers:

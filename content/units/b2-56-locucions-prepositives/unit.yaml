@@ -198,18 +198,18 @@ items:
       - text: "en lloc a"
         why: "La locució acaba amb *de*: *en lloc de*. *En lloc a* no existeix."
       - text: "malgrat"
-        why: "*Malgrat* indica oposició. Aquí el tren substitueix el cotxe: *en lloc de*."
-    explanation: "El tren substitueix el cotxe: *en lloc de*. El context («no volia aparcar») ho confirma."
+        why: "*Malgrat* indica oposició. Aquí el tren substitueix la furgoneta: *en lloc de*."
+    explanation: "El tren substitueix la furgoneta: *en lloc de*. El context («no volia aparcar») ho confirma."
 
   - id: b2-56-006
     type: choice
     point: substitucio-contrast
     lesson: 1
-    prompt: "___ cotxe, la Núria hi va anar amb bici pel carril bici nou."
+    prompt: "___ cotxe, la Núria va anar a la feina amb bici pel carril nou."
     answer: "En comptes del"
     distractors:
-      - text: "En compte del"
-        why: "La locució va en plural: *en comptes de* (amb contracció, *del*)."
+      - text: "En vez del"
+        why: "*En vez de* és castellà. La substitució és *en comptes de* o *en lloc de*."
       - text: "A causa del"
         why: "*A causa de* indica causa. Aquí la bici substitueix el cotxe: *en comptes de*."
     explanation: "La bici substitueix el cotxe: *en comptes de* (amb contracció, *del*)."
@@ -248,9 +248,9 @@ items:
     pairs:
       - ["a causa de", "causa d'un fet negatiu"]
       - ["gràcies a", "causa d'un fet positiu"]
-      - ["arran de", "conseqüència d'un fet anterior"]
+      - ["arran de", "fet anterior que en provoca un altre"]
       - ["amb motiu de", "ocasió d'un acte o servei"]
-    explanation: "Les quatre locucions introdueixen una causa: *a causa de* i *gràcies a* segons si el fet és negatiu o positiu, *arran de* per a la conseqüència i *amb motiu de* per a l'ocasió."
+    explanation: "Les quatre locucions introdueixen una causa: *gràcies a*, d'un fet positiu; *a causa de*, sovint d'un fet negatiu; *arran de*, un fet anterior que en provoca un altre, i *amb motiu de*, l'ocasió."
 
   - id: b2-56-010
     type: match
@@ -269,7 +269,7 @@ items:
     point: causa
     lesson: 1
     title: "Avís de l'ajuntament"
-    text: "{Amb motiu de|En motiu de|A motiu de} les obres del carrer Major, el bus canviarà de recorregut. {A causa dels|A causa de els|Malgrat els} talls, hi pot haver retards. {Gràcies a|Gràcies de|En gràcies a} la col·laboració dels veïns, les molèsties seran mínimes. Us demanem que agafeu el metro {en lloc de|en lloc a|en compte de} l'autobús."
+    text: "{Amb motiu de|En motiu de|A motiu de} les obres del carrer Major, el bus canviarà de recorregut. {A causa dels|A causa de els|Malgrat els} talls, hi pot haver retards. {Gràcies a|Gràcies de|En gràcies a} la col·laboració dels veïns, les molèsties seran mínimes. Us demanem que agafeu el metro {en lloc de|en lloc a|en vez de} l'autobús."
     explanation: "En un avís formal, l'ocasió és *amb motiu de*. Els retards venen *a causa dels* talls (amb contracció: *dels*). La col·laboració és positiva: *gràcies a*. El metro substitueix el bus: *en lloc de*."
 
   - id: b2-56-012
@@ -329,7 +329,7 @@ items:
     point: causa
     lesson: 2
     prompt: "___ l'avaria del semàfor, es va formar un embús llarguíssim."
-    hint: "locució de conseqüència: ARRAN DE"
+    hint: "locució causal: ARRAN DE"
     answers: ["Arran de"]
     wrong_answers:
       - text: "Arrel de"
@@ -371,10 +371,10 @@ items:
     lesson: 2
     prompt: "___ la moto, ara el Wei va a la universitat amb tramvia."
     hint: "locució de substitució: EN COMPTES DE"
-    answers: ["En comptes de"]
+    answers: ["En comptes de", "En compte de"]
     wrong_answers:
-      - text: "En compte de"
-        why: "La locució va en plural: *en comptes de*."
+      - text: "En vez de"
+        why: "*En vez de* és castellà. La substitució és *en comptes de*."
     grading: tolerant
     explanation: "El tramvia substitueix la moto: *en comptes de*."
 
@@ -435,7 +435,7 @@ items:
     lesson: 2
     cue: "Digues que, tot i la boira, el pont va quedar obert."
     chunks: ["Malgrat", "la boira,", "el pont", "va quedar", "obert"]
-    extra: ["A pesar de"]
+    extra: ["Malgrat de"]
     answers:
       - "Malgrat la boira, el pont va quedar obert."
       - "El pont va quedar obert malgrat la boira."
@@ -459,7 +459,7 @@ items:
     point: expressions
     lesson: 2
     prompt: "Quan el metro arriba a l'estació, les portes s'obren ___."
-    hint: "expressió: completament, de dalt a baix"
+    hint: "expressió: del tot"
     answers: ["de bat a bat"]
     wrong_answers:
       - text: "a tot drap"
@@ -472,8 +472,8 @@ items:
     point: substitucio-contrast
     lesson: 2
     title: "Obres a la plaça"
-    text: "L'ajuntament vol una plaça sense cotxes. Molts veïns estan {a favor de la plaça|en contra de la plaça|a favor a la plaça}, però els botiguers hi estan en contra. Proposen, {en comptes de|en compte de|en comptes a} tancar la plaça, limitar el trànsit a les nits. {Malgrat|Malgrat de|A pesar de} les protestes, les obres començaran al gener. Els veïns, {en lloc de|en lloc a|en vez de} queixar-se, han proposat un calendari d'obres per fases."
-    explanation: "Els veïns hi donen suport: *a favor de*. La substitució és *en comptes de* (en plural) i *en lloc de*. L'oposició és *malgrat* (sense *de*): *a pesar de* és un calc de «a pesar de»."
+    text: "L'ajuntament vol una plaça sense cotxes. Molts veïns estan {a favor de la plaça|en contra de la plaça|a favor a la plaça}, però els botiguers hi estan en contra. Proposen, {en comptes de|en vez de|en comptes a} tancar la plaça, limitar el trànsit a les nits. {Malgrat|Malgrat de|Malgrat que} les protestes, les obres començaran al gener. Els veïns, {en lloc de|en lloc a|en vez de} queixar-se, han proposat un calendari d'obres per fases."
+    explanation: "Els veïns hi donen suport: *a favor de*. La substitució és *en comptes de* i *en lloc de*; *en vez de* és castellà. Davant d'un nom, l'oposició és *malgrat*, sense *de* ni *que*."
 
   # ---------- Lliçó 3 ----------
   - id: b2-56-028
@@ -496,11 +496,11 @@ items:
     prompt: "Quina frase és correcta?"
     answer: "En aquell moment, el barri no tenia cap parada de metro."
     distractors:
-      - text: "A aquell moment, el barri no tenia cap parada de metro."
-        why: "Amb «moment» i un demostratiu com «aquell», la preposició és *en*, no *a*."
+      - text: "En aquel moment, el barri no tenia cap parada de metro."
+        why: "*Aquel* és castellà. El demostratiu català és *aquell*, amb *ll*."
       - text: "En aquell moments, el barri no tenia cap parada de metro."
-        why: "«Moment» és singular: *en aquell moment*. El plural demana un altre demostratiu: *en aquells moments*."
-    explanation: "Amb «moment» i el demostratiu «aquell», la preposició és *en*: *en aquell moment*."
+        why: "«Moments» és plural i demana el demostratiu en plural: *en aquells moments*."
+    explanation: "Amb «moment» i el demostratiu «aquell», la preposició habitual és *en*: *en aquell moment*."
 
   - id: b2-56-030
     type: choice
@@ -525,7 +525,7 @@ items:
       - text: "en el matí"
         why: "Amb les parts del dia, la preposició és *a* amb contracció: *al matí*. *En el matí* és un calc."
       - text: "en matí"
-        why: "Falta l'article i sobra la preposició: les parts del dia són *al matí*, *a la tarda*, *a la nit*."
+        why: "Les parts del dia porten *a* i l'article: *al matí*, *a la tarda*, *a la nit*."
     explanation: "Les parts del dia porten *a*: *al matí*, *a la tarda*, *a la nit*."
 
   - id: b2-56-032
@@ -533,8 +533,8 @@ items:
     point: temps-partida
     lesson: 3
     prompt: "___ gener, la zona blava serà més cara els dissabtes."
-    hint: "locució de punt de partida: A PARTIR DE, amb l'article que calgui"
-    answers: ["A partir del"]
+    hint: "locució de punt de partida: A PARTIR DE"
+    answers: ["A partir del", "A partir de"]
     wrong_answers:
       - text: "A partir de el"
         why: "*De* + *el* es contreuen sempre: *del*. La forma és *a partir del gener*."
@@ -549,24 +549,24 @@ items:
     hint: "la preposició i el demostratiu: EN AQUELL"
     answers: ["En aquell"]
     wrong_answers:
-      - text: "A aquell"
-        why: "Amb «moment» i un demostratiu, la preposició és *en*: *en aquell moment*."
+      - text: "En aquel"
+        why: "*Aquel* és castellà. El demostratiu català és *aquell*, amb *ll*."
     grading: tolerant
-    explanation: "Amb «moment» i el demostratiu «aquell», la preposició és *en*: *en aquell moment*."
+    explanation: "Amb «moment» i el demostratiu «aquell», la preposició habitual és *en*: *en aquell moment*."
 
   - id: b2-56-034
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "A pesar de les obres, l'ajuntament va mantenir oberta la rotonda del centre."
-    error: "A pesar de"
-    fix: "Malgrat"
+    sentence: "En vez de tancar la rotonda, l'ajuntament hi posarà semàfors."
+    error: "En vez de"
+    fix: "En lloc de"
     fix_distractors:
-      - text: "Malgrat de"
-        why: "*Malgrat* no porta preposició: *malgrat les obres*."
-      - text: "Tot i de"
-        why: "La locució és *tot i* (sense *de*): *tot i les obres*."
-    explanation: "*A pesar de* és un calc de «a pesar de». En català, l'oposició és *malgrat* (o *tot i*)."
+      - text: "En lloc a"
+        why: "La locució acaba amb *de*: *en lloc de*."
+      - text: "Malgrat"
+        why: "*Malgrat* indica oposició. Aquí els semàfors substitueixen el tancament: *en lloc de*."
+    explanation: "*En vez de* és castellà. En català, la substitució és *en lloc de* (o *en comptes de*), també davant d'un infinitiu."
 
   - id: b2-56-035
     type: find-error
@@ -578,8 +578,8 @@ items:
     fix_distractors:
       - text: "en lloc a"
         why: "La locució acaba amb *de*: *en lloc de*."
-      - text: "en compte de"
-        why: "La forma en plural és *en comptes de*. *En compte de* no existeix."
+      - text: "a lloc de"
+        why: "La locució comença amb *en*: *en lloc de*."
     explanation: "*En vez de* és castellà. En català, la substitució és *en lloc de* (o *en comptes de*)."
 
   - id: b2-56-036
@@ -594,21 +594,21 @@ items:
         why: "*Malgrat* no porta mai *de*: *malgrat que hi havia boira*."
       - text: "a causa que"
         why: "La boira no és la causa que el pont quedés obert, sinó l'obstacle: l'oposició és *malgrat que*."
-    explanation: "*A pesar de* és un calc de «a pesar de». Davant d'una frase amb *que*, la forma és *malgrat que*."
+    explanation: "*A pesar de que* és un calc de «a pesar de que»: davant de *que*, la preposició *de* cau. La forma habitual és *malgrat que*."
 
   - id: b2-56-037
     type: find-error
     point: substitucio-contrast
     lesson: 3
-    sentence: "En compte de retallar el servei, l'ajuntament posarà més busos."
-    error: "En compte de"
-    fix: "En comptes de"
+    sentence: "Malgrat de les queixes dels veïns, l'ajuntament retallarà el servei de bus."
+    error: "Malgrat de"
+    fix: "Malgrat"
     fix_distractors:
-      - text: "En comptes a"
-        why: "La locució acaba amb *de*: *en comptes de*."
-      - text: "En compte a"
-        why: "La locució és *en comptes de*, en plural i amb *de*."
-    explanation: "La locució de substitució va en plural: *en comptes de*. *En compte de* no existeix."
+      - text: "Malgrat que"
+        why: "*Malgrat que* va davant d'una frase amb verb; davant d'un nom és *malgrat*."
+      - text: "En lloc de"
+        why: "*En lloc de* indica substitució. Aquí les queixes no han impedit la retallada: és una oposició."
+    explanation: "*Malgrat* no porta mai *de*: davant d'un nom, *malgrat les queixes*."
 
   - id: b2-56-038
     type: find-error
@@ -634,10 +634,10 @@ items:
     answer: "Malgrat"
     distractors:
       - text: "A pesar de"
-        why: "*A pesar de* és un calc de «a pesar de». Davant d'una frase amb *que*, la forma és *malgrat que*."
+        why: "Davant de *que*, la preposició *de* cau: *a pesar de que* és un calc de «a pesar de que»."
       - text: "Malgrat de"
         why: "*Malgrat* no porta mai *de*, ni davant d'un nom ni davant de *que*."
-    explanation: "Davant d'una frase amb *que*, l'oposició és *malgrat que*. *A pesar de* és un calc del castellà."
+    explanation: "Davant d'una frase amb *que*, l'oposició és *malgrat que*, sense *de*."
 
   # ---------- Lliçó 4 ----------
   - id: b2-56-041
@@ -664,6 +664,8 @@ items:
     answers:
       - "No vam perdre l'enllaç gràcies a l'avís del conductor."
       - "Gràcies a l'avís del conductor, no vam perdre l'enllaç."
+      - "No vam perdre l'enllaç gràcies al conductor, que ens va avisar."
+      - "Gràcies al conductor, que ens va avisar, no vam perdre l'enllaç."
     wrong_answers:
       - text: "No vam perdre l'enllaç gràcies de l'avís del conductor."
         why: "La locució és *gràcies a*, amb la preposició *a*."
@@ -701,15 +703,17 @@ items:
     point: compte-castella
     lesson: 4
     instruction: "Corregeix la frase."
-    source: "[[A pesar del]] retard, vam arribar a l'hora de la reunió."
+    source: "[[A pesar de que]] el tren portava retard, vam arribar a l'hora de la reunió."
     answers:
-      - "Malgrat el retard, vam arribar a l'hora de la reunió."
-      - "Tot i el retard, vam arribar a l'hora de la reunió."
+      - "Malgrat que el tren portava retard, vam arribar a l'hora de la reunió."
+      - "Tot i que el tren portava retard, vam arribar a l'hora de la reunió."
+      - "A pesar que el tren portava retard, vam arribar a l'hora de la reunió."
+      - "Encara que el tren portava retard, vam arribar a l'hora de la reunió."
     wrong_answers:
-      - text: "Malgrat del retard, vam arribar a l'hora de la reunió."
-        why: "*Malgrat* no porta cap preposició: *malgrat el retard*."
+      - text: "Malgrat de que el tren portava retard, vam arribar a l'hora de la reunió."
+        why: "*Malgrat* no porta mai *de*: *malgrat que el tren portava retard*."
     grading: tolerant
-    explanation: "*A pesar de* és un calc de «a pesar de». L'oposició és *malgrat* o *tot i* + nom, sense preposició."
+    explanation: "*A pesar de que* és un calc de «a pesar de que»: davant de *que*, la preposició *de* cau. La forma habitual és *malgrat que* (o *tot i que*)."
 
   - id: b2-56-046
     type: transform
@@ -720,6 +724,7 @@ items:
     answers:
       - "Vam agafar el tramvia en lloc del metro, que anava amb retard."
       - "Vam agafar el tramvia en comptes del metro, que anava amb retard."
+      - "Vam agafar el tramvia en compte del metro, que anava amb retard."
     grading: tolerant
     explanation: "*En vez de* és castellà. La substitució és *en lloc de* (o *en comptes de*), amb contracció (*del*)."
 
@@ -800,8 +805,8 @@ items:
     point: temps-partida
     lesson: 4
     title: "Canvis a la línia 3"
-    text: "{A partir de|Apartir de|A partir a} dilluns, els trens sortiran {a|en|de} les sis del matí. {En|A|Amb} aquell moment, la freqüència serà de cinc minuts. La parada nova obrirà {al|en el|a el} matí de divendres."
-    explanation: "El punt de partida és *a partir de* (en tres mots). L'hora és *a les sis*. Amb «moment» i un demostratiu, *en aquell moment*. Les parts del dia són *al matí* (amb contracció)."
+    text: "{A partir de|Apartir de|A partir a} dilluns, els trens sortiran {a|en|de} les sis del matí. {En|Amb|De} aquell moment, la freqüència serà de cinc minuts. La parada nova obrirà divendres {al|en el|a el} matí."
+    explanation: "El punt de partida és *a partir de* (en tres mots). L'hora és *a les sis*. Amb «moment» i un demostratiu, la forma habitual és *en aquell moment*. Les parts del dia són *al matí* (amb contracció)."
 
   # ---------- Lliçó 5 ----------
   - id: b2-56-054
@@ -869,7 +874,7 @@ items:
     answer: "Malgrat"
     distractors:
       - text: "A pesar de"
-        why: "*A pesar de* és un calc de «a pesar de». La forma és *malgrat que el bitllet és car*."
+        why: "Davant de *que*, la preposició *de* cau: *a pesar de que* és un calc de «a pesar de que»."
       - text: "Malgrat de"
         why: "*Malgrat* no porta mai *de*: *malgrat que el bitllet és car*."
     explanation: "El preu no impedeix que el tren vagi ple: és una oposició, *malgrat que*."
@@ -895,8 +900,8 @@ items:
     hint: "locució d'oposició: MALGRAT"
     answers: ["Malgrat"]
     wrong_answers:
-      - text: "A pesar de"
-        why: "*A pesar de* és un calc de «a pesar de». L'oposició és *malgrat*."
+      - text: "Malgrat de"
+        why: "*Malgrat* no porta preposició davant d'un nom: *malgrat la boira*."
     grading: tolerant
     explanation: "La boira no ha impedit les sortides: és una oposició, *malgrat*."
 
@@ -912,7 +917,7 @@ items:
         why: "*Arran* s'escriu en un sol mot: *arran de les obres*."
       - text: "En arran de"
         why: "La locució no porta cap preposició davant: *arran de*."
-    explanation: "La locució de conseqüència és *arran de*, en un sol mot. *Arrel de* no existeix."
+    explanation: "La locució causal és *arran de*, en un sol mot. *Arrel de* no és correcte."
 
   - id: b2-56-060
     type: find-error

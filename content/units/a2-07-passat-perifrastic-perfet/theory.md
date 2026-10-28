@@ -24,7 +24,7 @@ Per parlar d'un passat acabat, fem servir *anar* + infinitiu.
 <!-- point: perfet -->
 ## El perfet
 
-Per parlar d'un passat recent, fem servir *haver* + participi.
+Per parlar d'un fet d'avui, d'aquesta setmana o d'aquest any, fem servir *haver* + participi.
 
 > Avui **he anat** a Girona en tren.
 
@@ -68,25 +68,25 @@ Alguns verbs molt usats tenen un participi que cal saber de memòria.
 | saber | **sabut** |
 | venir | **vingut** |
 
-- *Ser* i *estar* fan el mateix participi: **estat**.
+- *Ser* i *estar* fan el participi **estat**. *Ser* també té *sigut*.
 - Després de *he, has, ha…* sempre va el participi, mai l'infinitiu.
 - Hi ha més participis irregulars (*escrit*, *obert*), però aquí no els practiquem.
 
 > **Compte!** ~~he tenit~~ → **he tingut**. ~~he saput~~ → **he sabut**.
 
 <!-- point: compte-castella -->
-## Compte amb el castellà: *vaig anar* i *vaig a anar*
+## Compte amb el castellà: *vaig anar* no és «voy a ir»
 
-S'assemblen molt, però una forma és passat i l'altra és futur.
+En castellà, «voy a ir» parla del futur. En català, *vaig anar* és passat.
 
-> Ahir **vaig visitar** Girona. Demà **vaig a visitar** Tarragona.
+> Ahir **vaig visitar** Girona. Demà **visitaré** Tarragona.
 
-- Sense *a*, és **passat**: Ahir **vaig sortir**.
-- Amb *a*, és **futur**: Demà **vaig a sortir**. És *anar a* + infinitiu.
-- *Vaig anar* i *vaig a anar* no són el mateix: el futur porta *a*.
+- *Vaig* + infinitiu, sense *a*, és **passat**: Ahir **vaig sortir**.
+- Per parlar de demà, fem servir el futur: Demà **sortiré**.
+- Amb un marcador de passat, no hi posis *a*: ~~Ahir vaig a sortir~~.
 - Mira el marcador: *ahir* → passat; *demà* → futur.
 
-> **Compte!** ~~Ahir vaig a sortir~~ → Ahir **vaig sortir**. ~~Demà vaig sortir~~ → Demà **vaig a sortir**.
+> **Compte!** ~~Ahir vaig a sortir~~ → Ahir **vaig sortir**. ~~Demà vaig sortir~~ → Demà **sortiré**.
 
 <!-- point: expressions -->
 ## Expressions de viatge

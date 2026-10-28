@@ -14,7 +14,7 @@ Ja saps que *deure* + infinitiu expressa una suposició: *deu ser a casa*. Per a
 - *Deu haver* + participi parla d'un fet ja acabat: **deu haver declarat**, **deuen haver marxat**.
 - *Devia* + infinitiu parla d'estats o accions del passat: **devia ser** tard, **devien buscar** les claus.
 - El participi no canvia mai: *la Laia **deu haver arribat***.
-- La suposició es construeix sense *de*: **deu haver arribat**, **devia ser**.
+- Aquí la practiquem sense *de*: **deu haver arribat**, **devia ser**.
 
 > **Compte!** ~~Debe haver arribat~~ → **Deu haver arribat**. La 3a persona de *deure* és *deu* (*deuen* en plural), i l'auxiliar és *haver*, amb *v*.
 
@@ -53,18 +53,18 @@ Amb *anar* + gerundi expressem un canvi lent i progressiu, que avança a poc a p
 > **Compte!** En aquesta perífrasi, darrere de *anar* va el gerundi: ~~es va anar complicar~~ → **es va anar complicant**.
 
 <!-- point: estar-per -->
-## Estar per + infinitiu: pendent o imminent
+## Estar per + infinitiu: una cosa pendent
 
-Amb *estar per* + infinitiu diem que una cosa encara no s'ha fet o que passarà d'un moment a l'altre.
+Amb *estar per* + infinitiu diem que una cosa encara no s'ha fet.
 
 > La denúncia **està per escriure**. (= encara no s'ha escrit)
-> **Està per ploure**. (= plourà d'un moment a l'altre)
 
-- Pendent: l'informe **està per fer**, el cas **està per resoldre**.
-- Imminent: el tren **està per arribar**, el judici **està per començar**.
-- No és *estar* + gerundi (*està plovent* = ja plou) ni el participi (*està escrit* = ja fet).
+- L'informe **està per fer**, el cas **està per resoldre**, les proves **estan per analitzar**.
+- El subjecte és la cosa que s'ha de fer, i l'infinitiu no canvia: *les proves estan per analitzar*.
+- No és *estar* + gerundi (*s'està escrivint* = ara mateix) ni el participi (*està escrita* = ja feta).
+- Per dir que una cosa passarà d'un moment a l'altre, fem servir *estar a punt de*: *el judici està a punt de començar*.
 
-> **Compte!** Si encara no plou: ~~està plovent~~ → **està per ploure**. Si encara no s'ha escrit: ~~està escrita~~ → **està per escriure**.
+> **Compte!** Si encara no s'ha escrit: ~~està escrita~~ → **està per escriure**. I darrere de *per* va l'infinitiu: ~~està per fet~~ → **està per fer**.
 
 <!-- point: compte-deure-de -->
 ## Compte amb el castellà: *deu haver*
@@ -87,7 +87,7 @@ El verb de la suposició és *deure*, que es conjuga, i l'auxiliar del passat é
 ## Expressions de misteri
 
 - **lligar caps**: relacionar les pistes per entendre un cas. *La inspectora va lligar caps i va trobar el lladre.*
-- **ser un misteri**: no tenir cap explicació. *És un misteri on va la bicicleta.*
+- **ser un misteri**: no tenir cap explicació. *És un misteri on ha anat a parar la bicicleta.*
 - **anar per feina**: anar directament a l'important, sense perdre temps. *L'investigador va per feina.*
 - **agafar amb les mans a la massa**: enxampar algú mentre fa una cosa mal feta. *El van agafar amb les mans a la massa.*
 

@@ -74,9 +74,9 @@ vocabulary:
   - word: "el regal"
     definition: "Cosa que dones a una persona estimada."
     example: "Espero que t'agradi el regal."
-  - word: "embolcar"
+  - word: "embolicar"
     definition: "Posar paper al voltant d'un regal."
-    example: "Cal que embolquis el regal abans de sortir."
+    example: "Cal que emboliquis el regal abans de sortir."
   - word: "la sorpresa"
     definition: "Cosa inesperada que fa il·lusió."
     example: "Li preparen una festa sorpresa."
@@ -87,7 +87,7 @@ vocabulary:
     definition: "Demanar a algú que vingui a un acte."
     example: "Vull que convidis també els veïns."
   - word: "el brindis"
-    definition: "Copa que aixequem per celebrar."
+    definition: "Acció d'aixecar la copa per celebrar una cosa."
     example: "Fem un brindis per la Núria!"
   - word: "brindar"
     definition: "Aixecar la copa per celebrar."
@@ -102,7 +102,7 @@ vocabulary:
     definition: "Conjunt de flors per regalar."
     example: "Li han portat un ram de flors."
   - word: "l'abraçada"
-    definition: "Gesto d'estimar amb els braços."
+    definition: "Gest d'afecte: estrènyer algú amb els braços."
     example: "Espero que em facis una abraçada gran."
   - word: "felicitar"
     definition: "Dir coses bones a algú en un dia especial."
@@ -221,13 +221,13 @@ items:
     type: choice
     point: subjuntiu-irregulars
     lesson: 1
-    prompt: "Espero que en Pau ___ demà."
+    prompt: "Vull que en Pau ___ demà."
     answer: "vingui"
     distractors:
       - text: "venga"
         why: "«Venga» és castellà. En català: *vingui*."
       - text: "ve"
-        why: "*Ve* és indicatiu. Darrere de *espero que* cal *vingui*."
+        why: "*Ve* és indicatiu. Darrere de *vull que* cal *vingui*."
     explanation: "*Venir* és irregular: el subjuntiu (*ell*) és *vingui*."
 
   - id: b1-18-008
@@ -282,7 +282,7 @@ items:
     point: subjuntiu-irregulars
     lesson: 1
     title: "Desitjos per a l'any nou"
-    text: "Enguany vull que {siguis|ets|sigues} feliç i que {tinguis|tens|tingues} salut. Espero que {puguem|podem|pugueu} viatjar molt i que tot {vagi|va|vagin} bé."
+    text: "Enguany vull que {siguis|ets|sigues} feliç i que {tinguis|tens|tingues} salut. Desitjo que {puguem|podem|pugueu} viatjar molt i que tot {vagi|va|vagin} bé."
     explanation: "*Siguis*, *tinguis*, *puguem* i *vagi* són formes irregulars que cal memoritzar."
 
   - id: b1-18-013
@@ -335,15 +335,15 @@ items:
     point: subjuntiu-formes
     lesson: 2
     prompt: "Vols que jo ___ el regal?"
-    hint: "*embolcar*, jo"
-    answers: ["embolqui"]
+    hint: "*embolicar*, jo"
+    answers: ["emboliqui"]
     wrong_answers:
-      - text: "embolco"
-        why: "*Embolco* és indicatiu. Darrere de *vols que* cal *embolqui*."
       - text: "embolico"
-        why: "*Embolico* és indicatiu del verb *embolicar*. La pista demana *embolcar*: *embolqui*."
+        why: "*Embolico* és indicatiu. Darrere de *vols que* cal *emboliqui*."
+      - text: "emboliquis"
+        why: "*Emboliquis* és per a *tu*. Amb *jo*: *emboliqui*."
     grading: tolerant
-    explanation: "El subjuntiu del verb *embolcar* (*jo*) és *embolqui*."
+    explanation: "El subjuntiu del verb *embolicar* (*jo*) és *emboliqui*: la *c* s'escriu *qu*."
 
   - id: b1-18-017
     type: fill
@@ -434,12 +434,12 @@ items:
     type: fill
     point: subjuntiu-irregulars
     lesson: 2
-    prompt: "Espero que vosaltres ___ resoldre el problema."
+    prompt: "Cal que vosaltres ___ resoldre el problema."
     hint: "*saber*, vosaltres"
     answers: ["sapigueu"]
     wrong_answers:
       - text: "sabeu"
-        why: "*Sabeu* és indicatiu. Darrere de *vull que* cal *sapigueu*."
+        why: "*Sabeu* és indicatiu. Darrere de *cal que* cal *sapigueu*."
       - text: "sàpiguen"
         why: "*Sàpiguen* és per a *ells*. «Vosaltres» fa *sapigueu*."
     grading: tolerant
@@ -559,8 +559,8 @@ items:
     wrong_answers:
       - text: "agraeix"
         why: "*Agraeix* és indicatiu. Darrere de *demanar que* cal *agraeixi*."
-      - text: "agradeixen"
-        why: "*Agradeixen* és plural. «Ell» fa *agraeixi*."
+      - text: "agraeixin"
+        why: "*Agraeixin* és plural. «Ell» fa *agraeixi*."
     grading: tolerant
     explanation: "*Agrair* és incoatiu: *agraeixi*."
 
@@ -568,12 +568,12 @@ items:
     type: fill
     point: voler-esperar-demanar
     lesson: 3
-    prompt: "Espero que no ___ diumenge."
+    prompt: "Tant de bo no ___ diumenge!"
     hint: "*ploure*, subjuntiu"
     answers: ["plogui"]
     wrong_answers:
       - text: "plou"
-        why: "*Plou* és indicatiu. Darrere de *espero que* cal *plogui*."
+        why: "*Plou* és indicatiu. Darrere de *tant de bo* cal *plogui*."
       - text: "ploguin"
         why: "*Ploure* no té plural: sempre *plogui*."
     grading: tolerant
@@ -584,13 +584,13 @@ items:
     point: compte-castella
     lesson: 3
     prompt: "Esperem que el viatge ___ tranquil."
-    hint: "*ser*, ella"
+    hint: "*ser*, 3a persona"
     answers: ["sigui"]
     wrong_answers:
       - text: "sea"
         why: "«Sea» és castellà. En català: *sigui*."
       - text: "sigues"
-        why: "*Sigues* és l'imperatiu. Darrere de *vull que* cal *sigui*."
+        why: "*Sigues* és l'imperatiu. Darrere de *esperem que* cal *sigui*."
     grading: tolerant
     explanation: "*Ser* és irregular: *sigui*. «Sea» és castellà."
 
@@ -638,8 +638,8 @@ items:
     error: "estés"
     fix: "estiguis"
     fix_distractors:
-      - text: "estàs"
-        why: "*Estàs* és indicatiu. Darrere de *espero que* cal *estiguis*."
+      - text: "estigui"
+        why: "*Estigui* és per a *ell* o *ella*. Amb *tu*: *estiguis*."
       - text: "estigues"
         why: "*Estigues* és l'imperatiu. Darrere de *espero que* cal *estiguis*."
     explanation: "«Estés» és la forma castellana. En català: *estiguis*."
@@ -773,15 +773,15 @@ items:
     point: subjuntiu-irregulars
     lesson: 4
     instruction: "Corregeix la frase."
-    source: "Espero que [[estàs]] content amb el premi."
-    answers: ["Espero que estiguis content amb el premi."]
+    source: "Vull que [[estàs]] tranquil a l'entrevista."
+    answers: ["Vull que estiguis tranquil a l'entrevista."]
     wrong_answers:
-      - text: "Espero que estés content amb el premi."
+      - text: "Vull que estés tranquil a l'entrevista."
         why: "«Estés» és la forma castellana. Aquí cal *estiguis*."
-      - text: "Espero que estigues content amb el premi."
-        why: "*Estigues* és l'imperatiu. Darrere de *espero que* cal *estiguis*."
+      - text: "Vull que estigues tranquil a l'entrevista."
+        why: "*Estigues* és l'imperatiu. Darrere de *vull que* cal *estiguis*."
     grading: tolerant
-    explanation: "*Estàs* és indicatiu. Darrere de *espero que* cal *estiguis*."
+    explanation: "*Estàs* és indicatiu. Darrere de *vull que* cal *estiguis*."
 
   - id: b1-18-049
     type: transform
@@ -791,8 +791,6 @@ items:
     source: "Espero que tot [[vaya]] bé."
     answers: ["Espero que tot vagi bé."]
     wrong_answers:
-      - text: "Espero que tot va bé."
-        why: "*Va* és indicatiu. Darrere de *espero que* cal *vagi*."
       - text: "Espero que tot vaigui bé."
         why: "*Vaigui* no existeix. En català: *vagi*."
     grading: tolerant
@@ -830,8 +828,6 @@ items:
     hint: "*anar*, nosaltres"
     answers: ["anem"]
     wrong_answers:
-      - text: "vagim"
-        why: "*Vagim* no existeix. *Anar* fa *anem*, com en indicatiu."
       - text: "vamos"
         why: "«Vamos» és castellà. En català: *anem*."
     grading: tolerant
@@ -896,7 +892,7 @@ items:
     lesson: 5
     instruction: "Relaciona cada expressió amb la situació."
     pairs:
-      - ["que vagi bé!", "quan un amic marxa de viatge"]
+      - ["que vagi bé!", "quan algú té un examen"]
       - ["que t'ho passis bé!", "a la festa d'aniversari"]
       - ["que aprofiti!", "abans de dinar"]
       - ["tant de bo!", "quan vols que faci sol"]
@@ -922,8 +918,8 @@ items:
     point: expressions
     lesson: 5
     prompt: "—Demà tinc l'entrevista: desitja'm sort. —___!"
-    hint: "expressa un desig"
-    answers: ["Tant de bo vagi bé"]
+    hint: "desig amb *tant de bo* i el verb *anar*"
+    answers: ["Tant de bo vagi bé", "Tant de bo et vagi bé"]
     wrong_answers:
       - text: "Tant de bo anirà bé"
         why: "*Tant de bo* porta subjuntiu, no futur: *vagi*."
@@ -984,7 +980,7 @@ items:
     point: voler-esperar-demanar
     lesson: 5
     title: "Nota a la Laia"
-    text: "Laia, vull que tu {vagis|vas|vagi} a comprar el regal. Vull que {vinguis|vens|veniu} amb mi. Cal que nosaltres {sortim|surten|sortiu} a les deu. Espero que la botiga {sigui|és|soc} oberta."
+    text: "Laia, vull que tu {vagis|vas|vagi} a comprar el regal. Vull que {vinguis|vens|veniu} amb mi. Cal que nosaltres {sortim|surten|sortiu} a les deu. Tant de bo la botiga {sigui|és|soc} oberta!"
     explanation: "Amb *tu*: *vagis* i *vinguis*. Amb *nosaltres*: *sortim*. Amb *la botiga*: *sigui*."
 
   - id: b1-18-064
@@ -1035,7 +1031,7 @@ items:
           - text: "Que portin el pastís."
             why: "El pastís ja l'ha comprat ella."
       - prompt: "Què vol l'Ibrahim per divendres?"
-        answer: "Un dia tranquil sense sorpreses."
+        answer: "Que sigui un dia tranquil."
         distractors:
           - text: "Una festa amb vint persones."
             why: "Això és el que volen els amics, no ell."

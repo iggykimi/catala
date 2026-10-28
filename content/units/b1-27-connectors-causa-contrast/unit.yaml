@@ -130,7 +130,7 @@ vocabulary:
     example: "Hem de lliurar el treball divendres."
   - word: "la pissarra"
     definition: "Superfície gran on el professor escriu a classe."
-    example: "La professora ha escrit el deure a la pissarra."
+    example: "La professora ha escrit els deures a la pissarra."
   - word: "el guix"
     definition: "Barreta blanca per escriure a la pissarra."
     example: "No queda guix: escriuré amb el retolador."
@@ -281,7 +281,7 @@ items:
     point: connectors-consequencia
     lesson: 1
     title: "Avís a l'aula"
-    text: "L'aula era buida, {per tant|perquè}, hi hem entrat. El guix s'ha acabat, {així que|com que} la Carla anirà a buscar-ne. Volem acabar el tema avui, {de manera que|perquè} no hi haurà pati. Estudieu a casa: us ho preguntarem, {doncs|perquè}."
+    text: "L'aula era buida, {per tant|perquè}, hi hem entrat. El guix s'ha acabat, {així que|com que} la Carla anirà a buscar-ne. La Carla ha explicat molt bé el tema, {de manera que|perquè} tothom l'ha entès. Us ho preguntarem a l'examen; estudieu-ho, {doncs|perquè}."
     explanation: "Els quatre buits són resultats: *per tant*, *així que*, *de manera que* i *doncs*."
 
   - id: b1-27-012
@@ -303,14 +303,14 @@ items:
     lesson: 1
     prompt: "L'aula era plena, ___ vam seure al passadís."
     hint: "connector de conseqüència"
-    answers: ["per tant", "així que"]
+    answers: ["per tant", "així que", "de manera que"]
     wrong_answers:
       - text: "perquè"
         why: "*Perquè* donaria la causa. «Vam seure al passadís» és el resultat."
       - text: "ja que"
         why: "*Ja que* dona una causa. Aquí cal el resultat: *per tant* o *així que*."
     grading: tolerant
-    explanation: "«Vam seure al passadís» és el resultat: *per tant* o *així que*."
+    explanation: "«Vam seure al passadís» és el resultat: *per tant*, *així que* o *de manera que*."
 
   # ---------------- Lliçó 2 ----------------
   - id: b1-27-014
@@ -369,14 +369,14 @@ items:
     type: fill
     point: connectors-causa
     lesson: 2
-    prompt: "___ feia vaga de trens, molts alumnes van arribar tard."
+    prompt: "___ hi havia vaga de trens, molts alumnes van arribar tard."
     hint: "connector de causa al principi"
     answers: ["Com que", "Ja que"]
     wrong_answers:
       - text: "Per què"
         why: "*Per què* només serveix per preguntar, i aquí no hi ha cap pregunta."
     grading: tolerant
-    explanation: "«Feia vaga» és una causa coneguda al principi: *com que* o *ja que*."
+    explanation: "«Hi havia vaga» és una causa coneguda al principi: *com que* o *ja que*."
 
   - id: b1-27-019
     type: fill
@@ -399,14 +399,14 @@ items:
     lesson: 2
     prompt: "No hi havia llum a l'edifici, ___ es van ajornar els exàmens."
     hint: "connector de conseqüència"
-    answers: ["per tant", "així que"]
+    answers: ["per tant", "així que", "de manera que"]
     wrong_answers:
       - text: "perquè"
         why: "*Perquè* donaria la causa. «Es van ajornar els exàmens» és el resultat."
       - text: "ja que"
         why: "*Ja que* dona una causa. Aquí cal el resultat: *per tant* o *així que*."
     grading: tolerant
-    explanation: "«Es van ajornar els exàmens» és el resultat: *per tant* o *així que*."
+    explanation: "«Es van ajornar els exàmens» és el resultat: *per tant*, *així que* o *de manera que*."
 
   - id: b1-27-021
     type: fill
@@ -442,12 +442,12 @@ items:
     lesson: 2
     prompt: "Era el delegat de la classe, ___ parlava en nom de tothom."
     hint: "connector de conseqüència"
-    answers: ["per tant", "així que"]
+    answers: ["per tant", "així que", "de manera que"]
     wrong_answers:
       - text: "perquè"
         why: "*Perquè* donaria la causa. «Parlava en nom de tothom» és el resultat."
     grading: tolerant
-    explanation: "«Parlava en nom de tothom» és el resultat de ser delegat: *per tant* o *així que*."
+    explanation: "«Parlava en nom de tothom» és el resultat de ser delegat: *per tant*, *així que* o *de manera que*."
 
   - id: b1-27-024
     type: order
@@ -477,7 +477,7 @@ items:
     point: connectors-causa
     lesson: 2
     title: "Nota de la directora"
-    text: "{Com que|Per què} demà hi ha vaga, les classes començaran a les deu. Molts professors venen de fora, {per tant|perquè}, no hi haurà primera hora. {Ja que|Tot i que} la biblioteca obre igualment, podeu estudiar-hi. Porteu el carnet: us el demanaran, {doncs|perquè}. Si teniu dubtes, pregunteu, {perquè|per què} volem ajudar-vos."
+    text: "{Com que|Per què} demà hi ha vaga, les classes començaran a les deu. Molts professors venen de fora, {per tant|perquè}, no hi haurà primera hora. {Ja que|Tot i que} la biblioteca obre igualment, podeu estudiar-hi. Us demanaran el carnet; porteu-lo, {doncs|perquè}. Si teniu dubtes, pregunteu, {perquè|per què} volem ajudar-vos."
     explanation: "*Com que* i *ja que* donen causes conegudes; *per tant* i *doncs*, resultats; i *perquè* respon *per què*."
 
   # ---------------- Lliçó 3 ----------------
@@ -554,7 +554,7 @@ items:
     lesson: 3
     prompt: "___ plovia, vam fer l'excursió de final de curs."
     hint: "connector de contrast"
-    answers: ["Tot i que", "Encara que"]
+    answers: ["Tot i que", "Encara que", "Malgrat que", "Si bé"]
     wrong_answers:
       - text: "Ja que"
         why: "*Ja que* dona una causa. La pluja no causa l'excursió: hi ha un contrast."
@@ -770,8 +770,8 @@ items:
     point: expressions
     lesson: 4
     prompt: "Plovia i nevava; ___, vam anar a l'excursió."
-    hint: "expressió: «malgrat tot»"
-    answers: ["tot i així"]
+    hint: "expressió amb *tot*: «malgrat la dificultat»"
+    answers: ["tot i així", "així i tot", "tot i això", "malgrat tot", "de tota manera"]
     wrong_answers:
       - text: "en canvi"
         why: "*En canvi* compara dues situacions. Aquí és «malgrat tot»: *tot i així*."
@@ -785,10 +785,10 @@ items:
     point: expressions
     lesson: 4
     prompt: "—Vens a repàs demà? —___! Tinc examen dijous."
-    hint: "expressió d'afirmació entusiasta amb *ara*"
-    answers: ["I ara"]
+    hint: "expressió d'afirmació entusiasta amb *tant*"
+    answers: ["I tant"]
     grading: tolerant
-    explanation: "*I ara!* vol dir «és clar!»: és una afirmació entusiasta."
+    explanation: "*I tant!* vol dir «és clar que sí!»: és una afirmació entusiasta."
 
   - id: b1-27-050
     type: fill
@@ -796,7 +796,7 @@ items:
     lesson: 4
     prompt: "M'agrada la física, ___ la química no m'interessa gens."
     hint: "connector de contrast"
-    answers: ["però", "en canvi"]
+    answers: ["però", "en canvi", "mentre que"]
     wrong_answers:
       - text: "sinó"
         why: "*Sinó* corregeix una negació. Aquí no hi ha cap negació: *però* o *en canvi*."
@@ -833,26 +833,26 @@ items:
     point: expressions
     lesson: 5
     prompt: "Què vol dir «Al cap i a la fi, va aprovar»?"
-    answer: "Que finalment va aprovar, després de dubtar-ho."
+    answer: "Que, al final de tot, va aprovar."
     distractors:
       - text: "Que gairebé va aprovar, però no."
         why: "*Al cap i a la fi* vol dir que sí que va passar, al final."
       - text: "Que va aprovar sense estudiar gens."
-        why: "L'expressió parla del final d'un dubte, no de l'esforç."
-    explanation: "*Al cap i a la fi* vol dir «finalment, després de dubtar-ho»."
+        why: "L'expressió parla del resultat final, no de l'esforç."
+    explanation: "*Al cap i a la fi* vol dir «en definitiva, al final de tot»."
 
   - id: b1-27-054
     type: choice
     point: expressions
     lesson: 5
     prompt: "—Aprovarem, ja ho veuràs. —___! Segur que sí!"
-    answer: "I ara"
+    answer: "I tant"
     distractors:
       - text: "En canvi"
-        why: "*En canvi* compara situacions. Aquí és una afirmació entusiasta: *i ara*."
+        why: "*En canvi* compara situacions. Aquí és una afirmació entusiasta: *i tant*."
       - text: "Per tant"
-        why: "*Per tant* dona un resultat. Aquí és una exclamació: *i ara*."
-    explanation: "*I ara!* és una afirmació entusiasta: vol dir «és clar!»."
+        why: "*Per tant* dona un resultat. Aquí és una exclamació: *i tant*."
+    explanation: "*I tant!* és una afirmació entusiasta: vol dir «és clar que sí!»."
 
   - id: b1-27-055
     type: choice
@@ -888,7 +888,7 @@ items:
     lesson: 5
     prompt: "La Carla estudia dret, ___ el seu germà estudia medicina."
     hint: "connector de contrast"
-    answers: ["però", "en canvi"]
+    answers: ["però", "en canvi", "mentre que"]
     wrong_answers:
       - text: "sinó"
         why: "*Sinó* corregeix una negació, i aquí no n'hi ha cap."
@@ -916,14 +916,14 @@ items:
     type: find-error
     point: connectors-contrast
     lesson: 5
-    sentence: "M'agrada la història, sinó la geografia."
-    error: "sinó"
+    sentence: "M'agrada la història, sinó que la geografia m'avorreix."
+    error: "sinó que"
     fix: "però"
     fix_distractors:
       - text: "si no"
         why: "*Si no* és una condició. Aquí hi ha un contrast: *però*."
-      - text: "tot i que"
-        why: "*Tot i que* necessita una frase amb verb. Aquí cal *però*."
+      - text: "per tant"
+        why: "*Per tant* donaria un resultat, i avorrir-se amb la geografia no és el resultat d'agradar-te la història."
     explanation: "No hi ha cap negació que calgui corregir: és un contrast, *però*."
 
   - id: b1-27-060
@@ -952,13 +952,12 @@ items:
     lesson: 5
     instruction: "Relaciona cada expressió amb la situació."
     pairs:
-      - ["al cap i a la fi", "tries una opció després de dubtar molt"]
+      - ["al cap i a la fi", "dius com va acabar tot, al final"]
       - ["en canvi", "compares dues situacions diferents"]
       - ["tot i així", "fas una cosa malgrat una dificultat"]
-      - ["i ara!", "respons «és clar!» amb entusiasme"]
-      - ["de tota manera", "dius que una cosa passa igualment"]
+      - ["i tant!", "respons «és clar que sí!» amb entusiasme"]
       - ["així doncs", "tanques un argument amb la conclusió"]
-    explanation: "Són sis maneres d'enllaçar idees: tria la que demana cada situació."
+    explanation: "Són cinc maneres d'enllaçar idees: tria la que demana cada situació."
 
   - id: b1-27-063
     type: inline-choice
@@ -973,8 +972,8 @@ items:
     point: expressions
     lesson: 5
     title: "Abans de l'examen"
-    text: "L'examen és difícil; {tot i així|per tant}, l'aprovaràs si estudies. La teoria és llarga; {en canvi|per tant}, els exercicis són curts. Dubtava entre dues respostes; {al cap i a la fi|perquè}, vaig triar la primera. —M'ajudes a repassar? —{I ara|En canvi}! Quan vulguis. He suspès altres cops; {de tota manera|per tant}, estic content de l'esforç."
-    explanation: "Cinc expressions d'aquesta unitat: *tot i així*, *en canvi*, *al cap i a la fi*, *i ara* i *de tota manera*."
+    text: "L'examen és difícil; {tot i així|per tant}, l'aprovaràs si estudies. La teoria és llarga; {en canvi|per tant}, els exercicis són curts. Dubtava entre dues respostes; {al cap i a la fi|perquè}, vaig triar la primera. —M'ajudes a repassar? —{I tant|En canvi}! Quan vulguis. He suspès altres cops; {de tota manera|per tant}, estic content de l'esforç."
+    explanation: "Cinc expressions d'aquesta unitat: *tot i així*, *en canvi*, *al cap i a la fi*, *i tant* i *de tota manera*."
 
   - id: b1-27-065
     type: reading

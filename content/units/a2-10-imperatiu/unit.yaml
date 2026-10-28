@@ -156,11 +156,11 @@ items:
     point: imperatiu-afirmatiu
     lesson: 1
     prompt: "Pau, ___ l'arròs a poc a poc, que és calent!"
-    answer: "Remena"
+    answer: "remena"
     distractors:
-      - text: "Remenes"
-        why: "*Remenes* és el present. Per donar una ordre a una persona: *remena*."
-      - text: "Remeneu"
+      - text: "remenis"
+        why: "*Remenis* només va amb *no* (*no remenis*). En afirmatiu: *remena*."
+      - text: "remeneu"
         why: "*Remeneu* és per a més d'una persona. Aquí parlem a en Pau."
     explanation: "Parlem a una persona (en Pau): l'imperatiu de *tu* de *remenar* és *remena*."
 
@@ -169,11 +169,11 @@ items:
     point: imperatiu-afirmatiu
     lesson: 1
     prompt: "Nois, ___ el forn a dos-cents graus."
-    answer: "Enceneu"
+    answer: "enceneu"
     distractors:
-      - text: "Encén"
+      - text: "encén"
         why: "*Encén* és per a una persona. «Nois» en són més d'una."
-      - text: "Encenguis"
+      - text: "encenguis"
         why: "*Encenguis* és del negatiu (*no encenguis*). La frase és afirmativa."
     explanation: "Parlem a més d'una persona («nois»): l'imperatiu de *encendre* és *enceneu*."
 
@@ -182,11 +182,11 @@ items:
     point: imperatiu-afirmatiu
     lesson: 1
     prompt: "La nevera és oberta: ___ la porta, si us plau."
-    answer: "Tanca"
+    answer: "tanca"
     distractors:
-      - text: "Tanques"
-        why: "*Tanques* és el present. L'ordre per a una persona és *tanca*."
-      - text: "Tanqueu"
+      - text: "tanquis"
+        why: "*Tanquis* només va amb *no* (*no tanquis*). En afirmatiu: *tanca*."
+      - text: "tanqueu"
         why: "*Tanqueu* és per a més d'una persona."
     explanation: "Donem una ordre a una persona: de *tancar* és *tanca*."
 
@@ -197,8 +197,8 @@ items:
     prompt: "___ la finestra, que fa molta olor de fregit."
     answer: "Obre"
     distractors:
-      - text: "Obres"
-        why: "*Obres* és el present. L'ordre per a una persona és *obre*."
+      - text: "Obris"
+        why: "*Obris* només va amb *no* (*no obris*). En afirmatiu: *obre*."
       - text: "Obriu"
         why: "*Obriu* és per a més d'una persona."
     explanation: "Donem una ordre a una persona: de *obrir* és *obre*."
@@ -249,8 +249,8 @@ items:
     prompt: "___ una ceba a la cassola."
     answer: "Afegeix"
     distractors:
-      - text: "Afegeixes"
-        why: "*Afegeixes* és el present. L'ordre per a una persona és *afegeix*."
+      - text: "Afegeixis"
+        why: "*Afegeixis* només va amb *no* (*no afegeixis*). En afirmatiu: *afegeix*."
       - text: "Afegiu"
         why: "*Afegiu* és per a més d'una persona."
     explanation: "Amb «tu», *afegir* (verb en *-eix-*) fa *afegeix*."
@@ -286,14 +286,14 @@ items:
     point: imperatiu-afirmatiu
     lesson: 1
     title: "Recepta d'arròs"
-    text: "Per fer l'arròs: primer {posa|poses|posis} l'oli a la cassola, després {afegeix|afegeixes|afegiu} l'arròs i {remena|remenes|remeneu} bé. {Tasta|Tastes|Tasteu} el brou i {serveix|serveixes|serviu} l'arròs calent."
-    explanation: "Una recepta dona ordres a una persona: *posa, afegeix, remena, tasta, serveix*."
+    text: "Pau, per fer l'arròs: primer {posa|posis|poseu} l'oli a la cassola, després {afegeix|afegeixis|afegiu} l'arròs i {remena|remenis|remeneu} bé. {Tasta|Tastis|Tasteu} el brou i {serveix|serveixis|serviu} l'arròs calent."
+    explanation: "Parles a en Pau (tu), en afirmatiu: *posa, afegeix, remena, tasta, serveix*. *Posis*, *afegeixis*… només van amb *no*."
 
   - id: a2-10-012
     type: choice
     point: expressions
     lesson: 1
-    prompt: "—El tren surt en cinc minuts! —___, que el perdem!"
+    prompt: "—El tren surt d'aquí a cinc minuts! —___, que el perdem!"
     answer: "Vinga!"
     distractors:
       - text: "Tranquil!"
@@ -321,11 +321,11 @@ items:
     point: imperatiu-afirmatiu
     lesson: 2
     prompt: "___ bé les patates abans de fregir."
-    hint: "rentar, tu"
+    hint: "rentar, imperatiu, tu"
     answers: ["Renta"]
     wrong_answers:
       - text: "Rentes"
-        why: "*Rentes* és el present. L'ordre per a una persona és *renta*."
+        why: "*Rentes* és el present. La pista demana l'imperatiu: *renta*."
       - text: "Renteu"
         why: "*Renteu* és per a més d'una persona."
     grading: tolerant
@@ -337,11 +337,11 @@ items:
     lesson: 2
     prompt: "Nois, ___ taula, que ja portem el sopar."
     hint: "parar, vosaltres"
-    answers: ["Pareu"]
+    answers: ["pareu"]
     wrong_answers:
-      - text: "Para"
+      - text: "para"
         why: "*Para* és per a una persona. «Nois» en són més d'una."
-      - text: "Parem"
+      - text: "parem"
         why: "*Parem* és «nosaltres». Per a «vosaltres»: *pareu*."
     grading: tolerant
     explanation: "«Nois» són més d'una persona: de *parar* és *pareu*."
@@ -509,12 +509,12 @@ items:
     type: choice
     point: imperatius-irregulars
     lesson: 3
-    prompt: "___ demà a dinar: fem arròs."
-    answer: "Vine"
+    prompt: "Laia, ___ demà a dinar: fem arròs."
+    answer: "vine"
     distractors:
-      - text: "Ves"
+      - text: "ves"
         why: "*Ves* és de *anar*. Aquí el verb és *venir*: *vine*."
-      - text: "Veniu"
+      - text: "veniu"
         why: "*Veniu* és per a més d'una persona."
     explanation: "El verb és *venir* i parlem a una persona: *vine*."
 
@@ -536,11 +536,11 @@ items:
     point: imperatius-irregulars
     lesson: 3
     prompt: "Nois, ___ el favor de parar taula."
-    answer: "Feu"
+    answer: "feu"
     distractors:
-      - text: "Fes"
+      - text: "fes"
         why: "*Fes* és per a una persona. «Nois» en són més d'una."
-      - text: "Facis"
+      - text: "facis"
         why: "*Facis* és del negatiu (*no facis*). La frase és afirmativa."
     explanation: "«Nois» són més d'una persona: de *fer* és *feu*."
 
@@ -567,8 +567,8 @@ items:
     hint: "tenir, tu"
     answers: ["Tingues"]
     wrong_answers:
-      - text: "Ten"
-        why: "«Ten» és castellà. En català, de *tenir*: *tingues*."
+      - text: "Tens"
+        why: "*Tens* és el present. L'ordre és *tingues*."
       - text: "Tingueu"
         why: "*Tingueu* és per a més d'una persona."
     grading: tolerant
@@ -580,11 +580,11 @@ items:
     lesson: 3
     prompt: "L'olla crema: ___ amb el drap!"
     hint: "agafar, tu, + «l'olla»"
-    answers: ["Agafa-la"]
+    answers: ["agafa-la"]
     wrong_answers:
-      - text: "La agafa"
+      - text: "la agafa"
         why: "En afirmatiu, el pronom va darrere del verb: *agafa-la*."
-      - text: "Agafa la"
+      - text: "agafa la"
         why: "El pronom va unit al verb amb guionet: *agafa-la*."
     grading: tolerant
     explanation: "En afirmatiu, el pronom va darrere, amb guionet: *agafa-la*."
@@ -595,11 +595,11 @@ items:
     lesson: 3
     prompt: "La Núria té gana: ___ el plat calent."
     hint: "portar, tu, + «a la Núria»"
-    answers: ["Porta-li"]
+    answers: ["porta-li"]
     wrong_answers:
-      - text: "Li porta"
+      - text: "li porta"
         why: "En afirmatiu, el pronom va darrere del verb: *porta-li*."
-      - text: "Porta li"
+      - text: "porta li"
         why: "El pronom va unit al verb amb guionet: *porta-li*."
     grading: tolerant
     explanation: "«A la Núria» és *li*. En afirmatiu va darrere: *porta-li*."
@@ -630,7 +630,7 @@ items:
         why: "*Tingueu* és per a més d'una persona."
       - text: "tens"
         why: "*Tens* és el present. En negatiu: *no tinguis*."
-    explanation: "De *tenir*, en negatiu: *no tinguis*. *No tingues* és un calc de «no tengas»."
+    explanation: "De *tenir*, en negatiu: *no tinguis*. El negatiu no és l'afirmatiu (*tingues*) amb *no*."
 
   - id: a2-10-037
     type: find-error
@@ -662,8 +662,8 @@ items:
     error: "Pon"
     fix: "Posa"
     fix_distractors:
-      - text: "Poses"
-        why: "*Poses* és el present. L'ordre per a una persona és *posa*."
+      - text: "Posis"
+        why: "*Posis* només va amb *no* (*no posis*). En afirmatiu: *posa*."
       - text: "Poseu"
         why: "*Poseu* és per a més d'una persona."
     explanation: "Com a ordre de *posar*, «pon» és castellà. L'imperatiu és *posa*."
@@ -710,7 +710,7 @@ items:
       - text: "Veniu a comprar pa."
         why: "*Veniu* és de *venir*. El verb aquí és *anar*: *aneu*."
       - text: "Vagin a comprar pa."
-        why: "*Vagin* és «ells». Per a «vosaltres»: *aneu*."
+        why: "*Vagin* és per a «vostès». Per a «vosaltres»: *aneu*."
     grading: tolerant
     explanation: "El verb és *anar* i parlem a més d'una persona: *aneu*."
 
@@ -780,11 +780,11 @@ items:
     lesson: 4
     prompt: "Nois, ___ què hi ha a la nevera abans de sortir."
     hint: "veure, vosaltres"
-    answers: ["Vegeu"]
+    answers: ["vegeu"]
     wrong_answers:
-      - text: "Veieu"
-        why: "*Veieu* és el present. L'ordre és *vegeu*."
-      - text: "Veges"
+      - text: "vegis"
+        why: "*Vegis* només va amb *no* i és per a una persona. Aquí: *vegeu*."
+      - text: "veges"
         why: "*Veges* és per a una persona. «Nois» en són més d'una."
     grading: tolerant
     explanation: "«Nois» són més d'una persona: de *veure* és *vegeu*."
@@ -808,7 +808,7 @@ items:
     type: order
     point: imperatiu-amb-pronom
     lesson: 4
-    cue: "Les patates són calentes. Escriu l'ordre: en Pau no ha de tastar res."
+    cue: "Les patates són calentes. Escriu l'ordre: en Pau encara no les ha de tastar."
     chunks: ["no", "les", "tastis", "encara"]
     extra: ["tasta-les", "tastis-les"]
     answers:
@@ -847,11 +847,11 @@ items:
     point: imperatiu-amb-pronom
     lesson: 4
     prompt: "Aquesta sopa és molt bona: ___ ara mateix."
-    answer: "Tasta-la"
+    answer: "tasta-la"
     distractors:
-      - text: "La tasta"
+      - text: "la tasta"
         why: "En afirmatiu, el pronom va darrere del verb: *tasta-la*."
-      - text: "Tasta la"
+      - text: "tasta la"
         why: "El pronom va unit al verb amb guionet: *tasta-la*."
     explanation: "«La sopa» és *la*. En afirmatiu va darrere: *tasta-la*."
 
@@ -925,11 +925,11 @@ items:
     point: imperatiu-afirmatiu
     lesson: 5
     prompt: "Nois, ___ la recepta abans de començar."
-    answer: "Llegiu"
+    answer: "llegiu"
     distractors:
-      - text: "Llegeix"
+      - text: "llegeix"
         why: "*Llegeix* és per a una persona. «Nois» en són més d'una."
-      - text: "Llegeixes"
+      - text: "llegeixes"
         why: "*Llegeixes* és el present. L'ordre és *llegiu*."
     explanation: "«Nois» són més d'una persona: de *llegir* és *llegiu*."
 
@@ -952,11 +952,11 @@ items:
     lesson: 5
     prompt: "La farina pesa molt: ___ amb compte."
     hint: "portar, tu, + «la farina»"
-    answers: ["Porta-la"]
+    answers: ["porta-la"]
     wrong_answers:
-      - text: "La porta"
+      - text: "la porta"
         why: "En afirmatiu, el pronom va darrere del verb: *porta-la*."
-      - text: "Porta la"
+      - text: "porta la"
         why: "El pronom va unit al verb amb guionet: *porta-la*."
     grading: tolerant
     explanation: "«La farina» és *la*. En afirmatiu va darrere: *porta-la*."
@@ -999,8 +999,8 @@ items:
     error: "Sal"
     fix: "Surt"
     fix_distractors:
-      - text: "Surts"
-        why: "*Surts* és el present. L'ordre per a una persona és *surt*."
+      - text: "Surtis"
+        why: "*Surtis* només va amb *no* (*no surtis*). En afirmatiu: *surt*."
       - text: "Sortiu"
         why: "*Sortiu* és per a més d'una persona."
     explanation: "Com a ordre, «sal» és castellà. L'imperatiu de *sortir* és *surt*."
@@ -1029,7 +1029,7 @@ items:
     point: imperatiu-amb-pronom
     lesson: 5
     title: "Abans de sopar"
-    text: "La truita ja és llesta. Pau, {posa-la|la posa|posa la} a taula i {tasta-la|la tasta|tasta la} abans de servir. Si és dolça, {posa-hi|hi posa|posa hi} una mica de sal. Núria, {ajuda'm|m'ajuda|ajuda me} a parar taula. I si tens gana, {agafa'n|n'agafa|agafa ne} un altre tros. Wei, {asseu-te|t'asseus|asseu} aquí, que ja sopem."
+    text: "La truita ja és llesta. Pau, {posa-la|la posa|posa la} a taula i {tasta-la|la tasta|tasta la} abans de servir. Si és dolça, {posa-hi|hi posa|posa hi} una mica de sal. Núria, {ajuda'm|m'ajuda|ajuda me} a parar taula. I si tens gana, {agafa'n|n'agafa|agafa ne} un altre tros. Wei, {asseu-te|asseu-se|asseu} aquí, que ja sopem."
     explanation: "En afirmatiu, el pronom va darrere del verb: *posa-la, tasta-la, posa-hi, ajuda'm, agafa'n, asseu-te*."
 
   - id: a2-10-065
@@ -1037,10 +1037,10 @@ items:
     point: imperatius-irregulars
     lesson: 5
     prompt: "Nois, ___ paciència: el forn encara és fred."
-    answer: "Tingueu"
+    answer: "tingueu"
     distractors:
-      - text: "Tingues"
+      - text: "tingues"
         why: "*Tingues* és per a una persona. «Nois» en són més d'una."
-      - text: "Teniu"
-        why: "*Teniu* és el present. L'ordre és *tingueu*."
+      - text: "tinguis"
+        why: "*Tinguis* només va amb *no* i és per a una persona. Aquí: *tingueu*."
     explanation: "«Nois» són més d'una persona: de *tenir* és *tingueu*."

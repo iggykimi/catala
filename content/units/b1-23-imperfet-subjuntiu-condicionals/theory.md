@@ -1,7 +1,7 @@
 <!-- point: formes-subjuntiu -->
 ## L'imperfet de subjuntiu: *tingués*, *fos*, *anés*
 
-L'imperfet de subjuntiu serveix per parlar de coses irreals: hipòtesis, desitjos difícils i consells. És el temps que va darrere de *si* en les hipòtesis.
+L'imperfet de subjuntiu serveix per parlar de coses irreals: hipòtesis, desitjos difícils i comparacions irreals. És el temps que va darrere de *si* en les hipòtesis.
 
 > Si **tingués** temps, viatjaria.
 
@@ -18,7 +18,7 @@ L'imperfet de subjuntiu serveix per parlar de coses irreals: hipòtesis, desitjo
 - La primera i la segona persona del plural porten accent: **parléssim**, **parléssiu**.
 - Els irregulars més freqüents (jo): **fos** (*ser*), **estigués** (*estar*), **hagués** (*haver*), **anés** (*anar*), **fes** (*fer*), **pogués** (*poder*), **volgués** (*voler*), **sabés** (*saber*), **tingués** (*tenir*), **vingués** (*venir*), **digués** (*dir*), **veiés** (*veure*).
 
-> **Compte!** Les formes irregulars no segueixen el model: ~~sapigués~~ → **sabés**, ~~facés~~ → **fes**, ~~sigués~~ → **fos**.
+> **Compte!** Les formes irregulars no segueixen el model: ~~tenés~~ → **tingués**, ~~facés~~ → **fes**, ~~venés~~ → **vingués**.
 
 <!-- point: condicionals-si -->
 ## *Si* + imperfet de subjuntiu + condicional
@@ -33,7 +33,7 @@ Per parlar d'una hipòtesi irreal, la condició porta *si* + imperfet de subjunt
 | Si fos ric, | no treballaria. |
 | Si plogués, | ens quedaríem a casa. |
 
-- Darrere de *si* no va mai el condicional: *si tingués*, no *si tindria*.
+- En una condició, darrere de *si* no va mai el condicional: *si tingués*, no *si tindria*.
 - El resultat va en condicional: *aniria*, *compraria*, *ajudaria*.
 - Si la hipòtesi és possible, *si* va amb present i el resultat amb futur: *Si plou, no sortirem.*
 
@@ -50,7 +50,7 @@ L'imperfet de subjuntiu també apareix en desitjos difícils i en comparacions i
 - *Com si* + imperfet de subjuntiu fa una comparació irreal: **Com si fos** fàcil!
 - Per donar un consell: *hauria de* + infinitiu (**Hauries de parlar** amb el banc) o el condicional sol (**Jo no ho faria**).
 
-> **Compte!** ~~Tant de bo tindré sort~~ → **Tant de bo tingui sort** (possible) o **tingués** (difícil). ~~Em parla com si era nou~~ → **com si fos nou**.
+> **Compte!** ~~Tant de bo tindré sort~~ → **Tant de bo tingui sort** (possible) o **tingués** (difícil). Amb *com si*, en registre formal, imperfet de subjuntiu: **Em parla com si fos nou** (col·loquialment també se sent *com si era*).
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: *si tindria*

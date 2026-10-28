@@ -133,7 +133,7 @@ vocabulary:
   - word: "atendre"
     definition: "Rebre un pacient i ocupar-se'n mèdicament."
     example: "El metge m'ha atès sense cita."
-  - word: "la UCI"
+  - word: "l'UCI"
     definition: "Unitat de Cures Intensives, per als malalts més greus."
     example: "Després de l'operació va passar dos dies a l'UCI."
   - word: "el protocol"
@@ -188,8 +188,8 @@ items:
     prompt: "L'hivern que ve ___ més casos de grip, segons els experts."
     answer: "hi haurà"
     distractors:
-      - text: "hi ha"
-        why: "«L'hivern que ve» és futur, no present: *hi haurà*."
+      - text: "hi havia"
+        why: "«L'hivern que ve» és futur, no passat: *hi haurà*."
       - text: "haurà"
         why: "L'existència s'expressa amb *haver-hi*: sense *hi* la frase no és correcta."
     explanation: "«L'hivern que ve» és futur: *hi haurà*. L'error típic és oblidar el pronom *hi*."
@@ -203,8 +203,8 @@ items:
     distractors:
       - text: "cal"
         why: "*Cal* és singular; amb «voluntaris» cal el plural *calen*."
-      - text: "necessiten"
-        why: "*Necessitar* necessita un subjecte (qui necessita?). Per a la necessitat impersonal: *calen*."
+      - text: "fa falta"
+        why: "*Fer falta* també concorda: amb «més voluntaris», seria *fan falta*."
     explanation: "«Més voluntaris» és plural: *caldre* concorda amb el subjecte: *calen*."
 
   - id: b2-57-005
@@ -231,8 +231,8 @@ items:
     distractors:
       - text: "caldrà"
         why: "*Caldrà* és singular; amb «infermeres» cal el plural *caldran*."
-      - text: "calen"
-        why: "«L'any que ve» és futur, no present: *caldran*."
+      - text: "calien"
+        why: "*Calien* és passat; «l'any que ve» és futur: *caldran*."
     explanation: "«Més infermeres» és plural i «l'any que ve» és futur: *caldran*."
 
   - id: b2-57-007
@@ -294,8 +294,8 @@ items:
     wrong_answers:
       - text: "cal"
         why: "*Cal* és singular; amb un subjecte plural cal *calen*."
-      - text: "necessiten"
-        why: "Sense subjecte, *necessiten* no té sentit. La necessitat impersonal és *calen*."
+      - text: "cal que"
+        why: "*Cal que* va davant d'un verb en subjuntiu; davant d'un nom plural, *calen*."
     grading: tolerant
     explanation: "«Dos cirurgians i una anestesista» és un subjecte plural: *calen*."
 
@@ -413,16 +413,16 @@ items:
     type: choice
     point: haver-hi-formal
     lesson: 2
-    prompt: "Sense l'ambulància, ___ un problema greu."
+    prompt: "Si el poble no tingués ambulància, ___ un problema greu."
     answer: "hi hauria"
     distractors:
       - text: "hi haurà"
         why: "No és un futur segur, sinó una hipòtesi: *hi hauria*."
       - text: "hi ha"
-        why: "El present no expressa la hipòtesi de «sense l'ambulància»: *hi hauria*."
+        why: "El present no expressa la hipòtesi de «si no tingués»: *hi hauria*."
       - text: "hi hagués"
         why: "*Hi hagués* és subjuntiu; en l'oració principal cal el condicional *hi hauria*."
-    explanation: "«Sense l'ambulància» planteja una hipòtesi: condicional, *hi hauria*."
+    explanation: "«Si no tingués» planteja una hipòtesi: a l'oració principal, condicional, *hi hauria*."
 
   - id: b2-57-021
     type: choice
@@ -433,8 +433,8 @@ items:
     distractors:
       - text: "Cal"
         why: "*Cal* és singular; amb «dues persones» cal *calen*."
-      - text: "Necessiten"
-        why: "Sense subjecte, *necessiten* no té sentit: la necessitat impersonal és *calen*."
+      - text: "Caldrà"
+        why: "*Caldrà* és singular; amb «dues persones», el verb va en plural."
     explanation: "«Dues persones» és plural: *caldre* concorda amb el subjecte: *calen*."
 
   - id: b2-57-022
@@ -499,7 +499,7 @@ items:
       - text: "caldrà"
         why: "*Caldrà* és singular; amb «llits» cal el plural *caldran*."
       - text: "calen"
-        why: "«L'any que ve» és futur, no present: *caldran*."
+        why: "La pista demana el futur: *caldran*."
     grading: tolerant
     explanation: "«Més llits» és plural i «l'any que ve» és futur: *caldran*."
 
@@ -637,8 +637,8 @@ items:
         why: "*Cal* és singular; amb «voluntaris» cal *calen*."
       - text: "Caldria"
         why: "Amb «voluntaris» (plural), el singular *caldria* no concorda."
-      - text: "Necessita"
-        why: "Sense subjecte, *necessita* no té sentit: *calen*."
+      - text: "Fa falta"
+        why: "*Fer falta* també concorda: amb «voluntaris», seria *fan falta*."
     explanation: "«Voluntaris» és plural: *calen*. Fer servir *cal* per a tot és un calc de «hay que»."
 
   - id: b2-57-037
@@ -659,20 +659,20 @@ items:
     point: impersonals-meteo
     lesson: 3
     title: "Previsió del cap de setmana"
-    text: "Dissabte {farà|fa} sol a tot el país, amb temperatures suaus. Diumenge al matí {plourà|plorarà} a la costa i {nevarà|neva} al Pirineu. Demà de matinada {glaçarà|glaça} a l'interior."
-    explanation: "Tot passa el cap de setmana que ve: futur. *Ploure* fa *plourà*, amb *u*: *plorarà* és de *plorar*."
+    text: "Dissabte {farà|feia} sol a tot el país, amb temperatures suaus. Diumenge al matí {plourà|plorarà} a la costa i {nevarà|nevava} al Pirineu. Dilluns de matinada {glaçarà|glaçava} a l'interior."
+    explanation: "És una previsió: el futur, no l'imperfet. *Ploure* fa *plourà*, amb *u*: *plorarà* és de *plorar*."
 
   - id: b2-57-039
     type: order
     point: participi-concordanca
     lesson: 3
-    cue: "Digues que han atès les pacients de seguida."
-    chunks: ["Les", "pacients", "han", "estat", "ateses", "de", "seguida"]
-    extra: ["atesos"]
+    cue: "Digues que aquest mes han contractat les infermeres noves."
+    chunks: ["Les", "infermeres", "noves", "han", "estat", "contractades", "aquest", "mes"]
+    extra: ["contractats"]
     answers:
-      - "Les pacients han estat ateses de seguida."
-      - "De seguida les pacients han estat ateses."
-    explanation: "Amb *ser* (*han estat*), el participi concorda amb el subjecte: «les pacients» → *ateses*."
+      - "Les infermeres noves han estat contractades aquest mes."
+      - "Aquest mes les infermeres noves han estat contractades."
+    explanation: "Amb *ser* (*han estat*), el participi concorda amb el subjecte: «les infermeres» → *contractades*."
 
   # ---------- Lliçó 4 ----------
   - id: b2-57-040
@@ -710,12 +710,12 @@ items:
     point: participi-concordanca
     lesson: 4
     instruction: "Passa la frase al femení plural: les pacients."
-    source: "Els pacients han estat [[atesos]] de seguida."
-    answers: ["Les pacients han estat ateses de seguida.", "De seguida les pacients han estat ateses."]
+    source: "Els pacients de la planta tres han estat [[atesos]] de seguida."
+    answers: ["Les pacients de la planta tres han estat ateses de seguida.", "De seguida les pacients de la planta tres han estat ateses."]
     wrong_answers:
-      - text: "Les pacients han estat atesos de seguida."
+      - text: "Les pacients de la planta tres han estat atesos de seguida."
         why: "«Les pacients» és femení: *ateses*."
-      - text: "Les pacients han estat atesa de seguida."
+      - text: "Les pacients de la planta tres han estat atesa de seguida."
         why: "«Les pacients» és plural: *ateses*."
     grading: tolerant
     explanation: "«Les pacients» és femení plural i amb *ser* el participi concorda: *ateses*."
@@ -805,7 +805,7 @@ items:
     answers:
       - "N'hi ha prou amb una dosi."
       - "Amb una dosi n'hi ha prou."
-    explanation: "«Una dosi» es reprèn amb *en*: *n'hi ha prou*. En registre formal, *haver-hi* no concorda."
+    explanation: "*N'hi ha prou* és una construcció fixa, amb *en* i *hi*: *n'hi ha prou amb una dosi*. En registre formal, *haver-hi* no concorda."
 
   - id: b2-57-049
     type: order
@@ -877,17 +877,17 @@ items:
 
       A la farmàcia de guàrdia també hi ha hagut molta feina: han venut el doble de medicaments per a la tos i la febre. La infermera recorda que per demanar hora cal trucar abans de les vuit, i que amb la targeta sanitària n'hi ha prou per a la primera visita.
 
-      El temps no ha ajudat gens: ha plogut cada dia i a les nits ha glaçat, i els carrers mullats han provocat diverses caigudes. «Diumenge farà sol», anuncia la previsió, «i si tot va bé la setmana que ve caldran menys llits a urgències».
+      El temps no ha ajudat gens: ha plogut cada dia i a les nits ha glaçat, i els carrers mullats han provocat diverses caigudes. Segons la previsió, diumenge farà sol. Si tot va bé, la setmana que ve caldran menys llits a urgències.
 
-      El brot també ha afectat l'hospital: han ingressat tres pacients grans amb símptomes greus i han hagut d'obrir dues sales noves. També hi ha un pacient greu a l'UCI. Els protocols ja estaven preparats des de la tardor, i el quiròfan funciona amb normalitat perquè les operacions programades no s'han suspès.
+      El brot també ha afectat l'hospital: han ingressat tres pacients grans amb símptomes greus i han hagut d'obrir dues sales noves. També hi ha un pacient greu a l'UCI. Els protocols ja estaven preparats des de la tardor, i el quiròfan funciona amb normalitat: les operacions programades no s'han suspès.
 
-      De moment, el centre demana voluntaris per a la campanya de vacunació: tant com calgui, diuen, fins que el brot estigui controlat.
+      De moment, el centre demana voluntaris per a la campanya de vacunació, que durarà tant com calgui: fins que el brot estigui controlat.
     questions:
       - prompt: "Què va passar dilluns al centre de salut?"
         answer: "La sala d'espera era plena: més de quaranta pacients."
         distractors:
           - text: "Van obrir dues sales noves a l'hospital."
-            why: "Això va passar a l'hospital, més tard."
+            why: "Això va passar a l'hospital, no al centre de salut."
           - text: "Van vendre el doble de medicaments."
             why: "Això va passar a la farmàcia de guàrdia."
       - prompt: "Què cal fer per frenar el contagi, segons la doctora Miralles?"
@@ -905,7 +905,7 @@ items:
           - text: "Ha fet molta calor tota la setmana."
             why: "Al contrari: ha plogut i ha glaçat."
       - prompt: "Què diu el text de la setmana que ve?"
-        answer: "Es preveu menys feina a urgències i bon temps diumenge."
+        answer: "Que, si tot va bé, caldran menys llits a urgències."
         distractors:
           - text: "Caldran dues metgesses més al centre."
             why: "Això va ser dimarts passat."
@@ -930,7 +930,7 @@ items:
     point: participi-concordanca
     lesson: 5
     title: "Informe d'urgències"
-    text: "Ahir van arribar dues pacients que han estat {ateses|atesos|atesa} de seguida. Hem {passat|passades|passats} avís al metge de guàrdia i hem {preparat|preparades|preparats} dues sales noves. Les analítiques han estat {enviades|enviat|enviats} al laboratori."
+    text: "Aquest matí han arribat dues pacients que han estat {ateses|atesos|atesa} de seguida. Hem {passat|passades|passats} avís al metge de guàrdia i hem {preparat|preparades|preparats} dues sales noves. Les analítiques han estat {enviades|enviat|enviats} al laboratori."
     explanation: "Amb *ser* (*han estat*), el participi concorda: *ateses*, *enviades*. Amb *haver* i l'objecte darrere, no: *passat*, *preparat*."
 
   - id: b2-57-056
@@ -965,7 +965,7 @@ items:
     fix: "Si cal"
     fix_distractors:
       - text: "Si caldrien"
-        why: "Darrere de *si* no hi va mai el condicional."
+        why: "En una condició amb *si* no hi va el condicional, i sense subjecte plural el verb va en singular."
       - text: "Quan calen"
         why: "*Calen* necessita un subjecte plural; aquí no n'hi ha cap."
     explanation: "Sense un subjecte plural, la forma és *si cal*."

@@ -39,7 +39,7 @@ Quatre verbs molt habituals amb el present irregular.
 | ells | **diuen** | **coneixen** | **neixen** | **admeten** |
 
 - *Dir* canvia la vocal: **dic, dius, diu, diem, dieu, diuen**.
-- *Conèixer* perd la *i* en la primera persona: **conec**.
+- *Conèixer* fa la primera persona en *-c*: **conec**.
 - *Néixer* fa **neixo** i, en plural, **naixem, naixeu**.
 - *Admetre* és com *permetre*: **admeto, admets, admet**.
 
@@ -61,7 +61,7 @@ El passat perifràstic és *anar* + infinitiu: **vaig treure, vas seure**. El pe
 | coure | **cuit** | admetre | **admès** |
 
 - L'imperfet: **treia, seia, bevia, vivia, movia, coïa, queia, reia, creia, duia, deia, coneixia, naixia, admetia**.
-- El futur canvia la vocal en *treure*: **trauré**; els altres hi afegeixen la terminació: **seuré, beuré, viuré, mouré, couré, cauré, riuré, creuré, duré, diré, coneixeré, naixeré, admetré**.
+- El futur canvia la vocal en *treure* i *néixer*: **trauré, naixeré**; els altres hi afegeixen la terminació: **seuré, beuré, viuré, mouré, couré, cauré, riuré, creuré, duré, diré, coneixeré, admetré**.
 - L'imperatiu (*tu*): **treu, seu, beu, viu, mou, cou, cau, riu, creu, du, digues, coneix, neix, admet**.
 - El subjuntiu va darrere de *voler que*: **tregui, mogui, digui, admeti, conegui**.
 - L'imperatiu negatiu fa servir el subjuntiu: **no moguis** la taula.
@@ -71,7 +71,7 @@ El passat perifràstic és *anar* + infinitiu: **vaig treure, vas seure**. El pe
 <!-- point: compte-castella -->
 ## Compte amb el castellà: *mort, obert, cobert*
 
-En castellà aquests participis són «morido, abierto, cubierto». En català són irregulars i s'han de memoritzar.
+Aquests verbs en *-ir* no fan el participi en *-it* com *dormir* (*dormit*). Són irregulars, com en castellà «muerto, abierto, cubierto», i s'han de memoritzar.
 
 > Les plantes **s'han mort**; el manyà **ha obert** el pany.
 
@@ -81,13 +81,13 @@ En castellà aquests participis són «morido, abierto, cubierto». En català s
 - *Oferir* fa **ofert**: ens **han ofert** un pis més barat.
 - *Admetre* fa **admès**: **he admès** l'error.
 
-> **Compte!** ~~Morit, obrit, cobrit, oferit, admetit~~ no existeixen → **mort, obert, cobert, ofert, admès**.
+> **Compte!** ~~Morit, obrit, cobrit, admetit~~ no existeixen → **mort, obert, cobert, admès**.
 
 <!-- point: expressions -->
 ## Expressions amb *fer* i *caure*
 
 - **fer dissabte**: netejar la casa a fons. *Diumenge fem dissabte al pis nou.*
-- **fer cas**: obeir o parar atenció. *Feu cas al metge i no pugeu res més.*
+- **fer cas**: obeir o parar atenció. *Feu cas al metge i no carregueu pes.*
 - **fer-se enrere**: retirar-se d'un acord. *La Marta es va fer enrere: el pis tenia humitats.*
 - **caure bé (algú)**: agradar, fer bona impressió. *El veí nou m'ha caigut molt bé.*
 

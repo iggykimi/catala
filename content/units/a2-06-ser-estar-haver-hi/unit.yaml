@@ -105,7 +105,7 @@ vocabulary:
     definition: "Habitació amb vàters en un lloc públic."
     example: "Els lavabos són al final del passadís."
   - word: "l'oficina"
-    definition: "Pis on treballa gent amb ordinadors i papers."
+    definition: "Lloc on treballa gent amb ordinadors i papers."
     example: "L'oficina és a deu minuts de casa."
   - word: "el metro"
     definition: "Tren que va per sota de la ciutat."
@@ -279,10 +279,10 @@ items:
     instruction: "Relaciona cada pregunta amb la seva resposta."
     pairs:
       - ["On és la farmàcia?", "És al carrer Major."]
-      - ["On és l'estació?", "És a tocar de la plaça."]
       - ["On són els lavabos?", "Són al final del passadís."]
-      - ["On és la biblioteca?", "És davant per davant del parc."]
-    explanation: "Per dir on és un lloc concret fem servir *ser*: *és al carrer Major*, *són al final del passadís*."
+      - ["On sou, vosaltres?", "Som a l'estació."]
+      - ["On ets, ara?", "Soc a la feina."]
+    explanation: "Per dir on és algú o alguna cosa fem servir *ser*, i el verb concorda: *és, són, som, soc*."
 
   - id: a2-06-012
     type: inline-choice
@@ -312,9 +312,9 @@ items:
     lesson: 2
     prompt: "Avui ___ molt cansat: he treballat deu hores."
     hint: "*ser* o *estar*, jo"
-    answers: ["Estic", "Soc"]
+    answers: ["estic", "soc"]
     wrong_answers:
-      - text: "Tinc"
+      - text: "tinc"
         why: "Amb *cansat* no fem servir *tenir*: *estic cansat* o *soc cansat*."
     grading: tolerant
     explanation: "Amb *cansat* pots dir *estic* o *soc*: les dues formes són correctes."
@@ -455,7 +455,7 @@ items:
     point: ser-localitzacio
     lesson: 2
     title: "Un missatge de la Carla"
-    text: "Hola! Jo {soc|és} a casa de la meva mare. La festa {és|són} a Girona: els meus pares {són|és} allà tot el cap de setmana. I tu, {ets|són} a Barcelona? Fins aviat!"
+    text: "Hola! Jo {soc|és} a casa de la meva germana. La festa {és|són} a Girona: els meus pares {són|és} allà tot el cap de setmana. I tu, {ets|són} a Barcelona? Fins aviat!"
     explanation: "La localització es fa amb *ser*, i el verb concorda: *jo soc*, *la festa és*, *els pares són*, *tu ets*."
 
   - id: a2-06-026
@@ -532,14 +532,14 @@ items:
     lesson: 3
     prompt: "En aquest carrer ___ moltes botigues de roba."
     hint: "*haver-hi*, present"
-    answers: ["hi ha"]
+    answers: ["hi ha", "hi han"]
     wrong_answers:
       - text: "han"
         why: "*Haver-hi* porta sempre el pronom *hi*: *hi ha*."
       - text: "són"
         why: "Per dir que una cosa existeix fem servir *haver-hi*: *hi ha*."
     grading: tolerant
-    explanation: "Per dir que una cosa existeix: *hi ha moltes botigues*. *Hi* no es pot ometre."
+    explanation: "Per dir que una cosa existeix: *hi ha moltes botigues*. *Hi* no es pot ometre. En registre informal també es diu *hi han*."
 
   - id: a2-06-032
     type: fill
@@ -590,7 +590,7 @@ items:
     lesson: 3
     sentence: "En Pau és a casa dels avis fins diumenge."
     no_error: true
-    explanation: "La frase és correcta: en català estàndard la localització es fa amb *ser*, *és a casa*."
+    explanation: "La frase és correcta: per a la localització, la forma preferida és *ser*, *és a casa*."
 
   - id: a2-06-036
     type: find-error
@@ -651,6 +651,7 @@ items:
     source: "[[En Pau]] [[està content]] amb el pis."
     answers:
       - "La Laia està contenta amb el pis."
+      - "La Laia és contenta amb el pis."
     wrong_answers:
       - text: "La Laia està content amb el pis."
         why: "«La Laia» és femení: *contenta*."
@@ -862,8 +863,8 @@ items:
         distractors:
           - text: "Amb bus, fins al semàfor."
             why: "El text diu que hi va a peu."
-          - text: "A peu, per la plaça i el carrer Major."
-            why: "No passa per la plaça: va tot recte pel carrer Major."
+          - text: "A peu, tot recte i després a l'esquerra."
+            why: "Al semàfor gira a mà dreta, no a l'esquerra."
       - prompt: "Què hi ha al carrer de la Fàtima?"
         answer: "Botigues de llibres i de fruita, i un bar."
         distractors:
@@ -918,14 +919,14 @@ items:
     type: choice
     point: expressions
     lesson: 5
-    prompt: "—Perdoni, on és l'estació? —Seguiu ___ i la trobareu."
+    prompt: "—Perdoni, on és l'estació? —Segueixi ___ i la trobarà."
     answer: "tot recte"
     distractors:
       - text: "a tocar"
-        why: "*A tocar* vol dir a prop, però aquí cal dir com hi van: *tot recte*."
+        why: "*A tocar* vol dir a prop, però aquí cal dir com s'hi va: *tot recte*."
       - text: "davant per davant"
         why: "*Davant per davant* necessita un lloc de referència: *davant per davant de l'escola*."
-    explanation: "*Tot recte* diu com hi van: sense girar."
+    explanation: "*Tot recte* diu com s'hi va: sense girar."
 
   - id: a2-06-058
     type: choice

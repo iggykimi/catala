@@ -59,7 +59,7 @@ Quatre perífrasis situen l'acció en el temps: si acaba de passar, si passarà 
 - *Seguir* equival a *continuar*: **segueix tossint** = **continua tossint**.
 - Aquí fem servir els gerundis més habituals; la formació completa es practica a b2-42.
 
-> **Compte!** Després d'*estar* i *continuar* no hi ha cap preposició: ~~està a esperar~~ → **està esperant**; ~~continua a tossir~~ → **continua tossint**. I cal el gerundi, no l'infinitiu: ~~està esperar~~ → **està esperant**.
+> **Compte!** Després d'*estar* i *continuar* no hi ha cap preposició: ~~està d'esperar~~ → **està esperant**; ~~continua de tossir~~ → **continua tossint**. I cal el gerundi, no l'infinitiu: ~~està esperar~~ → **està esperant**.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: *deu ser* és probabilitat

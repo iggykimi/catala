@@ -16,9 +16,9 @@ Per parlar de demà fem servir el futur.
 
 - Les terminacions són iguals per a tots els verbs: **-é, -às, -à, -em, -eu, -an**.
 - Alguns verbs canvien l'arrel: **faré** (*fer*), **aniré** (*anar*), **seré** (*ser*), **tindré** (*tenir*), **vindré** (*venir*), **sabré** (*saber*), **podré** (*poder*), **voldré** (*voler*), **hauré** (*haver*), **caldrà** (*caldre*).
-- Amb *demà*, *dissabte* o *l'any que ve*, el verb va en futur.
+- Amb *demà*, *dissabte* o *l'any que ve*, fem servir el futur. Per a un pla segur també es fa servir el present: *Demà sortim a les vuit*.
 
-> **Compte!** ~~Demà plou~~ → **Demà plourà**.
+> **Compte!** ~~Demà ferà sol~~ → Demà **farà** sol.
 
 <!-- point: condicional-cortesia -->
 ## El condicional de cortesia
@@ -42,7 +42,7 @@ Per demanar amb educació fem servir el condicional.
 - **Podries** o **podria** + infinitiu: **Em podries** dir l'hora?
 - **M'agradaria** + infinitiu: **M'agradaria** quedar-me a casa.
 
-> **Compte!** ~~Vull un cafè, ja~~ → **Voldria** un cafè, si us plau.
+> **Compte!** *Vull un cafè* és correcte, però sona brusc. Per demanar, millor: **Voldria** un cafè, si us plau.
 
 <!-- point: plans-pensar-anar -->
 ## Els plans: pensar i anar a + infinitiu
@@ -54,7 +54,7 @@ Per parlar d'un pla fem servir **pensar + infinitiu**.
 - El verb *pensar* va conjugat: **Penso** quedar-me a casa. **Pensem** sortir d'hora.
 - Darrere va l'infinitiu, sense preposició.
 - El pla també es pot dir amb el futur: *Penso anar a la platja* = *Aniré a la platja*.
-- A la conversa també pots sentir *anar a* + infinitiu per a un pla proper: *Demà anem a dinar amb els avis*. S'entén, però en aquesta unitat practiquem el futur.
+- A la conversa també pots sentir *anar a* + infinitiu per a un pla proper: *Demà anem a dinar amb els avis*. En aquesta unitat practiquem *pensar* + infinitiu i el futur.
 
 > **Compte!** ~~Penso aniré~~ → **Penso** anar o **Aniré**.
 

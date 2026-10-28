@@ -54,13 +54,13 @@ Algunes expressions es construeixen amb un verb diferent del castellà. S'han d'
 
 - **prendre el pèl (a algú)**: fer-li creure una mentida per riure'n. *No em prenguis el pèl!*
 - Amb les emocions, el verb és **fer**, no *donar*: **fer por, fer pena, fer ràbia, fer vergonya, fer mandra**. *Em fa ràbia que sempre arribi tard.*
-- **tenir raó**: sense article. *Tens raó: hauríem de sortir abans.*
+- **tenir raó**: encertar. *Tens raó: hauríem de sortir abans.*
 - **és igual** o **tant se val**: per dir que una cosa no importa. *Trieu vosaltres: m'és igual.*
 - **fer els ulls grossos**: fer veure que no es veu una falta. *El professor va fer els ulls grossos amb el retard.*
 
 *Donar* sí que és correcte en altres expressions: **donar suport, donar ànims**. *Tota la família li dona suport.*
 
-> **Compte!** ~~tomar el pèl~~ → **prendre el pèl**; ~~em dona por~~ → **em fa por**; ~~tens la raó~~ → **tens raó**; ~~dona igual~~ → **és igual**.
+> **Compte!** ~~tomar el pèl~~ → **prendre el pèl**; ~~em dona por~~ → **em fa por**; ~~dona igual~~ → **és igual**.
 
 <!-- point: comprensio -->
 ## Llegir i entendre

@@ -153,8 +153,8 @@ items:
     prompt: "No crec que en Pau ___ demà a la reunió."
     answer: "vingui"
     distractors:
-      - text: "vindrà"
-        why: "Amb *no crec que* expressem un dubte: cal el subjuntiu, *vingui*."
+      - text: "venga"
+        why: "*Venga* és la forma castellana. De *venir*, el subjuntiu és *vingui*."
       - text: "vinguin"
         why: "El subjecte és «en Pau», singular: *vingui*."
     explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *vingui*."
@@ -166,10 +166,10 @@ items:
     prompt: "Dubto que la Laia ___ la proposta."
     answer: "accepti"
     distractors:
-      - text: "accepta"
-        why: "*Dubto que* expressa un dubte i demana subjuntiu: *accepti*."
-      - text: "acceptarà"
-        why: "Amb *dubto que* el verb va en subjuntiu, no en futur: *accepti*."
+      - text: "acceptin"
+        why: "El subjecte és «la Laia», singular: *accepti*."
+      - text: "acceptis"
+        why: "*Acceptis* és de «tu»; el subjecte és «la Laia»: *accepti*."
     explanation: "«Dubto que» expressa un dubte: el verb va en subjuntiu, *accepti*."
 
   - id: b1-19-004
@@ -216,8 +216,8 @@ items:
     point: creure-dubtar
     lesson: 1
     title: "Abans de la reunió"
-    text: "—Crec que la reunió {serà|sigui} curta. —Doncs jo no crec que {sigui|és} curta: tenim tres temes. —Dubto que {puguem|podem} parlar de tot. —I jo dubto que en Pau {vingui|vindrà}."
-    explanation: "«Crec que» demana indicatiu (*serà*). «No crec que» i «dubto que» demanen subjuntiu (*sigui*, *puguem*, *vingui*)."
+    text: "—Crec que la reunió {serà|sigui} curta. —Doncs jo no crec que {sigui|siguin} curta: tenim tres temes. —Dubto que nosaltres {puguem|pugui} parlar de tot. —I jo dubto que en Pau {vingui|venga}."
+    explanation: "«Crec que» demana indicatiu (*serà*). Amb «no crec que» i «dubto que» va el subjuntiu, amb la persona del subjecte: *sigui* (la reunió), *puguem* (nosaltres), *vingui* (en Pau)."
 
   - id: b1-19-008
     type: match
@@ -235,14 +235,12 @@ items:
     type: fill
     point: creure-dubtar
     lesson: 1
-    prompt: "—Aquesta proposta solucionarà el soroll? —No crec que ho ___."
+    prompt: "—Aquesta proposta solucionarà el problema del soroll? —No crec que el ___."
     hint: "solucionar, present de subjuntiu"
     answers: ["solucioni"]
     wrong_answers:
-      - text: "soluciona"
-        why: "«No crec que» demana subjuntiu: *solucioni*."
-      - text: "solucionarà"
-        why: "Amb *no crec que* cal el subjuntiu, no el futur: *solucioni*."
+      - text: "solucionin"
+        why: "El subjecte és «aquesta proposta», singular: *solucioni*."
     grading: tolerant
     explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *solucioni*."
 
@@ -280,9 +278,10 @@ items:
     lesson: 1
     cue: "Digues que no creus que el canvi d'horari agradi als botiguers."
     chunks: ["no", "crec", "que", "el", "canvi", "d'horari", "agradi", "als", "botiguers"]
-    extra: ["agrada"]
+    extra: ["agradin"]
     answers:
       - "No crec que el canvi d'horari agradi als botiguers."
+      - "No crec que agradi als botiguers el canvi d'horari."
     explanation: "«No crec que» demana subjuntiu: *agradi*."
 
   - id: b1-19-013
@@ -320,10 +319,8 @@ items:
     hint: "ser, present de subjuntiu"
     answers: ["sigui"]
     wrong_answers:
-      - text: "és"
-        why: "«No em sembla que» expressa un dubte: cal el subjuntiu, *sigui*."
-      - text: "serà"
-        why: "Amb *no em sembla que* cal el subjuntiu: *sigui*."
+      - text: "siguin"
+        why: "El subjecte és «aquesta enquesta», singular: *sigui*."
     grading: tolerant
     explanation: "«No em sembla que» expressa un dubte: el verb va en subjuntiu, *sigui*."
 
@@ -363,22 +360,22 @@ items:
     lesson: 2
     prompt: "No crec que l'Ibrahim ___ la notícia."
     hint: "saber, present de subjuntiu"
-    answers: ["sàpiga"]
+    answers: ["sàpiga", "sàpigui"]
     wrong_answers:
-      - text: "sap"
-        why: "«No crec que» demana subjuntiu: *sàpiga*."
-      - text: "sabrà"
-        why: "Amb *no crec que* cal el subjuntiu, no el futur: *sàpiga*."
+      - text: "sepa"
+        why: "*Sepa* és la forma castellana. De *saber*, el subjuntiu és *sàpiga* (o *sàpigui*)."
+      - text: "sàpiguen"
+        why: "El subjecte és «l'Ibrahim», singular: *sàpiga*."
     grading: tolerant
-    explanation: "«No crec que» demana subjuntiu. De *saber*: *sàpiga*."
+    explanation: "«No crec que» demana subjuntiu. De *saber*: *sàpiga* o *sàpigui*."
 
   - id: b1-19-019
     type: order
     point: creure-dubtar
     lesson: 2
-    cue: "Digues que dubtes que hi hagi prou temps per a tot."
+    cue: "Digues que dubtes que hi hagi prou temps."
     chunks: ["dubto", "que", "hi", "hagi", "prou", "temps"]
-    extra: ["ha"]
+    extra: ["hagis"]
     answers:
       - "Dubto que hi hagi prou temps."
     explanation: "«Dubto que» demana subjuntiu: *hi hagi*."
@@ -405,6 +402,7 @@ items:
     answers:
       - "És possible que demà els transports facin vaga."
       - "És possible que els transports facin vaga demà."
+      - "Demà és possible que els transports facin vaga."
     explanation: "De *fer*, la tercera persona del plural del subjuntiu és *facin*."
 
   - id: b1-19-022
@@ -427,10 +425,10 @@ items:
     prompt: "No crec que el titular ___ tota la veritat."
     answer: "digui"
     distractors:
-      - text: "diu"
-        why: "«No crec que» demana subjuntiu: *digui*."
-      - text: "dirà"
-        why: "Amb *no crec que* cal el subjuntiu, no el futur: *digui*."
+      - text: "diguin"
+        why: "El subjecte és «el titular», singular: *digui*."
+      - text: "diguis"
+        why: "*Diguis* és de «tu»; el subjecte és «el titular»: *digui*."
     explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *digui*."
 
   - id: b1-19-024
@@ -466,10 +464,10 @@ items:
     prompt: "Dubto que l'Arnau i en Pau ___ venir."
     answer: "puguin"
     distractors:
-      - text: "poden"
-        why: "«Dubto que» demana subjuntiu. De *poder*: *puguin*."
-      - text: "podran"
-        why: "Amb *dubto que* cal el subjuntiu, no el futur: *puguin*."
+      - text: "pugui"
+        why: "El subjecte són dues persones, «l'Arnau i en Pau»: *puguin*."
+      - text: "puguem"
+        why: "*Puguem* és de «nosaltres»; el subjecte és «l'Arnau i en Pau»: *puguin*."
     explanation: "«Dubto que» demana subjuntiu. De *poder*: *puguin*."
 
   # ---------------- Lliçó 3 ----------------
@@ -477,29 +475,29 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "No crec que el diari publicarà la notícia demà."
-    error: "publicarà"
-    fix: "publiqui"
+    sentence: "Creo que el diari publicarà la notícia demà."
+    error: "Creo"
+    fix: "Crec"
     fix_distractors:
-      - text: "publica"
-        why: "Amb *no crec que* cal el subjuntiu: *publiqui*."
-      - text: "publicaria"
-        why: "El condicional no va darrere de *no crec que*: *publiqui*."
-    explanation: "«No crec que» demana subjuntiu, també per a un fet futur: *publiqui*."
+      - text: "Crei"
+        why: "*Crei* no és cap forma de *creure*. La primera persona del present és *crec*."
+      - text: "Creu"
+        why: "*Creu* és la forma d'«ell» o «ella». Per a «jo»: *crec*."
+    explanation: "*Creo* és castellà. La primera persona de *creure* és *crec*: *crec que el diari publicarà la notícia*."
 
   - id: b1-19-028
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "És possible que el trànsit empitjorarà amb les obres."
-    error: "empitjorarà"
-    fix: "empitjori"
+    sentence: "Crec que el trànsit empitjori amb les obres."
+    error: "empitjori"
+    fix: "empitjorarà"
     fix_distractors:
-      - text: "empitjora"
-        why: "«És possible que» demana subjuntiu: *empitjori*."
-      - text: "empitjoraria"
-        why: "El condicional no va darrere de *és possible que*: *empitjori*."
-    explanation: "«És possible que» demana subjuntiu, també per a un fet futur: *empitjori*."
+      - text: "empitjoris"
+        why: "*Empitjoris* és subjuntiu i de «tu». Amb *crec que* afirmem: indicatiu, *empitjorarà*."
+      - text: "empitjorin"
+        why: "*Empitjorin* és subjuntiu i plural. Amb *crec que* afirmem: indicatiu, *empitjorarà*."
+    explanation: "«Crec que» afirma una opinió: el verb va en indicatiu, mai en subjuntiu. Per a un fet futur, *empitjorarà*."
 
   - id: b1-19-029
     type: find-error
@@ -523,11 +521,11 @@ items:
     error: "fagi"
     fix: "faci"
     fix_distractors:
-      - text: "fa"
-        why: "«Dubto que» demana subjuntiu: *faci*."
-      - text: "farà"
-        why: "Amb *dubto que* cal el subjuntiu, no el futur: *faci*."
-    explanation: "De *fer*, el subjuntiu és *faci*. *Fagi* no existeix: és una forma feta sobre el castellà «haga»."
+      - text: "facin"
+        why: "El subjecte és «la Fàtima», singular: *faci*."
+      - text: "facis"
+        why: "*Facis* és de «tu»; el subjecte és «la Fàtima»: *faci*."
+    explanation: "De *fer*, el subjuntiu és *faci*. *Fagi* és una forma col·loquial que la norma no admet."
 
   - id: b1-19-031
     type: find-error
@@ -568,10 +566,8 @@ items:
     hint: "haver-hi, present de subjuntiu"
     answers: ["hagi"]
     wrong_answers:
-      - text: "ha"
-        why: "«No crec que» demana subjuntiu: *hi hagi*."
-      - text: "haurà"
-        why: "Amb *no crec que* cal el subjuntiu, encara que sigui futur: *hi hagi*."
+      - text: "hagis"
+        why: "*Hagis* és de «tu». *Haver-hi* va sempre en tercera persona: *hi hagi*."
     grading: tolerant
     explanation: "«No crec que» demana subjuntiu. D'*haver-hi*: *hi hagi*."
 
@@ -583,12 +579,12 @@ items:
     hint: "venir, present de subjuntiu"
     answers: ["vingui"]
     wrong_answers:
-      - text: "vengui"
-        why: "De *venir*, el subjuntiu és *vingui*. *Vengui* és una forma feta sobre el castellà «venga»."
-      - text: "vindrà"
-        why: "Amb *dubto que* cal el subjuntiu, no el futur: *vingui*."
+      - text: "venga"
+        why: "De *venir*, el subjuntiu és *vingui*. *Venga* és la forma castellana."
+      - text: "vinguis"
+        why: "*Vinguis* és de «tu»; el subjecte és «la Carla»: *vingui*."
     grading: tolerant
-    explanation: "«Dubto que» demana subjuntiu. De *venir*: *vingui*, no *vengui*."
+    explanation: "Amb «dubto que» va el subjuntiu. De *venir*: *vingui*, no *venga*."
 
   - id: b1-19-036
     type: fill
@@ -608,13 +604,13 @@ items:
     point: formes-subjuntiu
     lesson: 3
     prompt: "És necessari que vosaltres ___ d'acord abans de votar."
-    answer: "hi estigueu"
+    answer: "estigueu"
     distractors:
-      - text: "hi esteu"
-        why: "«És necessari que» demana subjuntiu. D'*estar*: *hi estigueu*."
-      - text: "hi estareu"
-        why: "Amb *és necessari que* cal el subjuntiu, no el futur: *hi estigueu*."
-    explanation: "«És necessari que» demana subjuntiu. D'*estar*: *hi estigueu*."
+      - text: "esteu"
+        why: "«És necessari que» demana subjuntiu. *Estar* fa *estigueu*."
+      - text: "estareu"
+        why: "Amb *és necessari que* cal el subjuntiu, no el futur: *estigueu*."
+    explanation: "«És necessari que» demana subjuntiu. *Estar* fa *estigueu*."
 
   - id: b1-19-038
     type: choice
@@ -623,10 +619,10 @@ items:
     prompt: "Quina frase és correcta?"
     answer: "No crec que sigui una bona idea."
     distractors:
-      - text: "No crec que és una bona idea."
-        why: "Amb *no crec que* cal el subjuntiu: *sigui*."
-      - text: "No crec que serà una bona idea."
-        why: "Amb *no crec que* cal el subjuntiu, encara que sigui futur: *sigui*."
+      - text: "No creo que sigui una bona idea."
+        why: "*Creo* és castellà. La primera persona de *creure* és *crec*."
+      - text: "No crec que siguin una bona idea."
+        why: "El subjecte és singular («una bona idea»): *sigui*."
     explanation: "«No crec que» expressa un dubte: el verb va en subjuntiu, *sigui*."
 
   - id: b1-19-039
@@ -636,10 +632,10 @@ items:
     prompt: "Quina frase és correcta?"
     answer: "Dubto que vulguin canviar l'horari."
     distractors:
-      - text: "Dubto que volen canviar l'horari."
-        why: "«Dubto que» demana subjuntiu. De *voler*: *vulguin*."
-      - text: "Dubto que voldran canviar l'horari."
-        why: "Amb *dubto que* cal el subjuntiu, no el futur: *vulguin*."
+      - text: "Dubto que volguin canviar l'horari."
+        why: "*Volguin* no existeix. De *voler*, el subjuntiu és *vulguin*."
+      - text: "Dubto que quieran canviar l'horari."
+        why: "*Quieran* és castellà. De *voler*, el subjuntiu és *vulguin*."
     explanation: "«Dubto que» demana subjuntiu. De *voler*: *vulguin*."
 
   # ---------------- Lliçó 4 ----------------
@@ -647,27 +643,27 @@ items:
     type: transform
     point: creure-dubtar
     lesson: 4
-    instruction: "Canvia «crec» per «no crec» i fes els canvis necessaris."
+    instruction: "Canvia «crec» per «no crec» i posa el verb en subjuntiu."
     source: "Crec que el nou parc [[agrada]] als veïns."
     answers: ["No crec que el nou parc agradi als veïns."]
     wrong_answers:
-      - text: "No crec que el nou parc agrada als veïns."
-        why: "Amb *no crec que* cal el subjuntiu: *agradi*."
+      - text: "No crec que el nou parc agradin als veïns."
+        why: "El subjecte és «el nou parc», singular: *agradi*."
     grading: tolerant
-    explanation: "«No crec que» demana subjuntiu: *agradi*."
+    explanation: "Amb «no crec que», la forma preferida és el subjuntiu: *agradi*."
 
   - id: b1-19-041
     type: transform
     point: creure-dubtar
     lesson: 4
-    instruction: "Canvia «no dubto» per «dubto» i fes els canvis necessaris."
+    instruction: "Canvia «no dubto» per «dubto» i posa el verb en subjuntiu."
     source: "No dubto que [[vindràs]] a la festa."
     answers: ["Dubto que vinguis a la festa."]
     wrong_answers:
-      - text: "Dubto que vindràs a la festa."
-        why: "«Dubto que» demana subjuntiu: *vinguis*."
+      - text: "Dubto que vinguin a la festa."
+        why: "La frase parla de «tu» («vindràs»): *vinguis*."
     grading: tolerant
-    explanation: "«Dubto que» demana subjuntiu: *vinguis*. «No dubto que» és una afirmació i porta indicatiu."
+    explanation: "Amb «dubto que», la forma preferida és el subjuntiu: *vinguis*. «No dubto que» és una afirmació i porta indicatiu."
 
   - id: b1-19-042
     type: transform
@@ -728,13 +724,13 @@ items:
     point: compte-castella
     lesson: 4
     instruction: "Corregeix la frase."
-    source: "No crec que [[tenen]] prou motius."
+    source: "[[No creo que]] tinguin prou motius."
     answers: ["No crec que tinguin prou motius."]
     wrong_answers:
-      - text: "No crec que tindran prou motius."
-        why: "Amb *no crec que* cal el present de subjuntiu: *tinguin*."
+      - text: "No crei que tinguin prou motius."
+        why: "*Crei* no és cap forma de *creure*. La primera persona del present és *crec*."
     grading: tolerant
-    explanation: "«No crec que» demana subjuntiu. De *tenir*: *tinguin*."
+    explanation: "*Creo* és castellà. La primera persona de *creure* és *crec*: *no crec que tinguin prou motius*."
 
   - id: b1-19-047
     type: fill
@@ -744,10 +740,10 @@ items:
     hint: "tenir, present de subjuntiu"
     answers: ["tingui"]
     wrong_answers:
-      - text: "tinc"
-        why: "«Dubto que» demana subjuntiu. De *tenir*: *tingui*."
-      - text: "tindré"
-        why: "Amb *dubto que* cal el subjuntiu, no el futur: *tingui*."
+      - text: "tenga"
+        why: "*Tenga* és la forma castellana. De *tenir*, el subjuntiu és *tingui*."
+      - text: "tinguis"
+        why: "*Tinguis* és de «tu»; parles de tu mateix: *tingui*."
     grading: tolerant
     explanation: "«Dubto que» demana subjuntiu. De *tenir*: *tingui*."
 
@@ -772,7 +768,7 @@ items:
     lesson: 4
     cue: "Digues que dubtes que el diari digui la veritat."
     chunks: ["dubto", "que", "el", "diari", "digui", "la", "veritat"]
-    extra: ["diu"]
+    extra: ["diguin"]
     answers:
       - "Dubto que el diari digui la veritat."
     explanation: "De *dir*, el subjuntiu és *digui*."
@@ -783,7 +779,7 @@ items:
     lesson: 4
     cue: "Digues que no creus que hi vagi ningú."
     chunks: ["no", "crec", "que", "hi", "vagi", "ningú"]
-    extra: ["va"]
+    extra: ["vagin"]
     answers:
       - "No crec que hi vagi ningú."
       - "No crec que ningú hi vagi."
@@ -830,10 +826,10 @@ items:
 
       La Fàtima, mestra de l'escola del barri, va dir que li agradava la proposta, però que hi veia un inconvenient: calia pensar en els veïns que treballen de nit i dormen de dia. «És important que tothom pugui descansar», va afegir.
 
-      Al final, els regidors van prometre estudiar les dues propostes i tornar al barri d'aquí a un mes amb una resposta. De moment no hi ha cap decisió. La pròxima reunió serà el primer dimarts de cada mes, com sempre.
+      Al final, els regidors van prometre estudiar les dues propostes i tornar al barri d'aquí a un mes amb una resposta. De moment no hi ha cap decisió. Mentrestant, els veïns continuaran reunint-se el primer dimarts de cada mes, com sempre.
     questions:
       - prompt: "Per què no pot dormir la Núria?"
-        answer: "Pel soroll del carrer on viu."
+        answer: "Perquè hi ha massa soroll."
         distractors:
           - text: "Pel trànsit dels caps de setmana."
             why: "El trànsit és l'opinió d'en Jordi, no de la Núria."
@@ -867,8 +863,8 @@ items:
     point: creure-dubtar
     lesson: 5
     title: "Un missatge de la Carla"
-    text: "Hola! Crec que {tinc|tingui} una bona notícia: he trobat un local per a l'assemblea. No crec que {sigui|és} car, però dubto que {puguem|podem} pagar-lo sols. Em sembla que {caldrà|calgui} demanar ajuda a l'ajuntament. Què en penses?"
-    explanation: "«Crec que» i «em sembla que» demanen indicatiu (*tinc*, *caldrà*). «No crec que» i «dubto que» demanen subjuntiu (*sigui*, *puguem*)."
+    text: "Hola! Crec que {tinc|tingui} una bona notícia: he trobat un local per a l'assemblea. No crec que el lloguer {sigui|siguin} car, però dubto que nosaltres {puguem|pugui} pagar-lo sols. Em sembla que {caldrà|calgui} demanar ajuda a l'ajuntament. Què en penses?"
+    explanation: "«Crec que» i «em sembla que» demanen indicatiu (*tinc*, *caldrà*). Amb «no crec que» i «dubto que» va el subjuntiu, amb la persona del subjecte: *sigui* (el lloguer), *puguem* (nosaltres)."
 
   - id: b1-19-055
     type: inline-choice
@@ -882,23 +878,23 @@ items:
     type: inline-choice
     point: compte-castella
     lesson: 5
-    title: "Dos titulars"
-    text: "El debat d'ahir va ser intens. En Pau va dir: «No crec que el barri {necessiti|necessita} més hotels». La Laia va respondre: «Dubto que els turistes {sàpiguen|saben} on aparquen». Tots dos van estar d'acord en una cosa: {creuen|creguin} que el debat continuarà."
-    explanation: "«No crec que» i «dubto que» demanen subjuntiu (*necessiti*, *sàpiguen*). En afirmatiu, *creure* va en indicatiu: *creuen*."
+    title: "Un debat intens"
+    text: "El debat d'ahir va ser intens. En Pau va dir: «No crec que el barri {necessiti|necessitin} més hotels». La Laia va respondre: «Dubto que els turistes {sàpiguen|sàpiga} on poden aparcar». Tots dos van estar d'acord en una cosa: {creuen|creguin} que el debat continuarà."
+    explanation: "Amb «no crec que» i «dubto que» va el subjuntiu, concordat amb el subjecte: *necessiti* (el barri), *sàpiguen* (els turistes). En afirmatiu, *creure* va en indicatiu: *creuen*."
 
   - id: b1-19-057
     type: find-error
     point: compte-castella
     lesson: 5
-    sentence: "Dubto que el nou horari soluciona el problema del soroll."
-    error: "soluciona"
+    sentence: "Dubto que el nou horari solucionin el problema del soroll."
+    error: "solucionin"
     fix: "solucioni"
     fix_distractors:
-      - text: "solucionarà"
-        why: "Amb *dubto que* cal el subjuntiu, no el futur: *solucioni*."
-      - text: "solucionaria"
-        why: "El condicional no va darrere de *dubto que*: *solucioni*."
-    explanation: "«Dubto que» demana subjuntiu: *solucioni*."
+      - text: "solucionis"
+        why: "*Solucionis* és de «tu»; el subjecte és «el nou horari»: *solucioni*."
+      - text: "solucionem"
+        why: "*Solucionem* és de «nosaltres»; el subjecte és «el nou horari»: *solucioni*."
+    explanation: "El subjecte és «el nou horari», singular: amb «dubto que», *solucioni*."
 
   - id: b1-19-058
     type: find-error
@@ -912,7 +908,7 @@ items:
         why: "«És millor que» demana subjuntiu: *vagis*."
       - text: "aniràs"
         why: "Amb *és millor que* cal el subjuntiu, no el futur: *vagis*."
-    explanation: "D'*anar*, el subjuntiu és *vagis*. *Vaigis* no existeix: és una forma feta sobre el castellà «vayas»."
+    explanation: "D'*anar*, el subjuntiu és *vagis*. *Vaigis* és una forma col·loquial que la norma no admet."
 
   - id: b1-19-059
     type: choice
@@ -982,13 +978,13 @@ items:
     type: transform
     point: creure-dubtar
     lesson: 5
-    instruction: "Comença amb «Dubto que» i fes els canvis necessaris."
-    source: "La solució [[és]] tan fàcil."
+    instruction: "Comença amb «Dubto que» i posa el verb en subjuntiu."
+    source: "La solució [[és]] tan fàcil com sembla."
     start: "Dubto que"
-    answers: ["Dubto que la solució sigui tan fàcil."]
+    answers: ["Dubto que la solució sigui tan fàcil com sembla."]
     wrong_answers:
-      - text: "Dubto que la solució és tan fàcil."
-        why: "«Dubto que» demana subjuntiu: *sigui*."
+      - text: "Dubto que la solució siguin tan fàcil com sembla."
+        why: "El subjecte és «la solució», singular: *sigui*."
     grading: tolerant
     explanation: "«Dubto que» demana subjuntiu. De *ser*: *sigui*."
 

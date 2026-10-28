@@ -16,7 +16,7 @@ Per donar la teva opinió tens diverses fòrmules: *al meu parer*, *des del meu 
 - **Més aviat** corregeix una idea: *no és un problema de diners; més aviat, d'organització*.
 - **En general** parla d'allò habitual: *en general, els debats s'allarguen*.
 
-> **Compte!** ~~Crec que tingui raó~~ → **Crec que té raó**. Amb *crec que* en afirmatiu va l'indicatiu; el subjuntiu només apareix amb la negació: **No crec que tingui raó**.
+> **Compte!** ~~Crec que tingui raó~~ → **Crec que té raó**. Amb *crec que* en afirmatiu va l'indicatiu; amb la negació, la forma preferida és el subjuntiu: **No crec que tingui raó**.
 
 <!-- point: acord-desacord -->
 ## Acord i desacord
@@ -25,11 +25,11 @@ Per mostrar acord: *hi estic (totalment) d'acord*, *tens (tota) la raó*, *et do
 
 > —Cal escoltar els veïns. —**Hi estic totalment d'acord**.
 
-- Amb una persona: **estic d'acord amb tu** (sense *hi*). Amb *hi*, el complement ja hi és: **hi estic d'acord** (= amb tu, amb això).
+- Si dius la persona, no cal *hi*: **estic d'acord amb tu**. Si no la dius, *hi* la substitueix: **hi estic d'acord** (= amb tu, amb això).
 - Per discrepar amb educació: **respecto la teva opinió, però…**, **ho veig diferent**, **no ho veig així**.
 - El desacord total: **no hi estic gens d'acord**.
 
-> **Compte!** ~~No hi estic gens d'acord amb tu~~ → **No hi estic gens d'acord**. *Hi* ja substitueix «amb tu» i no es pot repetir.
+> **Compte!** En la conversa se sent *no hi estic gens d'acord amb tu*, amb *hi* i «amb tu» alhora. En un text acurat, tria una de les dues formes: **No estic gens d'acord amb tu** o **No hi estic gens d'acord**.
 
 <!-- point: contraargumentar -->
 ## Contraargumentar
@@ -42,12 +42,12 @@ Contraargumentar és acceptar una idea i, tot seguit, posar-hi una objecció. El
 - **Tanmateix** i **no obstant això** són equivalents formals de *tot i així*.
 - **No és que** + subjuntiu corregeix una idea; **sinó que** + indicatiu dona la idea bona: *no és que no vulgui ajudar, sinó que no tinc temps*.
 
-> **Compte!** ~~No és que no vull ajudar~~ → **No és que no vulgui ajudar**. I després de *sinó que* no va subjuntiu: ~~sinó que no tingui temps~~ → **sinó que no tinc temps**.
+> **Compte!** ~~No és que no vull ajudar~~ → **No és que no vulgui ajudar**. I en aquesta estructura, després de *sinó que* no va subjuntiu: ~~sinó que no tingui temps~~ → **sinó que no tinc temps**.
 
 <!-- point: compte-preposicio-que -->
 ## Compte amb el castellà: cap preposició davant de *que*
 
-En castellà es diu «estoy de acuerdo en que» o «tengo miedo de que». En català, davant de la conjunció *que* la preposició cau sempre.
+En castellà es diu «estoy de acuerdo en que» o «tengo miedo de que». En català estàndard, davant de la conjunció *que* la preposició cau.
 
 > **Estem d'acord que** cal votar la proposta avui.
 

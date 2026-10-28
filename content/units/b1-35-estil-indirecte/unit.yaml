@@ -158,11 +158,11 @@ items:
     type: choice
     point: dir-que
     lesson: 1
-    prompt: "Ahir el Pau et va dir: «Estic malalt.» Ho expliques avui: «El Pau em va dir que ___ malalt.»"
+    prompt: "Fa un mes el Pau et va dir: «Estic malalt.» Ara ja està bé. Ho expliques: «El Pau em va dir que ___ malalt.»"
     answer: "estava"
     distractors:
       - text: "està"
-        why: "Amb *va dir* (passat), el present es converteix en imperfet: *estava*."
+        why: "El Pau ja està bé: la situació ha passat i, amb *va dir*, el present es converteix en imperfet: *estava*."
       - text: "estigui"
         why: "*Estigui* és subjuntiu, per a ordres i peticions. Una afirmació porta indicatiu: *estava*."
     explanation: "Amb *va dir*, el present (*estic*) passa a imperfet (*estava*). La persona també canvia."
@@ -213,8 +213,8 @@ items:
     prompt: "Ahir l'Arnau et va preguntar: «On vius?» Ho expliques avui: «L'Arnau em va preguntar on ___.»"
     answer: "vivia"
     distractors:
-      - text: "visc"
-        why: "Amb *va preguntar* (passat), el present passa a imperfet: *vivia*."
+      - text: "vius"
+        why: "*Vius* és «tu». L'Arnau preguntava on vius tu, que ara ho expliques: la persona canvia a «jo»."
       - text: "viuria"
         why: "*Viuria* és condicional, per al futur. «Vius» és present: passa a imperfet, *vivia*."
     explanation: "Amb un verb en passat (*va preguntar*), el present (*vius*) passa a imperfet: *on vivia*."
@@ -224,7 +224,7 @@ items:
     point: dir-que
     lesson: 1
     title: "Un missatge de la Laia"
-    text: "Ahir la Laia em va escriure. Deia que {estava|està} molt cansada, que {havia plegat|ha plegat} a les vuit i que {aniria|anirà} a Girona {l'endemà|demà}. També deia que no havia pogut carregar el mòbil."
+    text: "Fa una setmana la Laia em va escriure. Deia que {estava|està} molt cansada, que {havia plegat|ha plegat} a les vuit i que {aniria|anirà} a Girona {l'endemà|demà}. També deia que no havia pogut carregar el mòbil."
     explanation: "Amb *deia* (passat), el present passa a imperfet (*estava*), el perfet a plusquamperfet (*havia plegat*) i el futur a condicional (*aniria*). *Demà* passa a *l'endemà*."
 
   - id: b1-35-008
@@ -436,8 +436,8 @@ items:
     prompt: "Ahir vas rebre aquest missatge: «Has llegit el correu?» Ho expliques: «Em va preguntar si ___ llegit el correu.»"
     answer: "havia"
     distractors:
-      - text: "he"
-        why: "Amb *va preguntar* (passat), el perfet (*he llegit*) passa a plusquamperfet (*havia llegit*)."
+      - text: "hauria"
+        why: "*Hauria* és condicional. «Has llegit» és perfet: amb *va preguntar*, passa a plusquamperfet, *havia llegit*."
       - text: "hagi"
         why: "*Hagi* és subjuntiu. Les preguntes indirectes porten indicatiu: *havia*."
     explanation: "«He llegit» és perfet. Amb *va preguntar*, passa a plusquamperfet: *havia llegit*."
@@ -459,7 +459,7 @@ items:
     type: fill
     point: dir-que
     lesson: 2
-    prompt: "El cap em va dir ahir: «Et trucaré demà.» Ho explico avui: «Em va dir que em ___ l'endemà.»"
+    prompt: "Dilluns el cap em va dir: «Et trucaré demà.» Ho explico divendres: «Em va dir que em ___ l'endemà.»"
     hint: "*trucar*, condicional; parla de mi"
     answers: ["trucaria"]
     wrong_answers:
@@ -474,14 +474,14 @@ items:
     type: choice
     point: deictics
     lesson: 2
-    prompt: "Ahir el Pau et va dir: «Quedem demà.» Ho expliques avui: «Em va dir que quedaríem ___.»"
+    prompt: "Dilluns el Pau et va dir: «Quedem demà.» Ho expliques divendres: «Em va dir que quedaríem ___.»"
     answer: "l'endemà"
     distractors:
       - text: "demà"
-        why: "«Demà» era demà quan ell ho va dir. Des d'avui, aquell dia és *l'endemà*."
+        why: "*Demà*, dit divendres, és dissabte. Ell parlava de dimarts: *l'endemà*."
       - text: "el dia abans"
         why: "«El dia abans» correspon a «ahir». Aquí l'original és «demà»: *l'endemà*."
-    explanation: "Ell va dir «demà» ahir. Explicat des d'avui, aquell dia és *l'endemà*."
+    explanation: "Ell va dir «demà» dilluns, és a dir, dimarts. Explicat divendres, aquell dia és *l'endemà*."
 
   # ---------------- Lliçó 3 ----------------
   - id: b1-35-027
@@ -508,7 +508,7 @@ items:
         why: "*Avui* és divendres, el dia en què ho expliques. Ell parlava de dilluns: *aquell dia*."
       - text: "el dia abans"
         why: "*El dia abans* seria dijous. Ell parlava de dilluns: *aquell dia*."
-    explanation: "Ell va dir «avui» dilluns. Explicat divendres, aquell dia és *aquell dia*."
+    explanation: "Ell va dir «avui» dilluns. Explicat divendres, «avui» passa a *aquell dia*."
 
   - id: b1-35-029
     type: choice
@@ -587,32 +587,32 @@ items:
       - text: "vindria"
         why: "Ella ve cap a Girona i ho expliques des de Barcelona: el moviment és *anar*, no *venir*."
       - text: "anava"
-        why: "«Vinc demà» parla del futur: amb *va dir* passa a condicional, *aniria*."
+        why: "*Anava* és imperfet; la pista demana el condicional: *aniria*."
     grading: tolerant
-    explanation: "«Vinc» (demà) és futur: amb *va dir* passa a condicional. Des de Barcelona, el moviment cap a Girona és *anar*: *aniria*."
+    explanation: "«Vinc demà» parla del futur: amb *va dir*, el condicional ho situa després. Des de Barcelona, el moviment cap a Girona és *anar*: *aniria*."
 
   - id: b1-35-035
     type: fill
     point: deictics
     lesson: 3
-    prompt: "«Compra aquest carregador», em va demanar el Pau. Ho explico: «Em va demanar que comprés ___ carregador.»"
+    prompt: "«Compra aquest carregador», em va demanar el Pau a la botiga. Ho explico a casa: «Em va demanar que comprés ___ carregador.»"
     hint: "«aquest», en estil indirecte"
     answers: ["aquell"]
     wrong_answers:
       - text: "aquest"
-        why: "Ell va dir «aquest». En estil indirecte, el demostratiu passa a *aquell*."
+        why: "Ell va dir «aquest» a la botiga. Explicat des de casa, el demostratiu passa a *aquell*."
     grading: tolerant
-    explanation: "El demostratiu també canvia: «aquest» passa a *aquell*."
+    explanation: "El carregador era a la botiga, lluny d'on ho expliques: «aquest» passa a *aquell*."
 
   - id: b1-35-036
     type: choice
     point: deictics
     lesson: 3
-    prompt: "«Explica'm això demà», em va demanar el Jordi. Ho explico: «Em va demanar que li expliqués ___ l'endemà.»"
+    prompt: "«Explica'm això demà», em va demanar el Jordi a l'oficina, amb uns papers a la mà. Ho explico a casa: «Em va demanar que li expliqués ___ l'endemà.»"
     answer: "allò"
     distractors:
       - text: "això"
-        why: "Ell va dir «això». En estil indirecte, el neutre passa a *allò*."
+        why: "Els papers eren a l'oficina, no on ets ara: el neutre passa a *allò*."
       - text: "aquell"
         why: "*Això* és neutre (una idea). El neutre passa a *allò*, no a *aquell*."
     explanation: "Els demostratius canvien: «això» (neutre) passa a *allò*. *Demà* passa a *l'endemà*."
@@ -622,7 +622,7 @@ items:
     point: deictics
     lesson: 3
     title: "Un correu del Pau"
-    text: "Dilluns el Pau em va escriure des de Girona. Deia que {allà|aquí} feia molt de fred, que {aquell dia|avui} havia nevat i que {l'endemà|demà} tornaria a Barcelona. També deia que el mòbil no tenia bateria."
+    text: "Fa una setmana el Pau em va escriure des de Girona. Deia que {allà|aquí} feia molt de fred, que {aquell dia|avui} havia nevat i que {l'endemà|demà} tornaria a Barcelona. També deia que el mòbil no tenia bateria."
     explanation: "Les paraules de lloc i de temps canvien: «aquí» → *allà*, «avui» → *aquell dia* i «demà» → *l'endemà*."
 
   - id: b1-35-038
@@ -656,7 +656,7 @@ items:
     type: transform
     point: dir-que
     lesson: 4
-    instruction: "Passa la frase a estil indirecte."
+    instruction: "Passa la frase a estil indirecte. Ho expliques un mes després."
     source: "«[[Estic]] refredada», em va dir la Núria."
     start: "La Núria em va dir que"
     answers: ["La Núria em va dir que estava refredada."]
@@ -679,8 +679,6 @@ items:
     wrong_answers:
       - text: "El Pau em va dir que ha perdut el carregador."
         why: "Amb *va dir* (passat), el perfet passa a plusquamperfet: *havia perdut*."
-      - text: "El Pau em va dir que va perdre el carregador."
-        why: "«He perdut» és perfet, no perifràstic: passa a *havia perdut*."
     grading: tolerant
     explanation: "«He perdut» és perfet. Amb *va dir*, passa a plusquamperfet: *havia perdut*."
 
@@ -741,8 +739,8 @@ items:
     start: "Ens va demanar que"
     answers: ["Ens va demanar que no féssim soroll."]
     wrong_answers:
-      - text: "Ens va demanar que no fem soroll."
-        why: "Amb *va demanar* (passat), cal imperfet de subjuntiu: *féssim*."
+      - text: "Ens va demanar que no fèiem soroll."
+        why: "*Fèiem* és indicatiu. Després de *demanar que* va subjuntiu: *féssim*."
       - text: "Ens va demanar que no feu soroll."
         why: "El veí parla de vosaltres («nosaltres»): *féssim*, no *feu*."
     grading: tolerant
@@ -752,7 +750,7 @@ items:
     type: transform
     point: deictics
     lesson: 4
-    instruction: "Passa la frase a estil indirecte. Ho expliques des de Barcelona."
+    instruction: "Passa la frase a estil indirecte. Ho expliques des de Barcelona, la setmana següent."
     source: "«[[Soc aquí]] fins dijous», em va escriure des de Girona la Montse."
     start: "Em va escriure que"
     answers: ["Em va escriure que era allà fins dijous."]
@@ -773,7 +771,7 @@ items:
     answers: ["preparéssim"]
     wrong_answers:
       - text: "preparem"
-        why: "Amb *va demanar* (passat), cal imperfet de subjuntiu: *preparéssim*."
+        why: "*Preparem* és present; la pista demana l'imperfet de subjuntiu: *preparéssim*."
       - text: "prepararem"
         why: "*Prepararem* és futur d'indicatiu. Després de *demanar que* va subjuntiu."
     grading: tolerant
@@ -790,7 +788,7 @@ items:
       - text: "bec"
         why: "Després de *va demanar* va imperfet de subjuntiu: *begués*."
       - text: "begui"
-        why: "*Va demanar* és passat: cal imperfet (*begués*), no present de subjuntiu (*begui*)."
+        why: "La pista demana l'imperfet de subjuntiu (*begués*), no el present (*begui*)."
     grading: tolerant
     explanation: "«No beguis tant de cafè», va dir el metge. Amb *va demanar*: imperfet de subjuntiu, *begués*."
 
@@ -803,7 +801,7 @@ items:
     answers: ["portava"]
     wrong_answers:
       - text: "porta"
-        why: "Amb *va preguntar* (passat), el present passa a imperfet: *portava*."
+        why: "*Porta* és present; la pista demana l'imperfet: *portava*."
       - text: "portaria"
         why: "«Porta» és present, no futur: passa a imperfet, *portava*."
     grading: tolerant
@@ -872,7 +870,7 @@ items:
         answer: "L'Ibrahim confon les nou amb les deu."
         distractors:
           - text: "La Núria confon dimecres amb dijous."
-            why: "El dia sí que l'entén bé: és dimecres. L'error és l'hora."
+            why: "La Núria no es confon: qui s'equivoca és l'Ibrahim, i amb l'hora."
           - text: "La Laia confon l'hora en reenviar el correu."
             why: "La Laia no es confon: reenvia el correu amb l'hora bona."
       - prompt: "Què fa la Laia quan llegeix el correu?"
@@ -958,7 +956,7 @@ items:
     answer: "Posar-me en contacte amb l'empresa."
     distractors:
       - text: "Deixar un missatge a l'empresa."
-        why: "*Deixar un missatge* és parlar a la bústia de veu. Aquí vols escriure per primer cop."
+        why: "*Deixar un missatge* és el que fas quan truques i no et responen. Aquí vols començar el contacte amb l'empresa."
       - text: "Tornar la trucada a l'empresa."
         why: "L'empresa no t'ha trucat: no pots *tornar* cap trucada."
     explanation: "Quan escrius o truques a algú per primer cop, et poses en contacte amb aquesta persona."
@@ -970,8 +968,8 @@ items:
     prompt: "Sona el mòbil en plena reunió i no pots parlar. Què fas?"
     answer: "No l'agafo i després torno la trucada."
     distractors:
-      - text: "El penjo i després torno la trucada."
-        why: "Si no has parlat amb ningú, no pots *penjar*: *penjar* és tancar una conversa."
+      - text: "L'agafo i parlo una bona estona."
+        why: "En plena reunió no pots parlar: no l'agafes."
       - text: "L'agafo i deixo un missatge."
         why: "Si l'agafes, parles amb la persona: no cal *deixar un missatge*."
     explanation: "Si no pots parlar, no agafes el telèfon. Després cal *tornar la trucada*."
@@ -985,11 +983,11 @@ items:
     answers: ["havia arribat"]
     wrong_answers:
       - text: "va arribar"
-        why: "Amb *va dir* (passat), el perifràstic passa a plusquamperfet: *havia arribat*."
+        why: "*Va arribar* és perifràstic; la pista demana el plusquamperfet: *havia arribat*."
       - text: "ha arribat"
-        why: "«Vaig arribar» és passat perifràstic: passa a plusquamperfet (*havia arribat*)."
+        why: "*Ha arribat* és perfet; la pista demana el plusquamperfet: *havia arribat*."
     grading: tolerant
-    explanation: "Tant «vaig arribar» com «he arribat» passen a plusquamperfet amb *va dir*: *havia arribat*."
+    explanation: "Amb *va dir*, un fet anterior al moment en què la Carla parlava va en plusquamperfet: *havia arribat*."
 
   - id: b1-35-062
     type: fill
@@ -1029,7 +1027,7 @@ items:
         why: "«Qui truca?» és una pregunta parcial: cal l'interrogatiu *qui*, no *que*."
       - text: "si truca"
         why: "«Qui truca?» és una pregunta parcial: cal l'interrogatiu *qui*, no *si*."
-    explanation: "«Qui truca?» és una pregunta parcial: l'interrogatiu *qui* es manté. Amb *he preguntat*, el verb va en passat: *trucava*."
+    explanation: "«Qui truca?» és una pregunta parcial: l'interrogatiu *qui* es manté, sense *que* ni *si*."
 
   - id: b1-35-065
     type: fill
@@ -1037,7 +1035,7 @@ items:
     lesson: 5
     prompt: "—M'ha trucat el banc i no he pogut parlar. —Doncs ___ quan puguis."
     hint: "expressió: *tornar la trucada*, imperatiu de *tu*"
-    answers: ["torna la trucada"]
+    answers: ["torna la trucada", "torna'ls la trucada", "torna-li la trucada"]
     wrong_answers:
       - text: "tornes la trucada"
         why: "És una ordre: l'imperatiu és *torna*, no *tornes*."

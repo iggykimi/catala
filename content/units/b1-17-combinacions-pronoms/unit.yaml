@@ -92,7 +92,7 @@ vocabulary:
     definition: "Part d'un moble que s'obre estirant."
     example: "Els rebuts són al calaix de dalt."
   - word: "la prestatgeria"
-    definition: "Mobles amb lleixes per a llibres i objectes."
+    definition: "Moble amb lleixes per a llibres i objectes."
     example: "Hem penjat la prestatgeria al menjador."
   - word: "el paquet"
     definition: "Capsa o embolcall amb una cosa a dins."
@@ -413,13 +413,13 @@ items:
     type: choice
     point: combinacions-ordre
     lesson: 2
-    prompt: "A nosaltres, l'electricista ___ dirà demà si pot venir."
+    prompt: "—Sabeu si l'electricista pot venir? —No, ___ dirà demà."
     answer: "ens ho"
     distractors:
       - text: "ens el"
         why: "*Ens el* és per a un nom masculí. «Si pot venir» és una idea: *ens ho*."
       - text: "us ho"
-        why: "*Us ho* vol dir «a vosaltres». La frase parla d'«a nosaltres»: *ens ho*."
+        why: "*Us ho* vol dir «a vosaltres». Qui respon parla de «a nosaltres»: *ens ho*."
     explanation: "«A nosaltres» + «això» donen *ens ho*: *ens ho dirà*."
 
   - id: b1-17-022
@@ -432,8 +432,8 @@ items:
       - text: "es el"
         why: "*Es* i *el* es combinen en *se'l*. *Es el* no existeix."
       - text: "l'hi"
-        why: "*L'hi* porta *li* (a ell o a ella). El verb és pronominal (*es mira...*): *se'l*."
-    explanation: "El verb és pronominal (*es mira...*): «es» + «el rebut» donen *se'l*."
+        why: "*L'hi* porta *li* (a una altra persona). La Núria el guarda per a ella: *se'l*."
+    explanation: "*Guardar-se* una cosa (per a un mateix) porta *es*: «es» + «el rebut» donen *se'l*."
 
   - id: b1-17-023
     type: choice
@@ -487,12 +487,12 @@ items:
     point: combinacions-ordre
     lesson: 2
     instruction: "Substitueix la part marcada per pronoms."
-    source: "La Laia es quedarà [[la bicicleta]] del seu germà."
-    answers: ["La Laia se la quedarà del seu germà."]
+    source: "La Laia es quedarà [[la bicicleta del seu germà]]."
+    answers: ["La Laia se la quedarà."]
     wrong_answers:
-      - text: "La Laia es la quedarà del seu germà."
+      - text: "La Laia es la quedarà."
         why: "*Es* i *la* es combinen en *se la*: *se la quedarà*."
-      - text: "La Laia se'l quedarà del seu germà."
+      - text: "La Laia se'l quedarà."
         why: "*Se'l* és masculí. «La bicicleta» és femenina: *se la*."
     grading: tolerant
     explanation: "«Es» + «la bicicleta» donen *se la*: *se la quedarà*."
@@ -530,7 +530,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "Si veus en Jordi, l'hi dones, si us plau: és el carregador que em va deixar."
+    sentence: "Aquest és el carregador d'en Jordi: si el veus, l'hi dones, si us plau."
     no_error: true
     explanation: "La frase és correcta: *l'hi* és *li* (a en Jordi) + *el* (el carregador)."
 
@@ -560,16 +560,16 @@ items:
     type: fill
     point: en-hi
     lesson: 3
-    prompt: "—On poses els rebuts? —___ poso al calaix de dalt."
-    hint: "pronom per a «els rebuts» i «al calaix»: *en* + *hi*"
+    prompt: "—Quants rebuts poses al calaix de dalt? —___ poso dos."
+    hint: "pronom per a «rebuts» i «al calaix»: *en* + *hi*"
     answers: ["N'hi"]
     wrong_answers:
       - text: "Hi"
-        why: "Sense *en*, no hi ha pronom per a *els rebuts*: cal *n'hi*."
+        why: "Sense *en*, no hi ha pronom per a «rebuts»: cal *n'hi*."
       - text: "En hi"
         why: "*En* i *hi* es combinen en *n'hi*. *En hi* no existeix."
     grading: tolerant
-    explanation: "«Els rebuts» és *en* i «al calaix» és *hi*: *n'hi poso*."
+    explanation: "«Rebuts» és *en* i «al calaix» és *hi*: *n'hi poso dos*."
 
   - id: b1-17-034
     type: fill
@@ -627,7 +627,7 @@ items:
         why: "Sense *en* no hi ha pronom per a *martells*: cal *n'hi ha*."
       - text: "en hi ha"
         why: "*En* i *hi* es combinen en *n'hi*: *en hi* no existeix."
-    explanation: "«Martells» és *en* i «al magatzem» és *hi*: *n'hi ha*."
+    explanation: "«Martells» és *en*, i *haver-hi* sempre porta *hi*: *n'hi ha*."
 
   - id: b1-17-038
     type: choice
@@ -659,12 +659,12 @@ items:
     type: order
     point: en-hi
     lesson: 3
-    cue: "Digues que poses dos rebuts al calaix de dalt."
-    chunks: ["n'hi", "poso", "dos", "al calaix de dalt"]
+    cue: "Et pregunten quants rebuts poses cada dia al calaix. Respon que dos."
+    chunks: ["n'hi", "poso", "dos", "cada dia"]
     extra: ["hi"]
     answers:
-      - "N'hi poso dos al calaix de dalt."
-      - "Al calaix de dalt n'hi poso dos."
+      - "N'hi poso dos cada dia."
+      - "Cada dia n'hi poso dos."
     explanation: "*En* (rebuts) + *hi* (al calaix) donen *n'hi*: *n'hi poso dos*."
 
   # ---------------- Lliçó 4 ----------------
@@ -789,7 +789,7 @@ items:
     type: fill
     point: posicio-infinitiu-imperatiu
     lesson: 4
-    prompt: "—No em cal el paraigua. —Doncs ___, que plourà."
+    prompt: "—Et torno el paraigua. —No, ___, que plourà."
     hint: "imperatiu de *quedar-se* + *el paraigua*"
     answers: ["queda-te'l"]
     wrong_answers:
@@ -841,6 +841,8 @@ items:
       - "Si us plau, dona-l'hi demà al matí."
       - "Dona-l'hi demà al matí, si us plau."
       - "Dona-l'hi, si us plau, demà al matí."
+      - "Demà al matí dona-l'hi, si us plau."
+      - "Si us plau, demà al matí dona-l'hi."
     explanation: "«A la veïna» + «el paquet» donen *l'hi*. Darrere l'imperatiu: *dona-l'hi*."
 
   - id: b1-17-052
@@ -860,13 +862,13 @@ items:
     point: expressions
     lesson: 4
     prompt: "La Núria sempre deixa la bicicleta al replà. El veí diu: «Si ___, truco a l'administrador.»"
-    answer: "s'hi torna"
+    answer: "hi torna"
     distractors:
-      - text: "s'ho torna"
-        why: "*S'ho* és *es* + *ho* (això). L'expressió és *tornar-s'hi*: *s'hi torna*."
+      - text: "ho torna"
+        why: "*Ho torna* vol dir que retorna una cosa. Per dir que repeteix l'acció: *hi torna*."
       - text: "es torna"
-        why: "Sense *hi* no és l'expressió: *tornar-s'hi* vol dir repetir una acció: *s'hi torna*."
-    explanation: "*Tornar-s'hi* vol dir repetir una acció (que molesta): *si s'hi torna...*."
+        why: "*Tornar-se* vol dir convertir-se en una cosa (*es torna boig*). Per repetir l'acció: *hi torna*."
+    explanation: "*Tornar-hi* vol dir tornar a fer una cosa, sovint que molesta: *si hi torna...*."
 
   - id: b1-17-054
     type: choice
@@ -899,14 +901,14 @@ items:
     type: choice
     point: expressions
     lesson: 5
-    prompt: "Què vol dir «En Quim s'hi ha tornat»?"
-    answer: "Que ha repetit una acció que molesta."
+    prompt: "La Núria es queixa: «En Quim ja hi torna: ha deixat la moto davant del garatge!» Què vol dir «ja hi torna»?"
+    answer: "Que en Quim repeteix una cosa que molesta."
     distractors:
-      - text: "Que ha tornat a casa seva."
-        why: "*Tornar a casa* és tornar a un lloc. *Tornar-s'hi* és repetir una acció."
-      - text: "Que s'ha girat de sobte."
-        why: "*Girar-se* és canviar de direcció. *Tornar-s'hi* és repetir una acció."
-    explanation: "*Tornar-s'hi* vol dir repetir una acció, sovint que molesta: *s'hi ha tornat*."
+      - text: "Que en Quim torna a casa seva."
+        why: "Aquí *hi* no és un lloc: *ja hi torna* vol dir que repeteix l'acció."
+      - text: "Que en Quim es gira de sobte."
+        why: "*Girar-se* és canviar de direcció. *Tornar-hi* és repetir una acció."
+    explanation: "*Tornar-hi* vol dir tornar a fer una cosa, sovint que molesta: *ja hi torna*."
 
   - id: b1-17-057
     type: choice
@@ -1008,7 +1010,7 @@ items:
       - ["fer un favor", "fer una cosa per ajudar algú"]
       - ["donar un cop de mà", "ajudar en una feina"]
       - ["deixar-se estar", "parar de fer el que fas"]
-      - ["tornar-s'hi", "repetir una acció que molesta"]
+      - ["tornar-hi", "tornar a fer una cosa que molesta"]
     explanation: "Són expressions per parlar de favors i d'accions que es repeteixen."
 
   - id: b1-17-065
@@ -1034,7 +1036,7 @@ items:
 
       La setmana passada, la Laia va penjar tres prestatges amb el trepant de la caixa. Quan va acabar, el va netejar i el va tornar al seu lloc. «Si el tornes net, el pròxim el troba a punt», li va dir l'Ibrahim.
 
-      En Pau, en canvi, s'hi ha tornat: es va emportar l'escala de mà per pintar el menjador i encara no la hi ha tornat. La Laia li ha enviat dos missatges, però ell diu que encara no la hi pot tornar perquè no ha acabat.
+      En Pau, en canvi, no és tan curós: es va emportar l'escala de mà per pintar el menjador i encara no la hi ha tornat. La Laia li ha enviat dos missatges, però ell diu que encara no la hi pot tornar perquè no ha acabat.
 
       Ahir, la Fàtima va demanar el trepant per penjar una prestatgeria. La Laia li ho va explicar tot: que el trepant hi era, però que l'escala no. «Deixa't estar i truca a en Pau», li va dir la Fàtima rient.
 

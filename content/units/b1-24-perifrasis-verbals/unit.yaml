@@ -235,8 +235,8 @@ items:
     point: perifrasis-fase
     lesson: 1
     title: "Un missatge de la Carla"
-    text: "Hola, Laia! Perdona que no t'he trucat abans, però jo {acabo|acaba|acaben} de sortir del CAP i {estic|està|estan} a punt de pujar a l'autobús. M'he trobat fatal aquest matí i {m'he posat a|m'he posat de|he tornat de} tremolar a la feina. El metge diu que no és greu, però que si {torno a|torno de|acabo a} tenir febre, hi he de tornar demà. Ja et truco!"
-    explanation: "«No t'he trucat… però jo» fixa la primera persona: *acabo*, *estic*. L'inici és *posar-se a*; la repetició, *tornar a*: les preposicions són *a*."
+    text: "Hola, Laia! Perdona que no t'hagi trucat abans, però jo {acabo|acaba|acaben} de sortir del CAP i {estic|està|estan} a punt de pujar a l'autobús. M'he trobat fatal aquest matí i {m'he posat a|m'he posat de|he tornat de} tremolar a la feina. El metge diu que no és greu, però que si {torno a|torno de|acabo a} tenir febre, hi he de tornar demà. Ja et truco!"
+    explanation: "«Perdona que no t'hagi trucat… però jo» fixa la primera persona: *acabo*, *estic*. L'inici és *posar-se a*; la repetició, *tornar a*: les preposicions són *a*."
 
   - id: b1-24-009
     type: match
@@ -442,14 +442,14 @@ items:
     type: choice
     point: compte-castella
     lesson: 2
-    prompt: "«Tienes que guardar cama.» Com ho dius en català?"
+    prompt: "El metge et diu que estàs obligat a descansar. Quina frase és correcta?"
     answer: "Has de fer repòs."
     distractors:
       - text: "Tens que fer repòs."
         why: "*Tenir que* és un calc de «tener que»: *has de fer repòs*."
       - text: "Has fer repòs."
         why: "Falta la preposició *de*: *has de fer repòs*."
-    explanation: "L'obligació és *haver de* + infinitiu. I «guardar cama» en català és *fer repòs*."
+    explanation: "L'obligació d'una persona és *haver de* + infinitiu: *has de fer repòs*."
 
   - id: b1-24-025
     type: choice
@@ -485,7 +485,7 @@ items:
     prompt: "—On és el metge? —Ara mateix ___ un pacient a la consulta dos."
     answer: "està visitant"
     distractors:
-      - text: "està a visitar"
+      - text: "està de visitar"
         why: "*Estar* va amb el gerundi, sense preposició: *està visitant*."
       - text: "està visitar"
         why: "Després de *estar* cal el gerundi: *visitant*, no l'infinitiu."
@@ -498,8 +498,8 @@ items:
     prompt: "La Carla té tos des de dilluns i ___."
     answer: "continua tossint"
     distractors:
-      - text: "continua a tossir"
-        why: "*Continuar* va amb el gerundi, sense *a*: *continua tossint*."
+      - text: "continua de tossir"
+        why: "*Continuar* va amb el gerundi, sense preposició: *continua tossint*."
       - text: "torna a tossir"
         why: "*Tornar a* vol dir «després d'haver parat»; «des de dilluns» vol dir que no ha parat: *continua tossint*."
     explanation: "«Des de dilluns» vol dir que no ha parat: *continuar* + gerundi."
@@ -525,7 +525,7 @@ items:
     hint: "*estar* + gerundi de *esperar*, ell (present)"
     answers: ["està esperant"]
     wrong_answers:
-      - text: "està a esperar"
+      - text: "està d'esperar"
         why: "*Estar* va amb el gerundi, sense preposició: *està esperant*."
       - text: "es posa a esperar"
         why: "*Posar-se a* marca l'inici; «des de les nou» demana una acció en curs: *està esperant*."
@@ -540,8 +540,8 @@ items:
     hint: "*continuar* + *tossir*, ella (present)"
     answers: ["continua tossint", "segueix tossint"]
     wrong_answers:
-      - text: "continua a tossir"
-        why: "*Continuar* va amb el gerundi, sense *a*: *continua tossint*."
+      - text: "continua de tossir"
+        why: "*Continuar* va amb el gerundi, sense preposició: *continua tossint*."
       - text: "torna a tossir"
         why: "*Tornar a* vol dir «després d'haver parat»; «no marxa» vol dir que no para: *continua tossint*."
     grading: tolerant
@@ -555,7 +555,7 @@ items:
     hint: "*estar* + *respirar*, ell (imperfet)"
     answers: ["estava respirant"]
     wrong_answers:
-      - text: "estava a respirar"
+      - text: "estava de respirar"
         why: "*Estar* va amb el gerundi, sense preposició: *estava respirant*."
       - text: "estava respirar"
         why: "Després de *estar* cal el gerundi: *respirant*, no l'infinitiu."
@@ -571,7 +571,7 @@ items:
     answers: ["segueix tenint febre", "continua tenint febre"]
     wrong_answers:
       - text: "segueix a tenir febre"
-        why: "*Seguir* va amb el gerundi, sense *a*: *segueix tenint febre*."
+        why: "*Seguir* va amb el gerundi, sense preposició: *segueix tenint febre*."
       - text: "torna a tenir febre"
         why: "*Tornar a* vol dir «després d'haver parat»; «des de dilluns» vol dir que no para: *segueix tenint*."
     grading: tolerant
@@ -585,8 +585,8 @@ items:
     error: "tinc que respectar"
     fix: "he de respectar"
     fix_distractors:
-      - text: "tinc de respectar"
-        why: "L'obligació és *haver de*: *he de respectar*. *Tenir de* no és correcte."
+      - text: "hi ha que respectar"
+        why: "*Hi ha que* és un calc de «hay que». Aquí l'obligació és d'una persona concreta: *he de respectar*."
       - text: "he que respectar"
         why: "*Haver de* porta *de*, no *que*: *he de respectar*."
     explanation: "L'obligació d'una persona és *haver de* + infinitiu. *Tenir que* és un calc de «tener que»."
@@ -595,7 +595,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "Per la febre, hi ha que beure molta aigua."
+    sentence: "Amb febre, hi ha que beure molta aigua."
     error: "hi ha que beure"
     fix: "cal beure"
     fix_distractors:
@@ -635,8 +635,8 @@ items:
     error: "està de visitar"
     fix: "està visitant"
     fix_distractors:
-      - text: "està a visitar"
-        why: "*Estar* va amb el gerundi, sense preposició: *està visitant*."
+      - text: "està visitat"
+        why: "*Visitat* és el participi; per a una acció en curs cal el gerundi: *està visitant*."
       - text: "està visitar"
         why: "Després de *estar* cal el gerundi: *visitant*, no l'infinitiu."
     explanation: "Una acció que passa ara mateix: *estar* + gerundi, sense preposició. *Visitar* fa *visitant*."
@@ -645,8 +645,8 @@ items:
     type: find-error
     point: estar-continuar-gerundi
     lesson: 3
-    sentence: "El nen continua a tossir malgrat el xarop."
-    error: "continua a tossir"
+    sentence: "El nen continua de tossir malgrat el xarop."
+    error: "continua de tossir"
     fix: "continua tossint"
     fix_distractors:
       - text: "torna a tossir"
@@ -662,7 +662,9 @@ items:
     lesson: 4
     instruction: "Canvia el subjecte a «la Núria»."
     source: "[[Has de]] venir a posar-te la vacuna demà."
-    answers: ["La Núria ha de venir a posar-se la vacuna demà."]
+    answers:
+      - "La Núria ha de venir a posar-se la vacuna demà."
+      - "La Núria s'ha de venir a posar la vacuna demà."
     wrong_answers:
       - text: "La Núria has de venir a posar-se la vacuna demà."
         why: "«La Núria» és tercera persona: *ha de*, no *has de*."
@@ -697,7 +699,7 @@ items:
       - "El farmacèutic està atenent ara mateix un client."
       - "Ara mateix el farmacèutic està atenent un client."
     wrong_answers:
-      - text: "El farmacèutic està a atendre un client ara mateix."
+      - text: "El farmacèutic està d'atendre un client ara mateix."
         why: "*Estar* va amb el gerundi, sense preposició: *està atenent*."
       - text: "El farmacèutic es posa a atendre un client ara mateix."
         why: "La frase diu que ja atén (*atén*), no que comença: *està atenent*."
@@ -714,8 +716,8 @@ items:
     wrong_answers:
       - text: "Has fer repòs, diu el metge."
         why: "Falta la preposició *de*: *has de fer repòs*."
-      - text: "Tens de fer repòs, diu el metge."
-        why: "L'obligació és *haver de*: *has de fer*. *Tenir de* no és correcte."
+      - text: "Hi ha que fer repòs, diu el metge."
+        why: "*Hi ha que* és un calc de «hay que». El metge parla amb tu: *has de fer repòs*."
     grading: tolerant
     explanation: "*Tenir que* és un calc de «tener que». L'obligació en segona persona és *has de* + infinitiu."
 
@@ -747,7 +749,7 @@ items:
       - "Des de dilluns, el pacient continua tenint febre malgrat el tractament."
     wrong_answers:
       - text: "Des de dilluns, el pacient segueix a tenir febre malgrat el tractament."
-        why: "*Seguir* va amb el gerundi, sense *a*: *segueix tenint*."
+        why: "*Seguir* va amb el gerundi, sense preposició: *segueix tenint*."
       - text: "Des de dilluns, el pacient torna a tenir febre malgrat el tractament."
         why: "«Des de dilluns» vol dir que no ha parat; *tornar a* vol dir «després d'haver parat»: *segueix tenint*."
     grading: tolerant
@@ -791,7 +793,7 @@ items:
     hint: "*estar* + *fer*, ella (present)"
     answers: ["està fent"]
     wrong_answers:
-      - text: "està a fer"
+      - text: "està de fer"
         why: "*Estar* va amb el gerundi, sense preposició: *està fent*."
       - text: "està fer"
         why: "Després de *estar* cal el gerundi: *fent*, no l'infinitiu."
@@ -809,7 +811,7 @@ items:
       - text: "hi ha que"
         why: "*Hi ha que* és un calc de «hay que»: *cal desinfectar-se*."
       - text: "ha de"
-        why: "Sense persona concreta, l'obligació és *cal*. *Ha de* necessita un subjecte: *el visitant ha de desinfectar-se*."
+        why: "La pista demana *caldre*: per a una norma general, sense persona concreta, *cal desinfectar-se*."
     grading: tolerant
     explanation: "És una norma general, sense una persona concreta: *cal* + infinitiu."
 
@@ -817,7 +819,7 @@ items:
     type: order
     point: obligacio-probabilitat
     lesson: 4
-    cue: "Digues que demà has d'anar a donar sang."
+    cue: "Recorda a un amic que demà ha d'anar a donar sang."
     chunks: ["demà", "has", "d'anar", "a", "donar", "sang"]
     extra: ["que"]
     answers:
@@ -841,7 +843,7 @@ items:
     type: order
     point: perifrasis-fase
     lesson: 4
-    cue: "Digues que el metge està a punt de trucar-te."
+    cue: "Avisa una amiga que el metge li trucarà d'aquí a molt poc."
     chunks: ["el", "metge", "està", "a", "punt", "de", "trucar-te"]
     extra: ["que"]
     answers:
@@ -861,7 +863,7 @@ items:
 
       En sortir de la consulta, la Núria va anar a la farmàcia amb la recepta mèdica. El farmacèutic li va explicar que havia de prendre el xarop cada vuit hores, com diu el prospecte, i que, si tornava a tenir febre alta, havia de tornar al CAP.
 
-      Divendres, la Núria encara continuava tossint, però ja no tenia febre. Va trucar a la Fàtima: «Estic molt millor. Demà ja torno a treballar.»
+      Divendres, la Núria encara continuava tossint, però ja no tenia febre. Va trucar a la Fàtima: «Estic molt millor. Dilluns ja torno a treballar.»
     questions:
       - prompt: "Per què va anar la Núria al CAP?"
         answer: "Perquè tenia febre i es va posar a tremolar a la feina."
@@ -874,7 +876,7 @@ items:
         answer: "Que probablement era un virus i que fes repòs tres dies."
         distractors:
           - text: "Que l'endemà havia de tornar a la consulta dos."
-            why: "Tornar al CAP era només si tenia febre alta; el metge li va dir que fes repòs tres dies."
+            why: "El metge no ho va dir: li va dir que fes repòs tres dies."
           - text: "Que tornés a treballar l'endemà."
             why: "Al contrari: li va dir que fes repòs tres dies."
       - prompt: "Què havia de fer la Núria amb el xarop?"
@@ -933,8 +935,8 @@ items:
       - "La ferida continua sagnant malgrat la bena."
       - "La ferida segueix sagnant malgrat la bena."
     wrong_answers:
-      - text: "La ferida continua a sagnar malgrat la bena."
-        why: "*Continuar* va amb el gerundi, sense *a*: *continua sagnant*."
+      - text: "La ferida continua de sagnar malgrat la bena."
+        why: "*Continuar* va amb el gerundi, sense preposició: *continua sagnant*."
       - text: "La ferida torna a sagnar malgrat la bena."
         why: "«Encara» vol dir que no ha parat; *tornar a* vol dir «després d'haver parat»: *continua sagnant*."
     grading: tolerant
@@ -958,8 +960,8 @@ items:
     fix_distractors:
       - text: "has tenir"
         why: "Falta la preposició *de*: *has de tenir*."
-      - text: "tens de tenir"
-        why: "L'obligació és *haver de*: *has de tenir*. *Tenir de* no és correcte."
+      - text: "hi ha que tenir"
+        why: "*Hi ha que* és un calc de «hay que». Aquí parles amb una persona: *has de tenir*."
     explanation: "És una condició obligatòria en segona persona: *has de* + infinitiu. *Tenir que* és un calc de «tener que»."
 
   - id: b1-24-059
@@ -1047,4 +1049,4 @@ items:
       - text: "segueix"
         why: "*Seguir* va amb gerundi (*segueix caminant*); aquí l'acció es repeteix: *torna a caminar*."
     grading: tolerant
-    explanation: "«Ahir… avui» indica una repetició: *tornar a* + infinitiu."
+    explanation: "El pacient recupera una cosa que feia abans, caminar sol: *tornar a* + infinitiu."

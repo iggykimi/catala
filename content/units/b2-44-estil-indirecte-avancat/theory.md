@@ -38,6 +38,7 @@ Amb el verb principal en passat, cada temps fa un pas enrere.
 | condicional (*vindríem*) | condicional (*vindríem*, no canvia) |
 
 - Amb el verb principal en present, els temps no canvien: Diu **que han aprovat** la moció.
+- Si el que es diu encara és vigent quan ho expliquem, de vegades es manté el temps (*Va dir que la sala és al primer pis*). Aquí practiquem el canvi, amb fets ja passats.
 
 > **Compte!** ~~Van anunciar que han aprovat la moció~~ → Van anunciar **que havien aprovat** la moció.
 
@@ -71,6 +72,7 @@ Darrere de *demanar*, *voler*, *ordenar* o *recomanar* + *que*, el subjuntiu va 
 - Present: Vol **que ajornem** la sessió; Li diu **que escolti** la proposta.
 - Passat: Ens va demanar **que no féssim** fotos; El síndic va recomanar **que llegíssim** l'informe.
 - *Demanar que* no porta mai indicatiu ni condicional.
+- Si l'ordre encara s'ha de complir quan l'expliquem, de vegades es manté el present. Aquí practiquem ordres que ja s'han complert.
 
 > **Compte!** L'error típic és deixar el present amb un verb en passat: ~~Ens va demanar que votem~~ → Ens va demanar **que votéssim**.
 

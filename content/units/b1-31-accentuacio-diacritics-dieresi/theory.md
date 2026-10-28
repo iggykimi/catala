@@ -6,13 +6,13 @@ En cada paraula hi ha una síl·laba forta: *català* (l'última), *llibre* (la 
 | | Porta accent | No en porta |
 |---|---|---|
 | Agudes | vocal, vocal + *s*, *-en*, *-in*: **català**, **francès**, **edició**, **comprèn** | consonant: **llegir**, **carnet**, **final** |
-| Planes | consonant (llevat de *-en*, *-in*): **títol**, **còmic**, **pròleg**, **índex**, **fàcil** | vocal, vocal + *s*, *-en*, *-in*: **llibre**, **biblioteca**, **examen**, **origen** |
-| Esdrúixoles | sempre: **pàgina**, **línia**, **història**, **clàssic**, **últim** | — |
+| Planes | consonant (llevat de *-en*, *-in*): **títol**, **còmic**, **pròleg**, **índex**, **fàcil**, **clàssic**, **últim** | vocal, vocal + *s*, *-en*, *-in*: **llibre**, **biblioteca**, **examen**, **origen** |
+| Esdrúixoles | sempre: **pàgina**, **línia**, **història**, **catàleg**, **telèfon** | — |
 
 - Els monosíl·labs no porten accent: **veu**, **diu**, **feu**, **deu**. L'única excepció són els diacrítics (punt 3).
-- Les paraules acabades en diftong no porten accent: **assaig**, **mateix**, **remei**.
-- La *i* i la *u* fortes darrere de vocal porten accent: **país**, **suís**, **traduït**. En plural o en femení, l'accent es converteix en dièresi: **països**, **traduïda**.
-- Els adverbis en *-ment* conserven l'accent de l'adjectiu, excepte si l'adjectiu és agut: **fàcilment**, **ràpidament**, però **catalanament**.
+- Les agudes acabades en diftong (**remei**, **europeu**) o en *-ig* i *-ix* (**assaig**, **mateix**) no porten accent: compten com si acabessin en consonant.
+- La *i* i la *u* fortes darrere de vocal porten accent quan la regla ho demana (**país**, **suís**); si no, porten dièresi (**veïna**, **traduït**). Per això el plural de *país* és **països**.
+- Els adverbis en *-ment* es fan amb el femení de l'adjectiu i en conserven l'accent: **fàcilment**, **ràpidament**; **catalanament** no en porta perquè *catalana* tampoc.
 
 > **Compte!** ~~pagina~~ → **pàgina**; ~~exàmen~~ → **examen**; ~~titol~~ → **títol**.
 
@@ -23,9 +23,9 @@ La *a* sempre porta accent greu (**à**), i la *i* i la *u* sempre agut (**í**,
 
 | Tancades (**é**, **ó**) | Obertes (**è**, **ò**) |
 |---|---|
-| noms en *-ió*: **edició**, **traducció**, **cançó** | 3a persona: **comprèn**, **entén**, **aprèn** |
-| futur: **llegiré**, **escriuré** | cultes: **cafè**, **telèfon**, **pròleg**, **còmic**, **història**, **Amèrica** |
-| **després**, **també** | **mèdic**, **tècnic**, **èxit** |
+| noms en *-ió*: **edició**, **traducció**, **cançó** | 3a persona dels verbs en *-prendre*: **comprèn**, **aprèn** |
+| futur: **llegiré**, **escriuré** | cultismes: **telèfon**, **pròleg**, **còmic**, **història**, **Amèrica** |
+| **després**, **també**, **entén** | **cafè**, **mèdic**, **tècnic**, **èxit** |
 
 - Molts cultismes són oberts, però no tots: quan dubtis, consulta el diccionari.
 - Els diacrítics també tenen timbre: *què*, *pèl* i *sòl* són oberts; *bé*, *sé*, *té*, *món* i *són* són tancats.
@@ -45,11 +45,11 @@ Quinze parelles es distingeixen només per l'accent. És una llista tancada de l
 | **mà** (*es fa mal a la mà*) | ma (possessiu antic) |
 | **més** (*llegeix més*) | mes (*aquest mes*) |
 | **món** (*tot el món*) | mon (possessiu antic) |
-| **pèl** (*es lliga el pèl*) | pel (*passa pel carrer*) |
+| **pèl** (*el pèl del gat*) | pel (*passa pel carrer*) |
 | **què** (*què vols?*) | que (*diu que sí*) |
 | **sé** (*no sé on és*) | se (*se'n va*) |
 | **sí** (*sí, si vols*) | si (*si vols*) |
-| **sòl** (*s'asseu al sòl*) | sol (*fa sol*; *viu sol*) |
+| **sòl** (*un sòl de fusta*) | sol (*fa sol*; *viu sol*) |
 | **són** (*són les tres*) | son (*té son*) |
 | **té** (*té tres llibres*) | te (*no te'n recordes*) |
 | **ús** (*l'ús del diccionari*) | us (*us espero*) |
@@ -69,11 +69,11 @@ La dièresi (¨) té dos usos: va sobre la *u* de *qü* i *gü*, i sobre la *i* 
 
 | Amb dièresi | Sense dièresi |
 |---|---|
-| *qü*, *gü*: **qüestió**, **pingüí**, **llengües**, **aigües** | prefix: **reunir**, **reunió**, **egoisme**, **coincidir** |
-| hiat: **veïna**, **països**, **ruïna**, **traduïa**, **traduïda** | diftong o accent: **eina**, **aigua**, **país**, **agraït** |
+| *qü*, *gü*: **qüestió**, **pingüí**, **llengües**, **aigües** | prefix o sufix *-isme*: **reunir**, **reunió**, **coincidir**, **egoisme** |
+| hiat: **veïna**, **països**, **ruïna**, **traduïa**, **traduïda** | diftong o accent: **eina**, **aigua**, **país**, **suís** |
 
-- Els mots amb prefix no porten dièresi encara que es pronunciïn amb hiat: *re-u-nir*, *e-go-is-me*.
-- Si la vocal ja porta accent (*país*, *agraït*), no hi cal la dièresi.
+- Els mots amb prefix i els acabats en *-isme* i *-ista* no porten dièresi encara que es pronunciïn amb hiat: *re-u-nir*, *e-go-is-me*.
+- Si la vocal ja porta accent (*país*, *suís*), no hi cal la dièresi.
 
 > **Compte!** ~~veina~~ → **veïna**; ~~egoïsme~~ → **egoisme**; ~~questió~~ → **qüestió**.
 

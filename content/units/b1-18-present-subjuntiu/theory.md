@@ -38,7 +38,7 @@ Els verbs més freqüents tenen un subjuntiu propi, que cal memoritzar:
 
 - *Anar* fa **anem** i **aneu**, com en indicatiu. *Fer* fa **fem** i **feu**, com en indicatiu.
 - Porten *-gui*: **estigui** (*estar*), **pugui** (*poder*), **vulgui** (*voler*), **vingui** (*venir*) i **digui** (*dir*), amb les mateixes terminacions.
-- *Haver* fa **hagi**; *saber* fa **sàpiga**; *veure* fa **vegi**.
+- *Haver* fa **hagi**; *saber* fa **sàpiga** (també *sàpigui*); *veure* fa **vegi**.
 - N'hi ha més (*conegui*, *begui*, *escrigui*, *prengui*), però aquí no els practiquem.
 
 > **Compte!** ~~Vull que fas el pastís~~ → **Vull que facis el pastís**.
@@ -51,11 +51,11 @@ Amb *voler*, *esperar* i *demanar*, si l'altra persona és diferent, posem *que*
 > Vull **que vinguis** demà. (= jo vull, tu vens)
 
 - Si el subjecte és el mateix, no hi ha *que*: **vull venir** (jo vull, jo vinc).
-- *Esperar* vol dir 'tenir esperança': **espero que arribis** aviat.
+- *Esperar* vol dir 'tenir esperança': **espero que arribis** aviat. (Amb *esperar* de vegades també es fa servir l'indicatiu, però aquí practiquem el subjuntiu.)
 - *Demanar que* és demanar a algú que faci una cosa: **et demano que vinguis**.
 - *Cal que* també porta subjuntiu: **cal que porteu** el cava.
 
-> **Compte!** ~~Vull que vens~~ → **Vull que vinguis**. I ~~espero que vindràs~~ → **espero que vinguis**: el futur tampoc no serveix.
+> **Compte!** ~~Vull que vens~~ → **Vull que vinguis**. I ~~cal que vens~~ → **cal que vinguis**.
 
 <!-- point: compte-castella -->
 ## Compte amb el castellà: formes que no es poden deduir
@@ -70,7 +70,7 @@ Les formes del subjuntiu no es poden deduir del castellà. Cal memoritzar-les:
 | «tenga» | **tingui** |
 | «pueda» | **pugui** |
 | «quiera» | **vulgui** |
-| «sepa» | **sàpiga** |
+| «sepa» | **sàpiga** (o **sàpigui**) |
 | «venga» | **vingui** |
 | «vea» | **vegi** |
 
@@ -82,7 +82,7 @@ Les formes del subjuntiu no es poden deduir del castellà. Cal memoritzar-les:
 <!-- point: expressions -->
 ## Expressions de desig
 
-- **que vagi bé!**: per acomiadar algú que marxa. *Demà tinc examen. —Que vagi bé!*
+- **que vagi bé!**: per desitjar sort a algú que marxa o que té una prova. *Demà tinc examen. —Que vagi bé!*
 - **que t'ho passis bé!**: en una festa o un viatge. *—Vaig a la festa de la Laia. —Que t'ho passis bé!*
 - **que aprofiti!**: abans de menjar. *—Comencem? —Que aprofiti!*
 - **tant de bo!**: per expressar un desig. Porta subjuntiu, sense *que*. *Tant de bo vinguis!*

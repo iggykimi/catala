@@ -11,7 +11,7 @@ En una carta o un correu formal, el destinatari és *vostè* (una persona) o *vo
 | imperatiu | **rebi**, **truqui**, **disculpi** | **rebin**, **truquin**, **disculpin** |
 | reflexiu | **es** pot posar en contacte | **es** poden posar en contacte |
 
-- El pronom de destinatari és **us**: **Us** adjunto el rebut.
+- El pronom de destinatari pot ser el de tercera persona (**Li** adjunto el rebut; **Els** adjunto el rebut) o, molt habitual en cartes, **us** (**Us** adjunto el rebut).
 - El possessiu és **vostre** (també s'admet *seu*): la **vostra** factura, el **vostre** compte.
 - Darrere de preposició: per a **vostè**, amb **vostès**.
 - L'imperatiu formal porta els pronoms darrere: **posi's** en contacte, **truqui'ns**; en plural: **posin-se**, **truquin-nos**.
@@ -61,13 +61,13 @@ En el registre formal s'hi han colat moltes traduccions literals del castellà. 
 - ~~Reciba un cordial saludo~~ → **Rebi una salutació cordial** (*rebin*, si són *vostès*).
 - ~~Disculpen las molestias~~ → **Disculpin les molèsties**.
 - ~~De antemano~~ → **per endavant** (*Us ho agraeixo per endavant*).
-- ~~A la mayor brevedad~~ i ~~lo antes posible~~ → **com més aviat millor** o **tan aviat com sigui possible**.
+- ~~A la mayor brevedad~~ i ~~lo antes posible~~ → **com més aviat millor**, **al més aviat possible** o **tan aviat com sigui possible**.
 - ~~A la atención del director~~ → **A l'atenció del director**.
 - ~~Sin otro particular~~ → **Sense res més a afegir**, o tancar directament amb *Atentament*.
 
 La forma «Sense altre particular» també és un calc molt estès: en un registre curós es prefereix *Sense res més a afegir*.
 
-> **Compte!** Els pronoms castellans no hi tenen lloc: ~~le envío~~ → **us envio**, ~~le escribo~~ → **us escric**.
+> **Compte!** Els pronoms castellans no hi tenen lloc: ~~le envío~~ → **us envio**, ~~le escribo~~ → **us escric**, ~~os adjunto~~ → **us adjunto**.
 
 <!-- point: expressions -->
 ## Expressions del consumidor
@@ -77,7 +77,7 @@ La forma «Sense altre particular» també és un calc molt estès: en un regist
 - **donar-se d'alta (de)**: contractar un servei. *Ens hem donat d'alta de la llum.*
 - **fer (o presentar) una reclamació**: queixar-se formalment. *Va presentar una reclamació a l'administració.*
 
-> **Compte!** ~~Agafar la baixa~~ és la de la feina per malaltia. Deixar un servei és **donar-se de baixa**.
+> **Compte!** *Agafar la baixa* o *estar de baixa* parlen de la feina per malaltia. Deixar un servei és **donar-se de baixa**.
 
 <!-- point: comprensio -->
 ## Llegir i entendre

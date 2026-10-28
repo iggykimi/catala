@@ -149,7 +149,7 @@ items:
     type: choice
     point: vocals-a-e
     lesson: 1
-    prompt: "Ahir vam ___ la càpsula al jardí de l'escola."
+    prompt: "Ahir vam ___ la càpsula del temps al jardí de l'escola."
     answer: "enterrar"
     distractors:
       - text: "anterrar"
@@ -242,7 +242,7 @@ items:
     lesson: 1
     title: "Al magatzem"
     text: "Al magatzem hi ha molta f{o|u}scor. Hem desat el c{o|u}tonet blanc, els m{o|u}cadors de seda, les caixes de c{o|u}tó i els pol{o|u}s negres."
-    explanation: "Foscor (de fosc), cotonet i cotó (de cotó), mocador (de moc) i polo s'escriuen amb o."
+    explanation: "Foscor (de fosc), cotonet (de cotó) i mocador (de moc) s'escriuen amb o; cotó i polo, també amb o, es memoritzen."
 
   - id: b1-28-009
     type: choice
@@ -303,7 +303,7 @@ items:
     point: vocals-a-e
     lesson: 1
     cue: "Digues que la Núria es va comprar una samarreta blanca."
-    chunks: ["la", "núria", "es", "va", "comprar", "una", "samarreta", "blanca"]
+    chunks: ["la", "Núria", "es", "va", "comprar", "una", "samarreta", "blanca"]
     extra: ["semarreta"]
     answers:
       - "La Núria es va comprar una samarreta blanca."
@@ -329,16 +329,16 @@ items:
     type: choice
     point: vocals-o-u
     lesson: 2
-    prompt: "Vam recollir ___ a la platja."
-    answer: "rodolins"
+    prompt: "Se'm va escapar el cabdell de llana i va ___ per les escales."
+    answer: "rodolar"
     distractors:
-      - text: "rudolins"
-        why: "«Rodolí» és de la família de «roda»: la primera vocal és o."
-      - text: "rodulins"
-        why: "«Rodolí» és de la família de «roda»: la segona vocal és o."
-      - text: "rudulins"
-        why: "«Rodolí» és de la família de «roda»: les dues vocals són o."
-    explanation: "«Rodolí» és de la família de «roda»: les vocals àtones són o."
+      - text: "rudolar"
+        why: "«Rodolar» és de la família de «roda»: la primera vocal és o."
+      - text: "rodular"
+        why: "La segona vocal també és o: «rodolar»."
+      - text: "rudular"
+        why: "«Rodolar» és de la família de «roda»: les dues primeres vocals són o."
+    explanation: "«Rodolar» és de la família de «roda»: les vocals àtones de l'arrel són o."
 
   - id: b1-28-016
     type: choice
@@ -552,11 +552,11 @@ items:
     prompt: "La Montse es va comprar un cinturó i una ___ blava."
     answer: "samarreta"
     distractors:
-      - text: "camiseta"
-        why: "«Camiseta» és un calc de «camiseta»: en català, «samarreta»."
+      - text: "samerreta"
+        why: "«Samarreta» s'escriu amb a a les dues primeres síl·labes."
       - text: "semarreta"
         why: "«Samarreta» s'escriu amb a a les síl·labes àtones."
-    explanation: "*Camiseta* és un calc de «camiseta». En català: «samarreta», amb a."
+    explanation: "«Samarreta» (en castellà, «camiseta») s'escriu amb a a les dues primeres síl·labes: es memoritza."
 
   - id: b1-28-032
     type: fill
@@ -728,10 +728,10 @@ items:
     point: compte-castella
     lesson: 4
     instruction: "Corregeix la paraula marcada."
-    source: "Aquest noi porta una camisa sense mànigues: és molt [[joven]]."
-    answers: ["Aquest noi porta una camisa sense mànigues: és molt jove."]
+    source: "La dependenta nova és molt [[joven]]: té dinou anys."
+    answers: ["La dependenta nova és molt jove: té dinou anys."]
     wrong_answers:
-      - text: "Aquest noi porta una camisa sense mànigues: és molt joven."
+      - text: "La dependenta nova és molt joven: té dinou anys."
         why: "*Joven* és un calc de «joven»: en català, «jove», sense n final."
     grading: strict
     explanation: "*Joven* és un calc de «joven»: en català, «jove», sense n final."
@@ -782,7 +782,7 @@ items:
     point: vocals-a-e
     lesson: 4
     prompt: "L'oficina ha comprat una ___ nova per a cada taula."
-    hint: "calaix per tirar-hi els papers"
+    hint: "recipient per llençar-hi els papers"
     answers: ["paperera"]
     wrong_answers:
       - text: "peperera"
@@ -948,16 +948,16 @@ items:
 
   - id: b1-28-061
     type: transform
-    point: compte-castella
+    point: vocals-a-e
     lesson: 5
     instruction: "Corregeix la paraula marcada."
     source: "El projecte [[evença]] a bon ritme."
     answers: ["El projecte avança a bon ritme."]
     wrong_answers:
       - text: "El projecte evença a bon ritme."
-        why: "«Avançar» porta el prefix a-, no e-: «avança»."
+        why: "«Avançar» comença amb a: «avança»."
     grading: strict
-    explanation: "«Avançar» porta el prefix a- (amb a), no e-: avança."
+    explanation: "«Avançar» comença amb a (com en castellà, «avanzar»): avança."
 
   - id: b1-28-062
     type: order
@@ -975,7 +975,7 @@ items:
     point: vocals-o-u
     lesson: 5
     cue: "Digues que l'Ibrahim t'espera a l'emprovador."
-    chunks: ["l'ibrahim", "t'espera", "a", "l'emprovador"]
+    chunks: ["l'Ibrahim", "t'espera", "a", "l'emprovador"]
     extra: ["l'empruvador"]
     answers:
       - "L'Ibrahim t'espera a l'emprovador."
@@ -988,7 +988,7 @@ items:
     lesson: 5
     title: "A la merceria"
     text: "Bon dia! Tenim r{o|u}dets de fil de colors, c{o|u}rdons de c{o|u}tó i madeixes de llana. Al fons hi ha la prestatgeria del c{o|u}tonet."
-    explanation: "Rodet (de roda), cordó (de corda), cotó i cotonet (de cotó) s'escriuen amb o."
+    explanation: "Rodet (de roda), cordó (de corda) i cotonet (de cotó) s'escriuen amb o; cotó, també amb o, es memoritza."
 
   - id: b1-28-065
     type: reading
@@ -996,7 +996,7 @@ items:
     lesson: 5
     title: "Rebaixes al centre"
     text: |
-      La Marta vol aprofitar les rebaixes d'hivern i dissabte al matí va al centre amb en Jordi, el seu germà. Primer entren en una botiga de roba jove, on la Marta es vol comprar uns texans i una samarreta de cotó. També es mira una camisa blanca de marca italiana al mirall de l'entrada. Es prova tres talles diferents a l'emprovador, però cap no li va bé: unes li són massa llargues i les altres, massa estretes. La dependenta, molt amable, li porta un altre model amb un vint per cent de descompte.
+      La Marta vol aprofitar les rebaixes d'hivern i dissabte al matí va al centre amb en Jordi, el seu germà. Primer entren en una botiga de roba jove, on la Marta es vol comprar uns texans i una samarreta de cotó. També es mira una camisa blanca de marca italiana al mirall de l'entrada. Es prova els texans en tres talles diferents a l'emprovador, però cap no li va bé: uns li són massa llargs i els altres, massa estrets. La dependenta, molt amable, li porta un altre model amb un vint per cent de descompte.
 
       Mentrestant, en Jordi mira les sabates de la segona planta. En troba unes de pell que li agraden, però valen noranta euros i decideix esperar fins a final de mes. La cremallera de la jaqueta vella ja no tanca, però la Marta no en compra cap de nova. Al final, la Marta es compra la samarreta, una bufanda de llana i un jersei verd, paga a la caixa i surt contenta de la botiga. En Jordi no compra res, però convida la seva germana a esmorzar en un bar de la plaça. Abans de marxar, acorden tornar-hi el mes que ve.
     questions:

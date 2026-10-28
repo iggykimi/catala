@@ -87,3 +87,7 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
   `validate` a 0 errores, jueces por unidad + doble barrido LanguageTool (delta 0).
   Informe y dudas para revisión humana en `docs/validacion-unidades.md`.
   e2e con 60 unidades: 2 fallos pendientes (aparcados, fuera de alcance «solo unidades»).
+- 2026-10-28 — Revisión completa de las 55 unidades nuevas (8 revisores, ítem a ítem) y resolución
+  de dudas; nuevos puntos delicados en la guía §2. Rediseño de la app (drac, racha, sonido,
+  vibración, teoría en tarjetas). Arreglado el markdown de la teoría y los 2 fallos aparcados del
+  e2e (eran del test). **Pendiente: feedback del usuario sobre el rediseño.**

@@ -107,7 +107,7 @@ vocabulary:
     definition: "Targeta que identifica un soci de la biblioteca."
     example: "Necessites el carnet per endur-te llibres."
   - word: "el prestatge"
-    definition: "Moble amb baldes on es posen els llibres."
+    definition: "Post horitzontal d'un moble on es posen els llibres."
     example: "Els còmics són al prestatge de baix."
   - word: "el punt de llibre"
     definition: "Paper o cartó per marcar on ets d'un llibre."
@@ -366,7 +366,7 @@ items:
     type: order
     point: accentuacio
     lesson: 2
-    cue: "Digues que el títol del llibre és curt i fàcil."
+    cue: "Digues que el títol és curt i fàcil."
     chunks: ["el", "títol", "és", "curt", "i", "fàcil"]
     extra: ["titol", "facil"]
     answers:
@@ -393,10 +393,10 @@ items:
     answer: "clàssic"
     distractors:
       - text: "classic"
-        why: "*Clàssic* és esdrúixola: les esdrúixoles porten accent sempre."
+        why: "*Clàssic* és plana acabada en consonant: porta accent."
       - text: "classíc"
         why: "L'accent cau a «clà», no a «sic»: *clàssic*."
-    explanation: "*Clàssic* és esdrúixola: l'accent cau a «clà»."
+    explanation: "*Clàssic* és plana acabada en consonant: l'accent cau a «clà» i s'escriu."
 
   - id: b1-31-022
     type: choice
@@ -432,7 +432,7 @@ items:
     answer: "Entendre allò que no es diu obertament."
     distractors:
       - text: "Llegir molt de pressa, sense fixar-s'hi."
-        why: "Això és *llegir per sobre* o *devorar un llibre*, no *llegir entre línies*."
+        why: "Això és *llegir per sobre*, no *llegir entre línies*."
       - text: "Llegir només els títols i les fotos."
         why: "Això s'acosta a *fullejar*. *Llegir entre línies* és entendre allò que no es diu."
     explanation: "*Llegir entre línies* és entendre el missatge amagat d'un text."
@@ -443,7 +443,7 @@ items:
     lesson: 2
     title: "Al club de lectura"
     text: "Al club de lectura llegim un {clàssic|classic} de la literatura {francesa|francèsa}. Ens trobem cada {dijous|dijòus} a la {biblioteca|bibliotéca}."
-    explanation: "*Clàssic* és esdrúixola. *Francesa*, *dijous* i *biblioteca* no porten accent."
+    explanation: "*Clàssic* és plana acabada en consonant. *Francesa*, *dijous* i *biblioteca* no porten accent."
 
   - id: b1-31-026
     type: match
@@ -462,7 +462,7 @@ items:
     type: find-error
     point: compte-castella
     lesson: 3
-    sentence: "La trama de la novel·la de policía és molt bona."
+    sentence: "El protagonista de la novel·la és un policía jubilat."
     error: "policía"
     fix: "policia"
     fix_distractors:
@@ -613,8 +613,8 @@ items:
     prompt: "—Llegeixes molt, oi? —Sí, soc ___."
     answer: "un rat de biblioteca"
     distractors:
-      - text: "una rata de biblioteca"
-        why: "L'expressió és fixa i masculina: *un rat de biblioteca*."
+      - text: "un ratolí de biblioteca"
+        why: "És un calc de «ratón de biblioteca». En català, *un rat de biblioteca*."
       - text: "un llibre de biblioteca"
         why: "Això és un objecte; la persona que llegeix molt és *un rat de biblioteca*."
     explanation: "*Ser un rat de biblioteca* vol dir que llegeixes moltíssim."
@@ -625,7 +625,7 @@ items:
     lesson: 3
     title: "Un missatge de la Laia"
     text: "La meva {veïna|veina} és traductora: de jove {traduïa|traduia} contes de diversos {països|paisos}. Ara diu que traduir és una {qüestió|questió} de paciència, i que l'{egoisme|egoïsme} no ajuda gens."
-    explanation: "*Veïna*, *traduïa*, *països* i *qüestió* porten dièresi; *egoisme* no en porta perquè té prefix."
+    explanation: "*Veïna*, *traduïa*, *països* i *qüestió* porten dièresi; *egoisme* no en porta perquè acaba en *-isme*."
   # ---------------- Lliçó 4 ----------------
   - id: b1-31-040
     type: transform
@@ -890,7 +890,7 @@ items:
     point: compte-castella
     lesson: 5
     prompt: "L'acció passa a ___."
-    hint: "OCEANIA"
+    hint: "el continent d'Austràlia"
     answers: ["Oceania"]
     wrong_answers:
       - text: "Oceanía"
@@ -976,7 +976,7 @@ items:
     lesson: 5
     title: "El club de lectura"
     text: |
-      La biblioteca del barri de Gràcia té un club de lectura que es troba cada dijous a la tarda. La bibliotecària, la Marta, tria cada mes una novel·la i penja la tria al catàleg de l'entrada. El préstec dura tres setmanes i ningú no paga res: només cal el carnet.
+      La biblioteca del barri de Gràcia té un club de lectura que es troba cada dijous a la tarda. La bibliotecària, la Marta, tria cada mes una novel·la i penja la tria al tauler de l'entrada. El préstec dura tres setmanes i ningú no paga res: només cal el carnet.
 
       Aquest mes toca un gènere nou: la novel·la negra. La protagonista és una inspectora que torna al seu poble per resoldre un robatori antic. És un personatge tossut i valent. En Pau, que és un rat de biblioteca, ja l'ha acabat: diu que l'ha devorada en quatre dies. La Fàtima, en canvi, encara va pel pròleg: llegeix a poc a poc i rellegeix els paràgrafs difícils. Sempre perd el punt de llibre.
 

@@ -7,7 +7,7 @@ Les frases fetes són combinacions fixes: sempre diuen les mateixes paraules i e
 - **ploure sobre mullat**: afegir-se un mal a un altre. *Va perdre la feina i se li va inundar el pis: plovia sobre mullat.*
 - **a correcuita**: anar de pressa, amb el temps just. *Vam sopar a correcuita.*
 - **a la babalà**: sense pensar-s'hi gens. *Ho va decidir a la babalà.*
-- **estar pengim-penjam**: no decidir-se entre dues opcions. *Està pengim-penjam entre dues feines.*
+- **estar pengim-penjam**: penjar de manera insegura, a punt de caure; també es diu d'una situació precària. *El rètol està pengim-penjam.*
 - **fer el cor fort**: acceptar amb resignació una cosa desagradable. *No li agrada el torn, però ha fet el cor fort.*
 
 El verb de l'expressió es conjuga segons la frase (*estiren*, *plovia*, *ha fet*), però les altres paraules no canvien.
@@ -25,6 +25,8 @@ Els refranys són frases senceres que donen un consell o una lliçó. Aquests tr
 
 Sovint tanquen una conversa o un argument: després del refrany no cal afegir-hi res més.
 
+N'hi ha molts més. Per exemple, *qui dia passa, any empeny* es diu de qui va tirant dia a dia, sense pressa i sense pensar en el demà.
+
 > **Compte!** El refrany es diu sencer i sense canvis: ~~de mica en mica s'omple la piscina~~ → **de mica en mica s'omple la pica**.
 
 <!-- point: refranys-registre -->
@@ -32,7 +34,7 @@ Sovint tanquen una conversa o un argument: després del refrany no cal afegir-hi
 
 **1. Són fixos.** No es canvia cap paraula, ni tan sols per un sinònim: el refrany deixaria de ser el refrany.
 
-> ~~Més val d'hora que mai~~ → **Més val tard que mai**. ~~Qui no vol pols…~~ → **Qui no vulgui pols**… (el refrany demana subjuntiu).
+> ~~Més val d'hora que mai~~ → **Més val tard que mai**. ~~De poc a poc s'omple la pica~~ → **De mica en mica s'omple la pica**.
 
 **2. Tenen el seu registre.** Les frases fetes i els refranys són propis de la llengua oral i dels textos propers: la conversa, el blog, l'article d'opinió o el pregó de festa major.
 
@@ -51,12 +53,12 @@ Les expressions no es tradueixen mot per mot: cada llengua té les seves.
 - «más vale tarde que nunca» → **més val tard que mai** (no *nunca*).
 - «poco a poco» → **de mica en mica** (en el refrany).
 - «manga» → **màniga**: *estirar més el braç que la màniga*.
-- «estar entre Pinto y Valdemoro» → **estar pengim-penjam**.
+- «estar colgando», «estar en la cuerda floja» → **estar pengim-penjam**.
 - «hacer de tripas corazón» → **fer el cor fort**.
 - «a lo loco» → **a la babalà**.
 - «polvo» → **pols**: *qui no vulgui pols, que no vagi a l'era*.
 
-> **Compte!** ~~ploure sobre mojat~~, ~~més val tard que nunca~~ i ~~fer de tripes cor~~ semblen català, però són calcs. Fes servir l'equivalent català.
+> **Compte!** ~~ploure sobre mojat~~, ~~més val tard que nunca~~ i ~~estirar més el braç que la manga~~ barregen paraules castellanes dins l'expressió catalana. Fes servir l'equivalent català sencer.
 
 <!-- point: comprensio -->
 ## Llegir i entendre

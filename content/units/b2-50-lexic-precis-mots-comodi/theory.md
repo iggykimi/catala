@@ -13,7 +13,7 @@ Hi ha verbs que serveixen per a tot, com *fer*. No són incorrectes, però no di
 | fer un error | **cometre** |
 | fer una festa | **organitzar** |
 | fer un discurs | **pronunciar** |
-| fer una reunió | **convocar** |
+| fer una reunió (cridar-hi la gent) | **convocar** |
 | fer un forat | **foradar** |
 | fer nou (el bany) | **reformar** |
 | fer una trucada | **trucar** |
@@ -72,7 +72,7 @@ Hi ha verbs que serveixen per a tot, com *fer*. No són incorrectes, però no di
 - Hi ha un **aspecte** del plànol que no em convenç.
 - Passa'm el **trepant** per foradar la paret.
 - Desa els **estris** de cuinar a les caixes.
-- La pintura fa pudor: obre la finestra, que **la pintura** és insuportable.
+- Ha sortit una gotera al replà: **la gotera** és cada cop més gran.
 
 *Assumpte* i *tema* són masculins; *qüestió* és femení. *Estri* és masculí: **els estris**.
 
@@ -88,15 +88,15 @@ Algunes combinacions amb *fer*, *posar*, *donar* i *tenir* semblen catalanes, pe
 | Calc | Forma genuïna |
 |---|---|
 | ~~tenir que veure~~ | **tenir a veure** |
-| ~~donar-se pressa~~ | **afanyar-se** |
-| ~~fer cas omís~~ | **no fer cas** |
-| ~~posar pegues~~ | **posar inconvenients** |
-| ~~tenir bona pinta~~ | **fer bona pinta** |
+| ~~donar-se compte~~ | **adonar-se** |
+| ~~tenir que~~ + infinitiu | **haver de** + infinitiu |
+| ~~donar igual~~ | **ser igual**, **tant se val** |
 | ~~fer novillos~~ | **fer campana** |
 | ~~tomar una decisió~~ | **prendre una decisió** |
 
 - Aquesta gotera no **té a veure** amb la humitat.
-- **Afanya't**, que el fuster vindrà d'aquí a deu minuts!
+- El lampista **s'ha adonat** que el desguàs està embussat.
+- El pintor **ha de** tornar demà.
 - L'aprenent va **fer campana** dilluns.
 - Hem de **prendre una decisió** sobre l'aïllament.
 

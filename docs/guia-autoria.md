@@ -63,6 +63,18 @@ Puntos conocidos (lista abierta; si encuentras otro, añádelo al informe):
 | *al* + infinitivo temporal (*al sortir*) | Enseñar *en sortir* como forma preferida; no ponerlo como error. |
 | Nombre de persona sin artículo (*He vist Laia*) | El estándar valenciano lo omite: no es error. Se practica la **forma** del artículo (*la Laia*, *l'Anna*, *en Jordi*), no su presencia. |
 | Fórmulas de cortesía calcadas (*encantat de conèixer-te*) | No enseñarlas; usar las genuinas (*molt de gust*). Si LanguageTool marca una expresión del currículo, gana LanguageTool hasta comprobarlo. |
+| Presente con valor de futuro (*Demà plou*, *Demà vaig a Vic*) | Correcto. No es error. |
+| Presente de indicativo como petición (*Em passes la sal?*) | Correcto. No usarlo como error frente al imperativo. |
+| *més bo* / *més dolent* | Correctos junto a *millor* / *pitjor*. |
+| Nombres de género común (*la poeta*, *la metge*, *la jutge*) | No son error; sí lo son los calcos (*metga*, *jutja*, *alcaldesa*). |
+| *en compte de*, *a pesar de* + nombre, *a pesar que* | Correctos. El error es *en vez de* y *a pesar de que*. |
+| *hagués* + participio en la principal de la condicional irreal | Correcto, junto a *hauria* + participio. |
+| Estilo indirecto sin cambio de tiempo cuando lo dicho sigue vigente | Admitido: el contexto tiene que dejar claro que lo dicho ya pasó si se pide el cambio. |
+| Indicativo tras *no crec que* / *dubto que* | Posible. El subjuntivo es la forma preferida, pero el indicativo no sale como error. |
+| Preposición + artículo + *que* (*en el que*) y *com si era* | Se oyen en registro informal: solo son error si el ítem dice «registre formal». |
+| Preposición + *què* + infinitivo (*amb què escriure*) | Correcto. |
+| *se* ante consonante con verbos pronominales (*se veu*) | Error en el estándar (*es veu*); *se* ante *s-* es correcto (*se sap*). |
+| No verificados: *quedar de* + inf., *verruga*, *estar a* + inf., *mentres*, *tenir bona pinta*, *en relació a*, *una època on*, *sàpigui* | No usarlos como error. Si hace falta un distractor, usar una forma inequívocamente incorrecta. |
 
 En el informe final, enumera los ítems que tocan un punto delicado para que se revisen a mano.
 

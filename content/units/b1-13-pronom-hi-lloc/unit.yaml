@@ -335,7 +335,7 @@ items:
     type: fill
     point: hi-moviment
     lesson: 2
-    prompt: "La Montse i el Jordi queden a la plaça cada divendres: ___ queden a les sis."
+    prompt: "—On queden la Montse i el Jordi? A la plaça? —Sí, ___ queden cada divendres a les sis."
     hint: "pronom per a «a la plaça»"
     answers: ["hi"]
     wrong_answers:
@@ -379,6 +379,7 @@ items:
     answers:
       - "Vull anar-hi amb tu demà."
       - "Demà vull anar-hi amb tu."
+      - "Vull anar-hi demà amb tu."
     explanation: "Darrere de l'infinitiu, *hi* va amb guionet: *anar-hi*."
 
   - id: b1-13-021
@@ -451,8 +452,8 @@ items:
     point: hi-moviment
     lesson: 2
     title: "Cap de setmana a Tarragona"
-    text: "La setmana que ve anem a Tarragona. Dissabte {hi|ho|la} anem al matí i {hi|ho|el} tornem diumenge al vespre. Diumenge {hi|ho|li} dinem amb els meus oncles i a la tarda passegem pel barri vell. A les vuit ja {hi|ho|la} som, cansats però contents."
-    explanation: "Tarragona és on van, on tornen i on dinen: sempre *hi*. Al final, *hi som* vol dir que ja són allà."
+    text: "La setmana que ve anem a Tarragona. Dissabte {hi|ho|la} anem en tren i {hi|ho|el} dinem amb els meus oncles, que {hi|ho|la} viuen des de fa vint anys. A la tarda passegem pel barri vell. M'agrada tant que l'any que ve {hi|ho|la} tornarem."
+    explanation: "Tarragona és on van, on dinen, on viuen els oncles i on tornaran: sempre *hi*."
 
   # ---------------- Lliçó 3 ----------------
   - id: b1-13-027
@@ -570,14 +571,14 @@ items:
     type: choice
     point: compte-castella
     lesson: 3
-    prompt: "—Tornes al poliesportiu demà? —Quina resposta és correcta?"
-    answer: "Sí, hi torno a les set."
+    prompt: "—Vas al poliesportiu demà? —Quina resposta és correcta?"
+    answer: "Sí, hi vaig a les set."
     distractors:
-      - text: "Sí, torno a les set."
-        why: "Sense *hi* és un calc del castellà «vuelvo»."
-      - text: "Sí, ho torno a les set."
+      - text: "Sí, vaig a les set."
+        why: "Sense *hi* és un calc del castellà «voy»."
+      - text: "Sí, ho vaig a les set."
         why: "*Ho* no substitueix un lloc."
-    explanation: "Si no repetim el lloc, *hi* és obligatori: *hi torno a les set*."
+    explanation: "Amb *anar*, si no repetim el lloc, *hi* és obligatori: *hi vaig a les set*."
 
   - id: b1-13-037
     type: choice
@@ -599,8 +600,8 @@ items:
     prompt: "Plou molt i la Núria és a casa de la seva mare. La mare li diu: «___ fins demà!»"
     answer: "Queda-t'hi"
     distractors:
-      - text: "Queda-hi"
-        why: "El verb és pronominal (*quedar-se*): cal el pronom *et*, que davant de *hi* és *t'*: *queda-t'hi*."
+      - text: "Queda't-hi"
+        why: "*Et* davant de *hi* s'apostrofa i va darrere del guionet: *queda-t'hi*."
       - text: "Queda-t'ho"
         why: "*Ho* no substitueix un lloc."
     explanation: "*Quedar-se* és pronominal: *queda't* + *hi* donen *queda-t'hi*."
@@ -722,16 +723,16 @@ items:
     point: compte-castella
     lesson: 4
     instruction: "Afegeix el pronom *hi* on calgui."
-    source: "—Tornareu al poble per Nadal? —Sí, [[tornarem]]."
+    source: "—Anireu al poble per Nadal? —Sí, [[anirem]]."
     answers:
-      - "—Tornareu al poble per Nadal? —Sí, hi tornarem."
+      - "—Anireu al poble per Nadal? —Sí, hi anirem."
     wrong_answers:
-      - text: "—Tornareu al poble per Nadal? —Sí, tornarem."
-        why: "Sense *hi* és un calc del castellà «volveremos»."
-      - text: "—Tornareu al poble per Nadal? —Sí, ho tornarem."
+      - text: "—Anireu al poble per Nadal? —Sí, anirem."
+        why: "Sense *hi* és un calc del castellà «iremos»."
+      - text: "—Anireu al poble per Nadal? —Sí, ho anirem."
         why: "*Ho* no substitueix un lloc."
     grading: tolerant
-    explanation: "En la resposta curta, el lloc no es repeteix, però *hi* és obligatori: *hi tornarem*."
+    explanation: "En la resposta curta, el lloc no es repeteix, però amb *anar* el pronom és obligatori: *hi anirem*."
 
   - id: b1-13-047
     type: fill
@@ -820,8 +821,8 @@ items:
       - prompt: "Què fa la Laia cada matí?"
         answer: "Nada a la piscina abans de treballar."
         distractors:
-          - text: "Esmorza amb la colla al forn."
-            why: "Esmorza després de nedar."
+          - text: "Queda amb els amics a la plaça."
+            why: "Amb els amics queda el cap de setmana, no cada matí."
           - text: "Va al curs de ceràmica."
             why: "El curs és dimarts i dijous, no cada matí."
       - prompt: "Què fa la Laia a la biblioteca?"
@@ -940,12 +941,12 @@ items:
     type: choice
     point: compte-castella
     lesson: 5
-    prompt: "La Núria explica per què no era a la reunió. Quina frase és correcta?"
-    answer: "No hi vaig ser a temps."
+    prompt: "La Núria diu que ahir no va anar a la reunió. Quina frase és correcta?"
+    answer: "Ahir no hi vaig ser."
     distractors:
-      - text: "No vaig ser a temps."
-        why: "Sense *hi* la frase queda incompleta: *no hi vaig ser*."
-      - text: "No ho vaig ser a temps."
+      - text: "Ahir no vaig ser."
+        why: "Sense *hi* la frase queda incompleta: per dir que no eres en un lloc, *no hi vaig ser*."
+      - text: "Ahir no ho vaig ser."
         why: "*Ho* no substitueix un lloc."
     explanation: "*Ser-hi* també va en passat: *no hi vaig ser*. Sense *hi*, la frase queda incompleta."
 
@@ -953,11 +954,11 @@ items:
     type: fill
     point: expressions
     lesson: 5
-    prompt: "—No trobo el paraigua. —Busca bé, que ___ ha d'haver a l'entrada."
+    prompt: "—És diumenge i necessito un medicament. —Tranquil, ___ ha d'haver alguna farmàcia de guàrdia."
     hint: "pronom de lloc"
     answers: ["hi"]
     grading: tolerant
-    explanation: "*Hi ha d'haver* vol dir que és segur que existeix: el paraigua és a l'entrada."
+    explanation: "*Hi ha d'haver* vol dir que és segur que existeix: segur que alguna farmàcia és de guàrdia."
 
   - id: b1-13-063
     type: fill
