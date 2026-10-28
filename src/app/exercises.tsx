@@ -24,7 +24,7 @@ function CheckBar({ ready, onCheck, done }: { ready: boolean; onCheck: () => voi
   if (done) return null;
   return (
     <div className="bottom-bar">
-      <button className="primary" disabled={!ready} onClick={onCheck}>
+      <button className="btn btn-primary" disabled={!ready} onClick={onCheck}>
         Comprova
       </button>
     </div>
@@ -84,7 +84,7 @@ export function Choice({ item, done, onResult }: Props<"choice">) {
   const chosen = sel === null ? null : options[sel]!;
   const check = () => onResult(chosen!.ok ? { verdict: "correct" } : { verdict: "wrong", why: chosen!.why });
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction} />
       <p className="prompt">
         <GapText text={item.prompt} fill={chosen && <Rich text={chosen.text} />} state={done ? (chosen?.ok ? "ok" : "bad") : undefined} />
@@ -115,7 +115,7 @@ export function Fill({ item, done, onResult }: Props<"fill">) {
   const check = () => onResult(typedResult(value, item));
   const width = Math.max(...item.answers.map((a) => a.length), 4) + 2;
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction} />
       <p className="prompt">
         <GapText
@@ -152,7 +152,7 @@ export function Transform({ item, done, onResult }: Props<"transform">) {
   const ready = value.trim() !== "";
   const check = () => onResult(typedResult(full, item));
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction ?? "Reescriu la frase."} />
       <p className="prompt source">
         <Rich text={item.source} />
@@ -199,7 +199,7 @@ export function InlineChoice({ item, done, onResult }: Props<"inline-choice">) {
   const label = (o: string) => (o === "" ? "—" : o);
   let g = -1;
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction} />
       {item.title && <h2 className="ex-title">{item.title}</h2>}
       <p className="prompt reading-text">
@@ -258,7 +258,7 @@ export function FindError({ item, done, onResult }: Props<"find-error">) {
     setStage("fix");
   };
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction ?? (stage === "pick" ? "Toca la part incorrecta." : "Tria la correcció.")} />
       <p className="prompt tokens">
         {tokens.map((t, i) => {
@@ -295,7 +295,7 @@ export function Order({ item, done, onResult }: Props<"order">) {
     onResult(ok ? { verdict: "correct" } : { verdict: "wrong", expected: item.answers[0] });
   };
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction} />
       <p className="prompt cue">
         <Rich text={item.cue} />
@@ -353,7 +353,7 @@ export function Match({ item, done, onResult }: Props<"match">) {
     );
   };
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction ?? "Relaciona."} />
       <div className="match">
         <div className="match-col">{left.map((e) => cell("l", e))}</div>
@@ -371,7 +371,7 @@ export function Reading({ item, done, onResult }: Props<"reading">) {
     onResult(wrong ? { verdict: "wrong", why: wrong.why } : { verdict: "correct" });
   };
   return (
-    <div className="ex">
+    <div className="ex enter">
       <Instruction text={item.instruction} />
       <article className="reading">
         <h2 className="ex-title">{item.title}</h2>

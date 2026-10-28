@@ -33,6 +33,9 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
 - `e2e/`: Playwright en móvil (Pixel 7). `app.spec.ts` juega **todas las lecciones de todas las
   unidades** con las respuestas del YAML: si un ítem no se puede responder en la interfaz, falla.
   `screens.spec.ts` solo hace capturas (claro y oscuro) para revisión visual.
+- `src/app/fx.ts`: sonido sintetizado, vibración (`@capacitor/haptics`) y confeti; preferencias en
+  `localStorage` (`catala.prefs.v1`). `src/app/assets/`: drac y foc de Noto Animated Emoji (CC BY 4.0,
+  la atribución está en Ajustes).
 
 ## Comandos
 
@@ -42,7 +45,8 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
 - `npm test`: tests unitarios (vitest). `npm run typecheck`.
 - `npm run dev` / `npm run build`: la app. `npm run e2e`: tests e2e (construye y sirve la app).
 - `SCREENS=<carpeta> npx playwright test screens`: capturas para revisar a ojo.
-- `npx tsx scripts/icons.ts`: regenera los PNG del icono desde `public/icon.svg`.
+- `npx tsx scripts/icons.ts`: regenera los iconos (drac sobre amarillo) desde `src/app/assets/drac.png`.
+- `PORT=<n>` en Playwright: segundo servidor si otro e2e ocupa el 4173.
 
 ## LanguageTool (solo para escribir contenido)
 

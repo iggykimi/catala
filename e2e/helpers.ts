@@ -71,6 +71,22 @@ export async function playLesson(page: Page, queue: Item[]) {
   for (const item of queue) {
     await answerRight(page, item);
     await expectVerdict(page, "Correcte");
-    await page.getByRole("button", { name: "Continua" }).click();
+    await page.getByRole("button", { name: "Continua", exact: true }).click();
   }
+}
+
+/** A unit's first lesson opens with theory cards: page through them and start. */
+export async function skipIntro(page: Page) {
+  await page.locator(".intro, .ex").first().waitFor();
+  if (!(await page.locator(".intro").isVisible())) return;
+  while (await page.getByRole("button", { name: "Següent", exact: true }).isVisible()) {
+    await page.getByRole("button", { name: "Següent", exact: true }).click();
+  }
+  await page.getByRole("button", { name: "Comença", exact: true }).click();
+}
+
+/** Starts the next lesson from the home screen. */
+export async function startNext(page: Page) {
+  await page.locator(".continue").click();
+  await skipIntro(page);
 }

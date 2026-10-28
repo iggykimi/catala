@@ -11,15 +11,14 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["icon.svg"],
       manifest: {
         name: "Català",
         short_name: "Català",
         lang: "ca",
         start_url: ".",
         display: "standalone",
-        background_color: "#e8eae5",
-        theme_color: "#2f5d9e",
+        background_color: "#f6f7f3",
+        theme_color: "#13a89e",
         icons: [
           { src: "icon-192.png", sizes: "192x192", type: "image/png" },
           { src: "icon-512.png", sizes: "512x512", type: "image/png" },
@@ -27,7 +26,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ["**/*.{js,css,html,svg,png,woff2}"],
+        globPatterns: ["**/*.{js,css,html,svg,png,webp,woff2}"],
         // The 60 units ship in one bundle (~2.9 MB); raise the 2 MiB default.
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       },

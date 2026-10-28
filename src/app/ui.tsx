@@ -44,8 +44,22 @@ export function Panot({ filled, total = 5, fresh, size = 44 }: { filled: number;
   );
 }
 
+/**
+ * An illustration that moves: animated WebP, or its still frame when the system
+ * asks for reduced motion or when `animate` is off (e.g. a streak not yet kept today).
+ */
+export function Sprite({ anim, still, size, animate = true, className }: { anim: string; still: string; size: number; animate?: boolean; className?: string }) {
+  return (
+    <picture className={className}>
+      {animate && <source srcSet={still} media="(prefers-reduced-motion: reduce)" />}
+      <img src={animate ? anim : still} width={size} height={size} alt="" draggable={false} />
+    </picture>
+  );
+}
+
 const icons: Record<string, ReactNode> = {
   back: <path d="M15 5l-7 7 7 7" />,
+  check: <path d="M5 12.5l4.5 4.5L19 7.5" />,
   close: <path d="M6 6l12 12M18 6L6 18" />,
   flag: <path d="M6 21V4m0 0h10l-2 4 2 4H6" />,
   menu: <path d="M5 7h14M5 12h14M5 17h14" />,

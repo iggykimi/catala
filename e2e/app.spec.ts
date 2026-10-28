@@ -1,7 +1,7 @@
 import { expect, test } from "@playwright/test";
 import type { Progress } from "../src/app/progress";
 import { lessonSession, reviewSession } from "../src/app/session";
-import { check, escape, expectVerdict, plain, playLesson, units } from "./helpers";
+import { check, escape, expectVerdict, plain, playLesson, startNext, units } from "./helpers";
 
 test("every lesson of every unit can be completed with the authored answers", async ({ page }) => {
   // About 13 items per lesson and 5 lessons per unit: the time grows with the course.
@@ -9,10 +9,10 @@ test("every lesson of every unit can be completed with the authored answers", as
   await page.goto("/");
   for (const unit of units) {
     for (let n = 1; n <= unit.lessons.length; n++) {
-      await page.locator(".continue").click();
+      await startNext(page);
       await playLesson(page, lessonSession(unit, n).queue);
       await expect(page.locator(".score")).toContainText(`${lessonSession(unit, n).size} de ${lessonSession(unit, n).size}`);
-      await page.getByRole("button", { name: "Continua" }).click();
+      await page.getByRole("button", { name: "Continua", exact: true }).click();
     }
   }
   // Everything done: no lesson left to continue.
@@ -23,17 +23,18 @@ test("a wrong answer is explained, comes back at the end and counts as a miss", 
   const unit = units[0]!;
   const [first, ...rest] = lessonSession(unit, 1).queue;
   await page.goto("/");
-  await page.locator(".continue").click();
+  await startNext(page);
 
   if (first!.type !== "choice") throw new Error("this test expects the first item to be a choice");
   await page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(first!.distractors[0]!.text))}$`) }).click();
   await check(page);
   await expectVerdict(page, "Incorrecte");
   await expect(page.locator(".option.is-right")).toHaveText(plain(first!.answer));
+  await page.getByRole("button", { name: "Per què?" }).click();
   await page.getByRole("button", { name: "Teoria" }).click();
   await expect(page.getByRole("dialog", { name: "Teoria" })).toBeVisible();
   await page.getByRole("button", { name: "Tanca" }).click();
-  await page.getByRole("button", { name: "Continua" }).click();
+  await page.getByRole("button", { name: "Continua", exact: true }).click();
 
   await playLesson(page, [...rest, first!]);
   const size = rest.length + 1;
@@ -45,13 +46,13 @@ test("progress survives a reload and due points come back as a review", async ({
   await page.clock.install({ time: day0 });
   await page.goto("/");
   const unit = units[0]!;
-  await page.locator(".continue").click();
+  await startNext(page);
   await playLesson(page, lessonSession(unit, 1).queue);
-  await page.getByRole("button", { name: "Continua" }).click();
+  await page.getByRole("button", { name: "Continua", exact: true }).click();
 
   await page.reload();
   await expect(page.locator(".unit-row").first().locator(".panot-part.is-filled")).toHaveCount(1);
-  await expect(page.getByRole("button", { name: /Repàs/ })).toHaveCount(0);
+  await expect(page.locator(".review")).toHaveCount(0);
 
   const later = new Date("2026-11-20T09:00:00");
   await page.clock.setFixedTime(later);
@@ -59,7 +60,7 @@ test("progress survives a reload and due points come back as a review", async ({
   const stored = await page.evaluate(() => localStorage.getItem("catala.progress.v1"));
   const review = reviewSession(units, JSON.parse(stored!) as Progress, later);
   expect(review.size).toBeGreaterThan(0);
-  await page.getByRole("button", { name: /Repàs/ }).click();
+  await page.locator(".review").click();
   await playLesson(page, review.queue);
   await expect(page.locator("h1")).toHaveText("Repàs fet");
 });
