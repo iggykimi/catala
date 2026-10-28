@@ -3,7 +3,7 @@
 App personal para aprender catalán de A2 a B2: 60 unidades con gramática explícita, ejercicios de
 ocho tipos y repaso espaciado de los errores. Explicaciones en catalán, variante central.
 
-Estado y estructura en [`AGENTS.md`](AGENTS.md).
+Estado y estructura en [`AGENTS.md`](AGENTS.md). Qué queda por hacer: [`docs/siguientes-pasos.md`](docs/siguientes-pasos.md).
 
 ```bash
 npm install

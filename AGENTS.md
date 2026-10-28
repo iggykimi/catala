@@ -90,4 +90,6 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
 - 2026-10-28 — Revisión completa de las 55 unidades nuevas (8 revisores, ítem a ítem) y resolución
   de dudas; nuevos puntos delicados en la guía §2. Rediseño de la app (drac, racha, sonido,
   vibración, teoría en tarjetas). Arreglado el markdown de la teoría y los 2 fallos aparcados del
-  e2e (eran del test). **Pendiente: feedback del usuario sobre el rediseño.**
+  e2e (eran del test). El e2e completo no llegó a terminar tras la revisión (el sistema lo cortó por
+  memoria); queda para el otro PC. **Pendiente: e2e completo, APK y feedback del usuario**
+  (`docs/siguientes-pasos.md`).
