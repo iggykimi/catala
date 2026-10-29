@@ -104,13 +104,11 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
   un test por unidad con movimiento reducido y pasa en 2,0 min (65 pasados, 2 omitidos por diseño).
   Build web y `cap sync` hechos; la `android/` local no tiene proyecto Gradle: en el PC de
   compilación, `npx cap add android` antes de sincronizar. **Pendiente: APK y feedback.**
-- 2026-10-29 — Issue #2 en rama `issue-2-hardening` (4 oleadas + integrador, auditado):
-  generaciones progreso-borrador, restauración unificada con confirmación, PWA prompt verificada
-  con test propio, guardado/fin robustos, atrás Android unificado, Reprèn protagonista, teoría en
-  diálogo nativo, tema CSS consolidado, E2E-01..08. e2e 81/81, unitarios 68/68, 70 capturas. CI
-  excluido por decisión del usuario. **Pendiente: revisar la rama, mergear y cerrar el issue.**
-- 2026-10-29 — Issue #1 en rama `issue-1-refinament` (5 oleadas paralelas + integrador, auditado):
-  paleta accesible AA, sesiones recuperables con anti-duplicado, progreso validado con Zod,
-  selector de tema, diálogos nativos, export/import JSON, PWA con actualización manual y CI.
-  e2e 72/72 en 1,5 min, unitarios 53/53, 58 capturas antes/después revisadas. Fase 7 opcional
-  pendiente por decisión. **Pendiente: revisar la rama, mergear y cerrar el issue.**
+- 2026-10-29 — Issue #1 mergeado (refinamiento: paleta AA, sesiones recuperables, tema,
+  diálogos, export/import, PWA manual). e2e 72/72, unitarios 53/53. Fase 7 opcional pendiente.
+- 2026-10-29 — Issue #2 mergeado (hardening: generaciones progreso-borrador, restauración
+  unificada, PWA verificada con test propio, atrás unificado, Reprèn protagonista, teoría en
+  diálogo, E2E-01..08). e2e 81/81, unitarios 68/68. CI excluido por decisión del usuario.
+- 2026-10-29 — APK v1.1 publicada con #1+#2. Issue #3 (auditoría) en rama `issue-3-polish`:
+  contraste de errores en oscuro, docs al día, validación completa. **Pendiente: probar la v1.1
+  en el móvil y dar feedback.**
