@@ -1,9 +1,9 @@
 // Screenshots for visual review, not assertions. Run with:
 //   SCREENS=<output dir> npx playwright test screens
-import { test, type Page } from "@playwright/test";
+import { expect, test, type Page } from "@playwright/test";
 import type { Item } from "../src/content/schema";
 import { lessonSession } from "../src/app/session";
-import { answerRight, check, escape, expectVerdict, playLesson, plain, units } from "./helpers";
+import { answerRight, check, escape, expectVerdict, playLesson, plain, skipIntro, units } from "./helpers";
 
 /** Renders text without diacritics, e.g. an accent slip a tolerant grader accepts. */
 const stripAccents = (s: string) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -26,6 +26,42 @@ async function reach(page: Page, queue: Item[], id: string) {
 
 const next = (page: Page) => page.getByRole("button", { name: "Continua", exact: true }).click();
 
+/** Discards the home resume card through the UI when one is shown. */
+async function discardResumeCard(page: Page) {
+  const card = page.locator(".resume-card");
+  // Home re-reads storage on arrival: give the card a moment before concluding there is none.
+  await card.waitFor({ timeout: 2000 }).catch(() => {});
+  if (!(await card.isVisible())) return;
+  await card.getByRole("button", { name: /Descarta/ }).click();
+  // A draft with answers asks for confirmation; an empty one goes at once.
+  const discard = page.getByRole("dialog", { name: "Descarta la sessió?" });
+  await discard.waitFor({ timeout: 2000 }).catch(() => {});
+  if (await discard.isVisible()) {
+    await discard.getByRole("button", { name: "Descarta", exact: true }).click();
+  }
+  await expect(card).toHaveCount(0);
+}
+
+/**
+ * Closes the current session through the UI (Surt, confirming when partial),
+ * discards its draft from home, and reopens the unit: refuse-to-overwrite
+ * means the next lesson needs a clean state first.
+ */
+async function abandonToUnit(page: Page, unitTitle: string) {
+  await page.getByRole("button", { name: "Surt" }).click();
+  const exitDialog = page.getByRole("dialog", { name: "Surt de la sessió?" });
+  await exitDialog.waitFor({ timeout: 2000 }).catch(() => {});
+  if (await exitDialog.isVisible()) {
+    await exitDialog.getByRole("button", { name: "Surt", exact: true }).click();
+  }
+  await page.locator(".lesson-row").first().waitFor();
+  await page.goBack();
+  await page.locator(".home").waitFor();
+  await discardResumeCard(page);
+  await page.locator(".unit-row", { hasText: plain(unitTitle) }).click();
+  await page.locator(".lesson-row").first().waitFor();
+}
+
 /** A mid-lesson draft of a2-01 lesson 1: 3 items left out of the full lesson. */
 const resumeUnit = units.find((u) => u.id === "a2-01")!;
 const resumeIds = lessonSession(resumeUnit, 1).queue.map((it) => it.id);
@@ -47,6 +83,25 @@ for (const scheme of ["light", "dark"] as const) {
     const unit = units.find((u) => u.id === "a2-03")!;
     await page.goto("/");
     await shot(page, `${scheme}-01-home`);
+
+    // Save failure: with storage writes blocked, the session warns it cannot resume.
+    await page.evaluate(() => {
+      const proto = Object.getPrototypeOf(localStorage);
+      (window as unknown as Record<string, unknown>).__origSetItem = proto.setItem;
+      proto.setItem = () => {
+        throw new Error("storage blocked for a screenshot");
+      };
+    });
+    await page.locator(".continue").click();
+    await skipIntro(page);
+    await page.locator(".save-error").waitFor();
+    await shot(page, `${scheme}-31-save-error`);
+    await page.getByRole("button", { name: "Surt" }).click();
+    await page.evaluate(() => {
+      const proto = Object.getPrototypeOf(localStorage);
+      proto.setItem = (window as unknown as Record<string, unknown>).__origSetItem;
+    });
+    await page.locator(".home").waitFor();
 
     // Unit, theory, vocabulary.
     await page.locator(".unit-row", { hasText: plain(unit.title) }).click();
@@ -81,7 +136,7 @@ for (const scheme of ["light", "dark"] as const) {
     await page.getByRole("button", { name: "Per què?" }).click();
     await shot(page, `${scheme}-08-feedback-why`);
     await page.getByRole("button", { name: "Teoria" }).click();
-    await shot(page, `${scheme}-09-theory-overlay`);
+    await shot(page, `${scheme}-09-theory-modal`);
     await page.getByRole("button", { name: "Tanca" }).click();
     await next(page);
     const inline = await reach(page, l1.slice(1), "a2-03-009");
@@ -90,6 +145,12 @@ for (const scheme of ["light", "dark"] as const) {
     await answerRight(page, inline);
     await shot(page, `${scheme}-11-feedback-right`);
     await next(page);
+    // Leaving a partial session asks for confirmation; cancel and carry on.
+    await page.getByRole("button", { name: "Surt" }).click();
+    const exitDialog = page.getByRole("dialog", { name: "Surt de la sessió?" });
+    await exitDialog.waitFor();
+    await shot(page, `${scheme}-30-exit-dialog`);
+    await exitDialog.getByRole("button", { name: "Cancel·la" }).click();
     await reach(page, l1.slice(l1.findIndex((it) => it.id === "a2-03-010")), "a2-03-011");
     await shot(page, `${scheme}-12-match`);
     // Match with a previous error: one wrong pair, then all pairs right.
@@ -126,20 +187,16 @@ for (const scheme of ["light", "dark"] as const) {
     await reach(page, l2.slice(1), "a2-03-020");
     await page.locator(".bank .chip").first().click();
     await shot(page, `${scheme}-16-order`);
-    await page.goBack();
-    // The abandoned session left a draft: starting another one requires resolving it first.
-    await page.evaluate(() => localStorage.removeItem("catala.session.v1"));
+    await abandonToUnit(page, unit.title);
     await page.locator(".lesson-row").nth(2).click();
     await reach(page, lessonSession(unit, 3).queue, "a2-03-035");
     await page.locator(".token").nth(2).click();
     await shot(page, `${scheme}-17-find-error`);
-    await page.goBack();
-    await page.evaluate(() => localStorage.removeItem("catala.session.v1"));
+    await abandonToUnit(page, unit.title);
     await page.locator(".lesson-row").nth(3).click();
     await page.getByLabel("Resposta").fill("Nosaltres sopem a casa dels avis cada diumenge");
     await shot(page, `${scheme}-18-transform`);
-    await page.goBack();
-    await page.evaluate(() => localStorage.removeItem("catala.session.v1"));
+    await abandonToUnit(page, unit.title);
     await page.locator(".lesson-row").nth(4).click();
     await shot(page, `${scheme}-19-reading`);
     // Reading with errors: first question wrong, the rest right.
@@ -159,31 +216,59 @@ for (const scheme of ["light", "dark"] as const) {
     await check(page);
     await shot(page, `${scheme}-24-accepted`);
     await next(page);
+    // Close the partial session through the UI, then go home and open settings.
+    await page.getByRole("button", { name: "Surt" }).click();
+    const exitDialog2 = page.getByRole("dialog", { name: "Surt de la sessió?" });
+    await exitDialog2.waitFor();
+    await exitDialog2.getByRole("button", { name: "Surt", exact: true }).click();
+    await page.locator(".lesson-row").first().waitFor();
     await page.goBack();
-    await page.goBack();
+    await page.locator(".home").waitFor();
     await page.getByRole("button", { name: "Ajustos" }).click();
     await shot(page, `${scheme}-20-settings`);
-    // Confirm dialog (once wired to ConfirmDialog; until then the native
-    // confirm auto-dismisses and this shot just repeats settings).
+    await page.locator(".theme-group").scrollIntoViewIfNeeded();
+    await shot(page, `${scheme}-33-theme`);
+    // Restore dialog (cancelled: the progress stays untouched).
+    const backup = JSON.stringify({ v: 1, lessons: {}, cards: {}, items: {}, days: [], flagged: [] });
+    await page.getByLabel("Còpia del progrés").fill(backup);
+    await page.getByRole("button", { name: "Restaura", exact: true }).click();
+    const restoreDialog = page.getByRole("dialog", { name: "Restaura el progrés?" });
+    await restoreDialog.waitFor();
+    await shot(page, `${scheme}-32-restore-dialog`);
+    await restoreDialog.getByRole("button", { name: "Cancel·la" }).click();
     await page.getByRole("button", { name: "Esborra el progrés" }).click();
     await page.locator(".confirm-dialog").waitFor({ state: "visible", timeout: 2000 }).catch(() => {});
     await shot(page, `${scheme}-27-dialog`);
     const cancel = page.locator(".confirm-dialog").getByRole("button", { name: "Cancel·la" });
     if (await cancel.count()) await cancel.click();
+    // The abandoned lesson-5 session is pending: discard it through the UI.
+    await page.goBack();
+    await page.locator(".resume-card").waitFor();
+    await page.locator(".resume-card").getByRole("button", { name: /Descarta/ }).click();
+    const discardDialog = page.getByRole("dialog", { name: "Descarta la sessió?" });
+    await discardDialog.waitFor();
+    await shot(page, `${scheme}-34-discard-dialog`);
+    await discardDialog.getByRole("button", { name: "Descarta", exact: true }).click();
+    await expect(page.locator(".resume-card")).toHaveCount(0);
     // Completed course: seed every lesson done, then reload home.
-    // The abandoned lesson-5 session left a draft behind: clear it for a clean shot.
-    await page.evaluate(() => localStorage.removeItem("catala.session.v1"));
-    await page.evaluate((all) => {
-      const stamp = new Date().toISOString();
-      const lessons: Record<string, string> = {};
-      for (const u of all as { id: string; count: number }[]) {
-        for (let n = 1; n <= u.count; n++) lessons[`${u.id}#${n}`] = stamp;
-      }
-      const now = new Date();
-      const p = (n: number) => String(n).padStart(2, "0");
-      const day = `${now.getFullYear()}-${p(now.getMonth() + 1)}-${p(now.getDate())}`;
-      localStorage.setItem("catala.progress.v1", JSON.stringify({ v: 1, lessons, cards: {}, items: {}, days: [day], flagged: [] }));
-    }, units.map((u) => ({ id: u.id, count: u.lessons.length })));
+    const flaggedSample = unit.items.slice(0, 2).map((it) => it.id);
+    await page.evaluate(
+      ({ all, flagged }) => {
+        const stamp = new Date().toISOString();
+        const lessons: Record<string, string> = {};
+        for (const u of all as { id: string; count: number }[]) {
+          for (let n = 1; n <= u.count; n++) lessons[`${u.id}#${n}`] = stamp;
+        }
+        const now = new Date();
+        const p = (n: number) => String(n).padStart(2, "0");
+        const day = `${now.getFullYear()}-${p(now.getMonth() + 1)}-${p(now.getDate())}`;
+        localStorage.setItem(
+          "catala.progress.v1",
+          JSON.stringify({ v: 1, lessons, cards: {}, items: {}, days: [day], flagged }),
+        );
+      },
+      { all: units.map((u) => ({ id: u.id, count: u.lessons.length })), flagged: flaggedSample },
+    );
     await page.goto("/");
     await shot(page, `${scheme}-28-home-done`);
     // Resumable session: a mid-lesson draft offers to resume from home.
@@ -193,5 +278,9 @@ for (const scheme of ["light", "dark"] as const) {
     await page.goto("/");
     await page.locator(".resume-card").waitFor();
     await shot(page, `${scheme}-29-resume`);
+    // Flagged exercises in settings.
+    await page.getByRole("button", { name: "Ajustos" }).click();
+    await page.locator(".flagged-list").scrollIntoViewIfNeeded();
+    await shot(page, `${scheme}-35-flagged`);
   });
 }

@@ -109,3 +109,19 @@ describe("fsrs across reloads", () => {
     expect(afterReview.cards["a2-01/p"]?.lapses).toBe(0);
   });
 });
+
+describe("progress epoch", () => {
+  it("starts empty without an epoch", () => {
+    expect(emptyProgress().progressEpoch).toBeUndefined();
+  });
+
+  it("keeps the epoch across ordinary session updates", () => {
+    let s = lessonSession(unit, 1);
+    s = answer(answer(answer(s, "correct"), "correct"), "correct");
+    s = answer(s, "correct");
+    const before = { ...emptyProgress(), progressEpoch: "epoch-1" };
+    const after = applySession(before, s, index, new Date("2026-10-20T09:00:00.000Z"));
+    expect(after.progressEpoch).toBe("epoch-1");
+    expect(Object.keys(after.lessons)).toHaveLength(1);
+  });
+});

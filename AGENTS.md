@@ -27,11 +27,18 @@ Duolingo, con repaso espaciado de los errores. Uso personal; repo público desde
 - `src/grading/grade.ts`: corrector de respuestas escritas, compartido por validador y app.
 - `src/app/`: la PWA (React). `session.ts` y `progress.ts` son la lógica pura (sesiones, FSRS por
   punto, progreso en `localStorage`); `exercises.tsx`, los 8 tipos; `App.tsx`, pantallas y navegación
-  (pila de pantallas reflejada en el historial: el botón atrás de Android funciona).
+  (pila de pantallas reflejada en el historial: el botón atrás de Android funciona; los modales y
+  la salida de sesión lo interceptan con el registro `BackHandler`).
+- `src/app/session-draft.ts`: borrador de la sesión en curso (`catala.session.v1`, solo IDs); las
+  sesiones se reanudan y se invalidan por generación (`progressEpoch`). `transfer.tsx`: export/import
+  JSON. `dialog.tsx`: confirmaciones y teoría en `<dialog>` nativo. PWA en modo `prompt`: la
+  actualización espera un toque en el inicio, nunca recarga a mitad de sesión.
 - `src/content/vite-plugin.ts`: mete `content/units` en la app como `virtual:content` y valida cada
   unidad en el build (una unidad con errores rompe el build).
 - `e2e/`: Playwright en móvil (Pixel 7). `app.spec.ts` juega **todas las lecciones de todas las
   unidades** con las respuestas del YAML: si un ítem no se puede responder en la interfaz, falla.
+  `regression.spec.ts`: escenarios de usuario (E2E-01..08: borrado, restauración, doble fin, atrás,
+  teoría, tema, reanudación). `pwa-update.spec.ts`: la actualización espera toque explícito.
   `screens.spec.ts` solo hace capturas (claro y oscuro) para revisión visual.
 - `src/app/fx.ts`: sonido sintetizado, vibración (`@capacitor/haptics`) y confeti; preferencias en
   `localStorage` (`catala.prefs.v1`). `src/app/assets/`: drac y foc de Noto Animated Emoji (CC BY 4.0,
@@ -97,6 +104,11 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
   un test por unidad con movimiento reducido y pasa en 2,0 min (65 pasados, 2 omitidos por diseño).
   Build web y `cap sync` hechos; la `android/` local no tiene proyecto Gradle: en el PC de
   compilación, `npx cap add android` antes de sincronizar. **Pendiente: APK y feedback.**
+- 2026-10-29 — Issue #2 en rama `issue-2-hardening` (4 oleadas + integrador, auditado):
+  generaciones progreso-borrador, restauración unificada con confirmación, PWA prompt verificada
+  con test propio, guardado/fin robustos, atrás Android unificado, Reprèn protagonista, teoría en
+  diálogo nativo, tema CSS consolidado, E2E-01..08. e2e 81/81, unitarios 68/68, 70 capturas. CI
+  excluido por decisión del usuario. **Pendiente: revisar la rama, mergear y cerrar el issue.**
 - 2026-10-29 — Issue #1 en rama `issue-1-refinament` (5 oleadas paralelas + integrador, auditado):
   paleta accesible AA, sesiones recuperables con anti-duplicado, progreso validado con Zod,
   selector de tema, diálogos nativos, export/import JSON, PWA con actualización manual y CI.

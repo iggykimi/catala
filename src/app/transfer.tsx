@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { ConfirmDialog } from "./dialog";
 import { localDate, parseProgress, type Progress } from "./progress";
 
@@ -23,7 +23,7 @@ export function importDetails(p: Progress): string {
   const lessons = plural(Object.keys(p.lessons).length, "lliçó completada", "lliçons completades");
   const points = plural(Object.keys(p.cards).length, "punt de repàs", "punts de repàs");
   const days = plural(p.days.length, "dia d'activitat", "dies d'activitat");
-  return `Aquesta còpia conté:\n- ${lessons}\n- ${points}\n- ${days}\n\nSe substituirà el progrés actual.`;
+  return `Aquesta còpia conté:\n- ${lessons}\n- ${points}\n- ${days}\n\nSe substituirà el progrés actual.\nTambé se suprimirà qualsevol sessió pendent.`;
 }
 
 export function importSummary(p: Progress): string {
@@ -31,10 +31,30 @@ export function importSummary(p: Progress): string {
 }
 
 /** Export to / import from a JSON file. The current progress is never wiped on failure. */
-export function Transfer({ progress, update }: { progress: Progress; update: (next: Progress) => void }) {
+export function Transfer({
+  progress,
+  replaceProgress,
+  registerBack,
+}: {
+  progress: Progress;
+  replaceProgress: (next: Progress) => boolean;
+  /** Lets the Android back button close the import dialog instead of leaving settings. */
+  registerBack?: (handler: () => boolean) => () => void;
+}) {
   const fileRef = useRef<HTMLInputElement>(null);
   const [error, setError] = useState<string | null>(null);
   const [pendingImport, setPendingImport] = useState<Progress | null>(null);
+
+  useEffect(() => {
+    if (!registerBack) return;
+    return registerBack(() => {
+      if (pendingImport) {
+        setPendingImport(null);
+        return true;
+      }
+      return false;
+    });
+  }, [registerBack, pendingImport]);
 
   const lessons = Object.keys(progress.lessons).length;
   const points = Object.keys(progress.cards).length;
@@ -93,8 +113,15 @@ export function Transfer({ progress, update }: { progress: Progress; update: (ne
         description={pendingImport ? importDetails(pendingImport) : ""}
         confirmLabel="Restaura"
         onConfirm={() => {
-          if (pendingImport) update(pendingImport);
-          setPendingImport(null);
+          if (!pendingImport) return;
+          if (replaceProgress(pendingImport)) {
+            setPendingImport(null);
+            setError(null);
+          } else {
+            // Close so the failure is visible; the user can pick the file again.
+            setPendingImport(null);
+            setError("No s'ha pogut restaurar el progrés.");
+          }
         }}
         onCancel={() => setPendingImport(null)}
       />

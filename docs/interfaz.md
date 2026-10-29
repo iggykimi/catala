@@ -27,7 +27,8 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 | **Tarjeta de la siguiente lección**, del color del nivel, con el drac, el título, puntos de lección y **Continua** | La acción de cada día, en lo primero que ves. Los puntos dicen cuánto falta de la unidad; el que late es el siguiente. |
 | **Repàs** con número | Solo aparece si hay puntos pendientes de repaso. |
 | Unidades como tarjetas con su número de curso y su baldosa | El número informa porque el curso es una secuencia. Al volver desde una de ellas, la lista conserva la posición; al abrir la app se ve la tarjeta Continua. |
-| **Tarjeta de sesión pendiente** («Tens una lliçó pendent», X de Y, **Reprèn** / Descarta-la) | Solo si se cerró la app a mitad de lección. Mientras existe, el resto de entradas se deshabilitan: no se puede empezar otra cosa sin resolverla. |
+| **Héroe de sesión pendiente** («Tens una lliçó pendent», X de Y, **Reprèn** / Descarta-la) | Solo si se cerró la app a mitad de lección: sustituye a la tarjeta Continua en vez de aparecer debajo apagada. Descartar con respuestas hechas pide confirmación. |
+| Aviso de borrador ilegible con Descarta-la | Si lo guardado no se puede reanudar, se dice y se ofrece quitarlo: nunca se sobrescribe en silencio ni se empieza otra cosa encima. |
 | **Aviso de nueva versión** con **Actualitza** | Solo en el inicio y solo con una actualización descargada: nunca recarga a mitad de sesión. |
 | Menú | Sonido, vibración, tema, copia del progreso y ejercicios marcados: uso raro, escondido. |
 
@@ -81,7 +82,7 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 | **Confeti**, sonido y el pétalo nuevo de la baldosa creciendo | El momento de recompensa: el progreso real de la unidad, celebrado. El confeti se para al salir. |
 | «12 de 13 a la primera» | Cómo te ha ido, sin porcentajes. |
 | «Has practicat N punts gramaticals» | Qué has trabajado, calculado de tus respuestas: el resumen habla de gramática, no solo de aciertos. |
-| Diálogos nativos para salir, borrar, vaciar y restaurar | El `confirm()` del navegador rompía el tono y en móvil se lee mal; el diálogo explica la consecuencia y nombra la acción. |
+| Diálogos nativos para salir, borrar, vaciar, descartar y restaurar | El `confirm()` del navegador rompía el tono y en móvil se lee mal; el diálogo explica la consecuencia y nombra la acción. La teoría contextual también es un diálogo nativo, con foco y Escape correctos. |
 
 ## Ajustes
 
@@ -89,6 +90,7 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 |---|---|
 | Selector de tema (Automàtic/Clar/Fosc) | El modo oscuro existía pero lo imponía el sistema; quien estudia de noche en modo claro lo pedía. |
 | Exportar/Importar la copia en un archivo, con resumen de la copia | Pegar JSON a mano en el móvil es frágil; el archivo se guarda donde quieras y antes de restaurar ves qué contiene. |
+| Restaurar (pegado o archivo) echa abajo la sesión pendiente | Borrar o sustituir el progreso genera una generación nueva: ningún borrador viejo puede reaparecer ni mezclarse. |
 | Lista de ejercicios marcados con su unidad y **Desmarca** | La bandera servía para avisar, pero no veías qué habías marcado ni podías quitar uno solo. |
 | Racha creciendo (fuego y días) | Solo en la primera lección del día, que es cuando la racha cambia. |
 
@@ -103,4 +105,6 @@ elementos fijos de dentro (la barra de **Comprova**) dejarían de estar pegados 
 ## Navegación
 
 - Una pila de pantallas reflejada en el historial: el botón atrás de Android vuelve a la anterior.
+- Atrás sigue las mismas reglas que Surt: primero cierra el modal abierto, descarta una sesión vacía
+  sin preguntar y pide confirmación antes de dejar una a medias.
 - Al terminar una lección, **Continua** vuelve al inicio, que ya muestra la siguiente.

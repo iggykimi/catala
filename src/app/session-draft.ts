@@ -1,5 +1,6 @@
 import { z } from "zod";
 import type { Item } from "../content/schema";
+import { epochsMatch } from "./progress";
 import type { Session } from "./session";
 
 export const DRAFT_KEY = "catala.session.v1";
@@ -19,6 +20,8 @@ const draftSchema = z.object({
   /** Distinct items in the session. */
   size: z.number().int().positive(),
   firstTry: z.record(z.string(), verdictSchema),
+  /** Progress generation the draft belongs to; absent on legacy drafts. */
+  progressEpoch: z.string().optional(),
 });
 
 export type SessionDraft = z.infer<typeof draftSchema>;
@@ -32,7 +35,7 @@ function newId(): string {
   return `draft-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 10)}`;
 }
 
-export function createDraft(session: Session): SessionDraft {
+export function createDraft(session: Session, epoch?: string): SessionDraft {
   return {
     v: 1,
     id: newId(),
@@ -43,14 +46,16 @@ export function createDraft(session: Session): SessionDraft {
     queueIds: session.queue.map((item) => item.id),
     size: session.size,
     firstTry: { ...session.firstTry },
+    ...(epoch !== undefined ? { progressEpoch: epoch } : {}),
   };
 }
 
 /**
- * Stores the session checkpoint. Returns false when the write fails (quota,
- * unavailable storage) so the app can warn that the session is not recoverable.
+ * Stores the session checkpoint tagged with the current progress generation.
+ * Returns false when the write fails (quota, unavailable storage) so the app
+ * can warn that the session is not recoverable.
  */
-export function saveDraft(id: string, session: Session): boolean {
+export function saveDraft(id: string, session: Session, epoch?: string): boolean {
   const draft: SessionDraft = {
     v: 1,
     id,
@@ -61,6 +66,7 @@ export function saveDraft(id: string, session: Session): boolean {
     queueIds: session.queue.map((item) => item.id),
     size: session.size,
     firstTry: { ...session.firstTry },
+    ...(epoch !== undefined ? { progressEpoch: epoch } : {}),
   };
   try {
     localStorage.setItem(DRAFT_KEY, JSON.stringify(draft));
@@ -114,19 +120,27 @@ function toSession(draft: SessionDraft, items: Map<string, Item>): Session | nul
 
 export type DraftStatus = "none" | "valid" | "unusable";
 
-/** Whether a restorable draft exists. Never deletes or repairs anything. */
-export function draftStatus(items: Map<string, Item>): DraftStatus {
+/**
+ * Whether a restorable draft exists. A draft from another progress generation
+ * reports "unusable". Never deletes or repairs anything.
+ */
+export function draftStatus(items: Map<string, Item>, currentEpoch?: string): DraftStatus {
   const stored = readStored();
   if (stored === "none" || stored === "unusable") return stored;
-  return toSession(stored, items) ? "valid" : "unusable";
+  if (!toSession(stored, items)) return "unusable";
+  return epochsMatch(stored.progressEpoch, currentEpoch) ? "valid" : "unusable";
 }
 
-/** Restores the draft checkpoint, or null when there is none or it is unusable. */
-export function loadDraft(items: Map<string, Item>): { id: string; session: Session } | null {
+/**
+ * Restores the draft checkpoint, or null when there is none, it is unusable,
+ * or it belongs to another progress generation.
+ */
+export function loadDraft(items: Map<string, Item>, currentEpoch?: string): { id: string; session: Session } | null {
   const stored = readStored();
   if (stored === "none" || stored === "unusable") return null;
   const session = toSession(stored, items);
   if (!session) return null;
+  if (!epochsMatch(stored.progressEpoch, currentEpoch)) return null;
   return { id: stored.id, session };
 }
 

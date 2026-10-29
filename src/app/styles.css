@@ -4,7 +4,8 @@
  * (A2 teal, B1 blue, B2 violet), right (green), wrong (red), streak (fire).
  */
 
-:root {
+:root,
+:root[data-theme="light"] {
   --bg: #f6f7f3;
   --card: #ffffff;
   --line: #e3e6de;
@@ -67,33 +68,53 @@
   --ui: "Nunito Variable", system-ui, sans-serif;
   --read: "Literata Variable", Georgia, serif;
   --r: 16px;
-  color-scheme: light dark;
+  color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #10181e;
-    --card: #19242c;
-    --line: #2a3742;
-    --edge: #33424e;
-    --ink: #edf1ec;
-    --ink-soft: #9aa7af;
-    --brand: #4b9bf2;
-    --brand-edge: #2c78cb;
-    --brand-soft: #1b3350;
-    --ok: #6ccb4e;
-    --ok-edge: #469a2e;
-    --ok-soft: #1d3418;
-    --bad: #ff6b72;
-    --bad-edge: #c44850;
-    --bad-soft: #3d1d22;
-    --a2: #2cc4b9;
-    --a2-edge: #179088;
-    --b1: #4b9bf2;
-    --b1-edge: #2c78cb;
-    --b2: #a37cff;
-    --b2-edge: #7a55d9;
-  }
+/*
+ * Single source of truth for theming: light tokens live on :root (an explicit
+ * light choice reuses them), dark tokens only on :root[data-theme="dark"].
+ * The index.html pre-script resolves the automatic choice from the OS setting,
+ * so no prefers-color-scheme rule is needed here.
+ */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --bg: #10181e;
+  --card: #19242c;
+  --line: #2a3742;
+  --edge: #33424e;
+  --ink: #edf1ec;
+  --ink-soft: #aab8bf;
+
+  --brand: #4b9bf2;
+  --brand-solid: #1766c3;
+  --brand-soft: #1b3350;
+  --brand-edge: #2c78cb;
+
+  --ok: #6ccb4e;
+  --ok-solid: #247a23;
+  --ok-soft: #1d3418;
+  --ok-edge: #469a2e;
+
+  --bad: #ff6b72;
+  --bad-solid: #b93640;
+  --bad-soft: #3d1d22;
+  --bad-edge: #c44850;
+
+  --a2: #2cc4b9;
+  --a2-solid: #0e7a74;
+  --a2-edge: #179088;
+  --b1: #4b9bf2;
+  --b1-solid: #1766c3;
+  --b1-edge: #2c78cb;
+  --b2: #a37cff;
+  --b2-solid: #6a3fd2;
+  --b2-edge: #7a55d9;
+
+  --focus-ring: #8cc2ff;
+  --gold: #f5b400;
+  --fire: #ff8a00;
 }
 
 .level-A2 { --lv: var(--a2-solid); --lv-edge: var(--a2-edge); --lv-text: var(--on-solid); }
@@ -539,10 +560,6 @@ del { color: var(--bad); }
 .option.is-wrong { border-color: var(--bad); background: var(--bad-soft); box-shadow: 0 4px 0 var(--bad); color: var(--bad-edge); }
 .option:disabled:not(.is-right):not(.is-wrong):not(.is-selected) { opacity: 0.55; }
 
-@media (prefers-color-scheme: dark) {
-  .option.is-selected, .option.is-right, .option.is-wrong { color: var(--ink); }
-}
-
 .chips { display: flex; flex-wrap: wrap; gap: 10px; }
 
 .chip {
@@ -647,11 +664,6 @@ del { color: var(--bad); }
 .sheet-title { flex: 1; font-size: 1.5rem; font-weight: 900; }
 .is-ok .sheet-title { color: var(--ok-edge); }
 .is-bad .sheet-title { color: var(--bad-edge); }
-
-@media (prefers-color-scheme: dark) {
-  .is-ok .sheet-title { color: var(--ok); }
-  .is-bad .sheet-title { color: var(--bad); }
-}
 
 .flag { opacity: 0.5; }
 .flag.is-on { opacity: 1; color: var(--fire); }
@@ -906,121 +918,14 @@ del { color: var(--bad); }
   font-size: 0.9rem;
 }
 
-/*
- * Resolved-theme tokens and finish-stream components.
- *
- * styles.css still scopes its dark values to `@media (prefers-color-scheme: dark)`,
- * which follows the OS even when the learner picks a theme manually. The rules
- * below are keyed on `documentElement.dataset.theme` (set by the index.html
- * pre-script, kept in sync by App) and beat the media-query rules by specificity:
- * `:root[data-theme]` is (0,2,0) vs `:root` (0,1,0), and the descendant overrides
- * are (0,3,0) vs (0,2,0), so they win regardless of bundle order.
- * Integrator: the light values match the :root palette above, so a manual light
- * choice renders the same theme as the default.
- */
+/* Finish-stream components. Theme tokens live at the top of this file. */
 
-:root[data-theme="light"] {
-  color-scheme: light;
-
-  --bg: #f6f7f3;
-  --card: #ffffff;
-  --line: #e3e6de;
-  --edge: #cfd4c9;
-  --ink: #20303b;
-  --ink-soft: #53636b;
-
-  --brand: #1766c3;
-  --brand-solid: #1766c3;
-  --brand-edge: #104d93;
-  --brand-soft: #dcebfd;
-
-  --ok: #247a23;
-  --ok-solid: #247a23;
-  --ok-edge: #185918;
-  --ok-soft: #dcf5d1;
-
-  --bad: #b93640;
-  --bad-solid: #b93640;
-  --bad-edge: #8e242d;
-  --bad-soft: #ffe1e2;
-
-  --fire: #a75600;
-  --fire-bright: #ff8a00;
-  --gold: #f5b400;
-
-  --a2: #13a89e;
-  --a2-solid: #087b73;
-  --a2-edge: #075c56;
-  --b1: #1e7be0;
-  --b1-solid: #1766c3;
-  --b1-edge: #104d93;
-  --b2: #8b5cf6;
-  --b2-solid: #6942c5;
-  --b2-edge: #4c2f91;
-
-  --on-solid: #ffffff;
-  --on-gold: #302500;
-  --focus-ring: #1766c3;
-}
-
-:root[data-theme="dark"] {
-  color-scheme: dark;
-
-  --bg: #10181e;
-  --card: #19242c;
-  --line: #2a3742;
-  --edge: #33424e;
-  --ink: #edf1ec;
-  --ink-soft: #aab8bf;
-
-  --brand: #4b9bf2;
-  --brand-solid: #1766c3;
-  --brand-soft: #1b3350;
-  --brand-edge: #2c78cb;
-
-  --ok: #6ccb4e;
-  --ok-solid: #247a23;
-  --ok-soft: #1d3418;
-  --ok-edge: #469a2e;
-
-  --bad: #ff6b72;
-  --bad-solid: #b93640;
-  --bad-soft: #3d1d22;
-  --bad-edge: #c44850;
-
-  --a2: #2cc4b9;
-  --a2-solid: #0e7a74;
-  --a2-edge: #179088;
-  --b1: #4b9bf2;
-  --b1-solid: #1766c3;
-  --b1-edge: #2c78cb;
-  --b2: #a37cff;
-  --b2-solid: #6a3fd2;
-  --b2-edge: #7a55d9;
-
-  --focus-ring: #8cc2ff;
-  --gold: #f5b400;
-  --fire: #ff8a00;
-}
-
-/* Resolved-theme versions of the system-dark option and sheet overrides. */
+/* Dark-theme option and sheet overrides. */
 
 :root[data-theme="dark"] .option.is-selected,
 :root[data-theme="dark"] .option.is-right,
 :root[data-theme="dark"] .option.is-wrong {
   color: var(--ink);
-}
-
-:root[data-theme="light"] .option.is-selected {
-  color: var(--brand-edge);
-}
-
-:root[data-theme="light"] .option.is-right {
-  color: var(--ok-edge);
-}
-
-:root[data-theme="light"] .option.is-wrong {
-  color: var(--bad-edge);
 }
 
 :root[data-theme="dark"] .is-ok .sheet-title {
@@ -1029,14 +934,6 @@ del { color: var(--bad); }
 
 :root[data-theme="dark"] .is-bad .sheet-title {
   color: var(--bad);
-}
-
-:root[data-theme="light"] .is-ok .sheet-title {
-  color: var(--ok-edge);
-}
-
-:root[data-theme="light"] .is-bad .sheet-title {
-  color: var(--bad-edge);
 }
 
 /* Confirmation dialog */
@@ -1185,6 +1082,102 @@ del { color: var(--bad); }
 
 .unit-row:disabled {
   opacity: 0.55;
+}
+
+/* Issue #2 hardening: resume hero, unusable draft, theory dialog, save errors. */
+
+.resume-hero {
+  margin: 8px 0 20px;
+  padding: 22px 20px;
+  text-align: center;
+  border-width: 3px;
+}
+
+.resume-hero .resume-title {
+  font-size: 1.35rem;
+}
+
+.resume-hero .resume-meta {
+  margin: 6px 0 16px;
+  font-size: 1.05rem;
+}
+
+.resume-hero .resume-actions {
+  flex-direction: column;
+}
+
+.resume-hero .resume-actions .btn-primary {
+  width: 100%;
+  min-height: 52px;
+  font-size: 1.1rem;
+}
+
+/* Discreet note for stored bytes that cannot resume; the learner discards them explicitly. */
+
+.draft-unusable {
+  margin: 8px 0 16px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--card);
+  border: 2px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.draft-unusable .link {
+  font-weight: 800;
+}
+
+/* Contextual theory as a native modal dialog: scrolls, clears the bottom bar and safe areas. */
+
+.theory-dialog {
+  width: min(640px, calc(100vw - 32px));
+  max-height: min(85dvh, 900px);
+  overflow-y: auto;
+  padding: 24px;
+  padding-bottom: calc(24px + env(safe-area-inset-bottom));
+  margin-bottom: calc(16px + env(safe-area-inset-bottom));
+  border: 2px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: var(--card);
+  color: var(--ink);
+}
+
+.theory-dialog::backdrop {
+  background: rgb(0 0 0 / 0.5);
+}
+
+.theory-dialog .prose {
+  min-width: 0;
+}
+
+.theory-close {
+  position: sticky;
+  top: 0;
+  margin-left: auto;
+  margin-right: -8px;
+  margin-bottom: 8px;
+  background: var(--card);
+}
+
+/* Save failures inside a session: boxed so they read as persistent warnings. */
+
+.save-error {
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--bad-soft);
+  font-weight: 700;
+}
+
+main > .save-error {
+  margin-bottom: 12px;
+}
+
+/* P2: the flagged list is a grid item: let it shrink below its min-content
+   width so long rows ellipsize instead of overflowing the screen. */
+.flagged-list {
+  min-width: 0;
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -1,4 +1,4 @@
-import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { registerSW } from "virtual:pwa-register";
 import units from "virtual:content";
 import type { Item } from "../content/schema";
@@ -6,11 +6,11 @@ import dracAnim from "./assets/drac.webp";
 import dracStill from "./assets/drac.png";
 import focAnim from "./assets/foc.webp";
 import focStill from "./assets/foc.png";
-import { ConfirmDialog } from "./dialog";
+import { ConfirmDialog, TheoryDialog } from "./dialog";
 import { Exercise, type Result } from "./exercises";
 import { celebrate, cue, loadPrefs, savePrefs, stopCelebration, type Prefs, type Theme } from "./fx";
-import { emptyProgress, lessonKey, loadProgress, localDate, parseProgress, readCorruptBackup, saveProgress, streak, type Progress } from "./progress";
-import { clearDraft, createDraft, loadDraft, saveDraft } from "./session-draft";
+import { emptyProgress, lessonKey, loadProgress, localDate, newProgressEpoch, parseProgress, readCorruptBackup, saveProgress, streak, type Progress } from "./progress";
+import { clearDraft, createDraft, DRAFT_KEY, draftStatus, loadDraft, saveDraft } from "./session-draft";
 import {
   answer,
   duePoints,
@@ -24,7 +24,7 @@ import {
   type AppUnit,
   type Session,
 } from "./session";
-import { Transfer } from "./transfer";
+import { importDetails, Transfer } from "./transfer";
 import { Icon, Panot, Rich, Sprite } from "./ui";
 
 type Screen =
@@ -34,8 +34,21 @@ type Screen =
   | { k: "vocab"; id: string }
   | { k: "settings" }
   | { k: "intro"; id: string }
-  | { k: "session"; session: Session; sessionId: string }
+  | { k: "session"; session: Session; sessionId: string; initiallyPersisted: boolean }
   | { k: "summary"; session: Session; before: Progress };
+
+/** A started session: the draft id plus whether its first write reached storage. */
+interface PreparedSession {
+  id: string;
+  persisted: boolean;
+}
+
+/**
+ * A back-press interceptor registered by the top screen. It closes the topmost
+ * modal (or asks for exit confirmation) and returns true when the press was
+ * consumed; false lets the history navigation proceed.
+ */
+type BackHandler = () => boolean;
 
 /** What home shows about a resumable session: display data, not the draft itself. */
 interface PendingInfo {
@@ -57,17 +70,36 @@ export function App() {
   const [prefs, setPrefs] = useState<Prefs>(loadPrefs);
   const [stack, setStack] = useState<Screen[]>([{ k: "home" }]);
   const items = useMemo(() => new Map<string, Item>(units.flatMap((u) => u.items.map((it) => [it.id, it]))), []);
-  const [pendingSession, setPendingSession] = useState(() => loadDraft(items));
+  const [pendingSession, setPendingSession] = useState(() => loadDraft(items, loadProgress().progressEpoch));
+  // Stored bytes that are not a resumable draft of this progress generation (P1.3).
+  const [draftUnusable, setDraftUnusable] = useState(() => draftStatus(items, loadProgress().progressEpoch) === "unusable");
+  // A finish whose save failed: the session screen stays up so the learner can retry.
+  const [finishError, setFinishError] = useState<string | null>(null);
   const [needRefresh, setNeedRefresh] = useState(false);
   const updateSW = useRef<((reload?: boolean) => Promise<void>) | null>(null);
   const finishing = useRef(false);
   const homeScrollY = useRef(0);
+  // Back-press interceptors from the top screen (session exit, open dialogs).
+  const backHandlers = useRef<BackHandler[]>([]);
+  const registerBack = useCallback((handler: BackHandler): (() => void) => {
+    backHandlers.current.push(handler);
+    return () => {
+      backHandlers.current = backHandlers.current.filter((h) => h !== handler);
+    };
+  }, []);
 
   // The browser history mirrors the screen stack, so the Android back button goes back a screen.
+  // A consumed press re-pushes the popped entry, keeping history and the stack in sync.
   useEffect(() => {
     history.replaceState({ d: 0 }, "");
     const onPop = (e: PopStateEvent) => {
       const d = (e.state as { d?: number } | null)?.d ?? 0;
+      for (let i = backHandlers.current.length - 1; i >= 0; i--) {
+        if (backHandlers.current[i]!()) {
+          history.pushState({ d: d + 1 }, "");
+          return;
+        }
+      }
       setStack((s) => s.slice(0, d + 1));
     };
     addEventListener("popstate", onPop);
@@ -100,34 +132,79 @@ export function App() {
 
   // Home always reflects storage: back-button exits and discards from other screens land here.
   useEffect(() => {
-    if (stack.at(-1)?.k === "home") setPendingSession(loadDraft(items));
-  }, [stack, items]);
+    if (stack.at(-1)?.k === "home") {
+      setPendingSession(loadDraft(items, progress.progressEpoch));
+      setDraftUnusable(draftStatus(items, progress.progressEpoch) === "unusable");
+    }
+  }, [stack, items, progress.progressEpoch]);
 
   const update = (p: Progress) => {
     saveProgress(p);
     setProgress(p);
   };
+  /**
+   * Full replacement (erase, paste restore, file import): stamps a fresh
+   * progress generation so any surviving draft bytes can never resume, then
+   * removes the draft and syncs React state. False on storage failure, in
+   * which case the caller must not claim success.
+   */
+  const replaceAllProgress = (next: Progress): boolean => {
+    try {
+      const stamped = { ...next, progressEpoch: newProgressEpoch() };
+      saveProgress(stamped);
+      try {
+        localStorage.removeItem(DRAFT_KEY);
+      } catch {
+        // The draft bytes may survive, but the new epoch already invalidates them.
+      }
+      setProgress(stamped);
+      setPendingSession(loadDraft(items, stamped.progressEpoch));
+      setDraftUnusable(draftStatus(items, stamped.progressEpoch) === "unusable");
+      return true;
+    } catch (error) {
+      console.error("Cannot replace progress", error);
+      return false;
+    }
+  };
   const updatePrefs = (p: Prefs) => {
     savePrefs(p);
     setPrefs(p);
   };
-  /** Mints (or keeps, when resuming) the draft id; refuses to pave over another pending session. */
-  const prepareSession = (session: Session, sessionId?: string): string | null => {
-    const existing = loadDraft(items);
+  /**
+   * Mints (or keeps, when resuming) the draft id; refuses to pave over another
+   * pending session or over unreadable bytes. Rationale: silently overwriting an
+   * unusable draft would destroy potentially diagnostic state and hide a storage
+   * problem behind a fresh session, so the learner explicitly discards it from
+   * home first; until then no new session starts.
+   */
+  const prepareSession = (session: Session, sessionId?: string): PreparedSession | null => {
+    if (draftStatus(items, progress.progressEpoch) === "unusable") return null;
+    const existing = loadDraft(items, progress.progressEpoch);
     if (existing && existing.id !== sessionId) return null;
-    const id = sessionId ?? createDraft(session).id;
-    saveDraft(id, session);
-    setPendingSession({ id, session });
-    return id;
+    const id = sessionId ?? createDraft(session, progress.progressEpoch).id;
+    const persisted = saveDraft(id, session, progress.progressEpoch);
+    if (persisted) {
+      setPendingSession({ id, session });
+    } else {
+      // Do not claim that this session can be recovered.
+      setPendingSession(null);
+    }
+    return { id, persisted };
   };
   const openSession = (session: Session, sessionId?: string) => {
-    const id = prepareSession(session, sessionId);
-    if (id) push({ k: "session", session, sessionId: id });
+    const prepared = prepareSession(session, sessionId);
+    if (!prepared) return;
+    finishing.current = false;
+    setFinishError(null);
+    push({ k: "session", session, sessionId: prepared.id, initiallyPersisted: prepared.persisted });
   };
   /** A unit's first lesson opens with its theory cards; the rest go straight to exercises. */
   const startLesson = (unit: AppUnit, lesson: number) => {
-    if (loadDraft(items)) {
-      // A pending session must be resolved from home first: take the user to the resume card.
+    const status = draftStatus(items, progress.progressEpoch);
+    if (status !== "none") {
+      // A pending (or unreadable) draft must be resolved from home first.
+      setPendingSession(loadDraft(items, progress.progressEpoch));
+      setDraftUnusable(status === "unusable");
       if (stack.length > 1) home();
       return;
     }
@@ -139,21 +216,36 @@ export function App() {
   };
   const startIntroSession = (unit: AppUnit) => {
     const session = lessonSession(unit, 1);
-    const id = prepareSession(session);
-    if (id) replace({ k: "session", session, sessionId: id });
+    const prepared = prepareSession(session);
+    if (!prepared) return;
+    finishing.current = false;
+    setFinishError(null);
+    replace({ k: "session", session, sessionId: prepared.id, initiallyPersisted: prepared.persisted });
   };
-  /** Applies the session exactly once, then shows the summary. Double taps and crashes are safe. */
+  /**
+   * Applies the session exactly once, then shows the summary. The lock stays
+   * held until a new session starts: an immediate unlock would reopen the race
+   * before React leaves the session screen. A save failure unlocks instead and
+   * keeps the session up with a retryable error.
+   */
   const finish = (session: Session, sessionId: string) => {
     if (finishing.current) return;
     finishing.current = true;
     try {
       const before = progress;
-      update(finishSessionOnce(progress, session, sessionId, items, new Date()));
+      const after = finishSessionOnce(progress, session, sessionId, items, new Date());
+      // Synchronous storage commit before touching the draft or navigating.
+      saveProgress(after);
+      setProgress(after);
       clearDraft(sessionId);
       setPendingSession(null);
+      setFinishError(null);
       replace({ k: "summary", session, before });
-    } finally {
+      // Do not unlock here: openSession/startIntroSession reset the lock.
+    } catch (error) {
       finishing.current = false;
+      console.error("Cannot save finished session", error);
+      setFinishError("No s'ha pogut desar el resultat. Torna-ho a provar.");
     }
   };
 
@@ -174,6 +266,16 @@ export function App() {
     if (!pendingSession) return;
     clearDraft(pendingSession.id);
     setPendingSession(null);
+  };
+  /** Explicit discard of unreadable draft bytes; removes the key outright. */
+  const discardUnusableFromHome = () => {
+    try {
+      localStorage.removeItem(DRAFT_KEY);
+    } catch {
+      // Storage unavailable: the note stays until the next successful sync.
+      return;
+    }
+    setDraftUnusable(false);
   };
   const startReviewFromHome = (session: Session) => {
     homeScrollY.current = window.scrollY;
@@ -208,9 +310,12 @@ export function App() {
             startLesson={startFromHome}
             restoreScroll={homeScrollY.current}
             pending={pending}
+            unusable={draftUnusable}
             onResume={resumeFromHome}
             onDiscard={discardFromHome}
+            onDiscardUnusable={discardUnusableFromHome}
             onReview={startReviewFromHome}
+            registerBack={registerBack}
           />
         </>
       );
@@ -221,7 +326,18 @@ export function App() {
     case "vocab":
       return <VocabScreen unit={unitById(screen.id)} back={back} />;
     case "settings":
-      return <Settings progress={progress} update={update} prefs={prefs} updatePrefs={updatePrefs} items={items} back={back} />;
+      return (
+        <Settings
+          progress={progress}
+          update={update}
+          replaceProgress={replaceAllProgress}
+          prefs={prefs}
+          updatePrefs={updatePrefs}
+          items={items}
+          back={back}
+          registerBack={registerBack}
+        />
+      );
     case "intro":
       return <Intro unit={unitById(screen.id)} onExit={back} onStart={() => startIntroSession(unitById(screen.id))} />;
     case "session":
@@ -230,15 +346,19 @@ export function App() {
           key={screen.sessionId}
           initial={screen.session}
           sessionId={screen.sessionId}
+          initiallyPersisted={screen.initiallyPersisted}
+          finishError={finishError}
           prefs={prefs}
           flagged={progress.flagged}
           onFlag={(id) => update({ ...progress, flagged: progress.flagged.includes(id) ? progress.flagged.filter((f) => f !== id) : [...progress.flagged, id] })}
           onExit={() => {
-            setPendingSession(loadDraft(items));
+            setPendingSession(loadDraft(items, progress.progressEpoch));
+            setDraftUnusable(draftStatus(items, progress.progressEpoch) === "unusable");
             back();
           }}
-          onCheckpoint={(after) => saveDraft(screen.sessionId, after)}
+          onCheckpoint={(after) => saveDraft(screen.sessionId, after, progress.progressEpoch)}
           onFinish={finish}
+          registerBack={registerBack}
         />
       );
     case "summary":
@@ -290,27 +410,49 @@ function Home({
   startLesson,
   restoreScroll,
   pending,
+  unusable,
   onResume,
   onDiscard,
+  onDiscardUnusable,
   onReview,
+  registerBack,
 }: {
   progress: Progress;
   push: (s: Screen) => void;
   startLesson: (u: AppUnit, n: number) => void;
   restoreScroll: number;
   pending: PendingInfo | null;
+  unusable: boolean;
   onResume: () => void;
   onDiscard: () => void;
+  onDiscardUnusable: () => void;
   onReview: (s: Session) => void;
+  registerBack: (handler: BackHandler) => () => void;
 }) {
   const now = new Date();
   const next = nextLesson(units, progress);
   const review = reviewSession(units, progress, now);
   const due = duePoints(progress, now).length;
+  const [confirmDiscard, setConfirmDiscard] = useState(false);
   // Back from a pushed screen: land where the list was, instead of jumping to the current unit.
   useLayoutEffect(() => {
     window.scrollTo(0, restoreScroll);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps -- once, on arrival
+  useEffect(() => {
+    return registerBack(() => {
+      if (confirmDiscard) {
+        setConfirmDiscard(false);
+        return true;
+      }
+      return false;
+    });
+  }, [registerBack, confirmDiscard]);
+  // A pending or unreadable draft blocks every other entry until resolved.
+  const blocked = pending !== null || unusable;
+  const requestDiscard = () => {
+    if (pending && pending.done > 0) setConfirmDiscard(true);
+    else onDiscard();
+  };
   return (
     <div className="screen home">
       <TopBar>
@@ -319,37 +461,16 @@ function Home({
           <Icon name="menu" />
         </button>
       </TopBar>
-      {next ? (
-        <section className={`hero level-${next.unit.level}`}>
-          <Sprite anim={dracAnim} still={dracStill} size={96} className="hero-drac" />
-          <div className="hero-body">
-            <p className="hero-title">
-              <Rich text={next.unit.title} />
-            </p>
-            <LessonDots total={next.unit.lessons.length} done={lessonsDone(next.unit, progress)} />
-          </div>
-          <button className="btn btn-light continue" disabled={pending !== null} onClick={() => startLesson(next.unit, next.lesson)}>
-            Continua
+      {unusable && !pending && (
+        <p className="draft-unusable" role="note">
+          Hi ha una sessió desada que no es pot reprendre.{" "}
+          <button className="link" onClick={onDiscardUnusable}>
+            Descarta-la
           </button>
-        </section>
-      ) : (
-        <section className="hero level-done">
-          <Sprite anim={dracAnim} still={dracStill} size={96} className="hero-drac" />
-          <p className="hero-title">Has acabat el curs</p>
-        </section>
+        </p>
       )}
-      {review.size > 0 && (
-        <button
-          className="btn btn-secondary review"
-          disabled={pending !== null}
-          onClick={() => onReview(review)}
-          aria-label={`Repàs: ${due} ${due === 1 ? "punt pendent" : "punts pendents"}`}
-        >
-          Repàs <span className="count">{due}</span>
-        </button>
-      )}
-      {pending && (
-        <section className="resume-card" aria-label="Sessió pendent">
+      {pending ? (
+        <section className="resume-card resume-hero" aria-label="Sessió pendent">
           <p className="resume-title">{pending.kind === "review" ? "Tens un repàs pendent" : "Tens una lliçó pendent"}</p>
           <p className="resume-meta">
             {pending.kind === "lesson" && pending.unitTitle !== "" && (
@@ -363,12 +484,55 @@ function Home({
             <button className="btn btn-primary" onClick={onResume}>
               {pending.kind === "review" ? "Reprèn el repàs" : "Reprèn la lliçó"}
             </button>
-            <button className="resume-discard" onClick={onDiscard}>
+            <button className="resume-discard" onClick={requestDiscard}>
               {pending.kind === "review" ? "Descarta'l" : "Descarta-la"}
             </button>
           </div>
         </section>
+      ) : (
+        <>
+          {next ? (
+            <section className={`hero level-${next.unit.level}`}>
+              <Sprite anim={dracAnim} still={dracStill} size={96} className="hero-drac" />
+              <div className="hero-body">
+                <p className="hero-title">
+                  <Rich text={next.unit.title} />
+                </p>
+                <LessonDots total={next.unit.lessons.length} done={lessonsDone(next.unit, progress)} />
+              </div>
+              <button className="btn btn-light continue" disabled={blocked} onClick={() => startLesson(next.unit, next.lesson)}>
+                Continua
+              </button>
+            </section>
+          ) : (
+            <section className="hero level-done">
+              <Sprite anim={dracAnim} still={dracStill} size={96} className="hero-drac" />
+              <p className="hero-title">Has acabat el curs</p>
+            </section>
+          )}
+          {review.size > 0 && (
+            <button
+              className="btn btn-secondary review"
+              disabled={blocked}
+              onClick={() => onReview(review)}
+              aria-label={`Repàs: ${due} ${due === 1 ? "punt pendent" : "punts pendents"}`}
+            >
+              Repàs <span className="count">{due}</span>
+            </button>
+          )}
+        </>
       )}
+      <ConfirmDialog
+        open={confirmDiscard}
+        title="Descarta la sessió?"
+        description="Es perdrà el progrés d'aquesta sessió. Aquesta acció no es pot desfer."
+        confirmLabel="Descarta"
+        onConfirm={() => {
+          setConfirmDiscard(false);
+          onDiscard();
+        }}
+        onCancel={() => setConfirmDiscard(false)}
+      />
       <main className="units">
         {LEVELS.map((level) => {
           const list = units.filter((u) => u.level === level);
@@ -382,7 +546,7 @@ function Home({
                   <button
                     key={u.id}
                     className={`unit-row${n === u.lessons.length ? " is-done" : ""}`}
-                    disabled={pending !== null}
+                    disabled={blocked}
                     onClick={() => push({ k: "unit", id: u.id })}
                   >
                     <span className="unit-n">{courseNumber(u.id)}</span>
@@ -535,15 +699,22 @@ function Intro({ unit, onStart, onExit }: { unit: AppUnit; onStart: () => void; 
 function SessionScreen({
   initial,
   sessionId,
+  initiallyPersisted,
+  finishError,
   prefs,
   flagged,
   onFlag,
   onExit,
   onCheckpoint,
   onFinish,
+  registerBack,
 }: {
   initial: Session;
   sessionId: string;
+  /** Whether the opening draft write reached storage; false keeps a persistent warning up. */
+  initiallyPersisted: boolean;
+  /** A failed finish save to report with a retry; null when the last finish held. */
+  finishError: string | null;
   prefs: Prefs;
   flagged: string[];
   onFlag: (id: string) => void;
@@ -551,14 +722,41 @@ function SessionScreen({
   /** Persists the session after each answer; false when the write fails. */
   onCheckpoint: (s: Session) => boolean;
   onFinish: (s: Session, id: string) => void;
+  registerBack: (handler: BackHandler) => () => void;
 }) {
   const [session, setSession] = useState(initial);
   const [result, setResult] = useState<Result | null>(null);
   const [turn, setTurn] = useState(0);
   const [theoryOpen, setTheoryOpen] = useState(false);
   const [confirmExit, setConfirmExit] = useState(false);
+  const [everPersisted, setEverPersisted] = useState(initiallyPersisted);
   const [checkpointSaved, setCheckpointSaved] = useState(true);
+  // Set synchronously on confirmed exit so the following popstate is never consumed.
+  const confirmedExit = useRef(false);
   const item = session.queue[0];
+
+  // The Android back button follows the same rules as Surt: modals first, then
+  // discard an empty session, then confirm leaving a partial one.
+  useEffect(() => {
+    return registerBack(() => {
+      if (confirmedExit.current) return false;
+      if (theoryOpen) {
+        setTheoryOpen(false);
+        return true;
+      }
+      if (confirmExit) {
+        setConfirmExit(false);
+        return true;
+      }
+      if (Object.keys(session.firstTry).length === 0) {
+        clearDraft(sessionId);
+        return false;
+      }
+      setConfirmExit(true);
+      return true;
+    });
+  }, [registerBack, theoryOpen, confirmExit, session, sessionId]);
+
   if (!item) return null;
 
   const onResult = (r: Result) => {
@@ -572,7 +770,9 @@ function SessionScreen({
       onFinish(after, sessionId);
       return;
     }
-    setCheckpointSaved(onCheckpoint(after));
+    const saved = onCheckpoint(after);
+    if (saved) setEverPersisted(true);
+    setCheckpointSaved(saved);
     setSession(after);
     setResult(null);
     setTheoryOpen(false);
@@ -586,6 +786,11 @@ function SessionScreen({
     } else {
       setConfirmExit(true);
     }
+  };
+  const confirmLeave = () => {
+    confirmedExit.current = true;
+    setConfirmExit(false);
+    onExit();
   };
   const unit = unitById(unitOfItem(item.id));
   const point = unit.points.find((p) => p.id === item.point);
@@ -610,10 +815,21 @@ function SessionScreen({
         </div>
       </header>
       <main className={result?.verdict === "wrong" ? "shake" : undefined}>
-        {!checkpointSaved && (
-          <p className="error" role="alert">
-            No s'ha pogut desar la sessió: no es podrà reprendre.
+        {finishError && (
+          <p className="error save-error" role="alert">
+            {finishError}
           </p>
+        )}
+        {!everPersisted ? (
+          <p className="error save-error" role="alert">
+            No s'ha pogut desar la sessió. Pots continuar, però no es podrà reprendre si surts.
+          </p>
+        ) : (
+          !checkpointSaved && (
+            <p className="error save-error" role="alert">
+              No s'han pogut desar els últims canvis. Si tanques l'aplicació, pots perdre part de la sessió.
+            </p>
+          )
         )}
         <Exercise key={`${item.id}:${turn}`} item={item} done={result !== null} onResult={onResult} />
       </main>
@@ -627,22 +843,13 @@ function SessionScreen({
           onNext={next}
         />
       )}
-      {theoryOpen && point && (
-        <div className="overlay" role="dialog" aria-label="Teoria">
-          <div className="overlay-panel prose">
-            <button className="icon-btn overlay-close" onClick={() => setTheoryOpen(false)} aria-label="Tanca">
-              <Icon name="close" />
-            </button>
-            <div dangerouslySetInnerHTML={{ __html: unit.theory[point.id] ?? "" }} />
-          </div>
-        </div>
-      )}
+      {point && <TheoryDialog open={theoryOpen} html={unit.theory[point.id] ?? ""} onClose={() => setTheoryOpen(false)} />}
       <ConfirmDialog
         open={confirmExit}
         title="Surt de la sessió?"
-        description="Podràs reprendre-la on l'has deixada."
+        description={everPersisted ? "Podràs reprendre-la on l'has deixada." : "Aquesta sessió no s'ha pogut desar: si surts ara, no es podrà reprendre."}
         confirmLabel="Surt"
-        onConfirm={onExit}
+        onConfirm={confirmLeave}
         onCancel={() => setConfirmExit(false)}
       />
     </div>
@@ -817,35 +1024,58 @@ const THEMES: { id: Theme; label: string }[] = [
 function Settings({
   progress,
   update,
+  replaceProgress,
   prefs,
   updatePrefs,
   items,
   back,
+  registerBack,
 }: {
   progress: Progress;
+  /** Ordinary in-generation update (flagged marks); never touches the draft. */
   update: (p: Progress) => void;
+  /** Full replacement (erase, restore, import); invalidates any pending session. */
+  replaceProgress: (next: Progress) => boolean;
   prefs: Prefs;
   updatePrefs: (p: Prefs) => void;
   items: Map<string, Item>;
   back: () => void;
+  registerBack: (handler: BackHandler) => () => void;
 }) {
   const [copied, setCopied] = useState<string | null>(null);
   const [pasted, setPasted] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [dialog, setDialog] = useState<"delete" | "clearFlagged" | null>(null);
+  const [pendingPastedRestore, setPendingPastedRestore] = useState<Progress | null>(null);
   // Bytes that stopped parsing as a progress, sheltered by progress.ts; read once, on arrival.
   const [corruptBackup] = useState(() => (typeof window === "undefined" ? null : readCorruptBackup()));
+  useEffect(() => {
+    return registerBack(() => {
+      if (dialog) {
+        setDialog(null);
+        return true;
+      }
+      if (pendingPastedRestore) {
+        setPendingPastedRestore(null);
+        return true;
+      }
+      return false;
+    });
+  }, [registerBack, dialog, pendingPastedRestore]);
   const copy = async (what: string, text: string) => {
     await navigator.clipboard.writeText(text);
     setCopied(what);
   };
+  // Pasted restore only stages the backup: the same ConfirmDialog as file
+  // import asks for confirmation before the full replacement runs.
   const restore = () => {
-    const p = parseProgress(pasted);
-    if (!p) return setError("Aquest text no és una còpia del progrés.");
-    update(p);
-    setPasted("");
+    const parsed = parseProgress(pasted);
+    if (!parsed) {
+      setError("Aquest text no és una còpia del progrés.");
+      return;
+    }
     setError(null);
-    setCopied("restored");
+    setPendingPastedRestore(parsed);
   };
   const unflag = (id: string) => update({ ...progress, flagged: progress.flagged.filter((itemId) => itemId !== id) });
   return (
@@ -877,7 +1107,7 @@ function Settings({
           <button className="btn btn-secondary" disabled={pasted.trim() === ""} onClick={restore}>
             {copied === "restored" ? "Restaurat" : "Restaura"}
           </button>
-          <Transfer progress={progress} update={update} />
+          <Transfer progress={progress} replaceProgress={replaceProgress} registerBack={registerBack} />
           {corruptBackup && (
             <p className="corrupt-note" role="note">
               S'ha trobat una còpia del progrés que no es pot llegir. Se n'ha desat una còpia de seguretat en aquest dispositiu.
@@ -926,13 +1156,36 @@ function Settings({
       <ConfirmDialog
         open={dialog === "delete"}
         title="Esborra el progrés?"
-        description="S'esborrarà tot el progrés d'aquest dispositiu. Aquesta acció no es pot desfer."
+        description="S'esborrarà tot el progrés d'aquest dispositiu i qualsevol sessió pendent. Aquesta acció no es pot desfer."
         confirmLabel="Esborra"
         onConfirm={() => {
-          update(emptyProgress());
-          setDialog(null);
+          if (replaceProgress(emptyProgress())) {
+            setDialog(null);
+          } else {
+            setDialog(null);
+            setError("No s'ha pogut esborrar el progrés.");
+          }
         }}
         onCancel={() => setDialog(null)}
+      />
+      <ConfirmDialog
+        open={pendingPastedRestore !== null}
+        title="Restaura el progrés?"
+        description={pendingPastedRestore ? importDetails(pendingPastedRestore) : ""}
+        confirmLabel="Restaura"
+        onConfirm={() => {
+          if (!pendingPastedRestore) return;
+          if (replaceProgress(pendingPastedRestore)) {
+            setPasted("");
+            setCopied("restored");
+            setPendingPastedRestore(null);
+          } else {
+            // Close so the failure is visible; the pasted text stays for a retry.
+            setPendingPastedRestore(null);
+            setError("No s'ha pogut restaurar el progrés.");
+          }
+        }}
+        onCancel={() => setPendingPastedRestore(null)}
       />
       <ConfirmDialog
         open={dialog === "clearFlagged"}
