@@ -26,6 +26,8 @@ export interface Progress {
   flagged: string[];
   /** Id of the last session applied by finishSessionOnce (crash/double-tap guard). */
   lastAppliedSessionId?: string;
+  /** Generation id: full replacements mint a new one so stale drafts never resume. */
+  progressEpoch?: string;
 }
 
 export const PROGRESS_KEY = "catala.progress.v1";
@@ -71,9 +73,29 @@ const progressSchema = z.object({
   days: z.array(dayString).default([]),
   flagged: z.array(z.string()).default([]),
   lastAppliedSessionId: z.string().optional(),
+  progressEpoch: z.string().optional(),
 });
 
 export const emptyProgress = (): Progress => ({ v: 1, lessons: {}, cards: {}, items: {}, days: [], flagged: [] });
+
+/** Mints a fresh progress generation id for full replacements (wipe/restore/import). */
+export function newProgressEpoch(): string {
+  try {
+    if (typeof crypto !== "undefined" && typeof crypto.randomUUID === "function") return crypto.randomUUID();
+  } catch {
+    // Fall through to the Math.random fallback below.
+  }
+  return `epoch-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 10)}`;
+}
+
+/**
+ * Whether a draft belongs to the current progress generation. Strict equality:
+ * undefined matches only undefined, so legacy data on both sides stays valid
+ * while any one-sided epoch marks the draft as stale.
+ */
+export function epochsMatch(draftEpoch: string | undefined, currentEpoch: string | undefined): boolean {
+  return draftEpoch === currentEpoch;
+}
 
 /** Parses a stored or pasted progress; null if it is not one. */
 export function parseProgress(raw: string | null): Progress | null {

@@ -19,6 +19,7 @@ tipos y repaso espaciado de los errores. Explicaciones en catalán, variante cen
 - Ocho tipos de ejercicio; corrección tolerante con los acentos y estricta con la ortografía.
 - Repaso espaciado por punto gramatical, racha diaria, sonido y vibración.
 - Sesiones recuperables, tema claro/oscuro y copia del progreso en archivo.
+- Actualización manual: nunca recarga a mitad de lección.
 - Funciona sin conexión; sin cuentas ni servidores.
 
 ## Desarrollo
@@ -32,8 +33,8 @@ npm run dev                      # la app en el navegador
 npm run e2e                      # juega todas las lecciones en un móvil simulado
 ```
 
-La prueba completa juega las 60 unidades en paralelo (un test por unidad): 72 tests en
-menos de 2 minutos.
+La prueba completa juega las 60 unidades en paralelo (un test por unidad), 8 escenarios de
+regresión y la actualización PWA: 81 tests en menos de 2 minutos.
 
 ## APK (Android)
 

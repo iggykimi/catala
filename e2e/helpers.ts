@@ -107,3 +107,58 @@ export async function openIntro(page: Page, unit: AppUnit) {
   await page.locator(".lesson-row").nth(0).click();
   await page.locator(".intro").waitFor();
 }
+
+// ---- Regression-suite seeds (E2E-01..08): fresh-context setup only. ----
+
+/** Stores a progress value before the first navigation of a fresh context. */
+export async function seedProgress(page: Page, progress: unknown): Promise<void> {
+  await page.addInitScript((p) => {
+    localStorage.setItem("catala.progress.v1", JSON.stringify(p));
+  }, progress);
+}
+
+/** Stores a session draft before the first navigation of a fresh context. */
+export async function seedDraft(page: Page, draft: unknown): Promise<void> {
+  await page.addInitScript((d) => {
+    localStorage.setItem("catala.session.v1", JSON.stringify(d));
+  }, draft);
+}
+
+/** A valid progress carrying the given lessons, for restore/erase scenarios. */
+export function sampleProgress(lessons: Record<string, string>): unknown {
+  return { v: 1, lessons, cards: {}, items: {}, days: ["2026-10-20"], flagged: [] };
+}
+
+/**
+ * A mid-lesson draft: the first `answered` items are recorded as correct and
+ * the rest remain queued. Mirrors the app's draft shape (queueIds + firstTry).
+ */
+export function lessonDraft(unitId: string, lesson: number, answered: number): unknown {
+  const ids = units
+    .find((u) => u.id === unitId)!
+    .items.filter((it) => it.lesson === lesson)
+    .map((it) => it.id);
+  const done = Math.min(Math.max(answered, 0), ids.length - 1);
+  return {
+    v: 1,
+    id: "regression-seed",
+    savedAt: new Date().toISOString(),
+    kind: "lesson",
+    unitId,
+    lesson,
+    queueIds: ids.slice(done),
+    size: ids.length,
+    firstTry: Object.fromEntries(ids.slice(0, done).map((id) => [id, "correct"])),
+  };
+}
+
+/** Opens Settings from the home top bar and waits for it. */
+export async function gotoSettings(page: Page): Promise<void> {
+  await page.getByRole("button", { name: "Ajustos" }).click();
+  await expect(page.locator(".topbar-title")).toHaveText("Ajustos");
+}
+
+/** Reads a raw localStorage value (null when the key is absent). */
+export function readStorage(page: Page, key: string): Promise<string | null> {
+  return page.evaluate((k) => localStorage.getItem(k), key);
+}

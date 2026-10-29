@@ -205,6 +205,10 @@ test("discarding a saved draft clears it", async ({ page }) => {
   const card = resumeCard(page);
   await expect(card).toBeVisible();
   await card.getByRole("button", { name: "Descarta-la", exact: true }).click();
+  // A draft with answers asks for confirmation before discarding.
+  const dialog = page.getByRole("dialog", { name: "Descarta la sessió?" });
+  await expect(dialog).toBeVisible();
+  await dialog.getByRole("button", { name: "Descarta", exact: true }).click();
   await expect(card).toHaveCount(0);
   await expect.poll(() => page.evaluate(() => localStorage.getItem("catala.session.v1"))).toBeNull();
 });
