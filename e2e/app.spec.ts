@@ -1,22 +1,41 @@
 import { expect, test } from "@playwright/test";
 import type { Progress } from "../src/app/progress";
 import { lessonSession, reviewSession } from "../src/app/session";
-import { check, escape, expectVerdict, plain, playLesson, startNext, units } from "./helpers";
+import { check, escape, expectVerdict, openUnitLesson, plain, playLesson, startNext, units } from "./helpers";
 
-test("every lesson of every unit can be completed with the authored answers", async ({ page }) => {
-  // About 13 items per lesson and 5 lessons per unit: the time grows with the course.
-  test.setTimeout(90_000 * units.length);
-  await page.goto("/");
-  for (const unit of units) {
+// Reduced motion turns off the entrance animations and the confetti (styles.css, fx.ts),
+// so Playwright does not wait out an animation on every one of the ~3,900 items.
+test.use({ reducedMotion: "reduce" });
+
+// One test per unit, not one for the whole course: fullyParallel can only split tests,
+// and a single sequential test kept one worker busy while the rest idled.
+for (const unit of units) {
+  test(`every lesson of ${unit.id} can be completed with the authored answers`, async ({ page }) => {
+    // ~65 items, sharing the CPU with the other workers: leave ample room.
+    test.setTimeout(300_000);
+    await page.goto("/");
     for (let n = 1; n <= unit.lessons.length; n++) {
-      await startNext(page);
+      await openUnitLesson(page, unit, n);
       await playLesson(page, lessonSession(unit, n).queue);
       await expect(page.locator(".score")).toContainText(`${lessonSession(unit, n).size} de ${lessonSession(unit, n).size}`);
       await page.getByRole("button", { name: "Continua", exact: true }).click();
     }
-  }
-  // Everything done: no lesson left to continue.
+  });
+}
+
+test("a finished course offers no next lesson", async ({ page }) => {
+  const lessons = Object.fromEntries(
+    units.flatMap((u) => u.lessons.map((_, i) => [`${u.id}#${i + 1}`, "2026-10-20T09:00:00.000Z"])),
+  );
+  await page.addInitScript((done) => {
+    localStorage.setItem(
+      "catala.progress.v1",
+      JSON.stringify({ v: 1, lessons: done, cards: {}, items: {}, days: [], flagged: [] }),
+    );
+  }, lessons);
+  await page.goto("/");
   await expect(page.locator(".continue")).toHaveCount(0);
+  await expect(page.locator(".hero-title")).toHaveText("Has acabat el curs");
 });
 
 test("a wrong answer is explained, comes back at the end and counts as a miss", async ({ page }) => {

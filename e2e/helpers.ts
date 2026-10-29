@@ -90,3 +90,10 @@ export async function startNext(page: Page) {
   await page.locator(".continue").click();
   await skipIntro(page);
 }
+
+/** Opens one lesson of one unit from home, so a test can cover a single unit. */
+export async function openUnitLesson(page: Page, unit: AppUnit, lesson: number) {
+  await page.locator(".unit-row", { hasText: plain(unit.title) }).click();
+  await page.locator(".lesson-row").nth(lesson - 1).click();
+  await skipIntro(page);
+}

@@ -1,7 +1,7 @@
 # catala: memoria del proyecto
 
 App personal para pasar de A2 a B2 en catalán: unidades con gramática explícita y ejercicios tipo
-Duolingo, con repaso espaciado de los errores. Uso personal; repo privado.
+Duolingo, con repaso espaciado de los errores. Uso personal; repo público desde la v1.0.
 
 ## Decisiones (no reabrir sin preguntar)
 
@@ -93,3 +93,7 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
   e2e (eran del test). El e2e completo no llegó a terminar tras la revisión (el sistema lo cortó por
   memoria); queda para el otro PC. **Pendiente: e2e completo, APK y feedback del usuario**
   (`docs/siguientes-pasos.md`).
+- 2026-10-28 — e2e completo verde: el test único secuencial (~45 min, un trabajador) se troceó en
+  un test por unidad con movimiento reducido y pasa en 2,0 min (65 pasados, 2 omitidos por diseño).
+  Build web y `cap sync` hechos; la `android/` local no tiene proyecto Gradle: en el PC de
+  compilación, `npx cap add android` antes de sincronizar. **Pendiente: APK y feedback.**

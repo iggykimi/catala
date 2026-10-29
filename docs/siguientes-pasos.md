@@ -15,20 +15,23 @@ npm run validate   # 60 unidades, 0 errores
 
 ## 2. Pasar la prueba completa en la interfaz
 
-`npm run e2e` juega todas las lecciones de las 60 unidades con las respuestas del contenido. Es la
-única prueba que no se ha completado tras la revisión del contenido: en este PC el sistema la cortó
-dos veces por falta de memoria, no por un fallo. Las pruebas cortas (error, recarga, repaso, aviso
-de acento, botón atrás) sí pasaron con el diseño nuevo.
+`npm run e2e` juega todas las lecciones de las 60 unidades con las respuestas del contenido.
+**Hecho el 2026-10-28: 65 pasados y 2 omitidos (las capturas, que solo corren con `SCREENS=`) en
+2,0 minutos.** La prueba es ahora un test por unidad (antes, uno solo secuencial para todo el curso,
+que tardaba ~45 min con un solo trabajador) y corre con movimiento reducido, sin esperas de
+animación ni confeti.
 
-- Tarda unos 45 minutos. Mejor con el equipo libre y en primer plano.
 - Si falla un ítem, el informe dice cuál (`a2-07-065`, por ejemplo). Casi siempre se arregla en el
   YAML de su unidad: una respuesta que no casa con las opciones o un orden de fichas imposible.
 - Tras arreglarlo: `npm run validate` y volver a lanzar `npm run e2e`.
 
 ## 3. Generar la APK
 
-Los pasos están en el [README](../README.md#apk-android). Si ya existe la carpeta `android/`, basta
-con `npm run build && npx cap sync` y compilar desde Android Studio.
+Los pasos están en el [README](../README.md#apk-android). Build web y `npx cap sync` ya hechos
+aquí, pero la carpeta `android/` de este PC no tiene proyecto Gradle (ni `gradlew` ni
+`app/build.gradle`, solo los assets sincronizados): en el PC de compilación hay que crearla antes
+con `npx cap add android` (si la carpeta incompleta existe, borrarla primero) y luego
+`npm run build && npx cap sync` y compilar desde Android Studio.
 
 Qué mirar en el móvil:
 
