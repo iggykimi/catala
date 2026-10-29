@@ -7,6 +7,28 @@
     <link rel="icon" href="./icon-192.png" type="image/png" />
     <link rel="apple-touch-icon" href="./icon-192.png" />
     <title>Català</title>
+    <script>
+      (() => {
+        try {
+          const prefs = JSON.parse(localStorage.getItem("catala.prefs.v1") || "{}");
+          const theme = prefs.theme;
+          document.documentElement.dataset.theme =
+            theme === "dark" || theme === "light"
+              ? theme
+              : matchMedia("(prefers-color-scheme: dark)").matches
+                ? "dark"
+                : "light";
+        } catch {
+          try {
+            document.documentElement.dataset.theme = matchMedia("(prefers-color-scheme: dark)").matches
+              ? "dark"
+              : "light";
+          } catch {
+            document.documentElement.dataset.theme = "light";
+          }
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

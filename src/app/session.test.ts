@@ -66,3 +66,46 @@ describe("progress over time", () => {
     expect(streak(["2026-10-17"], new Date("2026-10-20T09:00:00"))).toBe(0);
   });
 });
+
+describe("fsrs across reloads", () => {
+  it("keeps FSRS scheduling after serialization", () => {
+    const now = new Date("2026-10-20T09:00:00.000Z");
+    let session = lessonSession(unit, 1);
+    while (session.queue.length > 0) {
+      session = answer(session, "correct");
+    }
+    const first = applySession(emptyProgress(), session, index, now);
+    const restored = JSON.parse(JSON.stringify(first));
+    const secondSession = reviewSession([unit], restored, new Date("2026-12-01T09:00:00.000Z"));
+    expect(secondSession.queue.length).toBeGreaterThan(0);
+    let completed = secondSession;
+    while (completed.queue.length > 0) {
+      completed = answer(completed, "correct");
+    }
+    const afterReview = applySession(restored, completed, index, new Date("2026-12-01T09:00:00.000Z"));
+    expect(afterReview.cards["a2-01/p"]?.reps).toBeGreaterThan(first.cards["a2-01/p"]?.reps ?? 0);
+  });
+
+  it("keeps Again scheduling after serialization", () => {
+    const now = new Date("2026-10-20T09:00:00.000Z");
+    let session = lessonSession(unit, 1);
+    session = answer(session, "wrong");
+    while (session.queue.length > 0) {
+      session = answer(session, "correct");
+    }
+    const first = applySession(emptyProgress(), session, index, now);
+    expect(first.cards["a2-01/p"]?.state).toBe(1);
+    expect(first.cards["a2-01/p"]?.reps).toBe(1);
+    expect(Date.parse(first.cards["a2-01/p"]!.due)).toBeLessThan(Date.parse(first.cards["a2-01/q"]!.due));
+    const restored = JSON.parse(JSON.stringify(first));
+    const review = reviewSession([unit], restored, new Date("2026-11-30T09:00:00.000Z"));
+    expect(review.queue.length).toBeGreaterThan(0);
+    let completed = review;
+    while (completed.queue.length > 0) {
+      completed = answer(completed, "correct");
+    }
+    const afterReview = applySession(restored, completed, index, new Date("2026-11-30T09:00:00.000Z"));
+    expect(afterReview.cards["a2-01/p"]?.reps).toBeGreaterThan(first.cards["a2-01/p"]?.reps ?? 0);
+    expect(afterReview.cards["a2-01/p"]?.lapses).toBe(0);
+  });
+});

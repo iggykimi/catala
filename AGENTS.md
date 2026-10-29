@@ -97,3 +97,8 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
   un test por unidad con movimiento reducido y pasa en 2,0 min (65 pasados, 2 omitidos por diseño).
   Build web y `cap sync` hechos; la `android/` local no tiene proyecto Gradle: en el PC de
   compilación, `npx cap add android` antes de sincronizar. **Pendiente: APK y feedback.**
+- 2026-10-29 — Issue #1 en rama `issue-1-refinament` (5 oleadas paralelas + integrador, auditado):
+  paleta accesible AA, sesiones recuperables con anti-duplicado, progreso validado con Zod,
+  selector de tema, diálogos nativos, export/import JSON, PWA con actualización manual y CI.
+  e2e 72/72 en 1,5 min, unitarios 53/53, 58 capturas antes/después revisadas. Fase 7 opcional
+  pendiente por decisión. **Pendiente: revisar la rama, mergear y cerrar el issue.**

@@ -26,8 +26,10 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 | **Racha** (fuego y número de días) | El único elemento de juego. El fuego está animado si ya has practicado hoy y gris si aún no: dice si hoy toca. Basta una lección al día para mantenerla. |
 | **Tarjeta de la siguiente lección**, del color del nivel, con el drac, el título, puntos de lección y **Continua** | La acción de cada día, en lo primero que ves. Los puntos dicen cuánto falta de la unidad; el que late es el siguiente. |
 | **Repàs** con número | Solo aparece si hay puntos pendientes de repaso. |
-| Unidades como tarjetas con su número de curso y su baldosa | El número informa porque el curso es una secuencia. Al abrir, la lista se desplaza hasta la unidad actual. |
-| Menú | Sonido, vibración, copia del progreso y ejercicios marcados: uso raro, escondido. |
+| Unidades como tarjetas con su número de curso y su baldosa | El número informa porque el curso es una secuencia. Al volver desde una de ellas, la lista conserva la posición; al abrir la app se ve la tarjeta Continua. |
+| **Tarjeta de sesión pendiente** («Tens una lliçó pendent», X de Y, **Reprèn** / Descarta-la) | Solo si se cerró la app a mitad de lección. Mientras existe, el resto de entradas se deshabilitan: no se puede empezar otra cosa sin resolverla. |
+| **Aviso de nueva versión** con **Actualitza** | Solo en el inicio y solo con una actualización descargada: nunca recarga a mitad de sesión. |
+| Menú | Sonido, vibración, tema, copia del progreso y ejercicios marcados: uso raro, escondido. |
 
 ## Unidad
 
@@ -43,7 +45,7 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 |---|---|
 | **Tarjetas, una por punto**, antes de la primera lección de cada unidad | La teoría completa en una página era larga. En tarjetas se lee un punto cada vez y se avanza con un toque. |
 | Puntos arriba | Cuántas tarjetas quedan. |
-| **Següent** / **Comença** | Un solo botón; en la última tarjeta dice lo que pasa al pulsarlo. |
+| **Següent** / **Comença**, con **Anterior** desde la segunda tarjeta | Releer una tarjeta no debía obligar a salir y volver a entrar. Sin botón de omitir: la teoría es el contrato de cada unidad. |
 
 ## Ejercicio
 
@@ -64,6 +66,9 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 | El drac salta (acierto) o se encoge (fallo) | Reacción emocional sin texto. |
 | **Correcte** / **Incorrecte** | El veredicto en una palabra. |
 | Solución | Solo cuando no está ya en pantalla (la opción buena ya sale en verde). |
+| En un fallo escrito, **tu respuesta junto a la esperada** | Comparar enseña más que leer la solución: ves tu error al lado de la forma correcta. En aceptadas con aviso basta la línea de solución. |
+| En lecturas, **veredicto por pregunta** con su explicación | El ejercicio sigue contando como un ítem, pero cada pregunta dice si acertó y por qué. |
+| En emparejamientos con fallos, **cuántos intentos fallaron** | Completar las parejas tras fallar ya no puntúa como acierto limpio sin decir por qué. |
 | En un fallo, **por qué tu respuesta está mal** | Lo mínimo para aprender del error. |
 | **Per què?** | La regla completa y el acceso a la **Teoria**, plegados: las explicaciones son útiles pero largas, y así solo las lee quien quiere. |
 | Bandera | Marcar un ejercicio sospechoso para revisar el contenido. |
@@ -75,6 +80,16 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 |---|---|
 | **Confeti**, sonido y el pétalo nuevo de la baldosa creciendo | El momento de recompensa: el progreso real de la unidad, celebrado. El confeti se para al salir. |
 | «12 de 13 a la primera» | Cómo te ha ido, sin porcentajes. |
+| «Has practicat N punts gramaticals» | Qué has trabajado, calculado de tus respuestas: el resumen habla de gramática, no solo de aciertos. |
+| Diálogos nativos para salir, borrar, vaciar y restaurar | El `confirm()` del navegador rompía el tono y en móvil se lee mal; el diálogo explica la consecuencia y nombra la acción. |
+
+## Ajustes
+
+| Elemento | Por qué |
+|---|---|
+| Selector de tema (Automàtic/Clar/Fosc) | El modo oscuro existía pero lo imponía el sistema; quien estudia de noche en modo claro lo pedía. |
+| Exportar/Importar la copia en un archivo, con resumen de la copia | Pegar JSON a mano en el móvil es frágil; el archivo se guarda donde quieras y antes de restaurar ves qué contiene. |
+| Lista de ejercicios marcados con su unidad y **Desmarca** | La bandera servía para avisar, pero no veías qué habías marcado ni podías quitar uno solo. |
 | Racha creciendo (fuego y días) | Solo en la primera lección del día, que es cuando la racha cambia. |
 
 ## Animación y movimiento
