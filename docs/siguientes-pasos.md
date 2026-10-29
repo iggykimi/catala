@@ -1,37 +1,35 @@
 # Siguientes pasos
 
-Estado a 2026-10-28: las 60 unidades (3.902 ejercicios) están escritas y revisadas ítem a ítem, y la
-app está rediseñada. Esto es lo que queda, en orden.
+Estado a 2026-10-29: las 60 unidades (3.902 ejercicios) están escritas y revisadas ítem a ítem, la
+app está rediseñada y el [issue #1](https://github.com/iggykimi/catala/issues/1) (refinamiento
+integral) está implementado en la rama `issue-1-refinament`, pendiente de merge. La APK v1.0 está
+publicada, pero es anterior al issue #1. Esto es lo que queda, en orden.
 
-## 1. Comprobar en el otro PC
+## 0. Mergear el issue #1
+
+Revisar la rama `issue-1-refinament` (paleta accesible, sesiones recuperables, tema, diálogos,
+export/import, PWA manual, CI), mergear a `main` y cerrar el issue. Comprobación rápida:
 
 ```bash
-git pull
+git checkout issue-1-refinament
 npm install
-npm test           # 18 tests: corrector, validador, sesiones
+npm test           # 53 tests: corrector, validador, sesiones, borradores, ejercicios
 npm run typecheck
 npm run validate   # 60 unidades, 0 errores
+npm run e2e        # 72 pasados en menos de 2 minutos
 ```
 
-## 2. Pasar la prueba completa en la interfaz
+## 1. Generar la APK v1.1
 
-`npm run e2e` juega todas las lecciones de las 60 unidades con las respuestas del contenido.
-**Hecho el 2026-10-28: 65 pasados y 2 omitidos (las capturas, que solo corren con `SCREENS=`) en
-2,0 minutos.** La prueba es ahora un test por unidad (antes, uno solo secuencial para todo el curso,
-que tardaba ~45 min con un solo trabajador) y corre con movimiento reducido, sin esperas de
-animación ni confeti.
+La [v1.0](https://github.com/iggykimi/catala/releases/tag/v1.0) no lleva lo del issue #1. Tras el
+merge, en el PC con Android Studio (`android/` ya es un proyecto Gradle completo con los iconos
+del drac):
 
-- Si falla un ítem, el informe dice cuál (`a2-07-065`, por ejemplo). Casi siempre se arregla en el
-  YAML de su unidad: una respuesta que no casa con las opciones o un orden de fichas imposible.
-- Tras arreglarlo: `npm run validate` y volver a lanzar `npm run e2e`.
+```bash
+npm run build && npx cap sync
+```
 
-## 3. Generar la APK
-
-Los pasos están en el [README](../README.md#apk-android). Build web y `npx cap sync` ya hechos
-aquí, pero la carpeta `android/` de este PC no tiene proyecto Gradle (ni `gradlew` ni
-`app/build.gradle`, solo los assets sincronizados): en el PC de compilación hay que crearla antes
-con `npx cap add android` (si la carpeta incompleta existe, borrarla primero) y luego
-`npm run build && npx cap sync` y compilar desde Android Studio.
+y compilar desde Android Studio. Tras cambiar contenido o código: `npm run build && npx cap sync`.
 
 Qué mirar en el móvil:
 
@@ -39,8 +37,10 @@ Qué mirar en el móvil:
 - El botón atrás de Android vuelve a la pantalla anterior.
 - El icono (drac sobre amarillo) en el lanzador.
 - Que **Comprova** queda siempre abajo, también con el teclado abierto.
+- Cerrar la app a mitad de lección y comprobar que ofrece reprenderla.
+- Cambiar el tema en Ajustos (Automàtic/Clar/Fosc).
 
-## 4. Usarla y dar feedback
+## 2. Usarla y dar feedback
 
 Pendiente de tu opinión:
 
@@ -49,9 +49,11 @@ Pendiente de tu opinión:
 - **El contenido**: la bandera de la hoja de resultado marca un ejercicio sospechoso. Los marcados
   se listan en Ajustes; pásamelos y los reviso.
 
-## 5. Ideas aparcadas
+## 3. Ideas aparcadas
 
 - **Prueba de nivel** al final de A2, B1 y B2, con ítems de todas las unidades del nivel. No está
   hecha.
+- Fase 7 del issue #1 (panot refinado, repaso voluntario, panel de dificultades, más animaciones
+  del dragón): documentada como opcional, sin implementar por decisión.
 - Revisión de las unidades por una persona nativa o docente. La revisión hecha es de modelos, con la
   guía (`guia-autoria.md` §2) y LanguageTool.

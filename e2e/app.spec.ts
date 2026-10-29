@@ -1,7 +1,7 @@
 import { expect, test } from "@playwright/test";
 import type { Progress } from "../src/app/progress";
 import { lessonSession, reviewSession } from "../src/app/session";
-import { check, escape, expectVerdict, openUnitLesson, plain, playLesson, startNext, units } from "./helpers";
+import { answerRight, check, escape, expectVerdict, openIntro, openUnitLesson, plain, playLesson, resumeCard, startNext, units } from "./helpers";
 
 // Reduced motion turns off the entrance animations and the confetti (styles.css, fx.ts),
 // so Playwright does not wait out an animation on every one of the ~3,900 items.
@@ -111,4 +111,100 @@ test("the back button and settings work", async ({ page }) => {
   await page.getByLabel("Còpia del progrés").fill("no és res");
   await page.getByRole("button", { name: "Restaura" }).click();
   await expect(page.locator(".error")).toBeVisible();
+});
+
+test("home keeps the main action visible", async ({ page }) => {
+  await page.goto("/");
+  await expect(page.locator(".continue")).toBeInViewport();
+});
+
+test("restores home scroll after visiting a unit", async ({ page }) => {
+  await page.goto("/");
+  const lastUnit = page.locator(".unit-row").last();
+  await lastUnit.scrollIntoViewIfNeeded();
+  const before = await page.evaluate(() => window.scrollY);
+  await lastUnit.click();
+  await page.goBack();
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(before - 30);
+});
+
+test("intro cards go back", async ({ page }) => {
+  const unit = units.find((u) => u.id === "a2-01")!;
+  await page.goto("/");
+  await openIntro(page, unit);
+  const back = page.getByRole("button", { name: "Anterior", exact: true });
+  const next = page.getByRole("button", { name: "Següent", exact: true });
+  await expect(back).toHaveCount(0);
+  await next.click();
+  await expect(back).toBeVisible();
+  await back.click();
+  await expect(back).toHaveCount(0);
+  await expect(next).toBeVisible();
+});
+
+test("back from settings returns home", async ({ page }) => {
+  await page.goto("/");
+  const lastUnit = page.locator(".unit-row").last();
+  await lastUnit.scrollIntoViewIfNeeded();
+  const before = await page.evaluate(() => window.scrollY);
+  await page.getByRole("button", { name: "Ajustos" }).click();
+  await expect(page.locator(".topbar-title")).toHaveText("Ajustos");
+  await page.goBack();
+  await expect(page.locator(".home")).toBeVisible();
+  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(before - 30);
+});
+
+test("back from theory returns to the unit", async ({ page }) => {
+  await page.goto("/");
+  await page.locator(".unit-row").first().click();
+  await page.getByRole("button", { name: "Teoria" }).click();
+  await expect(page.locator(".prose h2").first()).toBeVisible();
+  await page.getByRole("button", { name: "Enrere" }).click();
+  await expect(page.locator(".lesson-row").first()).toBeVisible();
+});
+
+/** A mid-lesson draft of a2-01 lesson 1: 3 items left out of the full lesson. */
+function seedDraftData() {
+  const unit = units.find((u) => u.id === "a2-01")!;
+  const ids = lessonSession(unit, 1).queue.map((it) => it.id);
+  return {
+    v: 1,
+    id: "test",
+    savedAt: new Date().toISOString(),
+    kind: "lesson",
+    unitId: "a2-01",
+    lesson: 1,
+    queueIds: ids.slice(0, 3),
+    size: ids.length,
+    // The rest was already worked: loadDraft only restores a draft whose known ids cover the session.
+    firstTry: Object.fromEntries(ids.slice(3).map((id) => [id, "correct"])),
+  };
+}
+
+test("a saved draft offers to resume the lesson", async ({ page }) => {
+  const unit = units.find((u) => u.id === "a2-01")!;
+  const queue = lessonSession(unit, 1).queue;
+  await page.addInitScript((draft) => {
+    localStorage.setItem("catala.session.v1", JSON.stringify(draft));
+  }, seedDraftData());
+  await page.goto("/");
+  const card = resumeCard(page);
+  await expect(card).toBeVisible();
+  await expect(card).toContainText(plain(unit.title));
+  await card.getByRole("button", { name: /Reprèn/ }).click();
+  await expect(page.locator(".screen.session")).toBeVisible();
+  await answerRight(page, queue[0]!);
+  await expectVerdict(page, "Correcte");
+});
+
+test("discarding a saved draft clears it", async ({ page }) => {
+  await page.addInitScript((draft) => {
+    localStorage.setItem("catala.session.v1", JSON.stringify(draft));
+  }, seedDraftData());
+  await page.goto("/");
+  const card = resumeCard(page);
+  await expect(card).toBeVisible();
+  await card.getByRole("button", { name: "Descarta-la", exact: true }).click();
+  await expect(card).toHaveCount(0);
+  await expect.poll(() => page.evaluate(() => localStorage.getItem("catala.session.v1"))).toBeNull();
 });

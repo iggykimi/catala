@@ -1,3 +1,4 @@
+import { z } from "zod";
 import type { CardInput } from "ts-fsrs";
 
 /** A spaced-repetition card as stored (dates as ISO strings). */
@@ -23,9 +24,54 @@ export interface Progress {
   days: string[];
   /** Item ids the learner marked as suspicious. */
   flagged: string[];
+  /** Id of the last session applied by finishSessionOnce (crash/double-tap guard). */
+  lastAppliedSessionId?: string;
 }
 
-const KEY = "catala.progress.v1";
+export const PROGRESS_KEY = "catala.progress.v1";
+/** One-shot shelter for stored bytes that are no longer a valid progress. */
+export const CORRUPT_BACKUP_KEY = "catala.progress.corrupt.v1";
+
+const isoDateTime = z.string().refine((value) => !Number.isNaN(Date.parse(value)), "Invalid date");
+const nonNegativeInt = z.number().int().nonnegative();
+const dayString = z.string().regex(/^\d{4}-\d{2}-\d{2}$/);
+
+const itemStatSchema = z.object({
+  seen: nonNegativeInt,
+  wrong: nonNegativeInt,
+  last: isoDateTime,
+  ok: z.boolean(),
+});
+
+// Card fields follow the installed ts-fsrs Card model (due, stability, difficulty,
+// elapsed_days, scheduled_days, learning_steps, reps, lapses, state, last_review).
+// Unknown extra keys are kept so a future ts-fsrs field never invalidates a copy.
+const storedCardSchema = z
+  .object({
+    due: isoDateTime,
+    last_review: isoDateTime.nullish(),
+    stability: z.number().finite().nonnegative(),
+    difficulty: z.number().finite().nonnegative(),
+    elapsed_days: z.number().finite(),
+    scheduled_days: z.number().finite(),
+    learning_steps: nonNegativeInt,
+    reps: nonNegativeInt,
+    lapses: nonNegativeInt,
+    state: z.union([z.number().int().min(0).max(3), z.enum(["New", "Learning", "Review", "Relearning"])]),
+  })
+  .passthrough();
+
+// Strict about shapes, lenient about age: fields added after v1 shipped get
+// defaults so old but legitimate copies still validate (see the compat test).
+const progressSchema = z.object({
+  v: z.literal(1),
+  lessons: z.record(z.string(), isoDateTime),
+  cards: z.record(z.string(), storedCardSchema),
+  items: z.record(z.string(), itemStatSchema).default({}),
+  days: z.array(dayString).default([]),
+  flagged: z.array(z.string()).default([]),
+  lastAppliedSessionId: z.string().optional(),
+});
 
 export const emptyProgress = (): Progress => ({ v: 1, lessons: {}, cards: {}, items: {}, days: [], flagged: [] });
 
@@ -33,24 +79,71 @@ export const emptyProgress = (): Progress => ({ v: 1, lessons: {}, cards: {}, it
 export function parseProgress(raw: string | null): Progress | null {
   if (!raw) return null;
   try {
-    const p = JSON.parse(raw) as Partial<Progress>;
-    if (p.v !== 1 || typeof p.lessons !== "object" || typeof p.cards !== "object") return null;
-    return { ...emptyProgress(), ...p } as Progress;
+    const result = progressSchema.safeParse(JSON.parse(raw));
+    if (!result.success) return null;
+    return result.data as Progress;
   } catch {
     return null;
   }
 }
 
-export function loadProgress(): Progress {
+/** Keeps the first corrupt snapshot; later ones never overwrite it. */
+function stashCorruptBackup(raw: string): void {
   try {
-    return parseProgress(localStorage.getItem(KEY)) ?? emptyProgress();
+    if (localStorage.getItem(CORRUPT_BACKUP_KEY) === null) {
+      localStorage.setItem(CORRUPT_BACKUP_KEY, raw);
+    }
   } catch {
-    return emptyProgress();
+    // Storage unavailable: nothing can be preserved.
   }
 }
 
+/** The sheltered corrupt bytes, if any were ever stashed. */
+export function readCorruptBackup(): string | null {
+  try {
+    return localStorage.getItem(CORRUPT_BACKUP_KEY);
+  } catch {
+    return null;
+  }
+}
+
+export interface ProgressLoad {
+  progress: Progress;
+  /** The stored bytes when they exist but are not a valid progress, else null. */
+  corrupt: string | null;
+}
+
+/**
+ * Loads the progress telling apart "nothing stored" (corrupt: null) from
+ * "stored but unreadable" (corrupt: raw bytes, sheltered under the backup key).
+ */
+export function loadProgressState(): ProgressLoad {
+  let raw: string | null;
+  try {
+    raw = localStorage.getItem(PROGRESS_KEY);
+  } catch {
+    return { progress: emptyProgress(), corrupt: null };
+  }
+  if (raw === null) return { progress: emptyProgress(), corrupt: null };
+  const parsed = parseProgress(raw);
+  if (parsed) return { progress: parsed, corrupt: null };
+  stashCorruptBackup(raw);
+  return { progress: emptyProgress(), corrupt: raw };
+}
+
+export function loadProgress(): Progress {
+  return loadProgressState().progress;
+}
+
 export function saveProgress(p: Progress): void {
-  localStorage.setItem(KEY, JSON.stringify(p));
+  // Never silently pave over bytes we cannot read: shelter them first.
+  try {
+    const existing = localStorage.getItem(PROGRESS_KEY);
+    if (existing !== null && parseProgress(existing) === null) stashCorruptBackup(existing);
+  } catch {
+    // A failing read must not block the write below.
+  }
+  localStorage.setItem(PROGRESS_KEY, JSON.stringify(p));
 }
 
 export const lessonKey = (unitId: string, lesson: number) => `${unitId}#${lesson}`;

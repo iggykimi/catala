@@ -18,6 +18,7 @@ tipos y repaso espaciado de los errores. Explicaciones en catalán, variante cen
 - 60 unidades (A2, B1, B2) con la teoría en tarjetas y 3.902 ejercicios.
 - Ocho tipos de ejercicio; corrección tolerante con los acentos y estricta con la ortografía.
 - Repaso espaciado por punto gramatical, racha diaria, sonido y vibración.
+- Sesiones recuperables, tema claro/oscuro y copia del progreso en archivo.
 - Funciona sin conexión; sin cuentas ni servidores.
 
 ## Desarrollo
@@ -31,8 +32,8 @@ npm run dev                      # la app en el navegador
 npm run e2e                      # juega todas las lecciones en un móvil simulado
 ```
 
-La prueba completa juega las 60 unidades en paralelo (un test por unidad): 65 tests en unos
-2 minutos.
+La prueba completa juega las 60 unidades en paralelo (un test por unidad): 72 tests en
+menos de 2 minutos.
 
 ## APK (Android)
 

@@ -135,3 +135,19 @@ export function nextLesson(units: AppUnit[], p: Progress): { unit: AppUnit; less
 
 export const lessonsDone = (unit: AppUnit, p: Progress) =>
   unit.lessons.filter((_, i) => p.lessons[lessonKey(unit.id, i + 1)]).length;
+
+/**
+ * The progress after a finished session, applied exactly once: when the
+ * session id was already applied (crash between the write and the draft
+ * cleanup, double tap) the progress is returned unchanged.
+ */
+export function finishSessionOnce(
+  progress: Progress,
+  session: Session,
+  sessionId: string,
+  items: Map<string, Item>,
+  now: Date
+): Progress {
+  if (progress.lastAppliedSessionId === sessionId) return progress;
+  return { ...applySession(progress, session, items, now), lastAppliedSessionId: sessionId };
+}

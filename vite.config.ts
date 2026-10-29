@@ -10,7 +10,7 @@ export default defineConfig({
     contentPlugin(),
     react(),
     VitePWA({
-      registerType: "autoUpdate",
+      registerType: "prompt",
       manifest: {
         name: "Català",
         short_name: "Català",

@@ -3,19 +3,29 @@
 import { Haptics, ImpactStyle, NotificationType } from "@capacitor/haptics";
 import confetti from "canvas-confetti";
 
+export type Theme = "system" | "light" | "dark";
+
 export interface Prefs {
   sound: boolean;
   vibration: boolean;
+  theme: Theme;
 }
 
 const KEY = "catala.prefs.v1";
-const DEFAULTS: Prefs = { sound: true, vibration: true };
+const DEFAULTS: Prefs = { sound: true, vibration: true, theme: "system" };
+
+const isTheme = (v: unknown): v is Theme => v === "system" || v === "light" || v === "dark";
 
 export function loadPrefs(): Prefs {
   try {
-    return { ...DEFAULTS, ...(JSON.parse(localStorage.getItem(KEY) ?? "{}") as Partial<Prefs>) };
+    const raw = JSON.parse(localStorage.getItem(KEY) ?? "{}") as Partial<Prefs>;
+    return {
+      sound: typeof raw.sound === "boolean" ? raw.sound : DEFAULTS.sound,
+      vibration: typeof raw.vibration === "boolean" ? raw.vibration : DEFAULTS.vibration,
+      theme: isTheme(raw.theme) ? raw.theme : DEFAULTS.theme,
+    };
   } catch {
-    return DEFAULTS;
+    return { ...DEFAULTS };
   }
 }
 

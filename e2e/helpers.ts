@@ -97,3 +97,13 @@ export async function openUnitLesson(page: Page, unit: AppUnit, lesson: number) 
   await page.locator(".lesson-row").nth(lesson - 1).click();
   await skipIntro(page);
 }
+
+/** The pending-session card on home, shown when a saved draft exists. */
+export const resumeCard = (page: Page) => page.locator(".resume-card");
+
+/** Opens the theory intro of a unit's first lesson from home (fresh progress). */
+export async function openIntro(page: Page, unit: AppUnit) {
+  await page.locator(".unit-row", { hasText: plain(unit.title) }).click();
+  await page.locator(".lesson-row").nth(0).click();
+  await page.locator(".intro").waitFor();
+}

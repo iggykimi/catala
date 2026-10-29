@@ -9,6 +9,8 @@ export interface Result {
   verdict: Verdict;
   /** The right answer, shown when the learner's differs. */
   expected?: string;
+  /** What the learner typed, shown next to the expected answer. */
+  submitted?: string;
   why?: string;
   notes?: Note[];
 }
@@ -95,15 +97,16 @@ export function Choice({ item, done, onResult }: Props<"choice">) {
   );
 }
 
-function typedResult(value: string, spec: Parameters<typeof gradeTyped>[1]): Result {
+export function typedResult(value: string, spec: Parameters<typeof gradeTyped>[1]): Result {
   const v = gradeTyped(value, spec);
   if (v.verdict === "correct") return { verdict: "correct" };
-  if (v.verdict === "accepted") return { verdict: "accepted", expected: v.expected, notes: v.notes };
-  return { verdict: "wrong", expected: v.expected, why: v.why };
+  if (v.verdict === "accepted") return { verdict: "accepted", submitted: value, expected: v.expected, notes: v.notes };
+  return { verdict: "wrong", submitted: value, expected: v.expected, why: v.why };
 }
 
 const onEnter = (ready: boolean, check: () => void) => (e: React.KeyboardEvent) => {
-  if (e.key === "Enter" && !e.shiftKey && ready) {
+  // isComposing: an Enter that confirms an IME composition must not check the answer.
+  if (e.key === "Enter" && !e.shiftKey && !e.nativeEvent.isComposing && ready) {
     e.preventDefault();
     check();
   }
@@ -319,6 +322,15 @@ export function Order({ item, done, onResult }: Props<"order">) {
   );
 }
 
+/** Final verdict once every pair is matched: flawless runs pass, runs with wrong attempts explain why they fail. */
+export function matchCompletion(errors: number): Result {
+  if (errors === 0) return { verdict: "correct" };
+  return {
+    verdict: "wrong",
+    why: `Has completat totes les parelles, però has fet ${errors} ${errors === 1 ? "intent incorrecte." : "intents incorrectes."}`,
+  };
+}
+
 export function Match({ item, done, onResult }: Props<"match">) {
   const left = useMemo(() => shuffle(item.pairs.map((p, i) => ({ t: p[0], i }))), [item]);
   const right = useMemo(() => shuffle(item.pairs.map((p, i) => ({ t: p[1], i }))), [item]);
@@ -334,7 +346,7 @@ export function Match({ item, done, onResult }: Props<"match">) {
     if (l === r) {
       const next = new Set(matched).add(l);
       setMatched(next);
-      if (next.size === item.pairs.length) onResult({ verdict: mistakes.current === 0 ? "correct" : "wrong" });
+      if (next.size === item.pairs.length) onResult(matchCompletion(mistakes.current));
     } else {
       mistakes.current++;
       setMiss({ l, r });
@@ -359,6 +371,27 @@ export function Match({ item, done, onResult }: Props<"match">) {
         <div className="match-col">{left.map((e) => cell("l", e))}</div>
         <div className="match-col">{right.map((e) => cell("r", e))}</div>
       </div>
+    </div>
+  );
+}
+
+/** Textual verdict for one reading question, shown under its options after checking. */
+export function QuestionFeedback({ options, selected, answer }: { options: Option[]; selected: number | null; answer: string }) {
+  const selectedOption = selected === null ? null : options[selected];
+  const correct = selectedOption?.ok === true;
+  return (
+    <div className={`question-feedback ${correct ? "is-correct" : "is-incorrect"}`}>
+      <strong>{correct ? "Correcte" : "Resposta incorrecta"}</strong>
+      {!correct && (
+        <p className="correct-answer">
+          Resposta correcta: <Rich text={answer} />
+        </p>
+      )}
+      {!correct && selectedOption?.why && (
+        <p>
+          <Rich text={selectedOption.why} />
+        </p>
+      )}
     </div>
   );
 }
@@ -390,6 +423,7 @@ export function Reading({ item, done, onResult }: Props<"reading">) {
             <Rich text={q.prompt} />
           </p>
           <Options options={options[qi]!} selected={sel[qi]!} done={done} onSelect={(i) => setSel(sel.map((s, j) => (j === qi ? i : s)))} />
+          {done && <QuestionFeedback options={options[qi]!} selected={sel[qi]!} answer={q.answer} />}
         </section>
       ))}
       <CheckBar ready={sel.every((s) => s !== null)} onCheck={check} done={done} />
@@ -404,6 +438,24 @@ export function Exercise(props: { item: Item; done: boolean; onResult: (r: Resul
     // Braces matter: newer browsers return a promise from scrollTo, which React would take for a cleanup.
     window.scrollTo(0, 0);
   }, [item]);
+  // Lift fixed bars above the on-screen keyboard where visualViewport reports the covered area.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const viewport = window.visualViewport;
+    if (!viewport) return;
+    const sync = () => {
+      const covered = Math.max(0, window.innerHeight - viewport.height - viewport.offsetTop);
+      document.documentElement.style.setProperty("--keyboard-offset", `${covered}px`);
+    };
+    viewport.addEventListener("resize", sync);
+    viewport.addEventListener("scroll", sync);
+    sync();
+    return () => {
+      viewport.removeEventListener("resize", sync);
+      viewport.removeEventListener("scroll", sync);
+      document.documentElement.style.removeProperty("--keyboard-offset");
+    };
+  }, []);
   switch (item.type) {
     case "choice":
       return <Choice {...props} item={item} />;
