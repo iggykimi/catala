@@ -120,7 +120,8 @@ describe("Reading feedback blocks", () => {
   it("shows no per-question feedback before checking", () => {
     const html = renderToStaticMarkup(createElement(Reading, { item, done: false, onResult: noop }));
     expect(html).not.toContain("question-feedback");
-    expect(html).toContain("Comprova");
+    expect(html).toContain("question-prompt");
+    expect(html).not.toContain("Comprova");
   });
 
   it("shows one feedback block after each question once done", () => {
@@ -138,7 +139,7 @@ describe("Exercise wrapper", () => {
       prompt: "___", answer: "a", distractors: [{ text: "b" }, { text: "c" }],
     };
     const html = renderToStaticMarkup(createElement(Exercise, { item, done: false, onResult: noop }));
-    expect(html).toContain("Comprova");
+    expect(html).not.toContain("Comprova");
     expect(html).toContain("option");
   });
 });

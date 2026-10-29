@@ -7,7 +7,6 @@ import type { Progress } from "../src/app/progress";
 import { lessonSession } from "../src/app/session";
 import {
   answerRight,
-  check,
   escape,
   expectVerdict,
   gotoSettings,
@@ -161,7 +160,6 @@ test("E2E-06 a wrong answer opens theory that closes with Escape and restores fo
   await page.goto("/");
   await startNext(page);
   await page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(first.distractors[0]!.text))}$`) }).click();
-  await check(page);
   await expectVerdict(page, "Incorrecte");
   await page.getByRole("button", { name: "Per què?" }).click();
   const theoryButton = page.getByRole("button", { name: "Teoria", exact: true });

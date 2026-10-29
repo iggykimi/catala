@@ -46,7 +46,6 @@ test("a wrong answer is explained, comes back at the end and counts as a miss", 
 
   if (first!.type !== "choice") throw new Error("this test expects the first item to be a choice");
   await page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(first!.distractors[0]!.text))}$`) }).click();
-  await check(page);
   await expectVerdict(page, "Incorrecte");
   await expect(page.locator(".option.is-right")).toHaveText(plain(first!.answer));
   await page.getByRole("button", { name: "Per què?" }).click();

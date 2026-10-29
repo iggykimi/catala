@@ -13,8 +13,8 @@ export const check = (page: Page) => page.getByRole("button", { name: "Comprova"
 export async function answerRight(page: Page, item: Item) {
   switch (item.type) {
     case "choice":
-      await page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(item.answer))}$`) }).click();
-      return check(page);
+      // Tapping the option checks it immediately; only typed answers keep Comprova.
+      return page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(item.answer))}$`) }).click();
     case "fill":
       await page.getByLabel("Resposta").fill(item.answers[0]!);
       return check(page);
@@ -28,23 +28,27 @@ export async function answerRight(page: Page, item: Item) {
         const opt = g.options[0]!;
         await page.locator(".chips").getByRole("button", { name: opt === "" ? "res" : opt, exact: true }).click();
       }
-      return check(page);
+      return;
     }
     case "find-error": {
-      if (item.no_error) {
-        await button(page, "No hi ha cap error").click();
-        return check(page);
-      }
+      if (item.no_error) return button(page, "No hi ha cap error").click();
       const start = item.sentence.indexOf(item.error!);
       const tokenIndex = [...item.sentence.matchAll(/\S+/g)].findIndex((m) => m.index + m[0].length > start);
       await page.locator(".token").nth(tokenIndex).click();
-      await check(page);
-      await page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(item.fix!))}$`) }).click();
-      return check(page);
+      return page.locator(".option").filter({ hasText: new RegExp(`^${escape(plain(item.fix!))}$`) }).click();
     }
-    case "order":
-      for (const c of item.chunks) await page.locator(".bank").getByRole("button", { name: c, exact: true }).first().click();
-      return check(page);
+    case "order": {
+      // Unused chips only: a duplicate text may belong to a distractor chip.
+      for (const c of item.chunks) {
+        if ((await page.locator(".sheet-title").count()) > 0) return;
+        await page
+          .locator(".bank .chip:not(.is-used)")
+          .filter({ hasText: new RegExp(`^${escape(c)}$`) })
+          .first()
+          .click();
+      }
+      return;
+    }
     case "match":
       for (const [l, r] of item.pairs) {
         await page.locator(".match-col").first().getByRole("button", { name: plain(l), exact: true }).click();
@@ -55,8 +59,15 @@ export async function answerRight(page: Page, item: Item) {
       for (const [qi, q] of item.questions.entries()) {
         await page.locator(".question").nth(qi).locator(".option").filter({ hasText: new RegExp(`^${escape(plain(q.answer))}$`) }).click();
       }
-      return check(page);
+      return;
   }
+}
+
+/** Stores prefs before the first navigation; suites pin autoAdvance off for determinism. */
+export async function seedPrefs(page: Page, prefs: Record<string, unknown>): Promise<void> {
+  await page.addInitScript((p) => {
+    localStorage.setItem("catala.prefs.v1", JSON.stringify(p));
+  }, prefs);
 }
 
 export function escape(s: string) {

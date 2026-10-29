@@ -33,6 +33,16 @@ function CheckBar({ ready, onCheck, done }: { ready: boolean; onCheck: () => voi
   );
 }
 
+/** Guards the single onResult call: rapid double taps must not evaluate twice. */
+function useFire(onResult: (r: Result) => void) {
+  const fired = useRef(false);
+  return (r: Result) => {
+    if (fired.current) return;
+    fired.current = true;
+    onResult(r);
+  };
+}
+
 function Instruction({ text }: { text?: string }) {
   return text ? (
     <p className="instruction">
@@ -83,16 +93,20 @@ function Options({ options, selected, done, onSelect }: { options: Option[]; sel
 export function Choice({ item, done, onResult }: Props<"choice">) {
   const options = useMemo(() => optionsOf(item.answer, item.distractors), [item]);
   const [sel, setSel] = useState<number | null>(null);
+  const fire = useFire(onResult);
+  const select = (i: number) => {
+    setSel(i);
+    const o = options[i]!;
+    fire(o.ok ? { verdict: "correct" } : { verdict: "wrong", why: o.why });
+  };
   const chosen = sel === null ? null : options[sel]!;
-  const check = () => onResult(chosen!.ok ? { verdict: "correct" } : { verdict: "wrong", why: chosen!.why });
   return (
     <div className="ex enter">
       <Instruction text={item.instruction} />
       <p className="prompt">
         <GapText text={item.prompt} fill={chosen && <Rich text={chosen.text} />} state={done ? (chosen?.ok ? "ok" : "bad") : undefined} />
       </p>
-      <Options options={options} selected={sel} done={done} onSelect={setSel} />
-      <CheckBar ready={sel !== null} onCheck={check} done={done} />
+      <Options options={options} selected={sel} done={done} onSelect={select} />
     </div>
   );
 }
@@ -130,6 +144,7 @@ export function Fill({ item, done, onResult }: Props<"fill">) {
               value={value}
               disabled={done}
               autoFocus
+              enterKeyHint="go"
               autoCapitalize="off"
               autoComplete="off"
               autoCorrect="off"
@@ -167,6 +182,7 @@ export function Transform({ item, done, onResult }: Props<"transform">) {
           value={value}
           disabled={done}
           autoFocus
+          enterKeyHint="go"
           autoComplete="off"
           autoCorrect="off"
           spellCheck={false}
@@ -188,16 +204,17 @@ export function InlineChoice({ item, done, onResult }: Props<"inline-choice">) {
   );
   const [chosen, setChosen] = useState<(string | null)[]>(() => gaps.map(() => null));
   const [active, setActive] = useState(0);
+  const fire = useFire(onResult);
   const choose = (opt: string) => {
     const next = chosen.map((c, i) => (i === active ? opt : c));
     setChosen(next);
     const empty = next.findIndex((c, i) => c === null && i > active);
     const anyEmpty = next.findIndex((c) => c === null);
     setActive(empty >= 0 ? empty : anyEmpty >= 0 ? anyEmpty : active);
-  };
-  const check = () => {
-    const ok = gaps.every((g, i) => chosen[i] === g.correct);
-    onResult({ verdict: ok ? "correct" : "wrong" });
+    if (next.every((c) => c !== null)) {
+      const ok = gaps.every((g, i) => next[i] === g.correct);
+      fire({ verdict: ok ? "correct" : "wrong" });
+    }
   };
   const label = (o: string) => (o === "" ? "—" : o);
   let g = -1;
@@ -235,7 +252,6 @@ export function InlineChoice({ item, done, onResult }: Props<"inline-choice">) {
           ))}
         </div>
       )}
-      <CheckBar ready={chosen.every((c) => c !== null)} onCheck={check} done={done} />
     </div>
   );
 }
@@ -250,15 +266,23 @@ export function FindError({ item, done, onResult }: Props<"find-error">) {
   const [stage, setStage] = useState<"pick" | "fix">("pick");
   const [pick, setPick] = useState<number | "none" | null>(null);
   const [fixSel, setFixSel] = useState<number | null>(null);
+  const fire = useFire(onResult);
 
-  const check = () => {
-    if (stage === "fix") {
-      const o = fixOptions[fixSel!]!;
-      return onResult(o.ok ? { verdict: "correct" } : { verdict: "wrong", why: o.why });
-    }
-    if (item.no_error) return onResult(pick === "none" ? { verdict: "correct" } : { verdict: "wrong", expected: "No hi ha cap error." });
-    if (pick === "none" || !inError(pick as number)) return onResult({ verdict: "wrong", expected: fixed });
+  // Every tap resolves immediately: a right pick moves to the fix stage, anything else is the verdict.
+  const pickToken = (i: number) => {
+    setPick(i);
+    if (item.no_error || !inError(i)) return fire({ verdict: "wrong", expected: item.no_error ? "No hi ha cap error." : fixed });
     setStage("fix");
+  };
+  const pickNone = () => {
+    setPick("none");
+    if (item.no_error) return fire({ verdict: "correct" });
+    return fire({ verdict: "wrong", expected: fixed });
+  };
+  const pickFix = (i: number) => {
+    setFixSel(i);
+    const o = fixOptions[i]!;
+    fire(o.ok ? { verdict: "correct" } : { verdict: "wrong", why: o.why });
   };
   return (
     <div className="ex enter">
@@ -269,7 +293,7 @@ export function FindError({ item, done, onResult }: Props<"find-error">) {
           if (stage === "fix" && inError(i)) cls.push("is-error");
           else if (pick === i) cls.push(done ? (inError(i) ? "is-error" : "is-wrong") : "is-selected");
           return (
-            <button key={i} className={cls.join(" ")} disabled={done || stage === "fix"} aria-pressed={pick === i} onClick={() => setPick(i)}>
+            <button key={i} className={cls.join(" ")} disabled={done || stage === "fix"} aria-pressed={pick === i} onClick={() => pickToken(i)}>
               {t.text}
             </button>
           );
@@ -277,14 +301,13 @@ export function FindError({ item, done, onResult }: Props<"find-error">) {
       </p>
       {stage === "pick" ? (
         <div className="options">
-          <button className={`option${pick === "none" ? " is-selected" : ""}`} disabled={done} aria-pressed={pick === "none"} onClick={() => setPick("none")}>
+          <button className={`option${pick === "none" ? " is-selected" : ""}`} disabled={done} aria-pressed={pick === "none"} onClick={pickNone}>
             No hi ha cap error
           </button>
         </div>
       ) : (
-        <Options options={fixOptions} selected={fixSel} done={done} onSelect={setFixSel} />
+        <Options options={fixOptions} selected={fixSel} done={done} onSelect={pickFix} />
       )}
-      <CheckBar ready={stage === "pick" ? pick !== null : fixSel !== null} onCheck={check} done={done} />
     </div>
   );
 }
@@ -292,10 +315,27 @@ export function FindError({ item, done, onResult }: Props<"find-error">) {
 export function Order({ item, done, onResult }: Props<"order">) {
   const bank = useMemo(() => shuffle([...item.chunks, ...item.extra]), [item]);
   const [placed, setPlaced] = useState<number[]>([]);
-  const text = placed.map((i) => bank[i]).join(" ");
-  const check = () => {
-    const ok = item.answers.some((a) => normalizeOrder(a) === normalizeOrder(text));
-    onResult(ok ? { verdict: "correct" } : { verdict: "wrong", expected: item.answers[0] });
+  const fire = useFire(onResult);
+  // Checks once the placed chips cover every required text (extras may stay in the bank):
+  // building and fixing never evaluates early, and stray chips ride along into the verdict.
+  const covers = (placedIdx: number[]) => {
+    const have = new Map<string, number>();
+    for (const j of placedIdx) have.set(bank[j]!, (have.get(bank[j]!) ?? 0) + 1);
+    return item.chunks.every((c) => {
+      const n = have.get(c) ?? 0;
+      if (n === 0) return false;
+      have.set(c, n - 1);
+      return true;
+    });
+  };
+  const place = (i: number) => {
+    const next = [...placed, i];
+    setPlaced(next);
+    if (covers(next)) {
+      const text = next.map((j) => bank[j]).join(" ");
+      const ok = item.answers.some((a) => normalizeOrder(a) === normalizeOrder(text));
+      fire(ok ? { verdict: "correct" } : { verdict: "wrong", expected: item.answers[0] });
+    }
   };
   return (
     <div className="ex enter">
@@ -312,12 +352,11 @@ export function Order({ item, done, onResult }: Props<"order">) {
       </div>
       <div className="chips bank">
         {bank.map((c, i) => (
-          <button key={i} className={`chip${placed.includes(i) ? " is-used" : ""}`} disabled={done || placed.includes(i)} onClick={() => setPlaced([...placed, i])}>
+          <button key={i} className={`chip${placed.includes(i) ? " is-used" : ""}`} disabled={done || placed.includes(i)} onClick={() => place(i)}>
             {c}
           </button>
         ))}
       </div>
-      <CheckBar ready={placed.length > 0} onCheck={check} done={done} />
     </div>
   );
 }
@@ -399,9 +438,14 @@ export function QuestionFeedback({ options, selected, answer }: { options: Optio
 export function Reading({ item, done, onResult }: Props<"reading">) {
   const options = useMemo(() => item.questions.map((q) => optionsOf(q.answer, q.distractors)), [item]);
   const [sel, setSel] = useState<(number | null)[]>(() => item.questions.map(() => null));
-  const check = () => {
-    const wrong = options.map((o, i) => o[sel[i]!]!).find((o) => !o.ok);
-    onResult(wrong ? { verdict: "wrong", why: wrong.why } : { verdict: "correct" });
+  const fire = useFire(onResult);
+  const answerQuestion = (qi: number, i: number) => {
+    const next = sel.map((s, j) => (j === qi ? i : s));
+    setSel(next);
+    if (next.every((s) => s !== null)) {
+      const wrong = options.map((o, j) => o[next[j]!]!).find((o) => !o.ok);
+      fire(wrong ? { verdict: "wrong", why: wrong.why } : { verdict: "correct" });
+    }
   };
   return (
     <div className="ex enter">
@@ -422,11 +466,10 @@ export function Reading({ item, done, onResult }: Props<"reading">) {
           <p className="question-prompt">
             <Rich text={q.prompt} />
           </p>
-          <Options options={options[qi]!} selected={sel[qi]!} done={done} onSelect={(i) => setSel(sel.map((s, j) => (j === qi ? i : s)))} />
+          <Options options={options[qi]!} selected={sel[qi]!} done={done} onSelect={(i) => answerQuestion(qi, i)} />
           {done && <QuestionFeedback options={options[qi]!} selected={sel[qi]!} answer={q.answer} />}
         </section>
       ))}
-      <CheckBar ready={sel.every((s) => s !== null)} onCheck={check} done={done} />
     </div>
   );
 }
