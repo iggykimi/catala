@@ -1,30 +1,15 @@
 # Siguientes pasos
 
 Estado a 2026-10-29: las 60 unidades (3.902 ejercicios) están escritas y revisadas ítem a ítem,
-el issue #1 (refinamiento) está mergeado en `main` y el
-[issue #2](https://github.com/iggykimi/catala/issues/2) (hardening: coherencia progreso-borradores,
-atrás unificado, Reprèn protagonista, PWA verificada) está implementado en la rama
-`issue-2-hardening`, pendiente de merge. La APK v1.0 publicada es anterior a ambos issues. Esto es
-lo que queda, en orden.
+los issues #1 (refinamiento) y #2 (hardening) están mergeados en `main` y la APK
+[v1.1](https://github.com/iggykimi/catala/releases/tag/v1.1) publicada ya los lleva. Esto es lo que
+queda, en orden.
 
-## 0. Mergear el issue #2
+## 0. Instalar la v1.1 y probarla en el móvil
 
-Revisar la rama `issue-2-hardening`, mergear a `main` y cerrar el issue. Comprobación rápida:
-
-```bash
-git checkout issue-2-hardening
-npm install
-npm test           # 68 tests: corrector, validador, sesiones, borradores, ejercicios
-npm run typecheck
-npm run validate   # 60 unidades, 0 errores
-npm run e2e        # 81 pasados en menos de 2 minutos
-```
-
-## 1. Generar la APK v1.1
-
-La [v1.0](https://github.com/iggykimi/catala/releases/tag/v1.0) no lleva los issues #1 ni #2. Tras
-el merge, en el PC con Android Studio (`android/` ya es un proyecto Gradle completo con los iconos
-del drac):
+Descargar la APK desde el [release](https://github.com/iggykimi/catala/releases/tag/v1.1) e
+instalarla encima de la v1.0 si la tienes. Para regenerarla desde código, en el PC con Android
+Studio (`android/` ya es un proyecto Gradle completo con los iconos del drac):
 
 ```bash
 npm run build && npx cap sync

@@ -4,7 +4,7 @@ App para aprender catalán de A2 a B2: 60 unidades con gramática explícita, ej
 tipos y repaso espaciado de los errores. Explicaciones en catalán, variante central (norma IEC).
 
 <p align="center">
-  <a href="https://github.com/iggykimi/catala/releases/download/v1.0/catala.apk"><strong>⬇ Descarga la APK (Android)</strong></a>
+  <a href="https://github.com/iggykimi/catala/releases/download/v1.1/catala.apk"><strong>⬇ Descarga la APK (Android)</strong></a>
 </p>
 
 <p align="center">
