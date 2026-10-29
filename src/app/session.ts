@@ -151,3 +151,12 @@ export function finishSessionOnce(
   if (progress.lastAppliedSessionId === sessionId) return progress;
   return { ...applySession(progress, session, items, now), lastAppliedSessionId: sessionId };
 }
+
+/**
+ * Only a clean correct answer auto-advances, and only when the learner keeps the
+ * setting on and the system does not ask for reduced motion: warnings and errors
+ * always wait for Continua.
+ */
+export function shouldAutoAdvance(verdict: Verdict, autoAdvance: boolean, reducedMotion: boolean): boolean {
+  return verdict === "correct" && autoAdvance && !reducedMotion;
+}

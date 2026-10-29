@@ -2,7 +2,7 @@ import { describe, expect, it } from "vitest";
 import { Rating } from "ts-fsrs";
 import type { Item } from "../content/schema";
 import { emptyProgress, streak } from "./progress";
-import { answer, applySession, duePoints, lessonSession, nextLesson, pointRatings, reviewSession, type AppUnit } from "./session";
+import { answer, applySession, duePoints, lessonSession, nextLesson, pointRatings, reviewSession, shouldAutoAdvance, type AppUnit } from "./session";
 
 const item = (n: number, point: string, lesson = 1): Item => ({
   id: `a2-01-00${n}`, type: "choice", point, lesson, explanation: "x",
@@ -125,3 +125,15 @@ describe("progress epoch", () => {
     expect(Object.keys(after.lessons)).toHaveLength(1);
   });
 });
+
+
+describe("auto-advance", () => {
+  it("advances only a clean correct with the setting on and motion allowed", () => {
+    expect(shouldAutoAdvance("correct", true, false)).toBe(true);
+    expect(shouldAutoAdvance("wrong", true, false)).toBe(false);
+    expect(shouldAutoAdvance("accepted", true, false)).toBe(false);
+    expect(shouldAutoAdvance("correct", false, false)).toBe(false);
+    expect(shouldAutoAdvance("correct", true, true)).toBe(false);
+  });
+});
+

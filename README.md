@@ -19,6 +19,7 @@ tipos y repaso espaciado de los errores. Explicaciones en catalán, variante cen
 - Ocho tipos de ejercicio; corrección tolerante con los acentos y estricta con la ortografía.
 - Repaso espaciado por punto gramatical, racha diaria, sonido y vibración.
 - Sesiones recuperables, tema claro/oscuro y copia del progreso en archivo.
+- Respuesta al toque en ejercicios táctiles y avance automático tras acierto (desactivable).
 - Actualización manual: nunca recarga a mitad de lección.
 - Funciona sin conexión; sin cuentas ni servidores.
 

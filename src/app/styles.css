@@ -149,6 +149,12 @@ del { color: var(--bad); }
 
 /* Layout */
 
+/* On touch the app should feel native: no visible scrollbars anywhere, scrolling unaffected. */
+@media (pointer: coarse) {
+  html, body { scrollbar-width: none; }
+  ::-webkit-scrollbar { display: none; }
+}
+
 .screen {
   min-height: 100dvh;
   max-width: 600px;
@@ -603,7 +609,7 @@ del { color: var(--bad); }
 .reading-text { font-family: var(--read); font-weight: 400; font-size: 1.2rem; line-height: 1.85; }
 
 .tokens { line-height: 2.1; }
-.token { display: inline-block; padding: 4px 7px; margin: 2px 1px; border-radius: 10px; font-weight: 700; }
+.token { display: inline-block; padding: 6px 9px; margin: 2px 1px; border-radius: 10px; font-weight: 700; }
 .token.is-selected { background: var(--brand-soft); box-shadow: inset 0 -3px 0 var(--brand); }
 .token.is-error { background: var(--bad-soft); box-shadow: inset 0 -3px 0 var(--bad); }
 .token.is-wrong { background: var(--bad-soft); }
@@ -635,14 +641,18 @@ del { color: var(--bad); }
   bottom: 0;
   z-index: 4;
   max-height: 80dvh;
-  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
   padding: 18px 18px calc(16px + env(safe-area-inset-bottom));
   animation: rise 0.3s cubic-bezier(0.2, 0.9, 0.3, 1.1);
 }
 
 .sheet.is-ok { background: var(--ok-soft); }
 .sheet.is-bad { background: var(--bad-soft); }
-.sheet-inner { max-width: 564px; margin: 0 auto; }
+/* Long explanations scroll inside; Continua stays pinned at the bottom. */
+.sheet-inner { max-width: 564px; width: 100%; margin: 0 auto; overflow-y: auto; min-height: 0; flex: 1; }
+.sheet-bar { max-width: 564px; width: 100%; margin: 10px auto 0; }
+.sheet-bar .sheet-next { width: 100%; }
 
 @keyframes rise {
   from { transform: translateY(100%); }
@@ -674,7 +684,7 @@ del { color: var(--bad); }
 .why, .explanation { font-family: var(--read); font-weight: 400; }
 .more { animation: enter 0.25s ease backwards; }
 .sheet .link { margin: 0 0 4px -4px; }
-.sheet-next { width: 100%; margin-top: 10px; }
+.sheet-next { width: 100%; }
 
 /* Theory overlay inside a session */
 
@@ -731,6 +741,7 @@ del { color: var(--bad); }
 .card h2 { margin: 0; font-size: 1.05rem; font-weight: 900; }
 
 .toggle { display: flex; align-items: center; justify-content: space-between; min-height: 44px; font-weight: 800; }
+.toggle-hint { display: block; font-size: 0.8rem; font-weight: 600; color: var(--ink-soft); }
 
 .toggle input {
   appearance: none;

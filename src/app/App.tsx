@@ -1,3 +1,5 @@
+import { App as CapApp } from "@capacitor/app";
+import type { PluginListenerHandle } from "@capacitor/core";
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { registerSW } from "virtual:pwa-register";
 import units from "virtual:content";
@@ -20,6 +22,7 @@ import {
   nextLesson,
   reviewSession,
   sessionProgress,
+  shouldAutoAdvance,
   unitOfItem,
   type AppUnit,
   type Session,
@@ -104,6 +107,32 @@ export function App() {
     };
     addEventListener("popstate", onPop);
     return () => removeEventListener("popstate", onPop);
+  }, []);
+  // Native Android back: drive the same interceptor chain explicitly instead of relying on
+  // WebView history alone (a consumed press changes no history here; deeper stacks pop through
+  // history.back() so the popstate path stays the single slicing mechanism). On web/PWA the
+  // listener never fires and the popstate path above owns back, as covered by e2e.
+  const stackRef = useRef(stack);
+  stackRef.current = stack;
+  useEffect(() => {
+    let handle: PluginListenerHandle | null = null;
+    let cancelled = false;
+    CapApp.addListener("backButton", () => {
+      for (let i = backHandlers.current.length - 1; i >= 0; i--) {
+        if (backHandlers.current[i]!()) return;
+      }
+      if (stackRef.current.length > 1) history.back();
+      else void CapApp.exitApp();
+    })
+      .then((h) => {
+        if (cancelled) void h.remove();
+        else handle = h;
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+      handle?.remove().catch(() => {});
+    };
   }, []);
   const push = (screen: Screen) => {
     history.pushState({ d: stack.length }, "");
@@ -763,6 +792,17 @@ function SessionScreen({
     cue(r.verdict === "wrong" ? "wrong" : "correct", prefs);
     setResult(r);
   };
+  // A clean correct answer shows the verdict briefly, then moves on by itself. The timer dies
+  // with the result: leaving the session, answering again or a rerender with a new verdict
+  // all cancel it, and warnings/errors always wait for Continua.
+  const nextRef = useRef(() => {});
+  const autoAdvancing =
+    result !== null && shouldAutoAdvance(result.verdict, prefs.autoAdvance, window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+  useEffect(() => {
+    if (!autoAdvancing) return;
+    const t = setTimeout(() => nextRef.current(), 900);
+    return () => clearTimeout(t);
+  }, [autoAdvancing, result]);
   const next = () => {
     if (!result) return;
     const after = answer(session, result.verdict);
@@ -778,6 +818,7 @@ function SessionScreen({
     setTheoryOpen(false);
     setTurn((t) => t + 1);
   };
+  nextRef.current = next;
   const exit = () => {
     if (Object.keys(session.firstTry).length === 0) {
       // Nothing answered yet: leave no draft behind.
@@ -841,6 +882,7 @@ function SessionScreen({
           onFlag={() => onFlag(item.id)}
           onTheory={point && unit.theory[point.id] ? () => setTheoryOpen(true) : undefined}
           onNext={next}
+          autoAdvancing={autoAdvancing}
         />
       )}
       {point && <TheoryDialog open={theoryOpen} html={unit.theory[point.id] ?? ""} onClose={() => setTheoryOpen(false)} />}
@@ -863,6 +905,7 @@ function Feedback({
   onFlag,
   onTheory,
   onNext,
+  autoAdvancing,
 }: {
   result: Result;
   explanation: string;
@@ -870,6 +913,7 @@ function Feedback({
   onFlag: () => void;
   onTheory?: () => void;
   onNext: () => void;
+  autoAdvancing: boolean;
 }) {
   const ok = result.verdict !== "wrong";
   const [why, setWhy] = useState(false);
@@ -935,10 +979,14 @@ function Feedback({
               Per què?
             </button>
           ))}
-        <button className={`btn ${ok ? "btn-ok" : "btn-bad"} sheet-next`} autoFocus onClick={onNext}>
-          Continua
-        </button>
       </div>
+      {!autoAdvancing && (
+        <div className="sheet-bar">
+          <button className={`btn ${ok ? "btn-ok" : "btn-bad"} sheet-next`} autoFocus onClick={onNext}>
+            Continua
+          </button>
+        </div>
+      )}
     </section>
   );
 }
@@ -1006,10 +1054,13 @@ function Summary({
   );
 }
 
-function Toggle({ label, on, onChange }: { label: string; on: boolean; onChange: (v: boolean) => void }) {
+function Toggle({ label, hint, on, onChange }: { label: string; hint?: string; on: boolean; onChange: (v: boolean) => void }) {
   return (
     <label className="toggle">
-      <span>{label}</span>
+      <span>
+        {label}
+        {hint && <small className="toggle-hint">{hint}</small>}
+      </span>
       <input type="checkbox" role="switch" checked={on} onChange={(e) => onChange(e.target.checked)} />
     </label>
   );
@@ -1085,6 +1136,12 @@ function Settings({
         <section className="card">
           <Toggle label="So" on={prefs.sound} onChange={(sound) => updatePrefs({ ...prefs, sound })} />
           <Toggle label="Vibració" on={prefs.vibration} onChange={(vibration) => updatePrefs({ ...prefs, vibration })} />
+          <Toggle
+            label="Avanç automàtic"
+            hint="Avança sol després d'un encert"
+            on={prefs.autoAdvance}
+            onChange={(autoAdvance) => updatePrefs({ ...prefs, autoAdvance })}
+          />
         </section>
         <section className="card">
           <fieldset className="theme-group">

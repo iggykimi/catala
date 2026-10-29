@@ -9,10 +9,11 @@ export interface Prefs {
   sound: boolean;
   vibration: boolean;
   theme: Theme;
+  autoAdvance: boolean;
 }
 
 const KEY = "catala.prefs.v1";
-const DEFAULTS: Prefs = { sound: true, vibration: true, theme: "system" };
+const DEFAULTS: Prefs = { sound: true, vibration: true, theme: "system", autoAdvance: true };
 
 const isTheme = (v: unknown): v is Theme => v === "system" || v === "light" || v === "dark";
 
@@ -23,6 +24,7 @@ export function loadPrefs(): Prefs {
       sound: typeof raw.sound === "boolean" ? raw.sound : DEFAULTS.sound,
       vibration: typeof raw.vibration === "boolean" ? raw.vibration : DEFAULTS.vibration,
       theme: isTheme(raw.theme) ? raw.theme : DEFAULTS.theme,
+      autoAdvance: typeof raw.autoAdvance === "boolean" ? raw.autoAdvance : DEFAULTS.autoAdvance,
     };
   } catch {
     return { ...DEFAULTS };

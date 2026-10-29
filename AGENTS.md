@@ -109,6 +109,10 @@ detecta distractores que sean correctos ni explicaciones falsas, así que no sus
 - 2026-10-29 — Issue #2 mergeado (hardening: generaciones progreso-borrador, restauración
   unificada, PWA verificada con test propio, atrás unificado, Reprèn protagonista, teoría en
   diálogo, E2E-01..08). e2e 81/81, unitarios 68/68. CI excluido por decisión del usuario.
-- 2026-10-29 — APK v1.1 publicada con #1+#2. Issue #3 (auditoría) en rama `issue-3-polish`:
-  contraste de errores en oscuro, docs al día, validación completa. **Pendiente: probar la v1.1
-  en el móvil y dar feedback.**
+- 2026-10-29 — APK v1.1 publicada con #1+#2. Issue #3 mergeado (contraste errores en oscuro,
+  docs al día); APK v1.1.1 publicada (misma clave debug `0c57f6af…`, actualiza sin desinstalar).
+- 2026-10-29 — Issue #4 hecho en rama `issue-4-android-feel` (pendiente merge/release): feel Android
+  nativo (@capacitor/app + atrás unificado, sin scrollbars en táctil, auto-check por tipo, avance
+  automático con preferencia, bandera en todo feedback, Continua visible, distribución táctil).
+  Puertas: typecheck 0, tests 69/69, validate 60/0, e2e 88/88, capturas revisadas, APK local
+  `catala-issue4.apk` (misma clave `0c57f6af…`). **Pendiente: probarlo en el móvil y dar feedback.**

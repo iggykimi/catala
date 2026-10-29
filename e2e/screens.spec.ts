@@ -3,7 +3,11 @@
 import { expect, test, type Page } from "@playwright/test";
 import type { Item } from "../src/content/schema";
 import { lessonSession } from "../src/app/session";
-import { answerRight, check, escape, expectVerdict, playLesson, plain, skipIntro, units } from "./helpers";
+import { answerRight, check, escape, expectVerdict, playLesson, plain, seedPrefs, skipIntro, units } from "./helpers";
+
+test.beforeEach(async ({ page }) => {
+  await seedPrefs(page, { sound: true, vibration: true, theme: "system", autoAdvance: false });
+});
 
 /** Renders text without diacritics, e.g. an accent slip a tolerant grader accepts. */
 const stripAccents = (s: string) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -128,10 +132,9 @@ for (const scheme of ["light", "dark"] as const) {
     }
     await page.getByRole("button", { name: "Comença", exact: true }).click();
     const l1 = lessonSession(unit, 1).queue;
-    await page.locator(".option").first().click();
     await shot(page, `${scheme}-06-choice`);
     await page.locator(".option").filter({ hasNotText: (l1[0] as Extract<Item, { type: "choice" }>).answer }).first().click();
-    await check(page);
+    await expectVerdict(page, "Incorrecte");
     await shot(page, `${scheme}-07-feedback-wrong`);
     await page.getByRole("button", { name: "Per què?" }).click();
     await shot(page, `${scheme}-08-feedback-why`);
@@ -206,7 +209,6 @@ for (const scheme of ["light", "dark"] as const) {
     for (const [qi, q] of reading.questions.slice(1).entries()) {
       await page.locator(".question").nth(qi + 1).locator(".option").filter({ hasText: new RegExp(`^${escape(plain(q.answer))}$`) }).click();
     }
-    await check(page);
     await expectVerdict(page, "Incorrecte");
     await shot(page, `${scheme}-23-reading-errors`);
     await next(page);

@@ -56,7 +56,8 @@ cada toque responde, el progreso se celebra y la racha diaria es el único eleme
 | Aspa para salir | Pide confirmación solo si ya has respondido algo. |
 | Cada ejercicio entra deslizándose | Se ve que ha cambiado el ejercicio, no hay un salto. |
 | La opción elegida aparece en el hueco de la frase | Lees la frase completa antes de comprobar. |
-| **Comprova**, siempre abajo y gris hasta que hay respuesta | Al alcance del pulgar, en el mismo sitio en todos los ejercicios. |
+| **Comprova** en texto libre; respuesta inmediata en táctiles | Tocar es responder (choice, find-error, inline, order, reading, match); solo el texto libre espera a Comprova, también con la tecla Go del teclado. |
+| **Avanç automàtic** tras acierto limpio (desactivable) | Ver el «Correcte» un segundo y seguir mantiene el ritmo; avisos y errores siempre esperan a Continua, igual que con movimiento reducido. |
 | Consigna en gris | Solo cuando el tipo de ejercicio no se explica solo. |
 
 ## Resultado
@@ -105,6 +106,8 @@ elementos fijos de dentro (la barra de **Comprova**) dejarían de estar pegados 
 ## Navegación
 
 - Una pila de pantallas reflejada en el historial: el botón atrás de Android vuelve a la anterior.
+- En la APK, un oyente nativo (`@capacitor/app`) recorre la misma cadena de interceptores; en casa,
+  sale de la app. En web manda el historial, con idénticas reglas.
 - Atrás sigue las mismas reglas que Surt: primero cierra el modal abierto, descarta una sesión vacía
   sin preguntar y pide confirmación antes de dejar una a medias.
 - Al terminar una lección, **Continua** vuelve al inicio, que ya muestra la siguiente.
